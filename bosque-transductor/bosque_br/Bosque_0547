@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB tentar)
+     )
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VB recuperar)
+      )
+      (PP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN jet_lag)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN correria)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN exposição)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN marido)
+            )
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NNP Yerba_Buena)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Regina_Casé)
+   )
+   (VP 
+    (VBP fez)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NN saída)
+   )
+   (ADVP 
+    (RB pela_tangente)
+   )
+  )
+ )
+)

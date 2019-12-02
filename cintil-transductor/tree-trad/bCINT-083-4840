@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Sabemos)
+      (CONJP 
+       (CC que)
+       (S 
+        (S 
+         (VP 
+          (PP 
+           (PP 
+            (IN para)
+            (NP 
+             (DT aquela)
+             (NNS gente)
+            )
+           )
+          )
+          (VP 
+           (VB é)
+           (NP 
+            (DT um)
+            (NP 
+             (NNS dado)
+             (JJ adquirido)
+            )
+           )
+          )
+         )
+        )
+        (S 
+         (S 
+          (VP 
+           (VB querem)
+           (VP 
+            (VB perpetuá)
+            (NP 
+             (PRP -lo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (PRP nós)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB podemos)
+      )
+      (VP 
+       (VB estimular)
+       (NP 
+        (DT essa)
+        (NP 
+         (NNS decisão)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS povo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

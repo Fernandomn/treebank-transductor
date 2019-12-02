@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Voto)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Fernando_Henrique)
+     )
+    )
+    (VP 
+     (IN porque)
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP fez)
+     )
+     (NP 
+      (DT o)
+      (NNP Plano_Real)
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (DT o)
+    (NP vice-prefeito)
+    (NP 
+     (NNP Manoel_Lopes_Duarte)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PPR)
+     )
+    )
+   )
+  )
+ )
+)

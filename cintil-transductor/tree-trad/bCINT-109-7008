@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS instituto)
+   )
+   (VP 
+    (VP 
+     (VB continua)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS instância)
+         (JJ orientadora)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN sem)
+      (NP 
+       (PRP qualquer)
+       (NNS paternalismo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

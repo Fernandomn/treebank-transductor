@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Qualquer)
+    (NP 
+     (NNS cidadão)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (ADVP 
+         (RB mais)
+         (RB de)
+        )
+        (CD 35)
+       )
+       (NNS anos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VB ser)
+     (NP 
+      (NNS candidato)
+     )
+    )
+   )
+  )
+ )
+)

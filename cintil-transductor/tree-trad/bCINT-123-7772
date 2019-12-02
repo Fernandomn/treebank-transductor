@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Doravante)
+    )
+    (VP 
+     (VB somos)
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS pedra)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS sapato)
+           )
+           (PP 
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS presidente)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NP 
+                  (NNS Tribunal)
+                  (PP 
+                   (IN de)
+                   (NP 
+                    (NNS Paris)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+            (PP 
+             (CC e)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS Procurador-Geral)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

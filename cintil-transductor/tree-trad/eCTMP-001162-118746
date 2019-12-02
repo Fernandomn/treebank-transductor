@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em)
+      (NP 
+       (CD quatro)
+      )
+     )
+     (VP 
+      (VB foi)
+      (VB absolvido)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (CD quinto)
+       (NNS julgamento)
+      )
+     )
+     (VP 
+      (VP 
+       (VB foi)
+       (VB anulado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS irregularidades)
+         (JJ técnicas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

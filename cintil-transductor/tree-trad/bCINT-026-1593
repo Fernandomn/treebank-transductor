@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Há)
+    (NP 
+     (NP 
+      (NP 
+       (NNS situações)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS malformação)
+        )
+       )
+      )
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (DT a)
+         (NNS eutanásia)
+        )
+        (VP 
+         (VP 
+          (VB é)
+          (NP 
+           (DT a)
+           (NP 
+            (JJ própria)
+            (NNS natureza)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Jimmy)
+     (NNS Johnson)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS oposto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Levy)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Xeque)
+    (NNS Yassin)
+   )
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS espera)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS liberdade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

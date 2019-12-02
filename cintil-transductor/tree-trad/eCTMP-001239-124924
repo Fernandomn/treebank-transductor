@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS homens)
+    )
+    (VP 
+     (VP 
+      (VB procuram)
+      (NP 
+       (DT a)
+       (NNS religião)
+      )
+     )
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VB vêem)
+        (NP 
+         (NP 
+          (NNS alterações)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS comportamento)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT as)
+               (NNS esposas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

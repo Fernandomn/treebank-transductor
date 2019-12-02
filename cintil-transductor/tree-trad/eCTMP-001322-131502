@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Bundesbank)
+  )
+  (VP 
+   (VB anunciou)
+   (NP 
+    (NP 
+     (NNS corte)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS taxas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS juro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

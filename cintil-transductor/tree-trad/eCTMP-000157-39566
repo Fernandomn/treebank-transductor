@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS palestinianos)
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB tentaram)
+     (VP 
+      (VP 
+       (VB deitar)
+       (NP 
+        (NNS água)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS fervura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

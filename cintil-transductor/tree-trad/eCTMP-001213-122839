@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Bill)
+    (NNS Clinton)
+   )
+  )
+  (VP 
+   (VP 
+    (VB visitou)
+    (RB ontem)
+   )
+   (NP 
+    (DT a)
+    (NNS Bósnia-Herzegovina)
+   )
+  )
+ )
+)

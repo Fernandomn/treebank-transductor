@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS doentes)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS sida)
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB vivam)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS Porto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB têm)
+    )
+    (NP 
+     (PRP nenhuma)
+     (NP 
+      (NNS instituição)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP os)
+         )
+         (VB acolha)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

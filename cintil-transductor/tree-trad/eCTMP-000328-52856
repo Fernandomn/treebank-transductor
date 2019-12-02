@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Agora)
+     )
+     (VP 
+      (VB foi)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS CONCACAF)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB a)
+        (RB seguir)
+       )
+      )
+      (VP 
+       (VB despediu)
+       (NP 
+        (NP 
+         (DT o)
+         (NNS treinador)
+        )
+        (NP 
+         (NNS Milutinovic)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS transação)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS urânio)
+         (JJ sul-africano)
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN através)
+       (IN de)
+      )
+      (NP 
+       (NNS Moçambique)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (RB devidamente)
+    )
+    (JJ documentada)
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP ele)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS sida)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS problema)
+        (ADJP 
+         (RB muito)
+         (JJ grave)
+        )
+       )
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (JJ constante)
+           (NNS evolução)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

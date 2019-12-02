@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS povo)
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VB votar)
+      (ADVP 
+       (RB muito)
+       (RB sinceramente)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB ligam)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT essas)
+        (NNS coisas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS AI)
+    (NNS Portuense)
+   )
+  )
+  (VP 
+   (VB contesta)
+   (NP 
+    (NP 
+     (NNS fecho)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Bolsa)
+        (NNS de_)
+        (NNS o)
+        (NNS Porto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

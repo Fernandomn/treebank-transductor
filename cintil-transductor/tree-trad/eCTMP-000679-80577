@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Foi)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS dia)
+        (ADJP 
+         (RB muito)
+         (JJ tranquilo)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (RB só)
+       (VP 
+        (VB tive)
+        (NP 
+         (NP 
+          (NNS medo)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS quedas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

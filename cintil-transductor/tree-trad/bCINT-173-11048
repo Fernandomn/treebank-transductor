@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS música)
+     (JJ clássica)
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN a)
+     (VP 
+      (VB dominar)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS agenda)
+         (JJ musical)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT estes)
+          (NNS dias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

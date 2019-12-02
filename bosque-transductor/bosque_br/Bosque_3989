@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Eddie)
+    (NP 
+     (NNP Harvey_Keitel)
+    )
+   )
+   (VP 
+    (VBP dirige)
+   )
+   (NP 
+    (DT a)
+    (NN história)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN casal)
+      (PP 
+       (IN de)
+       (NP 
+        (NN ricos)
+        (NP 
+         (NN drogados)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN crise)
+       )
+      )
+      (NP 
+       (NP 
+        (NNP Madonna)
+       )
+       e
+       (NP 
+        (NNP James_Russo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

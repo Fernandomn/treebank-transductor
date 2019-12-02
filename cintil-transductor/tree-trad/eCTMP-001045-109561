@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS noiva)
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS moça)
+        (JJ encantadora)
+       )
+       (PP 
+        (PP 
+         (RB também)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS classe)
+             (JJ média)
+            )
+            (JJ alta)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

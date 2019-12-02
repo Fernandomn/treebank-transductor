@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (JJ Péssimo)
+   (NN começo)
+   (PP 
+    (IN de)
+    (NP 
+     (NN temporada)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT os)
+     (CD dois)
+     (JJ melhores)
+     (NN tenistas)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mundo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

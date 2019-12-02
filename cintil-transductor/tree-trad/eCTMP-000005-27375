@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS Sporting)
+      (NNS de)
+      (NNS Braga-Guimarães)
+     )
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (PP 
+       (IN a)
+       (VP 
+        (VB suscitar)
+        (NP 
+         (NP 
+          (JJ grande)
+          (NNS interesse)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS região)
+        (JJ minhota)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS procura)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS bilhetes)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB tem)
+       (VB decorrido)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (JJ bom)
+         (NNS ritmo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

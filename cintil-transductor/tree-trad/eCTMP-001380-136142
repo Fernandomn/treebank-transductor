@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS comunicado)
+       (ADJP 
+        (VB distribuído)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS capital)
+           (JJ indonésia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (CD dois)
+      (NNS deputados)
+     )
+    )
+    (VP 
+     (VB sublinharam)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS destaque)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS imprensa)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS região)
+            )
+           )
+          )
+         )
+         (VP 
+          (VP 
+           (VB deu)
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT as)
+            (NP 
+             (PP suas)
+             (NNS posições)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

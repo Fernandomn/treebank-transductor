@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Durante)
+    (NP 
+     (NP 
+      (CD dois)
+      (NNS dias)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (CD 23)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (CD 24)
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Julho)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ar)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS cidade)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB terá)
+     (NP 
+      (NP 
+       (JJ melhor)
+       (NNS qualidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

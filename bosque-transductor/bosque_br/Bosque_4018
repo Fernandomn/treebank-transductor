@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN exemplo)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN bacia)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Vale_do_Piracicaba)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (CD 170)
+      (NN quilômetros)
+      (PP 
+       (IN a)
+       (NP 
+        (NN noroeste)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

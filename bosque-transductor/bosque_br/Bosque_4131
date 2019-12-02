@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (S 
+    (NP 
+     (DT Qual)
+    )
+    (NP 
+     (DT o)
+     (NN segredo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN vitória)
+      )
+     )
+    )
+   )
+  )
+ )
+)

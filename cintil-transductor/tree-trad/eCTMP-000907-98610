@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS aposta)
+      (PP 
+       (IN de_)
+       (NP 
+        (NP 
+         (DT a)
+         (NNS Casterman)
+        )
+        (NP 
+         (NP 
+          (DT uma)
+          (NP 
+           (NP 
+            (NNS editora)
+            (JJ francesa)
+           )
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB continua)
+              (PP 
+               (IN a)
+               (VP 
+                (VB marcar)
+                (NP 
+                 (NNS pontos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN ocasião)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP PMDB)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP apoiou)
+     )
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB agora)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP estaria)
+     )
+     (ADJP 
+      (RB totalmente)
+      (VBN unido)
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB repetir)
+        )
+        (NP 
+         (DT a)
+         (NN dose)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

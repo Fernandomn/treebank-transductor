@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT as)
+      (NNS motos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Matteo)
+      (NNS Graziani)
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS KTM)
+       )
+      )
+     )
+     (VP 
+      (VB realizou)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (JJ melhor)
+         (NNS tempo)
+        )
+        (PP 
+         (PP 
+          (PP 
+           (IN a_)
+           (IN a)
+           (IN frente)
+           (IN de_)
+          )
+          (NP 
+           (DT o)
+           (NP 
+            (NNS francês)
+            (NP 
+             (NNS Cyril)
+             (NNS Despres)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

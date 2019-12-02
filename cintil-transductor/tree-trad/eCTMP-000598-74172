@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS proposta)
+     )
+     (VP 
+      (VB foi)
+      (VP 
+       (VB apresentada)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Grupo)
+          (NNS Parlamentar)
+          (NNS de_)
+          (NNS o)
+          (NNS PCP)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB recebeu)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS aprovação)
+         (JJ unânime)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS deputados)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB integram)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS Comissão)
+                (NNS Parlamentar)
+                (NNS de)
+                (NNS Defesa)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

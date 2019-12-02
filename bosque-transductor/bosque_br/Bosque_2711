@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN vinho)
+    (UCP 
+     (ADJP 
+      (RB bem)
+      (JJ seco)
+     )
+     e
+     (VBN encorpado)
+    )
+    (ADJP 
+     (JJ capaz)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB escoltar)
+       )
+       (NP 
+        (DT uma)
+        (NN refeição)
+        (ADJP 
+         (JJ completa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

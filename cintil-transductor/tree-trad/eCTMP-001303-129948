@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS história)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS A)
+        (NNS Woman)
+        (NNS of)
+        (NNS Paris)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB conta)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (PRP poucas)
+       (NNS palavras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

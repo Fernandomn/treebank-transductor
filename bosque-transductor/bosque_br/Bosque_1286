@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NN Total)
+   (PP 
+    (IN de)
+    (NP 
+     (NN mortos)
+     (PP 
+      (IN em)
+      (NP 
+       (CD 92)
+      )
+     )
+    )
+   )
+   (ADJP 
+    (CD 310)
+   )
+  )
+ )
+)

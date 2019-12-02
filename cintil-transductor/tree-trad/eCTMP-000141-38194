@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (NP 
+       (DT as)
+       (NP 
+        (NNS milícias)
+        (JJ paramilitares)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Exército)
+         (JJ sérvio)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS momento)
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS mobilização)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS livro)
+   )
+   (VP 
+    (VB pega)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS situações)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS série)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (DT uma)
+           (NP 
+            (CD primeira)
+            (NP 
+             (NNS sinopse)
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VB escrevi)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

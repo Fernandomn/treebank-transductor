@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Câmara)
+    (NNS de)
+    (NNS Loulé)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS conflito)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Comissão)
+         (NNS de)
+         (NNS Coordenação)
+         (NNS Regional)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

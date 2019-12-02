@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ óbvio)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (NP 
+       (PRP quem)
+      )
+      (S 
+       (VP 
+        (VB lucra)
+        (PP 
+         (IN com)
+         (NP 
+          (DT esta)
+          (NNS situação)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB são)
+       )
+      )
+      (NP 
+       (NP 
+        (DT os)
+        (NNS toxicodependentes)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT as)
+         (NP 
+          (PP suas)
+          (NNS famílias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

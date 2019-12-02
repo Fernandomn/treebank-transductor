@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Aniversário)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS JSD)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS tempo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS pré-campanha)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

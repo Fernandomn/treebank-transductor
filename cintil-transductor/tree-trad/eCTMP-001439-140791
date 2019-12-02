@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS imprensa)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB fortemente)
+     )
+     (VP 
+      (VB controlada)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS governo)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS partidos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS oposição)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB são)
+       )
+       (RB minimamente)
+      )
+      (VB apoiados)
+     )
+    )
+   )
+  )
+ )
+)

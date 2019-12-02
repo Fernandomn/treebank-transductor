@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Maria_Elisa_Flora_Demarchi)
+   )
+   (ADJP 
+    (CD 15)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN internada)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN estado)
+      (ADJP 
+       (JJ grave)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Hospital_do_Mandaqui)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Nova_York)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP FBI)
+    (NP 
+     (NNP Federal_Bureau_Investigation)
+    )
+    (NP 
+     (DT a)
+     (NN polícia)
+     (ADJP 
+      (JJ federal)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NNP Estados_Unidos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (NP 
+    (DT uma)
+    (NN ligação)
+    (ADJP 
+     (JJ anônima)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN noite)
+       (PP 
+        (IN de)
+        (RB anteontem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG informando)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN Consulado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Israel)
+       )
+      )
+     )
+     (VP 
+      (VBP sofreria)
+     )
+     (NP 
+      (DT um)
+      (NN atentado)
+      (PP 
+       (IN a)
+       (NP 
+        (NN bomba)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

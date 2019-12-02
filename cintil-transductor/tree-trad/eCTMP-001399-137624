@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Logan)
+   )
+   (VP 
+    (VP 
+     (VB resumiu)
+     (NP 
+      (PRP tudo)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (ADVP 
+        (ADVP 
+         (RB pouco)
+         (RB depois)
+        )
+       )
+       (VB declarou)
+      )
+     )
+    )
+   )
+  )
+ )
+)

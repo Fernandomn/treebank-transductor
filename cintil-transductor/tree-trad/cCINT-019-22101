@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mãe)
+   )
+   (VP 
+    (VB sabe)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP eu)
+      )
+      (VP 
+       (VB sou)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS craque)
+         (PP 
+          (IN a)
+          (NP 
+           (NNS Matemática)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS revista)
+   )
+   (VP 
+    (VB começou)
+    (PP 
+     (IN a)
+     (VP 
+      (VB ser)
+      (VP 
+       (VP 
+        (VB feita)
+        (RB exclusivamente)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NP 
+           (NNS Lourdes)
+           (NNS Castro)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS René)
+            (NNS Bertholo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

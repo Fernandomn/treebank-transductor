@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Curso)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS dança)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NNS Verão)
+   )
+  )
+ )
+)

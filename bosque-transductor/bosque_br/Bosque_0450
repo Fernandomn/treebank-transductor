@@ -1,0 +1,113 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tem)
+    (IN que)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB pensar)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT uma)
+     (NN empresa)
+     (PP 
+      (IN com)
+      (NP 
+       (NN modelo)
+       (ADJP 
+        (JJ acionário)
+       )
+       (ADJP 
+        (JJ flexível)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP permita)
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VB incorporar)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (DT uma)
+            (JJ única)
+            (NN marca)
+           )
+          )
+          (NP 
+           (DT os)
+           (NN esforços)
+           (ADJP 
+            (JJ individuais)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT esses)
+             (NN criadores)
+            )
+           )
+          )
+         )
+         e
+         (VP 
+          (VP 
+           (VB dispor)
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN sinergia)
+            (ADJP 
+             (JJ necessária)
+            )
+           )
+          )
+          (PP 
+           (IN para)
+           (VP 
+            (VP 
+             (VB investir)
+            )
+            (PP 
+             (IN em+)
+             (NP 
+              (DT o)
+              (NN mercado)
+              (ADJP 
+               (JJ internacional)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

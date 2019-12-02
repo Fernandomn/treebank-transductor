@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS continuidade)
+     (PP 
+      (IN de)
+      (NP 
+       (PRP várias)
+       (NP 
+        (NNS séries)
+        (ADJP 
+         (RB já)
+         (ADJP 
+          (VB exibidas)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Portugal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB foi)
+     (VP 
+      (VB assegurada)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS televisões)
+         (JJ nacionais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

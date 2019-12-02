@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (CD 1.900)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NNS convites)
+      (ADJP 
+       (VB feitos)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Casa)
+          (NNS Real)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (CD última)
+        (NP 
+         (NP 
+          (NNS homenagem)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS princesa)
+             (NNS de)
+             (NNS Gales)
+            )
+           )
+          )
+         )
+         (PP 
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Abadia)
+             (NNS de)
+             (NNS Westminster)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

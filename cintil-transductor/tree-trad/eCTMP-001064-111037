@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB Vai)
+       (VP 
+        (VB ser)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS Carnaval)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB anuncia)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PÚBLICO)
+      )
+     )
+    )
+   )
+  )
+ )
+)

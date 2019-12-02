@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Está)
+       (PP 
+        (IN a)
+        (VB chover)
+       )
+      )
+      (RB demais)
+     )
+    )
+    (S 
+     (VP 
+      (VB vamos)
+      (PP 
+       (IN para)
+       (NP 
+        (DT aquela)
+        (NNS casinha)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

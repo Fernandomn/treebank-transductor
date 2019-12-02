@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Por)
+     (IN causa)
+     (IN de_)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS processo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS urbanização)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Portela)
+            (NNS de_)
+            (NNS a)
+            (NNS Azóia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

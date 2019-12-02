@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Hoje)
+    (VP 
+     (ADVP 
+      (RB possivelmente)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB pensa)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ mesmo)
+         (NNS modo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

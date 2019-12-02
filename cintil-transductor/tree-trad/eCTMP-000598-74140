@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NP 
+      (NNS faculdades)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Economia)
+       )
+      )
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB hoje)
+     )
+     (VP 
+      (VB são)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS centro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS ortodoxia)
+           (JJ socialista)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

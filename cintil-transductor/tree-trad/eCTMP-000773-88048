@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Deputado)
+    (JJ cabo-verdiano)
+   )
+  )
+  (VP 
+   (VB foge)
+   (PP 
+    (IN para)
+    (NP 
+     (NNS Portugal)
+    )
+   )
+  )
+ )
+)

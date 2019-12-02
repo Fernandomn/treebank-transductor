@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Aquele)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB é)
+         (ADVP 
+          (ADVP 
+           (RB cada)
+           (RB vez)
+           (RB mais)
+          )
+         )
+        )
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Richelieu)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS regime)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB conhece)
+     (RB perfeitamente)
+    )
+    (NP 
+     (DT as)
+     (NNS razões)
+    )
+   )
+  )
+ )
+)

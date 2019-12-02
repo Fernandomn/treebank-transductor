@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS criação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS textos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VP 
+      (VB ser)
+      (VB efectuada)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS editor)
+        (JJ habitual)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

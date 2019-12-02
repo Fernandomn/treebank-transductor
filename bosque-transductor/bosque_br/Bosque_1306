@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN cargos)
+    (VBN oferecidos)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+   (NP 
+    (NP 
+     (NN gerência)
+     (PP 
+      (IN de)
+      (NP 
+       (NN produção)
+       (ADJP 
+        (JJ industrial)
+       )
+      )
+     )
+    )
+    (NP 
+     (NN engenharia)
+     (PP 
+      (IN de)
+      (NP 
+       (NN projeto)
+      )
+     )
+    )
+    ou
+    (NP 
+     (NN desenvolvimento)
+     (PP 
+      (IN de)
+      (NP 
+       (NN produtos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

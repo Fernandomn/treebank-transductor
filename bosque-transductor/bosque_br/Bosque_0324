@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Ficou)
+   )
+   (ADVP 
+    (RB então)
+   )
+   (VP 
+    (VBG sabendo)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT sua)
+     (NP 
+      (NP 
+       (NN intenção)
+      )
+      ou
+      (NP 
+       (NN sonho)
+      )
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB transformar)
+       )
+       (NP 
+        (DT o)
+        (NN resultado)
+        (PP 
+         (IN em)
+         (NP 
+          (DT uma)
+          (NN exposição)
+          (PP 
+           (RB inclusive)
+           (IN de+)
+           (NP 
+            (DT os)
+            (JJ primeiros)
+            (NN contatos)
+            (PP 
+             (IN em+)
+             (NP 
+              (DT esse)
+              (NN sentido)
+             )
+            )
+            (PP 
+             (IN com)
+             (NP 
+              (DT a)
+              (NNP Pinacoteca_de_São_Paulo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Trata)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS percurso)
+         (PP 
+          (IN de)
+          (NP 
+           (CD 13)
+           (NNS quilómetros)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS zona)
+          (JJ verde)
+         )
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB poderá)
+         (VP 
+          (VP 
+           (VB ser)
+           (VB explorado)
+          )
+          (PP 
+           (RB também)
+           (PP 
+            (IN com)
+            (NP 
+             (NNS dresinas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

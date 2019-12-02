@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (NP 
+      (NNS John)
+      (NNS Fladgate)
+     )
+    )
+   )
+   (VP 
+    (VB teve)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS presença)
+      (ADJP 
+       (JJ forte)
+       (ADJP 
+        (CC mas)
+        (JJ efémera)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

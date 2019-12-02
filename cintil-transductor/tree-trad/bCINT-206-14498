@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS total)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (CD 395)
+      (NNS bovinos)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (CD 20)
+        (NNS ovinos)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (CD 67)
+         (NNS porcos)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB estavam)
+      (JJ doentes)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esta)
+       (NNS data)
+      )
+     )
+    )
+   )
+  )
+ )
+)

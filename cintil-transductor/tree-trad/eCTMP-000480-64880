@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Casa)
+    (NNS de_)
+    (NNS o)
+    (NNS Vinho)
+    (NNS Verde)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Porto)
+    )
+   )
+  )
+ )
+)

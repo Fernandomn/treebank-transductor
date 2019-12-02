@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS questão)
+    )
+   )
+   (S 
+    (VP 
+     (VB estiveram)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT as)
+       (NP 
+        (NNS mudanças)
+        (JJ sociais)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT a)
+         (NNS paternidade)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT a)
+          (NNS sexualidade)
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB condicionam)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS vida)
+          (JJ familiar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

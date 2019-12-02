@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Baixa)
+    )
+    (NP 
+     (DT o)
+     (NN carcamano)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP você)
+    )
+    (VP 
+     (VBP esquece)
+    )
+    (NP 
+     (DT a)
+     (NN noção)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN ridículo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

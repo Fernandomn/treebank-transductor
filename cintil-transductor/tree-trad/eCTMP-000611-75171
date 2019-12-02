@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS líder)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS grupo)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB protestou)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NNS relvado)
+             )
+            )
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS frase)
+              (NP 
+               (NP 
+                (NNS Stop)
+                (NNS it)
+                (NNS Chirac)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

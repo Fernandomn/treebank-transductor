@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Criminoso)
+  )
+  (VP 
+   (VB diz)
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (VB foi)
+      (VP 
+       (VB contratado)
+       (PP 
+        (IN por)
+        (NP 
+         (NNS Winnie)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

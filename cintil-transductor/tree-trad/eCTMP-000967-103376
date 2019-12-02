@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT este)
+        (NNS momento)
+       )
+      )
+     )
+     (VP 
+      (VB estou)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (CD 80)
+         (NP 
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (PP minhas)
+             (NNS capacidades)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

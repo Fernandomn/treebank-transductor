@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (CD Dois)
+     (NNS mortos)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (CD dois)
+      (NP 
+       (NNS feridos)
+       (JJ graves)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS fábrica)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS foguetes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

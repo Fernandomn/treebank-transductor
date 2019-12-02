@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Criação)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS enguias)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS cativeiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB apoiada)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS Câmara)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,140 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN caso)
+    (NP 
+     (NNP Paubrasil)
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP rendeu)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Receita_Federal)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT o)
+     (NN coordenador-geral)
+     (PP 
+      (IN de)
+      (NP 
+       (NN fiscalização)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN órgão)
+        )
+       )
+      )
+     )
+     (NP 
+      (NNP Luiz_Henrique_Barros_de_Arruda)
+     )
+    )
+   )
+   (NP 
+    (RB cerca_de)
+    (NN US$)
+    (NP 
+     (CD 1.5)
+     (NN milhão)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN crédito)
+     (ADJP 
+      (JJ tributário)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN soma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN imposto)
+       (PP 
+        (IN devido)
+        (NP 
+         (NP 
+          (NN multas)
+         )
+         (NP 
+          (NN correção)
+          (ADJP 
+           (JJ monetária)
+          )
+         )
+         e
+         (NP 
+          (NN juros)
+          (PP 
+           (IN de)
+           (NP 
+            (NN mora)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (PP 
+      (IN de)
+      (NP 
+       (ADJP 
+        (RB cerca_de)
+        (CD 20)
+       )
+       (NN empresas)
+       (VP 
+        (VP 
+         (VBN envolvidas)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN escândalo)
+         )
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP procuraram)
+        )
+        (NP 
+         (DT a)
+         (NN Receita)
+        )
+        (ADVP 
+         (RB espontaneamente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

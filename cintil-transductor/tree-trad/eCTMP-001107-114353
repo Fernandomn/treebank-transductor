@@ -1,0 +1,100 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (RB Finalmente)
+     )
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Direcção-Geral)
+         (NNS de)
+         (NNS Saúde)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS Administrações)
+          (NNS Regionais)
+          (NNS de)
+          (NNS Saúde)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (PP 
+     (IN por_)
+     (NP 
+      (DT as)
+      (NP 
+       (PP suas)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (NNS incumbências)
+     )
+     (VP 
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS matéria)
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS vigilância)
+           (JJ sanitária)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS água)
+           )
+          )
+         )
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (NNS Portugal)
+           )
+           (VP 
+            (VB bebe)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

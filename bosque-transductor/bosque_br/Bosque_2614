@@ -1,0 +1,107 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN operário)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN construção)
+      (ADJP 
+       (JJ civil)
+      )
+     )
+    )
+    (UCP 
+     (ADJP 
+      (JJ negro)
+     )
+     e
+     (VBN desempregado)
+    )
+    (NP 
+     (NNP Rodney_King)
+     (NP 
+      (CD 28)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB receber)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 3.8)
+     (NN milhões)
+    )
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN Prefeitura)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Los_Angeles)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (NN compensação)
+     (PP 
+      (IN por+)
+      (NP 
+       (DT os)
+       (NN efeitos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN surra)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP levou)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (CD quatro)
+            (NN policiais)
+            (ADJP 
+             (JJ brancos)
+            )
+           )
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NN março)
+            (PP 
+             (IN de)
+             (ADJP 
+              (CD 1991)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NP 
+       (JJ restantes)
+       (NP 
+        (NNS elementos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS grupo)
+         )
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VB fugiram)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB moram)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS bairro)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT as)
+      (NNS autoridades)
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB possuem)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS identidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

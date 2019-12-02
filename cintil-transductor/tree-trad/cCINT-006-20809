@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Só)
+      (VP 
+       (VB podia)
+       (VP 
+        (VB ser)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (PP nossos)
+           (NP 
+            (NNS livros)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Português)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB está)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (PRP nenhum)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

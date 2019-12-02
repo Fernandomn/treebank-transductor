@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Convencido)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (NP 
+       (NNP Munhoz)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (DT uma)
+       (JJ boa)
+       (NN retórica)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN publicitário)
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (VP 
+     (VB deixar)
+    )
+    (NP 
+     (DT o)
+     (NN candidato)
+    )
+    (VP 
+     (VP 
+      (VB falar)
+     )
+     (NP 
+      (DT o)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP quiser)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+    )
+    (ADVP 
+     (RB antes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN gravação)
+       (ADJP 
+        (JJ final)
+       )
+      )
+     )
+    )
+    (PP 
+     (VP 
+      (VP 
+       (VB decidir)
+      )
+      (NP 
+       (DT o)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP irá)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN ar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

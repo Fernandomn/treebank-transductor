@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Bruxelas)
+  )
+  (VP 
+   (VB examina)
+   (NP 
+    (NP 
+     (NP 
+      (NNS imposto)
+      (JJ italiano)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNS Europa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

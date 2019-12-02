@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN A)
+     (IN partir)
+     (IN de_)
+    )
+    (NP 
+     (DT essa)
+     (NNS data)
+    )
+   )
+   (S 
+    (ADVP 
+     (RB porém)
+    )
+    (S 
+     (VP 
+      (VB assiste)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ progressiva)
+        (NP 
+         (NP 
+          (NNS assunção)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS liderança)
+             (ADJP 
+              (JJ política)
+              (ADJP 
+               (ADJP 
+                (JJ cultural)
+                (ADJP 
+                 (CC e)
+                 (JJ social)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN por_)
+          (NP 
+           (DT os)
+           (NNS mouros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

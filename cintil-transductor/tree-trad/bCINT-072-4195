@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Banco)
+    (NNS de)
+    (NNS França)
+   )
+  )
+  (VP 
+   (VB reduz)
+   (NP 
+    (NP 
+     (NNS taxa)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS intervenção)
+      )
+     )
+    )
+   )
+  )
+ )
+)

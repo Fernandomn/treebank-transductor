@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Canais)
+     (JJ privados)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS TV)
+       (JJ francesa)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB associam)
+   (NP 
+    (PRP -se)
+   )
+  )
+ )
+)

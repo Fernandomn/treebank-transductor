@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Elas)
+   )
+   (VP 
+    (VBP dependem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ boa)
+     (NN parte)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN emendas)
+     (ADJP 
+      (JJ constitucionais)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP está)
+    )
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+       )
+       (ADJP 
+        (JJ simples)
+        (PP 
+         (IN de)
+         (VP 
+          (VP 
+           (VB fazer)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

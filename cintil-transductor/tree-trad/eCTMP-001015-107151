@@ -1,0 +1,109 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Conta)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS história)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS padre)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (S 
+           (S 
+            (VP 
+             (VB quer)
+             (VP 
+              (VP 
+               (VB salvar)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT a)
+                 (NNS droga)
+                )
+               )
+              )
+              (NP 
+               (DT uma)
+               (NNS mulher)
+              )
+             )
+            )
+           )
+          )
+          (S 
+           (CC mas)
+           (S 
+            (VP 
+             (VB acaba)
+             (PP 
+              (IN por)
+              (VP 
+               (VP 
+                (VP 
+                 (NP 
+                  (PRP se)
+                 )
+                 (VB apaixonar)
+                )
+                (PP 
+                 (IN por)
+                 (NP 
+                  (PRP ela)
+                 )
+                )
+               )
+               (S 
+                (S 
+                 (VP 
+                  (VB abandonando)
+                  (NP 
+                   (NP 
+                    (DT a)
+                    (NP 
+                     (PP sua)
+                     (NNS missão)
+                    )
+                   )
+                   (NP 
+                    (NP 
+                     (DT o)
+                     (NP 
+                      (PP seu)
+                      (NNS povo)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

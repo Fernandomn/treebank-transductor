@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ maior)
+    (NN parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN produção)
+      (NP 
+       (CD 250)
+       (NN t)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN comprometida)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT uma)
+      (NN indústria)
+      (PP 
+       (IN de)
+       (NP 
+        (NN processamento)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN polpa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

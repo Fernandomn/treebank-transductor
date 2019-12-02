@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN livro)
+    )
+    (VP 
+     (VBP está)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT toda)
+      (NN parte)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP sou)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT aqueles)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP conseguem)
+       )
+       (VP 
+        (VP 
+         (VB ver)
+        )
+        (NP 
+         (DT a)
+         (NN imagem)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (DT outra)
+          (NN dimensão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

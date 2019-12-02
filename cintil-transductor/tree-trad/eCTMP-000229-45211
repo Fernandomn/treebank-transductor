@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Pardieiros)
+     (NP 
+      (CC e)
+      (NNS barracas)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB dariam)
+      (RB então)
+     )
+     (NP 
+      (NNS lugar)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ pequena)
+       (NP 
+        (NNS povoação)
+        (PP 
+         (IN para)
+         (NP 
+          (NNS trabalhadores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

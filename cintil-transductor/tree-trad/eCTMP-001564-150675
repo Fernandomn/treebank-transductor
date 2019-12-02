@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (RB Aliás)
+   (S 
+    (ADVP 
+     (ADVP 
+      (ADVP 
+       (RB mais)
+       (RB cedo)
+      )
+      (ADVP 
+       (CC ou)
+       (ADVP 
+        (RB mais)
+        (RB tarde)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS professor)
+     )
+     (VP 
+      (VP 
+       (VB tem)
+       (RB sempre)
+      )
+      (NP 
+       (NNS razão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

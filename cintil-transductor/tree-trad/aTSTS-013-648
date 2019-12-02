@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB posou)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNS fotografia)
+     )
+    )
+   )
+  )
+ )
+)

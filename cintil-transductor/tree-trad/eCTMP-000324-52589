@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Toda)
+    (NP 
+     (DT uma)
+     (NNS população)
+    )
+   )
+   (VP 
+    (VB entra)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS estado)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS choque)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

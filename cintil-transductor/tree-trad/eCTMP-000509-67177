@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Tráfico)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS seres)
+        (JJ humanos)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN através)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NNS Europa)
+     )
+    )
+   )
+  )
+ )
+)

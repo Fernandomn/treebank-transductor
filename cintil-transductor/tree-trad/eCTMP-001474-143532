@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS José)
+     (NNS Eduardo)
+     (NNS Agualusa)
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS Cidade)
+     (NNS de_)
+     (NNS o)
+     (NNS Cabo)
+    )
+   )
+  )
+ )
+)

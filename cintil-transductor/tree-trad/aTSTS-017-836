@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (RB contudo)
+    )
+    (ADJP 
+     (RB bastante)
+     (ADJP 
+      (JJ sincero)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNS leitor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

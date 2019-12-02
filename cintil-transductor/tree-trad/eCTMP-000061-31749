@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Cova)
+      (NNS de_)
+      (NNS a)
+      (NNS Canastra)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Bairro)
+       (NNS Monte)
+       (NNS Belo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

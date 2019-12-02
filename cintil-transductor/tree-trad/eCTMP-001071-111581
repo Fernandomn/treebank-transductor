@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Dá)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT um)
+     (NNS gesto)
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VB é)
+       (VB ampliado)
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (RB logo)
+        (VP 
+         (ADVP 
+          (RB a)
+          (RB seguir)
+         )
+         (VP 
+          (VB começa)
+          (PP 
+           (IN a)
+           (VP 
+            (VB ser)
+            (VB trabalhado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

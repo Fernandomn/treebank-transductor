@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS António)
+     (NNS Oliveira)
+    )
+   )
+   (VP 
+    (VP 
+     (VB fez)
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS diagnóstico)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS crise)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS FC)
+            (NNS Porto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

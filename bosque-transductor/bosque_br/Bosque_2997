@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Sim)
+   )
+   (VP 
+    (IN embora)
+    (NP 
+     (DT a)
+     (NN abertura)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN portos)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP esteja)
+     (VBG sendo)
+     (VBN feita)
+    )
+    (ADVP 
+     (RB impunemente)
+    )
+   )
+  )
+ )
+)

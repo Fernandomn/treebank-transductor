@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (NP 
+      (DT Esta)
+      (NNS semana)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS manifestações)
+       (JJ culturais)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Instituto)
+         (NNS Franco-Português)
+         (NNS de)
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (RB inteiramente)
+     )
+     (VP 
+      (VB dedicadas)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS obra)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Guy)
+            (NNS de)
+            (NNS Maupassant)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

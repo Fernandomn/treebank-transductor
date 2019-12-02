@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (CONJP 
+       (CC Se)
+       (S 
+        (VP 
+         (VB marcarmos)
+         (RB cedo)
+        )
+       )
+      )
+      (VP 
+       (VB ficamos)
+       (ADJP 
+        (RB mais)
+        (JJ confiantes)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (JJ importante)
+      )
+     )
+     (VP 
+      (VB é)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS fim)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

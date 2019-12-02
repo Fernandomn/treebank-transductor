@@ -1,0 +1,92 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN maestria)
+     (PP 
+      (IN de)
+      (NP 
+       (NN virtuose)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN rigor)
+     (ADJP 
+      (JJ formal)
+     )
+     (NP 
+      (NN racional)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN mensagem)
+     (ADJP 
+      (JJ revolucionária)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN filiação)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN artes)
+       (ADJP 
+        (JJ conceituais)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (VBN achado)
+     (PP 
+      (IN de)
+      (NP 
+       (NN marketing)
+      )
+     )
+    )
+   )
+  )
+ )
+)

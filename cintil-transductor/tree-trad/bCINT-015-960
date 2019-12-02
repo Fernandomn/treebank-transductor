@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Todos)
+   )
+   (VP 
+    (VB quiseram)
+    (VP 
+     (VP 
+      (VB desempenhar)
+      (NP 
+       (DT um)
+       (NNS papel)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NNS transições)
+         (JJ democráticas)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (PP seus)
+           (NP 
+            (NNS países)
+            (JJ balcânicos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

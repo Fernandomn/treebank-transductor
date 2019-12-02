@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Duelo)
+    (NNS Peugeot)
+    (NNS Toyota)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS Le)
+      (NNS Mans)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN Supremo)
+   )
+   (VP 
+    (VBP interpreta)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ última)
+     (NN instância)
+    )
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN Constituição)
+    )
+    e
+    (NP 
+     (DT as)
+     (NN leis)
+    )
+   )
+   (ADVP 
+    (RB mesmo)
+    (VP 
+     (IN que)
+     (NP 
+      (PRP elas)
+     )
+     (VP 
+      (VBP digam)
+     )
+     (NP 
+      (NN respeito)
+      (PP 
+       (IN a)
+       (NP 
+        (NN contratos)
+        (ADJP 
+         (JJ privados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN maioria)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (JJ bons)
+      (NN jogadores)
+      (ADJP 
+       (JJ brasileiros)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP atuava)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN clubes)
+     (ADJP 
+      (JJ profissionais)
+     )
+     (VP 
+      (VP 
+       (VBN filiados)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NNP FBF)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

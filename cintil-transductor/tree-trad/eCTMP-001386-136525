@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (PP seu)
+      (NP 
+       (NNS romance)
+       (JJ preferido)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NP 
+         (DT um)
+         (JJ qualquer)
+        )
+       )
+      )
+     )
+     (CC desde)
+     (CC que)
+     (S 
+      (VP 
+       (VB tenha)
+       (VP 
+        (VB sido)
+        (VP 
+         (VB escrito)
+         (PP 
+          (IN por)
+          (NP 
+           (NP 
+            (NNS Agustina)
+            (NNS Bessa-Luís)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

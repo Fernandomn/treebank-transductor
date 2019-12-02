@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Pouco)
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS estudantes)
+     )
+    )
+    (VP 
+     (VB desperdiçaram)
+     (NP 
+      (DT um)
+      (NNS penalti)
+     )
+    )
+   )
+  )
+ )
+)

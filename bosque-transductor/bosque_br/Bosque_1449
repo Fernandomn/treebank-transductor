@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NNP Justiça_do_Trabalho)
+     (PP 
+      (IN em)
+      (NP 
+       (NNP São_Paulo)
+      )
+     )
+    )
+    (VP 
+     (VBP havia)
+     (VBN decidido)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP havia)
+     )
+     (NP 
+      (NN perdas)
+      (ADJP 
+       (JJ salariais)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NN metalúrgicos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Estado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

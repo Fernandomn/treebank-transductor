@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fato)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN caos)
+     (ADJP 
+      (JJ sangrento)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT nossas)
+       (NN ruas)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT o)
+     (NN resultado)
+     (ADJP 
+      (JJ conjunto)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT nossas)
+       (JJ próprias)
+       (NN ações)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN embora)
+    (NP 
+     (PRP ninguém)
+    )
+    (ADVP 
+     (RB individualmente)
+    )
+    (VP 
+     (VBP tenha)
+    )
+    (NP 
+     (DT a)
+     (NN intenção)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VP 
+         (VB produzi-)
+        )
+        (NP 
+         (PRP lo)
+        )
+       )
+       ou
+       (VP 
+        (ADVP 
+         (RB sequer)
+        )
+        (VP 
+         (VBP tenha)
+        )
+        (NP 
+         (NN poder)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (PRP isso)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

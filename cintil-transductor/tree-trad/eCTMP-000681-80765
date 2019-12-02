@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN A)
+      (IN partir)
+      (IN de)
+     )
+     (NP 
+      (NNS Março)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Portugália)
+    )
+    (VP 
+     (VB começa)
+     (PP 
+      (IN a)
+      (VP 
+       (VB voar)
+       (PP 
+        (IN para)
+        (NP 
+         (CD seis)
+         (NP 
+          (NNS aeroportos)
+          (JJ internacionais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

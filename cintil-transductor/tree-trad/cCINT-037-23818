@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NP 
+       (NNS garoto)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT aquela)
+         (NNS idade)
+        )
+       )
+      )
+      (JJ sozinho)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS ruas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Lisboa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS caso)
+      (JJ sério)
+     )
+    )
+   )
+  )
+ )
+)

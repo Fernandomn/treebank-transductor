@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS camada)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS população)
+          (ADJP 
+           (RB mais)
+           (JJ jovem)
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB comete)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS espécie)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS suicídio)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

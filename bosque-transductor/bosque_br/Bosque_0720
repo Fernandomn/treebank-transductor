@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN treinador)
+    (NP 
+     (NNP Levir_Culpi)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP quis)
+   )
+   (VP 
+    (VP 
+     (VB adiantar)
+    )
+    (NP 
+     (DT o)
+     (NN substituto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Éder_Aleixo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

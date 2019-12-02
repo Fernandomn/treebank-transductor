@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN diretor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN crédito)
+      (ADJP 
+       (JJ agrícola)
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Banco_do_Brasil)
+     )
+    )
+    (NP 
+     (NNP Said_Miguel)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Comissão_de_Agricultura)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Câmara_dos_Deputados)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN agricultores)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP renegociaram)
+    )
+    (NP 
+     (NN R$)
+     (NP 
+      (CD 1.7)
+      (NN bilhão)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN dívidas)
+       (PP 
+        (IN em)
+        (NP 
+         (NN atraso)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

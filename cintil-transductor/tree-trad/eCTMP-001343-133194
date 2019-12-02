@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Temos)
+     (PP 
+      (IN de)
+      (VP 
+       (VB eliminar)
+       (NP 
+        (DT esses)
+        (NP 
+         (NNS laboratórios)
+         (CONJP 
+          (RB onde)
+          (S 
+           (NP 
+            (DT o)
+            (NP 
+             (NNS monstro)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS totalitarismo)
+              )
+             )
+            )
+           )
+           (VP 
+            (VP 
+             (VB é)
+             (VB cultivado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

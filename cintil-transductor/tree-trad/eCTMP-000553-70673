@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Peter)
+     (NNS Grimes)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT aqueles)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB desafiam)
+            (NP 
+             (DT as)
+             (NNS classificações)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

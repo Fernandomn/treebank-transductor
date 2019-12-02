@@ -1,0 +1,113 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+    (NN rede)
+    (VP 
+     (VP 
+      (VBN criada)
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (CD 20)
+       (NN anos)
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NNP Departamento_de_Defesa)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NNP Estados_Unidos)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB conectar)
+       )
+       (NP 
+        (DT os)
+        (DT seus)
+        (DT vários)
+        (NN centros)
+        (PP 
+         (IN de)
+         (NP 
+          (NN pesquisa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN considerada)
+   )
+   (NP 
+    (DT a)
+    (JJ maior)
+    (NN rede)
+    (PP 
+     (IN de)
+     (NP 
+      (NN comunicação)
+      (PP 
+       (IN entre)
+       (NP 
+        (NN computadores)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG contando)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN milhões)
+      (PP 
+       (IN de)
+       (NP 
+        (NN usuários)
+        (VP 
+         (VP 
+          (VBN espalhados)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (DT várias)
+           (NN cidades)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN mundo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

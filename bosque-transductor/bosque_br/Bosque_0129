@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN arquivos)
+   )
+   (VP 
+    (VBP são)
+    (VBN protegidos)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NP 
+      (NP 
+       (NN senhas)
+      )
+      e
+      (NP 
+       (NN códigos)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP acabaram)
+         (VBG mostrando-)
+        )
+        (NP 
+         (PRP se)
+        )
+        (ADJP 
+         (JJ vulneráveis)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Lisboa)
+  )
+  (VP 
+   (VB estuda)
+   (NP 
+    (NP 
+     (NNS conclusão)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (CD primeira)
+        (NNS circular)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

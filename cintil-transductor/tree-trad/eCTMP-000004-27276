@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+   )
+   (VP 
+    (VB poderá)
+    (VP 
+     (VB haver)
+     (NP 
+      (NP 
+       (NP 
+        (NNS explorações)
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS etapas)
+           (JJ sucessivas)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT outras)
+         (NNS linguagens)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

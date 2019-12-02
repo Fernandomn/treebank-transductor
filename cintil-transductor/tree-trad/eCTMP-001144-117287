@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NNS Animatógrafo)
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS domingos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS madrugada)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT outra)
+      (NNS estreia)
+     )
+    )
+   )
+  )
+ )
+)

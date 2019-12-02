@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ben)
+    (NNS Johnson)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS futebol)
+      (JJ americano)
+     )
+    )
+   )
+  )
+ )
+)

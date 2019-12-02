@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS feira-exposição)
+    (ADJP 
+     (JJ representativa)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS vida)
+         (ADJP 
+          (JJ agro-industrial)
+          (ADJP 
+           (CC e)
+           (JJ comercial)
+          )
+         )
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS região)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

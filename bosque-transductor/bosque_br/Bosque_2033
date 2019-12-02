@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Centrado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN slogan)
+      (NP 
+       (NNP Fome_e_desemprego_._Agricultura_é_a_solução)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Munhoz)
+   )
+   (VP 
+    (VBP vai)
+    (VB falar)
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT o)
+     (NN tempo)
+     (VP 
+      (NP 
+       (PP 
+        (IN a)
+        (NP 
+         (PRP que)
+        )
+       )
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (NN direito)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT a)
+     (NN necessidade)
+     (PP 
+      (IN de)
+      (NP 
+       (NN aprimoramento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN setor)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

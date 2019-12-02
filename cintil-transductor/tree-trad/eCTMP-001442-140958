@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Desconhecia)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esta)
+       (NNS geografia)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB reconhecia)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS lonjura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

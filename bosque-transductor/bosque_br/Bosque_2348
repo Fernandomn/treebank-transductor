@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Grupo)
+   )
+   (VP 
+    (VBP traz)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN país)
+    )
+   )
+   (NP 
+    (NN droga)
+    (PP 
+     (IN contra)
+     (NP 
+      (NN esclerose)
+     )
+    )
+   )
+  )
+ )
+)

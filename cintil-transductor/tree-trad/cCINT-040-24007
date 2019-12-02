@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (RB Depois)
+   (S 
+    (S 
+     (VP 
+      (VB entrou)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS quarto)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VB sugeriu)
+     )
+    )
+   )
+  )
+ )
+)

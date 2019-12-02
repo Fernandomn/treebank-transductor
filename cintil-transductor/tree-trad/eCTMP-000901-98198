@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS presença)
+       (PP 
+        (IN de)
+        (NP 
+         (PRP alguns)
+         (NP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS artistas)
+             (JJ mencionados)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

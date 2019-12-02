@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (JJ única)
+      (NNS ronda)
+     )
+     (CONJP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (S 
+       (VP 
+        (VP 
+         (VP 
+          (RB não)
+          (VB houve)
+         )
+         (NP 
+          (PRP qualquer)
+          (NNS expulsão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (CD 16ª)
+     )
+    )
+   )
+  )
+ )
+)

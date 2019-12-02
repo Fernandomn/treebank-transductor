@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS final)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS mês)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Julho)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS vez)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS BPA)
+         )
+        )
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (DT cuja)
+          (NP 
+           (CD segunda)
+           (NNS fase)
+          )
+         )
+         (S 
+          (VP 
+           (VB irá)
+           (VP 
+            (VP 
+             (VB ser)
+             (VB realizada)
+            )
+            (PP 
+             (IN mediante)
+             (NP 
+              (DT um)
+              (NP 
+               (NNS aumento)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS capital)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

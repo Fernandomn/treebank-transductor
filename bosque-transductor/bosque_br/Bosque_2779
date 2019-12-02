@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP RICARDO_ANTÔNIO_SILVA_SEITENFUS)
+    (ADJP 
+     (CD 45)
+    )
+    (NP 
+     (NN doutor)
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Relações_Internacionais)
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NNP Instituto_de_Altos_Estudos_Internacionais)
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Genebra)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN coordenador)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN curso)
+      (PP 
+       (IN de)
+       (NP 
+        (NN mestrado)
+        (PP 
+         (IN em)
+         (NP 
+          (NNP Integração_Latino-americana)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Universidade_Federal_de_Santa_Maria)
+        (NP 
+         (NNP RS)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

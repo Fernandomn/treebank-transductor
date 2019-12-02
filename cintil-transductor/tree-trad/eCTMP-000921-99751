@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS agenda)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NNS aprovação)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Conselho)
+         (NNS de)
+         (NNS Ministros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Sai)
+   )
+   (PP 
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 79)
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 49)
+      )
+     )
+    )
+   )
+  )
+ )
+)

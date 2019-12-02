@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB outro)
+     (RB lado)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS técnicos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB vão)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Vale)
+            (NNS de_)
+            (NNS o)
+            (NNS Neiva)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB visitam)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS explorações)
+       (JJ familiares)
+      )
+     )
+    )
+   )
+  )
+ )
+)

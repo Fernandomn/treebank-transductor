@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (PP meus)
+     (NNS livros)
+    )
+   )
+   (VP 
+    (VB são)
+    (ADJP 
+     (ADJP 
+      (RB estritamente)
+      (JJ pessoais)
+     )
+     (ADJP 
+      (ADJP 
+       (JJ solitários)
+       (ADJP 
+        (CC e)
+        (ADJP 
+         (RB altamente)
+         (JJ púdicos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

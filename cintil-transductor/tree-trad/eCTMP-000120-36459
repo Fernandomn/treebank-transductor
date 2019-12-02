@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+     (NP 
+      (NNS verificação)
+      (JJ feita)
+     )
+    )
+   )
+   (VP 
+    (VB incidiu)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS correspondência)
+        (JJ efectiva)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS calibres)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

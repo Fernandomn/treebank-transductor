@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Houve)
+      (RB aqui)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS aproveitamento)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS contactos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB mais)
+        (RB tarde)
+       )
+      )
+      (VP 
+       (VP 
+        (VB houve)
+        (NP 
+         (NP 
+          (NNS coincidências)
+         )
+         (NP 
+          (NP 
+           (NP 
+            (NNS aproveitamento)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT as)
+              (NNS situações)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

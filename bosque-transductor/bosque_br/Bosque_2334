@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN interessados)
+    (PP 
+     (IN em)
+     (VP 
+      (VP 
+       (VB viabilizar)
+      )
+      (NP 
+       (DT a)
+       (NN participação)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN coral)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN festival)
+       (ADJP 
+        (JJ belga)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB entrar)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN contato)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN direção)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN coral)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN telefones)
+     (NP 
+      (NN 011)
+     )
+     (NP 
+      (NP 
+       (NN 231-5346)
+      )
+      e
+      (NP 
+       (NN 288-3514)
+      )
+     )
+    )
+   )
+  )
+ )
+)

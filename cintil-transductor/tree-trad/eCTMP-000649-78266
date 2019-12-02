@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (PP nosso)
+     (NP 
+      (NNS papel)
+      (JJ social)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB reconhecido)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS autoridades)
+        (JJ civis)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

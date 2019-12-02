@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS técnico)
+     (NNS Filipovic)
+    )
+   )
+   (VP 
+    (VP 
+     (VB comentou)
+     (RB assim)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (CD primeira)
+      (NP 
+       (NNS vitória)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS equipa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

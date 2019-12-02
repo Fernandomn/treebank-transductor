@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (JJ 1º)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN março)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN fundação)
+   )
+   (VP 
+    (VBP inaugurou)
+   )
+   (NP 
+    (DT mais)
+    (CD uma)
+    (NN escola)
+   )
+  )
+ )
+)

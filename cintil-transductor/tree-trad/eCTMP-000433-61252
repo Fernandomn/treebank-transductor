@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB De)
+      (RB um)
+      (RB lado)
+     )
+    )
+    (VP 
+     (VB temos)
+     (NP 
+      (NP 
+       (NP 
+        (DT a)
+        (NNS biologia)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT a)
+         (NNS evolução)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NP 
+           (NNS aspecto)
+           (JJ temporal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

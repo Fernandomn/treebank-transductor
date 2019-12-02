@@ -1,0 +1,29 @@
+(
+ (CONJP 
+  (CONJP 
+   (CONJP 
+    (INTJ 
+     (UH Bolas)
+    )
+    (S 
+     (NP 
+      (DT isto)
+     )
+     (VP 
+      (VB é)
+      (ADJP 
+       (JJ pior)
+       (CONJP 
+        (CC que)
+        (NP 
+         (DT uma)
+         (NNS creche)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

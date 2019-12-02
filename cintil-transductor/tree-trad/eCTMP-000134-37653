@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB foram)
+    (VP 
+     (RB também)
+     (VP 
+      (VB abordadas)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS palavras)
+         (ADJP 
+          (VB proferidas)
+          (PP 
+           (IN por)
+           (NP 
+            (NP 
+             (DT um)
+             (NP 
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NP 
+                 (ADJP 
+                  (RB mais)
+                  (JJ antigos)
+                 )
+                 (NP 
+                  (NP 
+                   (NNS funcionários)
+                   (PP 
+                    (IN de_)
+                    (NP 
+                     (DT a)
+                     (NNS PJ)
+                    )
+                   )
+                  )
+                  (JJ presentes)
+                 )
+                )
+               )
+              )
+             )
+            )
+            (NP 
+             (NP 
+              (DT o)
+              (NP 
+               (NNS subsinpector)
+               (NP 
+                (NNS Albuquerque)
+                (NNS Rocha)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Sem)
+     (NP 
+      (NNS espaço)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS projectos)
+    )
+    (VP 
+     (VP 
+      (VB ficam)
+      (RB gravemente)
+     )
+     (VB comprometidos)
+    )
+   )
+  )
+ )
+)

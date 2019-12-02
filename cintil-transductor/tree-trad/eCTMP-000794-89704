@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NNS caderno)
+     (JJ excepcional)
+    )
+    (ADJP 
+     (ADJP 
+      (VB redigido)
+      (PP 
+       (IN por)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS criança)
+         (JJ excepcional)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

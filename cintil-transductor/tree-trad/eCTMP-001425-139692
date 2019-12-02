@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NP 
+      (JJ principal)
+      (NNS estrela)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Carlos)
+       (NNS Ribeiro)
+      )
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS apresentador)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS programa)
+            (NP 
+             (NNS Made)
+             (NNS in)
+             (NNS Portugal)
+            )
+           )
+           (PP 
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS RTP1)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

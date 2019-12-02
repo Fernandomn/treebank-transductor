@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (RB ainda)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS tempo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NP 
+          (NNS empenhamento)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS editora)
+             (NNS Quetzal)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

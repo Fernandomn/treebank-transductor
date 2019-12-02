@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (DT sua)
+     (NN opinião)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN Estado)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP pode)
+    (VB continuar)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN setores)
+     (VP 
+      (ADVP 
+       (RB onde)
+      )
+      (NP 
+       (DT a)
+       (NN iniciativa)
+       (ADJP 
+        (JJ privada)
+       )
+      )
+      (ADVP 
+       (RB já)
+      )
+      (VP 
+       (VBP comprovou)
+      )
+      (NP 
+       (DT sua)
+       (NN eficiência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

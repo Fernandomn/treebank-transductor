@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (RB Não)
+    (VB há)
+   )
+   (NP 
+    (NP 
+     (NNS rigor)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS avaliação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NNS custos)
+            (JJ reais)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NP 
+              (PRP diversas)
+              (NNS opções)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

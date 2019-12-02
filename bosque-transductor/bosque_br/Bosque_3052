@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NN volante)
+     (NP 
+      (NNP Dinho)
+     )
+     (ADJP 
+      (CD um)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN jogadores)
+        (ADJP 
+         (JJ responsáveis)
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN setor)
+           (PP 
+            (IN de)
+            (NP 
+             (NN marcação)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NNP Santos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ impossível)
+   )
+   (VP 
+    (VP 
+     (VB segurar)
+    )
+    (NP 
+     (DT o)
+     (NN ataque)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP São_Paulo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN técnico)
+         (NP 
+          (NNP Telê_Santana)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

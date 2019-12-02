@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Chega)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN violência)
+     )
+    )
+   )
+   (CC $/)
+   (VP 
+    (VP 
+     (VBP Quero)
+    )
+    (VP 
+     (VP 
+      (VB ver)
+     )
+     (ADVP 
+      (RB é)
+     )
+     (NP 
+      (NN gol)
+      (PP 
+       (IN de)
+       (NP 
+        (NN placa)
+       )
+      )
+     )
+    )
+   )
+   (CC $/)
+   (VP 
+    (NP 
+     (PRP Todo_mundo)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP dá)
+    )
+    (ADVP 
+     (RB mal)
+    )
+   )
+   (CC $/)
+   (PP 
+    (IN Por)
+    (NP 
+     (NN meia_dúzia)
+     (PP 
+      (IN de)
+      (NP 
+       (NN babacas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

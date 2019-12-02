@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NN Preços)
+   (PP 
+    (IN de+)
+    (NP 
+     (DT as)
+     (NN obras)
+    )
+   )
+   (PP 
+    (PP 
+     (IN de)
+     (NP 
+      (NN R$)
+      (ADJP 
+       (CD 50)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN R$)
+      (ADJP 
+       (CD 500)
+      )
+     )
+    )
+   )
+  )
+ )
+)

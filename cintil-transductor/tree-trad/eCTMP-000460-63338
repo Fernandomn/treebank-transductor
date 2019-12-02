@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pintura)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS boutique)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS café)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

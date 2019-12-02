@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS semana)
+    (CONJP 
+     (PP 
+      (IN em)
+      (NP 
+       (PRP que)
+      )
+     )
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS deputado)
+        (NNS de_)
+        (NNS o)
+        (NNS PSD)
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VP 
+          (RB não)
+          (VB esteve)
+         )
+         (RB sempre)
+        )
+        (RB mal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

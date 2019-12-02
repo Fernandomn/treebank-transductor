@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esse)
+      (NNS sentido)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ministro)
+      (NNS de_)
+      (NNS a)
+      (NNS Educação)
+     )
+    )
+    (VP 
+     (VB deverá)
+     (VP 
+      (VP 
+       (VB nomear)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS conselho)
+         (JJ consultivo)
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NNS escola)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

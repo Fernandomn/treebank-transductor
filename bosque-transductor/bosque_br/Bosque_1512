@@ -1,0 +1,120 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Uma)
+    (NN hora)
+    (PP 
+     (IN após)
+     (NP 
+      (DT a)
+      (NN morte)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Colosio)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN realidade)
+      (NP 
+       (NN minutos)
+      )
+     )
+    )
+    (ADVP 
+     (RB depois)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (DT o)
+        (NN público)
+       )
+       (VP 
+        (VB receber)
+       )
+       (NP 
+        (DT a)
+        (JJ trágica)
+        (NN notícia)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Octavio_Paz)
+   )
+   (VP 
+    (VBP pedia)
+   )
+   (NP 
+    (DT um)
+    (NN basta)
+   )
+   (PP 
+    (PP 
+     (IN a+)
+     (NP 
+      (DT os)
+      (NN excessos)
+      (ADJP 
+       (ADJP 
+        (JJ verbais)
+       )
+       e
+       (ADJP 
+        (JJ ideológicos)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT alguns)
+        (NP 
+         (NP 
+          (NN intelectuais)
+         )
+         e
+         (NP 
+          (NN jornalistas)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (ADJP 
+       (ADJP 
+        (JJ numerosas)
+       )
+       e
+       (ADJP 
+        (JJ irresponsáveis)
+       )
+      )
+      (NN apologias)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN violência)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

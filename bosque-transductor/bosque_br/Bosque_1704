@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    Nem
+    (ADJP 
+     (JJ simples)
+    )
+    nem
+    (ADJP 
+     (ADVP 
+      (RB muito)
+      (RB menos)
+     )
+     (JJ beethoveniano)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NNP Concerto_para_Violino)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Tchaikovski)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Equilibrou)
+     (NP 
+      (CD 100)
+      (NNS tijolos)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS cabeça)
+     )
+    )
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (VP 
+     (VB entrou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Guinness)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Free_shops)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN aeroportos)
+      (ADJP 
+       (JJ internacionais)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP vendem)
+   )
+   (NP 
+    (DT o)
+    (NN equipamento)
+   )
+  )
+ )
+)

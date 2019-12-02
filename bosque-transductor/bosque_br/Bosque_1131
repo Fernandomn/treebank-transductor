@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Os)
+     (CD três)
+     (NN cortadores)
+     (PP 
+      (IN de)
+      (NP 
+       (NN cana)
+      )
+     )
+    )
+    (VP 
+     (VBP eram)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Alagoas)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP estavam)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN cidade)
+     )
+    )
+    (PP 
+     (IN havia)
+     (NP 
+      (CD 15)
+      (NN dias)
+     )
+    )
+   )
+  )
+ )
+)

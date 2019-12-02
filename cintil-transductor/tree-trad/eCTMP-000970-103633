@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Seria)
+      (ADJP 
+       (RB muito)
+       (JJ difícil)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS companhias)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS teatro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

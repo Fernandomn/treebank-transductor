@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (NP 
+    (DT aqueles)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP optam)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN locação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN temporada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

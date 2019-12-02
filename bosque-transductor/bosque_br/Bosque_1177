@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ninguém)
+   )
+   (VP 
+    (VBP foi)
+    (VBN encontrado)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (NN secretarias)
+     (ADJP 
+      (ADJP 
+       (JJ municipais)
+      )
+      e
+      (ADJP 
+       (JJ estaduais)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Saúde)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB comentar)
+     )
+     (NP 
+      (DT o)
+      (NN assunto)
+     )
+    )
+   )
+  )
+ )
+)

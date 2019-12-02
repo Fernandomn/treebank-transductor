@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (RB Já)
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Carlos)
+       (NNS Carvalhas)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Paulo)
+        (NNS Portas)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB mantêm)
+     (NP 
+      (DT as)
+      (NP 
+       (PP suas)
+       (NP 
+        (NNS quotas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS popularidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

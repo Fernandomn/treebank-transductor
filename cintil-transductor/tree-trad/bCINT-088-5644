@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS banco)
+     (NNS central)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NNS porta-voz)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (NP 
+        (NNS dívida)
+        (JJ fiscal)
+       )
+       (JJ pendente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

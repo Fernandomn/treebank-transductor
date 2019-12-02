@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (VP 
+     (VBP quiser)
+    )
+   )
+   (VP 
+    (VBP vai)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN excursão)
+    )
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (DT o)
+     (NN resort)
+     (ADJP 
+      (JJ local)
+     )
+     (NP 
+      (NNP Casa_de_Campo)
+     )
+    )
+   )
+  )
+ )
+)

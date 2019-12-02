@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NN clips)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT o)
+       (NN programa)
+      )
+      (VP 
+       (VBP exibe)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (NP 
+     (NNP Blitzkrieg_Bop)
+    )
+    (NP 
+     (NNP I_Wanna_Live)
+    )
+    e
+    (NP 
+     (NNP Poison_Heart)
+    )
+   )
+  )
+ )
+)

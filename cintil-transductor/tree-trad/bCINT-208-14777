@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS inscrições)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (VB feitas)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS escolas)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT os)
+          (NNS alunos)
+         )
+         (VP 
+          (VP 
+           (VB realizaram)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS provas)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NP 
+                (CD primeira)
+                (NNS época)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

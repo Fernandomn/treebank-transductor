@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN coronel)
+    )
+   )
+   (NP 
+    (PRP eles)
+   )
+   (VP 
+    (VBP viram)
+   )
+   (NP 
+    (DT o)
+    (NN armamento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN quadrilha)
+     )
+    )
+    (VP 
+     (VP 
+      (VB ser)
+      (VBN retirado)
+     )
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD um)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN prédios)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD um)
+       (NN Gol)
+      )
+     )
+    )
+   )
+  )
+ )
+)

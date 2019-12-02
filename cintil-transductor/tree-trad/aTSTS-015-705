@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VB viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS abertura)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS programa)
+         )
+        )
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS mundo)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS Pedro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

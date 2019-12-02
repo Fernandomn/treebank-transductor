@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Vendeu)
+     (NP 
+      (NP 
+       (CD 100)
+       (CD mil)
+      )
+      (NNS exemplares)
+     )
+    )
+    (PP 
+     (PP 
+      (RB só)
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Itália)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (CD primeiro)
+           (NNS mês)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

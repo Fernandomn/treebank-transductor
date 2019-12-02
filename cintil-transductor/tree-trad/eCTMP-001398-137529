@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (NP 
+      (NNS artistas)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB estão)
+          (RB aqui)
+         )
+         (CONJP 
+          (S 
+           (VP 
+            (VB há)
+            (NP 
+             (NNS anos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

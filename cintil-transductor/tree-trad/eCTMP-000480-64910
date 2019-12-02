@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS decreto-lei)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NNS alicerce)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS portaria)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT a)
+       (NNS parede)
+      )
+     )
+    )
+   )
+  )
+ )
+)

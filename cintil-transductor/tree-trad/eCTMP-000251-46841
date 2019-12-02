@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS bailado)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB trouxe)
+         )
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NNS Acarte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Long)
+       (NNS Time)
+       (NNS Before)
+       (NNS the)
+       (NNS End)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB marca)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS início)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS projecto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

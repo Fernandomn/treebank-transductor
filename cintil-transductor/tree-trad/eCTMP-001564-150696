@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Questões)
+     (ADJP 
+      (JJ salariais)
+      (PP 
+       (CC e)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS progressão)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS carreiras)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS base)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS maioria)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT estas)
+            (NNS paralisações)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

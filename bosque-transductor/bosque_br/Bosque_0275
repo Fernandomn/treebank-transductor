@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN Amato)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN cenário)
+     (ADJP 
+      (JJ ideal)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNP Plano_Real)
+      )
+     )
+    )
+    (VP 
+     (VBP seria)
+    )
+    (NP 
+     (DT a)
+     (NN vitória)
+     (ADJP 
+      (JJ inequívoca)
+     )
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD um)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN candidatos)
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB já)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (JJ 1º)
+       (NN turno)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN eleições)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Era)
+     (NP 
+      (DT o)
+      (NP 
+       (CD primeiro)
+       (NP 
+        (NNS dia)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS aulas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB tinha)
+      (NP 
+       (NP 
+        (RB apenas)
+        (CD seis)
+       )
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

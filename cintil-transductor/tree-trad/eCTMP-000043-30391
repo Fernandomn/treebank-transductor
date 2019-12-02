@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ritmo)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS treino)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (JJ novas)
+           (NP 
+            (NNS campeãs)
+            (JJ chinesas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB absolutamente)
+      (JJ espectacular)
+     )
+    )
+   )
+  )
+ )
+)

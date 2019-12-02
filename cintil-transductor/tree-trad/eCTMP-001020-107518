@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PP Seu)
+    (NNS pensamento)
+   )
+   (VP 
+    (VB perdia)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS limpezas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS lógica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

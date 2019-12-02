@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Terra)
+       (NNS Bruta)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS John)
+        (NNS Ford)
+       )
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NNS TVI)
+   )
+  )
+ )
+)

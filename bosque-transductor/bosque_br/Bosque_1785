@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (DT algumas)
+     (NN cidades)
+     (VP 
+      (ADVP 
+       (RB onde)
+      )
+      (NP 
+       (DT os)
+       (NN pais)
+      )
+      (VP 
+       (VBP têm)
+      )
+      (NP 
+       (NN poder)
+       (PP 
+        (IN de)
+        (NP 
+         (NN decisão)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN sistema)
+        (ADJP 
+         (JJ educacional)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN projetos)
+    (PP 
+     (IN de)
+     (NP 
+      (JJ novas)
+      (NN escolas)
+     )
+    )
+   )
+   (VP 
+    (VBP incorporam)
+   )
+   (NP 
+    (NP 
+     (NN computadores)
+    )
+    (NP 
+     (NN CD-ROM)
+    )
+    (NP 
+     (NN modem)
+    )
+    e
+    (NP 
+     (NN linhas)
+     (ADJP 
+      (JJ telefônicas)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB permitir)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT os)
+       (NN estudantes)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP comuniquem)
+      )
+      (ADVP 
+       (RB on_line)
+      )
+     )
+    )
+   )
+  )
+ )
+)

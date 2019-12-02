@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Guangdong)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VB faz)
+     (NP 
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS China)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

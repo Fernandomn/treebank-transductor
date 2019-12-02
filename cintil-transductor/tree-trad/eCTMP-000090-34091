@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB gosto)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS sucesso)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT o)
+        (NNS sucesso)
+       )
+       (VP 
+        (VB é)
+        (JJ efémero)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

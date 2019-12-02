@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN greve)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ ilegal)
+    )
+   )
+  )
+ )
+)

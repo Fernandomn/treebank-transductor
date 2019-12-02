@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN restante)
+   )
+   (VP 
+    (VBP ficaria)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT uma)
+     (NN aplicação)
+     (PP 
+      (IN com)
+      (NP 
+       (NN aniversário)
+       (VP 
+        (VP 
+         (VBG coincidindo)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NN vencimento)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN fatura)
+            (ADJP 
+             (JJ mensal)
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN cartão)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT os)
+     (CD 55)
+     (NN vereadores)
+    )
+   )
+   (ADJP 
+    (CD 24)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN candidatos)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNP Assembléia_Legislativa)
+       )
+       (NP 
+        (NNP Câmara_dos_Deputados)
+       )
+       ou
+       (NP 
+        (NN Senado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

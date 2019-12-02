@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (NP 
+     (NNP Bill_Clinton)
+    )
+   )
+   (VP 
+    (VBP passou)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (JJ maior)
+     (NN parte)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN dia)
+       (PP 
+        (IN de)
+        (RB ontem)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN reuniões)
+     (PP 
+      (IN com)
+      (NP 
+       (DT seus)
+       (NN assessores)
+       (UCP 
+        (ADJP 
+         (JJ militares)
+        )
+        e
+        (PP 
+         (IN de)
+         (NP 
+          (NN segurança)
+          (ADJP 
+           (JJ nacional)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NNP Casa_Branca)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Sunab)
+    (NP 
+     (NNP Superintendência_Nacional_de_Abastecimento)
+    )
+   )
+   (VP 
+    (VBP autuou)
+   )
+   (NP 
+    (NN sábado)
+   )
+   (NP 
+    (CD duas)
+    (NN lojas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP ParK_Shopping)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Brasília)
+    )
+   )
+  )
+ )
+)

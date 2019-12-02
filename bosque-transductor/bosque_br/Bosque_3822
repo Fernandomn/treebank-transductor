@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Promoção)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Dia_das_Mães)
+     )
+    )
+   )
+   (VP 
+    (VBP começa)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN desfiles)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Luz)
+     (JJ verde)
+    )
+   )
+  )
+  (PP 
+   (IN para)
+   (NP 
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS missão)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Bósnia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (CC E)
+   (NP 
+    (PRP tudo)
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT a)
+     (NNP Jovem_Pan)
+    )
+   )
+   (NP 
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB fazer)
+      )
+      (NP 
+       (NN proselitismo)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN promessas)
+      (PP 
+       (IN de)
+       (RB sempre)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Brigada)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN namorado)
+     )
+    )
+   )
+   (NP 
+    (NNP Regina)
+   )
+   (VP 
+    (VBP optou)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB estrear)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NNP São_Silvestre)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NN exemplares)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT estes)
+       (NN vinhos)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP chegaram)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (DT nossas)
+        (NN praias)
+       )
+      )
+     )
+     (NP 
+      (DT todos)
+      (NP 
+       (NN safra)
+      )
+      (ADJP 
+       (CD 92)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Bourgueil_LÉchellerie)
+   )
+   (VP 
+    (VBP milita)
+   )
+   (ADVP 
+    (RB decididamente)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN fila)
+    )
+   )
+  )
+ )
+)

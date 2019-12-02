@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS investigações)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Ordem)
+        (NNS de_)
+        (NNS os)
+        (NNS Médicos)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB conduzidas)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS António)
+         (NNS Meireles)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS presidente)
+           (NNS de_)
+           (NNS o)
+           (NNS Conselho)
+           (NNS Regional)
+           (NNS de_)
+           (NNS o)
+           (NNS Porto)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS director)
+            (NNS de_)
+            (NNS o)
+            (NNS Serviço)
+            (NNS de)
+            (NNS Medicina)
+            (NNS Interna)
+            (NNS de_)
+            (NNS o)
+            (NNS Hospital)
+            (NNS de)
+            (NNS Santo)
+            (NNS António)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

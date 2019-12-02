@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS classe)
+   )
+   (VP 
+    (VP 
+     (VB imita)
+     (NP 
+      (DT a)
+      (NNS professora)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS coro)
+     )
+    )
+   )
+  )
+ )
+)

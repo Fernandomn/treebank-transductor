@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB salientou)
+    (CONJP 
+     (S 
+      (VP 
+       (VB estarem)
+       (JJ seguros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

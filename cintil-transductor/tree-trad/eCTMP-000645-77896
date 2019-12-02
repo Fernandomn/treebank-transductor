@@ -1,0 +1,54 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (DT Um)
+     (NP 
+      (NP 
+       (NP 
+        (NNS registo)
+        (JJ informático)
+       )
+       (JJ europeu)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS cidadãos)
+       )
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS serviço)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS informações)
+         )
+        )
+       )
+       (JJ europeu)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sem)
+    (NP 
+     (NP 
+      (NNS controlo)
+      (JJ democrático)
+     )
+    )
+   )
+  )
+ )
+)

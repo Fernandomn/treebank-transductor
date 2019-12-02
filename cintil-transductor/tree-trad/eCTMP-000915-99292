@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VB Reacende)
+   (NP 
+    (PRP -se)
+   )
+  )
+  (NP 
+   (DT a)
+   (NP 
+    (NNS controvérsia)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS autoria)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS obras)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

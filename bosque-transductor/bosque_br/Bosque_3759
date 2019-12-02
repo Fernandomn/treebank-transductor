@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ segundo)
+    (NN lugar)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Smirnoff_International_Fashion_Awards)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN disputado)
+     )
+     (ADVP 
+      (RB anteontem)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Dublin)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS pessoas)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB querem)
+    )
+    (VP 
+     (VB saber)
+     (NP 
+      (NP 
+       (NNS informações)
+       (PP 
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Congresso)
+          )
+         )
+        )
+        (PP 
+         (CC ou)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Governo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

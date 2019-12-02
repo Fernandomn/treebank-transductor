@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (ADJP 
+    (CD 4)
+    (PP 
+     (IN de)
+     (NP 
+      (NN novembro)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBN morto)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN emboscada)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT o)
+      (NN líder)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP ALN)
+       )
+      )
+     )
+     e
+     (NP 
+      (NP ex-deputado)
+     )
+    )
+    (NP 
+     (NNP Carlos_Marighella)
+    )
+   )
+  )
+ )
+)

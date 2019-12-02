@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Boca)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP conseguia)
+     )
+     (VP 
+      (VP 
+       (VB sair)
+      )
+      (VBG jogando)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP perdia)
+     )
+     (NP 
+      (NN bolas)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT seu)
+       (NN campo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

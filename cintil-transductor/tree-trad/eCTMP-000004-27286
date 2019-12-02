@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Newsweek)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (CD duas)
+      (NP 
+       (NNS salas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS mapas)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foram)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS palco)
+        (JJ principal)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS negociações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

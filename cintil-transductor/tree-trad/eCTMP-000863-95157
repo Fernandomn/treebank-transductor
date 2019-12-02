@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Sempre)
+      (VP 
+       (NP 
+        (PRP o)
+       )
+       (VB dissemos)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (RB inclusivamente)
+       (VP 
+        (VB solicitámos)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (NP 
+            (NNS Associação)
+            (NNS de)
+            (NNS Estudantes)
+           )
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VP 
+               (VB transmitisse)
+               (NP 
+                (DT esta)
+                (NP 
+                 (PP nossa)
+                 (NNS posição)
+                )
+               )
+              )
+              (PP 
+               (IN a)
+               (NP 
+                (PRP todos)
+                (NP 
+                 (DT os)
+                 (NNS alunos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN dirigentes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN seleção)
+     )
+    )
+   )
+   (VP 
+    (VBP pediram)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (NN seguranças)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN universidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP afastassem)
+    )
+    (NP 
+     (DT o)
+     (NN público)
+     (VP 
+      (VP 
+       (VBN composto)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (DT sua)
+        (JJ maior)
+        (NN parte)
+       )
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN jovens)
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB já)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP preparava)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB acompanhar)
+        )
+        (NP 
+         (DT os)
+         (NN treinos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

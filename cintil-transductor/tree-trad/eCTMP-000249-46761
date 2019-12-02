@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS fundo)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS palavra)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NNS comissário)
+         )
+        )
+       )
+       (PP 
+        (IN contra)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS palavra)
+          (PP 
+           (IN de)
+           (NP 
+            (DT um)
+            (NNS ciclista)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

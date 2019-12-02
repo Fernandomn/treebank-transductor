@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN mercado)
+     (ADJP 
+      (JJ privado)
+     )
+    )
+   )
+   (PP 
+    (IN sem)
+    (NP 
+     (NN interferência)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Banco_Central)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN dólar)
+   )
+   (VP 
+    (VBP foi)
+    (VBN negociado)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN R$)
+     (ADJP 
+      (CD 0.90)
+     )
+    )
+   )
+  )
+ )
+)

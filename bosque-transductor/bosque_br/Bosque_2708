@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Fuzis)
+   )
+   (VP 
+    (VBP disparam)
+   )
+   (UCP 
+    (NP 
+     (NN munição)
+     (ADJP 
+      (RB mais)
+      (JJ poderosa)
+     )
+    )
+    e
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NN alcance)
+      (ADJP 
+       (JJ maior)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (RB até)
+        (CD um)
+        (NN quilômetro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (VP 
+    (VBP condena)
+   )
+   (NP 
+    (DT a)
+    (NN disseminação)
+    (PP 
+     (IN de)
+     (NP 
+      (NN boatos)
+     )
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT os)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP atingiram)
+      )
+      (NP 
+       (NNP Luiz_Inácio_Lula_da_Silva)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN eleição)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 89)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

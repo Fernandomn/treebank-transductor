@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Investigadores)
+  )
+  (VP 
+   (VB discutem)
+   (NP 
+    (NP 
+     (NNS metodologias)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS pré-escolar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

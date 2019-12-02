@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS filme)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (VB banido)
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (S 
+      (VP 
+       (VB foi)
+       (VB contestado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

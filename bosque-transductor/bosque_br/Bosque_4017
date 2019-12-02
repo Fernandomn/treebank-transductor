@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (NP 
+    (NN cidades)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP enfrentam)
+     )
+     (NP 
+      (NN programas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN racionamento)
+        (PP 
+         (IN de)
+         (NP 
+          (NN água)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

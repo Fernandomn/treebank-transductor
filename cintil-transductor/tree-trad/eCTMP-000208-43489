@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (NP 
+       (DT a)
+       (NNS imprensa)
+      )
+      (VP 
+       (VB desmente)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS sacralização)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS personagens)
+            (JJ reais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB caem)
+     (NP 
+      (DT as)
+      (NNS asas)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS anjos)
+     )
+    )
+   )
+  )
+ )
+)

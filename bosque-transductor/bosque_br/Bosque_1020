@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP terminou)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 22h10)
+     )
+    )
+   )
+   (NP 
+    (NN metade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN pessoas)
+     )
+    )
+   )
+   (VP 
+    (VBP havia)
+    (VBN abandonado)
+   )
+   (NP 
+    (DT o)
+    (NN local)
+   )
+  )
+ )
+)

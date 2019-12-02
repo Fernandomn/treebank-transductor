@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Congresso)
+   )
+   (VP 
+    (VBP pede)
+   )
+   (NP 
+    (NN volta)
+    (PP 
+     (IN de)
+     (NP 
+      (NN órgão)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

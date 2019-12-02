@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT a)
+    (JJ primeira)
+    (NN vez)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT o)
+      (NN papa)
+     )
+     (VP 
+      (VBP indica)
+     )
+     (NP 
+      (DT uma)
+      (NN mulher)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT um)
+       (NN cargo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT esse)
+         (NN nível)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN Igreja)
+       (ADJP 
+        (JJ Católica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

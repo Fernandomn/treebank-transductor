@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Câmara)
+     (NNS Municipal)
+     (NNS de_)
+     (NNS o)
+     (NNS Barreiro)
+    )
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (VP 
+      (VB participar)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS construção)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB cedendo)
+        (NP 
+         (DT os)
+         (NNS terrenos)
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NNS efeito)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Vietname)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (DT O)
+        (NP 
+         (NNS Odor)
+         (NNS de_)
+         (NNS a)
+         (NNS Papaia)
+         (NNS Verde)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (VB construído)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Paris)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS estúdios)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Bry-sur-Marne)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

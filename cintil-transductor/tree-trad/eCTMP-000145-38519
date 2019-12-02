@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Contudo)
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS CNM)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB há)
+     )
+     (NP 
+      (NP 
+       (NNS regras)
+       (JJ rígidas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

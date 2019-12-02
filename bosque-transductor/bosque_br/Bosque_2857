@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN maio)
+     (ADJP 
+      (JJ último)
+     )
+    )
+   )
+   (NP 
+    (NNP Badenes)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (VP 
+    (VP 
+     (VBN afastado)
+    )
+    e
+    (VP 
+     (VBN transferido)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN interior)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS problema)
+      (JJ fundamental)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS parte)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS empresas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS divulgação)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS informação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

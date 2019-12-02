@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS eleições)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS ano)
+           (JJ seguinte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB voltaram)
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB elegê)
+        (NP 
+         (PRP -lo)
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (NNS primeiro-ministro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

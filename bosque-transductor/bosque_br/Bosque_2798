@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ célebre)
+    (NN escultura)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Antonio_Canova)
+     )
+    )
+   )
+   (ADVP 
+    (RB atualmente)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Grã-Bretanha)
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG sendo)
+    (VBN cobiçada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN museu)
+     (NP 
+      (NNP Getty)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Malibu)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Califórnia)
+    )
+   )
+  )
+ )
+)

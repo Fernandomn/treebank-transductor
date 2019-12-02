@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Desde)
+      (RB aí)
+     )
+    )
+    (VP 
+     (VP 
+      (VB pergunto)
+      (RB sempre)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS cliente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

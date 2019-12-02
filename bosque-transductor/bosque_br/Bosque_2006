@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NNP EMTU)
+    )
+   )
+   (NP 
+    (RB cerca_de)
+    (NP 
+     (CD 215)
+     (NN mil)
+    )
+    (NN pessoas)
+   )
+   (VP 
+    (VBP utilizam)
+   )
+   (ADVP 
+    (RB diariamente)
+   )
+   (NP 
+    (DT o)
+    (NN corredor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN trólebus)
+     )
+    )
+   )
+  )
+ )
+)

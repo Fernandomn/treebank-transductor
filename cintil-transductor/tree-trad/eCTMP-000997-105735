@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NNS autarca)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS município)
+      (JJ escalabitano)
+     )
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB iniciou)
+      (NP 
+       (NP 
+        (NP 
+         (NNS contactos)
+         (JJ informais)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT esse)
+          (NNS sentido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP É)
+    )
+    (NP 
+     (DT uma)
+     (NN coisa)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Primeiro_Mundo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (DT o)
+    (NN levantador)
+    (NP 
+     (NNP Maurício)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP leia)
+    )
+    (NP 
+     (NN matéria)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN lado)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB evitar)
+     )
+     (VP 
+      (VP 
+       (VB dar)
+      )
+      (NP 
+       (DT um)
+       (NN não)
+       (ADJP 
+        (JJ definitivo)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Marise)
+   )
+   (VP 
+    (VBP deixou)
+   )
+   (ADVP 
+    (RB claro)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP deve)
+     (VB recusar)
+    )
+    (NP 
+     (DT o)
+     (NN convite)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Brizola)
+      )
+     )
+    )
+   )
+  )
+ )
+)

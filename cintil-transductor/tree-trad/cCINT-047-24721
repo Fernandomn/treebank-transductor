@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS Rui)
+     )
+     (VP 
+      (VB ficou)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ grande)
+         (NNS dilema)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB acabou)
+      (PP 
+       (IN por)
+       (VB dizer)
+      )
+     )
+    )
+   )
+  )
+ )
+)

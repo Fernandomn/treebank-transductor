@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje)
+   )
+   (VP 
+    (VBP tenho)
+   )
+   (NP 
+    (NP 
+     (RB só)
+     (DT uma)
+     (NN fazenda)
+    )
+    e
+    (NP 
+     (DT pouco)
+     (RB mais_de)
+     (CD 500)
+     (NN cabeças)
+     (PP 
+      (IN de)
+      (NP 
+       (NN gado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT o)
+    (NN orçamento)
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 5)
+       (NN milhões)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP insinua)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN informação)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ séria)
+    )
+   )
+  )
+ )
+)

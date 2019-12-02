@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN reprodução)
+    (VBN assistida)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN regulamentada)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+    (PP 
+     (IN desde)
+     (NP 
+      (NN novembro)
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 1992)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN embora)
+    (NP 
+     (DT sua)
+     (NN prática)
+    )
+    (VP 
+     (VBP tenha)
+     (VBN sido)
+     (VBN iniciada)
+    )
+    (ADVP 
+     (NP 
+      (CD oito)
+      (NN anos)
+     )
+     (RB antes)
+    )
+   )
+  )
+ )
+)

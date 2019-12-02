@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Menciona)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS efeitos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB teve)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NNS Alexandre)
+           )
+          )
+         )
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS separação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NNS pais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

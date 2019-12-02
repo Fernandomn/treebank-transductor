@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS locais)
+       (JJ habituais)
+      )
+     )
+    )
+    (VP 
+     (VB serão)
+     (VB vendidos)
+    )
+   )
+   (NP 
+    (NP 
+     (ADVP 
+      (RB cerca)
+      (RB de)
+     )
+     (NP 
+      (CD 20)
+      (CD mil)
+     )
+    )
+    (NNS bilhetes)
+   )
+  )
+ )
+)

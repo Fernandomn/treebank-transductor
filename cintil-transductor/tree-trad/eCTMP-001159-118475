@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (CONJP 
+        (CONJP 
+         (CC Se)
+         (S 
+          (VP 
+           (VB quer)
+           (NP 
+            (NNS jogadores)
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VB pague)
+        (NP 
+         (PRP -os)
+        )
+       )
+      )
+      (NP 
+       (PRP você)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB disse)
+     )
+     (NP 
+      (NP 
+       (NNS Silva)
+       (NNS Vieira)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ atónito)
+       (NNS jornalista)
+      )
+     )
+    )
+   )
+  )
+ )
+)

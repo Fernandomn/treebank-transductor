@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 25)
+       (NNS anos)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Cândida)
+      (NNS Abelheira)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS mulher)
+       (ADJP 
+        (VB marcada)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS vida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

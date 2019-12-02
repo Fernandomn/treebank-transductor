@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Dacosta)
+   )
+   (VP 
+    (VP 
+     (VB recordou)
+     (ADVP 
+      (ADVP 
+       (RB a)
+       (RB propósito)
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS cenas)
+       (JJ patéticas)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NP 
+          (NNS mensagens)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Natal)
+           )
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS soldados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

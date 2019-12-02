@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Nunca)
+    (VP 
+     (VP 
+      (VB puderam)
+      (VB existir)
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB havia)
+        )
+        (NP 
+         (NP 
+          (NNS espaço)
+          (PP 
+           (IN para)
+           (NP 
+            (PRP elas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

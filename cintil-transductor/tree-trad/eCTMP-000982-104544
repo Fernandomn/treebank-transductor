@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VP 
+       (VB Enviou)
+       (RB mesmo)
+      )
+      (NP 
+       (DT uma)
+       (NNS carta)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ministro)
+        (NNS de_)
+        (NNS a)
+        (NNS Cultura)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB dizendo)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB podia)
+         )
+         (VP 
+          (VB haver)
+          (NP 
+           (NNS discriminações)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN livro)
+    (NP 
+     (NNP Apresentando_Rembrandt_-_Pintor,_Gravador,_Professor)
+    )
+    (NP 
+     (NN editora)
+     (NP 
+      (NNP Klick)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Alexander_Sturgis)
+     )
+    )
+   )
+   (VP 
+    (VBP conta)
+   )
+   (NP 
+    (DT muitas)
+    (DT outras)
+    (NN coisas)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (NP 
+      (DT a)
+      (NN vida)
+     )
+     e
+     (NP 
+      (DT as)
+      (NN obras)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN pintor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

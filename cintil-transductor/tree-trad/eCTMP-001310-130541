@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Ziff-Davis)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN para)
+       (IN além)
+       (IN de_)
+      )
+      (NP 
+       (DT as)
+       (NNS revistas)
+      )
+     )
+    )
+    (VP 
+     (VB possui)
+     (NP 
+      (NP 
+       (DT o)
+       (NNS ZDNet)
+      )
+      (NP 
+       (NP 
+        (DT um)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (ADJP 
+             (RB mais)
+             (JJ frequentados)
+            )
+            (NP 
+             (NP 
+              (NNS sites)
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS Internet)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Subiu)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN palco)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (DT o)
+      (NN candidato)
+      (PP 
+       (IN a)
+       (NP 
+        (NN vice)
+        (NP 
+         (NNP Aloizio_Mercadante)
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (DT os)
+      (NN candidatos)
+      (PP 
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN governo)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN Estado)
+           (NP 
+            (NNP José_Dirceu)
+            (NP 
+             (NNP PT)
+            )
+           )
+          )
+         )
+        )
+       )
+       e
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN Senado)
+         (NP 
+          (NP 
+           (NNP Luiza_Erundina)
+           (NP 
+            (NNP PT)
+           )
+          )
+          e
+          (NP 
+           (NNP João_Hermann)
+           (NP 
+            (NNP PPS)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

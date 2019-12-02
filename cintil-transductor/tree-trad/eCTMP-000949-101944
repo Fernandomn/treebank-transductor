@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Primeiro)
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      (VB acolhida)
+      (PP 
+       (IN em_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS centro)
+           (JJ desportivo)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Split)
+           )
+          )
+         )
+        )
+        (NP 
+         (NP 
+          (DT um)
+          (NP 
+           (NNS antro)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS promiscuidade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

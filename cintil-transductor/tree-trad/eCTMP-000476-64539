@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Leitura)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS comboio)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNS ida)
+     (NP 
+      (CC e)
+      (NNS volta)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (NP 
+   (DT Outro)
+   (NN lado)
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Lara)
+    )
+   )
+   (VP 
+    (NP 
+     (PRP ela)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP estudou)
+      )
+      (NP 
+       (NN canto)
+       (ADJP 
+        (JJ lírico)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBP adora)
+      )
+      (NP 
+       (NN música)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP costuma)
+       (VB cantar)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NN shows)
+        )
+        e
+        (NP 
+         (NN jam_sessions)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NN amigos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

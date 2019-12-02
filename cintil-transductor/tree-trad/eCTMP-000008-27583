@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD Três)
+    (NP 
+     (NP 
+      (NNS jovens)
+      (JJ portugueses)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB fazem)
+        (NP 
+         (NP 
+          (NNS música)
+          (JJ portuguesa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

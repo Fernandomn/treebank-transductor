@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NP 
+        (NNS cave)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (JJ antigas)
+          )
+         )
+        )
+       )
+       (ADJP 
+        (ADJP 
+         (JJ estreita)
+         (ADJP 
+          (CC mas)
+          (JJ alta)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (JJ sólidas)
+         (NP 
+          (NNS paredes)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS pedra)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

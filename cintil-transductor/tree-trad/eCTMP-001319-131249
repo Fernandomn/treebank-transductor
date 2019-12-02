@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS maioria)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS programas)
+        (JJ actuais)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB suporta)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS família)
+      (NNS DeskJet)
+     )
+    )
+   )
+  )
+ )
+)

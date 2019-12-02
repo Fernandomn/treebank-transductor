@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por_)
+    (NP 
+     (DT o)
+     (NNS caminho)
+    )
+   )
+   (S 
+    (VP 
+     (VB ficaram)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (CD 11)
+      (NP 
+       (NNS equipas)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (RB não)
+           (VB conseguiram)
+          )
+          (NP 
+           (DT um)
+           (NP 
+            (NNS lugar)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS play-off)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por)
+      (RB cá)
+     )
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VB vivemos)
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS estímulos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS Estebes)
+            )
+            (ADJP 
+             (ADJP 
+              (ADVP 
+               (RB tão)
+               (RB bem)
+              )
+              (ADJP 
+               (VB criado)
+               (PP 
+                (IN por)
+                (NP 
+                 (NP 
+                  (NNS Herman)
+                  (NNS José)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

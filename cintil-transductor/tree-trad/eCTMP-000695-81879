@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS relatório)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esse)
+       (NP 
+        (NNS trabalho)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS CNE)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (RB depois)
+     )
+     (VB publicado)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Diário)
+       (NNS de_)
+       (NNS a)
+       (NNS República)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Lançam)
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS palavra-chave)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT estas)
+          (NNS situações)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NNS estabilidade)
+       )
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VP 
+       (VB inserindo)
+       (NP 
+        (PRP -a)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS contexto)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS comparação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS adversário)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Lokomotiv)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Moscovo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB difere)
+     )
+     (RB muito)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Ruch)
+       (NNS Chorzow)
+      )
+     )
+    )
+   )
+  )
+ )
+)

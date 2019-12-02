@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS JOSÉ)
+    (NNS ESTEBES)
+   )
+  )
+  (VP 
+   (VB CRIA)
+   (NP 
+    (NP 
+     (NNS GLOSSÁRIO)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS EUROPEU)
+      )
+     )
+    )
+   )
+  )
+ )
+)

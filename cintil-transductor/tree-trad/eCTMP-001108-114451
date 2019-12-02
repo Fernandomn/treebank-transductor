@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Serão)
+    (VB executadas)
+   )
+   (NP 
+    (NP 
+     (NNS obras)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Bach)
+        (NNS Schnittke)
+        (NNS Telemann)
+        (NNS e)
+        (NNS Stradella)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

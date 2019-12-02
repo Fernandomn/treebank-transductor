@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS ONU)
+   )
+   (VP 
+    (VB faz)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (DT a)
+         (NNS América)
+        )
+        (VP 
+         (VB quer)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

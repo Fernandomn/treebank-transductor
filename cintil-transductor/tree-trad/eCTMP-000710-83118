@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS equipamento)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (DT a)
+          (NNS Opel)
+         )
+         (VP 
+          (VP 
+           (VP 
+            (VB apostou)
+            (RB fortemente)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (DT o)
+             (NNS Astra)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

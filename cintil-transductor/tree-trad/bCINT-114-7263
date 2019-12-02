@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Alguns)
+    (NNS soldados)
+   )
+   (VP 
+    (VP 
+     (VB teriam)
+     (VP 
+      (VB ficado)
+      (VB feridos)
+     )
+    )
+    (PP 
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS porta-voz)
+         (JJ militar)
+        )
+        (ADJP 
+         (VB citado)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NNS Reuters)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

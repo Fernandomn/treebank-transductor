@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS consumidor)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS garras)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS oficinas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

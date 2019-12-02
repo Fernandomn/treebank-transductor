@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Johnny)
+     (NP 
+      (NN guitarra)
+     )
+    )
+    (NP 
+     (NNP Joey)
+     (NP 
+      (NN vocal)
+     )
+    )
+    (NP 
+     (NNP CJ)
+     (NP 
+      (NN baixo)
+     )
+    )
+    e
+    (NP 
+     (NNP Mark)
+     (NP 
+      (NN bateria)
+     )
+    )
+   )
+   (VP 
+    (VBP falam)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT o)
+     (NN surgimento)
+     (PP 
+      (IN de+)
+      (NP 
+       (NP 
+        (DT o)
+        (NN grupo)
+       )
+       (NP 
+        (DT a)
+        (NN influência)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Iggy_Pop)
+         )
+        )
+       )
+       (NP 
+        (NN processo)
+        (PP 
+         (IN de)
+         (NP 
+          (NN criação)
+         )
+        )
+       )
+       e
+       (NP 
+        (DT o)
+        (NN revival)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN punk)
+          (VP 
+           (VP 
+            (VBN considerado)
+           )
+           (ADJP 
+            (ADJP 
+             (JJ ridículo)
+            )
+            e
+            (ADJP 
+             (JJ ilegítimo)
+            )
+           )
+           (PP 
+            (IN por)
+            (NP 
+             (NNP CJ)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (PP 
+     (IN de)
+     (ADJP 
+      (CD 91)
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN bolhas)
+    (ADJP 
+     (ADJP 
+      (JJ finas)
+     )
+     (ADJP 
+      (JJ abundantes)
+     )
+     e
+     (ADJP 
+      (JJ persistentes)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP lhe)
+     )
+     (VP 
+      (VBP dão)
+     )
+     (NP 
+      (DT um)
+      (NN paladar)
+      (ADJP 
+       (JJ cremoso)
+      )
+      (VP 
+       (VP 
+        (VBN marcado)
+       )
+       (NP 
+        (RB como)
+        (NP 
+         (DT o)
+         (NN aroma)
+        )
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (DT um)
+         (NN toque)
+         (ADJP 
+          (JJ atraente)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NN cascas)
+            (ADJP 
+             (JJ cítricas)
+            )
+           )
+           e
+           (NP 
+            (NN framboesa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

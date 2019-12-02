@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Cristo)
+   )
+   (VP 
+    (VP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NP 
+        (JJ pobres)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NP 
+        (JJ desprotegidos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

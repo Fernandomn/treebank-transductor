@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 1989)
+    )
+   )
+   (PP 
+    (IN após)
+    (VP 
+     (VP 
+      (VB ganhar)
+     )
+     (NP 
+      (DT diversos)
+      (NN títulos)
+      (ADJP 
+       (ADJP 
+        (JJ paulistas)
+       )
+       e
+       (ADJP 
+        (JJ brasileiros)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN kart)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Barrichello)
+   )
+   (VP 
+    (VBP disputou)
+   )
+   (NP 
+    (DT o)
+    (NNP Campeonato_Brasileiro_de_Fórmula_Ford)
+   )
+   (VP 
+    (VP 
+     (VBG terminando)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (JJ quarto)
+      (NN lugar)
+     )
+    )
+   )
+  )
+ )
+)

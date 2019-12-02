@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS pés)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS porco)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS rabo)
+       (NP 
+        (NP 
+         (NNS bucho)
+         (NP 
+          (NP 
+           (NNS presunto)
+           (NP 
+            (NP 
+             (NNS salpicão)
+             (NP 
+              (CC e)
+              (NNS toucinho)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB fazem)
+     (ADVP 
+      (RB igualmente)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS parte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS ementa)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS almoço)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Terça-Feira)
+               (NNS Gorda)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

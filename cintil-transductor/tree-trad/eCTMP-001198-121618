@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (CD Duas)
+     (NNS pessoas)
+    )
+    (VP 
+     (VB querem)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+       (NP 
+        (NNS banco)
+        (PP 
+         (PP 
+          (IN em)
+          (IN frente)
+          (IN a)
+         )
+         (NP 
+          (DT um)
+          (NP 
+           (NNS colégio)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS meninas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS milícias)
+     (JJ sérvias)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB lançaram)
+       (RB ontem)
+      )
+      (NP 
+       (DT um)
+       (NNS contra-ataque)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS região)
+        (NNS de)
+        (NNS Zadar)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB desalojando)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS croatas)
+         (PP 
+          (IN de_)
+          (NP 
+           (NP 
+            (DT a)
+            (NP 
+             (NP 
+              (NNS aldeia)
+              (JJ estratégica)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NNS Kasic)
+              )
+             )
+            )
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (DT outras)
+             (NNS localidades)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

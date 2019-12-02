@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NNS França)
+  )
+  (VP 
+   (VB regulamenta)
+   (NP 
+    (NP 
+     (NNS permanência)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS cidadãos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS países)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS UE)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

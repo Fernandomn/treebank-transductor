@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS aspecto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS JCP)
+    )
+    (VP 
+     (VP 
+      (VB critica)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS estagnação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS investimentos)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT esta)
+             (NNS área)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (CC uma)
+     (CC vez)
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS construção)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (JJ novos)
+           (NP 
+            (NNS edifícios)
+            (JJ escolares)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB previu)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS construção)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS cantinas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

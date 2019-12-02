@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Pronorte)
+  )
+  (VP 
+   (VB financia)
+   (NP 
+    (NP 
+     (NNS ponte)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Ermida)
+      )
+     )
+    )
+   )
+  )
+ )
+)

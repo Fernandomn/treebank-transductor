@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Vamos)
+      (VB ganhar)
+     )
+     (CC nem)
+     (CC que)
+     (S 
+      (VP 
+       (VB seja)
+       (PP 
+        (IN com)
+        (NP 
+         (DT os)
+         (NNS juniores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

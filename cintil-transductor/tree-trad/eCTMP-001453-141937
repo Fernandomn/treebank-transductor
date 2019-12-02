@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS termos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS semana)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB perdeu)
+     (NP 
+      (CD 51.71)
+      (NNS pontos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje)
+   )
+   (NP 
+    (DT as)
+    (NN coisas)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (ADJP 
+    (JJ melhores)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN comunidade)
+     (ADJP 
+      (JJ latina)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NNP EUA)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Partido)
+     (NNS Socialista)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB enviou)
+      (PP 
+       (PP 
+        (PP 
+         (IN a_)
+         (IN o)
+         (IN fim)
+         (IN de_)
+        )
+        (NP 
+         (DT a)
+         (NNS tarde)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS ramo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS rosas)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Presidente)
+       (NNS de_)
+       (NNS a)
+       (NNS República)
+      )
+     )
+    )
+   )
+  )
+ )
+)

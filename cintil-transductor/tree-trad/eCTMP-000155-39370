@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Nevoeiro)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB desvia)
+   (NP 
+    (CD três)
+    (NNS aviões)
+   )
+  )
+ )
+)

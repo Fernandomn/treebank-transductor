@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP ONU)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP admitiu)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT os)
+       (NN sérvios)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP haviam)
+       (VBN cumprido)
+      )
+      (NP 
+       (DT as)
+       (NN exigências)
+      )
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP recusou)
+     )
+     (NP 
+      (NN autorização)
+      (PP 
+       (IN para)
+       (NP 
+        (NN bombardeio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

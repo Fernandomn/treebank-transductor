@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esta)
+    (NN armação)
+   )
+   (VP 
+    (VBP dá)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN equipe)
+    )
+   )
+   (NP 
+    (DT um)
+    (NN caráter)
+    (ADJP 
+     (RB excessivamente)
+     (JJ defensivo)
+    )
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP desagrada)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT aqueles)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP esperam)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN seleção)
+         (ADJP 
+          (JJ brasileira)
+         )
+        )
+       )
+       (NP 
+        (DT um)
+        (NN futebol)
+        (ADJP 
+         (JJ alegre)
+        )
+       )
+       (ADVP 
+        (RB sempre)
+       )
+       (VP 
+        (VP 
+         (VBG visando)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN gol)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

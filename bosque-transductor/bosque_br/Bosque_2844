@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Serroni)
+   )
+   (VP 
+    (NP 
+     (DT A)
+     (NN peça)
+    )
+    (VP 
+     (VBP previa)
+    )
+    (NP 
+     (CD três)
+     (NN casas)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT uma)
+       (NN clareira)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NN floresta)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

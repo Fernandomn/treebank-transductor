@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD 23)
+    (PP 
+     (IN de)
+     (NP 
+      (NN julho)
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 93)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT Um)
+    (NN jato)
+    (ADJP 
+     (JJ britânico)
+    )
+    (NP 
+     (NNP Aerospace_146)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP China_Northwest_Airlines)
+     )
+    )
+   )
+   (VP 
+    (VBP caiu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN região)
+     (ADJP 
+      (JJ autônoma)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Ningxia_Hui)
+      )
+     )
+    )
+   )
+  )
+ )
+)

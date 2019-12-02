@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ nova)
+    (NN reivindicação)
+   )
+   (VP 
+    (VBP irritou)
+   )
+   (NP 
+    (DT os)
+    (NN partidos)
+    (ADJP 
+     (JJ favoráveis)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN revisão)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP criticaram)
+     )
+     (NP 
+      (DT a)
+      (NN proposta)
+     )
+    )
+   )
+  )
+ )
+)

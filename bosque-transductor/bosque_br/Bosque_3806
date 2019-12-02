@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (NP 
+     (DT a)
+     (NN mulher)
+    )
+    (VP 
+     (VBP precisa)
+    )
+    (ADVP 
+     (RB hoje)
+    )
+    (PP 
+     (IN em_termos_de)
+     (NP 
+      (NN roupas)
+     )
+    )
+   )
+  )
+ )
+)

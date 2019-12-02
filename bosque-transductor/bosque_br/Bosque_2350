@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN droga)
+   )
+   (VP 
+    (VBP foi)
+    (VBN aprovada)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN julho)
+     (VBN passado)
+    )
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NNP FDA)
+     (NP 
+      (NN órgão)
+      (PP 
+       (IN de)
+       (NP 
+        (NN fiscalização)
+        (PP 
+         (IN de)
+         (NP 
+          (NN medicamentos)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NNP Estados_Unidos)
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NN tratamento)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN doença)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essas)
+    (NNS reuniões)
+   )
+   (VP 
+    (VB deverão)
+    (VP 
+     (VB ocorrer)
+     (PP 
+      (IN até)
+      (NP 
+       (NP 
+        (NNS final)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS mês)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

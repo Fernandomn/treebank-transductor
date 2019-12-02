@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN governo)
+    )
+    (VP 
+     (VBP cria)
+    )
+    (NP 
+     (DT a)
+     (NN URV)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP estabelece)
+    )
+    (NP 
+     (DT um)
+     (NN prazo)
+     (NP 
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD três)
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (CD quatro)
+        (NN meses)
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (IN que)
+       (NP 
+        (DT a)
+        (NN sociedade)
+       )
+       (VP 
+        (VBP negocie)
+       )
+       (NP 
+        (NN conversões)
+        (ADJP 
+         (JJ voluntárias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

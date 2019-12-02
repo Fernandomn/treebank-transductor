@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VB Chegou)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS momento)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS reflexão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS primeiro-ministro)
+       (NNS de)
+       (NNS Dublin)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Bertie)
+       (NNS Ahern)
+      )
+     )
+    )
+   )
+  )
+ )
+)

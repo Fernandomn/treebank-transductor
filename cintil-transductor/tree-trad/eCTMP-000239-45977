@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT essa)
+     (NNS altura)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS apontador)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS tiro)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB -CL-ia)
+       (NP 
+        (PRP -lo)
+       )
+      )
+      (RB cautelosamente)
+     )
+     (CC até)
+     (CC que)
+     (S 
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB pudesse)
+      )
+      (VP 
+       (VB retirar)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS pastilha)
+         (JJ detonadora)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Gostei)
+      (RB muito)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (ADJP 
+        (JJ parecido)
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS nada)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB tenha)
+              (VP 
+               (VB visto)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

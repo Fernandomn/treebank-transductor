@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Só)
+     (VP 
+      (VB soubemos)
+      (PP 
+       (PP 
+        (IN através)
+        (IN de_)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NNS imprensa)
+         (JJ local)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB depois)
+      (VP 
+       (RB já)
+       (VP 
+        (VP 
+         (RB não)
+         (VB pudemos)
+        )
+        (VP 
+         (VB fazer)
+         (NP 
+          (NNS nada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

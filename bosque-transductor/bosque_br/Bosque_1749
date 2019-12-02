@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN índice)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (DT mesmo)
+    (VP 
+     (VP 
+      (VBN registrado)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN novembro)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN ano)
+         (VBN passado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

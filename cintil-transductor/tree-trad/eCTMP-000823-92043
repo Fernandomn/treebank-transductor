@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Livingstone)
+   )
+   (VP 
+    (VB propõe)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS reforma)
+       (JJ radical)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS política)
+           (JJ económica)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS partido)
+           )
+          )
+         )
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (PP 
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NP 
+                (PP sua)
+                (NNS opinião)
+               )
+              )
+             )
+            )
+            (VP 
+             (VB foi)
+             (NP 
+              (DT a)
+              (NP 
+               (JJ principal)
+               (NP 
+                (NNS causa)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT a)
+                  (NP 
+                   (NNS derrota)
+                   (JJ eleitoral)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

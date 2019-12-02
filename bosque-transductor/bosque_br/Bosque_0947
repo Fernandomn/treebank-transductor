@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Atriz)
+    (NP 
+     (NNP Ricki_Lake)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP protesta)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP passa)
+     )
+     (NP 
+      (DT a)
+      (NN noite)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN cadeia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

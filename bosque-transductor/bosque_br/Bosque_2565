@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Sei)
+     )
+     (VP 
+      (IN que)
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP estou)
+       (VBG rendendo)
+      )
+      (NP 
+       (PRP tudo)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP posso)
+        )
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP estou)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN evolução)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

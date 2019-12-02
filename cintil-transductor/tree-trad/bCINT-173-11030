@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Domingo)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS tarde)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS vez)
+      (PP 
+       (IN de_)
+       (NP 
+        (NP 
+         (DT os)
+         (NP 
+          (NNS Netos)
+          (NNS de_)
+          (NNS o)
+          (NNS N)
+          (NNS Gumbé)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Tabanka)
+           (NNS Djaz)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

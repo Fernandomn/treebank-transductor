@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Tinha)
+    )
+    (NP 
+     (NN vôo)
+     (VP 
+      (VP 
+       (VBN marcado)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT esta)
+        (NN noite)
+        (ADVP 
+         (RB ontem)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (IN porque)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP imaginava)
+     )
+     (VP 
+      (VP 
+       (VB ser)
+      )
+      (ADJP 
+       (JJ capaz)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB vencer)
+         )
+         (NP 
+          (NNP Sampras)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Alami)
+   )
+  )
+ )
+)

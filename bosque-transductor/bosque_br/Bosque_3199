@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NNP LaserJet)
+    (NP 
+     (NP 
+      (NNP 4_Plus)
+     )
+     e
+     (NP 
+      (NNP 4M_Plus)
+     )
+    )
+   )
+   (VP 
+    (VBP substituem)
+   )
+   (NP 
+    (DT os)
+    (NN modelos)
+    (UCP 
+     (NP 
+      (CD 4)
+     )
+     e
+     (ADJP 
+      (CD 4M)
+     )
+    )
+   )
+  )
+ )
+)

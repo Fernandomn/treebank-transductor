@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Santo_André)
+   )
+   (VP 
+    (VBP perdeu)
+   )
+   (ADVP 
+    (PP 
+     (IN por)
+     (NP 
+      (CD 2)
+     )
+    )
+    (PP 
+     (IN a)
+     (ADJP 
+      (CD O)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NNP Rio_Branco)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Americana)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB ontem)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN tarde)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN estádio)
+     (NP 
+      (NNP Bruno_José_Daniel)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Santo_Andr)
+    )
+   )
+  )
+ )
+)

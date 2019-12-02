@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS contrapartida)
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NNS EUA)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (NP 
+       (RB apenas)
+       (NP 
+        (CD dois)
+        (NP 
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS espectadores)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB vêem)
+      (NP 
+       (NP 
+        (NNS filmes)
+        (PP 
+         (IN de)
+         (NP 
+          (DT outras)
+          (NNS origens)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

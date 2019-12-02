@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Sempre)
+    (VP 
+     (VP 
+      (VB fui)
+      (ADJP 
+       (RB muito)
+       (JJ claro)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (PP minhas)
+        (NNS convicções)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (RB Também)
+    (PP 
+     (PP 
+      (IN até)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS final)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS caderno)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS encargos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB estará)
+     (JJ disponível)
+    )
+   )
+  )
+ )
+)

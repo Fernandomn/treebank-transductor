@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Interessado)
+    )
+    (PP 
+     (IN em)
+     (VP 
+      (VP 
+       (VB organizar)
+      )
+      (NP 
+       (DT um)
+       (NN livro)
+       (PP 
+        (IN de)
+        (NP 
+         (NN arte)
+         (PP 
+          (IN sobre)
+          (NP 
+           (NN viajantes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Ronaldo_Graça_Couto)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN produtora)
+      (NP 
+       (NNP Metavídeo/Metalivros)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP tomou)
+     )
+     (NP 
+      (NN conhecimento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN pesquisa)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP procurou)
+     )
+     (NP 
+      (NNP Belluzzo)
+     )
+    )
+   )
+  )
+ )
+)

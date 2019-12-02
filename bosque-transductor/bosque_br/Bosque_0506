@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Isso)
+    )
+    (ADVP 
+     (RB ainda)
+     (RB não)
+    )
+    (VP 
+     (VBP ficou)
+    )
+    (VP 
+     (VP 
+      (VBN acertado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN governo)
+       (ADJP 
+        (JJ canadense)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

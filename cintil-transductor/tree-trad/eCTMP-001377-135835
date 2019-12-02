@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS PCP)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (NP 
+      (NNS aumento)
+      (JJ imediato)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS pensões)
+      )
+     )
+    )
+   )
+  )
+ )
+)

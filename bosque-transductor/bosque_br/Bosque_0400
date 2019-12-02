@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN Justiça)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Trabalho)
+     )
+    )
+   )
+   (VP 
+    (VBP passaria)
+    (IN a)
+    (VB tratar)
+   )
+   (PP 
+    (RB apenas)
+    (IN de+)
+    (NP 
+     (DT os)
+     (NN conflitos)
+     (ADJP 
+      (JJ individuais)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP sejam)
+       (VBN resolvidos)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (JJ próprio)
+        (NN ambiente)
+        (PP 
+         (IN de)
+         (NP 
+          (NN trabalho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

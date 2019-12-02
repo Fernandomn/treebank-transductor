@@ -1,0 +1,88 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Gostaríamos)
+       (PP 
+        (PP 
+         (IN por)
+         (NP 
+          (NNS exemplo)
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Espanha)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de)
+         (NP 
+          (DT outros)
+          (NP 
+           (NNS países)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS Europa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (RB não)
+       (VB apareceu)
+      )
+     )
+     (NP 
+      (PRP nenhum)
+      (NP 
+       (NP 
+        (NNS projecto)
+        (JJ sólido)
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB mereça)
+          (NP 
+           (DT o)
+           (NP 
+            (PP nosso)
+            (NNS interesse)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

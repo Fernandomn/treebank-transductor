@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS parede)
+     (JJ verde)
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NP 
+     (CD segunda)
+     (NNS circular)
+    )
+   )
+  )
+ )
+)

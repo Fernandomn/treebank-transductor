@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Tem)
+      (NP 
+       (NP 
+        (NNS pontos)
+        (ADJP 
+         (RB muito)
+         (JJ fortes)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ataque)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS entrada)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Irina)
+         (NNS Smirnova)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Tatiana)
+          (NNS Sidorenko)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

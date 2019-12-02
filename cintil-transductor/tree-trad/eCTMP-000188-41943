@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB Está)
+       (JJ bom)
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB poderia)
+       (VP 
+        (VB estar)
+        (JJ melhor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

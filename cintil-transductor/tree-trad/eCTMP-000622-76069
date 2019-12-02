@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS panorama)
+   )
+   (VP 
+    (VP 
+     (VB agravou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ano)
+       (JJ passado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

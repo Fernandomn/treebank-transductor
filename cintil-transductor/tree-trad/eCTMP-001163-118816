@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS brigadeiro)
+     (NNS Portela)
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT as)
+       (NNS OGMA)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VB recebem)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Turbomeca)
+          )
+         )
+        )
+        (ADVP 
+         (RB anualmente)
+        )
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS média)
+         (PP 
+          (IN de)
+          (NP 
+           (CD 35)
+           (NNS motores)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

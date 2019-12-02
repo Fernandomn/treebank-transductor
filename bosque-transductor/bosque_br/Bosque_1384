@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Salvador)
+    )
+   )
+   (VP 
+    (VBP haverá)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (NP 
+    (DT a)
+    (NN inauguração)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN estação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Lapa)
+       (NP 
+        (NN centro)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN balcão)
+      (PP 
+       (IN de)
+       (NP 
+        (NN informações)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT as)
+          (NN questões)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN mulher)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Tim)
+     (NNS Floyd)
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NP 
+        (NNS técnico)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS Chicago)
+           (NNS Bulls)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

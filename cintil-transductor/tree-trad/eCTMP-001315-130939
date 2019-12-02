@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Enquanto)
+     (S 
+      (NP 
+       (DT os)
+       (NNS factos)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB forem)
+       )
+       (VB apurados)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS transporte)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS doentes)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VP 
+       (VB ser)
+       (VB visto)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS lupa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

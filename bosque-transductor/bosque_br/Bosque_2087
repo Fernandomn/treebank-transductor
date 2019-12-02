@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Teremos)
+   )
+   (ADVP 
+    (RB então)
+   )
+   (NP 
+    (DT um)
+    (NN meio-campo)
+    (ADJP 
+     (ADJP 
+      (ADVP 
+       (RB ainda)
+       (RB mais)
+      )
+      (JJ sólido)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN proteção)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN zaga)
+         )
+        )
+       )
+      )
+     )
+     e
+     (ADJP 
+      (RB mais)
+      (ADJP 
+       (ADJP 
+        (JJ inteligente)
+       )
+       (ADJP 
+        (JJ veloz)
+       )
+       e
+       (ADJP 
+        (JJ agressivo)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN combinação)
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NN ataque)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Polícias)
+  )
+  (VP 
+   (VB pedem)
+   (NP 
+    (NP 
+     (NP 
+      (NNS penas)
+      (ADJP 
+       (RB mais)
+       (JJ duras)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NNS agressores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

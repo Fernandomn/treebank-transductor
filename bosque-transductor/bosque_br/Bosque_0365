@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN distribuição)
+   )
+   (VP 
+    (VBP acontecerá)
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mês)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG partindo)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN capitais)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN interior)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN país)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

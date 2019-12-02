@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VB assisti)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS postura)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (CD uma)
+          )
+          (NP 
+           (CC ou)
+           (NP 
+            (CD duas)
+            (NNS tartarugas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (NP 
+               (PRP me)
+              )
+              (VB disse)
+             )
+            )
+            (NP 
+             (DT o)
+             (NP 
+              (NNS radioamador)
+              (JJ americano)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB tinham)
+       (NP 
+        (NP 
+         (ADVP 
+          (RB cerca)
+          (RB de)
+         )
+         (CD 75)
+        )
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

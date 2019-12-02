@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN exclusão)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Maradona)
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB ter)
+      (VBN jogado)
+     )
+     (ADJP 
+      (VBN dopado)
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT a)
+       (NNP Nigéria)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP abalou)
+   )
+   (NP 
+    (DT os)
+    (NN jogadores)
+   )
+  )
+ )
+)

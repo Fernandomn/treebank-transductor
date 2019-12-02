@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS azar)
+    )
+   )
+   (VP 
+    (VP 
+     (VB montara)
+     (NP 
+      (DT a)
+      (NNS teia)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NNS esquina)
+     )
+    )
+   )
+  )
+ )
+)

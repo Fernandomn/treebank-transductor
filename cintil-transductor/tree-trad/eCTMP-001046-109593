@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Augusto)
+     (NNS Marques)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB deu)
+      (RB também)
+     )
+     (NP 
+      (NNS razão)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS críticas)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS investigadores)
+         )
+        )
+       )
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS relação)
+           (PP 
+            (IN com)
+            (NP 
+             (DT o)
+             (NNS mercado)
+            )
+           )
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB tem)
+             (VP 
+              (VB sido)
+              (VB prosseguida)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

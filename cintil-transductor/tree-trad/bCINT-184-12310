@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT aquele)
+       (NNS tempo)
+      )
+     )
+    )
+    (VB existia)
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS reino)
+      (JJ poderoso)
+     )
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (S 
+         (VP 
+          (VB ocupava)
+          (NP 
+           (DT uma)
+           (NP 
+            (JJ grande)
+            (NP 
+             (NNS extensão)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS terra)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (S 
+         (CC e)
+         (S 
+          (VP 
+           (VB tinha)
+           (NP 
+            (PRP muitos)
+            (NNS súbditos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

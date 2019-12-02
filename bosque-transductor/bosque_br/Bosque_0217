@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN secretário)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Tesouro)
+      (NP 
+       (NNP Lloyd_Bentsen)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN questão)
+     (ADJP 
+      (JJ ética)
+     )
+    )
+    (VP 
+     (VBP vai)
+     (VB ser)
+     (VBN examinada)
+    )
+    (ADVP 
+     (RB agora)
+    )
+   )
+  )
+ )
+)

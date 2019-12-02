@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (RB Ainda)
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN de)
+       (IN acordo)
+       (IN com)
+      )
+      (NP 
+       (DT o)
+       (NNS documento)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB haverá)
+      (RB também)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ maior)
+       (NP 
+        (NNS criação)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS empregos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN lei)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP prevê)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN até)
+     (NP 
+      (DT o)
+      (NN final)
+      (PP 
+       (IN de)
+       (NP 
+        (NN junho)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+    (VP 
+     (VBP enviará)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN Congresso)
+     )
+    )
+    (NP 
+     (DT um)
+     (NN projeto)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NN elevação)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN valor)
+         (ADJP 
+          (JJ real)
+         )
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN salário)
+         (ADJP 
+          (JJ mínimo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

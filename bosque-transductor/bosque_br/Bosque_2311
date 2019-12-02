@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN vinho)
+    (ADJP 
+     (JJ ligeiro)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN aroma)
+       (ADJP 
+        (JJ simples)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN frutas)
+         (ADJP 
+          (JJ vermelhas)
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (JJ boa)
+       (NN acidez)
+      )
+     )
+    )
+    (ADJP 
+     (JJ ideal)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB ser)
+        (VBN bebido)
+       )
+       (VBN refrescado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

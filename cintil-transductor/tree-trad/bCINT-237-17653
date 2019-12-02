@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT este)
+     (NNS contexto)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS família)
+    )
+    (VP 
+     (VB desempenha)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS papel)
+        (JJ fundamental)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP nosso)
+          (NNS desenvolvimento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

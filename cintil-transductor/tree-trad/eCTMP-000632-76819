@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Soares)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS guerra)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS esgotos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

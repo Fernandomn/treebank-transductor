@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS BCP)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT outro)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS bancos)
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (NNS procura)
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN com)
+            (NP 
+             (DT uma)
+             (NP 
+              (NP 
+               (NNS subida)
+               (JJ pronunciada)
+              )
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (CD 2,21)
+                 (NP 
+                  (NN por)
+                  (NN cento)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

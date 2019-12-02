@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS versão)
+        (JJ portuguesa)
+       )
+      )
+     )
+     (VP 
+      (VB vou)
+      (VP 
+       (VB jogar)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS contrário)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB será)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS versão)
+        (ADJP 
+         (RB clinicamente)
+         (JJ portuguesa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

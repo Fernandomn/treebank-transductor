@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS fontes)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS receita)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vão)
+    (VP 
+     (VB continuar)
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (RB não)
+        (VB equilibrar)
+       )
+       (NP 
+        (DT o)
+        (NNS orçamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

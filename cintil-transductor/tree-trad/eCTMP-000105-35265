@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (RB Hoje)
+   (S 
+    (VP 
+     (VB instalou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ estranha)
+      (NP 
+       (NNS versão)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS economia)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS mercado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

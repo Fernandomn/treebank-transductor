@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Telecel)
+   )
+   (VP 
+    (VB quer)
+    (VP 
+     (VB manter)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS quota)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 60)
+          (NP 
+           (NP 
+            (NN por)
+            (NN cento)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS mercado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

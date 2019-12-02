@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Declarações)
+     (ADJP 
+      (VB feitas)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS julgamento)
+          (NNS Henderson)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB parecem)
+    (VP 
+     (VB provar)
+     (NP 
+      (DT o)
+      (NNS contrário)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,130 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN negociações)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN volta)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Mansell)
+       )
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NNP F-1)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP tiveram)
+     )
+     (NP 
+      (NN início)
+     )
+     (PP 
+      (RB logo)
+      (IN após)
+      (NP 
+       (DT as)
+       (CD 500)
+       (NN Milhas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Indianápolis)
+        )
+       )
+       (VP 
+        (VP 
+         (VBN realizada)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN mês)
+          (VBN passado)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP continuaram)
+     )
+     (PP 
+      (IN durante)
+      (NP 
+       (DT as)
+       (CD 200)
+       (NN Milhas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Milwaukee)
+        )
+       )
+       (VP 
+        (VP 
+         (VBN disputada)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (JJ último)
+          (NN dia)
+          (ADJP 
+           (CD 5)
+          )
+          (VP 
+           (ADVP 
+            (RB quando)
+           )
+           (VP 
+            (VBP recebeu)
+           )
+           (NP 
+            (DT a)
+            (NN visita)
+            (PP 
+             (IN de)
+             (NP 
+              (DT alguns)
+              (NN engenheiros)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NNP Williams)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS escola)
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VP 
+      (VB entrar)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS funcionamento)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS ano)
+         (JJ lectivo)
+        )
+        (NP 
+         (NNS 1997)
+         (NNS 98)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

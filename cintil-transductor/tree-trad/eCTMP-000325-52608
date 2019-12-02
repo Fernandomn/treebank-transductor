@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De)
+    (RB fora)
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB ficou)
+      (RB também)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS representante)
+       (NNS de_)
+       (NNS o)
+       (NNS Banco)
+       (NNS Popular)
+       (NNS Español)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Ricardo)
+       (NNS Lacasa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

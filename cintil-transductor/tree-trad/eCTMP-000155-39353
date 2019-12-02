@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS imperadores)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS estádio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB marcam)
+      (NP 
+       (NNS território)
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NNS súbditos)
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VB exorbitando)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NNS palcos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS cientistas)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB estão)
+      (RB igualmente)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB explorar)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS memória)
+         (NP 
+          (CC e)
+          (NNS percepção)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ novas)
+       (NNS máquinas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

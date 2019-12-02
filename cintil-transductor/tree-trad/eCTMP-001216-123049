@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (PP 
+    (NP 
+     (DT Este)
+     (NNS ano)
+    )
+   )
+   (S 
+    (ADVP 
+     (RB inclusive)
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS Festival)
+     )
+     (VP 
+      (VB tinha)
+      (NP 
+       (DT outro)
+       (NP 
+        (JJ aliciante)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT os)
+     (NN produtores)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN incentivo)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN pesquisa)
+     )
+    )
+   )
+   (VP 
+    (VBP elevará)
+   )
+   (NP 
+    (DT este)
+    (NN desempenho)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (CD 2.400)
+     (NN kg)
+     (PP 
+      (IN $/)
+      (NP 
+       (NN ha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

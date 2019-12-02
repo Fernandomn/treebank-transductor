@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Conselho_Monetário_Nacional)
+   )
+   (VP 
+    (VBP aprovou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT uma)
+    (JJ nova)
+    (NN linha)
+    (PP 
+     (IN de)
+     (NP 
+      (NN empréstimos)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Banco_Central)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB socorrer)
+     )
+     (NP 
+      (NN bancos)
+      (PP 
+       (IN de)
+       (NP 
+        (DT qualquer)
+        (NN porte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

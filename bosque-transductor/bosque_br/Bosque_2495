@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADJP 
+    (JJ difícil)
+   )
+   (VP 
+    (VP 
+     (VB encontrar)
+    )
+    (NP 
+     (NN patrocinadores)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN projeto)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Antonio_Carlos_de_Moura)
+     (ADJP 
+      (CD 35)
+     )
+     (NP 
+      (NN diretor)
+      (ADJP 
+       (JJ comercial)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN empresa)
+        (NP 
+         (NNP Folha_da_Manhã_S/A)
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP edita)
+         )
+         (NP 
+          (DT a)
+          (NNP Folha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,99 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Um)
+     (NN mecenas)
+     (ADJP 
+      (JJ nobre)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VBP deifica)
+        )
+        (NP 
+         (DT o)
+         (NN saber)
+        )
+        (ADVP 
+         (RB antes)
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VBP mistifica)
+        )
+        (NP 
+         (DT o)
+         (NN dar)
+        )
+        (ADVP 
+         (RB depois)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC ou)
+   (VP 
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP deve)
+     (VB ser)
+    )
+    (NP 
+     (DT um)
+     (NN iconoclasta)
+     (VP 
+      (VP 
+       (VB espalhar)
+      )
+      (VP 
+       (NP 
+        (PRP o_que)
+       )
+       (VP 
+        (VBP sabe)
+       )
+      )
+      (VP 
+       (ADVP 
+        (RB enquanto)
+       )
+       (NP 
+        (DT o)
+        (NN tempo)
+       )
+       (VP 
+        (VBP faz)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN novidades)
+        )
+       )
+       (NP 
+        (NN fatos)
+        (ADJP 
+         (JJ descartáveis)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

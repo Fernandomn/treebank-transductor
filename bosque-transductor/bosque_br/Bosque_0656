@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+    (NN núcleos)
+    (ADJP 
+     (JJ coloniais)
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (PRP eles)
+     )
+    )
+    (NP 
+     (DT o)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Vale_do_Ribeira)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN ocupados)
+   )
+   (PP 
+    (IN a_partir_de)
+    (NP 
+     (NN terras)
+     (VP 
+      (VP 
+       (VBN vendidas)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

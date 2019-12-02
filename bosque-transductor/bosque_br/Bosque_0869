@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN material)
+   )
+   (VP 
+    (VBP será)
+    (VBN transferido)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN memória)
+     (PP 
+      (IN de)
+      (NP 
+       (NN computadores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN cheia)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NN outubro)
+       )
+       e
+       (NP 
+        (NN abril)
+       )
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (NP 
+       (DT a)
+       (NN média)
+       (ADJP 
+        (JJ mensal)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN chuvas)
+        )
+       )
+      )
+      (VP 
+       (VBP supera)
+      )
+      (NP 
+       (CD 290)
+       (NN milímetros)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN irrigação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN arroz)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN feita)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN inundação)
+    )
+   )
+  )
+ )
+)

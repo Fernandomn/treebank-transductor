@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS resposta)
+   )
+   (VP 
+    (VP 
+     (VB estava)
+     (RB ali)
+    )
+    (PP 
+     (PP 
+      (RB bem)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS vista)
+         (PP 
+          (IN de)
+          (NP 
+           (PRP todos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

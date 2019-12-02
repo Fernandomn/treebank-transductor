@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Actualmente)
+    (VP 
+     (VP 
+      (VB vive)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS familiares)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Alabama)
+      )
+     )
+    )
+   )
+  )
+ )
+)

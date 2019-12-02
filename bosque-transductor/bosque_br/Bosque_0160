@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NN ceticismo)
+     (PP 
+      (IN em_relação_a)
+      (NP 
+       (NN planos)
+       (ADJP 
+        (JJ econômicos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP faz)
+    )
+    (VP 
+     (NP 
+      (DT a)
+      (NN população)
+     )
+     (VP 
+      (VB manter)
+     )
+     (NP 
+      (NN reservas)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (DT o)
+    (NP ex-diretor)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Política_Monetária)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP BC)
+     )
+    )
+    (NP 
+     (NNP Luís_Eduardo_de_Assis)
+     (NP 
+      (NN diretor)
+      (PP 
+       (IN de)
+       (NP 
+        (NN investimentos)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Citibank)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

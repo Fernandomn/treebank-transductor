@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Houve)
+    (RB contudo)
+   )
+   (NP 
+    (PRP algumas)
+    (NP 
+     (NNS reacções)
+     (PP 
+      (PP 
+       (IN acerca)
+       (IN de_)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NNS benefícios)
+         (PP 
+          (IN para)
+          (NP 
+           (DT os)
+           (NNS consumidores)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS perspectiva)
+           (ADJP 
+            (RB menos)
+            (JJ imediata)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS pessoas)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB viram)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS discurso)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS demissão)
+            )
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Presidente)
+             (NNS Nixon)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB puderam)
+    (VP 
+     (VB observar)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (PRP ele)
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB estava)
+        )
+        (RB bem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

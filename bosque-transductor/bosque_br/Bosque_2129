@@ -1,0 +1,85 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (VP 
+     (VBP prefere)
+    )
+    (NP 
+     (DT as)
+     (NN missões)
+     (ADJP 
+      (JJ espaciais)
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN disposição)
+    )
+   )
+   (NP 
+    (RB cerca_de)
+    (CD oito)
+    (NN horas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN informações)
+      (PP 
+       (IN sobre)
+       (NP 
+        (CD 1.600)
+        (NN missões)
+       )
+      )
+      (VP 
+       (VP 
+        (VBG incluindo)
+       )
+       (NP 
+        (NP 
+         (DT o)
+         (NN programa)
+         (NP 
+          (NNP Apollo)
+         )
+        )
+        e
+        (NP 
+         (DT o)
+         (NN passeio)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN astronauta)
+           (NP 
+            (NNP Neil_Armstrong)
+           )
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN Lua)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

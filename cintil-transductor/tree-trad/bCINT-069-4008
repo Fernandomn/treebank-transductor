@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS opiniões)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS sócios)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB são)
+      (RB ainda)
+     )
+     (JJ coincidentes)
+    )
+    (PP 
+     (PP 
+      (IN quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS apoio)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (PP 
+           (PP 
+            (IN a)
+            (IN partir)
+            (IN de)
+           )
+           (NP 
+            (NNS quinta-feira)
+           )
+          )
+          (VP 
+           (VB vão)
+           (VP 
+            (VP 
+             (VB dispensar)
+            )
+            (PP 
+             (IN a_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS equipa)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS futebol)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

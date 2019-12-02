@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Túnel)
+    (NNS de_)
+    (NNS a)
+    (NNS Gardunha)
+   )
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NNS ano)
+    )
+   )
+  )
+ )
+)

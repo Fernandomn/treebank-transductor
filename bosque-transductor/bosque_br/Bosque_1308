@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Países)
+    (ADJP 
+     (NP ex-comunistas)
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (NNP Polônia)
+      )
+      e
+      (NP 
+       (NNP Hungria)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (NN interesse)
+    (PP 
+     (IN em)
+     (VP 
+      (VP 
+       (VB entrar)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP Otan)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

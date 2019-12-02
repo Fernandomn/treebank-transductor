@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Bossi)
+   )
+   (VP 
+    (VB pediu)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS pausa)
+       (PP 
+        (IN de)
+        (NP 
+         (CD dois)
+         (NNS dias)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS negociações)
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (NP 
+             (NNS Berlusconi)
+            )
+            (NP 
+             (NP 
+              (DT o)
+              (NP 
+               (NNS primeiro-ministro)
+               (ADJP 
+                (VB indigitado)
+               )
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS Aliança)
+              (NNS Nacional)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Mesa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN século)
+      (ADJP 
+       (CD 18)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vale)
+   )
+   (NP 
+    (CD dois)
+    (NN Fuscas)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP SP)
+    )
+   )
+  )
+ )
+)

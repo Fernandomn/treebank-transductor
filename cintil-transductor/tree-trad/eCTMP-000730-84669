@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS países)
+      (JJ europeus)
+     )
+     (ADJP 
+      (RB mais)
+      (JJ renitentes)
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (DT a)
+      (NNS Inglaterra)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS Noruega)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS França)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

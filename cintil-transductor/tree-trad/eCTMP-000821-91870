@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Quanto)
+       (IN a_)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS casos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS negligência)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (VB referido)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (NP 
+       (CD 22,5)
+       (NP 
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS incêndios)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB são)
+      (VP 
+       (VB provocados)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS fumadores)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NNS cama)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

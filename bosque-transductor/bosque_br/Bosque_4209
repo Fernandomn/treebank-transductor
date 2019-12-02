@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN sinalizações)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP tem)
+      (VBN dado)
+     )
+     (NP 
+      (DT o)
+      (NN presidente)
+      (VBN eleito)
+      (NP 
+       (NNP Fernando_Henrique_Cardoso)
+      )
+     )
+    )
+   )
+   (NP 
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN reforma)
+      (ADJP 
+       (JJ patrimonial)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Estado)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ auspiciosas)
+   )
+  )
+ )
+)

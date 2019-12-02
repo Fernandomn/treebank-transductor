@@ -1,0 +1,51 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Bandeira)
+    (JJ britânica)
+   )
+  )
+  (VP 
+   (RB só)
+   (VP 
+    (VP 
+     (VP 
+      (VB será)
+      (VB içada)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS esquadras)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Irlanda)
+           (NNS de_)
+           (NNS o)
+           (NNS Norte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS dias)
+       (JJ especiais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

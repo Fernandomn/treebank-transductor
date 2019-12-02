@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Vai)
+      (VP 
+       (RB mesmo)
+       (VP 
+        (VB haver)
+        (NP 
+         (NNS acórdão)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB sublinha)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ mesma)
+      (NNS fonte)
+     )
+    )
+   )
+  )
+ )
+)

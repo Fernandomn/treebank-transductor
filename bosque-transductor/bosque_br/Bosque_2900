@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP foram)
+    (VBN apontados)
+   )
+   (NP 
+    (NN suspeitos)
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN atentado)
+     )
+    )
+   )
+   (VP 
+    (IN embora)
+    (VP 
+     (VBP tenha)
+     (VBN sido)
+     (VBN dito)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN polícia)
+    )
+    (VP 
+     (VBP achou)
+    )
+    (NP 
+     (NN pistas)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN terroristas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

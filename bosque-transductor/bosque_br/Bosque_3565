@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Foi)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (CD um)
+        (NN ano)
+       )
+       e
+       (NP 
+        (CD três)
+        (NN meses)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (NP 
+    (DT o)
+    (NN prefeito)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (DT sua)
+    (JJ melhor)
+    (NN avaliação)
+   )
+  )
+ )
+)

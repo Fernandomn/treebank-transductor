@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (VB começou)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS anúncio)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT um)
+         (NNS jornal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

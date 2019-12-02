@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS debate)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS moeda)
+         (JJ única)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB hoje)
+        (VP 
+         (VB decorre)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Parlamento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS final)
+       (JJ previsível)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS destinatários)
+        (JJ evidentes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

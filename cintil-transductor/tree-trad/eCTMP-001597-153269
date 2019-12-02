@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS montante)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB integralmente)
+     )
+     (VB injectado)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS taxa)
+        (JJ média)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 9,0102)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

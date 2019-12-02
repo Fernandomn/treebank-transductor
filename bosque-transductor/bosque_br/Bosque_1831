@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (VP 
+    (VBP propôs)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP desencadeasse)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT esta)
+      (NN coluna)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NN campanha)
+     (ADJP 
+      (JJ nacional)
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (NN saudações)
+       (VBN lambuzadas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

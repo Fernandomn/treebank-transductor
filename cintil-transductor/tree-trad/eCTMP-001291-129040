@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NNS Portugal)
+  )
+  (VP 
+   (VP 
+    (VB venceu)
+    (NP 
+     (DT o)
+     (NNS Brasil)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (JJ grandes)
+      (NNS penalidades)
+     )
+    )
+   )
+  )
+ )
+)

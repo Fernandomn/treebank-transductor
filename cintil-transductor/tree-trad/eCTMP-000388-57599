@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS maestro)
+     (NP 
+      (NNS Álvaro)
+      (NNS Cassuto)
+     )
+    )
+   )
+   (VP 
+    (VB dirige)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Orquestra)
+      (NNS Sinfónica)
+      (NNS Portuguesa)
+      (NNS e)
+      (NNS o)
+      (NNS Coro)
+      (NNS de_)
+      (NNS o)
+      (NNS Teatro)
+      (NNS São)
+      (NNS Carlos)
+     )
+    )
+   )
+  )
+ )
+)

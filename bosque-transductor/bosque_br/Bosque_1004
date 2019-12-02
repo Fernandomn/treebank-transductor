@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A)
+    (NP 
+     (NN princípio)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN dúvida)
+   )
+   (VP 
+    (VBP era)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT a)
+     (NN necessidade)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB jogar)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (CD dois)
+         (NN volantes)
+         (ADJP 
+          (JJ meias)
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (ADVP 
+           (RB também)
+          )
+          (VP 
+           (VBP auxiliam)
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT a)
+            (NN defesa)
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (NNP Dunga)
+          )
+          e
+          (NP 
+           (NNP Mauro_Silva)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

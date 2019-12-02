@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ reduzida)
+     (NP 
+      (NNS actividade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS floor)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (RB não)
+      (VB justificava)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS existência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

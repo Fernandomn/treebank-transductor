@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Lista)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS deputados)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB provoca)
+   (NP 
+    (NP 
+     (NNS demissão)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS PSD-Bragança)
+      )
+     )
+    )
+   )
+  )
+ )
+)

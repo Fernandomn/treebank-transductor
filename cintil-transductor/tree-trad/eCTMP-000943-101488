@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Ainda)
+     (VP 
+      (ADVP 
+       (RB recentemente)
+      )
+      (VP 
+       (VB fez)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS exposição)
+         (PP 
+          (IN a_)
+          (NP 
+           (NP 
+            (DT o)
+            (NNS quartel-mestre-general)
+           )
+           (NP 
+            (NP 
+             (NNS Oliveira)
+             (NNS Pinto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB obteve)
+       )
+       (NP 
+        (NNS resposta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

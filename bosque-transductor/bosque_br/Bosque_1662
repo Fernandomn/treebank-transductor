@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT O)
+     (NN motorista)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Gol)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT uma)
+     (NN passageira)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Voyage)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP morreram)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN hora)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Sol)
+     (NP 
+      (CC e)
+      (NNS praia)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS razões)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS clima)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (CD dois)
+     (NP 
+      (JJ importantes)
+      (NP 
+       (NNS factores)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS atracção)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS turistas)
+             (JJ russos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

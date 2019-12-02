@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ mesma)
+     (NNS prudência)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VB adoptada)
+      (PP 
+       (IN por)
+       (NP 
+        (NNS Ramos-Horta)
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (VP 
+      (VB confrontado)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS missiva)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Xanana)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

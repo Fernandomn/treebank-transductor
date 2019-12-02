@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN durante)
+       (NP 
+        (DT a)
+        (NNS trégua)
+       )
+      )
+     )
+     (VP 
+      (VB tenho)
+      (VP 
+       (VB ido)
+       (VP 
+        (VP 
+         (VB passear)
+         (PP 
+          (IN com)
+          (NP 
+           (DT os)
+           (NP 
+            (PP meus)
+            (NNS amigos)
+           )
+          )
+         )
+        )
+        (ADVP 
+         (RB calmamente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

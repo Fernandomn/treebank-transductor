@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NP 
+       (NNS homens)
+       (NP 
+        (CC e)
+        (NNS mulheres)
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB entram)
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NNS polícia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB são)
+      )
+      (VB feitos)
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NNS laboratório)
+       )
+      )
+      (PP 
+       (CC ou)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS linha)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS robótica)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

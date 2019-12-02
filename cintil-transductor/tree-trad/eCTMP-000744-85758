@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outras)
+    (NNS consequências)
+   )
+   (VP 
+    (VP 
+     (VB poderão)
+     (VP 
+      (VB surgir)
+      (ADVP 
+       (RB mais)
+       (RB tarde)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC se)
+      (S 
+       (NP 
+        (DT o)
+        (NNS eleitorado)
+       )
+       (VP 
+        (VP 
+         (VB mantiver)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS futuro)
+          )
+         )
+        )
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NP 
+           (NNS voto)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS quinta-feira)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

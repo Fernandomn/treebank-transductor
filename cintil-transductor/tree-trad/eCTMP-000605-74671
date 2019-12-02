@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS teatro)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS operações)
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS destino)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB seria)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Sul)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Itália)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

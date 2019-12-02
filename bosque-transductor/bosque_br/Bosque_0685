@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN centro)
+     (PP 
+      (IN de)
+      (NP 
+       (DT todos)
+       (DT esses)
+       (DT nossos)
+       (NN esforços)
+       (PP 
+        (IN de)
+        (NP 
+         (NN qualidade)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (NP 
+    (DT o)
+    (DT nosso)
+    (NN cliente)
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Zanettini)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN análise)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Consema)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (NN resultado)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN compromisso)
+      (VP 
+       (VP 
+        (VBN assumido)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN sexta-feira)
+         (VBN passada)
+        )
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NN governador)
+         (NP 
+          (NNP Fleury)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

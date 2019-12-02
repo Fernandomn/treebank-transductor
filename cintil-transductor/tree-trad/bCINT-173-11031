@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS festival)
+   )
+   (VP 
+    (VP 
+     (VB encerra)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS noite)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS cantora)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Benin)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NNS Angélique)
+        (NNS Kidjo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

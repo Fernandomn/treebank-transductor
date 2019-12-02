@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Armindo)
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS tempo)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT a)
+          (NNS ria)
+         )
+         (VP 
+          (VP 
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB enchia)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NP 
+              (NP 
+               (NNS velas)
+               (JJ brancas)
+              )
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NNS moliceiros)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

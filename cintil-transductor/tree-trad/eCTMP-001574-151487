@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Assim)
+   )
+   (S 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS final)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS tarde)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS SRPCA)
+     )
+     (VP 
+      (VB entrou)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS sistema)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS prevenção)
+            (JJ simples)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

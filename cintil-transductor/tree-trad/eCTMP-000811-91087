@@ -1,0 +1,59 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP si)
+         )
+        )
+        (RB mesmo)
+       )
+       (VP 
+        (VB constitui)
+        (NP 
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS forma)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS consagração)
+            )
+           )
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS acentuação)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS importância)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (JJ Pequenas)
+     (NNS concentrações)
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VB são)
+     (VP 
+      (VP 
+       (VB reprimidas)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS rufiões)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB gozam)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS tolerância)
+               (JJ policial)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

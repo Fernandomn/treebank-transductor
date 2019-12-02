@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (RB Então)
+    (S 
+     (NP 
+      (PRP eles)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB gostam)
+      )
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS mobílias)
+          (JJ antigas)
+         )
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS solares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

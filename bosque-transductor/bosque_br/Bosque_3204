@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Enquanto)
+    )
+    (NP 
+     (NNP Gloria_Pires)
+    )
+    (VP 
+     (VBP ficou)
+    )
+    (ADJP 
+     (JJ nervosa)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT sua)
+      (NN estréia)
+     )
+    )
+    (ADVP 
+     (RB como)
+     (NP 
+      (NN modette)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN marido)
+    (NP 
+     (NNP Orlando_Moraes)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP amou)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP pediu)
+     )
+     (NP 
+      (NN bis)
+     )
+    )
+   )
+  )
+ )
+)

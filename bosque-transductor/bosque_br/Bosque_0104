@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN brancos)
+   )
+   (VP 
+    (VBP fizeram)
+   )
+   (NP 
+    (PRP tudo)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT seu)
+     (NN poder)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VP 
+        (VP 
+         (VB invalidar)
+        )
+       )
+       ou
+       (VP 
+        (VP 
+         (VB menosprezar)
+        )
+       )
+      )
+      (NP 
+       (DT cada)
+       (NN sinal)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NN talento)
+          )
+          (NP 
+           (NN virtude)
+          )
+          ou
+          (NP 
+           (NN superioridade)
+          )
+         )
+         (PP 
+          (IN entre)
+          (NP 
+           (DT os)
+           (NN negros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

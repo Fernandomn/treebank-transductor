@@ -1,0 +1,162 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (NP 
+    (NN assessores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN federalista)
+      (NP 
+       (NNP Delors)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (CD dez)
+          (NN anos)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN presidência)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN CE)
+           )
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VBP aumentou)
+          )
+          (NP 
+           (DT os)
+           (NN poderes)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN cargo)
+            )
+           )
+          )
+         )
+         e
+         (VP 
+          (VP 
+           (VBP entrou)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NN conflito)
+            (PP 
+             (IN com)
+             (NP 
+              (NNP Margaret_Thatcher)
+              (NP 
+               (NN antecessora)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNP Major)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP temem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN escolha)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Santer)
+      )
+     )
+    )
+    (VP 
+     (VBP sirva)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB enfraquecer)
+      )
+      (NP 
+       (DT os)
+       (NN poderes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN presidente)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (VP 
+      (VBP abriria)
+     )
+     (NP 
+      (NN caminho)
+      (PP 
+       (IN para)
+       (VP 
+        (NP 
+         (DT o)
+         (NN eixo)
+         (NP 
+          (NNP Alemanha-França)
+         )
+        )
+        (VP 
+         (VB consolidar)
+        )
+        (NP 
+         (DT o)
+         (DT seu)
+         (NN domínio)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

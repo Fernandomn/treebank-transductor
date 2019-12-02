@@ -1,0 +1,19 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alberto)
+     (NNS Pessoa)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NNS arquitecto)
+    )
+   )
+  )
+ )
+)

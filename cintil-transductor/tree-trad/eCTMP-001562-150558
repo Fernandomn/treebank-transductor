@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Uma)
+     (NP 
+      (NNS mensagem)
+      (JJ erudita)
+     )
+    )
+    (VP 
+     (VP 
+      (VB perde)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS elites)
+      )
+     )
+    )
+   )
+  )
+ )
+)

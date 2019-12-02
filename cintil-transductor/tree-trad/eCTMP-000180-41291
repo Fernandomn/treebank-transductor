@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NNS país)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN a)
+     (VB sambar)
+    )
+   )
+   (PP 
+    (PP 
+     (IN até)
+     (IN a_)
+    )
+    (NP 
+     (DT as)
+     (NNS tantas)
+    )
+   )
+  )
+ )
+)

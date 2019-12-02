@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Edifer)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT outro)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS participantes)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS sessão)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS Ministério)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

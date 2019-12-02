@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS estações)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS rádio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB merecem)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS traição)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT essa)
+        (NP 
+         (NNS fidelidade)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NNS rádio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

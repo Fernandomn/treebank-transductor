@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Blatter)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN Comitê)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP levou)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN consideração)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN fato)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (DT o)
+        (NN jogador)
+       )
+       (VP 
+        (VB ter)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VP 
+         (VP 
+          (VBN desculpado)
+         )
+         e
+         (VP 
+          (VBN comparecido)
+         )
+        )
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN hospital)
+        )
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB visitar)
+         )
+         (NP 
+          (DT o)
+          (NN norte-americano)
+          (NP 
+           (NNP Tab_Ramos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

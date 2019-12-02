@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS estudantes)
+     (JJ americanos)
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS guerra)
+       (PP 
+        (IN contra)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS guerra)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Vietname)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

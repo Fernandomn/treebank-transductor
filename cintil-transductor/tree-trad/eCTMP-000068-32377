@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NNS Presidente)
+  )
+  (VP 
+   (VB começou)
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB ouvir)
+      (NP 
+       (DT os)
+       (NNS partidos)
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS indigitação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS PM)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

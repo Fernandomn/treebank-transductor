@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NNP TVs_Bandeirantes)
+    )
+    e
+    (NP 
+     (NNP TVA/ESPN)
+    )
+   )
+   (VP 
+    (VBP abrem)
+   )
+   (NP 
+    (NN espaço)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN futebol)
+      (ADJP 
+       (JJ americano)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB hoje)
+   )
+  )
+ )
+)

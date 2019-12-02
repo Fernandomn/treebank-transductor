@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD última)
+     (NNS peça)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (ADJP 
+        (RB mais)
+        (JJ breve)
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT a)
+       (NP 
+        (ADJP 
+         (RB mais)
+         (JJ pitoresca)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

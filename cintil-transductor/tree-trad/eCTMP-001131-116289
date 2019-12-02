@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS pêlo)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS páginas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS jornal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

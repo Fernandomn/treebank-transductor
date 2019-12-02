@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (ADJP 
+     (RB Apenas)
+     (CD 5)
+    )
+    (NN milhões)
+    (PP 
+     (IN de)
+     (NP 
+      (NN contribuintes)
+     )
+    )
+   )
+   (VP 
+    (VBP haviam)
+    (VBN entregue)
+   )
+   (NP 
+    (DT sua)
+    (NN declaração)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Imposto_de_Renda)
+     )
+    )
+   )
+   (PP 
+    (IN até)
+    (RB ontem)
+   )
+   (ADVP 
+    (RB pela_manhã)
+   )
+  )
+ )
+)

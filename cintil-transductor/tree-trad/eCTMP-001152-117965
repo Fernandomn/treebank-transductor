@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Santa)
+    (NNS Maria)
+    (NNS de_)
+    (NNS a)
+    (NNS Feira)
+   )
+  )
+  (VP 
+   (VB tem)
+   (NP 
+    (NP 
+     (NNS fogaças)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS prestígio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

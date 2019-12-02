@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Eric)
+      (NNS Gerets)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS treinador)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Lierse)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PÚBLICO)
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS equipa)
+       )
+      )
+      (VP 
+       (VB terá)
+       (PP 
+        (IN de)
+        (VB marcar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

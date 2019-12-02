@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP sei)
+    )
+    (VP 
+     (IN se)
+     (VP 
+      (VBP fui)
+     )
+     (ADJP 
+      (JJ claro)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP seria)
+    )
+    (ADJP 
+     (RB mais)
+     (JJ fácil)
+    )
+    (NP 
+     (DT um)
+     (NN pinguim)
+     (VP 
+      (VP 
+       (VB cruzar)
+      )
+      (NP 
+       (CD três)
+       (NNP Saaras)
+      )
+     )
+    )
+    (ADJP 
+     (SBAR do_que
+      (S 
+       (NNP FHC)
+      )
+      (VP 
+       (VB comer)
+      )
+      (NP 
+       (NN carne)
+       (PP 
+        (IN de)
+        (NP 
+         (NN bode)
+         (VP 
+          (VP 
+           (VBN espremido)
+          )
+          (PP 
+           (IN a)
+           (NP 
+            (DT um)
+            (NN magote)
+            (PP 
+             (IN de)
+             (NP 
+              (NN sertanejos)
+              (VBN suados)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

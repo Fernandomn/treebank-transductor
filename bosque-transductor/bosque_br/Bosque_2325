@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (VP 
+    (VP 
+     (IN como)
+     (NP 
+      (PRP ninguém)
+     )
+     (VP 
+      (VBP é)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN ferro)
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (NNP Orlando)
+     )
+     (VP 
+      (VBP fica)
+     )
+     (ADVP 
+      (RB perto)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (CD duas)
+        (NN horas)
+       )
+       e
+       (NP 
+        (NN meia)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN avião)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN turma)
+   )
+   (ADVP 
+    (RB depois)
+   )
+   (VP 
+    (VBP dá)
+   )
+   (NP 
+    (DT uma)
+    (NN passadinha)
+    (PP 
+     (IN para)
+     (NP 
+      (DT um)
+      (NN milk_shake)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNP Mickey)
+        )
+        e
+        (NP 
+         (NNP Pateta)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

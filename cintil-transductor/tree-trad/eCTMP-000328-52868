@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Os)
+     (NNS Centros)
+     (NNS de)
+     (NNS Educação)
+     (NNS Especial)
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN a)
+     (VP 
+      (VB mudar)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS regras)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS jogo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

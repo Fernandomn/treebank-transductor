@@ -1,0 +1,136 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+     )
+    )
+   )
+   (VP 
+    (VBP informou)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de)
+     (NP 
+      (NN nota)
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN assessoria)
+        (PP 
+         (IN de)
+         (NP 
+          (NN imprensa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN declarações)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN presidente)
+        (NP 
+         (NNP Itamar_Franco)
+        )
+       )
+      )
+      e
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN presidente)
+        (VBN eleito)
+        (NP 
+         (NNP Fernando_Henrique_Cardoso)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (NN medidas)
+       (ADJP 
+        (JJ federais)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN combate)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (NN tráfico)
+           (PP 
+            (IN de)
+            (NP 
+             (NN drogas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP configuram)
+    )
+    (NP 
+     (NN posições)
+     (ADJP 
+      (JJ análogas)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (DT o)
+          (NN governador)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN Estado)
+           )
+          )
+         )
+         (VP 
+          (VBP vem)
+          (VBG defendendo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

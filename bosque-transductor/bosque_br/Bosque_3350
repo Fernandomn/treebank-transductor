@@ -1,0 +1,105 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP A_Interpretação_dos_Sonhos)
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN textos)
+       (ADJP 
+        (JJ fundadores)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN psicanálise)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP apresenta)
+     )
+     (NP 
+      (DT toda)
+      (DT uma)
+      (NN tropologia)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN ato)
+        (PP 
+         (IN de)
+         (VB sonhar)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP dá)
+     )
+     (NP 
+      (DT a)
+      (NN base)
+      (PP 
+       (IN para)
+       (NP 
+        (DT uma)
+        (NN poética)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP combina)
+         )
+         (NP 
+          (DT a)
+          (NN teoria)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN tropologia)
+           )
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NN noção)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN invenção)
+             (ADJP 
+              (JJ poética)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

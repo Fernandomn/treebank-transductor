@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Saberá)
+    (NP 
+     (DT o)
+     (NNS ministro)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB são)
+      )
+      (NP 
+       (NP 
+        (NNS conceitos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mesmo)
+           (NNS género)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Fica)
+   )
+   (NP 
+    (ADJP 
+     (RB mais_de)
+     (CD 36)
+    )
+    (NN horas)
+    (ADJP 
+     (JJ ininterruptas)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN pronto-socorro)
+    )
+   )
+  )
+ )
+)

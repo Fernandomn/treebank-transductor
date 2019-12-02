@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NNS escocês)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+     (NP 
+      (DT isto)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NNS descoberta)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Governo)
+   )
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB por)
+      (RB outro)
+      (RB lado)
+     )
+    )
+    (VP 
+     (VP 
+      (VB pode)
+      (RB sempre)
+     )
+     (VP 
+      (VP 
+       (VB defender)
+       (NP 
+        (PRP qualquer)
+        (NNS escolha)
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS base)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS relatório)
+             (NNS de_)
+             (NNS a)
+             (NNS Inspecção)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

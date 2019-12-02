@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN lei)
+     (NP 
+      (NN antitruste)
+     )
+     (VP 
+      (VP 
+       (VBN aprovada)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN Congresso)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (DT as)
+     (NN deformações)
+     (ADJP 
+      (JJ típicas)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN situação)
+       (ADJP 
+        (JJ conjuntural)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Sabes)
+     (ADVP 
+      (RB muito)
+      (RB bem)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS Matemática)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (PP meu)
+         (NNS forte)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

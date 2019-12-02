@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT este)
+     (NN caso)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN registro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN candidatura)
+     )
+    )
+   )
+   (VP 
+    (VBP seria)
+    (VBN cancelado)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN Justiça)
+    )
+   )
+  )
+ )
+)

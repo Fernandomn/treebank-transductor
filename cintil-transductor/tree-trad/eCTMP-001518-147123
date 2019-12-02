@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS enquadramento)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ jornalístico)
+     (ADJP 
+      (ADJP 
+       (JJ documental)
+      )
+     )
+    )
+   )
+  )
+ )
+)

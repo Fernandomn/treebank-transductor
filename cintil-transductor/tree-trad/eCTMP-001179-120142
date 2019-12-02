@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS entrada)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (JJ novos)
+         (NNS caloiros)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB ser)
+      (VP 
+       (VB feita)
+       (PP 
+        (IN por)
+        (NP 
+         (PP nossa)
+         (NNS indicação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

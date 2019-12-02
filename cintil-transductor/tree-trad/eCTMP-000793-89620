@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Raul)
+     (NNS Solnado)
+    )
+   )
+   (VP 
+    (VB interpretará)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS papel)
+       (JJ cómico)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS carcereiro)
+          (NNS Frosh)
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NNS personagem)
+           (JJ dominante)
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (CD terceiro)
+             (NP 
+              (NNS acto)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NNS ópera)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

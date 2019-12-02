@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Turismo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Verão)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB despede)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Inverno)
+    )
+   )
+  )
+ )
+)

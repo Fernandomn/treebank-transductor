@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Expectativa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN inflação)
+      (ADJP 
+       (JJ menor)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP faz)
+   )
+   (VP 
+    (NP 
+     (NN juro)
+    )
+    (VP 
+     (VB cair)
+    )
+   )
+  )
+ )
+)

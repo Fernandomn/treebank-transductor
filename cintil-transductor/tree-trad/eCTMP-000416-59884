@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Queiroz)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS escola)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS África)
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS política)
+          )
+         )
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (DT os)
+            (NNS amigos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Taranto)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP soube)
+   )
+   (VP 
+    (VP 
+     (VB dizer)
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (DT os)
+      (NN parentes)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN vítimas)
+       )
+      )
+     )
+     (VP 
+      (VBP poderão)
+      (VB pedir)
+     )
+     (NP 
+      (DT alguma)
+      (NN indenização)
+     )
+    )
+   )
+  )
+ )
+)

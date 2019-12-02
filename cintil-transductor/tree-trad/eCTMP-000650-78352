@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Regras)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB podem)
+       (VP 
+        (VB condicionar)
+        (NP 
+         (NP 
+          (NNS operações)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS tipo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

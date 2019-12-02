@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Bibi)
+     (NNS Andersson)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NP 
+          (NNS actrizes)
+          (JJ preferidas)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Ingmar)
+            (NNS Bergman)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

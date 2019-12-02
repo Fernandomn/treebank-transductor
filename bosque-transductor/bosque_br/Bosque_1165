@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN segunda-feira)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN mãe)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Christian)
+      (NP 
+       (NNP Suzy_Fittipaldi)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP dissera)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP gostaria)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB pedir)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN filho)
+       )
+      )
+      (PP 
+       (IN para)
+       (IN que)
+       (VP 
+        (VBP abandonasse)
+       )
+       (NP 
+        (DT as)
+        (NN pistas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

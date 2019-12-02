@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN documentos)
+   )
+   (VP 
+    (VBP foram)
+   )
+   (VP 
+    (VP 
+     (VBN encontrados)
+     (PP 
+      (IN em)
+      (NP 
+       (NN papel)
+      )
+     )
+    )
+    ou
+    (VP 
+     (VBN retirados)
+     (PP 
+      (IN de)
+      (NP 
+       (NN disquetes)
+       (VP 
+        (VP 
+         (VBN apreendidos)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN casa)
+          (PP 
+           (IN de)
+           (NP 
+            (NNP Ailton_Reis)
+            (NP 
+             (NN diretor)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NNP Odebrecht)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

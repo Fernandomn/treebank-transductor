@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Herdade)
+    (NNS de_)
+    (NNS a)
+    (NNS Comporta)
+   )
+  )
+  (VP 
+   (VP 
+    (VB dá)
+    (NP 
+     (NP 
+      (JJ nova)
+      (NNS vida)
+     )
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS turismo)
+      (JJ alentejano)
+     )
+    )
+   )
+  )
+ )
+)

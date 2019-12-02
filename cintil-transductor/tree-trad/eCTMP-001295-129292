@@ -1,0 +1,92 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Mário)
+     (NNS Neves)
+    )
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PÚBLICO)
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (VP 
+        (VB estão)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS curso)
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS negociações)
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS criação)
+            (PP 
+             (IN de)
+             (NP 
+              (DT um)
+              (NP 
+               (NNS Colégio)
+               (NNS de_)
+               (NNS a)
+               (NNS Artes)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (ADVP 
+          (ADVP 
+           (RB em)
+           (RB breve)
+          )
+         )
+         (VP 
+          (VB será)
+          (VB inaugurado)
+         )
+        )
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Conservatório)
+          (NNS de_)
+          (NNS a)
+          (NNS Maia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

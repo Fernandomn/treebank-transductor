@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Applause)
+    (NP 
+     (DT um)
+     (NN sedã)
+     (NP 
+      (CD quatro)
+      (NN portas)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN motor)
+      (ADJP 
+       (CD 1.6)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN carro)
+    (ADJP 
+     (RB mais)
+     (JJ caro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Daihatsu)
+      )
+     )
+    )
+   )
+  )
+ )
+)

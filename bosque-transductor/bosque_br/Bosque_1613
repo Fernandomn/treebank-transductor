@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP São)
+    (VBN analisados)
+   )
+   (NP 
+    (DT os)
+    (NN preços)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 155)
+      (NP 
+       (NP 
+        (NN produtos)
+       )
+       e
+       (NP 
+        (NN serviços)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

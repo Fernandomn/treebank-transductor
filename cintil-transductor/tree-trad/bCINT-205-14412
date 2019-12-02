@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VB Existem)
+   (NP 
+    (NP 
+     (ADVP 
+      (RB por_)
+      (RB o)
+      (RB menos)
+     )
+     (CD quatro)
+    )
+    (NP 
+     (NP 
+      (NNS grupos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS White)
+         (NNS Cloud)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS funções)
+        (JJ polares)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

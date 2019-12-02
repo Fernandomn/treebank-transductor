@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS clima)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS isenção)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN acima)
+         (IN de_)
+        )
+        (NP 
+         (DT a)
+         (NNS suspeita)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

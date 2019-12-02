@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Nutom)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ nova)
+      (NP 
+       (NNS empresa)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS venda)
+           (JJ directa)
+          )
+          (PP 
+           (IN por)
+           (NP 
+            (NNS catálogo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

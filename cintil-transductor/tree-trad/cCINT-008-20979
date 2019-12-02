@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS amigo)
+     (PP meu)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB comprou)
+      (NP 
+       (DT um)
+       (NNS cão)
+      )
+     )
+     (PP 
+      (PP 
+       (IN através)
+       (IN de)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS anúncio)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS jornal)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (NP 
+       (DT a)
+       (NNS moção)
+      )
+      (VP 
+       (VB fosse)
+       (VB aprovada)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS resolução)
+    )
+    (VP 
+     (VB ficaria)
+     (VP 
+      (VB congelada)
+     )
+    )
+   )
+  )
+ )
+)

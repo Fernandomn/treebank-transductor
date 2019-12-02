@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN De)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Joaquim)
+        (NNS Furtado)
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB fez)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS leitura)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NP 
+                 (CD primeiro)
+                 (NP 
+                  (NNS comunicado)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT o)
+                    (NNS Movimento)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+           (PP 
+            (IN a_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS microfones)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS Rádio)
+                 (NNS Clube)
+                 (NNS Português)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

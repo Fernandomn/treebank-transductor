@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Quando)
+     )
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (NN menina)
+     )
+    )
+    (VP 
+     (VBP gostava)
+    )
+    (ADVP 
+     (RB muito)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB jogar)
+      )
+      (NP 
+       (NN futebol)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT meu)
+        (NN irmão)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT a)
+    (NN jogadora)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (PP 
+      (IN ao_contrário_de+)
+      (NP 
+       (DT o)
+       (NN vôlei)
+       (VP 
+        (ADVP 
+         (RB onde)
+        )
+        (VP 
+         (VBP atua)
+        )
+        (ADVP 
+         (ADVP 
+          (RB como)
+         )
+         (NP 
+          (NN atacante)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VBP prefere)
+     )
+     (VP 
+      (VP 
+       (VB jogar)
+      )
+      (ADVP 
+       (ADVP 
+        (RB como)
+       )
+       (NP 
+        (NN quarto-zagueiro)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN futebol)
+      )
+     )
+    )
+   )
+  )
+ )
+)

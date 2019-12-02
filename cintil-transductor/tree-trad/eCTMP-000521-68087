@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Era)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS madeira)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB tinha)
+       (NP 
+        (CD sete)
+        (NNS metros)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS altura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS teatro)
+     (ADJP 
+      (JJ amador)
+      (PP 
+       (CC ou)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS raiz)
+          (JJ popular)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB continua)
+      (JJ activo)
+     )
+     (PP 
+      (ADVP 
+       (RB um)
+       (RB pouco)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (PRP todo)
+        (NP 
+         (DT o)
+         (NNS Norte)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS realização)
+        (PP 
+         (IN de)
+         (NP 
+          (PRP vários)
+          (NNS espectáculos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

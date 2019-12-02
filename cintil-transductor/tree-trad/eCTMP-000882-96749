@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Até)
+     (RB agora)
+    )
+   )
+   (S 
+    (NP 
+     (NNS Portugal)
+    )
+    (VP 
+     (VP 
+      (VB tem)
+      (VB vivido)
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (NP 
+        (NNS leis)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB regulamentem)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS qualidade)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS ar)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

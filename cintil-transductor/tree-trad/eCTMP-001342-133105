@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Carris)
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (RB actualmente)
+    )
+    (NP 
+     (CD 5100)
+     (NP 
+      (NNS postos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS trabalho)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

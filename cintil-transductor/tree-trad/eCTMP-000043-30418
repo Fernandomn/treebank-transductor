@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VB pagou)
+   (NP 
+    (NP 
+     (NNS acções)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS CAP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

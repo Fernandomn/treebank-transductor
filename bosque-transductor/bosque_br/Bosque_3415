@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Podemos)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB dizer)
+       (NP 
+        (NN coisas)
+        (ADJP 
+         (JJ importantes)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB tomar)
+       (NP 
+        (JJ grandes)
+        (NN decisões)
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (IN se)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP tiver)
+     )
+     (NP 
+      (NN repercussão)
+     )
+    )
+   )
+  )
+ )
+)

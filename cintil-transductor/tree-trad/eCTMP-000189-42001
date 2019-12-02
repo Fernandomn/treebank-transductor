@@ -1,0 +1,87 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ponto)
+     (ADJP 
+      (RB mais)
+      (JJ importante)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB refere)
+         (CONJP 
+          (CC que)
+          (S 
+           (NP 
+            (DT o)
+            (NP 
+             (NNS conselho)
+             (NNS geral)
+             (NNS de_)
+             (NNS a)
+             (NNS TVI)
+            )
+           )
+           (VP 
+            (VB poderá)
+            (VP 
+             (VB aceitar)
+             (NP 
+              (DT uma)
+              (NP 
+               (NP 
+                (NNS redução)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS capital)
+                 )
+                )
+               )
+               (PP 
+                (IN em)
+                (NP 
+                 (NP 
+                  (ADVP 
+                   (RB cerca)
+                   (RB de)
+                  )
+                  (NP 
+                   (CD 60)
+                   (NP 
+                    (NN por)
+                    (NN cento)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

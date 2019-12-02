@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Continuamos)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ter)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ máxima)
+         (NP 
+          (NNS confiança)
+          (PP 
+           (IN em_)
+           (NP 
+            (PRP ele)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

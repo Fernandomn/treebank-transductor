@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Custa)
+   )
+   (NP 
+    (NN US$)
+    (ADJP 
+     (CD 45)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Multimídia_Center)
+     (NP 
+      (NN tel)
+      (ADJP 
+       (CD 011_959-2650)
+      )
+     )
+    )
+   )
+  )
+ )
+)

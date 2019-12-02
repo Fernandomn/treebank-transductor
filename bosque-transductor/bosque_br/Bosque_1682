@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Palmeiras/Parmalat)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP está)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (JJ terceiro)
+       (NN lugar)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN classificação)
+         (ADJP 
+          (JJ geral)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tenta)
+   )
+   (VP 
+    (VP 
+     (VB defender)
+    )
+    (NP 
+     (DT sua)
+     (NN invencibilidade)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN torneio)
+     )
+    )
+    (NP 
+     (PP 
+      (IN diante_de+)
+      (NP 
+       (DT o)
+       (NNP Flamengo)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Rio)
+     )
+    )
+   )
+  )
+ )
+)

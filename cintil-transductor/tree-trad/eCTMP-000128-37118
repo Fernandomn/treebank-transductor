@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Consegue)
+      (VP 
+       (VP 
+        (VB fazer)
+        (NP 
+         (NP 
+          (CD dois)
+         )
+         (NP 
+          (CC ou)
+          (NP 
+           (CD três)
+           (NNS contos)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNS dia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (PRP todos)
+       (NP 
+        (DT os)
+        (NNS dias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP CNDA)
+    (NP 
+     (NNP Conselho_Nacional_de_Direito_Autoral)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP respondia)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NN fiscalização)
+        )
+        (NP 
+         (NN consulta)
+        )
+        e
+        (NP 
+         (NN assistência)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN matérias)
+       (ADJP 
+        (JJ relativas)
+        (PP 
+         (IN a)
+         (NP 
+          (NN direitos)
+          (ADJP 
+           (JJ autorais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN desativado)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN governo)
+     (NP 
+      (NNP Collor)
+     )
+    )
+   )
+  )
+ )
+)

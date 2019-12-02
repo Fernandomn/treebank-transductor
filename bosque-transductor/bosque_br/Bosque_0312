@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Ostentavam)
+   )
+   (NP 
+    (DT um)
+    (NN patamar)
+    (ADJP 
+     (RB aparentemente)
+     (JJ sólido)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP evidenciava)
+      )
+      (NP 
+       (DT a)
+       (NN radicalidade)
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN estratos)
+          (ADJP 
+           (JJ médios)
+          )
+         )
+        )
+        e
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN intelectuais)
+          (VP 
+           (VP 
+            (VBN envolvidos)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT a)
+             (NN rejeição)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NN status_quo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

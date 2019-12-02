@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN atacantes)
+     (NP 
+      (NP 
+       (NNP Magno)
+      )
+      e
+      (NP 
+       (NNP Sávio)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Fla)
+      )
+     )
+    )
+    (VP 
+     (VBP podem)
+     (VB disputar)
+    )
+    (NP 
+     (DT o)
+     (NN torneio)
+     (ADJP 
+      (NP pré-Olímpico)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN março)
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 1996)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Argentina)
+     )
+    )
+   )
+  )
+ )
+)

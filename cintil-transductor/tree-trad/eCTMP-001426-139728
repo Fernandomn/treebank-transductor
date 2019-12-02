@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (CONJP 
+     (CC Se)
+     (VB calhar)
+    )
+    (S 
+     (S 
+      (VP 
+       (VB ficava)
+       (PP 
+        (IN a)
+        (VP 
+         (VB detestá)
+         (NP 
+          (PRP -lo)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (RB hoje)
+        (VP 
+         (VP 
+          (RB não)
+          (VB estaria)
+         )
+         (RB aqui)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jorge)
+    (NNS Sampaio)
+   )
+  )
+  (VP 
+   (VB foi)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS golfe)
+    )
+   )
+  )
+ )
+)

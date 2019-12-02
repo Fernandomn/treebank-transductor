@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS resultados)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS ODS)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB forem)
+       (NP 
+        (DT os)
+        (NP 
+         (ADJP 
+          (VB atribuídos)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT as)
+            (NNS sondagens)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Klaus)
+    )
+    (VP 
+     (VB será)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ próximo)
+       (NP 
+        (NNS chefe)
+        (NNS de)
+        (NNS Governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

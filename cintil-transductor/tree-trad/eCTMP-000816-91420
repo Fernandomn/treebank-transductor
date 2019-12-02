@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS discurso)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB deu)
+       (NP 
+        (DT o)
+        (NNS tom)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (IN causa)
+      (IN de)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS erro)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS boletim)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS voto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

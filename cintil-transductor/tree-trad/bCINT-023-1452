@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Palau)
+       (NNS de_)
+       (NNS a)
+       (NNS Generalitat)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS comitiva)
+      (JJ presidencial)
+     )
+    )
+    (VP 
+     (RB nem)
+     (VP 
+      (VB queria)
+      (VB acreditar)
+     )
+    )
+   )
+  )
+ )
+)

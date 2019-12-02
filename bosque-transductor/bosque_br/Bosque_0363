@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (DT própria)
+     (NNP Fipe)
+    )
+    (VP 
+     (VBP prevê)
+    )
+    (VP 
+     (VP 
+      (IN que)
+      (PP 
+       (IN em)
+       (NP 
+        (NN novembro)
+       )
+      )
+      (NP 
+       (PRP isso)
+       (NP 
+        (PRP tudo)
+       )
+      )
+      (VP 
+       (VBP passa)
+      )
+     )
+     e
+     (VP 
+      (NP 
+       (DT a)
+       (NN inflação)
+      )
+      (VP 
+       (VBP cai)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

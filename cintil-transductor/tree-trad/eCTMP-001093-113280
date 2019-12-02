@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por_)
+     (NP 
+      (DT o)
+      (NNS meio-dia)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS sinos)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP todas)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS igrejas)
+          (JJ portuenses)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB assinalam)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS dia)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS festa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

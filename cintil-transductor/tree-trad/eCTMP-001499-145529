@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS pagamento)
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB feito)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS balcões)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Banco)
+          (NNS Português)
+          (NNS de)
+          (NNS Investimento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

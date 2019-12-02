@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT o)
+    (JJ maior)
+    (NN volume)
+   )
+   (PP 
+    (IN desde)
+    (ADJP 
+     (JJ 1º)
+     (PP 
+      (IN de)
+      (NP 
+       (NN novembro)
+       (ADJP 
+        (JJ último)
+       )
+       (NP 
+        (NN R$)
+        (NP 
+         (CD 763.6)
+         (NN milhões)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

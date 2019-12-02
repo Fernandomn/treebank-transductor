@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Quadros)
+  )
+  (VP 
+   (VP 
+    (VB devolvidos)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Casa)
+       (NNS de_)
+       (NNS os)
+       (NNS Patudos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

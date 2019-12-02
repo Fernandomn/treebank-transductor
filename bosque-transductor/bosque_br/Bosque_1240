@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NN mudança)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN metrô)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP São_Paulo)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB funcionar)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (NP 
+    (CD uma)
+    (NN hora)
+    (PP 
+     (IN a)
+     (RB mais)
+    )
+   )
+   (VP 
+    (IN como_se)
+    (VP 
+     (VBP tivesse)
+    )
+    (NP 
+     (CD duas)
+     (NN meias-noites)
+    )
+   )
+  )
+ )
+)

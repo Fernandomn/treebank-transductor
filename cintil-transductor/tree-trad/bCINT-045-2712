@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Líder)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS PSD)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB inicia)
+     (RB hoje)
+    )
+    (NP 
+     (NP 
+      (NNS visita)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT os)
+        (NNS Açores)
+       )
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (NP 
+     (NNS socialistas)
+    )
+    (VP 
+     (VB programam)
+     (NP 
+      (NP 
+       (NNS romaria)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ministros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

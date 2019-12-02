@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Por_enquanto)
+    )
+    (ADVP 
+     (RB só)
+    )
+    (VP 
+     (VBP estão)
+    )
+    (VBN definidos)
+    (NP 
+     (NN investimentos)
+     (NP 
+      (PP da_ordem)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NN US$)
+         (NP 
+          (CD 600)
+          (NN milhões)
+          (PP 
+           (IN em+)
+           (NP 
+            (DT os)
+            (JJ próximos)
+            (CD três)
+            (NN anos)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT a)
+            (NNP Argentina)
+           )
+          )
+         )
+        )
+        e
+        (NP 
+         (NP 
+          (ADJP 
+           (DT mais)
+          )
+         )
+         (NN US$)
+         (NP 
+          (NP 
+           (CD 500)
+           (NN milhões)
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NNP México)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP anunciou)
+   )
+   (NP 
+    (NNP Douglas_Ivester)
+   )
+  )
+ )
+)

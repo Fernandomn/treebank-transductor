@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS regresso)
+         )
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NP 
+            (PP nossa)
+            (NNS terra)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Buddy)
+          (NNS Guy)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS blues)
+    )
+    (VP 
+     (VB está)
+     (ADJP 
+      (RB mais)
+      (JJ rico)
+     )
+    )
+   )
+  )
+ )
+)

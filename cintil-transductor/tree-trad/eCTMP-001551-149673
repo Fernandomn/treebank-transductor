@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Fui)
+     (NP 
+      (NNS padre)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS zona)
+        (NNS oriental)
+        (NNS de)
+        (NNS Lisboa)
+       )
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Marvila)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Anwar)
+     (NNS Sadat)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB assassinado)
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (CD 12)
+        (NP 
+         (JJ escassos)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

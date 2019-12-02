@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB pintou)
+     (NP 
+      (DT a)
+      (NNS parede)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS tons)
+       (JJ diferentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS jornais)
+   )
+   (VP 
+    (VB estão)
+    (ADJP 
+     (JJ cheios)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (JJ magníficos)
+        (NP 
+         (NNS pedaços)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS prosa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

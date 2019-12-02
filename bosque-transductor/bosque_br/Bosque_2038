@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (VP 
+     (VP 
+      (ADVP 
+       (RB ainda)
+       (RB não)
+      )
+      (VP 
+       (VBP escolheu)
+      )
+      (NP 
+       (DT sua)
+       (NN carreira)
+      )
+     )
+     ou
+     (VP 
+      (VP 
+       (VBP sonha)
+      )
+      (VP 
+       (VP 
+        (VB dar)
+       )
+       (NP 
+        (DT uma)
+        (NN guinada)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN vida)
+          (ADJP 
+           (JJ profissional)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB recorrer)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (NN serviços)
+     (PP 
+      (IN de)
+      (NP 
+       (NN orientação)
+       (ADJP 
+        (JJ vocacional)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBN oferecidos)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (DT algumas)
+        (NN instituições)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN morte)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Senna)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vieram)
+   )
+   (NP 
+    (DT as)
+    (NN exigências)
+    (PP 
+     (IN por)
+     (NP 
+      (NN medidas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN segurança)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP F-1)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

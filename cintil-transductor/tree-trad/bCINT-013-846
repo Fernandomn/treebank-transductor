@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS União)
+       (NNS Europeia)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS tendência)
+    )
+    (VP 
+     (VB foi)
+     (JJ semelhante)
+    )
+   )
+  )
+ )
+)

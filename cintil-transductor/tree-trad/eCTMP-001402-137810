@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Paralelamente)
+    )
+    (VP 
+     (VB são)
+     (VP 
+      (VB lançadas)
+      (VP 
+       (CC ou)
+       (VB consolidadas)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NP 
+     (NNS bases)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS diálogo)
+        (ADJP 
+         (RB mais)
+         (JJ esclarecido)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

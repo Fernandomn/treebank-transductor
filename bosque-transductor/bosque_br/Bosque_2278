@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sobre)
+    (NP 
+     (DT o)
+     (NN controle)
+     (ADJP 
+      (JJ antidoping)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Fifa)
+   )
+   (VP 
+    (VBP estabelecerá)
+   )
+   (NP 
+    (CD uma)
+    (NN fax_hotline)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN operação)
+     (NP 
+      (CD 24)
+      (NN horas)
+      (PP 
+       (IN por)
+       (NP 
+        (NN dia)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN médicos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN delegações)
+       )
+      )
+     )
+     (VP 
+      (VBP consultem)
+     )
+     (NP 
+      (DT a)
+      (NN organização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Copa)
+       )
+      )
+     )
+     (ADVP 
+      (RB antes)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB fornecer)
+        )
+        (NP 
+         (DT qualquer)
+         (NN medicamento)
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (DT seus)
+          (NN jogadores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

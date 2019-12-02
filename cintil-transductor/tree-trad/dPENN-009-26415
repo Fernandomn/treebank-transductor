@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS Berthold)
+    )
+    (VP 
+     (VB está)
+     (ADJP 
+      (VB sediada)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS Wildbald)
+        )
+        (NP 
+         (NP 
+          (NNS Alemanha)
+          (NNS Ocidental)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB tendo)
+        (RB também)
+       )
+       (NP 
+        (NNS operações)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Bélgica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jacques)
+    (NNS Chirac)
+   )
+  )
+  (VP 
+   (VP 
+    (VB inicia)
+    (RB hoje)
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS visita)
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS Líbano)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS Egipto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

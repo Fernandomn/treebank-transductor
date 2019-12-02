@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB ficara)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS Frederico)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS portão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS escola)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

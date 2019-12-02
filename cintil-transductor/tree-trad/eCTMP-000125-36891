@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Animação)
+     (JJ natalícia)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS ruas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Porto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

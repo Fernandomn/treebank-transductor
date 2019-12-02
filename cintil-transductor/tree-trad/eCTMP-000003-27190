@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Bruxelas)
+  )
+  (VP 
+   (VB adia)
+   (NP 
+    (NP 
+     (NNS fiscalidade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS combustíveis)
+      )
+     )
+    )
+   )
+  )
+ )
+)

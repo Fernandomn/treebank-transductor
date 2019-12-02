@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NNS McCartney)
+  )
+  (VP 
+   (VP 
+    (VP 
+     (PP 
+      (IN de)
+      (NP 
+       (NNS volta)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT uma)
+     (NP 
+      (ADJP 
+       (JJ longa)
+       (ADJP 
+        (CC e)
+        (JJ agitada)
+       )
+      )
+      (NP 
+       (NNS digressão)
+       (JJ mundial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

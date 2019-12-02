@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT essa)
+     (NN obra)
+     (ADJP 
+      (RB literalmente)
+      (JJ seminal)
+     )
+    )
+   )
+   (NP 
+    (NNP Miller)
+   )
+   (VP 
+    (VBP estabeleceu)
+   )
+   (NP 
+    (DT o)
+    (NN padrão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP seria)
+       )
+       (ADVP 
+        (RB de_ali_para_diante)
+       )
+       (NP 
+        (DT a)
+        (DT sua)
+        (NN literatura)
+        (NP 
+         (NN memórias)
+         (ADJP 
+          (JJ pessoais)
+         )
+         (VP 
+          (VP 
+           (VP 
+            (VBN vistas)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NN minúcia)
+             (PP 
+              (IN de)
+              (NP 
+               (DT um)
+               (NN estudo)
+               (ADJP 
+                (JJ biológico)
+               )
+              )
+             )
+            )
+           )
+          )
+          e
+          (VP 
+           (VP 
+            (VBN narradas)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NN tom)
+             (VBN exaltado)
+             (PP 
+              (IN de)
+              (NP 
+               (DT um)
+               (NN profeta)
+               (ADJP 
+                (JJ bêbado)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

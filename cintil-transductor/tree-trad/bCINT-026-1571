@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS maioria)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS clandestinos)
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (JJ oriundos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS países)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NP 
+             (NNS língua)
+             (JJ oficial)
+            )
+            (JJ portuguesa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

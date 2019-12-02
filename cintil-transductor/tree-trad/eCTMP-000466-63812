@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Esta)
+      (NNS situação)
+     )
+     (VP 
+      (VB remete)
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS problemas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS organização)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS espaço)
+               (JJ urbano)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB reflecte)
+       (RB igualmente)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (JJ respectiva)
+        (NP 
+         (NNS inserção)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS igrejas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

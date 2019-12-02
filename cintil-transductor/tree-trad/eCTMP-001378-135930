@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP vosso)
+        (NP 
+         (NNS esclarecimento)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (PRP eu)
+           )
+           (VP 
+            (VB aposto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

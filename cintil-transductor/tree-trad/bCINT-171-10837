@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS vendedor)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS accionista)
+      (NP 
+       (NNS Chemical)
+       (NNS International)
+       (NNS Finance)
+       (NNS Ltd)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,85 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Durante)
+    (NP 
+     (CD seis)
+     (NN voltas)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN pilotos)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP tiveram)
+      (IN que)
+      (VB manter)
+     )
+     (NP 
+      (DT suas)
+      (NN posições)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN razões)
+       (PP 
+        (IN de)
+        (NP 
+         (NN segurança)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP aproveitavam)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB aquecer)
+       )
+       (NP 
+        (DT os)
+        (NN pneus)
+       )
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB enquanto)
+      )
+      (NP 
+       (DT os)
+       (NN carros)
+       (VP 
+        (VP 
+         (VBN envolvidos)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN acidente)
+         )
+        )
+       )
+      )
+      (VP 
+       (VBP eram)
+      )
+      (VBN retirados)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Publicação)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS livros)
+        (PP 
+         (IN sobre)
+         (NP 
+          (NNS Lisboa)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS colaboração)
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS editores)
+          (JJ privados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

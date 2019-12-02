@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Camões)
+    (ADJP 
+     (VB dito)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Diogo)
+        (NNS Dória)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

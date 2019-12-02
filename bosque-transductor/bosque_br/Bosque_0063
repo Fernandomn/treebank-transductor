@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Ambulim)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (CD um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN centros)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP contribuíram)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT um)
+         (NN estudo)
+         (VP 
+          (VP 
+           (VBN apresentado)
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT a)
+            (JJ 5ª)
+            (NNP Conferência_Internacional_sobre_Transtornos_Alimentares)
+            (PP 
+             (PP 
+              (IN de)
+              (ADJP 
+               (CD 29)
+               (PP 
+                (IN de)
+                (NP 
+                 (NN abril)
+                )
+               )
+              )
+             )
+             (PP 
+              (IN a)
+              (ADJP 
+               (JJ 1º)
+               (PP 
+                (IN de)
+                (NP 
+                 (NN maio)
+                )
+               )
+              )
+             )
+            )
+            (PP 
+             (IN em)
+             (NP 
+              (NNP Nova_York)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

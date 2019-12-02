@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBN Abalado)
+   )
+   (NP 
+    (DT o)
+    (NN jogador)
+   )
+   (VP 
+    (VBP ameaçou)
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VB disputar)
+    )
+    (NP 
+     (DT a)
+     (NNP Copa_do_Mundo)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NN junho)
+      )
+      e
+      (NP 
+       (NN julho)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+   )
+   (VP 
+    (IN caso)
+    (NP 
+     (DT o)
+     (NN pai)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP seja)
+     (VBN libertado)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS mistério)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB rapidamente)
+     )
+     (VB desfeito)
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (NP 
+         (NNS Baptista)
+         (NNS Cardoso)
+        )
+       )
+       (VP 
+        (VP 
+         (VB confessou)
+         (RB espontaneamente)
+        )
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NNS acto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

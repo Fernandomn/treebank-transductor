@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (NP 
+      (DT o)
+      (NNS capitão)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB tem)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS carisma)
+          (ADJP 
+           (RB muito)
+           (JJ grande)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN perante)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS torcedores)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB vai)
+        (VP 
+         (VB ser)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS perda)
+           (ADJP 
+            (RB muito)
+            (JJ grande)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

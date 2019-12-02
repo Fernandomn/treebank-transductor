@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (VB feito)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS materiais)
+        (JJ disponíveis)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS imagens)
+        (NP 
+         (CC e)
+         (NNS sons)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

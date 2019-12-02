@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT a)
+      (NNS guerra)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (RB também)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (NNS hábitos)
+        (JJ alimentares)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (JJ angolanos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB mudaram)
+   )
+  )
+ )
+)

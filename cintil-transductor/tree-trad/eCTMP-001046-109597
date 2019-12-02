@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS etapa)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB poderá)
+         (VP 
+          (VB ter)
+          (NP 
+           (NP 
+            (NP 
+             (NNS influência)
+             (JJ decisiva)
+            )
+            (PP 
+             (IN em_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS luta)
+               (PP 
+                (IN por_)
+                (NP 
+                 (DT os)
+                 (NP 
+                  (CD primeiros)
+                  (NNS lugares)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

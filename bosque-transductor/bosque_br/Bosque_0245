@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tem)
+   )
+   (NP 
+    (NN tamanho)
+    (NP 
+     (NN peso)
+     (ADJP 
+      (JJ intrínseco)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP dispensa)
+      )
+      (NP 
+       (NN volume)
+       (ADJP 
+        (JJ alto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

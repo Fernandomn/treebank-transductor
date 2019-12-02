@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (RB Agora)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 53)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Rafael)
+      (NNS de)
+      (NNS Medina)
+      (NNS Fernández)
+      (NNS de)
+      (NNS Córdoba)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS sombra)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB foi)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

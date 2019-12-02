@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS líder)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS bancada)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS PSD)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB decidiu)
+    (VP 
+     (VB avaliar)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS desempenho)
+        (JJ governativo)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (PRP vários)
+         (NNS ministros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

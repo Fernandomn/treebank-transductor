@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (NP 
+        (DT os)
+        (NP 
+         (NNS resultados)
+         (JJ eleitorais)
+        )
+       )
+       (VP 
+        (VB permanecerem)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS nível)
+           (JJ semelhante)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB vamos)
+      (VP 
+       (VP 
+        (VB melhorar)
+        (NP 
+         (DT a)
+         (NP 
+          (PP nossa)
+          (NNS posição)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (CD 100)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

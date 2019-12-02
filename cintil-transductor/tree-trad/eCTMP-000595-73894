@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS cor)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS chocolate)
+           )
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS pele)
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS cadastro)
+          (JJ criminal)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB estão)
+      (JJ marcados)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (PRP toda)
+       (NP 
+        (DT a)
+        (NNS vida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Recebeu)
+     (NP 
+      (NNS críticas)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (PRP ambos)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS lados)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS espectro)
+           (JJ político)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (NNP An_American_Evening)
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP criou)
+   )
+   (NP 
+    (NNP Extra_Veinous)
+    (VP 
+     (NP 
+      (DT cujo)
+      (NN título)
+     )
+     (VP 
+      (VBP significa)
+     )
+     (NP 
+      (DT o)
+      (NN contrário)
+      (PP 
+       (IN de)
+       (ADJP 
+        (JJ intravenoso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

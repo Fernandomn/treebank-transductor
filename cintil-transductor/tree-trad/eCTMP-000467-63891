@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (DT as)
+       (NP 
+        (PP suas)
+        (NP 
+         (NNS figuras)
+         (JJ típicas)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB faziam)
+         (NP 
+          (NP 
+           (NNS parte)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS decoração)
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (NNS A)
+                 (NNS Brasileira)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

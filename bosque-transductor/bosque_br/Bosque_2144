@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Assessores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN equipe)
+      (ADJP 
+       (JJ econômica)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP têm)
+   )
+   (ADJP 
+    (JJ pronta)
+   )
+   (NP 
+    (NN parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN argumentação)
+     )
+    )
+   )
+  )
+ )
+)

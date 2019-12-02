@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VB estranhou)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NP 
+        (NNS alistamento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Pedro)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS exército)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS pai)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS família)
+   )
+   (VP 
+    (VB tem)
+    (VP 
+     (VP 
+      (VB marcado)
+      (PP 
+       (PP 
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NNS bem)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NNS mal)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS vida)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS homem)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

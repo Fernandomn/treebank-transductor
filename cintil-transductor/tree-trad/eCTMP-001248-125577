@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS Estados)
+        (NNS Unidos)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Reino)
+          (NNS Unido)
+         )
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Espanha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB registaram)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS alterações)
+      (JJ significativas)
+     )
+    )
+   )
+  )
+ )
+)

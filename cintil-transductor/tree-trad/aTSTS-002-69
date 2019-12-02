@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS cliente)
+   )
+   (VP 
+    (VB encomendou)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS computador)
+      (ADJP 
+       (ADJP 
+        (RB menos)
+        (JJ barato)
+       )
+       de_ o que
+       (NP 
+        (DT esse)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

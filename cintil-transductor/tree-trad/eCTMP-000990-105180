@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Embargo)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS fábrica)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS papel)
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Ovar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB agrava)
+   (NP 
+    (NNS problemas)
+   )
+  )
+ )
+)

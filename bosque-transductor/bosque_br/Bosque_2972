@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADJP 
+    (JJ bom)
+   )
+   (VP 
+    (NP 
+     (PRP ela)
+    )
+    (VP 
+     (VB entupir)
+    )
+    (NP 
+     (DT a)
+     (NN nécessaire)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Engov)
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN festa)
+    )
+    (VP 
+     (VBP vai)
+     (VB ser)
+    )
+    (ADJP 
+     (JJ chata)
+     (RB para_caramba)
+    )
+   )
+  )
+ )
+)

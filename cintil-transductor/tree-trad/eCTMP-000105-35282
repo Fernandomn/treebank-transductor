@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Belomonte)
+     (NNS Arte)
+     (NNS Filmes)
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (RB já)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB produzir)
+      (NP 
+       (DT um)
+       (NP 
+        (JJ outro)
+        (NP 
+         (NNS trabalho)
+         (PP 
+          (PP 
+           (IN sobre)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS pintor)
+             (NP 
+              (NNS Almada)
+              (NNS Negreiros)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

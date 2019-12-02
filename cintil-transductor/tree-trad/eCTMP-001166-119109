@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Milosevic)
+  )
+  (VP 
+   (VB vê)
+   (NP 
+    (NP 
+     (NNS paz)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Bósnia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

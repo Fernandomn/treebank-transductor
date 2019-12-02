@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN co-produção)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN canal)
+      (ADJP 
+       (JJ francês)
+      )
+      (NP 
+       (NNP TCF1)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN realização)
+      (PP 
+       (IN de)
+       (NP 
+        (DT mais)
+        (CD 30)
+        (NN episódios)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP continua)
+    (VBG sendo)
+    (VBN negociada)
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Kodak)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (VBP passou)
+    (IN a)
+    (VB atender)
+   )
+   (NP 
+    (NN encomendas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN peças)
+      (ADJP 
+       (JJ plásticas)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (DT a)
+       (NNP Philips)
+      )
+      (NP 
+       (NNP Wapsa)
+      )
+      e
+      (NP 
+       (NNP NGK)
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (CD 16)
+       (NN clientes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

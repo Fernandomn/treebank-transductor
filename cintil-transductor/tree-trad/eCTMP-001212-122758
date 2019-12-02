@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Zéroual)
+   )
+   (VP 
+    (VP 
+     (VB anunciou)
+     (RB também)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS realização)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS eleições)
+          (JJ presidenciais)
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN até)
+        (IN a_)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS final)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT este)
+           (NNS ano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

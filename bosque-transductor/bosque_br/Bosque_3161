@@ -1,0 +1,149 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de)
+    (VP 
+     (VP 
+      (VB aumentar)
+     )
+     (NP 
+      (DT o)
+      (NN número)
+      (PP 
+       (IN de)
+       (NP 
+        (NN cassações)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deve-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB estimular)
+   )
+   (NP 
+    (DT as)
+    (DT demais)
+    (NN CPIs)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NP 
+       (NN Empreiteiras)
+      )
+      (NP 
+       (NN financiamentos)
+       (ADJP 
+        (JJ eleitorais)
+       )
+      )
+      e
+      (NP 
+       (NNP CUT)
+       (VP 
+        (NP 
+         (DT a)
+         (NNP CPI)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP CUT)
+          )
+         )
+        )
+        (VP 
+         (VBP terá)
+        )
+        (NP 
+         (DT o)
+         (NN dom)
+         (PP 
+          (IN de)
+          (VP 
+           (VP 
+            (VB trazer)
+           )
+           (PP 
+            (IN a+)
+            (NP 
+             (DT a)
+             (NN tona)
+            )
+           )
+           (NP 
+            (JJ possíveis)
+            (NN desvios)
+            (PP 
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NN burocracia)
+              )
+             )
+             e
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NN praga)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT o)
+                 (NN corporativismo)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (NP 
+          (PRP o_que)
+         )
+         (VP 
+          (VP 
+           (VBP acreditem)
+          )
+         )
+         (VP 
+          (VBP vai)
+          (VB acabar)
+          (VBG ajudando)
+         )
+         (NP 
+          (NP 
+           (ADVP 
+            (RB não)
+            (RB apenas)
+           )
+           (DT o)
+           (NNP PT)
+          )
+          mas
+          (NP 
+           (DT a)
+           (NN democracia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

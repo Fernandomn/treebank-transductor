@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS desgraçado)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB morava)
+        (RB aqui)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VB emigrou)
+   )
+  )
+ )
+)

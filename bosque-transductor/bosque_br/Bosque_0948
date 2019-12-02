@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (NN atriz)
+      )
+      e
+      (NP 
+       (NN apresentadora)
+      )
+     )
+     (ADJP 
+      (JJ norte-americana)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN TV)
+       (NP 
+        (NNP Ricki_Lake)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (DT outras)
+     (CD 14)
+     (NN pessoas)
+    )
+   )
+   (VP 
+    (VBP passaram)
+   )
+   (NP 
+    (DT a)
+    (NN noite)
+    (PP 
+     (IN de)
+     (RB anteontem)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN cadeia)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Nova_York)
+    )
+   )
+   (ADVP 
+    (RB depois)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB haverem)
+       (VBN realizado)
+      )
+      (NP 
+       (DT um)
+       (NN protesto)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NN escritórios)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN estilista)
+          (NP 
+           (NNP Karl_Lagerfeld)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Manhattan)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

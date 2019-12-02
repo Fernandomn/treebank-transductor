@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS assaltantes)
+    )
+    (VP 
+     (VB manietaram)
+     (NP 
+      (PRP -no)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB meteram)
+       (NP 
+        (PRP -no)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS porta-bagagens)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Obviamente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS juiz)
+    )
+    (VP 
+     (VB teve)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (NNS quota-parte)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS realizações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

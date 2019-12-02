@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Cobram)
+   )
+   (NP 
+    (NN diárias)
+    (PP 
+     (IN a_partir_de)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 50)
+      )
+      (NP 
+       (NN CR$)
+       (NP 
+        (CD 22.9)
+        (NN mil)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN pessoa)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN pensão)
+     (ADJP 
+      (JJ completa)
+     )
+    )
+   )
+  )
+ )
+)

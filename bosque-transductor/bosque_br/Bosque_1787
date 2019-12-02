@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Costuma)
+    (VB encarar)
+   )
+   (NP 
+    (DT a)
+    (NN tecnologia)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT a)
+     (NN solução)
+     (ADJP 
+      (JJ milagrosa)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT todos)
+       (DT os)
+       (NN problemas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

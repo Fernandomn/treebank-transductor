@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (IN Em_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD segunda)
+         (NNS parte)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB jogámos)
+      (PP 
+       (PP 
+        (RB mais)
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NNS coração)
+         )
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (RB menos)
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NNS cabeça)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

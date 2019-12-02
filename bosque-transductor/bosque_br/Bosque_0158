@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NNP BC)
+    )
+   )
+   (NP 
+    (RB mais_de)
+    (DT a)
+    (NN metade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN recursos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN caderneta)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN poupadores)
+     (PP 
+      (IN de)
+      (NP 
+       (ADJP 
+        (ADJP 
+         (JJ médio)
+        )
+        e
+        (ADJP 
+         (JJ grande)
+        )
+       )
+       (NN porte)
+       (RB em_tese)
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB menos)
+      )
+      (VP 
+       (VBN sujeitos)
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB achar)
+        )
+        (VP 
+         (IN que)
+         (NP 
+          (DT o)
+          (NN dinheiro)
+         )
+         (VP 
+          (VBP perdeu)
+         )
+         (NP 
+          (NN rendimento)
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NN queda)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN inflação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

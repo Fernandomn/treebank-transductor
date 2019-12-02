@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Massa)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS ar)
+        (JJ frio)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Sibéria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

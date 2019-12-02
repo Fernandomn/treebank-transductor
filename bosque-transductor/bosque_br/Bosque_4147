@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Ito)
+   )
+   (VP 
+    (VBP pode)
+    (VB anunciar)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN transmissão)
+    )
+    (VP 
+     (VBP está)
+    )
+    (VBN proibida)
+   )
+  )
+ )
+)

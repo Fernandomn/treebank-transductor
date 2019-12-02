@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS momento)
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (NP 
+          (JJ novos)
+          (NP 
+           (NNS passos)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS direito)
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VB podem)
+          (VP 
+           (VB ser)
+           (VP 
+            (VB afirmados)
+            (VP 
+             (CC e)
+             (VB conseguidos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

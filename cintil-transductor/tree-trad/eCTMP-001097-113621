@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (NP 
+      (NNS Poças)
+      (NNS Martins)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS factores)
+          (JJ fundamentais)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS futuro)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB deverá)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT o)
+       (NNS preço)
+      )
+     )
+    )
+   )
+  )
+ )
+)

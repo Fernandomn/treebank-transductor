@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNS Brasil)
+      )
+     )
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (CD 73)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NP 
+      (NP 
+       (NNS filme)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS suspense)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS conteúdo)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS consciência)
+            (JJ social)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB portanto)
+   )
+  )
+ )
+)

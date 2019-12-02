@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS lote)
+      (JJ mínimo)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS formação)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS cotação)
+           (JJ oficial)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 50)
+      (NNS acções)
+     )
+    )
+   )
+  )
+ )
+)

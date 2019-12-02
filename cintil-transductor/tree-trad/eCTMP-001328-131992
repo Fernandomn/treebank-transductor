@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Depois)
+     )
+     (VP 
+      (VB passou)
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB ser)
+         (VB usado)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS caça)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

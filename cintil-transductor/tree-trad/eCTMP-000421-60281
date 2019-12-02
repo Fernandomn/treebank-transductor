@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS capítulo)
+     )
+    )
+    (VP 
+     (VB englobamos)
+     (NP 
+      (PRP todos)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS programas)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VP 
+             (VB apostam)
+             (RB essencialmente)
+            )
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS aspecto)
+               (JJ gráfico)
+              )
+             )
+            )
+           )
+           (CONJP 
+            (CONJP 
+             (CC embora)
+             (S 
+              (NP 
+               (PRP muitos)
+               (NP 
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (PRP eles)
+                 )
+                )
+               )
+              )
+              (VP 
+               (VP 
+                (VB tenham)
+                (RB também)
+               )
+               (NP 
+                (DT uma)
+                (NP 
+                 (NP 
+                  (NNS força)
+                  (PP 
+                   (IN de)
+                   (NP 
+                    (NNS jogo)
+                   )
+                  )
+                 )
+                 (JJ considerável)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

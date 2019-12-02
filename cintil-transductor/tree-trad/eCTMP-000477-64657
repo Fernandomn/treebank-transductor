@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NNS Calvin)
+   )
+   (VP 
+    (VP 
+     (PP 
+      (IN a)
+      (VP 
+       (VB brincar)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT os)
+         (NNS adultos)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN sem)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS graça)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS modelo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

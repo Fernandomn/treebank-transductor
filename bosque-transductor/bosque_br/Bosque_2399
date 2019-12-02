@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (NP 
+    (DT o)
+    (NN sistema)
+    (PP 
+     (IN de)
+     (NP 
+      (NN tratamento)
+      (PP 
+       (IN de)
+       (NP 
+        (NN esgotos)
+        (ADJP 
+         (JJ residenciais)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN estação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP ABC)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deverá)
+    (VB atingir)
+   )
+   (NP 
+    (CD 150)
+    (NN toneladas)
+    (PP 
+     (IN $/)
+     (NP 
+      (NN dia)
+     )
+    )
+   )
+  )
+ )
+)

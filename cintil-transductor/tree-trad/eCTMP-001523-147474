@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Mercedes-Benz)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB detinha)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ano)
+          (JJ passado)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (CD 18)
+       (NP 
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS mercado)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS autocarros)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Europa)
+       (NNS Ocidental)
+      )
+     )
+    )
+   )
+  )
+ )
+)

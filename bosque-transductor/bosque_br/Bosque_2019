@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN receita)
+    (ADJP 
+     (JJ líquida)
+    )
+    (VP 
+     (VP 
+      (VBN excluída)
+     )
+     (NP 
+      (DT a)
+      (NN carga)
+      (ADJP 
+       (JJ tributária)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 1.15)
+      (NN bilhão)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD 93)
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 1.27)
+      (NN bilhão)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 92)
+    )
+   )
+  )
+ )
+)

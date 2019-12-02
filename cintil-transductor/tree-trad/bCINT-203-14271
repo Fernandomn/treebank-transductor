@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Iremos)
+    (VP 
+     (VB recuperar)
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS taxas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS crescimento)
+         )
+        )
+       )
+       (JJ habituais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

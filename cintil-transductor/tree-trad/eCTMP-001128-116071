@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PRP algumas)
+      (NP 
+       (NNS situações)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS insuficiência)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS saldo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT as)
+      (NNS pessoas)
+     )
+     (VP 
+      (VB foram)
+      (VB chamadas)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB conseguiram)
+       (VP 
+        (PP 
+         (PP 
+          (IN por)
+          (NP 
+           (NP 
+            (NNS transferência)
+            (PP 
+             (IN de)
+             (NP 
+              (DT outras)
+              (NNS poupanças)
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VB resolver)
+         (NP 
+          (DT a)
+          (NNS situação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

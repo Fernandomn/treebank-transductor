@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (CONJP 
+       (CONJP 
+        (CC Se)
+        (S 
+         (VP 
+          (RB não)
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB tivesse)
+          )
+         )
+         (VP 
+          (VB feito)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS barulho)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (NP 
+                (PRP se)
+               )
+               (VB fez)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (NP 
+        (DT o)
+        (NNS projecto)
+       )
+       (VP 
+        (RB já)
+        (VP 
+         (VB estava)
+         (JJ aprovado)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB referiu)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS fonte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS município)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

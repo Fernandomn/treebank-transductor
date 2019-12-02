@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (DT sua)
+     (NN avaliação)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN conversa)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN deputado)
+      (ADJP 
+       (JJ fluminense)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP mostrou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT ambos)
+    )
+    (VP 
+     (VBP desejam)
+    )
+    (NP 
+     (DT a)
+     (NN aproximação)
+    )
+   )
+  )
+ )
+)

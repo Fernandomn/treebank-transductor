@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (JJ única)
+      (NP 
+       (NP 
+        (NP 
+         (NNS reacção)
+         (JJ oficial)
+        )
+        (JJ ocidental)
+       )
+       (JJ conhecida)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Alemanha)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (ADJP 
+     (RB substancialmente)
+     (JJ diversa)
+    )
+   )
+  )
+ )
+)

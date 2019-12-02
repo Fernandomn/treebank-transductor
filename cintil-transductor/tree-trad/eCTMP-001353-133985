@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Dólar)
+  )
+  (VP 
+   (VB compromete)
+   (NP 
+    (DT as)
+    (NP 
+     (NNS contas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS Estaleiros)
+        (NNS de)
+        (NNS Viana)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

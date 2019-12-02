@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT Aquilo)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB queremos)
+           (VP 
+            (VB fazer)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB exige)
+       )
+       (NP 
+        (NP 
+         (NNS investimentos)
+         (ADJP 
+          (RB muito)
+          (JJ significativos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NNS Mekhtiev)
+    )
+   )
+  )
+ )
+)

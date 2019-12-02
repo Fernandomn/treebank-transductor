@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Esta)
+     (NNS situação)
+    )
+    (VP 
+     (VP 
+      (VB criou)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT a)
+        (NNS Câmara)
+       )
+       (VP 
+        (VP 
+         (VB faz)
+         (NP 
+          (PRP tudo)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NNS contrário)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Cá)
+     (RB fora)
+    )
+   )
+   (S 
+    (NP 
+     (NNS James)
+    )
+    (VP 
+     (VB fala)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (PRP si)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NP 
+           (NNS paixão)
+           (JJ enófila)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

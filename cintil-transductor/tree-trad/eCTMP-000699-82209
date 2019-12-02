@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS caçadores)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB vendia)
+      (RB habitualmente)
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (NNS animais)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB matava)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS restaurante)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS zona)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabemos)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NNS prémios)
+      )
+      (VP 
+       (VB são)
+       (VB devidos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

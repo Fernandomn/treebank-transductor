@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS doenças)
+   )
+   (VP 
+    (VB vêm)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS problemas)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB temos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

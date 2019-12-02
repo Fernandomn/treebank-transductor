@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VB estava)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NP 
+          (PP minha)
+          (NNS mãe)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB tinha)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (PRP a)
+       )
+       (VB consolar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT um)
+    (NN erro)
+    (ADJP 
+     (JJ técnico)
+    )
+    (UCP 
+     (ADJP 
+      (JJ grave)
+     )
+     e
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP pode)
+       (VB resultar)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (DT um)
+        (NN conflito)
+        (ADJP 
+         (JJ judiciário)
+        )
+        (ADJP 
+         (RB muito)
+         (JJ grande)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Saulo_Ramos)
+    )
+   )
+  )
+ )
+)

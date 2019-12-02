@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Sem)
+    (NP 
+     (NNS problemas)
+    )
+   )
+   (S 
+    (VP 
+     (VB estiveram)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Andre)
+       (NNS Agassi)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Boris)
+         (NNS Becker)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS Wayne)
+           (NNS Ferreira)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Steffi)
+            (NNS Graf)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

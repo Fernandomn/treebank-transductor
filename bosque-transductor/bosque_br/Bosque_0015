@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN direção)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (JJ novo)
+      (NN semanal)
+     )
+    )
+   )
+   (VP 
+    (VBP será)
+    (VBN assinada)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Ewaldo_Ruy)
+    )
+   )
+  )
+ )
+)

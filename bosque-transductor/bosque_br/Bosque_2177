@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN média)
+    (ADJP 
+     (JJ diária)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN negócios)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NN metal)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN maio)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (CD 2.43)
+     (NN toneladas)
+    )
+   )
+  )
+ )
+)

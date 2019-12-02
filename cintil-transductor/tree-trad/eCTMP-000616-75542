@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Sempre)
+    (VP 
+     (VB guardei)
+     (NP 
+      (NP 
+       (NNS segredo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS coisas)
+          (JJ secretas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

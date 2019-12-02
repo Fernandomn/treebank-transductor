@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (NP 
+        (DT as)
+        (NNS pessoas)
+       )
+       (VP 
+        (VB gostaram)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS concertos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB vão)
+      (VP 
+       (VB gostar)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT isto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

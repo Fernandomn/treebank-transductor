@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN espantoso)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN fora_de+)
+     (NP 
+      (DT a)
+      (NN polícia)
+     )
+    )
+    (ADVP 
+     (RB também)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP viu)
+    )
+    (NP 
+     (DT o)
+     (NN mal)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN incidente)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Cavalera)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

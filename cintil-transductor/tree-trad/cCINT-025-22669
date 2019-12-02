@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB ficou)
+    (ADJP 
+     (ADVP 
+      (RB um)
+      (RB pouco)
+     )
+     (JJ embaraçado)
+    )
+   )
+  )
+ )
+)

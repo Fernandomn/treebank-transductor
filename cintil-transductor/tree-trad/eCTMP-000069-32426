@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cientistas)
+    (JJ britânicos)
+   )
+  )
+  (VP 
+   (VB descobriram)
+   (NP 
+    (NP 
+     (NP 
+      (NNS factor)
+      (JJ genético)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB determina)
+        (NP 
+         (DT o)
+         (NNS sexo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

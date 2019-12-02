@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT os)
+       (NNS actores)
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT uma)
+       (NNS terapêutica)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NNS espectadores)
+       )
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (NP 
+         (DT uma)
+         (NNS aprendizagem)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT uma)
+          (NNS lição)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

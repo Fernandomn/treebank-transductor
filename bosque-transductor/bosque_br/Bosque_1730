@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN pacotes)
+    (PP 
+     (IN com)
+     (NP 
+      (NN pensão)
+      (ADJP 
+       (JJ completa)
+      )
+      (VP 
+       (VP 
+        (VBG incluindo)
+       )
+       (NP 
+        (NN passeios)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vão)
+   )
+   (ADVP 
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 150)
+      )
+      (NP 
+       (NN CR$)
+       (NP 
+        (CD 68.8)
+        (NN mil)
+       )
+      )
+      (NP 
+       (CD dois)
+       (NN dias)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 300)
+      )
+      (NP 
+       (NN CR$)
+       (NP 
+        (CD 137.7)
+        (NN mil)
+       )
+      )
+      (NP 
+       (CD cinco)
+       (NN dias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

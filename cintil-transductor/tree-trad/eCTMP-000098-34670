@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (NNS ritmo)
+     (JJ acelerado)
+    )
+   )
+   (VP 
+    (VP 
+     (VB comporta)
+     (ADVP 
+      (RB contudo)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS custos)
+      (JJ sociais)
+     )
+    )
+   )
+  )
+ )
+)

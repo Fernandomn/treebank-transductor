@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS segurança)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NP 
+         (NNS estações)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS comboio)
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS aeroportos)
+          (JJ franceses)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB igualmente)
+    )
+    (VB reforçada)
+   )
+  )
+ )
+)

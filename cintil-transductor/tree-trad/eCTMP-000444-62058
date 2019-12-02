@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS Tietmeyer)
+  )
+  (VP 
+   (VB provoca)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS queda)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS dólar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

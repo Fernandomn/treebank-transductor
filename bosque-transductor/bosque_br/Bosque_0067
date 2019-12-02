@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (RB Afora)
+    (NN historicismo)
+   )
+   (NP 
+    (PRP isso)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB menosprezar)
+    )
+    (NP 
+     (DT um)
+     (NN fator)
+     (ADJP 
+      (JJ interno)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN arte)
+        (ADJP 
+         (JJ brasileira)
+        )
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP independe)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN contexto)
+        (ADJP 
+         (JJ internacional)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

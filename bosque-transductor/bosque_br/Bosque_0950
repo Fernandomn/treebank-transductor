@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Elas)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP algemaram)
+   )
+   (UCP 
+    (ADVP 
+     (RB entre_si)
+    )
+    e
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NN móveis)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN escritório)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN protesto)
+     (PP 
+      (IN contra)
+      (NP 
+       (DT a)
+       (NN utilização)
+       (PP 
+        (IN de)
+        (NP 
+         (NN peles)
+         (ADJP 
+          (JJ animais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN criações)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN estilista)
+      )
+     )
+    )
+   )
+  )
+ )
+)

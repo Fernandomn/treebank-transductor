@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS cemitério)
+   )
+   (VP 
+    (VB mergulha)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS escuridão)
+       (JJ total)
+      )
+     )
+    )
+   )
+  )
+ )
+)

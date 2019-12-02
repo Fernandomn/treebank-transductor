@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS jornalistas)
+    )
+    (VP 
+     (VB enchem)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS bancos)
+       (PP 
+        (PP 
+         (IN em)
+         (IN frente)
+         (IN a_)
+        )
+        (NP 
+         (DT a)
+         (NNS escada)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB bloqueiam)
+      (NP 
+       (DT a)
+       (NNS passagem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

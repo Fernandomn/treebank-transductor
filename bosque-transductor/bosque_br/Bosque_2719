@@ -1,0 +1,152 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN diretoria)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Banerj)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP responsabilizou)
+     )
+     (NP 
+      (DT o)
+      (NNP Banco_Central)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN perda)
+       (PP 
+        (IN de)
+        (NP 
+         (NN liquidez)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN banco)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP informou)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NNP Banerj)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (NN dinheiro)
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB receber)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP BC)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NN R$)
+         (NP 
+          (CD 100)
+          (NN milhões)
+         )
+         (VP 
+          (VP 
+           (VBN pagos)
+          )
+          (PP 
+           (IN a)
+           (RB mais)
+          )
+          (PP 
+           (IN desde)
+           (ADJP 
+            (CD 1992)
+           )
+          )
+         )
+        )
+        (NP 
+         (NN R$)
+         (NP 
+          (CD 30)
+          (NN milhões)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NN multa)
+          )
+         )
+        )
+        e
+        (NP 
+         (DT mais)
+         (NN R$)
+         (NP 
+          (CD 600)
+          (NN milhões)
+         )
+         (VP 
+          (VP 
+           (VBN recolhidos)
+          )
+          (ADVP 
+           (RB como)
+           (NP 
+            (NN depósito)
+            (ADJP 
+             (JJ compulsório)
+            )
+           )
+          )
+         )
+        )
+       )
+       (ADVP 
+        (RB depois)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Plano_Real)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP ex-ministro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Fazenda)
+      (NP 
+       (NNP Ernane_Galvêas)
+      )
+      (NP 
+       (NN governo)
+       (NP 
+        (NNP Figueiredo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT sua)
+     (NN participação)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN episódio)
+      )
+     )
+    )
+    (VP 
+     (VBP limitou-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NN de_acordo)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN processo)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP teria)
+        (VBN vindo)
+       )
+       (ADJP 
+        (JJ pronto)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Banco_Nacional_de_Habitação)
+         (VP 
+          (VP 
+           (VBN subordinado)
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT a)
+            (NN época)
+           )
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (DT o)
+            (NNP Ministério_do_Interior)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

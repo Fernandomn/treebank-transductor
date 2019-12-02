@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Nicolau)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB hoje)
+    )
+    (NP 
+     (DT o)
+     (NN produtor)
+     (PP 
+      (IN de)
+      (NP 
+       (NN leite)
+       (NP 
+        (NN C)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP recebe)
+    )
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 0.22)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB enquanto)
+    )
+    (NP 
+     (DT o)
+     (NN custo)
+    )
+    (VP 
+     (VBP está)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 0.24)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (IN de)
+     (VBN registrado)
+    )
+   )
+   (NP 
+    (NNP Queiroz)
+   )
+   (VP 
+    (VBP apresentou)
+   )
+   (NP 
+    (DT uma)
+    (JJ segunda)
+    (NN declaração)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP TSE)
+     (NP 
+      (NNP Tribunal_Superior_Eleitoral)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG acrescentando)
+    )
+    (NP 
+     (NN bens)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP alegou)
+      )
+      (VP 
+       (VP 
+        (VB ter)
+        (VBN esquecido)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT os)
+         (JJ primeiros)
+         (NN papéis)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP foram)
+           (VBN apresentados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

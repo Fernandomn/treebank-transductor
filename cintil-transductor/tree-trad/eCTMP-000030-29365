@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS criança)
+   )
+   (VP 
+    (VP 
+     (VB irá)
+     (RB depois)
+    )
+    (VP 
+     (VB escolher)
+     (PP 
+      (IN entre)
+      (NP 
+       (PRP elas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

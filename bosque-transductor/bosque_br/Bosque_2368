@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (PRP tudo_isso)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP cabe)
+   )
+   (NP 
+    (NN formalismo)
+    (PP 
+     (IN em)
+     (NP 
+      (NN excesso)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Dá)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB sentir)
+      )
+      (VP 
+       (NP 
+        (DT a)
+        (NN terra)
+       )
+       (VP 
+        (VB estremecer)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN barulho)
+    )
+    (VP 
+     (VBP parece)
+    )
+    (NP 
+     (DT o)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN trovão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

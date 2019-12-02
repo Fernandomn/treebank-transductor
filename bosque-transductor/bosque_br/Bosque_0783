@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN polícia)
+   )
+   (VP 
+    (VBP deu)
+   )
+   (NP 
+    (NN ordem)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB prender)
+      )
+      (NP 
+       (DT mais)
+       (CD sete)
+       (NN pessoas)
+       (ADJP 
+        (JJ suspeitas)
+        (PP 
+         (IN de)
+         (NP 
+          (NN envolvimento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

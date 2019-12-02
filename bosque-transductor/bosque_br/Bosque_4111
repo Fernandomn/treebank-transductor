@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN custo)
+    (ADJP 
+     (JJ médio)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (PRP cada_um)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NNP Cieps)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NNP Rio_de_Janeiro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (RB cerca_de)
+     (NN US$)
+     (NP 
+      (CD 1)
+      (NN milhão)
+     )
+    )
+   )
+  )
+ )
+)

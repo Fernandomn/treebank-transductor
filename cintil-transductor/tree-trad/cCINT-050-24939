@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Vou)
+      (VP 
+       (VP 
+        (VB estar)
+        (RB sempre)
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP teu)
+          (NNS lado)
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CC quando)
+      (S 
+       (VB precisares)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB juro)
+    )
+   )
+  )
+ )
+)

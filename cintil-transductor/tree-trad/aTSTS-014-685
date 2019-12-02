@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Londres)
+   )
+   (VP 
+    (VB marchou)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS invasão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Iraque)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

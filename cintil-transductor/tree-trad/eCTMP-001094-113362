@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (PRP Poucos)
+       (NNS dias)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS comunistas)
+      (NP 
+       (CC e)
+       (NNS socialistas)
+      )
+     )
+    )
+    (VP 
+     (VB fumavam)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS cachimbo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS paz)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

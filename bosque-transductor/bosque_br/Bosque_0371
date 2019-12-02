@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD 12)
+    (NN computadores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Future_Kids)
+     )
+    )
+   )
+   (VP 
+    (VBP oferecem)
+   )
+   (NP 
+    (NN jogos)
+    (ADJP 
+     (JJ educativos)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP treinam)
+     )
+     (NP 
+      (DT o)
+      (NN raciocínio)
+      (ADJP 
+       (JJ lógico)
+      )
+     )
+    )
+   )
+  )
+ )
+)

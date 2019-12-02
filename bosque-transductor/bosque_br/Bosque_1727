@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (NP 
+    (NN opções)
+    (ADJP 
+     (RB mais)
+     (JJ econômicas)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT os)
+     (NN campings)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 5)
+     )
+     (NP 
+      (NN CR$)
+      (ADJP 
+       (CD 2.200.00)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB por_pessoa)
+   )
+  )
+ )
+)

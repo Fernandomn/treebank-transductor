@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (PP 
+    (IN em)
+    (NP 
+     (NN fevereiro)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN laboratórios)
+   )
+   (VP 
+    (VBP ultrapassaram)
+   )
+   (NP 
+    (DT a)
+    (NN inflação)
+   )
+   (ADVP 
+    (RB outra_vez)
+   )
+  )
+ )
+)

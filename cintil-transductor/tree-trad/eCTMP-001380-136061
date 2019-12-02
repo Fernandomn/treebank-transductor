@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (NP 
+      (DT Este)
+      (NNS ano)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS volume)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS interessados)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB ultrapassou)
+     (NP 
+      (PRP todas)
+      (NP 
+       (DT as)
+       (NNS expectativas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

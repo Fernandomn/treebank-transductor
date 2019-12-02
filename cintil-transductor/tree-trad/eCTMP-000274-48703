@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS momentos)
+        (ADJP 
+         (RB mais)
+         (JJ divertidos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ocorreu)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS Noite)
+        (NNS Internacional)
+       )
+       (CONJP 
+        (CONJP 
+         (PP 
+          (IN em)
+          (NP 
+           (PRP que)
+          )
+         )
+         (S 
+          (NP 
+           (PRP cada)
+           (NNS país)
+          )
+          (VP 
+           (VP 
+            (VB cozinhou)
+            (NP 
+             (DT um)
+             (NP 
+              (NNS prato)
+              (JJ típico)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

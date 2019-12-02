@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (NP 
+     (CD quatro)
+     (NNS janelas)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (PP meu)
+      (NNS dia-a-dia)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,120 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Super-301)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBP foi)
+      (VBN aplicada)
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT o)
+       (NNP Brasil)
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (VP 
+       (VBP esteve)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN vigor)
+       )
+      )
+      (PP 
+       (IN em)
+       (ADJP 
+        (ADJP 
+         (CD 1989)
+        )
+        e
+        (ADJP 
+         (CD 1990)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estabelece)
+   )
+   (NP 
+    (DT um)
+    (NN prazo)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 18)
+      (NN meses)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (IN que)
+      (NP 
+       (DT as)
+       (NN negociações)
+       (ADJP 
+        (JJ bilaterais)
+       )
+      )
+      (VP 
+       (VBP levem)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN eliminação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (NP 
+            (DT os)
+            (NNP EUA)
+           )
+           (VP 
+            (VBP consideram)
+           )
+           (NP 
+            (NN barreiras)
+            (PP 
+             (IN a+)
+             (NP 
+              (DT o)
+              (NN comércio)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

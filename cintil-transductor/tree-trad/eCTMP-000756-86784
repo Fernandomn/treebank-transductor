@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Já)
+     (VP 
+      (VB falámos)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP alguns)
+        (NNS pontos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VB vamos)
+       (VP 
+        (VB conversar)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT outros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

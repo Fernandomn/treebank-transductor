@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Cá)
+      (RB fora)
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (DT as)
+         (NNS entrevistas)
+        )
+        (NP 
+         (NP 
+          (DT os)
+          (NNS comentários)
+         )
+        )
+       )
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (PP 
+            (IN a_)
+            (NP 
+             (DT as)
+             (NNS vezes)
+            )
+           )
+           (VP 
+            (VB é)
+            (JJ difícil)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

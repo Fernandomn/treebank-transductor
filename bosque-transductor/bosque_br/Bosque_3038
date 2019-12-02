@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Recebi)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN fax)
+    )
+   )
+   (NP 
+    (NN entrevista)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP concedeu)
+     )
+     (PP 
+      (IN em)
+      (ADJP 
+       (CD 1979)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN revista)
+       (NP 
+        (NNP Especial)
+       )
+       (VP 
+        (ADVP 
+         (RB onde)
+        )
+        (VP 
+         (VBP expõe)
+        )
+        (NP 
+         (DT sua)
+         (NN visão)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT a)
+           (NN mulher)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

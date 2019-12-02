@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Jimmy)
+      (NNS Carter)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (JJ antigo)
+       (NP 
+        (NNS Presidente)
+        (JJ norte-americano)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB protagonizou)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS incidentes)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB antecederam)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS abertura)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NNS trabalhos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS AACS)
+     )
+     (VP 
+      (VB poderia)
+      (VP 
+       (VB ter)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS papel)
+         (PP 
+          (PP 
+           (IN de)
+           (NP 
+            (NNS reflexão)
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS dinamização)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (PRP nada)
+     )
+     (S 
+      (VP 
+       (VB faz)
+      )
+     )
+    )
+   )
+  )
+ )
+)

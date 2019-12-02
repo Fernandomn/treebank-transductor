@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN interior)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN jeito)
+    (ADJP 
+     (RB mais)
+     (JJ fácil)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB procurar)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NN grêmio)
+      (ADJP 
+       (JJ estudantil)
+      )
+     )
+     ou
+     (NP 
+      (DT a)
+      (NN direção)
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN escola)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

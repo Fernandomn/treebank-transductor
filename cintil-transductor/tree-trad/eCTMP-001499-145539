@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Ambientalistas)
+  )
+  (VP 
+   (VB querem)
+   (NP 
+    (NP 
+     (NNS garantias)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS construção)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS aterros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

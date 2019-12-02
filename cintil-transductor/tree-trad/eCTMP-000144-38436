@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Belmiro)
+     (NNS de)
+     (NNS Azevedo)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NNS sócio)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mesmo)
+           (NNS clube)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS contrário)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS rei)
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS cortiça)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

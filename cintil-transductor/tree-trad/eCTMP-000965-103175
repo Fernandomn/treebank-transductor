@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB recebeu)
+       )
+       (RB bem)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS lote)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS apoios)
+          )
+         )
+        )
+        (ADJP 
+         (VB delineado)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT o)
+           (NNS Governo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB foi)
+    )
+    (NP 
+     (DT a)
+     (NNS Fenprof)
+    )
+   )
+  )
+ )
+)

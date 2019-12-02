@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ esmagadora)
+     (NP 
+      (NNS maioria)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS portugueses)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB viu)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS cerimónia)
+       (ADJP 
+        (JJ inaugural)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD segundo)
+         (NP 
+          (NNS mandato)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Clinton)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (RB Só)
+       (VP 
+        (VB conhecemos)
+        (NP 
+         (DT aquilo)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (NP 
+               (PRP se)
+              )
+              (VB vê)
+             )
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NNS televisão)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirma)
+    )
+   )
+  )
+ )
+)

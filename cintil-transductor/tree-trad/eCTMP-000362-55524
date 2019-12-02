@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS Federação)
+      (NNS Portuguesa)
+      (NNS de)
+      (NNS Ténis)
+     )
+    )
+   )
+   (VP 
+    (VB fez)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS balanço)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esta)
+        (NNS eliminatória)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

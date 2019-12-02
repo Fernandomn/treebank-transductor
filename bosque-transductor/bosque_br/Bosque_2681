@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN caso)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Alvarez)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN intimidade)
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+   )
+   (VP 
+    (VBP levou-)
+   )
+   (NP 
+    (PRP o)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB conhecer)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NN mentalidade)
+       (ADJP 
+        (JJ norte-americana)
+       )
+      )
+      (NP 
+       (DT seus)
+       (NN gostos)
+      )
+      (NP 
+       (DT seus)
+       (NN costumes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN absolvição)
+    (PP 
+     (IN em)
+     (NP 
+      (NN abril)
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 1992)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN policiais)
+     )
+    )
+   )
+   (VP 
+    (VBP provocou)
+   )
+   (NP 
+    (CD 48)
+    (NN horas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN conflitos)
+      (ADJP 
+       (JJ raciais)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP LA)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP resultaram)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (CD 58)
+          (NN mortes)
+         )
+         (NP 
+          (CD 4.000)
+          (VBN feridos)
+         )
+         e
+         (NP 
+          (NN US$)
+          (NP 
+           (CD 1)
+           (NN bilhão)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NN prejuízos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

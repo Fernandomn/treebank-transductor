@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Hoje)
+    (VP 
+     (VP 
+      (VB tomará)
+      (NP 
+       (NNS posse)
+      )
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS Viana)
+         (NNS de_)
+         (NNS o)
+         (NNS Castelo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NP 
+      (JJ nova)
+      (NP 
+       (NNS presidente)
+       (NNS de_)
+       (NNS a)
+       (NNS Junta)
+       (NNS Autónoma)
+       (NNS de_)
+       (NNS os)
+       (NNS Portos)
+       (NNS de_)
+       (NNS o)
+       (NNS Norte)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Marcília)
+      (NNS Montenegro)
+     )
+    )
+   )
+  )
+ )
+)

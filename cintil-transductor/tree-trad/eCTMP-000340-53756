@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Tournée)
+   )
+   (VP 
+    (VP 
+     (VB continua)
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (RB não)
+        (VB comentar)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NNS interdição)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS bancada)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CONJP 
+       (CC porque)
+       (S 
+        (VP 
+         (RB ainda)
+         (VP 
+          (VP 
+           (RB não)
+           (VB leu)
+          )
+          (NP 
+           (DT o)
+           (NP 
+            (NNS relatório)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (NP 
+                (PRP a)
+               )
+               (VB determinou)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

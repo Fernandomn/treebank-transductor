@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB construiu)
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS mundo)
+       (JJ diferente)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (PRP cada)
+       (PRP um)
+      )
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (PP seus)
+          (NNS temas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS estúdio)
+     )
+    )
+   )
+  )
+ )
+)

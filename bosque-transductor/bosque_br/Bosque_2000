@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+    (VBN assassinado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN agosto)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 1909)
+      )
+     )
+     (ADVP 
+      (NP 
+       (DT um)
+       (NN mês)
+      )
+      (RB antes)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN acordo)
+        (PP 
+         (IN entre)
+         (NP 
+          (DT os)
+          (CD dois)
+          (NN países)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

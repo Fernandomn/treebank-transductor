@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Braga)
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Igreja)
+        (NNS de_)
+        (NNS o)
+        (NNS Bom)
+        (NNS Jesus)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (NP 
+       (NNS concerto)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Orquestra)
+          (NNS Nova)
+          (NNS Filarmonia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Valladolid)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (CD sétimo)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (CD 22)
+      (NNS pontos)
+     )
+    )
+   )
+  )
+ )
+)

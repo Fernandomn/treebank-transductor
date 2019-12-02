@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS países)
+     (JJ árabes)
+    )
+   )
+   (VP 
+    (VP 
+     (VB abandonaram)
+     (NP 
+      (DT a)
+      (NNS Líbia)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS confronto)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NNS Ocidente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

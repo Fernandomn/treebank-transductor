@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS processo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS cura)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS tarefa)
+      (PP 
+       (IN de_)
+       (NP 
+        (PRP ela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

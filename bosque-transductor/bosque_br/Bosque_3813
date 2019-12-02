@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Chris_Columbus)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN ligado)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN adaptação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN super-heróis)
+        (NP 
+         (NNP Quarteto_Fantástico)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP inauguraram)
+          )
+          (NP 
+           (DT a)
+           (NN era)
+           (NP 
+            (NNP Marvel)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT os)
+            (NN gibis)
+           )
+          )
+          (PP 
+           (IN há)
+           (NP 
+            (CD 30)
+            (NN anos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

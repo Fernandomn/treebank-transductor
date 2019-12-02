@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT As)
+     (NN paulistas)
+     (NP 
+      (NP 
+       (NNP Mancha_Verde)
+       (NP 
+        (NNP Palmeiras)
+       )
+      )
+      e
+      (NP 
+       (NNP Gaviões_da_Fiel)
+       (NP 
+        (NNP Corinthians)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP aceitaram)
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (DT as)
+     (NN cariocas)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP recusaram)
+    )
+   )
+  )
+ )
+)

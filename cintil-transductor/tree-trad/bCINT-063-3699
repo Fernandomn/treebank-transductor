@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Porto)
+     (JJ ideal)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS cidade)
+       (ADJP 
+        (RB muito)
+        (JJ urbana)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS cidade)
+        (ADJP 
+         (ADJP 
+          (JJ burguesa)
+         )
+         (ADJP 
+          (RB muito)
+          (JJ igualitária)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS TEP)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB assim)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (JJ único)
+      (NP 
+       (NNS exemplo)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NP 
+           (NNS companhia)
+           (JJ profissional)
+          )
+          (ADJP 
+           (VB dirigida)
+           (PP 
+            (IN por)
+            (NP 
+             (DT uma)
+             (NNS associação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

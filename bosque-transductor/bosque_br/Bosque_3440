@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (DT algumas)
+     (NN passagens)
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN diálogos)
+    (ADJP 
+     (ADJP 
+      (JJ intermináveis)
+     )
+     e
+     (ADJP 
+      (JJ vazios)
+     )
+    )
+   )
+  )
+ )
+)

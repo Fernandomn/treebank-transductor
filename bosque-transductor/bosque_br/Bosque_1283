@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN crescimento)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Fernando_Henrique)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (JJ última)
+        (NN pesquisa)
+        (NP 
+         (NNP Datafolha)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deve-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN evolução)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN tucano)
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NN eleitores)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP declaram)
+        )
+        (NP 
+         (NN simpatia)
+        )
+        (PP 
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NNP PMDB)
+           (PP 
+            (IN de)
+            (NP 
+             (NNP Orestes_Quércia)
+            )
+           )
+          )
+         )
+         e
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NNP PPR)
+           (PP 
+            (IN de)
+            (NP 
+             (NNP Esperidião_Amin)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

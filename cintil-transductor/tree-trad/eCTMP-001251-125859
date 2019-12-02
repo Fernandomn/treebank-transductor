@@ -1,0 +1,111 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (ADVP 
+      (ADVP 
+       (ADVP 
+        (NP 
+         (DT Um)
+         (NNS minuto)
+        )
+       )
+       (RB antes)
+      )
+     )
+     (S 
+      (NP 
+       (NP 
+        (NNS Nuno)
+        (NNS Gomes)
+       )
+      )
+      (VP 
+       (VP 
+        (VB recebeu)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS lançamento)
+          (JJ longo)
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Paulo)
+          (NNS Madeira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS cara)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Quim)
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB tentou)
+        (NP 
+         (DT o)
+         (NNS chapéu)
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (NP 
+         (DT a)
+         (NNS bola)
+        )
+        (VP 
+         (VB morreu)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS mãos)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS guarda-redes)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

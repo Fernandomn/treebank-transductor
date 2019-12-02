@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mensagem)
+   )
+   (VP 
+    (VP 
+     (VB fala)
+     (RB sobretudo)
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Coimbra)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS canções)
+        )
+       )
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS doutores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

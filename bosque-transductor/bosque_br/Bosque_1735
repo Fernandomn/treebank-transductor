@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN otimismo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Van_Himst)
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP justifica)
+   )
+   (ADVP 
+    (RB em_parte)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN entrada)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN centroavante)
+       (ADJP 
+        (JJ belgo-croata)
+       )
+       (NP 
+        (NNP Josip_Weber)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN time)
+    )
+   )
+  )
+ )
+)

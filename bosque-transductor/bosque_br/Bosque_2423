@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN necessidade)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB reparar)
+      )
+      (NP 
+       (DT os)
+       (NN equipamentos)
+      )
+      (PP 
+       (IN durante)
+       (NP 
+        (DT a)
+        (NN viagem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP teria)
+    (VBN alterado)
+   )
+   (NP 
+    (DT os)
+    (NN planos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN trabalho)
+     )
+    )
+   )
+  )
+ )
+)

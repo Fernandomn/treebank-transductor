@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Buster)
+     (NNS Keaton)
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS ciclo)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS Gil)
+           (NNS Vicente)
+          )
+          (PP 
+           (PP 
+            (IN em)
+            (NP 
+             (NNS Coimbra)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

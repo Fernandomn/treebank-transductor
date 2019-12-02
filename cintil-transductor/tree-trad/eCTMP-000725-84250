@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (PRP nós)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS objectivo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (CD 40)
+         (NNS horas)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB é)
+      (JJ antigo)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,216 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Um)
+    (NP 
+     (DT o)
+     (JJ convencional)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (DT o)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (DT o)
+         (NNP Plano_Real)
+        )
+        (VP 
+         (VBP contempla)
+        )
+       )
+      )
+     )
+    )
+    (CC e)
+    (VP 
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (RB como)
+      (NP 
+       (NN instrumentos)
+       (ADJP 
+        (JJ essenciais)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NN importação)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN taxa)
+         (ADJP 
+          (JJ cambial)
+         )
+         (UCP 
+          (VBN fixa)
+          e
+          (ADJP 
+           (JJ baixa)
+          )
+          e
+          (ADVP 
+           (RB quase)
+           (PP 
+            (IN sem)
+            (NP 
+             (NN tarifa)
+             (ADJP 
+              (JJ aduaneira)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NN mercadorias)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (VBG tornando)
+        )
+        (ADJP 
+         (JJ impossível)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT a)
+          (NN competição)
+         )
+        )
+        (VP 
+         (NP 
+          (NP 
+           (DT os)
+           (NN produtores)
+          )
+          e
+          (NP 
+           (NN comerciantes)
+           (ADJP 
+            (JJ brasileiros)
+           )
+          )
+         )
+         (VP 
+          (VB aumentarem)
+         )
+         (NP 
+          (DT seus)
+          (NN preços)
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (DT a)
+       (NN redução)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN demanda)
+         (PP 
+          (IN por)
+          (NP 
+           (NN bens)
+           (PP 
+            (PP 
+             (IN de)
+             (NP 
+              (NN consumo)
+             )
+            )
+            e
+            (PP 
+             (IN de)
+             (NP 
+              (NN investimento)
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN mediante)
+          (NP 
+           (NP 
+            (NN juros)
+            (ADJP 
+             (JJ altos)
+            )
+           )
+           e
+           (NP 
+            (NN corte)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN gasto)
+              (ADJP 
+               (JJ público)
+              )
+             )
+            )
+           )
+          )
+         )
+         (VP 
+          (VP 
+           (VBG impedindo)
+          )
+          (NP 
+           (DT as)
+           (NN remarcações)
+           (PP 
+            (IN de)
+            (NP 
+             (NN preços)
+            )
+           )
+          )
+          (PP 
+           (IN por+)
+           (NP 
+            (DT o)
+            (NN excesso)
+            (PP 
+             (IN de)
+             (NP 
+              (NN oferta)
+              (VBN suscitado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

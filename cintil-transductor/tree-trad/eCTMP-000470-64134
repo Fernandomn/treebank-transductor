@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS economia)
+   )
+   (VP 
+    (VP 
+     (VB entrou)
+     (RB definitivamente)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS campanha)
+       (JJ eleitoral)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP deverá)
+      (VB inviabilizar)
+     )
+     (NP 
+      (DT a)
+      (JJ atual)
+      (NN oportunidade)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB estabilizar)
+        )
+        (ADVP 
+         (RB afetivamente)
+        )
+        (NP 
+         (DT a)
+         (NN economia)
+         (ADJP 
+          (JJ brasileira)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB de_quebra)
+     )
+     (VP 
+      (VBP deverá)
+      (VB fazer)
+     )
+     (NP 
+      (DT uma)
+      (NN série)
+      (PP 
+       (IN de)
+       (NP 
+        (NN estragos)
+        (ADJP 
+         (JJ irreversíveis)
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (ADVP 
+          (IN em)
+          (RB muito)
+         )
+         (VP 
+          (VBP debilitarão)
+         )
+         (NP 
+          (DT seu)
+          (NN potencial)
+          (PP 
+           (IN de)
+           (NP 
+            (NN desenvolvimento)
+           )
+          )
+         )
+         (ADVP 
+          (RB a_longo_prazo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

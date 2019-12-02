@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (NNP Flach)
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN terreno)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN idéias)
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP eu)
+   )
+   (VP 
+    (VBP priorizo)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT uma)
+     (NN questão)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NN educação)
+       )
+      )
+      e
+      (PP 
+       (IN de)
+       (NP 
+        (NN saúde)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

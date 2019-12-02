@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Suécia)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP arriscou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN ataque)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT nenhum)
+     (NN momento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN partida)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,87 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (CD 1910)
+     (NP 
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS sequência)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS implantação)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS República)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS empresa)
+      (ADJP 
+       (JJ proprietária)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS mina)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB cessou)
+      (NP 
+       (DT a)
+       (NNS actividade)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN sem)
+        (NP 
+         (NNS aviso)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN sem)
+         (NP 
+          (NNS explicação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

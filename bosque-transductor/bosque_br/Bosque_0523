@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB ter)
+     )
+     (NP 
+      (DT uma)
+      (NN idéia)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+   )
+   (NP 
+    (DT a)
+    (JJ melhor)
+    (NN marca)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Hilma)
+     (PP 
+      (IN com)
+      (NP 
+       (CD 3.12)
+       (NN m.)
+      )
+     )
+    )
+   )
+  )
+ )
+)

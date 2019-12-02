@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NNS Verão)
+  )
+  (VP 
+   (VP 
+    (JJ difícil)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NNS utentes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ principal)
+         (NP 
+          (NNS entrada)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Coimbra)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

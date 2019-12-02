@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (NP 
+     (NNS Graça)
+    )
+   )
+   (NP 
+    (NP 
+     (PRP quem)
+    )
+    (S 
+     (S 
+      (VP 
+       (VB atendeu)
+       (NP 
+        (DT o)
+        (NNS telefone)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB chamou)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS filho)
+          (ADJP 
+           (RB mais)
+           (JJ velho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

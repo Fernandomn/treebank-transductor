@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+    (NP 
+     (DT os)
+     (NNS países)
+    )
+   )
+   (VP 
+    (VB irão)
+    (VP 
+     (VB fazer)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS acompanhamento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS crianças)
+           (JJ envolvidas)
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN até)
+         (IN a_)
+        )
+        (NP 
+         (DT os)
+         (NP 
+          (PP seus)
+          (NP 
+           (CD nove)
+           (NP 
+            (NNS anos)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS idade)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

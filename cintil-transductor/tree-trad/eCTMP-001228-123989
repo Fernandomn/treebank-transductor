@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS cartas)
+    )
+    (VP 
+     (VB iam)
+     (VP 
+      (VB ter)
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS papelaria)
+         (PP 
+          (IN em)
+          (NP 
+           (NP 
+            (NNS Brez)
+            (NNS de)
+            (NNS Azeitão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (PRP eles)
+     )
+     (VP 
+      (VP 
+       (VB iam)
+       (RB lá)
+      )
+      (VP 
+       (VB buscá)
+       (NP 
+        (PRP -las)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Dez)
+       (NNS minutos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS grupo)
+    )
+    (VB sai)
+   )
+  )
+ )
+)

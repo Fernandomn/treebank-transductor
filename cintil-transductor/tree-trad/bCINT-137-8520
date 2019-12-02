@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Feeding)
+     (NNS the)
+     (NNS Machine)
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (PP 
+      (IN a_)
+      (IN a)
+      (IN altura)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NNS falatório)
+     )
+    )
+   )
+  )
+ )
+)

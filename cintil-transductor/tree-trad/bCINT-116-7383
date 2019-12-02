@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Vamos)
+       (VP 
+        (VP 
+         (VB manter)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mesmo)
+           (NP 
+            (NNS nível)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS presença)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (DT um)
+            (NP 
+             (NNS modelo)
+             (JJ reestruturado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VB diz)
+     )
+    )
+   )
+  )
+ )
+)

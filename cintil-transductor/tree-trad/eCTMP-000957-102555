@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Estão)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS origem)
+         (PP 
+          (IN de)
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS dor)
+            (JJ inimaginável)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB geram)
+       (NP 
+        (NNS arte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

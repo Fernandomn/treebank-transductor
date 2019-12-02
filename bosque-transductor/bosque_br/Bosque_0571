@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Burle_Filho)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP combinou)
+    )
+    (NP 
+     (DT a)
+     (NN ida)
+     (PP 
+      (IN de)
+      (NP 
+       (DT seu)
+       (NN auxiliar)
+      )
+     )
+    )
+    (PP 
+     (IN após)
+     (VP 
+      (VP 
+       (VB telefonar)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT seu)
+        (NN colega)
+        (ADJP 
+         (JJ carioca)
+        )
+        (NP 
+         (NNP Antônio_Carlos_Biscaia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

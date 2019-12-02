@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB foram)
+     )
+     (PRP poucos)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS investidores)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB decidiram)
+         (VP 
+          (VP 
+           (VB apostar)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NNS Portucel)
+            )
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT esta)
+            (NNS altura)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB agora)
+      (VP 
+       (VP 
+        (VB têm)
+        (RB já)
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS mais-valia)
+         (JJ considerável)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

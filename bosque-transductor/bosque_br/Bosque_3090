@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP George)
+    )
+    (VP 
+     (VBP era)
+    )
+    (ADJP 
+     (JJ indiferente)
+     (RB politicamente)
+    )
+   )
+   (VP 
+    (NP 
+     (NNP Ira)
+    )
+    (VP 
+     (VBP era)
+    )
+    (NP 
+     (NN liberal)
+     (PP 
+      (IN com)
+      (NP 
+       (NN inclinações)
+       (ADJP 
+        (JJ socialistas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

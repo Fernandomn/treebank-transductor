@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (NP 
+    (DT o)
+    (NN caso)
+    (PP 
+     (IN de)
+     (NP 
+      (NN candidatos)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NN cargos)
+         (ADJP 
+          (JJ majoritários)
+         )
+        )
+        ou
+        (NP 
+         (NN dirigentes)
+         (ADJP 
+          (JJ regionais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

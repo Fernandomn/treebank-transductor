@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS Estados)
+     (NNS Unidos)
+    )
+   )
+   (VP 
+    (VB enviaram)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ nova)
+      (NP 
+       (NP 
+        (NNS ajuda)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS emergência)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN com)
+         (NP 
+          (CD trinta)
+          (NP 
+           (NP 
+            (NNS contentores)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS rações)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS combate)
+                )
+               )
+              )
+             )
+            )
+           )
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB irão)
+              (VP 
+               (VB beneficiar)
+               (NP 
+                (DT as)
+                (NP 
+                 (NNS tropas)
+                 (JJ aquarteladas)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

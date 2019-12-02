@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNP Antonio_Delfim_Netto)
+   (NP 
+    (NN deputado)
+    (ADJP 
+     (JJ federal)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NNP PPR-SP)
+     )
+    )
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Jornal_do_Brasil)
+    )
+   )
+  )
+ )
+)

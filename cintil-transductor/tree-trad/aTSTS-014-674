@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB reagiu)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS início)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS guerra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

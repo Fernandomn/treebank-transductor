@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Clowning)
+     (NNS Aroud)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS espectáculo)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB trouxeram)
+          (PP 
+           (IN até)
+           (NP 
+            (NP 
+             (NNS Auditório)
+             (NNS Nacional)
+             (NNS Carlos)
+             (NNS Alberto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

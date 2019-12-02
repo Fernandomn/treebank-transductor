@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Tem)
+     (NP 
+      (NP 
+       (CD 35)
+       (NNS anos)
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS rosto)
+         (ADJP 
+          (RB muito)
+          (VB marcado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB mora)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Centro)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN hotel)
+   )
+   (VP 
+    (VBP terá)
+   )
+   (NP 
+    (CD cinco)
+    (NN alas)
+    (PP 
+     (IN com)
+     (NP 
+      (NN motivos)
+      (PP 
+       (IN de)
+       (NP 
+        (DT cada)
+        (DT um)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (CD cinco)
+          (NN esportes)
+          (ADJP 
+           (RB mais)
+           (JJ populares)
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NNP Estados_Unidos)
+           )
+          )
+          (NP 
+           (NP 
+            (NN futebol)
+            (ADJP 
+             (JJ americano)
+            )
+           )
+           (NP 
+            (NN basquete)
+           )
+           (NP 
+            (NN beisebol)
+           )
+           (NP 
+            (NN tênis)
+           )
+           e
+           (NP 
+            (NN surfe)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

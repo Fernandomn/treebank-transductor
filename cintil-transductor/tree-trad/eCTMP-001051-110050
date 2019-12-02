@@ -1,0 +1,32 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Bom)
+   )
+   (S 
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (RB só)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS questão)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS moda)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

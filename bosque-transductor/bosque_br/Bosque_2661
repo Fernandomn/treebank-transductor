@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (NP 
+      (PRP me)
+     )
+     (VBG municiando)
+    )
+    e
+    (VP 
+     (NP 
+      (PRP me)
+     )
+     (VBG dando)
+     (NP 
+      (DT o)
+      (NN instrumental)
+      (VP 
+       (PP 
+        (IN de)
+        (NP 
+         (PRP que)
+        )
+       )
+       (VP 
+        (VBP careço)
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB imaginar)
+         )
+         (NP 
+          (DT a)
+          (NN solução)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NN problemas)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN Estado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

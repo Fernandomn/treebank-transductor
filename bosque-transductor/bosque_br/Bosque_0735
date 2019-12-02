@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP IRLF)
+   )
+   (VP 
+    (VBP condena)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN eutanásia)
+    )
+    e
+    (NP 
+     (DT os)
+     (NN métodos)
+     (ADJP 
+      (JJ contraceptivos)
+     )
+     (ADJP 
+      (RB não)
+      (JJ naturais)
+      (NP 
+       (RB inclusive)
+       (DT a)
+       (NN pílula)
+      )
+     )
+    )
+   )
+  )
+ )
+)

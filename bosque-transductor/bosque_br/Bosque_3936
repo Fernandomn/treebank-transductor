@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB estimular)
+     )
+     (NP 
+      (DT a)
+      (NN participação)
+     )
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT cada)
+     (CD dois)
+     (NN dias)
+     (PP 
+      (IN de)
+      (NP 
+       (NN trabalho)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NN meninas)
+   )
+   (VP 
+    (VBP ganham)
+   )
+   (NP 
+    (DT uma)
+    (NN boneca)
+   )
+  )
+ )
+)

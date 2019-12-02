@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VB Fazer)
+     )
+     (VP 
+      (VP 
+       (VB avançar)
+      )
+      (NP 
+       (DT uma)
+       (NN reforma)
+       (ADJP 
+        (JJ estrutural)
+       )
+       (NP 
+        (RB como)
+        (NP 
+         (DT a)
+         (NN abertura)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN economia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB ao_mesmo_tempo)
+     )
+     (VP 
+      (VB calibrar)
+     )
+     (NP 
+      (DT um)
+      (NN processo)
+      (PP 
+       (IN de)
+       (NP 
+        (NN estabilização)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (NP 
+    (DT uma)
+    (NN tarefa)
+    (ADJP 
+     (JJ fácil)
+    )
+   )
+  )
+ )
+)

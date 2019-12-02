@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB ter)
+     )
+     (NP 
+      (DT uma)
+      (NN idéia)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN importância)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP InterNet)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Casa_Branca)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN conectada)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT essa)
+      (NN rede)
+     )
+    )
+    (VP 
+     (VP 
+      (VBG disponibilizando)
+     )
+     (NP 
+      (NP 
+       (NN publicações)
+      )
+      e
+      (NP 
+       (NN documentos)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT qualquer)
+       (NN pessoa)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN mundo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

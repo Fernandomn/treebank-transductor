@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN decisão)
+   )
+   (VP 
+    (VBP foi)
+    (VBN anunciada)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN tarde)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN revisão)
+       (ADJP 
+        (JJ constitucional)
+       )
+      )
+     )
+     (NP 
+      (NN senador)
+      (NP 
+       (NNP Humberto_Lucena)
+      )
+     )
+     (NP 
+      (NNP PMDB-PB)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tomou)
+      )
+      (NP 
+       (DT a)
+       (NN decisão)
+      )
+      (ADVP 
+       (RB mesmo)
+       (VP 
+        (VBG tendo)
+        (PP 
+         (IN em)
+         (NP 
+          (NN mãos)
+         )
+        )
+        (NP 
+         (NN parecer)
+         (ADJP 
+          (JJ contrário)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (DT sua)
+           (NN assessoria)
+           (ADJP 
+            (JJ jurídica)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

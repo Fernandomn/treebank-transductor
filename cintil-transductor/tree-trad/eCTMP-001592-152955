@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (RB Só)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS caminhos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS bosque)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS volta)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS hipódromo)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB havia)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (NP 
+       (CD 200)
+       (CD mil)
+      )
+     )
+     (NNS pessoas)
+    )
+   )
+  )
+ )
+)

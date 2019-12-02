@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP poderia)
+    (VB haver)
+   )
+   (NP 
+    (NN realização)
+    (ADJP 
+     (JJ maior)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT um)
+      (NN compositor)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB substituir)
+      )
+      (NP 
+       (NNP Beethoven)
+      )
+     )
+     ou
+     (VP 
+      (VP 
+       (VB ter)
+      )
+      (ADVP 
+       (RB pelo_menos)
+      )
+      (NP 
+       (DT a)
+       (NN ilusão)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB ser)
+         )
+         (NP 
+          (DT um)
+          (JJ novo)
+          (NN ponto)
+          (PP 
+           (IN de)
+           (NP 
+            (NN partida)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

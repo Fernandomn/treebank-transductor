@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS encontros)
+       (JJ realizados)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS destaque)
+    )
+    (VP 
+     (VB vai)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS eliminação)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS João)
+           (NNS Cunha)
+           (NNS e)
+           (NNS Silva)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

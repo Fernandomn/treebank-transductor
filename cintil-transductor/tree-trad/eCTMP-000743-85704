@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS rentabilidade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS empresas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB diminuiu)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD últimos)
+       (NP 
+        (CD dois)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

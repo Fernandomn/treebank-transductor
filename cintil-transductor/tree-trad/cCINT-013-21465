@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS Laranja)
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP te)
+       )
+       (VB viu)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB já)
+      (VP 
+       (VB está)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS pulgas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

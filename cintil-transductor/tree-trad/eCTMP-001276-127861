@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ esmagadora)
+     (NP 
+      (NNS vitória)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Boris)
+         (NNS Ieltsin)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS ingredientes)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NNS revolução)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

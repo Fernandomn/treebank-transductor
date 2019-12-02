@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS criação)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NNS universidade)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Viseu)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB parece)
+    )
+    (VP 
+     (VB estar)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ganhar)
+       (NP 
+        (NNS terreno)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

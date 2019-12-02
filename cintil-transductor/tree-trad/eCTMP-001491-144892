@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Chico)
+      (NNS Buarque)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Sebastião)
+       (NNS Salgado)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS categoria)
+     )
+    )
+   )
+  )
+ )
+)

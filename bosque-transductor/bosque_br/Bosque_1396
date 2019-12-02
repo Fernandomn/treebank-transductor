@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VBP estou)
+    )
+    (VBN apaixonado)
+   )
+   (VP 
+    (VBP declarou)
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (NP 
+     (NNP Itamar_Franco)
+    )
+    (NP 
+     (CD 63)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN hall)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Teatro_Nacional)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Brasília)
+         (VP 
+          (ADVP 
+           (RB onde)
+          )
+          (VP 
+           (VBP assistiu)
+          )
+          (ADVP 
+           (RB anteontem)
+          )
+          (NP 
+           (DT o)
+           (NN balé)
+           (NP 
+            (NNP Quebra_Nozes)
+           )
+          )
+          (PP 
+           (IN com)
+           (NP 
+            (DT a)
+            (NN pedagoga)
+            (NP 
+             (NNP June_Drummond)
+            )
+            (ADJP 
+             (CD 31)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Sergipe)
+   )
+   (VP 
+    (VBP registrou)
+   )
+   (NP 
+    (CD 87)
+    (NN casos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN cólera)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 94)
+    )
+   )
+  )
+ )
+)

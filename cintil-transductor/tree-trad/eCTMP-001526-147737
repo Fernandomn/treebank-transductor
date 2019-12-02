@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS proprietário)
+    )
+    (NP 
+     (NP 
+      (NNS Nélson)
+      (NNS Pereira)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB afirmou)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS Lusa)
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (RB já)
+       (VP 
+        (VP 
+         (VB entregou)
+         (NP 
+          (DT o)
+          (NNS caso)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (PP seu)
+           (NNS advogado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

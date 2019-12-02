@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS PP)
+    )
+    (VP 
+     (VP 
+      (VB propôs)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS formação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NNS sub-comissão)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS âmbito)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS comissão)
+           (NNS de_)
+           (NNS os)
+           (NNS Negócios)
+           (NNS Estrangeiros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB levou)
+      (NP 
+       (DT o)
+       (NNS assunto)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS conferência)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS líderes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

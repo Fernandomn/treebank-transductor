@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB dividiu)
+     (NP 
+      (DT o)
+      (NNS bolo)
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS família)
+     )
+    )
+   )
+  )
+ )
+)

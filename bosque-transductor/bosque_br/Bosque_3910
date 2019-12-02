@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de+)
+    (NP 
+     (DT as)
+     (NN críticas)
+    )
+   )
+   (NP 
+    (NNP Vogts)
+   )
+   (VP 
+    (VBP prefere)
+   )
+   (VP 
+    (VP 
+     (VB manter)
+    )
+    (NP 
+     (DT a)
+     (NN discrição)
+    )
+   )
+  )
+ )
+)

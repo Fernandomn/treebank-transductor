@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN injustiçados)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NNP Alfredo_Volpi)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP recebe)
+     )
+     (NP 
+      (ADJP 
+       (RB apenas)
+       (CD um)
+      )
+      (NN painel)
+      (PP 
+       (IN com)
+       (NP 
+        (CD cinco)
+        (NN telas)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP servem)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB ilustrar)
+           )
+           (NP 
+            (DT sua)
+            (NN evolução)
+            (NP 
+             (PP 
+              (IN de)
+              (ADJP 
+               (JJ figurativo)
+              )
+             )
+             (PP 
+              (IN a)
+              (ADJP 
+               (JJ abstrato)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

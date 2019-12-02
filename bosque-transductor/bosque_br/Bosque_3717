@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NN Lugar)
+   (VP 
+    (PP 
+     (IN de)
+     (NP 
+      (PRP que)
+     )
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (VP 
+     (VBP gosta)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Bernardo)
+     (NNS Mota)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB despediu)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (RB ontem)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Estoril)
+       (NNS Open)
+      )
+     )
+    )
+   )
+  )
+ )
+)

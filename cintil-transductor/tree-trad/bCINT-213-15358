@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Sobre)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS filhos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT estas)
+        (NNS supermulheres)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS autora)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB debruçou)
+       )
+      )
+      (ADVP 
+       (RB com)
+       (RB pormenor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

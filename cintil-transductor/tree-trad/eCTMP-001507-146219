@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (DT a)
+      (NNS entrevista)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS telefone)
+    )
+    (VB tocou)
+   )
+  )
+ )
+)

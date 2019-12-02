@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Nuno)
+    (NNS Cardoso)
+    (NNS de_)
+    (NNS a)
+    (NNS Silva)
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS voto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS confiança)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

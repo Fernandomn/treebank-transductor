@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Verão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT esse)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB houve)
+    )
+    (NP 
+     (NNS audiência)
+    )
+   )
+  )
+ )
+)

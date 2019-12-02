@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Também)
+    (IN em+)
+    (NP 
+     (DT esse)
+     (NN período)
+    )
+   )
+   (NP 
+    (NNP Elvis_Aaron_Presley)
+   )
+   (VP 
+    (VBP sucumbiu)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN monstro)
+     (ADJP 
+      (JJ chamado)
+     )
+     (NP 
+      (NNP Elvis_Presley)
+     )
+    )
+   )
+  )
+ )
+)

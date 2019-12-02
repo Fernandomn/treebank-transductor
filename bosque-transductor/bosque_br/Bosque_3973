@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Gravações)
+    (ADJP 
+     (JJ acústicas)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP encaixam)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (DT nosso)
+     (NN tipo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN som)
+      )
+     )
+    )
+   )
+  )
+ )
+)

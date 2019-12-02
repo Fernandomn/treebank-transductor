@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NNS escombros)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Carlos)
+      (NNS Alberto)
+     )
+    )
+    (VP 
+     (VP 
+      (VB procura)
+      (RB apressadamente)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS mala)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS executivo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

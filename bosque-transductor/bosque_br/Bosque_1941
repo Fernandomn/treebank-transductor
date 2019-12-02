@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Também)
+   )
+   (VP 
+    (VBP esteve)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Casa_da_Dinda)
+    )
+   )
+   (NP 
+    (NNP Eunícia_Guimarães)
+    (NP 
+     (NN amiga)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Rosane)
+      )
+     )
+    )
+   )
+  )
+ )
+)

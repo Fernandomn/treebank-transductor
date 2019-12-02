@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS totalidade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS espectáculos)
+        )
+       )
+      )
+     )
+    )
+    (VB existe)
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS sistema)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS assinatura)
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB custa)
+        (NP 
+         (CD 7.500)
+         (NNS escudos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

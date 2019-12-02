@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Dallari)
+   )
+   (VP 
+    (VBP orientou)
+   )
+   (NP 
+    (DT os)
+    (NN produtores)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB negociarem)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN indústria)
+      )
+     )
+    )
+   )
+  )
+ )
+)

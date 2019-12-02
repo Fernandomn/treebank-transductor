@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS maquetas)
+     (JJ expostas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (VB produzidas)
+    )
+    (PP 
+     (RB especialmente)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNS exposição)
+      )
+     )
+    )
+   )
+  )
+ )
+)

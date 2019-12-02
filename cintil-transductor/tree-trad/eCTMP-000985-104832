@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS aviões)
+    )
+    (VP 
+     (VB estão)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS volta)
+      )
+     )
+    )
+   )
+  )
+ )
+)

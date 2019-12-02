@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT a)
+     (NNS tarde)
+    )
+   )
+   (S 
+    (VP 
+     (VB esperava)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ maior)
+      (NP 
+       (NNS animação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS mercado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

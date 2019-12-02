@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS pessoas)
+    )
+    (VP 
+     (VP 
+      (VB podem)
+      (VP 
+       (VB dar)
+       (NP 
+        (DT a)
+        (NNS cara)
+       )
+      )
+     )
+     desde que
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB dizem)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (NNS verdade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

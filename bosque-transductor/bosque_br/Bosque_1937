@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (CD Trinta)
+     (NN empresários)
+     (ADJP 
+      (JJ argentinos)
+     )
+    )
+    e
+    (NP 
+     (CD 25)
+     (NN brasileiros)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP reúnem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN sexta-feira)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN seminário)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP FGV)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB debater)
+     )
+     (NP 
+      (NN perspectivas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN setor)
+        (ADJP 
+         (JJ privado)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (CD dois)
+        (NN países)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNP Mercosul)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

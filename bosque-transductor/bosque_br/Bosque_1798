@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Ventersdorp)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT a)
+      (NN nova)
+     )
+     e
+     (NP 
+      (DT a)
+      (JJ velha)
+     )
+    )
+    (NNP África_do_Sul)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ vizinhas)
+   )
+  )
+ )
+)

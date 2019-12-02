@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Inclusivamente)
+    (VP 
+     (VB tinha)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS tio)
+        (PP meu)
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB era)
+           (NP 
+            (NP 
+             (NNS padre)
+             (JJ jesuíta)
+            )
+           )
+          )
+         )
+        )
+        (CONJP 
+         (CC e)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (PRP eu)
+           )
+           (VP 
+            (VB admirava)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

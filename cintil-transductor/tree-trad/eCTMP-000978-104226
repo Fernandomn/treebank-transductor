@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Aníbal)
+     (NNS Gonçalves)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB terá)
+      (RB então)
+     )
+     (VP 
+      (VB atingido)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS amigo)
+        (NNS Armando)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (CD quatro)
+       (NNS sopapos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

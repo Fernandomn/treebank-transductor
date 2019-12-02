@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Audiência)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN Justiça)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Pará)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP discute)
+   )
+   (NP 
+    (NN diploma)
+   )
+  )
+ )
+)

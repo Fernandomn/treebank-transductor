@@ -1,0 +1,98 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Pois)
+    )
+    (VP 
+     (VBP experimente)
+    )
+    (VP 
+     (VP 
+      (VB ir)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT um)
+       (NN show)
+       (PP 
+        (IN de)
+        (NP 
+         (NN música)
+        )
+       )
+      )
+     )
+     (ADVP 
+      (RB por_exemplo)
+     )
+     (VP 
+      (VP 
+       (VB ofender)
+      )
+      (NP 
+       (NP 
+        (NNP Tim_Maia)
+       )
+       ou
+       (NP 
+        (NNP João_Gilberto)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN boca)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN palco)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP você)
+    )
+    (VP 
+     (VBP verá)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT a)
+      (NN atitude)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Edmundo)
+       )
+      )
+     )
+     (VP 
+      (VBP foi)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mínimo)
+      )
+     )
+     (ADJP 
+      (JJ compreensível)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tomate)
+   )
+   (VP 
+    (VBP foi)
+    (VBN projetado)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB manter)
+     )
+     (NP 
+      (DT o)
+      (NN sabor)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tem)
+       )
+       (ADVP 
+        (RB depois)
+        (PP 
+         (IN de)
+         (VBN colhido)
+        )
+       )
+       (PP 
+        (IN durante)
+        (NP 
+         (NN tempo)
+         (VBN prolongado)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN prateleira)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN supermercados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

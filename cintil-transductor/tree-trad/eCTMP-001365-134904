@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Inglaterra)
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB já)
+     )
+     (NP 
+      (NP 
+       (NNS disco)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ouro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

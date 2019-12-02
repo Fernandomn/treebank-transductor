@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Amaral)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT esse)
+     (NN aumento)
+     (PP 
+      (IN de)
+      (NP 
+       (NN importações)
+      )
+     )
+    )
+    (VP 
+     (VBP decorre)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN aumento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN demanda)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (PRP se)
+         )
+         (VP 
+          (VBP exerce)
+         )
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT toda)
+           (DT a)
+           (NN oferta)
+           (PP 
+            (IN de)
+            (NP 
+             (NN produtos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

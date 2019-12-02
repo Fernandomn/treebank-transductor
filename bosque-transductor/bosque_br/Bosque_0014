@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sob)
+    (NP 
+     (DT o)
+     (NN comando)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Ronaldo_Rosas)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN programa)
+   )
+   (VP 
+    (VBP mostrará)
+   )
+   (NP 
+    (NN reportagens)
+    (ADJP 
+     (JJ especiais)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Sônia_Pompeu)
+     )
+    )
+   )
+  )
+ )
+)

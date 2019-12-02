@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP estamos)
+     (VBG diminuindo)
+    )
+    (NP 
+     (NN investimentos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN setor)
+       (ADJP 
+        (JJ privado)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN setor)
+      (ADJP 
+       (JJ público)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NNP BNDES)
+    )
+    (VP 
+     (VBP está)
+     (VBG mudando)
+    )
+    (NP 
+     (DT a)
+     (NN orientação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN investimentos)
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Nordeste)
+     )
+    )
+   )
+  )
+ )
+)

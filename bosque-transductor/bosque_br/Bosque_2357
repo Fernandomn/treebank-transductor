@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Tantos)
+    (NN livros)
+   )
+   (NP 
+    (DT tão)
+    (DT pouco)
+    (NN tempo)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB ler)
+      )
+     )
+    )
+   )
+  )
+ )
+)

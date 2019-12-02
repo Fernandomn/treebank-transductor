@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Quintinha)
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VP 
+      (VB ser)
+      (VP 
+       (VB visitada)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS público)
+        )
+       )
+      )
+     )
+     (RB livremente)
+    )
+   )
+  )
+ )
+)

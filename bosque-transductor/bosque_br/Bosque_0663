@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP José_Sarney)
+   )
+   (VP 
+    (VBP escreve)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN sextas-feiras)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT esta)
+     (NN coluna)
+    )
+   )
+  )
+ )
+)

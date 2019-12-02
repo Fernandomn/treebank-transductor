@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Belenenses)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB conseguiu)
+       (RB ontem)
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Estádio)
+          (NNS de_)
+          (NNS os)
+          (NNS Barreiros)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (CD segunda)
+        (NP 
+         (NNS vitória)
+         (JJ consecutiva)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB derrotando)
+        (PP 
+         (IN por)
+         (NP 
+          (NNS 1-0)
+         )
+        )
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS União)
+         (NNS de_)
+         (NNS a)
+         (NNS Madeira)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Apesar)
+       (IN de_)
+      )
+      (NP 
+       (DT as)
+       (NP 
+        (PP suas)
+        (NNS dimensões)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS potência)
+        (JJ militar)
+       )
+       (ADJP 
+        (JJ idêntica)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT as)
+          (NP 
+           (JJ outras)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

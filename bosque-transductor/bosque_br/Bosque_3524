@@ -1,0 +1,117 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Lá)
+   )
+   (NP 
+    (DT os)
+    (NN plínios)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP fazem)
+     )
+     (NP 
+      (NN amigos)
+     )
+    )
+    (VP 
+     (VP 
+      (VBP influenciam)
+     )
+     (NP 
+      (NN pessoas)
+     )
+    )
+    (VP 
+     (VP 
+      (VBP revêem)
+     )
+     (NP 
+      (NN colegas)
+     )
+    )
+    (VP 
+     (VP 
+      (VBP contam)
+     )
+     (NP 
+      (DT as)
+      (NN novidades)
+      (UCP 
+       (NP 
+        (DT as)
+        (JJ últimas)
+        (NN viagens)
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NNP Estados_Unidos)
+         )
+        )
+       )
+       (VP 
+        (NP 
+         (PRP quem)
+        )
+        (VP 
+         (VBP comprou)
+        )
+        (NP 
+         (NN carro)
+         (ADJP 
+          (JJ novo)
+         )
+        )
+       )
+       (VP 
+        (NP 
+         (PRP quem)
+        )
+        (VP 
+         (VBP vai)
+         (VB ter)
+         (IN que)
+         (VB começar)
+         (IN a)
+         (VB trabalhar)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NN pai)
+         )
+        )
+       )
+       (NP 
+        (DT os)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (ADVP 
+          (RB ainda)
+          (RB não)
+         )
+         (VP 
+          (VBP conseguiram)
+         )
+         (NP 
+          (NN telefone)
+          (ADJP 
+           (JJ celular)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

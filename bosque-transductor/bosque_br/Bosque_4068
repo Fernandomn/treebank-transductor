@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VBP afirmou)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP pretende)
+     )
+     (VP 
+      (VP 
+       (VB reforçar)
+      )
+      (NP 
+       (DT seu)
+       (NN meio-campo)
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP adiantou)
+    )
+    (NP 
+     (DT a)
+     (NN escalação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN equipe)
+      )
+     )
+    )
+   )
+  )
+ )
+)

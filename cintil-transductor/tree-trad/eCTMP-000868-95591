@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS família)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS manhã)
+        (JJ seguinte)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB procurou)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ devido)
+        (NNS lugar)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS cemitério)
+      )
+     )
+    )
+   )
+  )
+ )
+)

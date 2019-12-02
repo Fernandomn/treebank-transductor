@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Problema)
+    (ADJP 
+     (VB agravado)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS despejo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS efluentes)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS Douro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

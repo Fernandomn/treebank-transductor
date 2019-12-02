@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Sobre)
+     (NP 
+      (DT estas)
+      (NNS matérias)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (NNS José)
+       (NNS António)
+       (NNS Cerejo)
+      )
+     )
+     (VP 
+      (VB publicou)
+      (NP 
+       (NNS falsidades)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB laborou)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (JJ profundos)
+          (NNS equívocos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

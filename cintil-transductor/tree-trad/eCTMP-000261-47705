@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS final)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS dia)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB havia)
+    )
+    (NP 
+     (NP 
+      (NNS notícias)
+      (PP 
+       (IN sobre)
+       (NP 
+        (NP 
+         (NNS combates)
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Grozni)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

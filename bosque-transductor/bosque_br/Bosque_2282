@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Deixamos)
+   )
+   (ADVP 
+    (RB claro)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Havelange)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NNP Uefa)
+    )
+    (ADVP 
+     (RB só)
+    )
+    (VP 
+     (VBP consideraria)
+    )
+    (NP 
+     (DT a)
+     (NN possibilidade)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB lançar)
+       )
+       (NP 
+        (DT um)
+        (NN candidato)
+       )
+      )
+     )
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP declinasse)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN candidatura)
+      )
+     )
+    )
+   )
+  )
+ )
+)

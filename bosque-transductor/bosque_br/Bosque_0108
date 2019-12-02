@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADJP 
+    (ADVP 
+     (RB ainda)
+     (RB mais)
+    )
+    (JJ óbvio)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ impossível)
+    )
+    (VP 
+     (VP 
+      (VB falar)
+     )
+     (ADVP 
+      (RB abertamente)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NN superioridade)
+       (PP 
+        (IN de)
+        (NP 
+         (DT muitos)
+         (NN atletas)
+         (ADJP 
+          (JJ negros)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN sem)
+     (VP 
+      (VP 
+       (VB ser)
+       (VBN sujeito)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NN acusações)
+        (PP 
+         (IN de)
+         (VP 
+          (IN que)
+          (NP 
+           (PRP se)
+          )
+          (VP 
+           (VB estar)
+           (VBG sendo)
+          )
+          (NP 
+           (NP anti-negro)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (DT uma)
+            (NN maneira)
+            (VBN enviesada)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

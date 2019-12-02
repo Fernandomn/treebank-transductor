@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Sala)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS PSD)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN para)
+    (NP 
+     (DT os)
+     (NNS munícipes)
+    )
+   )
+  )
+ )
+)

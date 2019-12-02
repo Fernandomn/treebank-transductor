@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Por)
+      (RB outro)
+      (RB lado)
+     )
+    )
+    (VP 
+     (RB não)
+     (VB existe)
+    )
+   )
+   (NP 
+    (PRP qualquer)
+    (NP 
+     (NP 
+      (NNS apoio)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS parte)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Governo)
+            (JJ português)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS transporte)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS jornais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN campanha)
+    (ADJP 
+     (JJ eleitoral)
+    )
+   )
+   (VP 
+    (VBP encerrou-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN noite)
+     (PP 
+      (IN de)
+      (NP 
+       (NN quinta-feira)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NN pronunciamento)
+       (PP 
+        (IN de)
+        (NP 
+         (CD oito)
+         (NN minutos)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (DT todos)
+         (DT os)
+         (NN candidatos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

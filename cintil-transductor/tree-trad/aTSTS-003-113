@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS loja)
+   )
+   (VP 
+    (VB é)
+    (ADVP 
+     (RB perto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS jardim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

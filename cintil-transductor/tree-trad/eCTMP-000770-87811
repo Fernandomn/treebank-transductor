@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tem)
+    (NP 
+     (CD três)
+     (NP 
+      (NP 
+       (NNS vitórias)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS campeonato)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (ADVP 
+         (RB muito)
+         (RB pouco)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (NP 
+           (PRP quem)
+          )
+          (S 
+           (VP 
+            (VB quer)
+            (VP 
+             (VB ficar)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS I)
+                (NNS Divisão)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

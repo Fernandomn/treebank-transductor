@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Itália)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB tem)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (VP 
+      (VP 
+       (VB falado)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD últimos)
+          (NNS anos)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NNS neo-neo-realismo)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS resultados)
+        (ADJP 
+         (RB assaz)
+         (JJ pobres)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

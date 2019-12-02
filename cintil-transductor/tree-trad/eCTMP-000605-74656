@@ -1,0 +1,98 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (ADVP 
+      (ADVP 
+       (RB De)
+       (RB um)
+       (RB momento)
+       (RB para)
+       (RB o)
+       (RB outro)
+      )
+     )
+     (S 
+      (NP 
+       (DT o)
+       (NNS objecto)
+      )
+      (VP 
+       (VB começou)
+       (PP 
+        (PP 
+         (IN a)
+         (VB rodopiar)
+        )
+        (PP 
+         (PP 
+          (IN a)
+          (VB rodopiar)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB ganhou)
+        (NP 
+         (NNS velocidade)
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (VB começou)
+         (PP 
+          (IN a)
+          (VP 
+           (VP 
+            (VP 
+             (VB descrever)
+             (NP 
+              (NNS elipses)
+             )
+            )
+            (PP 
+             (IN a)
+             (NP 
+              (DT uma)
+              (NP 
+               (NNS velocidade)
+               (JJ louca)
+              )
+             )
+            )
+           )
+           (PP 
+            (PP 
+             (IN em)
+             (IN redor)
+             (IN de_)
+            )
+            (NP 
+             (DT o)
+             (NP 
+              (PP meu)
+              (NNS avião)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (NP 
+    (DT a)
+    (NNP Regina_Casé)
+   )
+   (NP 
+    (PRP me)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NN churrasco)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Brahma)
+      )
+     )
+     (ADJP 
+      (RB vulgo)
+      (NN churrasquinho)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Los_Gatos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADVP 
+     (RB assim)
+    )
+   )
+   (NP 
+    (PRP você)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP enfia)
+     )
+     (NP 
+      (DT o)
+      (NN dedo)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN picanha)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP fica)
+      (VBG rodando)
+     )
+    )
+   )
+  )
+ )
+)

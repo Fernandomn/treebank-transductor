@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Frente)
+     (NNS Comum)
+    )
+   )
+   (VP 
+    (VP 
+     (VB aprovou)
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS caderno)
+       (JJ reivindicativo)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ próximo)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

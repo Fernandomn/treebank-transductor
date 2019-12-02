@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP teria)
+    (VP 
+     (VP 
+      (VBN deixado)
+      (NP 
+       (DT a)
+       (NN mulher)
+      )
+     )
+     e
+     (VP 
+      (VBN trazido)
+      (NP 
+       (DT a)
+       (NN amante)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NNP Roma)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

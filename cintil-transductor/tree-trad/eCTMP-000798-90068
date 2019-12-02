@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isso)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB quer)
+    )
+    (VP 
+     (VB dizer)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB tenha)
+        )
+        (NP 
+         (DT uma)
+         (NP 
+          (JJ grande)
+          (NP 
+           (NNS afinidade)
+           (PP 
+            (IN com)
+            (NP 
+             (DT A)
+             (NP 
+              (NNS Escola)
+              (NNS de_)
+              (NNS a)
+              (NNS Noite)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

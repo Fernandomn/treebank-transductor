@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS Bruxelas)
+      )
+     )
+     (VP 
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (CD 15)
+         (NNS contos)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB dão)
+        (NP 
+         (PRP -me)
+        )
+       )
+       (NP 
+        (DT um)
+        (NP 
+         (NNS CD)
+         (PP 
+          (IN com)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS fotografias)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB tirei)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

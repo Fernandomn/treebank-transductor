@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Through_the_Woods)
+   )
+   (VP 
+    (VBP é)
+    (VBN voltado)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN crianças)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP estão)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (JJ primeiro)
+        (NN ano)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (JJ 1º)
+          (NN grau)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

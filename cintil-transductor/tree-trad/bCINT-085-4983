@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NNS ano)
+     )
+    )
+    (VP 
+     (VB vamos)
+     (VP 
+      (VB repetir)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Bienal)
+         (NNS de)
+         (NNS Cascais)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT outras)
+         (NNS iniciativas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

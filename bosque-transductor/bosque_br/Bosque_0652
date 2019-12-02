@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN gente)
+   )
+   (VP 
+    (VBP precisa)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN reciclagem)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN geografia)
+    )
+   )
+   (VP 
+    (IN pois)
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VBP muda)
+    )
+    (ADVP 
+     (RB muito)
+     (RB rápido)
+    )
+   )
+  )
+ )
+)

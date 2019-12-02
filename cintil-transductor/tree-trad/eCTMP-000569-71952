@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CD primeiro)
+    (NP 
+     (NNS teste)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS democracia)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Aristide)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

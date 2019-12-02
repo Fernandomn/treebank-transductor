@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Flamengo)
+   )
+   (VP 
+    (VBP ficou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN espera)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Grêmio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG procurando)
+    )
+    (ADVP 
+     (RB apenas)
+    )
+    (VP 
+     (VP 
+      (VB aproveitar)
+     )
+     (NP 
+      (DT o)
+      (NP contra-ataque)
+     )
+    )
+   )
+  )
+ )
+)

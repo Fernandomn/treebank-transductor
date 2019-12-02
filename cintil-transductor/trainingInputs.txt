@@ -1,0 +1,90 @@
+1
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1015-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-1014 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL1 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL1 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino1.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1015-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL1 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino1.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL1 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-1014 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste1.txt
+
+
+2
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-1014,2029-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1015-2028 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL2 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL2 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino2.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-1014,2029-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL2 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino2.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL2 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1015-2028 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste2.txt
+
+
+3
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-2028,3043-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 2029-3042 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL3 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL3 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino3.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-2028,3043-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL3 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino3.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL3 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 2029-3042 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste3.txt
+
+
+4
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-3042,4057-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 3043-4056 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL4 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL4 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino4.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-3042,4057-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL4 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino4.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL4 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 3043-4056 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste4.txt
+
+
+5
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-4056,5071-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 4057-5070 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL5 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL5 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino5.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-4056,5071-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL5 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino5.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL5 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 4057-5070 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste5.txt
+
+
+6
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-5070,6085-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 5071-6084 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL6 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL6 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino6.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-5070,6085-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL6 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino6.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL6 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 5071-6084 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste6.txt
+
+
+7
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-6084,7099-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 6085-7098 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL7 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL7 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino7.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-6084,7099-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL7 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino7.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL7 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 6085-7098 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste7.txt
+
+
+8
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-7098,8113-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 7099-8112 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL8 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL8 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino8.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-7098,8113-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL8 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino8.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL8 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 7099-8112 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste8.txt
+
+
+9
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-8112,9127-10140 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 8113-9126 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL9 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL9 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino9.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-8112,9127-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL9 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino9.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL9 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 8113-9126 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste9.txt
+
+
+10
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-9126 -test /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 9127-10140 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL10 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarCINTIL10 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino10.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 1-9126 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL10 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/treino10.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoCINTIL -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarCINTIL10 -testTreebank /home/fernando/Code/treebank-transductor/cintil-transductor/tree-trad 9127-10140 > /home/fernando/Code/treebank-transductor/output/treinoCINTIL/teste10.txt
+
+

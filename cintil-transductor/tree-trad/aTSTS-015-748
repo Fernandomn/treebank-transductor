@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB recandidatou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNS presidência)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP algumas)
+     )
+    )
+    (VB existem)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS campos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS acolhimento)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS ajuda)
+        (JJ alimentar)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT outros)
+        (NP 
+         (NNS tipos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS ajuda)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

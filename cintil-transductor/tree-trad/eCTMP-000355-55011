@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS contrário)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NP 
+           (NNS amigo)
+           (NP 
+            (NNS Jeffrey)
+            (NNS Archer)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Major)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB era)
+     )
+     (NP 
+      (DT uma)
+      (NNS celebridade)
+     )
+    )
+   )
+  )
+ )
+)

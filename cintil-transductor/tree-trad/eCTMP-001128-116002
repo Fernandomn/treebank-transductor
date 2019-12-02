@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS proposta)
+   )
+   (VP 
+    (VP 
+     (VB contraria)
+     (RB frontalmente)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS pretensões)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS sindicatos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

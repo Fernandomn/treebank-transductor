@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS FC)
+      (NNS Porto)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NNS Benfica)
+     )
+    )
+   )
+   (VP 
+    (VB vão)
+    (VP 
+     (VP 
+      (VB disputar)
+      (RB amanhã)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NNS Supertaça)
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (CD primeiro)
+         (NP 
+          (NP 
+           (NNS jogo)
+           (JJ oficial)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS época)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN homem)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP atacou)
+     )
+     (NP 
+      (NNP Charles)
+     )
+     (ADVP 
+      (RB anteontem)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP terá)
+     )
+     (NP 
+      (NN direito)
+      (PP 
+       (IN a)
+       (NP 
+        (NN fiança)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP ficará)
+     )
+     (VP 
+      (VP 
+       (VBN preso)
+      )
+      (PP 
+       (RB pelo_menos)
+       (IN até)
+       (NP 
+        (DT o)
+        (NN fim)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN visita)
+          (PP 
+           (IN de)
+           (NP 
+            (CD cinco)
+            (NN dias)
+           )
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN príncipe)
+           )
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (DT o)
+            (NN país)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

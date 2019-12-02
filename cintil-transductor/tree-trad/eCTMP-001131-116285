@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NP 
+     (JJ estranha)
+     (NNS descoberta)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VP 
+      (VB ser)
+      (RB proximamente)
+     )
+     (VP 
+      (VB exposta)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS Palácio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

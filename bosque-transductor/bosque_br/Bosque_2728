@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (JJ último)
+     (NN dia)
+     (ADJP 
+      (CD 11)
+     )
+    )
+   )
+   (NP 
+    (NNP Frank_Kerr)
+    (ADJP 
+     (CD 53)
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN morto)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT um)
+     (NN tiro)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN cabeça)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (CD três)
+     (NN homens)
+    )
+    (VP 
+     (VBP assaltaram)
+    )
+    (NP 
+     (DT um)
+     (VBN posto)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN correio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

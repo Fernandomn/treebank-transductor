@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (PRP tudo)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP ganho)
+     )
+    )
+   )
+   (VP 
+    (VBP reverto)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN ajuda)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN povo)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP recebe)
+        )
+        (NP 
+         (NP 
+          (NN remédios)
+         )
+         (NP 
+          (NN feira)
+         )
+         e
+         (NP 
+          (NN dinheiro)
+         )
+        )
+        (VP 
+         (ADVP 
+          (RB quando)
+         )
+         (VP 
+          (VBP está)
+          (VBG precisando)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

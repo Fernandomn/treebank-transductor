@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (NP 
+     (CD Quatro)
+     (NN meses)
+    )
+    (RB depois)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN atentado)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN governo)
+    (ADJP 
+     (JJ argentino)
+    )
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP conseguiu)
+   )
+   (VP 
+    (VP 
+     (VB avançar)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN investigações)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NN atentado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

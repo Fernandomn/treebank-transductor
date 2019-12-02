@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP São_Paulo)
+   )
+   (VP 
+    (VBP teme)
+   )
+   (NP 
+    (DT a)
+    (NN violência)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Inter)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN semifinal)
+     (ADJP 
+      (JJ júnior)
+     )
+    )
+   )
+  )
+ )
+)

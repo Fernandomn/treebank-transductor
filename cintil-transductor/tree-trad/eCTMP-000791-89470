@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS festival)
+     )
+     (VP 
+      (VB ocorrerá)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS dias)
+         (NP 
+          (NP 
+           (CD 14)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (CD 15)
+            (NP 
+             (PP 
+              (IN de)
+              (NP 
+               (NNS Maio)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS local)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS realização)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB está)
+       )
+       (ADJP 
+        (VB definido)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

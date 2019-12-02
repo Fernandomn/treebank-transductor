@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN taxa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN serviço)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Brasoftware)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN coberta)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN desconto)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP obtém)
+      )
+      (ADVP 
+       (RB junto)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN fornecedor)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

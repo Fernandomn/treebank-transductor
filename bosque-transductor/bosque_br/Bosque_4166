@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN grupo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN torcedores)
+     )
+    )
+   )
+   (VP 
+    (VBP arremessou)
+   )
+   (NP 
+    (NP 
+     (NN ovos)
+     (ADJP 
+      (JJ podres)
+     )
+    )
+    e
+    (NP 
+     (NN insultos)
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NN time)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN volta)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNP Cidade_do_México)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN noite)
+     (PP 
+      (IN de)
+      (NP 
+       (NN domingo)
+       (VBN passado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

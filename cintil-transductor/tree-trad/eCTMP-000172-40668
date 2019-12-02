@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NP 
+     (NNS comissão)
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB deverá)
+         (VP 
+          (VP 
+           (VB ser)
+           (VB constituída)
+          )
+          (RB hoje)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB será)
+    (VP 
+     (VB composta)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS técnicos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (CD duas)
+           (NNS entidades)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

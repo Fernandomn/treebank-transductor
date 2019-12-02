@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Três)
+       (NNS dias)
+      )
+     )
+     (ADVP 
+      (RB depois)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS bomba)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Centennial)
+      (NNS Olympic)
+      (NNS Park)
+     )
+    )
+    (VB reabriu)
+   )
+  )
+ )
+)

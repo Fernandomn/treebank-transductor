@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN entrevista)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NNP Folha)
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN telefone)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Londres)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN estilista)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NN moda)
+    )
+    (ADVP 
+     (RB hoje)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB preocupar)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN marcas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN objetivo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN campanha)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB aumentar)
+    )
+    (NP 
+     (DT a)
+     (NN arrecadação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN impostos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

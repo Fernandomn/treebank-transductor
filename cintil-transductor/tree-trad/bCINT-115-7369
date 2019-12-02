@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Analistas)
+     (JJ políticos)
+    )
+   )
+   (VP 
+    (VB apostam)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+       (NNS hipótese)
+      )
+     )
+    )
+   )
+  )
+ )
+)

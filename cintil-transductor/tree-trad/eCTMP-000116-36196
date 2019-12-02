@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Braga)
+  )
+  (VP 
+   (VB quer)
+   (VP 
+    (VB ser)
+    (NP 
+     (NP 
+      (NNS capital)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS andebol)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

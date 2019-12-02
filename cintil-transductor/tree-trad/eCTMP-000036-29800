@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Lixos)
+    (JJ hospitalares)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS mira)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Quercus)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

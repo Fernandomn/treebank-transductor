@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje)
+   )
+   (NP 
+    (DT a)
+    (NN média)
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (RB cerca_de)
+     (CD 1.800)
+     (NN quilos)
+     (PP 
+      (IN por)
+      (NP 
+       (NN hectare)
+      )
+     )
+    )
+   )
+  )
+ )
+)

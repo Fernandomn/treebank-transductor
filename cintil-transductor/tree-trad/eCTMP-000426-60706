@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Laureano)
+     (NNS Gonçalves)
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (NP 
+         (DT um)
+         (NP 
+          (NNS homem)
+          (ADJP 
+           (ADJP 
+            (JJ sério)
+           )
+           (ADJP 
+            (JJ competente)
+            (CONJP 
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VP 
+                 (VB foi)
+                 (RB sempre)
+                )
+                (JJ leal)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

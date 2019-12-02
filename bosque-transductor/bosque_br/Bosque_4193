@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN população)
+    (ADJP 
+     (JJ mundial)
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (PP 
+    (IN em_torno_de)
+    (NP 
+     (CD 5.66)
+     (NN bilhões)
+    )
+   )
+  )
+ )
+)

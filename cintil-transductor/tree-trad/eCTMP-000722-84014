@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS regras)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS transparência)
+      )
+     )
+    )
+   )
+   (NP 
+    (CC ou)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS chapéu)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS mágico)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

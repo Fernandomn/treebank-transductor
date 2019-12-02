@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (RB Hoje)
+   (VP 
+    (VP 
+     (VB há)
+     (NP 
+      (NP 
+       (JJ novo)
+       (NNS concerto)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Porto)
+     )
+    )
+   )
+  )
+ )
+)

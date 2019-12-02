@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS elaboração)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS projecto)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB então)
+    )
+    (VP 
+     (VB entregue)
+     (PP 
+      (IN a)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS grupo)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS projectistas)
+           (JJ alemães)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

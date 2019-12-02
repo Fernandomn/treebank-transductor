@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Comandado)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN advogado)
+      (NP 
+       (NNP Luiz_Antonio_Siqueira_Dias)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN grupo)
+   )
+   (VP 
+    (VBP defendeu)
+   )
+   (NP 
+    (DT as)
+    (NN obras)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP foram)
+      (VBN iniciadas)
+     )
+     (ADVP 
+      (RB recentemente)
+     )
+    )
+   )
+  )
+ )
+)

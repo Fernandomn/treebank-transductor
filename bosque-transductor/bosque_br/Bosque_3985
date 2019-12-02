@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Olhos_de_Serpente)
+     (NP 
+      (NNP Snake_Eyes)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Abel_Ferrara)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Madonna)
+   )
+   (VP 
+    (VBP faz)
+   )
+   (NP 
+    (DT o)
+    (NN papel)
+    (PP 
+     (IN de+)
+     (NP 
+      (PRP ela)
+      (NP 
+       (DT mesma)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT uma)
+      (JJ falsa)
+      (NN atriz)
+     )
+     (NP 
+      (JJ falsa)
+      (NN loira)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP paga)
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB estar)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT um)
+           (NN filme)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

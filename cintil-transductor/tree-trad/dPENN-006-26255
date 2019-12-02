@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS conselho)
+   )
+   (VP 
+    (VP 
+     (VB aumentou)
+     (PP 
+      (IN em)
+      (NP 
+       (DT um)
+       (NNS membro)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB contando)
+        (RB agora)
+       )
+       (NP 
+        (CD 26)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

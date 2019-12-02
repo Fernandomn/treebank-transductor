@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Paris)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN encanto)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN sentidos)
+     )
+    )
+   )
+  )
+ )
+)

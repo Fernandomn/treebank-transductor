@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (RB Aqui)
+   (S 
+    (VP 
+     (VB fica)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (PP minha)
+      (NP 
+       (NNS lista)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS resoluções)
+          (PP 
+           (IN para)
+           (NP 
+            (CD 2004)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

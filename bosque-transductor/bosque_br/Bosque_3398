@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN crítico)
+    (PP 
+     (IN de)
+     (NP 
+      (NN jornal)
+      (ADJP 
+       (JJ cotidiano)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB conformar)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (DT o)
+      (NN papel)
+      (PP 
+       (IN de)
+       (NP 
+        (NN narrador)
+       )
+      )
+     )
+     e
+     (NP 
+      (DT seu)
+      (NN destaque)
+      (ADJP 
+       (JJ secundário)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (JJ simples)
+     (NN gesto)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (DT uma)
+        (NN página)
+        (VP 
+         (VP 
+          (VP 
+           (VB ser)
+           (VBN virada)
+          )
+         )
+         e
+         (VP 
+          (VP 
+           (VB 
+            (PP 
+             (IN para)
+             (RB trás)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS acontecimento)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VB filmado)
+      (PP 
+       (IN por)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS câmara)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS televisão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN por)
+       (IN cima)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ombro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS parturiente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

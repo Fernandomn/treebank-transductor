@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CD primeiros)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB têm)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ grande)
+        (NP 
+         (NNS quantidade)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS plataformas)
+            (JJ petrolíferas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (CC enquanto)
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS França)
+      )
+      (VP 
+       (VB faz)
+       (NP 
+        (NP 
+         (JJ sucessivas)
+         (NP 
+          (NNS descargas)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS lixo)
+             (JJ radioactivo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

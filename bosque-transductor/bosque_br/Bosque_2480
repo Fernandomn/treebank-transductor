@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NN General)
+   (NP 
+    (NNP Nilton_Cerqueira)
+   )
+   (NP 
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Clube_Militar)
+     )
+    )
+   )
+  )
+ )
+)

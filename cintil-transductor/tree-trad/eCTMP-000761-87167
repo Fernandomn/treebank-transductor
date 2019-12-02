@@ -1,0 +1,45 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Arlindo)
+    (NNS Cunha)
+   )
+  )
+  (VP 
+   (VB deverá)
+   (VP 
+    (VB adiar)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS apresentação)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ nova)
+          (NNS proposta)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Conselho)
+         (NNS de_)
+         (NNS a)
+         (NNS Agricultura)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

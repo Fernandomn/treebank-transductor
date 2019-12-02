@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS ciência)
+   )
+  )
+  (PP 
+   (IN a_)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS assalto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS Açores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

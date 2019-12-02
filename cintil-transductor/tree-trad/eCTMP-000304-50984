@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Simão)
+     (NNS Kimbangu)
+    )
+   )
+   (VP 
+    (VP 
+     (VB começou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS dia)
+        (JJ seguinte)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN a)
+      (VP 
+       (VB curar)
+       (NP 
+        (NP 
+         (NNS doentes)
+         (JJ incuráveis)
+        )
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ressuscitar)
+        (NP 
+         (DT os)
+         (NNS mortos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

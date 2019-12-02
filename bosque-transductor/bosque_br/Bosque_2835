@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Produtores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Paraíba)
+     )
+    )
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+   (VP 
+    (VBP venderam)
+   )
+   (NP 
+    (NN abacaxi)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT um)
+     (NN grupo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN empresários)
+       (ADJP 
+        (JJ espanhóis)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN valor)
+     (PP 
+      (IN de)
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 323)
+        (NN mil)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

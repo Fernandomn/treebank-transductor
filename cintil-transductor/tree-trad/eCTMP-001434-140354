@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NNS negros)
+  )
+  (VP 
+   (RB também)
+   (VP 
+    (VB brilham)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS provas)
+       (JJ técnicas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

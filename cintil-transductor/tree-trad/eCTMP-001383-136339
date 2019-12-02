@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NNS Villeneuve)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS corrida)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS título)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB tinha)
+     (VP 
+      (VB chegado)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS fim)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

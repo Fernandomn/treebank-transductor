@@ -1,0 +1,111 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tema)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Julia_Child)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (DT uma)
+      (JJ simples)
+      (NN quiche)
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP era)
+     )
+     (ADJP 
+      (JJ político)
+     )
+    )
+    (VP 
+     (VP 
+      (VB mostrar)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (JJ paranóicos)
+       (NN americanos)
+      )
+     )
+     (VP 
+      (VP 
+       (IN que)
+       (NP 
+        (NP 
+         (DT o)
+         (NN ovo)
+        )
+        e
+        (NP 
+         (DT a)
+         (NN manteiga)
+        )
+       )
+       (VP 
+        (VBP fazem)
+       )
+       (NP 
+        (NN pratos)
+        (ADJP 
+         (JJ deliciosos)
+        )
+       )
+      )
+      e
+      (VP 
+       (IN que)
+       (NP 
+        (DT a)
+        (NN patrulha)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN colesterol)
+         )
+        )
+       )
+       (VP 
+        (VBP deve)
+        (VB dar)
+       )
+       (NP 
+        (NN espaço)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN prazer)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN comida)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

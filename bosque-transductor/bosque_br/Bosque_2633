@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP McDonald's)
+   )
+   (VP 
+    (VBP proibiu)
+   )
+   (NP 
+    (DT o)
+    (NN cigarro)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (CD 1.400)
+     (NN restaurantes)
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN propriedade)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NNP Estados_Unidos)
+    )
+   )
+  )
+ )
+)

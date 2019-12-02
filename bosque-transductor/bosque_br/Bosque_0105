@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (PRP Eles)
+    )
+    (VP 
+     (VBP tiveram)
+     (IN que)
+     (VB fazer)
+    )
+    (NP 
+     (PRP isso)
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (DT os)
+      (NN escravos)
+     )
+     (VP 
+      (VBP fossem)
+     )
+     (ADJP 
+      (JJ superiores)
+      (PP 
+       (IN em)
+       (NP 
+        (NN qualidades)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT os)
+        (JJ próprios)
+        (NN brancos)
+       )
+       (VP 
+        (VBP valorizavam)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB onde)
+    )
+    (VP 
+     (VBP estaria)
+    )
+    (NP 
+     (DT a)
+     (NN justificativa)
+     (ADJP 
+      (JJ moral)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB mantê-)
+       )
+       (NP 
+        (PRP los)
+       )
+       (VBN escravizados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

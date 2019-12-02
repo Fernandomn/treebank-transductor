@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS computador)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (ADJP 
+      (RB tão)
+      (JJ barato)
+     )
+     (CONJP 
+      (CC como)
+      (NP 
+       (DT esse)
+      )
+     )
+    )
+   )
+  )
+ )
+)

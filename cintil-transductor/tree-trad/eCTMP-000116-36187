@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Estamos)
+     (RB aqui)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB falar)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS raça)
+         (JJ negra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS País)
+        (NNS Basco)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Catalunha)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS nacionalismos)
+    )
+    (VP 
+     (VB são)
+     (VP 
+      (VB inspirados)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS correntes)
+         (JJ democratas-cristãs)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

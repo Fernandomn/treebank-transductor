@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN invasão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN grupo)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN feita)
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (CD dois)
+       (NN anos)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Pernambuco)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN usina)
+       (NP 
+        (NNP Massauassu)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP prejudicou)
+   )
+   (ADVP 
+    (RB justamente)
+   )
+   (NP 
+    (DT a)
+    (NN família)
+    (NP 
+     (NNP Maranhão)
+    )
+   )
+  )
+ )
+)

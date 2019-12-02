@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN nível)
+    (PP 
+     (IN de)
+     (NP 
+      (NN detalhamento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN atlas)
+        (NP 
+         (NNP Folha/«The_New_York_Times»)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN similar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN mercado)
+     (ADJP 
+      (JJ brasileiro)
+     )
+    )
+   )
+  )
+ )
+)

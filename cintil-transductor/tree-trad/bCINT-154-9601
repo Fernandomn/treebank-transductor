@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS fim)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS seleccionador)
+      (JJ português)
+     )
+    )
+    (VP 
+     (VB acabou)
+     (PP 
+      (IN por)
+      (VP 
+       (VP 
+        (RB não)
+        (VB poder)
+       )
+       (VP 
+        (VB manter)
+        (NP 
+         (DT esse)
+         (NNS receio)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

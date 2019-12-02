@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS TSF)
+    )
+    (NP 
+     (NP 
+      (NNS estação)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB transmitiu)
+         (NP 
+          (DT os)
+          (NNS comentários)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB multada)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 2600)
+      (NNS contos)
+     )
+    )
+   )
+  )
+ )
+)

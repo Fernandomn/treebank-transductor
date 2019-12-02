@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Acabou)
+    (PP 
+     (IN por)
+     (VP 
+      (VB ser)
+      (VB eleito)
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS representante)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS PSD)
+      )
+     )
+    )
+   )
+  )
+ )
+)

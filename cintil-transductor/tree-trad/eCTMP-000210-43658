@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS fim)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS empresa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB marcado)
+     (PP 
+      (IN por)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS reunião)
+         (PP 
+          (IN com)
+          (NP 
+           (DT os)
+           (NNS trabalhadores)
+          )
+         )
+        )
+        (CONJP 
+         (CONJP 
+          (RB onde)
+          (S 
+           (VP 
+            (VP 
+             (VB é)
+             (VB anunciada)
+            )
+           )
+           (NP 
+            (DT a)
+            (NP 
+             (NNS falência)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS empresa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

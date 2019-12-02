@@ -1,0 +1,125 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Cabe)
+    )
+    (VP 
+     (VP 
+      (VB perguntar)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (IN Se)
+     (NP 
+      (DT o)
+      (NN Supremo)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP está)
+     )
+     (ADVP 
+      (RB de_acordo)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (VBN suposta)
+        (NN falta)
+        (PP 
+         (IN de)
+         (NP 
+          (NN regra)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (CD duas)
+          (NN moedas)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP existem)
+           )
+           (ADVP 
+            (RB de_fato)
+           )
+           (PP 
+            (IN desde)
+            (NP 
+             (DT a)
+             (NN emissão)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (JJ última)
+               (NN medida)
+               (ADJP 
+                (JJ provisória)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB por_que)
+    )
+    (VP 
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (NP 
+       (PRP a)
+      )
+      (VP 
+       (VBP proclamou)
+      )
+      (ADVP 
+       (RB imediatamente)
+      )
+      (ADJP 
+       (JJ inconstitucional)
+      )
+     )
+     e
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP serviu)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (PRP ela)
+       )
+      )
+      (ADVP 
+       (RB privadamente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

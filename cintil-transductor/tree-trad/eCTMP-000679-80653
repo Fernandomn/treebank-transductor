@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS reunião)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VB decorria)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS hora)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS fecho)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT esta)
+             (NNS edição)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

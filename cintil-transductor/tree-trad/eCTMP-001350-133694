@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (NP 
+         (ADVP 
+          (RB cerca)
+          (RB de)
+         )
+         (CD 30)
+        )
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS jornalistas)
+      (JJ norte-americanos)
+     )
+    )
+    (VP 
+     (VP 
+      (VB começaram)
+      (ADVP 
+       (RB timidamente)
+      )
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB abordar)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS questões)
+         (JJ ambientais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

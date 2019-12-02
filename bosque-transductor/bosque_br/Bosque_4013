@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NN Cantor)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (ADVP 
+     (RB vários)
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (NN cantora)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT a)
+     (NNP Maria_Carey)
+    )
+   )
+  )
+ )
+)

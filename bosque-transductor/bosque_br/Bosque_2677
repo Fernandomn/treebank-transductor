@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ Independente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN idade)
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+    (IN que)
+    (VB dar)
+   )
+   (NP 
+    (DT uma)
+    (NN punição)
+    (ADJP 
+     (JJ séria)
+    )
+   )
+  )
+ )
+)

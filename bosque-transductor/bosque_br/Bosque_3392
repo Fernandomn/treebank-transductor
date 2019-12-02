@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Desanima)
+   )
+   (NP 
+    (DT o)
+    (NN leitor)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP recebe)
+     )
+     (NP 
+      (DT dezenas)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP eles)
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN dia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

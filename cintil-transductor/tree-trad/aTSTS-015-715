@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Maria)
+   )
+   (VP 
+    (VP 
+     (VB estende)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NNS relva)
+     )
+    )
+   )
+  )
+ )
+)

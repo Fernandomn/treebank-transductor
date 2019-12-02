@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Cavaco)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NNS estrela)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB é)
+       (VB recebido)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS euforia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

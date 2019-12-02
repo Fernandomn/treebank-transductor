@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Várias)
+    (NN vezes)
+   )
+   (ADJP 
+    (DT os)
+    (CD dois)
+   )
+   (VP 
+    (VBP foram)
+    (VBN pegos)
+   )
+   (VP 
+    (VP 
+     (VBG fazendo)
+    )
+    (NP 
+     (NN amor)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (DT minha)
+      (NN clínica)
+     )
+    )
+   )
+  )
+ )
+)

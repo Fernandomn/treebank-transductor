@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ próprio)
+     (NP 
+      (NNS catálogo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS iniciativa)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB documenta)
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (JJ boas)
+         (NNS fotografias)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS obras)
+       (JJ novas)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB mereceriam)
+         (NP 
+          (NNS distinção)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

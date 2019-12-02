@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB É)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (DT essas)
+      )
+      e
+      (NP 
+       (DT outras)
+      )
+     )
+    )
+    (ADVP 
+     (RB que)
+    )
+    (NP 
+     (DT a)
+     (NN gente)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP acaba)
+       (VBG pegando)
+      )
+      (NP 
+       (DT uma)
+       (NN micose)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN chica)
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (ADVP 
+       (RB depois)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP sabe)
+      )
+      (VP 
+       (VP 
+        (VB explicar)
+       )
+       (VP 
+        (ADVP 
+         (RB por_quê)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP bradou)
+   )
+   (NP 
+    (DT a)
+    (NN espanholita)
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT Isso)
+      )
+      (VP 
+       (VB será)
+       (NP 
+        (DT a)
+        (NNS regra)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB há)
+       )
+       (NP 
+        (NP 
+         (NNS regra)
+         (PP 
+          (IN sem)
+          (NP 
+           (NNS excepção)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

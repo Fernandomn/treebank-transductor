@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS lei)
+     (JJ francesa)
+    )
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VB autoriza)
+      (NP 
+       (NP 
+        (NNS escutas)
+        (JJ telefónicas)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS casos)
+          (ADJP 
+           (RB muito)
+           (JJ específicos)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS condições)
+          (JJ draconianas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

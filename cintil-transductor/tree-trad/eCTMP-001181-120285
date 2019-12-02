@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (NP 
+      (NNS assédio)
+      (JJ programado)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NP 
+        (NNS Felipe)
+        (NNS González)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB contudo)
+    )
+    (VP 
+     (VB poderá)
+     (VP 
+      (VP 
+       (VB ter)
+       (PP 
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NP 
+           (PP seus)
+           (NNS mentores)
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NNS efeitos)
+        (JJ perversos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

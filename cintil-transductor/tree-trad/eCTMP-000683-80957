@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Agradeceu)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS coragem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS fundadores)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB enalteceu)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS virtudes)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ actuais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

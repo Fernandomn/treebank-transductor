@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Apesar_disso)
+   )
+   (NP 
+    (DT a)
+    (NN entrevista)
+   )
+   (VP 
+    (VBP propiciou)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN eleitor)
+     (ADJP 
+      (JJ comum)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB participar)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN vida)
+      (ADJP 
+       (JJ política)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ ótimo)
+    )
+   )
+  )
+ )
+)

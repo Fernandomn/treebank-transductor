@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS zona)
+      (JJ ocidental)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS cidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB era)
+     (RB ontem)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS parte)
+      (ADJP 
+       (RB mais)
+       (JJ tranquila)
+      )
+     )
+    )
+   )
+  )
+ )
+)

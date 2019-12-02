@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (PP 
+    (IN de)
+    (NP 
+     (DT alguma)
+     (NN forma)
+    )
+   )
+   (VP 
+    (VBP representa)
+   )
+   (NP 
+    (DT a)
+    (NN tendência)
+    (ADJP 
+     (JJ formalista)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP marcou)
+     )
+     (NP 
+      (DT o)
+      (NN cinema)
+      (ADJP 
+       (JJ brasileiro)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (JJ segunda)
+       (NN metade)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN anos)
+         (ADJP 
+          (CD 80)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

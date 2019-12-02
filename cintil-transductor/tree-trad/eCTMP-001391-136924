@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Carmen)
+     (NNS Dolores)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Urbano)
+      (NNS Tavares)
+      (NNS Rodrigues)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB fazem)
+   (NP 
+    (DT a)
+    (NP 
+     (PP sua)
+     (NNS evocação)
+    )
+   )
+  )
+ )
+)

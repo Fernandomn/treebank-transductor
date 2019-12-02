@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (VP 
+       (VB aparecesse)
+       (PP 
+        (IN com)
+        (NP 
+         (DT uma)
+         (NP 
+          (NP 
+           (NNS síntese)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS voz)
+            )
+           )
+          )
+          (JJ fabulosa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT isso)
+    )
+    (VP 
+     (RB não)
+     (VB chegava)
+    )
+   )
+  )
+ )
+)

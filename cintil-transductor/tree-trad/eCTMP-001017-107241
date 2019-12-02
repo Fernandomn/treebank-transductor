@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS aniversário)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS festejos)
+    )
+    (VP 
+     (VB duram)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS mês)
+       (JJ inteiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

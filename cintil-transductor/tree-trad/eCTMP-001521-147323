@@ -1,0 +1,47 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NNS morte)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS filho)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS acidente)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS viação)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS Suíça)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

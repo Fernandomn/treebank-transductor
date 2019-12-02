@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Isto)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP impede)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN íntimo)
+     )
+    )
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP deseje)
+    )
+    (NP 
+     (DT alguma)
+     (NN espécie)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (ADJP 
+        (ADJP 
+         (JJ complexa)
+        )
+        (ADJP 
+         (JJ delicada)
+        )
+        e
+        (ADJP 
+         (JJ difícil)
+        )
+       )
+       (NN soberania)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP nós)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NNS PSP)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS assaltantes)
+    )
+    (VP 
+     (VP 
+      (VB apropriaram)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (CD 29)
+       (NP 
+        (NNS contos)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS dinheiro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

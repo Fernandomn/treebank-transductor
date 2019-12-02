@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Nasceu)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Madras)
+         )
+         (NP 
+          (NNS Oregon)
+         )
+        )
+        (NP 
+         (NNS EUA)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB viveu)
+       (PP 
+        (IN durante)
+        (NP 
+         (PRP muito)
+         (NNS tempo)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Venezuela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Mitterrand)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Roménia)
+     )
+    )
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (NNS críticas)
+    )
+   )
+  )
+ )
+)

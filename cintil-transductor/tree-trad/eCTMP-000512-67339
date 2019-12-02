@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Armando)
+    )
+    (NP 
+     (CC ou)
+     (NP 
+      (NNS Raudnei)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB oferecem)
+     )
+     (NP 
+      (NP 
+       (NNS condições)
+       (JJ mínimas)
+      )
+     )
+    )
+    para que
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ataque)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Gil)
+          (NNS Vicente)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB constitua)
+      (NP 
+       (NNS perigo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fundação)
+    (NNS Bissaya)
+    (NNS Barreto)
+   )
+  )
+  (VP 
+   (VB lança)
+   (NP 
+    (NP 
+     (NNS projecto)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (CD cem)
+        (CD mil)
+       )
+       (NNS contos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

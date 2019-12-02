@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT Isto)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT um)
+        (NNS pesadelo)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirmava)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Pat)
+       (NNS Moore)
+      )
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS militante)
+        (JJ negro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

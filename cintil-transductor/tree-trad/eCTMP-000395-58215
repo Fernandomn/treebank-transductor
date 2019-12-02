@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Conselho)
+     (NNS de)
+     (NNS Ministros)
+    )
+   )
+   (VP 
+    (VP 
+     (VB aprovou)
+     (RB ontem)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS venda)
+       (JJ directa)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS maioria)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS acções)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (NP 
+               (DT a)
+               (NP 
+                (NP 
+                 (NP 
+                  (NNS holding)
+                 )
+                 (JJ estatal)
+                )
+                (NNS IPE)
+               )
+              )
+              (VP 
+               (VP 
+                (VB detém)
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT a)
+                  (NNS Soponata)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

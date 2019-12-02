@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fala)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS lavagem)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS dinheiros)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS processo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS privatizações)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

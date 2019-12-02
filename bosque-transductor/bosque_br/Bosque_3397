@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT o)
+    (NN leitor)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP sabe)
+   )
+   (VP 
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VB vingar)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NP 
+        (DT o)
+        (NN desdém)
+       )
+       e
+       (NP 
+        (DT a)
+        (NN indiferença)
+       )
+      )
+      (VP 
+       (PP 
+        (IN com)
+        (NP 
+         (PRP que)
+        )
+       )
+       (VP 
+        (VBP é)
+       )
+       (ADJP 
+        (JJ capaz)
+        (PP 
+         (IN de)
+         (VP 
+          (VP 
+           (VB folhear)
+          )
+          (NP 
+           (DT as)
+           (NN páginas)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (DT sua)
+             (NN busca)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

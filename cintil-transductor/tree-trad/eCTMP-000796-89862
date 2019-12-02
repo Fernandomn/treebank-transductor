@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS sessão)
+   )
+   (VP 
+    (VB terminará)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS apresentação)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS trabalho)
+           (JJ coreográfico)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NP 
+              (NNS Cristina)
+              (NNS Amil)
+             )
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (NP 
+               (NNS Cristina)
+               (NNS Roquette)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

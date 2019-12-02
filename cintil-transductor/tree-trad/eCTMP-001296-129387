@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Cria)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (NP 
+     (DT um)
+     (NP 
+      (NNS grupo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS missão)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS embrião)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Agência)
+         (NNS Nacional)
+         (NNS para)
+         (NNS a)
+         (NNS Educação)
+         (NNS e)
+         (NNS Formação)
+         (NNS de)
+         (NNS Adultos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ainda_assim)
+   )
+   (ADVP 
+    (RB foi)
+   )
+   (NP 
+    (DT a)
+    (NN mídia)
+   )
+   (ADVP 
+    (RB que)
+   )
+   (VP 
+    (VBP amplificou)
+   )
+   (NP 
+    (DT as)
+    (NN acusações)
+   )
+   (PP 
+    (IN A+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VB divulgá-)
+      )
+      (NP 
+       (PRP las)
+      )
+      (PP 
+       (IN sem)
+       (NP 
+        (DT uma)
+        (NN checagem)
+        (ADJP 
+         (RB mais)
+         (VBN aprofundada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

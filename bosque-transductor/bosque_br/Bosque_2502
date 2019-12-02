@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+    (VBN substituído)
+   )
+   (ADVP 
+    (ADVP 
+     (RB como)
+    )
+    (NP candidato)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Ernesto_Zedillo)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP chefiava)
+      )
+      (NP 
+       (DT sua)
+       (NN campanha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

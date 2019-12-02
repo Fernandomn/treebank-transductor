@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Economistas)
+  )
+  (VP 
+   (VB defendem)
+   (NP 
+    (NP 
+     (NNS fim)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS sistema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS resto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS equipa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tinha)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS ar)
+      (JJ desolado)
+     )
+    )
+   )
+  )
+ )
+)

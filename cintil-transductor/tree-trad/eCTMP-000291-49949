@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Era)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS senhora)
+       (ADJP 
+        (ADJP 
+         (RB muito)
+         (ADJP 
+          (JJ distinta)
+          (ADJP 
+           (CC e)
+           (JJ esperta)
+          )
+         )
+        )
+        (ADJP 
+         (ADJP 
+          (JJ alegre)
+          (ADJP 
+           (CC mas)
+           (ADJP 
+            (RB também)
+            (ADJP 
+             (JJ reservada)
+             (ADJP 
+              (CC e)
+              (JJ discreta)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (PP 
+       (IN Por)
+       (ADVP 
+        (RB trás)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS fábrica)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB havia)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS vacaria)
+         (CONJP 
+          (NP 
+           (DT cujo)
+           (NNS leite)
+          )
+          (S 
+           (VP 
+            (VB era)
+            (VP 
+             (VB vendido)
+             (PP 
+              (IN a_)
+              (NP 
+               (DT os)
+               (NP 
+                (NNS cidadãos)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS Tijuana)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB contou)
+    )
+    (NP 
+     (DT o)
+     (NNS congressista)
+    )
+   )
+  )
+ )
+)

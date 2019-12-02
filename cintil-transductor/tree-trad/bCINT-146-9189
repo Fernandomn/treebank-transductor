@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Ano)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (NNS ano)
+     )
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NP 
+       (NNS Woody)
+       (NNS Allen)
+      )
+     )
+    )
+   )
+  )
+ )
+)

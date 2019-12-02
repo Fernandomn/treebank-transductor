@@ -1,0 +1,102 @@
+(
+ (S 
+  (VP 
+   (UCP 
+    (NP 
+     (NN Promotor)
+     (ADJP 
+      (JJ público)
+     )
+    )
+    (NP 
+     (NN procurador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Justiça)
+      )
+     )
+    )
+    e
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN criadores)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Comissão_Justiça_e_Paz)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN Arquidiocese)
+           (PP 
+            (IN de)
+            (NP 
+             (NNP São_Paulo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Bicudo)
+   )
+   (VP 
+    (VBP lista)
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (DT outras)
+     (NN prioridades)
+    )
+   )
+   (NP 
+    (NN temas)
+    (PP 
+     (IN de)
+     (NP 
+      (DT sua)
+      (NN especialidade)
+      (NP 
+       (DT a)
+       (NN reforma)
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Justiça)
+         )
+        )
+        e
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN sistema)
+          (ADJP 
+           (JJ penitenciário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

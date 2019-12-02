@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Para)
+      (IN além)
+      (IN de_)
+     )
+     (NP 
+      (DT essa)
+      (NP 
+       (NNS prestação)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS serviços)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS relacionamento)
+       (JJ humano)
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB atinge)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ponto)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (JJ verdadeira)
+           (NNS amizade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT a)
+       (NNS indiferença)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS constante)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS quotidiano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

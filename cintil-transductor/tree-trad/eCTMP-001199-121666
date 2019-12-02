@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NP 
+       (NNS robôs)
+       (JJ médios)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Técnico)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB tiveram)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ boa)
+        (NNS prestação)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB perdendo)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (JJ único)
+        (NNS jogo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

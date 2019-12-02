@@ -1,0 +1,50 @@
+(
+ (S 
+  (NP 
+   (NNS Guterres)
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB apresenta)
+     (RB hoje)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Porto)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNS moção)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS apoio)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS candidato)
+           (PP 
+            (IN a)
+            (NP 
+             (NNS Belém)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

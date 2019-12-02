@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT o)
+     (NN jogo)
+    )
+    (VP 
+     (VBP terminasse)
+    )
+    (ADVP 
+     (PP 
+      (CD 6)
+     )
+     (PP 
+      (IN a)
+      (ADJP 
+       (CD 0)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (JJ primeiro)
+      (NN tempo)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP seria)
+   )
+   (ADVP 
+    (RB mais)
+    (SBAR que
+     (S 
+      (DT o)
+      (JJ fiel)
+      (NN espelho)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN partida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

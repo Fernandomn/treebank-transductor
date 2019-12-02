@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Magic)
+     (NNS and)
+     (NNS Loss)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS exorcismo)
+       (JJ mágico)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT um)
+       (NNS adeus)
+      )
+     )
+    )
+   )
+  )
+ )
+)

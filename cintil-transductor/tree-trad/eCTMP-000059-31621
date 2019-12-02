@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS prédio)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB agora)
+     )
+     (VP 
+      (VB vendido)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS empresa)
+         (NP 
+          (NNS Construções)
+          (NNS Progresso)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS âmbito)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS negociações)
+          (JJ particulares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

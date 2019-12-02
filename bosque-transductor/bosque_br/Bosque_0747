@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 95)
+    )
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (NP 
+    (DT a)
+    (NN participação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (JJ pequenos)
+      (NN subsidiados)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NNP Sebrae)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NNP Fenit)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB diminuir)
+   )
+  )
+ )
+)

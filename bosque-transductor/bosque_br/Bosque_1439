@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN reunião)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Executiva)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP PMDB)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+   )
+   (NP 
+    (NN palco)
+    (PP 
+     (IN de)
+     (NP 
+      (DT mais)
+      (CD um)
+      (NN embate)
+      (PP 
+       (IN entre)
+       (NP 
+        (DT os)
+        (NN adeptos)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN candidatura)
+          (PP 
+           (IN de+)
+           (NP 
+            (NP 
+             (DT o)
+             (NP ex-governador)
+             (NP 
+              (NNP Orestes_Quércia)
+             )
+            )
+            e
+            (NP 
+             (DT os)
+             (NN antiquercistas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

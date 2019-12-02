@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Electrafina)
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB controlar)
+    (NP 
+     (NP 
+      (CD 9)
+      (NP 
+       (NN NN)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Suez-Lyonnaise)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

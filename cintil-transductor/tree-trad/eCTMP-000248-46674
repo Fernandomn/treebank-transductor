@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (PRP Diversas)
+   (NNS empresas)
+  )
+  (VP 
+   (VB recusam)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS divulgação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS classificações)
+        (JJ obtidas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

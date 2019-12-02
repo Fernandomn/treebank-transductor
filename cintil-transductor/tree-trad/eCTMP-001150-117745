@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Marc)
+     (NNS Girardelli)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS esquiador)
+       (JJ qualquer)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ pequeno)
+       (NP 
+        (NNS mundo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS circo)
+           (JJ branco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN sábado)
+     (NP 
+      (NN dia)
+      (ADJP 
+       (CD 2)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP CET)
+    (NP 
+     (NNP Companhia_de_Engenharia_de_Tráfego)
+    )
+   )
+   (VP 
+    (VBP restabeleceu)
+   )
+   (NP 
+    (DT o)
+    (NN sentido)
+    (ADJP 
+     (JJ normal)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN circulação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP rua_Visconde_da_Luz)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NNP Itaim-Bibi)
+          (NP 
+           (NN zona)
+           (ADJP 
+            (JJ sul)
+           )
+          )
+         )
+        )
+        (NP 
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP João_Cachoeira)
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NNP Clodomiro_Amazonas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

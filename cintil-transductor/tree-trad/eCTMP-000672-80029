@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Muitas)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS feridas)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB mergulharam)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NP 
+              (NP 
+               (NNS corpo)
+               (JJ fendido)
+              )
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NNS pátria)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB não)
+    (VB sararam)
+   )
+  )
+ )
+)

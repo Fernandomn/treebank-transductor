@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS aveirenses)
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS zona)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS subida)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

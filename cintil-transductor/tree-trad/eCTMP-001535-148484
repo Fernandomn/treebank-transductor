@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Dólar)
+    (NP 
+     (CC e)
+     (NNS libra)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS alta)
+    )
+   )
+  )
+ )
+)

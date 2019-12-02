@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN Resposta)
+   )
+   (VP 
+    (ADVP 
+     (RB Já)
+    )
+    (VP 
+     (VBP pedimos)
+    )
+    (NP 
+     (DT a)
+     (NN criação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN conselho)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB produzir)
+      )
+      (NP 
+       (DT essa)
+       (NN definição)
+      )
+     )
+    )
+   )
+  )
+ )
+)

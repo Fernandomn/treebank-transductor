@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+       (NNS tempo)
+      )
+     )
+    )
+    (VB chegou)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS chá)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS menta)
+      )
+     )
+    )
+   )
+  )
+ )
+)

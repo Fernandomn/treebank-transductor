@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Quércia)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP tem)
+     (VBN sido)
+    )
+    (NP 
+     (NN vítima)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN campanha)
+       (ADJP 
+        (JJ sórdida)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NN objetivo)
+         (PP 
+          (IN de)
+          (VP 
+           (VP 
+            (VB denegrir)
+           )
+           (NP 
+            (DT sua)
+            (NN campanha)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Finalmente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS PCP)
+    )
+    (VP 
+     (VB defende)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ futura)
+       (NP 
+        (NNS aplicação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (NP 
+            (NNS correcção)
+            (JJ estatística)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NP 
+              (NNS classificações)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS ensino)
+                 (JJ secundário)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

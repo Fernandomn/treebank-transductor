@@ -1,0 +1,136 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Pela_primeira_vez)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT este)
+     (NN século)
+    )
+   )
+   (NP 
+    (JJ vastos)
+    (NN setores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN classes)
+      (ADJP 
+       (JJ médias)
+      )
+      (ADJP 
+       (JJ ocidentais)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP conseguirão)
+   )
+   (VP 
+    (VP 
+     (VB efetivar)
+    )
+    (NP 
+     (DT a)
+     (NN proeza)
+     (ADJP 
+      (JJ social)
+     )
+     (NP 
+      (NN cimento)
+      (PP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN democracia)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN capitalismo)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBN realizada)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT as)
+        (NN gerações)
+        (ADJP 
+         (JJ precedentes)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB garantir)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT seus)
+        (NN filhos)
+       )
+      )
+      (NP 
+       (DT um)
+       (NN nível)
+       (PP 
+        (IN de)
+        (NP 
+         (NN vida)
+        )
+       )
+       (ADJP 
+        (ADJP 
+         (JJ igual)
+        )
+        ou
+        (ADJP 
+         (JJ superior)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (NP 
+             (DT seus)
+             (NN pais)
+            )
+            (VP 
+             (VBP haviam)
+             (VBN desfrutado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

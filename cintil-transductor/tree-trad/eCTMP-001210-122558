@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS verso)
+      )
+     )
+    )
+    (VP 
+     (VB constava)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS aval)
+         (PP 
+          (IN de_)
+          (NP 
+           (NP 
+            (DT o)
+            (NNS subscritor)
+           )
+           (NP 
+            (NP 
+             (NNS Eduardo)
+             (NNS de)
+             (NNS Almeida)
+             (NNS Catroga)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

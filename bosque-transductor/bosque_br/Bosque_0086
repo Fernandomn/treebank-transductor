@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB limitar)
+     )
+     (NP 
+      (DT a)
+      (NN venda)
+      (PP 
+       (IN de)
+       (NP 
+        (CD quatro)
+        (NN ingressos)
+        (PP 
+         (IN por)
+         (NP 
+          (NN pessoa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Mesbla)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP evitava)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT uma)
+     (DT mesma)
+     (NN pessoa)
+    )
+    (VP 
+     (VBP comprasse)
+    )
+    (NP 
+     (ADJP 
+      (RB mais_de)
+      (CD uma)
+     )
+     (NN vez)
+    )
+   )
+  )
+ )
+)

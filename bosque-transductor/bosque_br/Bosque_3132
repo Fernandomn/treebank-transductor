@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VBP pertência)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT um)
+     (NN grupo)
+     (PP 
+      (IN de)
+      (NP 
+       (CD cem)
+       (NN garotas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Brasília)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBN contratado)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB fazer)
+        )
+        (NP 
+         (NN propaganda)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Ana_Paula_Junqueira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

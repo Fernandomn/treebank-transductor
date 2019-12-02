@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS acidente)
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB envolve)
+         (NP 
+          (NP 
+           (DT um)
+           (NNS automóvel)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT um)
+            (NP 
+             (NNS carro)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS bois)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (CC e)
+        (CONJP 
+         (RB onde)
+         (S 
+          (VP 
+           (VB intervém)
+          )
+          (NP 
+           (DT um)
+           (NNS polícia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (RB Aí)
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Maria)
+       (NNS Elilda)
+      )
+     )
+     (VP 
+      (VB começou)
+      (NP 
+       (DT essa)
+       (NNS pesquisa)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB encontrou)
+       (NP 
+        (PRP muitos)
+        (NP 
+         (NNS dados)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT essas)
+           (NP 
+            (NNS crianças)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB eram)
+               (VB vendidas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

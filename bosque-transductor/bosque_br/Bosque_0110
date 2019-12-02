@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (NP 
+    (DT os)
+    (NN oficiais)
+    (VBN envolvidos)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP referem)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN comando)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN ações)
+      )
+     )
+    )
+    (PP 
+     (IN como)
+     (NP 
+      (NNP Centro_de_Coordenação_de_Operações_de_Combate_ao_Crime_Organizado)
+      (NP 
+       (NNP Ccocco)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP minha)
+       (NNS idade)
+      )
+     )
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VP 
+       (RB não)
+       (VB vou)
+      )
+      (VB mudar)
+     )
+    )
+   )
+  )
+ )
+)

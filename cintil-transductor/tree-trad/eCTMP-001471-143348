@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NNS comunicado)
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB fica)
+      (RB ainda)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS toque)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS dramatização)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

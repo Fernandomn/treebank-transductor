@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN frente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN glaciar)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP fica)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN beira)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN rio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP desprende)
+   )
+   (NP 
+    (NN blocos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN gelo)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN tamanho)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NN prédio)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 30)
+          (NN andares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

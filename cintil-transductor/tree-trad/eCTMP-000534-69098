@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Estádio)
+     (NNS de_)
+     (NNS a)
+     (NNS Antas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB acolheria)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS cerimónia)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS abertura)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC enquanto)
+      (S 
+       (NP 
+        (DT a)
+        (NNS final)
+       )
+       (VP 
+        (VP 
+         (VB seria)
+         (VB disputada)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Estádio)
+           (NNS de_)
+           (NNS a)
+           (NNS Luz)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

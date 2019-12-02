@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS gravidade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS situação)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS autoridades)
+    )
+    (VP 
+     (VB anunciaram)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB houve)
+        )
+        (NP 
+         (NP 
+          (NNS registo)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS vítimas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

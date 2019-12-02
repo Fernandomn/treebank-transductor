@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN homem)
+    )
+    (VP 
+     (VBP fuma)
+    )
+    (NP 
+     (IN entre)
+     (NP 
+      (NP 
+       (CD 11)
+      )
+      e
+      (NP 
+       (CD 20)
+      )
+     )
+     (NN cigarros)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN dia)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADJP 
+     (DT a)
+     (NN mulher)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (CD 5)
+       )
+       e
+       (NP 
+        (CD 10)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

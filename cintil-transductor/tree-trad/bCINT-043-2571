@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS vala)
+      (JJ comum)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT estes)
+     (NP 
+      (NNS locais)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS execução)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Procurador-geral)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS Rússia)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB prepara)
+   (NP 
+    (NP 
+     (NNS revelações)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NNS golpe)
+      )
+     )
+    )
+   )
+  )
+ )
+)

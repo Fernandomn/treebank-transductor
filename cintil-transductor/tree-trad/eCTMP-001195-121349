@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jack)
+    (NNS Lang)
+   )
+  )
+  (VP 
+   (VB assume)
+   (NP 
+    (NP 
+     (NNS funções)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (ADJP 
+         (RB mais)
+         (JJ importante)
+        )
+        (NP 
+         (NNS teatro)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Milão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

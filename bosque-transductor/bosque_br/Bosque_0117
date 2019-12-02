@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN derramamento)
+    (PP 
+     (IN de)
+     (NP 
+      (NN óleo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN petroleiro)
+        (NP 
+         (NNP Exxon_Váldez)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN março)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 1989)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP causou)
+   )
+   (NP 
+    (NN estragos)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN valor)
+      (PP 
+       (IN de)
+       (NP 
+        (NN US$)
+        (NP 
+         (CD 286.8)
+         (NN milhões)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT um)
+     (NN júri)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP Anchorage)
+      (NP 
+       (NNP Alaska)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Tenho)
+     (PP 
+      (IN de)
+      (VP 
+       (VB enaltecer)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS equipa)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Manchester)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

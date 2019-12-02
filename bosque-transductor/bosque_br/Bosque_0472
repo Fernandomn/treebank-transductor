@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN greve)
+    (PP 
+     (IN por)
+     (NP 
+      (NN empresa)
+     )
+    )
+   )
+   (VP 
+    (VBP atingia)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NP 
+     (CD sete)
+     (NN empresas)
+    )
+    e
+    (NP 
+     (CD 12)
+     (NN mil)
+     (NN empregados)
+    )
+   )
+  )
+ )
+)

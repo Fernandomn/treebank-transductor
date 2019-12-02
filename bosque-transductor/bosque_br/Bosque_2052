@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Amaral)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN reservas)
+     (ADJP 
+      (JJ internacionais)
+     )
+    )
+    (VP 
+     (VBP serão)
+    )
+    (ADVP 
+     (RB mesmo)
+    )
+    (NP 
+     (DT a)
+     (NN garantia)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (JJ nova)
+       (NN moeda)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS estudo)
+     (JJ britânico)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB feito)
+    )
+    (ADVP 
+     (RB depois)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS aviso)
+        (ADJP 
+         (ADJP 
+          (VB dado)
+          (PP 
+           (IN por_)
+           (NP 
+            (NP 
+             (DT o)
+             (NP 
+              (NNS secretário)
+              (NNS norte-americano)
+              (NNS de_)
+              (NNS a)
+              (NNS Defesa)
+             )
+            )
+            (NP 
+             (NP 
+              (NNS James)
+              (NNS Schlessinger)
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN a_)
+          (NP 
+           (NP 
+            (DT o)
+            (NP 
+             (NNS embaixador)
+             (NNS de_)
+             (NNS o)
+             (NNS Reino)
+             (NNS Unido)
+             (NNS em)
+             (NNS Washington)
+            )
+           )
+           (NP 
+            (NP 
+             (NNS Lord)
+             (NNS Cromer)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

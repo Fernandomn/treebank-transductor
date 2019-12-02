@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Vai)
+    (VB trabalhar)
+   )
+   (ADVP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN 7h)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 17h30)
+     )
+    )
+   )
+   (PP 
+    (RB inclusive)
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN finais)
+     (PP 
+      (IN de)
+      (NP 
+       (NN semana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

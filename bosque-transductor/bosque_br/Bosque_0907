@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VB Entregar-)
+     )
+     (NP 
+      (PRP se)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN garantia)
+       (PP 
+        (IN de)
+        (NP 
+         (NN redução)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN pena)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP seria)
+    )
+    (NP 
+     (DT um)
+     (JJ bom)
+     (NN negócio)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Maciel)
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tem)
+   )
+   (NP 
+    (NN gente)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP acha)
+     )
+     (NP 
+      (DT a)
+      (NN aula)
+     )
+     (ADJP 
+      (JJ inútil)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS folgas)
+       (NP 
+        (CC e)
+        (NNS folguedos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Júlio)
+      (NNS Novesfora)
+     )
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB afastava)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS rigores)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS geometria)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN sinal)
+    (PP 
+     (IN de)
+     (NP 
+      (NN fraqueza)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN associado)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NN crises)
+       (ADJP 
+        (JJ internas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP levam)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN queda)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN sistema)
+      )
+     )
+     (PP 
+      (IN em)
+      (ADJP 
+       (CD 1867)
+      )
+     )
+    )
+   )
+  )
+ )
+)

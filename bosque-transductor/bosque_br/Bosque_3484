@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Um)
+     (NN ataque)
+    )
+    (ADVP 
+     (RB agora)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP faz)
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (NP 
+     (NN sentido)
+    )
+    (VP 
+     (IN desde_que)
+     (NP 
+      (DT os)
+      (NN sérvios)
+     )
+     (VP 
+      (VBP continuem)
+      (IN a)
+      (VB recuar)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Folha)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN coronel)
+    (NP 
+     (NNP Andrew_Duncan)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP IIEE)
+     )
+    )
+   )
+  )
+ )
+)

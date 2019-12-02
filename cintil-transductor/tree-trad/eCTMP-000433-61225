@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Antes)
+     (VP 
+      (VB era)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS vagabundo)
+         (JJ errante)
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (RB nunca)
+           (VP 
+            (VB teve)
+            (NP 
+             (DT uma)
+             (NP 
+              (NNS profissão)
+              (JJ certa)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

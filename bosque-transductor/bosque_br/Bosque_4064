@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN Redes)
+   )
+   (NP 
+    (NN multimídia)
+   )
+   (NP 
+    (NN sistemas)
+    (ADJP 
+     (JJ operacionais)
+    )
+   )
+   (CC ou)
+   (NP 
+    (NN informática)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN educação)
+     )
+    )
+   )
+  )
+ )
+)

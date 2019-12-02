@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS vida)
+    )
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esse)
+       (NNS tempo)
+      )
+     )
+     (VP 
+      (VB era)
+      (JJ difícil)
+     )
+    )
+   )
+   (S 
+    (S 
+     (RB só)
+     (S 
+      (NP 
+       (PRP poucas)
+       (NNS pessoas)
+      )
+      (VP 
+       (VB tinham)
+       (NP 
+        (NP 
+         (NNS acesso)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NNS universidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

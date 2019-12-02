@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (NNS O)
+       (NNS Leão)
+       (NNS de_)
+       (NNS a)
+       (NNS Estrela)
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT uma)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (ADJP 
+            (RB mais)
+            (JJ famosas)
+           )
+           (NP 
+            (NP 
+             (NNS comédias)
+             (JJ populares)
+            )
+            (JJ portuguesas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB representa)
+       (RB também)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NP 
+         (NNS canto)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS cisne)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

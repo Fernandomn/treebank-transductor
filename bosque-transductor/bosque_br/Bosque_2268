@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT as)
+     (NN aulas)
+    )
+   )
+   (NP 
+    (NNP Candelori)
+   )
+   (VP 
+    (VBP usa)
+   )
+   (NP 
+    (NN reportagens)
+    (PP 
+     (IN de)
+     (NP 
+      (NN jornais)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VP 
+       (VB introduzir)
+      )
+      (NP 
+       (DT seus)
+       (NN temas)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB colocar)
+      )
+      (NP 
+       (DT toda)
+       (DT a)
+       (NN classe)
+      )
+      (PP 
+       (IN para)
+       (VB falar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

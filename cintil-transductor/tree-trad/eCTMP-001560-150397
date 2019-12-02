@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS pedido)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS divórcio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB feito)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 30)
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Setembro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

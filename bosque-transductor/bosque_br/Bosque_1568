@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN faturamento)
+    (ADJP 
+     (JJ bruto)
+    )
+   )
+   (VP 
+    (VBP atingiu)
+   )
+   (NP 
+    (NN R$)
+    (NP 
+     (CD 615.7)
+     (NN mil)
+    )
+    (ADJP 
+     (JJ equivalentes)
+     (PP 
+      (IN a)
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 721.8)
+        (NN mil)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,104 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN consumidor)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP tivesse)
+     )
+     (NP 
+      (RB apenas)
+      (CD uma)
+      (NN nota)
+      (PP 
+       (IN de)
+       (NP 
+        (NN CR$)
+        (ADJP 
+         (CD 50.000.00)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB fazer)
+       )
+       (NP 
+        (DT uma)
+        (NN compra)
+        (PP 
+         (IN de)
+         (NP 
+          (NN valor)
+          (ADJP 
+           (JJ menor)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tinha)
+    (IN de)
+   )
+   (VP 
+    (VP 
+     (VB solicitar)
+     (NP 
+      (DT um)
+      (NN cheque)
+      (PP 
+       (IN de)
+       (NP 
+        (NN conversão)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN valor)
+        (VBN aproximado)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN mercadoria)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VB receber)
+     (NP 
+      (DT o)
+      (NN troco)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN cruzeiros)
+       (ADJP 
+        (JJ reais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

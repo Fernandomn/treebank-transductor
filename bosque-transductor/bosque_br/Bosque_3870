@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Sustentadas)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN depoimentos)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NNP PF)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN confirmadas)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD três)
+     (NN perícias)
+    )
+   )
+  )
+ )
+)

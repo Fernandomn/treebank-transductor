@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS apoiantes)
+       (JJ distritais)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Telmo)
+         (NNS Correia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB houve)
+     (RB mesmo)
+    )
+    (NP 
+     (NP 
+      (PRP quem)
+     )
+     (S 
+      (VB comentasse)
+     )
+    )
+   )
+  )
+ )
+)

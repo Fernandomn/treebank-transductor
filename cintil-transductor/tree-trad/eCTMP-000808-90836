@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Teve)
+    (NP 
+     (NP 
+      (NP 
+       (NNS mosteiro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS Cistercenses)
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (RB hoje)
+        (VB arruinado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

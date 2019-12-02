@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP American_Express)
+   )
+   (VP 
+    (VBP estuda)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VP 
+     (VB lançar)
+    )
+    (NP 
+     (NN cartões)
+     (PP 
+      (IN de)
+      (NP 
+       (NN afinidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (UH Pois_é)
+   )
+   (NP 
+    (NP 
+     (NNP Palmeiras)
+    )
+    e
+    (NP 
+     (NNP Corinthians)
+    )
+   )
+   (VP 
+    (VBP fazem)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (NP 
+    (DT a)
+    (NN finalíssima)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Brasileiro)
+     )
+    )
+   )
+  )
+ )
+)

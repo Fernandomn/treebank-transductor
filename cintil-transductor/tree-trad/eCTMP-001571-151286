@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS manifestantes)
+   )
+   (VP 
+    (VP 
+     (VB agrediram)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (CD 100)
+      )
+      (NNS polícias)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NP 
+        (NNS pedras)
+        (ADJP 
+         (VB arrancadas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS calçada)
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS barras)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS ferro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

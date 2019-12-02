@@ -1,0 +1,97 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Suas)
+    (NN atribuições)
+   )
+   (VP 
+    (VBP são)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB criticar)
+     )
+     (NP 
+      (DT o)
+      (NN jornal)
+     )
+     (PP 
+      (IN sob)
+      (NP 
+       (DT a)
+       (NN perspectiva)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN leitor)
+        )
+       )
+      )
+     )
+     (VBG recebendo)
+     (CC e)
+     (VP 
+      (VP 
+       (VBG checando)
+      )
+      (NP 
+       (DT as)
+       (NN reclamações)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP ele)
+        )
+        (VP 
+         (VBP encaminha)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN Redação)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB comentar)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN domingos)
+      )
+     )
+     (NP 
+      (DT o)
+      (NN noticiário)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN meios)
+        (PP 
+         (IN de)
+         (NP 
+          (NN comunicação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

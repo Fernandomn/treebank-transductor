@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Nossa)
+    (NN preocupação)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN projeto)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP estimule)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN jovem)
+      )
+     )
+     (NP 
+      (DT uma)
+      (NN vida)
+      (PP 
+       (IN sem)
+       (NP 
+        (NN drogas)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBG promovendo-)
+      )
+      (NP 
+       (PRP se)
+      )
+      (NP 
+       (DT um)
+       (NN comportamento)
+       (ADJP 
+        (JJ construtivo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

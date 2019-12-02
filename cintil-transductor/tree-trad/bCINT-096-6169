@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB tem)
+     )
+     (NP 
+      (NNS credibilidade)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB tem)
+       )
+       (NP 
+        (NNS confiança)
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB tem)
+        )
+        (NP 
+         (NNS competência)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

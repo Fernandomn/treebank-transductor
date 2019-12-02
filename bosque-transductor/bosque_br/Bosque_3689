@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Tomado)
+    )
+    (ADVP 
+     (RB de_surpresa)
+    )
+   )
+   (NP 
+    (NNP Santana)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP deu)
+     )
+     (NP 
+      (DT um)
+      (NN sorriso)
+      (ADJP 
+       (JJ amarelo)
+      )
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB logo)
+     )
+     (VP 
+      (VBP recuperou-)
+     )
+     (NP 
+      (PRP se)
+     )
+    )
+   )
+  )
+ )
+)

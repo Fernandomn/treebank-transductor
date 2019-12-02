@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Conselho)
+    (NNS de)
+    (NNS Ministros)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB discutir)
+    (NP 
+     (DT o)
+     (NNS PDR)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Muitas)
+     (NN empresas)
+    )
+    (VP 
+     (VBP entraram)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN Justiça)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB obter)
+      )
+      (NP 
+       (DT o)
+       (NN direito)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB contabilizar)
+         )
+         (NP 
+          (DT essa)
+          (NN corrosão)
+          (ADJP 
+           (JJ inflacionária)
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (DT seus)
+           (NN balanços)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP ganharam)
+    )
+    (NP 
+     (DT as)
+     (NN ações)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (JJ primeira)
+      (NN instância)
+     )
+    )
+   )
+  )
+ )
+)

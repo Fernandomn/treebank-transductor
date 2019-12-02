@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Só)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN campanha)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN lugares)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (NP 
+       (NP 
+        (PRP eu)
+       )
+       e
+       (NP 
+        (DT o)
+        (NNP Aloizio)
+       )
+      )
+      (VP 
+       (VBP vamos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

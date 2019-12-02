@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN coreografia)
+    (VP 
+     (VP 
+      (VBN criada)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNP Bil_T._Jones)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NNP An_American_Evening)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP chama-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (NP 
+    (NNP I_Want_to_Cross_Over)
+    (PP 
+     (IN com)
+     (NP 
+      (NN música)
+      (ADJP 
+       (JJ gospel)
+      )
+      (VP 
+       (VP 
+        (VBN cantada)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNP Liz_McComb)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

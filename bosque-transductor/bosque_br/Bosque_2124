@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN consequência)
+    )
+   )
+   (VP 
+    (VBP põe)
+   )
+   (PP 
+    (IN a)
+    (ADJP 
+     (JJ nu)
+    )
+   )
+   (NP 
+    (DT uma)
+    (NN crise)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (DT próprios)
+      (NN gêneros)
+      (VP 
+       (PP 
+        (IN com)
+        (NP 
+         (PRP que)
+        )
+       )
+       (VP 
+        (VBP trabalha)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB É)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS equipa)
+           (PP 
+            (IN com)
+            (NP 
+             (DT um)
+             (NP 
+              (JJ grande)
+              (NNS futuro)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (VP 
+         (RB ainda)
+         (VB falta)
+        )
+        (NP 
+         (PRP muita)
+         (NNS coisa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB concluiu)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (RB Agora)
+    (S 
+     (NP 
+      (PRP muita)
+      (NNS gente)
+     )
+     (VP 
+      (VP 
+       (NP 
+        (PRP me)
+       )
+       (VB conhece)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS rua)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (PP 
+       (PP 
+        (IN por)
+        (IN causa)
+        (IN de_)
+       )
+       (NP 
+        (DT o)
+        (NNS teatro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

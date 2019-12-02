@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+    (PP 
+     (CC e)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT esses)
+     (NNS efectivos)
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (ADVP 
+       (RB ainda)
+      )
+     )
+     (VP 
+      (VB apoiados)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS brigadas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Corpo)
+            (NNS de)
+            (NNS Intervenção)
+            (NNS de_)
+            (NNS a)
+            (NNS PSP)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

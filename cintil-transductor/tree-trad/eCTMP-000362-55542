@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Manuel)
+     (NNS Monteiro)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB percebeu)
+      (NP 
+       (DT isso)
+      )
+     )
+     (ADVP 
+      (RB muito)
+      (RB bem)
+     )
+    )
+   )
+  )
+ )
+)

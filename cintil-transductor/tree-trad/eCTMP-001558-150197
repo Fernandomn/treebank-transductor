@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esta)
+       (NP 
+        (NNS instância)
+        (JJ judicial)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (RB já)
+     )
+     (NP 
+      (CD 650)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NNS casos)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS espera)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS sentença)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

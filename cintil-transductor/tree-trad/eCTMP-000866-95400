@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (CD 1984)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB é)
+      (VB nomeado)
+     )
+     (NP 
+      (NP 
+       (NNS escritor)
+       (JJ residente)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Royal)
+       (NNS Court)
+       (NNS Theatre)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS Hamas)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT a)
+      (NNS Jihad)
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (NP 
+      (NP 
+       (NNS protagonistas)
+       (PP 
+        (IN a)
+        (NP 
+         (NP 
+          (NNS tempo)
+          (JJ inteiro)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esta)
+        (NP 
+         (NNS campanha)
+         (JJ eleitoral)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

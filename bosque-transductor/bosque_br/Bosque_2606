@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Como)
+   )
+   (VP 
+    (VB julgar)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN consciência)
+    )
+   )
+   (NP 
+    (NN contratos)
+    (UCP 
+     (VBN escritos)
+     ou
+     (ADJP 
+      (JJ implícitos)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP dependem)
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NN moeda)
+        (NP 
+         (RB como)
+         (NP 
+          (NN meio)
+          (PP 
+           (IN de)
+           (NP 
+            (NN pagamento)
+           )
+          )
+         )
+        )
+       )
+      )
+      e
+      (PP 
+       (IN de)
+       (NP 
+        (DT outra)
+        (NP 
+         (RB como)
+         (NP 
+          (NN unidade)
+          (PP 
+           (IN de)
+           (NP 
+            (NN conta)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

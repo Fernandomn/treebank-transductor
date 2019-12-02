@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS reclamações)
+     (ADJP 
+      (ADJP 
+       (VB apresentadas)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD últimos)
+          (NNS meses)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS INDC)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB abrangem)
+    (NP 
+     (NP 
+      (NNS situações)
+      (ADJP 
+       (RB muito)
+       (JJ diversas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

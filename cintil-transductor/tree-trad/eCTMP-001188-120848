@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB há)
+      )
+      (NP 
+       (PRP nenhum)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB chegue)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS fase)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS palpite)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB diz)
+      (RB ainda)
+     )
+    )
+    (NP 
+     (DT o)
+     (NNS investigador)
+    )
+   )
+  )
+ )
+)

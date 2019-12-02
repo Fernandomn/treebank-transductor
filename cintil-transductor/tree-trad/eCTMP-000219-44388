@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB outro)
+     (RB lado)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS reforço)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS municipalização)
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (RB aliás)
+        (JJ necessário)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB constitui)
+     )
+     (NP 
+      (NP 
+       (NNS alternativa)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NNS regionalização)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

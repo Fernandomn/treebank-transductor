@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Isolda)
+   )
+   (VP 
+    (VP 
+     (VB estará)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS cena)
+        (PP 
+         (IN até)
+         (NP 
+          (NNS sábado)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB inaugurando)
+        (RB assim)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NNS temporada)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Ballet)
+            (NNS Gulbenkian)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

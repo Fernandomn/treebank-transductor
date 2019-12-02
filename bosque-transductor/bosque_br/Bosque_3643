@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT os)
+     (NNP Estados_Unidos)
+    )
+   )
+   (NP 
+    (NP 
+     (NN universidades)
+    )
+    e
+    (NP 
+     (DT algumas)
+     (NN empresas)
+    )
+   )
+   (VP 
+    (VBP chegam)
+    (IN a)
+    (VB oferecer)
+   )
+   (NP 
+    (NN cursos)
+    (PP 
+     (IN de)
+     (NP 
+      (JJ boas)
+      (NN maneiras)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN negócios)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Real)
+      (NNS Madrid)
+     )
+    )
+   )
+   (RB hoje)
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NNS Luz)
+   )
+  )
+ )
+)

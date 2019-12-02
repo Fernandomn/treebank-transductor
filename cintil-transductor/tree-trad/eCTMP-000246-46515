@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (RB Já)
+   (S 
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB sabe)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS Assembleia)
+      )
+      (VP 
+       (VB vai)
+       (VB aprovar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

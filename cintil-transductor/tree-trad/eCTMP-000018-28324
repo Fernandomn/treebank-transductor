@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Inter-Fiorentina)
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS jogo)
+       (JJ grande)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD terceira)
+         (NP 
+          (NNS jornada)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS campeonato)
+             (JJ italiano)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

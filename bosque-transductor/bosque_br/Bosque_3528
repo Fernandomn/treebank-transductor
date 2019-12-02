@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ jovem)
+    (NN corretor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN seguros)
+      (NP 
+       (NNP Kiko_Villela)
+      )
+      (ADJP 
+       (CD 22)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+  )
+ )
+)

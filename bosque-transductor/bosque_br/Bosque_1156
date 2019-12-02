@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Mighty_Max)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN boneco)
+    (PP 
+     (IN de)
+     (NP 
+      (NN plástico)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP convive)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NN monstros)
+         )
+         e
+         (NP 
+          (NN morcegos)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (DT um)
+         (NN universo)
+         (VBN miniaturizado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

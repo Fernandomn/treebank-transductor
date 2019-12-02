@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (PP 
+     (IN De)
+     (NP 
+      (NN seg)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN sex)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN 11h)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 19h)
+     )
+    )
+   )
+   (NP 
+    (NN sáb)
+    (NP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN 11h)
+      )
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 14h)
+     )
+    )
+   )
+  )
+ )
+)

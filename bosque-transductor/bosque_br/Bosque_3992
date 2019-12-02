@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Vi)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN jogo)
+     (ADJP 
+      (RB quase)
+      (JJ inacreditável)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Copa)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT o)
+     (NNP Eire)
+    )
+    (VP 
+     (VB jogar)
+    )
+    (NP 
+     (NN futebol)
+     (ADJP 
+      (RB muito)
+      (JJ melhor)
+      (SBAR do_que
+       (S 
+        (DT a)
+        (NNP Itália)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

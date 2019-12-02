@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Quatrocentos)
+    (NP 
+     (JJ outros)
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB ainda)
+    )
+    (VP 
+     (VB procurados)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS forças)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS segurança)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

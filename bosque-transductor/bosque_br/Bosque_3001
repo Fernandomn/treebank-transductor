@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Prometer)
+    )
+    (NP 
+     (NN inflação)
+     (ADJP 
+      (CD zero)
+     )
+    )
+   )
+   (VP 
+    (VBP extrapola)
+   )
+   (NP 
+    (DT o)
+    (NN domínio)
+    (PP 
+     (IN de+)
+     (NP 
+      (PRP aquilo)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT a)
+        (NN autoridade)
+        (ADJP 
+         (JJ monetária)
+        )
+       )
+       (VP 
+        (VBP pode)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB comprometer)
+       )
+       (PP 
+        (IN a)
+        (VP 
+         (VP 
+          (VB fazer)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB tem)
+    )
+    (VP 
+     (VB havido)
+     (NP 
+      (NP 
+       (NNS coordenação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NP 
+            (NNS políticas)
+            (JJ económicas)
+           )
+           (JJ europeias)
+          )
+          (PP 
+           (PP 
+            (IN para)
+            (NP 
+             (DT o)
+             (NNS crescimento)
+            )
+           )
+           (PP 
+            (CC e)
+            (PP 
+             (IN para)
+             (NP 
+              (DT o)
+              (NNS emprego)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

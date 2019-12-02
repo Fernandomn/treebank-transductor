@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (CD dois)
+     (NN motivos)
+     (NP 
+      (NP 
+       (DT a)
+       (JJ eventual)
+       (NN queda)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN arrecadação)
+        )
+       )
+      )
+      e
+      (NP 
+       (NN problemas)
+       (ADJP 
+        (JJ jurídicos)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP impedem)
+        )
+        (VP 
+         (VP 
+          (VB mexer)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN base)
+           (PP 
+            (IN de)
+            (NP 
+             (NN cálculo)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NN imposto)
+              )
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN por_meio_de)
+          (NP 
+           (NNP MP)
+          )
+         )
+         (VP 
+          (IN já_que)
+          (NP 
+           (PRP ela)
+          )
+          (VP 
+           (VBP foi)
+           (VBN fixada)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NN emenda)
+            (ADJP 
+             (JJ constitucional)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

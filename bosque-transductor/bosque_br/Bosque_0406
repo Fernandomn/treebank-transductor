@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN patinadora)
+    (NP 
+     (NNP Tonya_Harding)
+    )
+    (VP 
+     (VP 
+      (VBN banida)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN competições)
+      )
+      (PP 
+       (IN por)
+       (VP 
+        (VP 
+         (VB ter)
+         (VBN planejado)
+        )
+        (NP 
+         (NN atentado)
+         (RB contra)
+         (NP 
+          (DT a)
+          (NN rival)
+          (NP 
+           (NNP Nancy_Kerrigan)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP será)
+   )
+   (NP 
+    (DT o)
+    (NN destaque)
+    (PP 
+     (IN de)
+     (NP 
+      (NN setembro)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN revista)
+      (NP 
+       (NNP Penthouse)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Houve)
+     (NP 
+      (NP 
+       (NNS gente)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (RB não)
+          (VB entendeu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT este)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (PP meu)
+       (NP 
+        (NNS filme)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB suscitou)
+           (NP 
+            (NP 
+             (JJ piores)
+             (NNS críticas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

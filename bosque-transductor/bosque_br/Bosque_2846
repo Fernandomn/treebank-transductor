@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Como)
+    (NP 
+     (DT a)
+     (NN peça)
+    )
+    (VP 
+     (VBP trata)
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NN religião)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN misticismo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP achamos)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP devíamos)
+     (VB usar)
+    )
+    (NP 
+     (DT muitos)
+     (NN troncos)
+     (VP 
+      (VP 
+       (VB dar)
+      )
+      (NP 
+       (DT uma)
+       (NN verticalidade)
+      )
+      (VP 
+       (NP 
+        (PRP o_que)
+       )
+       (VP 
+        (VBP tem)
+       )
+       (PP 
+        (IN a)
+        (VP 
+         (VP 
+          (VB ver)
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NN ascensão)
+          )
+         )
+         (ADVP 
+          (RB etc)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

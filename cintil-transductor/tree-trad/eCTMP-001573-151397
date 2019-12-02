@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS bancos)
+     (ADJP 
+      (JJ alemães)
+      (ADJP 
+       (CC e)
+       (JJ britânicos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB têm)
+    (VP 
+     (RB também)
+     (VP 
+      (VB cimentado)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NP 
+         (NNS posição)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS mercado)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS escudo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

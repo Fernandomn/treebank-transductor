@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Referia)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS protagonista)
+        (PP 
+         (IN de)
+         (NP 
+          (DT O)
+          (NP 
+           (NNS Clube)
+           (NNS de_)
+           (NNS os)
+           (NNS Poetas)
+           (NNS Mortos)
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (DT um)
+        (NP 
+         (NNS professor)
+         (ADVP 
+          (RB realmente)
+          (ADVP 
+           (RB fora)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS série)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

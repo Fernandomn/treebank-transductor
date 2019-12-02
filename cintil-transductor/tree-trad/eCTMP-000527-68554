@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Carlos)
+     (NNS Alberto)
+     (NNS Parreira)
+    )
+   )
+   (VP 
+    (VB encerrou)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS XV)
+      (NNS Simpósio)
+      (NNS de_)
+      (NNS a)
+      (NNS União)
+      (NNS de)
+      (NNS Treinadores)
+      (NNS Europeus)
+      (NNS de)
+      (NNS Futebol)
+     )
+    )
+   )
+  )
+ )
+)

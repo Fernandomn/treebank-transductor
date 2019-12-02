@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS som)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS banda)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB surgiu)
+     (ADVP 
+      (RB por)
+      (RB acaso)
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN em)
+       (IN função)
+       (IN de_)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS instrumentos)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB usamos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

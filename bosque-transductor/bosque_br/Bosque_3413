@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (DT nosso)
+     (NN protesto)
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN ordem)
+      (ADJP 
+       (JJ moral)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP temos)
+    )
+    (NP 
+     (DT a)
+     (NN obrigação)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB defender)
+       )
+       (ADJP 
+        (CD uma)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (JJ grandes)
+          (NN tradições)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (DT nossa)
+            (NN civilização)
+           )
+          )
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP é)
+           )
+           (NP 
+            (DT a)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NN liberdade)
+              (PP 
+               (IN de)
+               (NP 
+                (NN expressão)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

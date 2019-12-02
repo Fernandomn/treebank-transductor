@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Portugal)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB destaca)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NNS negativa)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (RB apenas)
+      (NP 
+       (DT um)
+       (NNS indicador)
+      )
+     )
+    )
+   )
+  )
+ )
+)

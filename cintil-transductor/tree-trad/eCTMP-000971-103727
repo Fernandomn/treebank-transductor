@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Embora)
+      (S 
+       (NP 
+        (DT essa)
+        (NP 
+         (JJ hipotética)
+         (NNS iniciativa)
+        )
+       )
+       (VP 
+        (VP 
+         (VB fosse)
+         (RB perfeitamente)
+        )
+        (JJ viável)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (DT esse)
+      )
+     )
+     (ADVP 
+      (RB contudo)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS objectivo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ presente)
+        (NNS artigo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

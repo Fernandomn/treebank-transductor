@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN painel)
+   )
+   (VP 
+    (VBP vai)
+    (VB funcionar)
+   )
+   (ADVP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN 8h)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 22h)
+     )
+    )
+   )
+  )
+ )
+)

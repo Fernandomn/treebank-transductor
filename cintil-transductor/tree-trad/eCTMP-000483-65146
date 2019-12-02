@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT este)
+      (NP 
+       (NP 
+        (NNS ajuste)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS contas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS trabalhadores)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS agências)
+          (JJ humanitárias)
+         )
+         (JJ estrangeiras)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB foram)
+     )
+     (VB molestados)
+    )
+   )
+  )
+ )
+)

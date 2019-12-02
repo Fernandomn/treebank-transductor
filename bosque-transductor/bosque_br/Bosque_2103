@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT esse)
+     (NN caso)
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Caetité)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP chega)
+   )
+   (PP 
+    (IN a)
+    (ADJP 
+     (CD 14)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN número)
+    (PP 
+     (IN de)
+     (NP 
+      (NN linchamentos)
+      (VP 
+       (VP 
+        (VBN registrados)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Bahia)
+        )
+       )
+       (PP 
+        (IN desde)
+        (NP 
+         (DT o)
+         (NN início)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT este)
+           (NN ano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

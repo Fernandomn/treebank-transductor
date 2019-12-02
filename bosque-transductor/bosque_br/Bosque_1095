@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Metáforas)
+    (PP 
+     (IN em)
+     (NP 
+      (NN política)
+     )
+    )
+   )
+   (ADVP 
+    (RB quase)
+    (RB sempre)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ burras)
+   )
+   (VP 
+    (ADVP 
+     (IN de+)
+     (RB aí)
+    )
+    (NP 
+     (DT tantos)
+     (NP 
+      (NP 
+       (NN psicologismos)
+      )
+      (NP 
+       (NN antropologismos)
+      )
+      (NP 
+       (NN literatices)
+      )
+     )
+    )
+   )
+  )
+ )
+)

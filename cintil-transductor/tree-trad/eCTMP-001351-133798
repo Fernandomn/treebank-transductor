@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS PS)
+  )
+  (VP 
+   (VB recorre)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Tribunal)
+      (NNS de)
+      (NNS Contas)
+     )
+    )
+   )
+  )
+ )
+)

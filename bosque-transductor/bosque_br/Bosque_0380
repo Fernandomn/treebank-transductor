@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN resultado)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT um)
+     (NN francês)
+     (NP 
+      (NNP Jean-François_Champollion)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB só)
+       )
+       (VP 
+        (VBP visitou)
+       )
+       (NP 
+        (DT o)
+        (NNP Egito)
+       )
+       (PP 
+        (IN em)
+        (ADJP 
+         (CD 1828)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (NN primeiro)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB decifrar)
+      )
+      (NP 
+       (DT os)
+       (NN hieroglifos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

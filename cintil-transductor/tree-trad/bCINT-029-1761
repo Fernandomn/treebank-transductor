@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Rufus)
+       (NNS Reid)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Akira)
+        (NNS Tana)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS co-líderes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS banda)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB conhecem)
+     (NP 
+      (DT a)
+      (NNS casa)
+     )
+    )
+   )
+  )
+ )
+)

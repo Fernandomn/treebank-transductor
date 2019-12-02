@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Coordenadoria_Especial_da_Mulher)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Londrina)
+      (NP 
+       (NNP PR)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP promove)
+   )
+   (NP 
+    (NN debate)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 20h30)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Catuaí_Shopping_Center)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN sexóloga)
+       (NP 
+        (NNP Marta_Suplicy)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

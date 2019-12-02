@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Gilmar)
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (VP 
+     (VB votar)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN senador)
+      (NP 
+       (NNP Esperidião_Amin)
+      )
+      (NP 
+       (NNP PPR-SC)
+      )
+     )
+    )
+   )
+  )
+ )
+)

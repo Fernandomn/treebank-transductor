@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS nome)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS número)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS tropa)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (CD 25)
+      )
+     )
+    )
+   )
+  )
+ )
+)

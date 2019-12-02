@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS líderes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Igreja)
+        (NNS Católica)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB criticaram)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS atitude)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Presidente)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS condenação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NNS saques)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

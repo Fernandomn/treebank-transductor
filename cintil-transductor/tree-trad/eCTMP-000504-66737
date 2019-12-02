@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS previsões)
+        (JJ económicas)
+       )
+       (ADJP 
+        (RB ontem)
+        (VB divulgadas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (JJ grande)
+      (NNS novidade)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ressurgimento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS motor)
+          (JJ alemão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

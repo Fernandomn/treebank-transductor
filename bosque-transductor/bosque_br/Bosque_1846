@@ -1,0 +1,52 @@
+(
+ (S 
+  (NP 
+   (NN Testes)
+   (ADJP 
+    (ADJP 
+     (JJ periódicos)
+    )
+    e
+    (ADJP 
+     (JJ aleatórios)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN funcionários)
+     (PP 
+      (RB principalmente)
+      (IN com)
+      (NP 
+       (DT os)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP exercem)
+        )
+        (NP 
+         (NN funções)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NN risco)
+           )
+           e
+           (NP 
+            (NN confiança)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

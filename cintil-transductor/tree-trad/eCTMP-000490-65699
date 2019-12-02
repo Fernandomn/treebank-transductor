@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (CD Trinta)
+      (CD mil)
+     )
+     (NNS homens)
+    )
+    (VP 
+     (VB fazem)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS policiamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS cidade)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT os)
+       (NNS hotéis)
+      )
+      (VP 
+       (VB estão)
+       (ADJP 
+        (VB esgotados)
+       )
+      )
+     )
+     (S 
+      (S 
+       (NP 
+        (DT a)
+        (NNS temperatura)
+       )
+       (VP 
+        (VB ronda)
+        (NP 
+         (DT os)
+         (NP 
+          (CD 40)
+          (NNS graus)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

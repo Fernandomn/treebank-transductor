@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Apoiaram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS redução)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS impostos)
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (NP 
+          (NNS níveis)
+          (JJ justos)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

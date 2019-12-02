@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Devo)
+     (VB fingir)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP enxergo)
+     )
+     (NP 
+      (DT a)
+      (NN figura)
+     )
+    )
+   )
+   (CC ou)
+   (VP 
+    (VP 
+     (VP 
+      (VBP sento)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN margens)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Rio_Piedra)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP choro)
+     )
+    )
+   )
+  )
+ )
+)

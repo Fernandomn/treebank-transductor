@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Os)
+     (NN brasileiros)
+    )
+    (VP 
+     (VBP escolhem)
+    )
+    (NP 
+     (NNP Cardoso)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (NN título)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN página)
+    )
+   )
+  )
+ )
+)

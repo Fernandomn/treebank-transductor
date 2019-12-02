@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NNP Alemanha)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN obra)
+   )
+   (VP 
+    (VBP ficaria)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Casa_da_Cultura_dos_Povos)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Berlim)
+    )
+   )
+  )
+ )
+)

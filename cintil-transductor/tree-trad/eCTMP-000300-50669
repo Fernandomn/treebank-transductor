@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB é)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS livro)
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (PRP quem)
+        )
+        (S 
+         (VP 
+          (VB tem)
+          (NP 
+           (NP 
+            (NP 
+             (NNS ideias)
+             (JJ pré-concebidas)
+            )
+            (PP 
+             (IN sobre)
+             (NP 
+              (NNS educação)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

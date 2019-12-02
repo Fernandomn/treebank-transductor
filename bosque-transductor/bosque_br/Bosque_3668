@@ -1,0 +1,99 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN questões)
+    (VP 
+     (VP 
+      (VBN colocadas)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN body_art)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN anos)
+       (ADJP 
+        (CD 60)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN retomadas)
+   )
+   (ADVP 
+    (RB agora)
+   )
+   (SBAR como
+    (S 
+     (NN reflexão)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT uma)
+       (NN realidade)
+       (VP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (NP 
+         (DT os)
+         (NN corpos)
+        )
+        (VP 
+         (VBP estão)
+        )
+        (VP 
+         (VP 
+          (VBN submetidos)
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (DT um)
+           (NN trabalho)
+           (PP 
+            (IN de)
+            (NP 
+             (NN transformação)
+            )
+           )
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (VP 
+             (VBP realça)
+            )
+            (NP 
+             (DT o)
+             (NN sentido)
+             (ADJP 
+              (JJ trágico)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

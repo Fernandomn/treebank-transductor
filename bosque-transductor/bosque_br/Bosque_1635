@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Rosa)
+     (NP 
+      (NP 
+       (NP 
+        (NN nutricionista)
+       )
+       e
+       (NP 
+        (NN professora)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP PUC)
+        (PP 
+         (IN de)
+         (NP 
+          (NN Campinas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN junto_com)
+    (NP 
+     (DT os)
+     (NN alimentos)
+    )
+   )
+   (VP 
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP ingerem)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP digerem)
+     )
+     (NP 
+      (NN afetos)
+     )
+    )
+   )
+  )
+ )
+)

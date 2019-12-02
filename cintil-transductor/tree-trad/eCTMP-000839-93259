@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (CD dois)
+       (NNS anos)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB vi)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS média)
+        (PP 
+         (IN de)
+         (NP 
+          (CD quatro)
+          (NNS filmes)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNS dia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

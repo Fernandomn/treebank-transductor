@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS chave)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NNS problema)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB reside)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS norma)
+     )
+    )
+   )
+  )
+ )
+)

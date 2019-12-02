@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS portugueses)
+    )
+    (VP 
+     (VB marcaram)
+     (NP 
+      (CD sete)
+      (NNS golos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB sofreram)
+      (NP 
+       (CD 11)
+      )
+     )
+    )
+   )
+  )
+ )
+)

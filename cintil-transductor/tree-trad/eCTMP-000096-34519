@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Este)
+     (NNS trabalho)
+    )
+    (VP 
+     (VB é)
+     (VP 
+      (VB dirigido)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS professor)
+         (NP 
+          (NNS Jorge)
+          (NNS Negreiros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB vai)
+      (VP 
+       (VB começar)
+       (PP 
+        (IN a)
+        (VP 
+         (VP 
+          (VB ser)
+          (VB efectuado)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Outubro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

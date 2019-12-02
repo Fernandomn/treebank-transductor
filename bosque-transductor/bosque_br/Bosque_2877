@@ -1,0 +1,20 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN melodia)
+    (ADJP 
+     (JJ melancólica)
+    )
+   )
+   (VP 
+    (VBP emoldura)
+   )
+   (NP 
+    (DT a)
+    (NN canção)
+   )
+  )
+ )
+)

@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB Como)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT um)
+      (JJ grandioso)
+      (NN mea_culpa)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (JJ últimos)
+    (NN filmes)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (NNP Eastwood)
+     )
+     (VP 
+      (VBP dirigiu)
+     )
+    )
+    (NP 
+     (NP 
+      (NNP Os_Imperdoáveis)
+     )
+     e
+     (NP 
+      (NNP Um_Mundo_Perfeito)
+     )
+    )
+   )
+   (VP 
+    (VBP apontam)
+   )
+   (ADVP 
+    (RB justamente)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT uma)
+     (NN crise)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN herói)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN autoridade)
+        (ADJP 
+         (JJ restauradora)
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN integridade)
+        (ADJP 
+         (JJ monolítica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

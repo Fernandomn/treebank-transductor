@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Desempregados)
+  )
+  (VP 
+   (VP 
+    (VB têm)
+    (NP 
+     (NNS prioridade)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS formação)
+    )
+   )
+  )
+ )
+)

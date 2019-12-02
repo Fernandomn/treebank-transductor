@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Lei)
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP proíbe)
+   )
+   (NP 
+    (DT a)
+    (NN gravidez)
+    (NP 
+     (NN pós-menopausa)
+    )
+   )
+  )
+ )
+)

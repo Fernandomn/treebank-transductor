@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT a)
+    (NN União)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN limite)
+    )
+   )
+   (PP 
+    (IN em_termos_de)
+    (NP 
+     (NN desgravação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN exportações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

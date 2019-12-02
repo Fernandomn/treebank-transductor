@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (CD último)
+     (NNS tema)
+    )
+   )
+   (VP 
+    (VP 
+     (VB constituiu)
+     (ADVP 
+      (RB talvez)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NP 
+        (NNS tour)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS force)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS octeto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

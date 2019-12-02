@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (RB Só)
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ ousados)
+      )
+     )
+    )
+    (VP 
+     (VB poderão)
+     (VP 
+      (VB duvidar)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS vitória)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS CDS)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

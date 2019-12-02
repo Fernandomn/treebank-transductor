@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Após)
+     (NP 
+      (DT a)
+      (NNS visita)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS comitiva)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS primeiro-ministro)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NP 
+        (JJ restantes)
+        (NP 
+         (NNS convidados)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Lisgráfica)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB almoçaram)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS empresa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

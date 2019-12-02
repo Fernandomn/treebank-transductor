@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS jovens)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Nicola)
+      (NNS Pende)
+     )
+    )
+   )
+   (VP 
+    (VB acorda)
+    (PP 
+     (IN com)
+     (NP 
+      (DT um)
+      (NNS grito)
+     )
+    )
+   )
+  )
+ )
+)

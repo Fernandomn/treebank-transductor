@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foram)
+    (VB relatadas)
+   )
+   (NP 
+    (PRP várias)
+    (NP 
+     (NNS execuções)
+     (PP 
+      (PP 
+       (IN a_)
+       (IN o)
+       (IN longo)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS rio)
+        (NNS Jadar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

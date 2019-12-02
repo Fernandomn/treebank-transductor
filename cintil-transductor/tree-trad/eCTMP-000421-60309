@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Toni)
+  )
+  (VP 
+   (VB abandona)
+   (NP 
+    (NP 
+     (NNS Sevilha)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS futebol)
+       (JJ espanhol)
+      )
+     )
+    )
+   )
+  )
+ )
+)

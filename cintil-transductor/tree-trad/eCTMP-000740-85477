@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS dia-a-dia)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS trabalho)
+    )
+    (VP 
+     (VB obedece)
+     (PP 
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NP 
+         (JJ certa)
+         (NNS disciplina)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a)
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS plano)
+           (JJ semestral)
+          )
+          (ADJP 
+           (RB previamente)
+           (VB delineado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP dirigia)
+   )
+   (ADJP 
+    (JJ sozinho)
+   )
+   (NP 
+    (DT um)
+    (NNP Santana)
+    (ADJP 
+     (CD 90)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ alta)
+     (NN velocidade)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP avenida_do_Estado)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Cambuci)
+     (NP 
+      (NN região)
+      (ADJP 
+       (JJ central)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (ADVP 
+     (RB provavelmente)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP perdeu)
+      )
+      (NP 
+       (DT o)
+       (NN controle)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN carro)
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP bateu)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT um)
+        (NN poste)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (RB então)
+     (VP 
+      (VB queria)
+      (VP 
+       (VB vir)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS América)
+          (CONJP 
+           (CONJP 
+            (RB onde)
+            (S 
+             (NP 
+              (DT as)
+              (NNS pessoas)
+             )
+             (VP 
+              (VP 
+               (VB eram)
+               (ADJP 
+                (JJ bonitas)
+                (ADJP 
+                 (CC e)
+                 (JJ ricas)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

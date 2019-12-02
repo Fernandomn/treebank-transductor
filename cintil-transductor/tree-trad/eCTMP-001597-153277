@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jean-Luc)
+    (NNS Dehaene)
+   )
+  )
+  (VP 
+   (VP 
+    (VB ganha)
+    (NP 
+     (NNS avanço)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS corrida)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS sucessão)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Delors)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

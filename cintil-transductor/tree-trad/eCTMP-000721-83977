@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (PP 
+      (IN Com)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS conversa)
+        (ADJP 
+         (RB muito)
+         (VB segredada)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS RTP)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Freitas)
+      (NNS Cruz)
+     )
+    )
+   )
+  )
+ )
+)

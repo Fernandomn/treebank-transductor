@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Volpi)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (ADJP 
+      (RB mais)
+      (JJ influentes)
+     )
+     (NN pintores)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN país)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para_além_de+)
+    (NP 
+     (DT a)
+     (NN questão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN autonomia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (NNS momento)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB analisam)
+      (NP 
+       (DT o)
+       (NNS relatório)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB prometem)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS continuação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS guerra)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS início)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Setembro)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

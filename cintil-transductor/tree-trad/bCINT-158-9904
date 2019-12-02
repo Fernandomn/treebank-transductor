@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS luta)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB vive)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS função)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS Jogos)
+          (NNS Olímpicos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

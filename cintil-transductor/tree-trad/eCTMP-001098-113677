@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS nível)
+     (ADJP 
+      (ADJP 
+       (VB atingido)
+       (RB logo)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD primeiro)
+         (NNS concerto)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (JJ excelente)
+    )
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS melhor)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (S 
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB tem)
+           )
+           (VP 
+            (VB conseguido)
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (PP nosso)
+             (NNS país)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

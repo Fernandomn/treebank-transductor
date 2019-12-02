@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Parece)
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB prestar)
+      )
+      (NP 
+       (NNS atenção)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (NP 
+             (PRP lhe)
+            )
+            (VB dizemos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

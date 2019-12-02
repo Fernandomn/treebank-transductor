@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Clara)
+   )
+   (VP 
+    (ADVP 
+     (RB muito)
+     (RB humildemente)
+    )
+    (VP 
+     (NP 
+      (PRP o)
+     )
+     (VB salientou)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NN lojista)
+    )
+   )
+   (NP 
+    (DT a)
+    (JJ nova)
+    (NN modalidade)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP traz)
+   )
+   (NP 
+    (NN mudança)
+    (NP 
+     (DT alguma)
+    )
+   )
+  )
+ )
+)

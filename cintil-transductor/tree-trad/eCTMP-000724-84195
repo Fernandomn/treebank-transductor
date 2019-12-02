@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Figura)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Culto)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NNS semana)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS António)
+      (NNS Alçada)
+      (NNS Baptista)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Juan_Manuel_Fangio)
+    (NP 
+     (NN sobrinho)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN argentino)
+       (ADJP 
+        (JJ pentacampeão)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Fórmula_1)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG testando)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Califórnia)
+    )
+   )
+   (NP 
+    (DT um)
+    (JJ novo)
+    (NN protótipo)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP vai)
+      (VB dar)
+     )
+     (VP 
+      (NP 
+       (PRP o_que)
+      )
+      (VP 
+       (VBP falar)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP Fórmula_Indy)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

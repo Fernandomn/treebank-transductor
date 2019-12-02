@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Comandantes)
+    (ADJP 
+     (JJ militares)
+    )
+   )
+   (VP 
+    (VBP voltaram)
+    (IN a)
+    (VB receber)
+   )
+   (NP 
+    (NN comunicado)
+   )
+   (NP 
+    (DT esta)
+    (NN semana)
+   )
+   (VP 
+    (VP 
+     (VBN destinado)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN tropa)
+     )
+    )
+    (VP 
+     (VP 
+      (VBG dizendo)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NN reajuste)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN soldo)
+        )
+       )
+      )
+      (VP 
+       (VBP sairá)
+      )
+      (NP 
+       (DT este)
+       (NN mês)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS silêncio)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ministro)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB tutela)
+           (NP 
+            (DT a)
+            (NNS exposição)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB agora)
+    )
+    (JJ total)
+   )
+  )
+ )
+)

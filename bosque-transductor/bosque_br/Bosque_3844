@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Até)
+    (NP 
+     (DT as)
+     (NN 17h)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN Prefeitura)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Caraguatatuba)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP havia)
+    (VBN retirado)
+   )
+   (NP 
+    (DT o)
+    (NN golfinho)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN praia)
+    )
+   )
+  )
+ )
+)

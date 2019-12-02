@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Limpam)
+     (NP 
+      (DT a)
+      (NNS boca)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS costas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS mão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

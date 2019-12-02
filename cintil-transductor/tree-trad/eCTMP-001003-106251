@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS cemitério)
+     (NNS de)
+     (NNS Odivelas)
+    )
+   )
+   (VP 
+    (VB atingiu)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ponto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS saturação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

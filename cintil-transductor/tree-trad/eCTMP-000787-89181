@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Joga)
+     (RB bem)
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB marca)
+       (NP 
+        (NNS golos)
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (ADVP 
+         (RB em)
+         (RB suma)
+        )
+        (VP 
+         (VB dá)
+         (NP 
+          (NNS espectáculo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

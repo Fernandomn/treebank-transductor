@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB De_volta)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NNP Rio_de_Janeiro)
+     )
+    )
+   )
+   (NP 
+    (NNP Euclides)
+   )
+   (VP 
+    (VBP preparou)
+   )
+   (NP 
+    (DT alguns)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN mapas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP serviram)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN base)
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NN tratado)
+           (PP 
+            (IN de)
+            (NP 
+             (NN fronteiras)
+             (PP 
+              (IN entre)
+              (NP 
+               (NP 
+                (DT o)
+                (NNP Brasil)
+               )
+               e
+               (NP 
+                (DT o)
+                (NNP Peru)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (RB simplesmente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS organização)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS ritmos)
+          (PP 
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS oferta)
+            )
+           )
+           (PP 
+            (CC e)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS procura)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB deve)
+          (VB existir)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

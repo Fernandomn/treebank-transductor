@@ -1,0 +1,91 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN congresso)
+   )
+   (VP 
+    (VBP é)
+    (VBN dividido)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD três)
+     (NN temas)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN objetivo)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB atender)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN profissionais)
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NN informática)
+           )
+          )
+          (PP 
+           (IN a)
+           (NP 
+            (NP 
+             (NP 
+              (NN executivos)
+             )
+             e
+             (NP 
+              (NN empresários)
+             )
+            )
+            (VP 
+             (VP 
+              (VBN interessados)
+             )
+             (PP 
+              (IN em)
+              (NP 
+               (JJ novas)
+               (NN tecnologias)
+              )
+             )
+             (VP 
+              (VP 
+               (VBG passando)
+              )
+              (PP 
+               (IN por+)
+               (NP 
+                (DT o)
+                (NN usuário)
+                (ADJP 
+                 (JJ final)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

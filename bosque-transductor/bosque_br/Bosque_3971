@@ -1,0 +1,46 @@
+(
+ (S 
+  (NP 
+   (NNP Paula_Toller)
+   (NP 
+    (PRP Isso)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN coisa)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT a)
+      (NN gravadora)
+     )
+     (VP 
+      (VBP vinha)
+      (VBG sugerindo)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN gente)
+      )
+     )
+     (VP 
+      (VP 
+       (VBP há)
+      )
+      (NP 
+       (DT muito)
+       (NN tempo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

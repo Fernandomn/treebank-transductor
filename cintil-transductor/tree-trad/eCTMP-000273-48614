@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS início)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP cada)
+        (NNS temporada)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NNS sonhos)
+     )
+    )
+    (VP 
+     (VB são)
+     (VB permitidos)
+    )
+   )
+  )
+ )
+)

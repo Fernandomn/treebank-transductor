@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Depois)
+    )
+    (VP 
+     (VB seguem)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+   (NP 
+    (CD 45)
+    (NP 
+     (NNS dias)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS apresentação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS projecto)
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (JJ respectiva)
+           (NNS construção)
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB vai)
+             (VP 
+              (VB durar)
+              (NP 
+               (CD 145)
+               (NP 
+                (NNS dias)
+                (JJ úteis)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

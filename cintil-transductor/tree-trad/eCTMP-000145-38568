@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS projectos)
+          (ADJP 
+           (RB mais)
+           (JJ motivantes)
+          )
+         )
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VP 
+              (VB têm)
+              (VB surgido)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NNS Inglaterra)
+              )
+             )
+            )
+            (PP 
+             (IN em_)
+             (NP 
+              (DT os)
+              (NP 
+               (CD últimos)
+               (NNS tempos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

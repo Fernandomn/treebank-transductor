@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Hipótese)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (JJ novo)
+       (NNS encontro)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB está)
+   )
+   (JJ excluída)
+  )
+ )
+)

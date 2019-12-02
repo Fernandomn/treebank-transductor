@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN empréstimos)
+   )
+   (VP 
+    (VBP poderão)
+    (VB ser)
+   )
+   (VP 
+    (VP 
+     (VBN pagos)
+     (PP 
+      (IN em)
+      (NP 
+       (CD 90)
+       (NN dias)
+      )
+     )
+    )
+    e
+    (VP 
+     (VBN prorrogados)
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (DT mesmo)
+       (NN prazo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

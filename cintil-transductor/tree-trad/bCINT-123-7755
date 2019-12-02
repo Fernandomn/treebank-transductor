@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS flagelo)
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB encontrei)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NP 
+              (PP meu)
+              (NNS caminho)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (CONJP 
+        (CC e)
+        (CONJP 
+         (PP 
+          (IN de)
+          (NP 
+           (PRP que)
+          )
+         )
+         (S 
+          (VP 
+           (RB só)
+           (VP 
+            (VB vi)
+            (NP 
+             (DT a)
+             (NP 
+              (NP 
+               (NNS ponta)
+               (JJ emersa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (NP 
+      (NNS nome)
+     )
+    )
+   )
+  )
+ )
+)

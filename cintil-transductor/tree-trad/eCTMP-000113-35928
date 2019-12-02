@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estavam)
+    (ADJP 
+     (VB inscritos)
+    )
+   )
+   (NP 
+    (NP 
+     (RB quase)
+     (NP 
+      (CD 23)
+      (CD mil)
+     )
+    )
+    (NNS alunos)
+   )
+  )
+ )
+)

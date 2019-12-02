@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Antes)
+    (VP 
+     (VB será)
+     (VB exibido)
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS extracto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS filme)
+         (NP 
+          (NP 
+           (NNS Cyrano)
+           (NNS de)
+           (NNS Bergerac)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (NNS Gérard)
+            (NNS Depardieu)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

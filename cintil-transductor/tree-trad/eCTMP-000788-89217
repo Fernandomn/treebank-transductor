@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (NNS livro)
+     (JJ surpreendente)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB surge)
+    )
+    (ADVP 
+     (RB por)
+     (RB acaso)
+    )
+   )
+  )
+ )
+)

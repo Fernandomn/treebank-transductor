@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP meu)
+     (NP 
+      (NNS pai)
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB vive)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Londres)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ natural)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Bombaim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

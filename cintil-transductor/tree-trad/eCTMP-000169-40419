@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (VB começa)
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT as)
+       (NNS latas)
+      )
+      (VP 
+       (VB são)
+       (VP 
+        (VB enviadas)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT as)
+          (NNS distribuidoras)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

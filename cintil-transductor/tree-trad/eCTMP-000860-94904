@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (PP 
+      (PP 
+       (PP 
+        (IN acima)
+        (IN de)
+       )
+       (NP 
+        (PRP tudo)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS conjunto)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VP 
+           (RB não)
+           (VB tem)
+          )
+          (NP 
+           (NP 
+            (NNS soluções)
+            (JJ válidas)
+           )
+          )
+         )
+         (CONJP 
+          (CC quando)
+          (S 
+           (VB falham)
+           (NP 
+            (DT as)
+            (NP 
+             (PP suas)
+             (NP 
+              (NNS unidades)
+              (JJ nucleares)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

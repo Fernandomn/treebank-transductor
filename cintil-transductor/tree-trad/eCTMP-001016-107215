@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS contrapartida)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VB decretar)
+      (NP 
+       (NP 
+        (NNS preços)
+        (ADJP 
+         (VB praticados)
+         (PP 
+          (IN por)
+          (NP 
+           (NP 
+            (NNS empresas)
+            (JJ privadas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

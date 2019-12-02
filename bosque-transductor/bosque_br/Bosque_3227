@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (VP 
+    (VBP estou)
+    (VBG trabalhando)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT as)
+     (JJ principais)
+     (NN figuras)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN vida)
+       (ADJP 
+        (JJ política)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN país)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NN senadores)
+       )
+       e
+       (NP 
+        (NN secretários)
+        (PP 
+         (IN de)
+         (NP 
+          (NN governo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

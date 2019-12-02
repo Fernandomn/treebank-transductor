@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN notícia)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT um)
+     (NN fato)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (NP 
+     (DT um)
+     (NN exercício)
+     (ADJP 
+      (JJ acadêmico)
+     )
+    )
+   )
+  )
+ )
+)

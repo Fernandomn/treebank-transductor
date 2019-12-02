@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Há)
+      (NP 
+       (CD duas)
+       (NNS semanas)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB entregou)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB começou)
+       (PP 
+        (IN a)
+        (VP 
+         (VB contar)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB sabe)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN economista)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN para)
+     (NP 
+      (NN geração)
+      (PP 
+       (IN de)
+       (NP 
+        (NN empregos)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT várias)
+     (NN propostas)
+    )
+    (VP 
+     (VBP terão)
+     (IN que)
+     (VB ser)
+     (VBN analisadas)
+    )
+   )
+  )
+ )
+)

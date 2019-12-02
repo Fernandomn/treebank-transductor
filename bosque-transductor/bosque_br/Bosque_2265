@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ necessário)
+   )
+   (VP 
+    (VP 
+     (VB deslocar-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (ADVP 
+     (RB muito)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN procura)
+      (PP 
+       (IN de)
+       (NP 
+        (NN artigos)
+        (PP 
+         (IN de)
+         (NP 
+          (JJ segunda)
+          (NN mão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

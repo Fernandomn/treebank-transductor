@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Paramos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS manhãzinha)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS estação)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS serviço)
+         )
+        )
+       )
+       (JJ francesa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

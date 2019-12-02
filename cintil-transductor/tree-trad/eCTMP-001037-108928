@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS secretário-geral)
+      (NNS de_)
+      (NNS a)
+      (NNS FIFA)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Sepp)
+      (NNS Blatter)
+     )
+    )
+   )
+   (VP 
+    (VB presidirá)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS inauguração)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS evento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

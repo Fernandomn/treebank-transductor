@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Depois)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS As)
+        (NNS Bacantes)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (JJ novos)
+      (NNS confessionários)
+     )
+    )
+   )
+  )
+ )
+)

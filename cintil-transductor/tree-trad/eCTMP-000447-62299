@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Descoberto)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Espanha)
+    )
+   )
+  )
+  (NP 
+   (DT o)
+   (NP 
+    (NNS resto)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS cadáver)
+     )
+    )
+   )
+  )
+ )
+)

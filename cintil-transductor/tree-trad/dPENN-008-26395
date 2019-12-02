@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS incidente)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB foi)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (JJ única)
+       (NNS circunstância)
+      )
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (DT o)
+         (NNS juiz)
+        )
+        (VP 
+         (VP 
+          (VB recebeu)
+          (NP 
+           (NP 
+            (NP 
+             (NNS tratamento)
+             (JJ especial)
+            )
+            (PP 
+             (IN por)
+             (NP 
+              (NP 
+               (NNS parte)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NP 
+                  (PP seu)
+                  (NP 
+                   (NNS banco)
+                   (JJ local)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

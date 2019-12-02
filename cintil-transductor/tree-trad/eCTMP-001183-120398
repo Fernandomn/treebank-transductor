@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Incerto)
+   )
+   (S 
+    (VP 
+     (VB continua)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS destino)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Najibullah)
+        )
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Presidente)
+           (JJ deposto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

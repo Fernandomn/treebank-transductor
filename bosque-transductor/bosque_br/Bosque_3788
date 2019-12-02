@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (DT sua)
+     (NN administração)
+    )
+   )
+   (VP 
+    (VBP executou)
+   )
+   (NP 
+    (DT um)
+    (NN plano)
+    (ADJP 
+     (JJ viário)
+    )
+    (PP 
+     (IN com)
+     (VP 
+      (NP 
+       (JJ largas)
+       (NN avenidas)
+      )
+      (VP 
+       (VBG interligando)
+      )
+      (NP 
+       (DT os)
+       (NN bairros)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP provocaram)
+        )
+        (NP 
+         (DT um)
+         (NN boom)
+         (ADJP 
+          (JJ imobiliário)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

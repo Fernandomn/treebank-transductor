@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Zanini)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP está)
+     (VBG preparando)
+    )
+    (NP 
+     (DT a)
+     (NN fundação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (JJ novo)
+       (NN partido)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP trará)
+        )
+        (ADVP 
+         (RB explícito)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (DT seu)
+          (NN programa)
+         )
+        )
+        (NP 
+         (DT a)
+         (NN ressalva)
+         (PP 
+          (IN de)
+          (VP 
+           (PRP que)
+           (VP 
+            (VBP é)
+           )
+           (PP 
+            (IN contra)
+            (NP 
+             (DT o)
+             (NN racismo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

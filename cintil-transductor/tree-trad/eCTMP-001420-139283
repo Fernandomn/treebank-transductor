@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ mesma)
+     (NNS urgência)
+    )
+   )
+   (VP 
+    (VB contaminou)
+    (NP 
+     (NP 
+      (DT as)
+      (NP 
+       (NNS companhias)
+       (JJ ocidentais)
+      )
+     )
+     (NP 
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NNS gigantes)
+         (JJ empresariais)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS sedes)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS capital)
+              (JJ indonésia)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (JJ segundo)
+     (NN semestre)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN concurso)
+   )
+   (VP 
+    (VBP escolherá)
+   )
+   (NP 
+    (CD um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT estes)
+      (NN profissionais)
+      (ADJP 
+       (JJ responsáveis)
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NN serviço)
+         (PP 
+          (IN de)
+          (NP 
+           (NN vinhos)
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT um)
+           (NN restaurante)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB representar)
+     )
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN concurso)
+       (ADJP 
+        (JJ mundial)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Japão)
+      )
+     )
+     (PP 
+      (IN em)
+      (ADJP 
+       (CD 95)
+      )
+     )
+    )
+   )
+  )
+ )
+)

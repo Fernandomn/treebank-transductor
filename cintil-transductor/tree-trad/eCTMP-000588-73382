@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS aulas)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS língua)
+          (JJ portuguesa)
+         )
+        )
+       )
+      )
+      (ADJP 
+       (VB dadas)
+       (PP 
+        (IN a)
+        (NP 
+         (NP 
+          (NNS filhos)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS emigrantes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Carmelita_Aralse_Teb)
+    (ADJP 
+     (CD 89)
+    )
+    (NP 
+     (NN moradora)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ oitavo)
+       (NN andar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP passou)
+     )
+     (ADVP 
+      (RB mal)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN fumaça)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP teve)
+      (IN de)
+      (VB ser)
+      (VBN carregada)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT as)
+       (NN escadas)
+      )
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (DT uma)
+       (NN ambulância)
+      )
+     )
+    )
+   )
+  )
+ )
+)

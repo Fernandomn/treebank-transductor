@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS autor)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT a)
+      (NNS obra)
+     )
+    )
+   )
+   (VP 
+    (VB serão)
+    (VP 
+     (VB apresentados)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS José)
+         (NNS Carlos)
+         (NNS Seabra)
+         (NNS Pereira)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS professor)
+         (NNS de_)
+         (NNS a)
+         (NNS Faculdade)
+         (NNS de)
+         (NNS Letras)
+         (NNS de_)
+         (NNS a)
+         (NNS Universidade)
+         (NNS de)
+         (NNS Coimbra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

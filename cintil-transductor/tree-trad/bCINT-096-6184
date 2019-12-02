@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Vítor)
+      (NNS Baía)
+     )
+    )
+    (VP 
+     (VP 
+      (VB recuperou)
+      (NP 
+       (DT a)
+       (NNS credibilidade)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS intervenções)
+        (JJ decisivas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NNS Couto)
+     )
+     (VP 
+      (VB justificou)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS confiança)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Robson)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

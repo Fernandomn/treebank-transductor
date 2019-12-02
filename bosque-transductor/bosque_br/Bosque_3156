@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT os)
+    (NN anos)
+    (VP 
+     (PP 
+      (IN em)
+      (NP 
+       (PRP que)
+      )
+     )
+     (NP 
+      (NNP Elvis)
+     )
+     (VP 
+      (VBP deixou)
+      (IN de)
+      (VB ser)
+     )
+     (NP 
+      (DT o)
+      (NN rei)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN rock'n'roll)
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB tornar-)
+       )
+       (NP 
+        (PRP se)
+       )
+       (NP 
+        (DT o)
+        (NN símbolo)
+        (ADJP 
+         (NP pré-fabricado)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NN geração)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP sonhava)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (NP 
+              (NNP Honolulu)
+             )
+             e
+             (NP 
+              (NN pracinhas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

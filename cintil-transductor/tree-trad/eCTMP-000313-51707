@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS almoço)
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Bombarral)
+      )
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS restaurante)
+         (NP 
+          (NNS O)
+          (NNS Portão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

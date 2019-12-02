@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS notícia)
+     (ADJP 
+      (ADJP 
+       (ADJP 
+        (VB dada)
+        (RB anteontem)
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS semanário)
+           (JJ britânico)
+          )
+          (NP 
+           (NP 
+            (NNS The)
+            (NNS Sunday)
+            (NNS Times)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB marca)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS estreia)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS domínio)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS dinossaurologia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

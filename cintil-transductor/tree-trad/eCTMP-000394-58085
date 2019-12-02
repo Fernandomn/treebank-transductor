@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD três)
+        (NP 
+         (NNS ocupantes)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS helicóptero)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VB morto)
+   )
+  )
+ )
+)

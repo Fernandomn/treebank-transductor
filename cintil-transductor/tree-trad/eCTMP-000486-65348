@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS jornal)
+     (JJ parisiense)
+    )
+   )
+   (VP 
+    (VB cita)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Henning)
+       (NNS Cristophersen)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS comissário)
+        (JJ europeu)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS questões)
+          (ADJP 
+           (JJ económicas)
+           (ADJP 
+            (CC e)
+            (JJ financeiras)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

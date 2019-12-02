@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (CD duas)
+        (NNS semanas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS TV)
+      (NNS Cabo)
+     )
+    )
+    (VP 
+     (VB chegou)
+     (PP 
+      (IN a)
+      (NP 
+       (NNS Espinho)
+      )
+     )
+    )
+   )
+  )
+ )
+)

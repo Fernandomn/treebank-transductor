@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VB vou)
+     (VP 
+      (VB velejar)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS Estados)
+         (NNS Unidos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Pago)
+   )
+   (NP 
+    (NN CR$)
+    (ADJP 
+     (CD 1.000)
+    )
+   )
+   (VP 
+    (PP 
+     (IN pra)
+     (NP 
+      (PRP quem)
+     )
+    )
+    (VP 
+     (VBP assistir)
+    )
+    (NP 
+     (DT o)
+     (NN vídeo)
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (DT o)
+      (NN fim)
+     )
+    )
+   )
+  )
+ )
+)

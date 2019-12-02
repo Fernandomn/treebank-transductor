@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (ADJP 
+      (RB pouco)
+      (JJ afortunado)
+     )
+     (NNS Finkel)
+    )
+   )
+   (VP 
+    (VB foi)
+    (ADJP 
+     (RB mais)
+     (JJ duro)
+    )
+   )
+  )
+ )
+)

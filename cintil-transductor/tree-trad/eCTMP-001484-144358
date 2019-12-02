@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Teve)
+    (NP 
+     (NP 
+      (NNS pais)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB queriam)
+         (CONJP 
+          (CC que)
+          (S 
+           (NP 
+            (DT o)
+            (NNS filho)
+           )
+           (VP 
+            (VB fosse)
+            (NP 
+             (NNS advogado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PSD)
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Seruca)
+       (NNS Emídio)
+      )
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS médico)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Louletano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

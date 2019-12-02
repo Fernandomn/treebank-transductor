@@ -1,0 +1,17 @@
+(
+ (S 
+  (NP 
+   (NNS Dólar)
+  )
+  (VP 
+   (VB desce)
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NNS marco)
+    )
+   )
+  )
+ )
+)

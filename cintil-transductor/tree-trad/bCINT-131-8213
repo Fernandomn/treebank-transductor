@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS autoridades)
+   )
+   (VP 
+    (VP 
+     (VB desconhecem)
+     (RB ainda)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS local)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS proveniência)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS morteiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

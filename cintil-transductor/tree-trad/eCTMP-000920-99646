@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Vítor)
+     (NNS Moreira)
+    )
+   )
+   (VP 
+    (VP 
+     (VB resume)
+     (NP 
+      (PRP tudo)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NNS frase)
+     )
+    )
+   )
+  )
+ )
+)

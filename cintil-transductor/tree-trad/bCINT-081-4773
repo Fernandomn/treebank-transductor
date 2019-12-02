@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS TVI)
+   )
+   (VP 
+    (VP 
+     (VB estreia)
+     (RB amanhã)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (JJ nova)
+        (NNS grelha)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (CD quarta)
+        (NP 
+         (NNS opção)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Carlos)
+            (NNS Cruz)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

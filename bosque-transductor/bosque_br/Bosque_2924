@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VBP prevê)
+    )
+    (ADVP 
+     (RB contudo)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN mercado)
+      (ADJP 
+       (JJ acionário)
+      )
+     )
+     (VP 
+      (VBP crescerá)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT a)
+     (NN custódia)
+     (PP 
+      (IN de)
+      (NP 
+       (NN ações)
+       (PP 
+        (IN de)
+        (NP 
+         (NN investidores)
+         (ADJP 
+          (JJ estrangeiros)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN instituição)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP chegará)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 5.5)
+       (NN bilhões)
+      )
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN final)
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 1995)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

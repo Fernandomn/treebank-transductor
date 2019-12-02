@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Falámos)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS caça)
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS sócios)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS assuntos)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS homens)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

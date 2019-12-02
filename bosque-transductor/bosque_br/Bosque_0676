@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (ADJP 
+     (DT os)
+     (CD dois)
+    )
+    (VP 
+     (VBP acertavam)
+    )
+    (ADJP 
+     (VBN juntos)
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Bonequinha_de_Luxo)
+    )
+    (NP 
+     (NNP Vício_Maldito)
+    )
+    (NP 
+     (NNP A_Pantera_Cor-de-Rosa)
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT uma)
+    (NN festa)
+    (PP 
+     (IN para)
+     (NP 
+      (DT todos)
+      (DT os)
+      (NN sentidos)
+     )
+    )
+   )
+  )
+ )
+)

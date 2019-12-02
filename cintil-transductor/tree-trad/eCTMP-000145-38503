@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB também)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS parecer)
+      (ADJP 
+       (VB divulgado)
+       (PP 
+        (IN por)
+        (NP 
+         (DT outros)
+         (NP 
+          (NP 
+           (NNS técnicos)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS armamento)
+            )
+           )
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (RB anteriormente)
+             (VP 
+              (RB já)
+              (VP 
+               (VB haviam)
+               (VB deposto)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,19 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB comunicou)
+    (PP 
+     (IN por)
+     (NP 
+      (NNS telefone)
+     )
+    )
+   )
+  )
+ )
+)

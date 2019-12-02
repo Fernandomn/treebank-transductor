@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB construir)
+     )
+     (NP 
+      (DT o)
+      (NN ambiente)
+      (ADJP 
+       (JJ futurista)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN filme)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Godard)
+   )
+   (VP 
+    (VBP recorreu)
+   )
+   (ADVP 
+    (RB quase)
+    (RB que)
+   )
+   (ADVP 
+    (RB totalmente)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN fotografia)
+    )
+   )
+  )
+ )
+)

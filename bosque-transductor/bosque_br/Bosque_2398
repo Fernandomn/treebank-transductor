@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN partido)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Rio)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Sá_Freire)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN pedido)
+     (PP 
+      (IN de)
+      (NP 
+       (NN cassação)
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+     (VBN feito)
+    )
+    (VP 
+     (IN porque)
+     (NP 
+      (NNP Walter_Queiroz)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP teria)
+      (VBN comparecido)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN reuniões)
+       (VP 
+        (VP 
+         (VBN marcadas)
+        )
+        (PP 
+         (IN para)
+         (VP 
+          (IN que)
+          (NP 
+           (PRP ele)
+          )
+          (VP 
+           (VBP explicasse)
+          )
+          (NP 
+           (DT sua)
+           (JJ nova)
+           (NN declaração)
+           (PP 
+            (IN de)
+            (NP 
+             (NN renda)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

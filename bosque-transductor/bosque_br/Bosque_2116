@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD 33)
+    (NN dias)
+   )
+   (VP 
+    (VBP serão)
+    (VBN completados)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN segunda-feira)
+     (NP 
+      (NN dia)
+      (PP 
+       (IN de)
+       (NP 
+        (NN eleição)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sem)
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN vereadores)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Câmara)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VBP votem)
+     )
+     (NP 
+      (DT algum)
+      (NN projeto)
+      (ADJP 
+       (JJ importante)
+      )
+     )
+    )
+   )
+  )
+ )
+)

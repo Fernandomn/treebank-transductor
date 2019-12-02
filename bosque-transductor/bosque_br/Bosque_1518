@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Mesma)
+    (NN tendência)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (DT o)
+    (NN custo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN cesta)
+      (ADJP 
+       (JJ básica)
+      )
+      (VP 
+       (VP 
+        (VBN pesquisado)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NNP Procon)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN convênio)
+         (PP 
+          (IN com)
+          (NP 
+           (DT o)
+           (NNP Dieese)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

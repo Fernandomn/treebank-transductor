@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (VP 
+         (VB queres)
+         (RB mesmo)
+        )
+        (VB estudar)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB terás)
+     (NP 
+      (PRP todo)
+      (NP 
+       (DT o)
+       (NP 
+        (PP meu)
+        (NNS apoio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

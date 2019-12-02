@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB ainda)
+        (VP 
+         (VB tinham)
+         (NP 
+          (NNS dúvidas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB desfizeram)
+    (NP 
+     (PRP -nas)
+    )
+   )
+  )
+ )
+)

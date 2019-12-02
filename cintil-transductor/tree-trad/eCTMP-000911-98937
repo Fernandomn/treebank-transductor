@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP seu)
+     (NNS titular)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT a)
+      (NNS Candil)
+     )
+     (NP 
+      (NP 
+       (NNS empresa)
+       (CONJP 
+        (PP 
+         (IN de)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (VP 
+          (VB é)
+          (NP 
+           (NP 
+            (NNS sócio)
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (NP 
+            (NNS Alberto)
+            (NNS Romano)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS filho)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Jacques)
+               (NNS Asser)
+               (NNS Romano)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

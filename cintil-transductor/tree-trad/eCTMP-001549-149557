@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (ADJP 
+      (RB mais)
+      (ADJP 
+       (JJ importante)
+       (PP 
+        (IN para)
+        (NP 
+         (PRP mim)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB são)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS horas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ensaios)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS trabalho)
+          (JJ humilde)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

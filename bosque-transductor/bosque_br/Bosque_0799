@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+    (NN proposta)
+   )
+   (VP 
+    (VBP permitiria)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+   )
+   (VP 
+    (VP 
+     (VB negociar)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN posição)
+      (ADJP 
+       (JJ favorável)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN resgate)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN títulos)
+       (ADJP 
+        (JJ públicos)
+       )
+      )
+     )
+    )
+    (VP 
+     (IN já_que)
+     (NP 
+      (DT o)
+      (NN programa)
+     )
+     (VP 
+      (VBP admite)
+     )
+     (NP 
+      (DT o)
+      (NN não-pagamento)
+      (ADJP 
+       (JJ parcial)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN dívida)
+        (VP 
+         (VP 
+          (VBN assegurada)
+         )
+         (NP 
+          (DT a)
+          (NN poupança)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

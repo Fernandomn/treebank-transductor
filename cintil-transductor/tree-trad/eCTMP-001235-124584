@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Uma)
+     (NP 
+      (NP 
+       (NNS banda)
+       (JJ sonora)
+      )
+      (JJ lindíssima)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB composta)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Jan)
+        (NNS Tolf)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

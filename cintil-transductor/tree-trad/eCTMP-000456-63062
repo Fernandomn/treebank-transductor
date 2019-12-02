@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Obtiveram)
+    (NP 
+     (NP 
+      (NP 
+       (CD 9,1)
+       (NP 
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS votos)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (CD sete)
+       (NNS mandatos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

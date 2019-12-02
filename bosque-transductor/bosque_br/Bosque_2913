@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Nenhum)
+    (NN dirigente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PMDB)
+     )
+    )
+   )
+   (VP 
+    (VBP compareceu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN cerimônia)
+     (PP 
+      (IN de)
+      (NP 
+       (NN instalação)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Instituto_Ulysses_Guimarães_de_Estudos_Políticos_e_Sociais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

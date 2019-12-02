@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Criminalidade)
+   )
+   (VB estabiliza)
+  )
+  (S 
+   (CC e)
+   (S 
+    (NP 
+     (NNS VCI)
+    )
+    (VP 
+     (VB lidera)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NNS acidentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

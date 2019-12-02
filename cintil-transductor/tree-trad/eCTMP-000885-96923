@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Durão)
+    (NNS Barroso)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Palácio)
+      (NNS de_)
+      (NNS o)
+      (NNS Povo)
+     )
+    )
+   )
+  )
+ )
+)

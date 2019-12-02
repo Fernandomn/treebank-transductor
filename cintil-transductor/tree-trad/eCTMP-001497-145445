@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS transição)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS crianças)
+         (JJ índias)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNS cidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB quase)
+      (RB sempre)
+     )
+    )
+    (JJ difícil)
+   )
+  )
+ )
+)

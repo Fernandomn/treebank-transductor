@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (VB havia)
+        (NP 
+         (NNS conflito)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB agora)
+     (VP 
+      (VB é)
+      (JJ declarado)
+     )
+    )
+   )
+  )
+ )
+)

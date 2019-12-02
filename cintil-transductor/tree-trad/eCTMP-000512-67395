@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ana)
+    (NNS Barros)
+   )
+  )
+  (VP 
+   (VB fora)
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NNS corrida)
+    )
+   )
+  )
+ )
+)

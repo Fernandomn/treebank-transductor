@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (NP 
+    (NNP Vail)
+   )
+   (VP 
+    (VBP oferece)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT outras)
+     (NN coisas)
+    )
+   )
+   (NP 
+    (NN espetáculos)
+   )
+   (PP 
+    (IN ao_longo_de+)
+    (NP 
+     (DT o)
+     (NN verão)
+    )
+   )
+   (NP 
+    (VP 
+     (VP 
+      (VBN realizados)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT um)
+       (NN anfiteatro)
+       (VBN aberto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

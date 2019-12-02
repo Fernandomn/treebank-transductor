@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Aterro)
+    (JJ sanitário)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB ficar)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS freguesia)
+       (NNS de)
+       (NNS Atiães)
+      )
+     )
+    )
+   )
+  )
+ )
+)

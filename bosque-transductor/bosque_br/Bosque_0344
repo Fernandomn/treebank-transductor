@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT O)
+     (NNP Centro_para_Direitos_Econômicos_e_Sociais)
+    )
+    e
+    (NP 
+     (NN médicos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Universidade_Harvard)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP informaram)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NN amostras)
+     (PP 
+      (IN de)
+      (NP 
+       (NN água)
+      )
+     )
+    )
+    (VP 
+     (VBP têm)
+    )
+    (NP 
+     (NN níveis)
+     (PP 
+      (IN entre)
+      (NP 
+       (UCP 
+        (NP 
+         (CD 10)
+        )
+        e
+        (ADJP 
+         (CD 1.000)
+        )
+       )
+       (NN vezes)
+       (ADJP 
+        (JJ maiores)
+        (SBAR que
+         (S 
+          (DT os)
+          (VP 
+           (VP 
+            (VBN recomendados)
+           )
+           (PP 
+            (IN por+)
+            (NP 
+             (DT a)
+             (NNP Agência_de_Proteção_Ambiental)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT os)
+               (NNP EUA)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

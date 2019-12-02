@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Testemunhas)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB ouviram)
+      (RB ainda)
+     )
+     (NP 
+      (NP 
+       (NNS tiros)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS morteiro)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 18)
+       (NP 
+        (NNS minutos)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB duraram)
+          )
+          (NP 
+           (DT os)
+           (NP 
+            (NNS recontros)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT a)
+              (NNS estrada)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

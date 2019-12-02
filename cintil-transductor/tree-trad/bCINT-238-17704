@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS desemprego)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS fenómeno)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (RB também)
+         (VP 
+          (VB alastra)
+          (PP 
+           (IN entre)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS classe)
+             (JJ docente)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

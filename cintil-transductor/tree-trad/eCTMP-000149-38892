@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Líderes)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NNS claques)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB dizem)
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT a)
+      (NNS polícia)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB sabe)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB faz)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

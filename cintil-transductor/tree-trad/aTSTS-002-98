@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB ainda)
+     (ADJP 
+      (JJ maior)
+      de_ o que
+      (NP 
+       (DT A)
+       (NNS Maria)
+      )
+     )
+    )
+   )
+  )
+ )
+)

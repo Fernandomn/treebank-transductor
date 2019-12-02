@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB visitar)
+     )
+     (NP 
+      (DT a)
+      (NN ponte)
+      (ADJP 
+       (JJ rodoferroviária)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Rubinéia)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP criticou)
+   )
+   (NP 
+    (DT o)
+    (NN deputado)
+    (ADJP 
+     (JJ quercista)
+    )
+    (NP 
+     (NNP Alberto_Goldman)
+    )
+    (NP 
+     (NNP PMDB-SP)
+    )
+    (NP 
+     (NP ex-ministro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN Transportes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

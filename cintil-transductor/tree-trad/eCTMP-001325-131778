@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Aí)
+    (VB acontecerão)
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NP 
+       (JJ grandes)
+       (NNS comícios)
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (PRP quais)
+        )
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB participarão)
+          (RB também)
+         )
+        )
+        (NP 
+         (DT outros)
+         (NNS candidatos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

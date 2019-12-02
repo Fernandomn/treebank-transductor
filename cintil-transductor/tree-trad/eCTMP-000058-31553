@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Fragmentos)
+     (JJ metálicos)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS pés)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS piloto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB fornecem)
+   (NP 
+    (NP 
+     (JJ novas)
+     (NNS pistas)
+    )
+   )
+  )
+ )
+)

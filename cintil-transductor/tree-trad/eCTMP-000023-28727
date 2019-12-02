@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (PRP cada)
+     (NP 
+      (NNS volta)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esta)
+        (NNS roda)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB avança)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (NP 
+      (CD 10)
+      (NNS centímetros)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB são)
+       (VB trucidadas)
+      )
+      (NP 
+       (CD cinco)
+       (NP 
+        (NNS toneladas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS rocha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

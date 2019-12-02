@@ -1,0 +1,107 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP SÃO_PAULO)
+   )
+   (VP 
+    (IN Se)
+    (NP 
+     (DT o)
+     (NN leitor)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP deu)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN trabalho)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB ler)
+        )
+        (NP 
+         (DT todas)
+         (DT as)
+         (NN repercussões)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT o)
+           (NN real)
+          )
+         )
+         (VP 
+          (VP 
+           (VBN publicadas)
+          )
+          (ADVP 
+           (RB ontem)
+          )
+          (PP 
+           (IN por+)
+           (NP 
+            (DT a)
+            (NNP Folha)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP terá)
+    (VBN verificado)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (ADVP 
+      (RB como)
+     )
+     (ADVP 
+      (RB sempre)
+     )
+     (VP 
+      (VBP ocorre)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT essas)
+       (NN ocasiões)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN opiniões)
+    (ADJP 
+     (JJ contrárias)
+    )
+    (ADVP 
+     (ADVP 
+      (RB a_favor)
+     )
+     e
+     (ADVP 
+      (RB mais_ou_menos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT o)
+    (DT mesmo)
+    (SBAR que
+     (S 
+      (NP 
+       (NP 
+        (NN capo)
+       )
+       (NP 
+        (NN cabedelo)
+       )
+       ou
+       (NP 
+        (NN promontório)
+       )
+      )
+      (NP 
+       (NN extensão)
+       (PP 
+        (IN de)
+        (NP 
+         (NN terra)
+         (ADJP 
+          (ADJP 
+           (JJ maior)
+           (SBAR que
+            (S 
+             (DT a)
+             (NN ponta)
+            )
+           )
+          )
+          e
+          (ADJP 
+           (JJ menor)
+           (SBAR que
+            (S 
+             (DT a)
+             (NN península)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

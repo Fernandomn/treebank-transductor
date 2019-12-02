@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (PRP isto)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN manutenção)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Ufir)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN correção)
+      (PP 
+       (IN de)
+       (NP 
+        (NN tributos)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ ilegal)
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT o)
+     (NN jurista)
+    )
+   )
+  )
+ )
+)

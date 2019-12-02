@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Câmara)
+    (NNS de_)
+    (NNS o)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (NNS centro)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS arbitragem)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS conflitos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

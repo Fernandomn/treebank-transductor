@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (ADVP 
+    (RB de_fato)
+   )
+   (NP 
+    (DT os)
+    (NN ventos)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP sopram)
+   )
+   (PP 
+    (IN em_favor_de+)
+    (NP 
+     (DT os)
+     (NN venezuelanos)
+    )
+   )
+  )
+ )
+)

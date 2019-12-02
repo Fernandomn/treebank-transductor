@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS grupo)
+    )
+    (VP 
+     (VB actua)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS Johnny)
+         (NNS Guitar)
+        )
+        (PP 
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Lisboa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

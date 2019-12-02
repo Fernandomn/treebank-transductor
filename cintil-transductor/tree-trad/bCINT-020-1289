@@ -1,0 +1,53 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fernando)
+    (NNS Gomes)
+   )
+  )
+  (VP 
+   (VB divulga)
+   (NP 
+    (NP 
+     (NP 
+      (NNS estudo)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS custos)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS centralismo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS repto)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NNS PSD)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

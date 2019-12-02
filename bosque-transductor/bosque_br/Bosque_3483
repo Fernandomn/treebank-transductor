@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN avaliação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Instituto_Internacional_de_Estudos_Estratégicos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Londres)
+       )
+      )
+      (NP 
+       (NNP IIEE)
+      )
+      (NP 
+       (DT um)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (ADJP 
+          (RB mais)
+          (JJ importantes)
+         )
+         (NN centros)
+         (PP 
+          (IN de)
+          (NP 
+           (NN pesquisa)
+           (ADJP 
+            (JJ militar)
+           )
+          )
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Ocidente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

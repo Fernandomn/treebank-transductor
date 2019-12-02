@@ -1,0 +1,125 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN mapas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN países)
+      (NP 
+       (RB como)
+       (NP 
+        (DT os)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (JJ terceiro)
+          (NN fascículo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP mostram)
+   )
+   (NP 
+    (CD 16)
+    (NN tipos)
+    (PP 
+     (IN de)
+     (UCP 
+      (NP 
+       (NN vias)
+       (PP 
+        (IN de)
+        (NP 
+         (NN comunicação)
+        )
+       )
+       (NP 
+        (PP 
+         (IN de)
+         (NP 
+          (NN estradas)
+         )
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (NN aeroportos)
+          (PP 
+           (IN de)
+           (NP 
+            (NN tráfego)
+            (ADJP 
+             (ADJP 
+              (JJ local)
+             )
+             e
+             (ADJP 
+              (JJ internacional)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (NN rios)
+      )
+      (NP 
+       (NN lagos)
+      )
+      (NP 
+       (NN cachoeiras)
+      )
+      (NP 
+       (NN montanhas)
+       (VP 
+        (VP 
+         (VBN acompanhas)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN altitude)
+         )
+        )
+       )
+      )
+      (NP 
+       (NN parques)
+       (ADJP 
+        (JJ nacionais)
+       )
+      )
+      (NP 
+       (NN reservas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN gás)
+         (ADJP 
+          (JJ natural)
+         )
+        )
+       )
+      )
+      (ADVP 
+       (RB etc)
+      )
+     )
+    )
+   )
+  )
+ )
+)

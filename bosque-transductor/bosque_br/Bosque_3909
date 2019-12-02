@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (NP 
+    (DT os)
+    (NN jogadores)
+   )
+   (VP 
+    (VBP vão)
+    (VB cumprir)
+   )
+   (NP 
+    (DT sua)
+    (NN função)
+   )
+   (PP 
+    (PP 
+     (RB mais)
+     (IN por)
+     (NP 
+      (NN obrigação)
+     )
+    )
+    e
+    (PP 
+     (RB não)
+     (IN por)
+     (NP 
+      (NN prazer)
+     )
+    )
+   )
+  )
+ )
+)

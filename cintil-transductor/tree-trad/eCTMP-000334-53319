@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Preços)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS medicamentos)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB podem)
+   (VP 
+    (VB ser)
+    (VB liberalizados)
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ primeira)
+    (NN etapa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN programa)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP começa)
+     )
+     (ADVP 
+      (RB hoje)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP vai)
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (DT o)
+       (NN dia)
+       (ADJP 
+        (CD 2)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP João_Pessoa)
+       (NP 
+        (NNP PB)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

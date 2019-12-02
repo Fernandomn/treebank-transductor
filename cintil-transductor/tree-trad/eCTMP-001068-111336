@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ mesmo)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB disse)
+        (RB ontem)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS PÚBLICO)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS vereador)
+       (NNS Vasco)
+       (NNS Franco)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VB foi)
+        (VP 
+         (VB contactado)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT o)
+           (NNS jornal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

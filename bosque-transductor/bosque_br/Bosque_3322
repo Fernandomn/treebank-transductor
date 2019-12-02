@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (NP 
+      (DT os)
+      (NN romances)
+     )
+     e
+     (NP 
+      (NN contos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN escritor)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN cenário)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (RB muito)
+    (IN próximo_de+)
+    (NP 
+     (DT o)
+     (JJ atual)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB só)
+    )
+    (IN que)
+    (VP 
+     (VBN visto)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT uma)
+      (DT certa)
+      (NN distorção)
+      (ADJP 
+       (JJ alucinógena)
+      )
+      (NP 
+       (DT um)
+       (DT certo)
+       (NN exagero)
+       (PP 
+        (IN de)
+        (NP 
+         (NN imaginação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

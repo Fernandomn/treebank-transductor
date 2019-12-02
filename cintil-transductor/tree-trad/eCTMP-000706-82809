@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS AR)
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN antes)
+     (IN de)
+    )
+    (NP 
+     (NNS Corfu)
+    )
+   )
+  )
+ )
+)

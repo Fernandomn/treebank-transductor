@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN camping)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN diária)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 5)
+     )
+     (NP 
+      (NN CR$)
+      (ADJP 
+       (CD 2.200.00)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,86 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS Tashkent)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB percebi)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD primeira)
+         (NNS vez)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS sentido)
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS sombra)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT as)
+              (NNS árvores)
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS som)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS água)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS calor)
+          (JJ ardente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

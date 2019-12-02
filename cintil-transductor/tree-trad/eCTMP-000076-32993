@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (JJ Nova)
+     (NNS vaga)
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS cinema)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Geórgia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

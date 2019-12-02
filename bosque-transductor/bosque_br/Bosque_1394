@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Através)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (DT sua)
+      (NN empresa)
+     )
+     (NP 
+      (DT a)
+      (NNP Hirano_Design_International_Inc.)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tem)
+       )
+       (NP 
+        (NP 
+         (NN sede)
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NNP Japão)
+          )
+         )
+        )
+        e
+        (NP 
+         (NN filial)
+         (PP 
+          (IN em)
+          (NP 
+           (NNP Chicago)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP eles)
+   )
+   (VP 
+    (VBP promovem)
+   )
+   (NP 
+    (DT o)
+    (NN casamento)
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (DT o)
+       (NN design)
+      )
+      e
+      (NP 
+       (DT a)
+       (NN administração)
+       (PP 
+        (IN de)
+        (NP 
+         (NN empresas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

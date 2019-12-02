@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN zagueiro)
+    (NP 
+     (NNP Elijah_Litana)
+    )
+   )
+   (VP 
+    (VBP abriu)
+   )
+   (NP 
+    (DT o)
+    (NN placar)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NNP Zâmbia)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (CD 3)
+     (NN min)
+     (PP 
+      (IN de)
+      (NP 
+       (NN jogo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

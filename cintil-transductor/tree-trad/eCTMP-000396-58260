@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Noite)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS fado)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NNS Coliseu)
+   )
+  )
+ )
+)

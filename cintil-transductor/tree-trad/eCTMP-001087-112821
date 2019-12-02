@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS fim-de-semana)
+   )
+   (VP 
+    (VB rendeu)
+    (NP 
+     (NP 
+      (CD 17)
+      (NNS golos)
+     )
+     (NP 
+      (NP 
+       (PRP alguns)
+       (NP 
+        (ADJP 
+         (RB bem)
+         (JJ bonitos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS história)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB envolve)
+        (NP 
+         (DT este)
+         (NNS livro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB bem)
+     (JJ diferente)
+    )
+   )
+  )
+ )
+)

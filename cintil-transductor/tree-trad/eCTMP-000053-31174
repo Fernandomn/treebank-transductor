@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fernando)
+    (NNS Gomes)
+   )
+  )
+  (VP 
+   (VB ignora)
+   (NP 
+    (NP 
+     (NNS repto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS PSD-Porto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

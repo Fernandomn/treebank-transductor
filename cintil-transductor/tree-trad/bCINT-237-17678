@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PRP muitas)
+      (NNS escolas)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS comunicação)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNS família)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB sempre)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS sentido)
+        (JJ negativo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

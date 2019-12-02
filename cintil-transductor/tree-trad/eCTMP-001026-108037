@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Sporting)
+  )
+  (VP 
+   (VP 
+    (VB venceu)
+    (NP 
+     (NNS Setúbal)
+    )
+   )
+   (PP 
+    (RB só)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD segunda)
+       (NNS parte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

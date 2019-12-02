@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB tenho)
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS ar)
+        (JJ poderoso)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS postura)
+         (JJ militar)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC embora)
+      (S 
+       (VP 
+        (VB tenha)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS voz)
+          (JJ potente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

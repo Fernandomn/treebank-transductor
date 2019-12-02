@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Giancarlo)
+    (NNS Minardi)
+   )
+  )
+  (VP 
+   (VP 
+    (ADJP 
+     (RB muito)
+     (JJ duro)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS Luca)
+      (NNS Badoer)
+     )
+    )
+   )
+  )
+ )
+)

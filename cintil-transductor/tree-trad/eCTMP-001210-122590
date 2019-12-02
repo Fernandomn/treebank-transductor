@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS Uruguay)
+      (NNS Round)
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Reforma)
+      (NNS de_)
+      (NNS a)
+      (NNS PAC)
+     )
+    )
+   )
+  )
+ )
+)

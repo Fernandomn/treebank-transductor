@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Empresa)
+   )
+   (VP 
+    (VBP funciona)
+   )
+   (ADVP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN 9h)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 19h)
+     )
+    )
+   )
+   (ADVP 
+    (RB diariamente)
+   )
+  )
+ )
+)

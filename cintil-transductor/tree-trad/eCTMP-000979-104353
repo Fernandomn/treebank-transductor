@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB há)
+     )
+     (NP 
+      (PRP nenhum)
+      (NP 
+       (NNS local)
+       (JJ seguro)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (NP 
+        (NNS locais)
+        (ADJP 
+         (ADJP 
+          (RB mais)
+          (JJ seguros)
+         )
+         de_ o que
+         (NP 
+          (DT outros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

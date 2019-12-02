@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Doucet)
+   )
+   (VP 
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP inspirava)
+     )
+     (ADVP 
+      (RB muito)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT suas)
+       (NN viagens)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP refletia)
+     )
+     (NP 
+      (PRP isso)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN título)
+       (PP 
+        (IN de)
+        (NP 
+         (DT vários)
+         (PP 
+          (IN de)
+          (NP 
+           (DT seus)
+           (NN trabalhos)
+           (NP 
+            (RB como)
+            (NP 
+             (NP 
+              (NNP Guatemala_Blues)
+             )
+             e
+             (NP 
+              (NNP Mostar_Sarajevo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

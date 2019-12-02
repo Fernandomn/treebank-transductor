@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (NNP Romário)
+     )
+     (VP 
+      (VBP era)
+     )
+     (VBN querido)
+     (CC mas)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (DT certos)
+        (NN bares)
+       )
+      )
+      (NP 
+       (PRP ele)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP entrava)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (DT um)
+    (NN taxista)
+   )
+  )
+ )
+)

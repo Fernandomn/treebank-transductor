@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (RB Quase)
+    (NP 
+     (CD três)
+     (CD mil)
+    )
+   )
+   (NNS guardas)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NNS estradas)
+    )
+   )
+  )
+ )
+)

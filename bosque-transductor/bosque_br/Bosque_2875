@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (RB até)
+    (JJ possível)
+   )
+   (VP 
+    (VP 
+     (VB encontrar)
+    )
+    (NP 
+     (RB pelo_menos)
+     (CD um)
+     (NN ponto)
+     (ADJP 
+      (JJ interessante)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN disco)
+      (NP 
+       (DT algumas)
+       (PP 
+        (IN de)
+        (NP 
+         (DT suas)
+         (NN letras)
+         (VP 
+          (VP 
+           (VBN compostas)
+          )
+          (PP 
+           (IN por)
+           (NP 
+            (NP 
+             (NNP Michael_Callahan)
+            )
+            e
+            (NP 
+             (NNP Marc_English)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

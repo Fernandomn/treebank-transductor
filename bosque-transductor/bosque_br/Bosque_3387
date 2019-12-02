@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Basicamente)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP tenho)
+      (VBN feito)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NN músicos)
+       (VP 
+        (PP 
+         (IN com)
+         (NP 
+          (PRP os_quais)
+         )
+        )
+        (VP 
+         (VBP trabalho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

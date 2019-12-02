@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS condenação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS secessão)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS apelos)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS reabertura)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS diálogo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

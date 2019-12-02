@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Obteve)
+     (RB apenas)
+    )
+    (NP 
+     (NP 
+      (CD 20)
+      (NP 
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS votos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

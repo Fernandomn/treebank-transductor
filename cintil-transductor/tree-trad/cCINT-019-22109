@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS André)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB estacionou)
+      (NP 
+       (DT a)
+       (NNS moto)
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (CD dois)
+       (NNS automóveis)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS porta)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS prédio)
+           (CONJP 
+            (RB onde)
+            (S 
+             (NP 
+              (DT o)
+              (NNS pai)
+             )
+             (VP 
+              (VB morava)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

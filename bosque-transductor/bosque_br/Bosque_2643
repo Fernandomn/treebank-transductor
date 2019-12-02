@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Quem)
+   )
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (PRP Quem)
+   )
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN Som)
+     (PP 
+      (IN De+)
+      (NP 
+       (DT a)
+       (NN Roça)
+      )
+     )
+    )
+   )
+  )
+ )
+)

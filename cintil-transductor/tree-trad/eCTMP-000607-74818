@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isto)
+    )
+   )
+   (PP 
+    (PP 
+     (IN para)
+     (IN além)
+     (IN de_)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS transferência)
+        (JJ directa)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS divisas)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS estado)
+         (JJ soviético)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

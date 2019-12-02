@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN estado)
+     (PP 
+      (IN de)
+      (NP 
+       (NN sítio)
+      )
+     )
+    )
+    (VP 
+     (VBP seria)
+    )
+    (NP 
+     (DT um)
+     (NN golpe)
+    )
+   )
+  )
+ )
+)

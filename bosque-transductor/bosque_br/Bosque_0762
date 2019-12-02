@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Maluf)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN programa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN governo)
+     )
+    )
+   )
+   (VP 
+    (VBP seria)
+   )
+   (NP 
+    (DT o)
+    (NN ponto)
+    (PP 
+     (IN de)
+     (NP 
+      (NN convergência)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN discussão)
+     (NP 
+      (DT uma)
+      (JJ futura)
+      (NN aliança)
+      (ADJP 
+       (JJ eleitoral)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN sucessão)
+        (ADJP 
+         (JJ presidencial)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

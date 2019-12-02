@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB há)
+      )
+      (NP 
+       (PRP muitos)
+       (NNS controlos)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB podemos)
+       (VP 
+        (VP 
+         (VB vender)
+         (NP 
+          (DT os)
+          (NP 
+           (PP nossos)
+           (NNS produtos)
+          )
+         )
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (PRP todo)
+          (NP 
+           (DT o)
+           (NNS lado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

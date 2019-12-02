@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Pior)
+   )
+   (NP 
+    (DT o)
+    (NN mister)
+    (ADJP 
+     (JJ sueco)
+    )
+    (NP 
+     (NNP Sven-Goran_Eriksson)
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP poderá)
+    (VB contar)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN garoto)
+     (NP 
+      (NNP Bertarelli)
+     )
+     (NP 
+      (NN contratura)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN coxa)
+        (ADJP 
+         (JJ direita)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

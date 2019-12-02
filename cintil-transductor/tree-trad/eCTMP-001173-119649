@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS ema)
+      (ADJP 
+       (ADJP 
+        (JJ enorme)
+        (ADJP 
+         (CC e)
+         (JJ desajeitada)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB correndo)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS bando)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN por)
+       (IN entre)
+      )
+      (NP 
+       (DT o)
+       (NNS capim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

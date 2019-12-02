@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS cronista)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB assim)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS espécie)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS corista)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

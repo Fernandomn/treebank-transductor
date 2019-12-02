@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (RB Hoje)
+   (S 
+    (NP 
+     (DT o)
+     (NNS Manuel)
+    )
+    (VP 
+     (VB comprou)
+     (NP 
+      (DT um)
+      (NNS livro)
+     )
+    )
+   )
+  )
+ )
+)

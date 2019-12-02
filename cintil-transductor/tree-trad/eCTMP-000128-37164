@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Soares)
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS conferência)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS CGTP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

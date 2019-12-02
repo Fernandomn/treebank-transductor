@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NP 
+      (DT O)
+      (NN momento)
+     )
+     e
+     (NP 
+      (DT a)
+      (NN forma)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN escolhidos)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB mudar)
+       )
+       (NP 
+        (DT o)
+        (NN sistema)
+        (ADJP 
+         (JJ financeiro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB entretanto)
+   )
+   (VP 
+    (VBP dependem)
+   )
+   (ADVP 
+    (RB fortemente)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN variáveis)
+     (ADJP 
+      (JJ políticas)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Fernando)
+      (NNS Mendes)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS treinador)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS equipa)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS futebol)
+            )
+           )
+          )
+          (JJ júnior)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Alvalade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (ADVP 
+       (RB por)
+       (RB enquanto)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS substituto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Queiroz)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

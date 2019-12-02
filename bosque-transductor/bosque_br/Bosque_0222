@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN sala)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (NN ícones)
+    )
+   )
+   (NP 
+    (NP 
+     (DT uma)
+     (NN pilha)
+     (PP 
+      (IN de)
+      (NP 
+       (NN discos)
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NN aparelho)
+     (PP 
+      (IN de)
+      (NP 
+       (NN som)
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NN enciclopédia)
+    )
+    e
+    (NP 
+     (DT uma)
+     (NN janela)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP mostra)
+      )
+      (NP 
+       (DT a)
+       (NN encruzilhada)
+       (VP 
+        (ADVP 
+         (RB onde)
+        )
+        (NP 
+         (NNP Robert_Johnson)
+        )
+        (VP 
+         (VBP teria)
+         (VBN feito)
+        )
+        (NP 
+         (DT um)
+         (NN pacto)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NN diabo)
+         )
+        )
+        (VP 
+         (VP 
+          (VBG trocando)
+         )
+         (NP 
+          (DT a)
+          (NN alma)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN sucesso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

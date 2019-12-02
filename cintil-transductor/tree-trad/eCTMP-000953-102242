@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS informações)
+     (JJ disponíveis)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB davam)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS retrato)
+       (JJ fiável)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS situação)
+         (JJ real)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

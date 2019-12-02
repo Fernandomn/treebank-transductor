@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Barça)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS país)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS maravilhas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

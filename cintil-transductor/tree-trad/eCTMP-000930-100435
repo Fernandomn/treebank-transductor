@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS subsecretário)
+      (NNS de)
+      (NNS Estado)
+      (NNS de_)
+      (NNS a)
+      (NNS Cultura)
+      (NNS Sousa)
+      (NNS Lara)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB preside)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS sexta-feira)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS encerramento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS IV)
+           (NNS Congresso)
+           (NNS Nacional)
+           (NNS de)
+           (NNS Bibliotecários)
+           (NNS Arquivistas)
+           (NNS e)
+           (NNS Documentalistas)
+          )
+          (CONJP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB decorre)
+              (PP 
+               (IN em)
+               (NP 
+                (NNS Braga)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

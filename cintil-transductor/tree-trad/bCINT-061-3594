@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT outras)
+      (NNS palavras)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS PS)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VP 
+       (VB perder)
+       (NP 
+        (DT as)
+        (NP 
+         (CD próximas)
+         (NNS eleições)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN por)
+        (IN causa)
+        (IN de_)
+       )
+       (NP 
+        (DT a)
+        (NNS regionalização)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

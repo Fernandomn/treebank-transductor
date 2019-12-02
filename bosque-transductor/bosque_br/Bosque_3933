@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN chegada)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN hotel)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 12h10)
+     (NP 
+      (NN 16h10)
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Brasília)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

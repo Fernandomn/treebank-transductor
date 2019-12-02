@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS Spiritualized)
+    )
+    (VP 
+     (VB são)
+     (JJ britânicos)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB pertencem)
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS geração)
+         (ADJP 
+          (RB mais)
+          (JJ recente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

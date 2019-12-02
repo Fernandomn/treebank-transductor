@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Lideranças)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PSDB)
+     )
+    )
+   )
+   (VP 
+    (VBP dizem)
+   )
+   (VP 
+    (VP 
+     (VB apostar)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT uma)
+      (JJ grande)
+      (NN legenda)
+      (ADJP 
+       (JJ social-democrata)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VB ter)
+       (IN de)
+       (VB depender)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP PFL)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Hoje)
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS conceito)
+        (ADJP 
+         (RB mais)
+         (JJ puro)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS distribuição)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS informação)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

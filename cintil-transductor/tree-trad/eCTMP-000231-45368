@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN COM)
+    (NP 
+     (NP 
+      (NP 
+       (NNS WOODY)
+       (NNS ALLEN)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS MIA)
+         (NNS FARROW)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS JUDY)
+          (NNS DAVIS)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

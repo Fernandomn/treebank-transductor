@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (VB estamos)
+        (ADJP 
+         (VB atrasados)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NP 
+       (DT um)
+       (NNS ano)
+      )
+      (NP 
+       (CC ou)
+       (NP 
+        (CD dois)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

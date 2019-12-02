@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Conseguiu)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS gabinetes)
+          (ADJP 
+           (ADVP 
+            (RB mais)
+            (RB bem)
+           )
+           (VB posicionados)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Assembleia)
+            (NNS de_)
+            (NNS a)
+            (NNS República)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

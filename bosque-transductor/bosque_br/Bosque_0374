@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN crianças)
+   )
+   (VP 
+    (VBP podem)
+    (VB ficar)
+   )
+   (NP 
+    (CD 15)
+    (NN minutos)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (PRP cada_um)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN jogos)
+     )
+    )
+   )
+  )
+ )
+)

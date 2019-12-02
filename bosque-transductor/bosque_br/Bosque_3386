@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP mim)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (RB muito)
+    (JJ estimulante)
+   )
+   (VP 
+    (VP 
+     (VB oferecer)
+    )
+    (NP 
+     (DT uma)
+     (NN idéia)
+     (ADJP 
+      (JJ espacial)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT um)
+      (NN trabalho)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP começou)
+       )
+       (PP 
+        (IN a_partir_de)
+        (NP 
+         (DT uma)
+         (NN idéia)
+         (ADJP 
+          (JJ musical)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

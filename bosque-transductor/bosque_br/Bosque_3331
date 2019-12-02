@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP PF)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Brasília)
+     )
+    )
+   )
+   (VP 
+    (VBP prende)
+   )
+   (NP 
+    (NN filho)
+    (PP 
+     (IN de)
+     (ADJP 
+      (CD um)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN chefes)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Cartel_de_Cáli)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS construtora)
+   )
+   (VP 
+    (ADVP 
+     (RB só)
+     (RB assim)
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VP 
+       (VB apresentar)
+       (NP 
+        (NP 
+         (NNS resultados)
+         (JJ positivos)
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT os)
+        (NNS accionistas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

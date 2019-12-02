@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS evolução)
+      (JJ natural)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS espécies)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NNS contrário)
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS processo)
+       (ADJP 
+        (RB fundamentalmente)
+        (JJ aleatório)
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT as)
+          (NP 
+           (NNS mutações)
+           (JJ genéticas)
+          )
+         )
+         (VP 
+          (VP 
+           (VB sobrevêm)
+           (ADVP 
+            (RB a_)
+            (RB o)
+            (RB acaso)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (NP 
+       (NNS Júlio)
+       (NNS Isidro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS profissional)
+      (PP 
+       (IN com)
+       (NP 
+        (CD 34)
+        (NP 
+         (NNS anos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS televisão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

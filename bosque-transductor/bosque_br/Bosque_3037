@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NNP PS)
+   (ADVP 
+    (RB Realmente)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ notável)
+   )
+   (NP 
+    (DT a)
+    (NN evolução)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Lula)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (JJ últimos)
+      (CD 15)
+      (NN anos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PP sua)
+      (NNS substituição)
+     )
+    )
+    (VP 
+     (VB é)
+     (VB indicado)
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NNS adjuntos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN ocasião)
+    )
+   )
+   (NP 
+    (NNP Fidel_Castro)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP permitiu)
+     )
+     (NP 
+      (DT a)
+      (NN saída)
+      (PP 
+       (IN de)
+       (NP 
+        (NN milhares)
+        (PP 
+         (IN de)
+         (NP 
+          (NN pessoas)
+          (ADJP 
+           (JJ insatisfeitas)
+          )
+          (PP 
+           (IN com)
+           (NP 
+            (DT seu)
+            (NN regime)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP abriu)
+     )
+     (NP 
+      (DT um)
+      (JJ novo)
+      (NN espaço)
+      (PP 
+       (IN para)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VB manter)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN poder)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

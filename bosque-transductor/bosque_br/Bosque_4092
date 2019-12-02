@@ -1,0 +1,102 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Acompanhada)
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Renata_Queiróz)
+       (NP 
+        (NN mulher)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN candidato)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NNP PSDB)
+           )
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (DT o)
+            (NN governo)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NNP Ceará)
+             )
+            )
+           )
+          )
+          (NP 
+           (NNP Tasso_Jereissati)
+          )
+         )
+        )
+       )
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Patrícia_Gomes)
+       (NP 
+        (NN mulher)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN ministro)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Fazenda)
+           )
+          )
+          (NP 
+           (NNP Ciro_Gomes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Ruth_Cardoso)
+   )
+   (VP 
+    (VBP visitou)
+   )
+   (NP 
+    (CD três)
+    (NN cidades)
+    (ADJP 
+     (JJ cearenses)
+    )
+   )
+   (ADVP 
+    (RB antes)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Juazeiro)
+     )
+    )
+   )
+  )
+ )
+)

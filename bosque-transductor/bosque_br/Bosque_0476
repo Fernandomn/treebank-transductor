@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP acusa)
+   )
+   (NP 
+    (DT o)
+    (NN governo)
+    (ADJP 
+     (JJ federal)
+    )
+   )
+   (PP 
+    (PP 
+     (IN de)
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VB cumprir)
+      )
+      (ADVP 
+       (RB bem)
+      )
+      (NP 
+       (DT sua)
+       (NN missão)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB impedir)
+         )
+         (NP 
+          (DT a)
+          (NN entrada)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN país)
+          )
+         )
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NN estrangeiros)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (PP 
+     (IN de)
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VB repor)
+      )
+      (NP 
+       (DT o)
+       (NN dinheiro)
+       (VP 
+        (VP 
+         (VBN gasto)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT os)
+          (NN Estados)
+         )
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (PRP eles)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

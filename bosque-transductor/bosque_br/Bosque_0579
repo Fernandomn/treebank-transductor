@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Tinha)
+    )
+    (NP 
+     (DT uma)
+     (NN família)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB sustentar)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP pensavam)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (PRP isso)
+     )
+     (NP 
+      (PRP me)
+     )
+     (VP 
+      (VBP impediria)
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB fazer)
+       )
+       (NP 
+        (DT qualquer)
+        (NN coisa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

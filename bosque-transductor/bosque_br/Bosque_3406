@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NN mandados)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN busca)
+       )
+       e
+       (NP 
+        (NN apreensão)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN homens)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Rota)
+     )
+    )
+   )
+   (VP 
+    (VBP invadiram)
+   )
+   (NP 
+    (DT os)
+    (CD três)
+    (NN apartamentos)
+   )
+  )
+ )
+)

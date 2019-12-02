@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN gol)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN vitória)
+      (ADJP 
+       (JJ flamenguista)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN marcado)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (CD 20)
+     (NN min)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ segundo)
+       (NN tempo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

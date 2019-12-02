@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Sem)
+     (NP 
+      (NP 
+       (NP 
+        (PRP qualquer)
+        (NP 
+         (NNS nostalgia)
+         (PP 
+          (IN por_)
+          (NP 
+           (NP 
+            (DT a)
+           )
+           (NP 
+            (NNS escola)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS passado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

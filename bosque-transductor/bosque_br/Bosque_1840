@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+    (NN índices)
+   )
+   (VP 
+    (VBP revelam)
+   )
+   (NP 
+    (NN queda)
+    (PP 
+     (IN de)
+     (NP 
+      (NN inflação)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD 0.23)
+         (NN ponto)
+         (ADJP 
+          (JJ percentual)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+        e
+        (NP 
+         (CD 0.59)
+         (NN ponto)
+         (ADJP 
+          (JJ percentual)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NNP Rio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN comparação)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NN período)
+       (ADJP 
+        (JJ anterior)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

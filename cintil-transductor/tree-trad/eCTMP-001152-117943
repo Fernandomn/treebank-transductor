@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+       )
+      )
+      (VP 
+       (VP 
+        (VB era)
+        (VB dirigido)
+       )
+       (PP 
+        (IN contra)
+        (NP 
+         (DT outros)
+         (NNS povos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (CD segundo)
+     )
+    )
+    (VP 
+     (VB sacrificou)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (PP seu)
+        (PP próprio)
+       )
+       (NNS povo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

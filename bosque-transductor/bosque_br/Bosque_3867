@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN verdade)
+   )
+   (VP 
+    (IN como)
+    (VP 
+     (VBP diz)
+    )
+    (NP 
+     (NNP Gusmão)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN missão)
+     (VP 
+      (VP 
+       (VBN enviada)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NNP Israel)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP tenha)
+     (VBN feito)
+    )
+    (NP 
+     (NN confronto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN preços)
+      )
+     )
+    )
+   )
+  )
+ )
+)

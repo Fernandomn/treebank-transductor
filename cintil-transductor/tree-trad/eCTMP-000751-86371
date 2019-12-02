@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS líder)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS golpe)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Sidónio)
+       (NNS Pais)
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS altura)
+          (PP 
+           (IN com)
+           (NP 
+            (CD 45)
+            (NNS anos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

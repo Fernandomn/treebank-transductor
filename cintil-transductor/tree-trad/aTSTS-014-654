@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB atenta)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NNS presidente)
+     )
+    )
+   )
+  )
+ )
+)

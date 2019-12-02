@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS papéis)
+      (ADJP 
+       (RB mais)
+       (JJ movimentados)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB destacaram)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS acções)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS bancos)
+        )
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS companhias)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS telecomunicações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

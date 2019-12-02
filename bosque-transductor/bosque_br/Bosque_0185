@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Isso)
+   )
+   (VP 
+    (VBP vai)
+    (VB facilitar)
+   )
+   (NP 
+    (DT as)
+    (NN atividades)
+    (PP 
+     (IN de)
+     (NP 
+      (NN franqueadores)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP precisam)
+       )
+       (VP 
+        (VP 
+         (VB importar)
+        )
+        (NP 
+         (NN produtos)
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB distribuir-)
+           )
+           (NP 
+            (PRP los)
+           )
+           (PP 
+            (IN a)
+            (NP 
+             (DT seus)
+             (NN franqueados)
+             (VP 
+              (NP 
+               (PRP que)
+              )
+              (VP 
+               (VBP operam)
+              )
+              (PP 
+               (IN em)
+               (NP 
+                (DT outro)
+                (PP 
+                 (IN de+)
+                 (NP 
+                  (PRP eles)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NN ministro)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Simon)
+   )
+   (VP 
+    (NP 
+     (DT as)
+     (NN mudanças)
+     (VBN feitas)
+    )
+    (VP 
+     (VBP são)
+    )
+    (ADJP 
+     (JJ assimiláveis)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN plano)
+     )
+    )
+   )
+  )
+ )
+)

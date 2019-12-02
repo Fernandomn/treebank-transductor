@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    Nem
+    (NP 
+     (DT o)
+     (NNP PSB)
+    )
+    nem
+    (NP 
+     (DT a)
+     (NN coligação)
+    )
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (NN competência)
+    (ADJP 
+     (JJ legal)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB trocar)
+      )
+      (NP 
+       (DT o)
+       (NN vice)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN chapa)
+       )
+      )
+      (PP 
+       (IN sem)
+       (NP 
+        (DT a)
+        (NN concordância)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Bisol)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP teve)
+           )
+           (NP 
+            (DT o)
+            (NN nome)
+            (VP 
+             (VP 
+              (VBN aprovado)
+             )
+             (PP 
+              (IN em)
+              (NP 
+               (NN convenção)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

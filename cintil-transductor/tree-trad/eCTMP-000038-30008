@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS índice)
+     (NNS Nikkei)
+    )
+   )
+   (VP 
+    (VB perdeu)
+    (NP 
+     (NP 
+      (CD 0,16)
+      (NP 
+       (NN por)
+       (NN cento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

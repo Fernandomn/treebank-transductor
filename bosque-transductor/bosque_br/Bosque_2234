@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Nasa)
+    (NP 
+     (NN agência)
+     (ADJP 
+      (JJ espacial)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NNP EUA)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP encomendou)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN empresa)
+     (NP 
+      (NNP Micro-Bac)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN desenvolvimento)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN sistema)
+      (PP 
+       (IN de)
+       (NP 
+        (NN purificação)
+        (PP 
+         (IN de)
+         (NP 
+          (NN esgoto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG utilizando)
+    )
+    (NP 
+     (NN bactérias)
+     (VP 
+      (VP 
+       (VBN conhecidas)
+      )
+      (PP 
+       (IN por)
+       (VP 
+        (VP 
+         (VB devorarem)
+        )
+        (NP 
+         (NN material)
+         (ADJP 
+          (JJ orgânico)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

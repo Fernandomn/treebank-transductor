@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NP 
+      (CD última)
+      (NNS sessão)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT os)
+      (NNS investidores)
+     )
+     (VP 
+      (VB estiveram)
+      (JJ animados)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT as)
+       (NNS cotações)
+      )
+      (VP 
+       (VB encerraram)
+       (PP 
+        (IN com)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS ganho)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 45)
+            (NNS pontos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS colecção)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT este)
+        (NNS momento)
+       )
+      )
+     )
+    )
+    (ADJP 
+     (JJ guardada)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS depósito)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS museu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP estranharam)
+     )
+     (NP 
+      (DT o)
+      (NN fato)
+      (PP 
+       (IN de+)
+       (VP 
+        (NP 
+         (PRP ele)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB sair)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN barraco)
+         )
+        )
+        (ADVP 
+         (RB de_manhã)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP chamaram)
+     )
+     (NP 
+      (DT a)
+      (NN polícia)
+     )
+    )
+   )
+  )
+ )
+)

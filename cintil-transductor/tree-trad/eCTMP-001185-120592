@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (RB Agora)
+    (S 
+     (S 
+      (RB já)
+      (S 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB fala)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS obras)
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB fala)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS prazos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

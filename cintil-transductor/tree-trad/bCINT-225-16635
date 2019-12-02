@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS crianças)
+   )
+   (VP 
+    (VB sofreram)
+    (NP 
+     (NP 
+      (NNS fracturas)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NNS pernas)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT os)
+          (NNS braços)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS relatório)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS empregado)
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NNS tarefa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

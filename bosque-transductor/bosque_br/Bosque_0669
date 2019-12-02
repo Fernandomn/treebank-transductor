@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN agitação)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADJP 
+    (JJ grande)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Bolsa_de_Mercadorias)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (JJ frequentes)
+     (NN boatos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN dificuldades)
+       (PP 
+        (IN de)
+        (NP 
+         (NN instituições)
+         (ADJP 
+          (JJ financeiras)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (VP 
+         (VP 
+          (VB cumprirem)
+         )
+         (NP 
+          (DT seus)
+          (NN compromissos)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN mercado)
+           (ADJP 
+            (JJ futuro)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN índice)
+             (NP 
+              (NNP Bovespa)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

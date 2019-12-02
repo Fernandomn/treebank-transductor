@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Duas)
+       (NNS horas)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (S 
+     (VB telefona)
+     (NP 
+      (NNS Saramago)
+     )
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS cabine)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS aeroporto)
+           (NNS de)
+           (NNS Frankfurt)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

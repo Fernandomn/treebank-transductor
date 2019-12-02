@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vamos)
+     (VP 
+      (VP 
+       (VP 
+        (VB beber)
+        (NP 
+         (NNS champanhe)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (CD próximo)
+          (NNS ano)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN motivo)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP obriga)
+    )
+    (NP 
+     (DT a)
+     (NN empresa)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP contratar)
+      )
+      (NP 
+       (NN jovens)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB manter)
+      )
+      (NP 
+       (DT um)
+       (NN tutor)
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB ensinar)
+         )
+         (NP 
+          (DT o)
+          (NN trabalho)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT os)
+           (JJ novos)
+           (NN empregados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

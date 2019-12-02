@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP É)
+    )
+    (ADJP 
+     (RB bastante)
+     (JJ didático)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP utiliza)
+    )
+    (ADVP 
+     (RB bem)
+    )
+    (NP 
+     (NN desenhos)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB exemplificar)
+      )
+      (NP 
+       (NN efeitos)
+       (ADJP 
+        (JJ especiais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

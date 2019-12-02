@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (VP 
+    (VBP comprova)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NNP Petroplastic)
+    )
+    (VP 
+     (VBP recebeu)
+    )
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 5)
+      (NN milhões)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB concordar)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NN transferência)
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NNP Dow)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN controle)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Atochem)
+            (NP 
+             (NN fundadora)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NNP Triunfo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

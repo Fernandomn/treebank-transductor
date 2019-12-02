@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por)
+      (IN causa)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS número)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS deputados)
+           (NNS PS)
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NNS Parlamento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

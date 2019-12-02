@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS João)
+      (NNS Pinto)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (VB disse)
+        (RB logo)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS fim)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS jogo)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS lágrimas)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT os)
+            (NNS olhos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB tinha)
+        (VP 
+         (VB sido)
+         (VB agredido)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

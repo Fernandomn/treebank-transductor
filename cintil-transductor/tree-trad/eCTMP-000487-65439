@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fábricas)
+    (JJ asiáticas)
+   )
+  )
+  (VP 
+   (ADJP 
+    (ADJP 
+     (RB mais)
+     (JJ produtivas)
+    )
+    (CONJP 
+     (CC que)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ europeias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

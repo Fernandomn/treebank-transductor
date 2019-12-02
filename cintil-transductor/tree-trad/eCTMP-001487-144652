@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS Vitória)
+      (NNS de)
+      (NNS Guimarães)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (NP 
+      (NP 
+       (NNS jogadores)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS saldo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Nashe)
+   )
+   (VP 
+    (VB encontra)
+    (NP 
+     (NP 
+      (NNS Pozzi)
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS jogador)
+        (CONJP 
+         (CONJP 
+          (PP 
+           (IN com)
+           (NP 
+            (PRP quem)
+           )
+          )
+          (S 
+           (VP 
+            (VP 
+             (VB inicia)
+             (NP 
+              (DT um)
+              (NP 
+               (NNS póquer)
+               (JJ extravagante)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

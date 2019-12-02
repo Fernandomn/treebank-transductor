@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NP 
+      (NP 
+       (NNP Khalil)
+      )
+      e
+      (NP 
+       (NNP Mustafa)
+      )
+     )
+     (VP 
+      (VBN disfarçados)
+     )
+    )
+    (VP 
+     (VBP tentaram)
+    )
+    (VP 
+     (VP 
+      (VB matar)
+     )
+     (NP 
+      (NNP Mahfouz)
+     )
+     (ADVP 
+      (NP 
+       (CD um)
+       (NN dia)
+      )
+      (RB antes)
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (PRP ele)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP estava)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN casa)
+     )
+    )
+   )
+  )
+ )
+)

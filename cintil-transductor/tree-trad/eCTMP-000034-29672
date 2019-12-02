@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB foram)
+    )
+    (VB fornecidas)
+   )
+   (NP 
+    (NP 
+     (NNS informações)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS balanço)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT estes)
+          (NNS confrontos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

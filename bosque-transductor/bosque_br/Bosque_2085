@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN dado)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Ipead)
+       (NP 
+        (NNP Instituto_de_Pesquisas_Econômicas_e_Administrativas/MG)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP mede)
+     )
+     (NP 
+      (DT os)
+      (NN gastos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN famílias)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NN renda)
+        (NP 
+         (PP 
+          (IN de)
+          (ADJP 
+           (CD 1)
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (CD 40)
+           (NN salários)
+           (ADJP 
+            (JJ mínimos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Belo_Horizonte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

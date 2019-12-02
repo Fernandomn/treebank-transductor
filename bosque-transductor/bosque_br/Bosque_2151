@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN consultora)
+     (PP 
+      (IN de)
+      (NP 
+       (NN cores)
+      )
+     )
+     (NP 
+      (NNP Renata_Lourenção)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN trabalho)
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+    (VBN feito)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT qualquer)
+     (NN pessoa)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG seguindo)
+    )
+    (NP 
+     (DT as)
+     (NN instruções)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN lata)
+      )
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (DT a)
+       (NN necessidade)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NN pintor)
+         (ADJP 
+          (JJ profissional)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (NP 
+       (DT o)
+       (NNS convite)
+      )
+      (VP 
+       (VB foi)
+       (VB feito)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Tchernomirdin)
+    )
+    (VP 
+     (RB não)
+     (VP 
+      (NP 
+       (PRP o)
+      )
+      (VB aceitou)
+     )
+    )
+   )
+  )
+ )
+)

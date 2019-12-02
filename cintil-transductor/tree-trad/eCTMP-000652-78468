@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Glaxo)
+  )
+  (VP 
+   (VB nega)
+   (NP 
+    (NP 
+     (NNS cancelamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS congresso)
+        (JJ científico)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

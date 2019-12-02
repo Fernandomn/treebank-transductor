@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS sala)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS aula)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS lugar)
+        (JJ único)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB continua)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ser)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS lugar)
+           (JJ central)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS aprendizagem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

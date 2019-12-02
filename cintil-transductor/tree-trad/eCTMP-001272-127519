@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS missões)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS russos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB custam)
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS média)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS metade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS preço)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (JJ europeias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

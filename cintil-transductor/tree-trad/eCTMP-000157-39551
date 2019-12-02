@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Pegou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS discursos)
+        (PP 
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS António)
+            (NNS José)
+            (NNS Seguro)
+           )
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de_)
+           (NP 
+            (NP 
+             (DT o)
+             (NP 
+              (PP seu)
+              (NP 
+               (NNS sucessor)
+               (ADJP 
+                (RB ontem)
+                (VB eleito)
+               )
+              )
+             )
+            )
+            (NP 
+             (NP 
+              (NNS Sousa)
+              (NNS Pinto)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB disse)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT os)
+         (NNS jovens)
+        )
+       )
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (NP 
+           (PRP eles)
+          )
+          (VP 
+           (VB queriam)
+           (VP 
+            (VB ouvir)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

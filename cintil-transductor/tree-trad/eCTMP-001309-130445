@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pelourinho)
+    (NNS de)
+    (NNS Lisboa)
+   )
+  )
+  (VP 
+   (VP 
+    (JJ limpo)
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NNS pressão)
+    )
+   )
+  )
+ )
+)

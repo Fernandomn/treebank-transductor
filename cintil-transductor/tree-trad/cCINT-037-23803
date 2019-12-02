@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Relatou)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (NNS conversa)
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NNS professora)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB transmitiu)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD três)
+          (NNS irmãos)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NNS parte)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS preocupação)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (NP 
+               (PRP o)
+              )
+              (VB afligia)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

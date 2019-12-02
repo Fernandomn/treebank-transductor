@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (CD Dois)
+     (NNS assaltos)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNS semana)
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS média)
+   )
+  )
+ )
+)

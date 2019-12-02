@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN proposta)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Anfavea)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN indexação)
+    (VBN disfarçada)
+   )
+  )
+ )
+)

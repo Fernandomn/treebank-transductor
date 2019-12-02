@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS João)
+    (NNS Braga)
+   )
+  )
+  (VP 
+   (VP 
+    (VB apresenta)
+    (NP 
+     (NP 
+      (NNS fado)
+      (JJ universal)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS CCB)
+    )
+   )
+  )
+ )
+)

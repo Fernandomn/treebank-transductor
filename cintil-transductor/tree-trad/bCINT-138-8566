@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NNS ensaios)
+     )
+    )
+    (VP 
+     (VB experimento)
+     (NP 
+      (NP 
+       (NNS tipos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS sons)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

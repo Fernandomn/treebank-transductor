@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP foi)
+      )
+      (NP 
+       (DT um)
+       (JJ ótimo)
+       (NN jogador)
+      )
+     )
+     mas
+     (VP 
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (DT um)
+       (JJ péssimo)
+       (NN dirigente)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Kodja)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP quer)
+     )
+     (NP 
+      (DT o)
+      (NN afastamento)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Pelé)
+         (NP 
+          (NN assessor)
+          (PP 
+           (IN de)
+           (NP 
+            (NN assuntos)
+            (ADJP 
+             (JJ internacionais)
+            )
+           )
+          )
+         )
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN vice)
+         (NP 
+          (NNP Samir_Abdul_Hack)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

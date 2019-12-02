@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lisboa)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB renovou)
+      (ADVP 
+       (RB então)
+      )
+     )
+     (NP 
+      (DT aquele)
+      (NNS contrato)
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB contemplando)
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT essa)
+           (NNS vez)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (DT os)
+         (NP 
+          (NNS mupis)
+          (NP 
+           (CC e)
+           (NNS colunas)
+          )
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NNS veículos)
+           (JJ privilegiados)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NNS publicidade)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

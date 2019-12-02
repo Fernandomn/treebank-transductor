@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Fernando)
+        (NNS Heitor)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS actor)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS teatro)
+           (NP 
+            (CC e)
+            (NNS cinema)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS encenador)
+       (JJ bissexto)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB dirige)
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS presteza)
+        (JJ surpreendente)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT estas)
+     (NP 
+      (NNS pompas)
+      (JJ fúnebres)
+     )
+    )
+   )
+  )
+ )
+)

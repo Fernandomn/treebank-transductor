@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN família)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (VP 
+     (VB estar)
+     (VBG reunindo)
+    )
+    (NP 
+     (DT os)
+     (NN US$)
+     (NP 
+      (CD 100)
+      (NN mil)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN resgate)
+      )
+     )
+    )
+   )
+  )
+ )
+)

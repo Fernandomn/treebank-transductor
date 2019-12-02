@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS dia)
+      (JJ seguinte)
+     )
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ mesma)
+        (NNS hora)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS homem)
+     )
+     (VP 
+      (VB repetiu)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS representação)
+        (ADJP 
+         (ADJP 
+          (RB agora)
+          (JJ patética)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

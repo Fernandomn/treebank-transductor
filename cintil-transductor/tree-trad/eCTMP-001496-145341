@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (NNS história)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS empresário)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS sucesso)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Saleiro)
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB tem)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS caso)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS sisa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS II)
+     (NNS Guerra)
+     (NNS Mundial)
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB terminou)
+     )
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NP 
+         (PP 
+          (RB menos)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS campo)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS cultura)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

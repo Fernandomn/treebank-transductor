@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS rapaz)
+   )
+   (VP 
+    (VP 
+     (VB classificou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NNS torneio)
+     )
+    )
+   )
+  )
+ )
+)

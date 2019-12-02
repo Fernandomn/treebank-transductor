@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN cineasta)
+    (ADJP 
+     (JJ italiano)
+    )
+    (NP 
+     (NNP Franco_Zefirelli)
+    )
+   )
+   (VP 
+    (VBP revelou)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB iludir)
+      )
+      (NP 
+       (DT o)
+       (NN serviço)
+       (ADJP 
+        (JJ militar)
+       )
+      )
+      (PP 
+       (IN durante)
+       (NP 
+        (DT o)
+        (NN período)
+        (ADJP 
+         (JJ fascista)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP tornou)
+      )
+      (NP 
+       (DT um)
+       (NN partisan)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP acabou)
+       (VBG matando)
+      )
+      (NP 
+       (DT um)
+       (NN soldado)
+       (ADJP 
+        (JJ alemão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

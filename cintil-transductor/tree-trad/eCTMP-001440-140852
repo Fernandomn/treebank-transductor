@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS subida)
+      (JJ inicial)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Wall)
+        (NNS Street)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT outro)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS factores)
+         (JJ positivos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

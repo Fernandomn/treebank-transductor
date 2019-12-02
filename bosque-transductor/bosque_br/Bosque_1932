@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (NP 
+    (DT o)
+    (NN tempo)
+   )
+   (VP 
+    (VBP vem)
+    (VBG mostrando)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN fenômeno)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (JJ mero)
+     (NN modismo)
+    )
+   )
+  )
+ )
+)

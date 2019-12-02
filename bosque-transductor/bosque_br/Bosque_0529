@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Pode)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VB cobrar)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (NN membros)
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN administração)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (VP 
+      (VBP apóiem)
+     )
+     (NP 
+      (DT o)
+      (DT seu)
+      (NN candidato)
+     )
+    )
+    ou
+    (VP 
+     (VP 
+      (VBP deixem)
+     )
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+    )
+   )
+  )
+ )
+)

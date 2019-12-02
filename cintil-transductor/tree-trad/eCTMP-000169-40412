@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Esquadra)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS PSP)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS questão)
+    )
+   )
+  )
+ )
+)

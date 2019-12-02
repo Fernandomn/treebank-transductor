@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT O)
+    (NNS Estado)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS mercado)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS música)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

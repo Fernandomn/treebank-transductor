@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Um)
+     (NNS microcomputador)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (PRP vários)
+      (NP 
+       (NNS computadores)
+       (JJ portáteis)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB acumulam)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS dados)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS tomada)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS decisões)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS delegação)
+               (JJ portuguesa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

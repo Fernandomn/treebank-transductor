@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Punisic)
+   )
+   (VP 
+    (VP 
+     (VB assinou)
+     (RB ontem)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS contrato)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NNS Farense)
+        )
+       )
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (CD três)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

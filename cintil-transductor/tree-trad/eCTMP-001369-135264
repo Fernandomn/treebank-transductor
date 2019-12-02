@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NNS Operadores)
+  )
+  (VP 
+   (VB negoceiam)
+   (NP 
+    (NP 
+     (NNS privatização)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS terminal)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS contentores)
+          )
+         )
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Leixões)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

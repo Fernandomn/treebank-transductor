@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Taipei)
+   )
+   (VP 
+    (VP 
+     (VB esteve)
+     (ADJP 
+      (VB encerrada)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS dia)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS folga)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Pollock)
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (VP 
+        (VB foi)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS combinação)
+          (PP 
+           (PP 
+            (IN de)
+            (NP 
+             (NNS timing)
+            )
+           )
+           (PP 
+            (CC e)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS egos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

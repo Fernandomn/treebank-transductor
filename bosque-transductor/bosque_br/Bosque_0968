@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN balanço)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Eldorado_S/A)
+     )
+    )
+   )
+   (VP 
+    (VBP informa)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN irmãs)
+     (NP 
+      (NNP Veríssimo)
+     )
+     (NP 
+      (NN filhas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN fundador)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP ocupam)
+    )
+    (NP 
+     (NN cargos)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NP vice-presidência)
+       )
+       e
+       (NP 
+        (NN diretoria)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN grupo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

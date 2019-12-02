@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alberto)
+     (NNS Costa)
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (PP 
+      (IN a)
+      (IN braços)
+      (IN com)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS problemas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS autoridade)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NNS polícias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

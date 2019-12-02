@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NN plano)
+      (ADJP 
+       (JJ econômico)
+      )
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB ter)
+      (VBN dito)
+     )
+     (NP 
+      (DT essa)
+      (NN frase)
+     )
+    )
+    (VP 
+     (VBP seria)
+    )
+    (ADJP 
+     (JJ melhor)
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (DT o)
+    (NN senador)
+    (NP 
+     (NNP Beni_Veras)
+    )
+    (NP 
+     (NNP PSDB-CE)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP compensou)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Aspen)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG dando)
+    )
+    (NP 
+     (DT um)
+     (NN malho)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT aquela)
+      (NN flor)
+      (PP 
+       (IN de)
+       (NP 
+        (NN nome)
+        (NP 
+         (NNP Rosane)
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB casualmente)
+    )
+    (PP 
+     (IN na_frente_de)
+     (NP 
+      (NN fotógrafos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Festival)
+     (NNS Mundial)
+     (NNS de_)
+     (NNS a)
+     (NNS Juventude)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB foi)
+       (RB ontem)
+      )
+      (RB oficialmente)
+     )
+     (VB inaugurado)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Costa)
+       (NNS de_)
+       (NNS a)
+       (NNS Caparica)
+      )
+     )
+    )
+   )
+  )
+ )
+)

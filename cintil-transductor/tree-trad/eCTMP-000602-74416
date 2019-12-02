@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS PSD)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS CDS)
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VP 
+     (RB não)
+     (VB apresentaram)
+    )
+    (NP 
+     (NNS contas)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Tribunal)
+      (NNS Constitucional)
+     )
+    )
+   )
+  )
+ )
+)

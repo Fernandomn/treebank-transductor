@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP José_Arthur_Giannotti)
+    )
+    (NP 
+     (NNP Marilena_Chaui)
+    )
+    (NP 
+     (NNP Gloria_Kalil)
+    )
+    e
+    (NP 
+     (NNP Jorge_da_Cunha_Lima)
+    )
+   )
+   (VP 
+    (VBP faziam)
+   )
+   (NP 
+    (NN parte)
+    (PP 
+     (IN de)
+     (NP 
+      (NN platéia-cabeça)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP acompanhou)
+       )
+       (ADVP 
+        (RB anteontem)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Masp)
+        )
+       )
+       (NP 
+        (DT a)
+        (NN palestra)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Claude_Lefort)
+          (VP 
+           (VP 
+            (VBN apresentado)
+           )
+           (PP 
+            (IN por)
+            (NP 
+             (NNP Sérgio_Cardoso)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

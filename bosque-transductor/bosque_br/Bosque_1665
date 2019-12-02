@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Diretor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Banco_Central)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP acredita)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN real)
+    )
+    (VP 
+     (VBP esteja)
+    )
+    (VBN valorizado)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN gente)
+    )
+    (VP comprando e
+     (VBG vendendo)
+    )
+   )
+  )
+ )
+)

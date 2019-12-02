@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (PP 
+    (RB Também)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Escócia)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS jornada)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (JJ negativa)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NNS primeiros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

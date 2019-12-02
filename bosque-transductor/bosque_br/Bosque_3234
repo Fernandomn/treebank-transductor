@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Corresponde)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NP 
+      (CD duas)
+      (NN vezes)
+     )
+     e
+     (NP 
+      (NN meia)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN patrimonio)
+    (ADJP 
+     (JJ liquido)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN instituição)
+     )
+    )
+   )
+  )
+ )
+)

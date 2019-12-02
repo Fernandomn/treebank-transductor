@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Conselho)
+     (NNS de)
+     (NNS Ministros)
+    )
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (RB também)
+    )
+    (VP 
+     (VB definir)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS enquadramento)
+        (JJ legal)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS construção)
+           (NP 
+            (CC e)
+            (NNS exploração)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Marina)
+             (NNS de)
+             (NNS Cascais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS crepúsculo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS céu)
+    )
+    (VP 
+     (VP 
+      (VB enche)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS cantos)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS cores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

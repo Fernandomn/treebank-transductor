@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Aliás)
+    )
+    (VP 
+     (ADVP 
+      (RB muito)
+      (RB possivelmente)
+     )
+     (VP 
+      (VB vão)
+      (VP 
+       (VB ser)
+       (VP 
+        (VB expostos)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS tribunal)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

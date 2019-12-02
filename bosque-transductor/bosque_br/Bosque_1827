@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD nove)
+    (NN estádios)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Mundial)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADVP 
+    (RB normalmente)
+   )
+   (VP 
+    (VBN usados)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN futebol)
+     (ADJP 
+      (JJ americano)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (NN marcas)
+       (ADJP 
+        (JJ próprias)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN grama)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

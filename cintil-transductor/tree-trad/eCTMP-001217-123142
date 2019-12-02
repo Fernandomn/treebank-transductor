@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outros)
+    (NNS olhares)
+   )
+   (VP 
+    (VP 
+     (VB farão)
+     (ADVP 
+      (RB certamente)
+     )
+    )
+    (NP 
+     (DT outras)
+     (NP 
+      (NNS leituras)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS percurso)
+          (JJ fluvial)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Guadiana)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

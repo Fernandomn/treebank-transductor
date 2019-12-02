@@ -1,0 +1,48 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NN defesa)
+   (VP 
+    (ADVP 
+     (RB bem)
+    )
+    (VP 
+     (VBN parecida)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT aquela)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Lula)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN começo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN denúncias)
+       (PP 
+        (IN contra)
+        (NP 
+         (NNP José_Paulo_Bisol)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

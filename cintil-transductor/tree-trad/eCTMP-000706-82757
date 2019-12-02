@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Julieta)
+      (NNS Sampaio)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS líder)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS movimento)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS recandidatura)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS Sampaio)
+              )
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Porto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB deu)
+     (NP 
+      (NNS seguimento)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS discussão)
+     )
+    )
+   )
+  )
+ )
+)

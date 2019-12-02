@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Os)
+     (NN testes)
+     (PP 
+      (IN de)
+      (NP 
+       (NN laboratório)
+      )
+     )
+    )
+    (VP 
+     (VBP deram)
+    )
+    (ADJP 
+     (JJ certo)
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB agora)
+    )
+    (NP 
+     (DT a)
+     (NN empresa)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP prepara)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB comercializar)
+      )
+      (NP 
+       (DT essa)
+       (NN mini-usina)
+       (ADJP 
+        (JJ tratadora)
+        (PP 
+         (IN de)
+         (NP 
+          (NN esgotos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

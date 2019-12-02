@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Nike)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (JJ bons)
+    (NN resultados)
+   )
+   (VP 
+    (VP 
+     (VBG pondo)
+    )
+    (NP 
+     (NN fim)
+     (PP 
+      (IN a)
+      (NP 
+       (NN especulações)
+       (PP 
+        (IN de)
+        (VP 
+         (IN que)
+         (VP 
+          (VBP teria)
+          (VBN passado)
+         )
+         (NP 
+          (DT o)
+          (NN auge)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT as)
+            (JJ famosas)
+            (NN fabricantes)
+            (PP 
+             (IN de)
+             (NP 
+              (NN tênis)
+             )
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT os)
+              (NNP EUA)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

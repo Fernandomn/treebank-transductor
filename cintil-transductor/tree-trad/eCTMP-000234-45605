@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB editámos)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS papel)
+       )
+      )
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB era)
+        )
+        (ADJP 
+         (JJ importante)
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NP 
+            (PP nossa)
+            (NNS estratégia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

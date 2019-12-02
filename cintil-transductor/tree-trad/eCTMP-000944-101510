@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NNS JAE)
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB tapar)
+    (NP 
+     (NP 
+      (NNS buracos)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS estradas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Penafiel)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

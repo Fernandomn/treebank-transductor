@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (JJ Boa)
+   (NN notícia)
+   (VP 
+    (NP 
+     (DT o)
+     (NNP Parreira)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP comprou)
+    )
+    (NP 
+     (DT sua)
+     (NNP Mitsubishi)
+    )
+   )
+  )
+ )
+)

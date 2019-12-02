@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (JJ fortes)
+      (NNS ventos)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB varreram)
+         (NP 
+          (NP 
+           (NNS parte)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS mar)
+              (NNS de_)
+              (NNS a)
+              (NNS Tasmânia)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT os)
+          (NP 
+           (CD últimos)
+           (NNS dias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB provocaram)
+    (NP 
+     (NP 
+      (NNS agitação)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS frota)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

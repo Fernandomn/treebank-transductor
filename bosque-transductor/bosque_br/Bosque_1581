@@ -1,0 +1,163 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT o)
+     (NN rastreamento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN pistas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN contravenção)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP começa)
+     (IN a)
+     (VB bater)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN personalidades)
+      (PP 
+       (IN acima_de)
+       (NP 
+        (DT qualquer)
+        (NN suspeita)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN dentro_de+)
+     (NP 
+      (DT o)
+      (JJ pequeno)
+      (NN círculo)
+      (ADJP 
+       (JJ íntimo)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN elite)
+        (ADJP 
+         (JJ cosmopolita)
+        )
+        (ADJP 
+         (JJ brasileira)
+        )
+        (NP 
+         (DT um)
+         (NN amálgama)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP reúne)
+          )
+          (_CU_ 
+           (NP 
+            (NP 
+             (NN intelectuais)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NN esquerda)
+               )
+               e
+               (NP 
+                (NN direita)
+               )
+              )
+             )
+            )
+            (NP 
+             (NN eleitores)
+             (NP 
+              (PP 
+               (IN de)
+               (NP 
+                (NNP Lula)
+               )
+              )
+              (PP 
+               (IN a)
+               (NP 
+                (NNP Maluf)
+               )
+              )
+             )
+            )
+           )
+          )
+          (VP 
+           (VP 
+            (VBG passando)
+           )
+           (PP 
+            (IN por)
+            (NP 
+             (DT todo)
+             (DT o)
+             (NN espectro)
+             (ADJP 
+              (JJ intermediário)
+             )
+             (NP 
+              (NP 
+               (NN empresários)
+              )
+              (NP 
+               (NN profissionais)
+               (ADJP 
+                (JJ liberais)
+               )
+              )
+              (NP 
+               (NN jornalistas)
+              )
+              e
+              (NP 
+               (NN membros)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT o)
+                 (NN judiciário)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

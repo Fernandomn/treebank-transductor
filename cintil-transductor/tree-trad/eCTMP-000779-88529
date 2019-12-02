@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS Dólar)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS baixa)
+     )
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (NP 
+      (NNS marco)
+      (NP 
+       (CC e)
+       (NNS iene)
+      )
+     )
+    )
+   )
+  )
+ )
+)

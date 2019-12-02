@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS Publicidade)
+  )
+  (VP 
+   (VB continua)
+   (PP 
+    (IN a)
+    (VP 
+     (VB preferir)
+     (NP 
+      (DT a)
+      (NNS TV)
+     )
+    )
+   )
+  )
+ )
+)

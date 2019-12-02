@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Montou)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS acesso)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS Internet)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS faculdade)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN juntamente)
+       (IN com)
+      )
+      (NP 
+       (NP 
+        (NNS colegas)
+        (ADJP 
+         (RB mais)
+         (JJ velhos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

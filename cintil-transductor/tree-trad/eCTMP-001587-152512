@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Até)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS Figaro)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Paris)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB citou)
+     (NP 
+      (NP 
+       (NP 
+        (NNS apoiantes)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Vladimir)
+         )
+        )
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VB perguntavam)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Choque)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS ponte)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB provocou)
+   (NP 
+    (CD 10)
+    (NNS feridos)
+   )
+  )
+ )
+)

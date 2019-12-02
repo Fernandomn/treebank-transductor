@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Essa)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS ideia)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (RB também)
+          (VP 
+           (VB quero)
+           (VP 
+            (VP 
+             (VB padronizar)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT estes)
+               (NNS jogadores)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (RB Talvez)
+   (S 
+    (PP 
+     (IN por)
+     (NP 
+      (DT isso)
+     )
+    )
+    (S 
+     (NP 
+      (NNS Januário)
+     )
+     (VP 
+      (VP 
+       (VB recorda)
+       (RB também)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS sopa)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS legumes)
+          )
+         )
+        )
+        (ADJP 
+         (ADJP 
+          (ADJP 
+           (VB feita)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS fogão)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS lenha)
+               )
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (NNS pote)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS ferro)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

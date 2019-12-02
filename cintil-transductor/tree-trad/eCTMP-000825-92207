@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ pequeníssima)
+      (NP 
+       (NNS amostra)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB deve)
+             (VP 
+              (VB ter)
+              (VP 
+               (VB sido)
+               (NP 
+                (NP 
+                 (NP 
+                  (NNS arquivo)
+                  (JJ pessoal)
+                 )
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NNS Salazar)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

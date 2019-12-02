@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Sampaio)
+  )
+  (VP 
+   (VP 
+    (VB manda)
+    (NP 
+     (NNS recados)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS Governo)
+    )
+   )
+  )
+ )
+)

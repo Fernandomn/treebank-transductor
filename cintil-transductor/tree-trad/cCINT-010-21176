@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB posso)
+    )
+    (VP 
+     (VP 
+      (VB dizer)
+      (ADVP 
+       (RB assim)
+       (ADVP 
+        (RB de)
+        (RB repente)
+       )
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (VB fiz)
+         (NP 
+          (DT um)
+          (NNS cemitério)
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS jardim)
+           (PP 
+            (IN de_)
+            (NP 
+             (PRP eles)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

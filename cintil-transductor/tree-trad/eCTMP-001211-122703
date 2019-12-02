@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS porta-voz)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS comunidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB volta)
+    (PP 
+     (IN a)
+     (VP 
+      (VB pegar)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS jornal)
+         (PP 
+          (IN com)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS informações)
+            (ADJP 
+             (RB alegadamente)
+             (ADJP 
+              (VB cedidas)
+              (PP 
+               (IN por)
+               (NP 
+                (NP 
+                 (NNS Fernanda)
+                 (NNS Reis)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

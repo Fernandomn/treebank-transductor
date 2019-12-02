@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Biblioteca)
+    (ADJP 
+     (JJ vaticana)
+    )
+   )
+   (VP 
+    (VBP entra)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Internet)
+    )
+   )
+  )
+ )
+)

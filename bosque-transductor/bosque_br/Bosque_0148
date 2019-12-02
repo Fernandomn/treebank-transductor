@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP fizeram)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNP Pereira)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (DT um)
+     (NN absurdo)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

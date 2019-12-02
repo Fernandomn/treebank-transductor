@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Era)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NP 
+         (NNS dia)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS aulas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS estabelecimento)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ensino)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB continua)
+      (VB fechado)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Entre)
+      (NP 
+       (DT outras)
+       (NNS coisas)
+      )
+     )
+    )
+    (VP 
+     (VB fala)
+     (PP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS amor)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS tatuagem)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VB tem)
+              (PP 
+               (IN em_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS braço)
+                 (JJ direito)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

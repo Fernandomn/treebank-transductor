@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN papéis)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN dívida)
+     )
+    )
+   )
+   (VP 
+    (VBP seriam)
+   )
+   (ADVP 
+    (RB obrigatoriamente)
+   )
+   (VP 
+    (VBN trocados)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT outros)
+     (PP 
+      (IN de)
+      (NP 
+       (NN vencimento)
+       (RB a_longo_prazo)
+       (PP 
+        (IN a_partir_de)
+        (NP 
+         (CD 15)
+         (NN anos)
+        )
+       )
+       (PP 
+        (IN segundo)
+        (NP 
+         (DT o)
+         (NN documento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

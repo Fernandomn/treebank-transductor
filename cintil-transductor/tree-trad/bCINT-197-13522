@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Iracema)
+      (NNS Abrantes)
+     )
+    )
+    (VP 
+     (VB tem)
+     (NP 
+      (CD 71)
+      (NNS anos)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB é)
+       (NP 
+        (DT uma)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS filhas)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Aurora)
+               (NNS Espírito)
+               (NNS Santo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB vive)
+        (PP 
+         (IN com)
+         (NP 
+          (PRP ela)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

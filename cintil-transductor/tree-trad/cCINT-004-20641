@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Rodou)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS botão)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS volume)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NNS música)
+     )
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP lhe)
+       )
+       (VB agradou)
+      )
+     )
+    )
+   )
+  )
+ )
+)

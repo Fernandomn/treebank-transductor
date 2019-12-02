@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB falo)
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VB estou)
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS medo)
+           (PP 
+            (IN de_)
+            (NP 
+             (PRP ele)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

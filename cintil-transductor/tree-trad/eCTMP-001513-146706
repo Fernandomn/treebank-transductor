@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS custo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS obra)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ultrapassou)
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (CD 130)
+       (CD mil)
+      )
+      (NNS contos)
+     )
+    )
+   )
+  )
+ )
+)

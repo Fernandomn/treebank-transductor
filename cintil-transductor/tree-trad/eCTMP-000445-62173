@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS apelo)
+   )
+   (VP 
+    (VB será)
+    (VP 
+     (VB apresentado)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS secretariado)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS IWC)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS Grã-Bretanha)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

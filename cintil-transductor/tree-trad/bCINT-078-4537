@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (RB Particularmente)
+   (S 
+    (VB focados)
+    (S 
+     (VP 
+      (VB foram)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS projecto)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS metropolitano)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Porto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS questões)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS segurança)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

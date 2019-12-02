@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NNS canções)
+           (ADJP 
+            (RB mais)
+            (JJ recentes)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS Black)
+             (NNS Company)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Guto)
+    )
+    (VP 
+     (VP 
+      (VB expressa)
+      (RB bem)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS irreverência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

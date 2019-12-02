@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS empréstimo)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB será)
+       (VB negociado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNS tranches)
+       )
+      )
+     )
+     (CC já)
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS valor)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS causa)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB é)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS biénio)
+          (NNS 1991-92)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministro)
+    (NNS de_)
+    (NNS a)
+    (NNS Defesa)
+    (NNS de_)
+    (NNS a)
+    (NNS URSS)
+   )
+  )
+  (VP 
+   (VB despe)
+   (NP 
+    (DT a)
+    (NNS farda)
+   )
+  )
+ )
+)

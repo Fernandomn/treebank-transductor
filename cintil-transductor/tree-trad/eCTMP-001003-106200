@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (ADVP 
+     (RB Enfim)
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS invasão)
+       (JJ turca)
+      )
+     )
+     (VP 
+      (VP 
+       (VB multiplicou)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS país)
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT as)
+         (NNS mesquitas)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT os)
+          (NNS minaretes)
+         )
+        )
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VP 
+             (NP 
+              (PRP lhe)
+             )
+             (VB conferem)
+            )
+            (RB hoje)
+           )
+           (NP 
+            (DT um)
+            (NP 
+             (NNS cunho)
+             (JJ especial)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

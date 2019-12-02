@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN navio)
+   )
+   (VP 
+    (VBP ancora)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT uma)
+     (NN praia)
+     (NP 
+      (NNP Serena_Cay)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP torna)
+      )
+      (ADJP 
+       (JJ exclusiva)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (CD 1.600)
+         (NN passageiros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

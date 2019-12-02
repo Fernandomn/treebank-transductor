@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS administrador)
+     (NNS Mata)
+     (NNS Costa)
+    )
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (RB mesmo)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS TMN)
+      )
+      (VP 
+       (VB pode)
+       (VP 
+        (VP 
+         (VB chegar)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS final)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS ano)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NP 
+            (NNS resultados)
+            (ADJP 
+             (ADJP 
+              (RB muito)
+              (JJ positivos)
+             )
+            )
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (NP 
+             (CD 50)
+             (NP 
+              (NP 
+               (NN por)
+               (NN cento)
+              )
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (NNS quota)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NNS mercado)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

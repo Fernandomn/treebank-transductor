@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN jornal)
+   )
+   (VP 
+    (VBP compara)
+   )
+   (NP 
+    (DT a)
+    (NN eleição)
+    (ADJP 
+     (JJ presidencial)
+    )
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN francesa)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG afirmando)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN premiê)
+      (NP 
+       (NNP Edouard_Balladur)
+      )
+      (NP 
+       (NP ex-favorito)
+      )
+     )
+     (ADVP 
+      (RB também)
+     )
+     (VP 
+      (VBP pode)
+      (VB perder)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN abril)
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD 95)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

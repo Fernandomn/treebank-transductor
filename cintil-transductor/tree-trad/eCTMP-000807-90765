@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB Foi)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS corrida)
+         (JJ perfeita)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB disse)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (JJ pequeno)
+       )
+       (JJ etíope)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS final)
+     )
+    )
+   )
+  )
+ )
+)

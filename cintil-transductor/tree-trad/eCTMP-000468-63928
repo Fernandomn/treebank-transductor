@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (NP 
+       (DT o)
+       (NNS aborto)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (VP 
+        (VB proibido)
+        (PP 
+         (IN por)
+         (NP 
+          (NNS lei)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS mulheres)
+    )
+    (VP 
+     (VB devem)
+     (VP 
+      (VB poder)
+      (VP 
+       (VP 
+        (VB recorrer)
+        (PP 
+         (IN a)
+         (NP 
+          (PRP ele)
+         )
+        )
+       )
+       (PP 
+        (IN sem)
+        (NP 
+         (NNS perigo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

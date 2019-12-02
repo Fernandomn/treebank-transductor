@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VB Começa)
+   (NP 
+    (DT a)
+    (NP 
+     (CD 17ª)
+     (NP 
+      (NP 
+       (NNS Feira)
+       (NNS de_)
+       (NNS o)
+       (NNS Livro)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS cidade)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Faro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

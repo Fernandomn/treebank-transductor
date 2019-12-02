@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP mim)
+    )
+   )
+   (NP 
+    (NP 
+     (NN roupa)
+    )
+    e
+    (NP 
+     (NN moda)
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN coisas)
+    (ADJP 
+     (JJ diferentes)
+    )
+   )
+  )
+ )
+)

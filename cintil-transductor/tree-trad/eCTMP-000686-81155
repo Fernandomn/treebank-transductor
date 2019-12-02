@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (DT certos)
+      (NP 
+       (NNS tipos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS cancro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS infecção)
+      (PP 
+       (IN por)
+       (NP 
+        (DT um)
+        (NNS vírus)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB parece)
+     (VP 
+      (VP 
+       (VB ser)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS etapa)
+         (JJ fundamental)
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS aparecimento)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS doença)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

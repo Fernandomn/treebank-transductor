@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Paradoxalmente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Iraque)
+    )
+    (VP 
+     (VB deu)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS contributo)
+        (JJ indirecto)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS convenção)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS interdição)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT as)
+               (NP 
+                (NNS armas)
+                (JJ químicas)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

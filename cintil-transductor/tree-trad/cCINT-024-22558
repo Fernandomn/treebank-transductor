@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Depois)
+    (VP 
+     (S 
+      (S 
+       (VP 
+        (VB vendo)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS cara)
+           (JJ triste)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Manel)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB quis)
+      (VB saber)
+     )
+    )
+   )
+  )
+ )
+)

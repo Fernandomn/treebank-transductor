@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Paulo)
+   )
+   (VP 
+    (VB remeteu)
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NNS militantes)
+     )
+    )
+   )
+  )
+ )
+)

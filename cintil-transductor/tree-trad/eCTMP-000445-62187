@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ principal)
+     (NP 
+      (NNS grito)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS ordem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB agora)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS ensino)
+          (PP 
+           (IN com)
+           (NP 
+            (NNS qualidade)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

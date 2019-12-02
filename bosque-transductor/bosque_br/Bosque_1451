@@ -1,0 +1,98 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Ao_contrário_de+)
+    (NP 
+     (DT o)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tem)
+       (VBN acontecido)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (DT suas)
+        (JJ últimas)
+        (NN declarações)
+        (ADJP 
+         (JJ públicas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP FHC)
+   )
+   (VP 
+    (VBP evitou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (VP 
+     (VB fazer)
+    )
+    (NP 
+     (NN ataques)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (VBN chamados)
+       (NN aumentos)
+       (ADJP 
+        (JJ abusivos)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN preços)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN por_parte_de+)
+     (NP 
+      (DT os)
+      (NN oligopólios)
+      (NP 
+       (JJ grandes)
+       (NP 
+        (NN empresas)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP dominam)
+         )
+         (NP 
+          (VBN determinados)
+          (NN segmentos)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN economia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

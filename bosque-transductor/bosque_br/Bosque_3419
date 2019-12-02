@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NN Custo)
+   (NP 
+    (NN US$)
+    (ADJP 
+     (CD 8)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN tonelada)
+     )
+    )
+   )
+  )
+ )
+)

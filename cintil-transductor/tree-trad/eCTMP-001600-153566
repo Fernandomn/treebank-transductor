@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (DT Uma)
+       (NNS hora)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NNS casa)
+     )
+    )
+    (VP 
+     (VB explodiu)
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS sopro)
+        (JJ potente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN leitura)
+    (PP 
+     (IN de)
+     (NP 
+      (DT todo)
+      (DT o)
+      (NN trecho)
+     )
+    )
+   )
+   (VP 
+    (VBP leva)
+   )
+   (ADVP 
+    (RB aliás)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT outra)
+     (NN mentira)
+     (NP 
+      (DT esta)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT os)
+        (NN tempos)
+        (PP 
+         (IN de)
+         (NP 
+          (NN TV)
+          (PP 
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NNP PSDB)
+            )
+           )
+           e
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NNP PT)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

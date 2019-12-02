@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS SIC)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (PP 
+      (PP 
+       (IN de)
+       (RB longe)
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB foi)
+         (ADVP 
+          (RB mais)
+          (RB longe)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

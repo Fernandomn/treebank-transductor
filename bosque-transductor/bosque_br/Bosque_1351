@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Livro)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NNP Imposto_Único)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN lançado)
+   )
+   (NP 
+    (NN dia)
+    (ADJP 
+     (CD 9)
+    )
+   )
+  )
+ )
+)

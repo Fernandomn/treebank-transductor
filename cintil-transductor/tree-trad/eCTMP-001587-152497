@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Vila)
+    (NNS Franca)
+    (NNS de)
+    (NNS Xira)
+   )
+  )
+  (VP 
+   (VB aposta)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS investimento)
+    )
+   )
+  )
+ )
+)

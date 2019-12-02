@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS inauguração)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS loja)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (RB hoje)
+   )
+  )
+ )
+)

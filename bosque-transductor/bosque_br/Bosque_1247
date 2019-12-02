@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Aqui)
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT o)
+    (NN quarto)
+    (ADJP 
+     (ADJP 
+      (JJ pobre)
+     )
+     (ADJP 
+      (JJ simples)
+     )
+     (ADJP 
+      (JJ limpo)
+     )
+     e
+     (ADJP 
+      (JJ acolhedor)
+     )
+    )
+   )
+  )
+ )
+)

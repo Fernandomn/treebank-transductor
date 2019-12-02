@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS JSD)
+    )
+    (VP 
+     (VB existe)
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VB tem)
+        (NP 
+         (NP 
+          (NNS espaço)
+          (PP 
+           (PP 
+            (IN de)
+            (NP 
+             (NNS intervenção)
+            )
+           )
+           (PP 
+            (CC e)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS participação)
+               (JJ política)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

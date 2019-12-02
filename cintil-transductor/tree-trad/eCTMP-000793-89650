@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NP 
+     (JJ único)
+    )
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (RB ainda)
+       (VP 
+        (VB vive)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Polónia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

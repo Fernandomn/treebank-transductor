@@ -1,0 +1,48 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (CD última)
+    (NP 
+     (NNS batalha)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS agência)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB vai)
+           (VP 
+            (VB ser)
+            (VP 
+             (VB absorvida)
+             (PP 
+              (IN por)
+              (NP 
+               (DT um)
+               (NP 
+                (NNS grupo)
+                (JJ multinacional)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

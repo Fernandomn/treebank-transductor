@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN A)
+      (IN partir)
+      (IN de_)
+     )
+     (RB aí)
+    )
+    (VP 
+     (VB ficou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB viver)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS rua)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

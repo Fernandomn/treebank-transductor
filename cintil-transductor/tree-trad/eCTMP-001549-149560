@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS escritor)
+       (JJ brasileiro)
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB diz)
+        (CONJP 
+         (CC que)
+         (S 
+          (NP 
+           (PRP toda)
+           (NP 
+            (DT a)
+            (NNS unanimidade)
+           )
+          )
+          (VP 
+           (VB é)
+           (JJ burra)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

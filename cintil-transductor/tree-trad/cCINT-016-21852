@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS tom)
+   )
+   (VP 
+    (VP 
+     (VB era)
+     (RB agora)
+    )
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ amargo)
+     )
+     de_ o que
+     (NP 
+      (DT um)
+      (NP 
+       (NNS limão)
+       (JJ verde)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS doença)
+   )
+   (VP 
+    (VB foi)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ forte)
+     )
+     (CONJP 
+      (CC que)
+      (NP 
+       (DT o)
+       (NNS desejo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

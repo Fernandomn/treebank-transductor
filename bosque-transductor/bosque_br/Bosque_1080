@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NP ex-prefeita)
+    (NP 
+     (NNP Luiza_Erundina)
+    )
+   )
+   (VP 
+    (VBP participa)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN divulgação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN balanço)
+       (ADJP 
+        (JJ comparativo)
+       )
+       (PP 
+        (IN entre)
+        (NP 
+         (NP 
+          (DT sua)
+          (NN administração)
+          (ADJP 
+           (CD 89)
+          )
+          (PP 
+           (IN a)
+           (ADJP 
+            (CD 92)
+           )
+          )
+         )
+         e
+         (NP 
+          (DT o)
+          (JJ primeiro)
+          (NN ano)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN gestão)
+            (NP 
+             (NNP Paulo_Maluf)
+            )
+            (PP 
+             (IN a+)
+             (NP 
+              (DT a)
+              (NN frente)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NN Prefeitura)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNP São_Paulo)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

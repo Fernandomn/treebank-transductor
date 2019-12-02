@@ -1,0 +1,104 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Corria)
+    )
+    (NP 
+     (DT uma)
+     (NN piada)
+     (VP 
+      (PP 
+       (IN segundo)
+       (NP 
+        (PRP a_qual)
+       )
+      )
+      (NP 
+       (NNP Keynes)
+      )
+      (VP 
+       (VBP era)
+      )
+      (ADJP 
+       (JJ inteligente)
+       (RB demais)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB ser)
+        )
+        (ADJP 
+         (JJ consistente)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (NNP Dennis_Robertson)
+     (NP 
+      (DT outra)
+      (NN estrela)
+     )
+    )
+    (VP 
+     (VBP era)
+    )
+    (ADJP 
+     (JJ consistente)
+     (RB demais)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB ser)
+      )
+      (ADJP 
+       (JJ inteligente)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (NNP Lionel_Robbins)
+     (NP 
+      (DT o)
+      (JJ terceiro)
+      (NN nome)
+      (PP 
+       (IN de)
+       (NP 
+        (NN prestígio)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP era)
+    )
+    (ADJP 
+     nem
+     (ADJP 
+      (JJ inteligente)
+     )
+     nem
+     (ADJP 
+      (JJ consistente)
+     )
+    )
+   )
+  )
+ )
+)

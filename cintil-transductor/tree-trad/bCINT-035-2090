@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vem)
+    (PP 
+     (PP 
+      (PP 
+       (IN através)
+       (IN de)
+      )
+      (NP 
+       (DT uma)
+       (NNS introspecção)
+      )
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS análise)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS real)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

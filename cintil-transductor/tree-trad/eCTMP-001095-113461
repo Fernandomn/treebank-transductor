@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS contestatários)
+    )
+    (VB engrossam)
+   )
+   (S 
+    (CC e)
+    (S 
+     (PP 
+      (IN entre)
+      (NP 
+       (PRP eles)
+      )
+     )
+     (S 
+      (VP 
+       (VB estão)
+      )
+      (NP 
+       (NP 
+        (NNS membros)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Comité)
+           (NNS Central)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

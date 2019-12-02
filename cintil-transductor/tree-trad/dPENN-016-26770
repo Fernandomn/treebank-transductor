@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS potencialidades)
+      (ADJP 
+       (RB mais)
+       (JJ notáveis)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS aparelho)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (ADVP 
+      (RB contudo)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS nível)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS cérebro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN Oficina)
+    (PP 
+     (IN de)
+     (NP 
+      (NN Livros)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT A)
+     (NNP Oficina_de_Artes_do_Livro)
+    )
+    (VP 
+     (VBP oferece)
+    )
+    (NP 
+     (CD 8)
+     (NN vagas)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN curso)
+       (NP 
+        (NNP Papel_Artesanal:_Processamento_de_Fibras_Vegetais)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP vai)
+         )
+         (PP 
+          (PP 
+           (IN de)
+           (NP 
+            (CD 5)
+           )
+          )
+          (PP 
+           (IN a)
+           (ADJP 
+            (CD 14)
+            (PP 
+             (IN de)
+             (NP 
+              (NN abril)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

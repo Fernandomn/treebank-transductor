@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN psicanalista)
+    (ADVP 
+     (RB sic)
+    )
+    (NP 
+     (NNP José_Nazar)
+    )
+   )
+   (VP 
+    (VBP sugere)
+   )
+   (VP 
+    (VP 
+     (VBP acreditem)
+    )
+    (VP 
+     (IN se)
+     (VP 
+      (VBP quiser)
+     )
+    )
+   )
+   (ADVP 
+    (RB nada_mais_nada_menos)
+    (PP do_que)
+   )
+   (NP 
+    (NN linchamento)
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (NN punição)
+    )
+   )
+  )
+ )
+)

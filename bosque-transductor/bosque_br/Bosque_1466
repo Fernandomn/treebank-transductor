@@ -1,0 +1,85 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+    (NN números)
+   )
+   (VP 
+    (VBP vão)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN encontro)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN tendência)
+       (ADJP 
+        (JJ mundial)
+       )
+       (VP 
+        (VP 
+         (PP 
+          (IN segundo)
+          (NP 
+           (PRP a_qual)
+          )
+         )
+         (NP 
+          (DT o)
+          (NN paciente)
+         )
+         (VP 
+          (VBP deve)
+          (VB ficar)
+         )
+         (NP 
+          (DT o)
+          (JJ menor)
+          (NN tempo)
+          (ADJP 
+           (JJ possível)
+          )
+         )
+         (VBN internado)
+        )
+        e
+        (VP 
+         (NP 
+          (DT os)
+          (NN esforços)
+         )
+         (VP 
+          (VBP devem)
+          (VB ser)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB reintegrá-)
+           )
+           (NP 
+            (PRP lo)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT a)
+             (NN sociedade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

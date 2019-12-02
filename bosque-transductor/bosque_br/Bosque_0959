@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (NP 
+     (NNP Miguel_Kodja_Neto)
+    )
+   )
+   (VP 
+    (VBP ignorou)
+   )
+   (NP 
+    (DT a)
+    (NN diplomacia)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB normalmente)
+     )
+     (VP 
+      (VBP marca)
+     )
+     (NP 
+      (DT o)
+      (NN futebol)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB acusar)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NP ex-jogador)
+         )
+         e
+         (NP 
+          (NN empresário)
+         )
+        )
+        (NP 
+         (NNP Pelé)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

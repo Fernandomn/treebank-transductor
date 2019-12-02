@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (JJ actual)
+      )
+      (NNS Assembleia)
+     )
+    )
+    (VP 
+     (VB termina)
+     (NP 
+      (DT os)
+      (NP 
+       (PP seus)
+       (NP 
+        (NNS trabalhos)
+        (PP 
+         (IN a)
+         (NP 
+          (CD 15)
+          (NP 
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Junho)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB devendo)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ próxima)
+       )
+      )
+     )
+     (VP 
+      (VB iniciar)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NP 
+         (NNS trabalhos)
+         (PP 
+          (IN a)
+          (NP 
+           (CD 15)
+           (NP 
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Outubro)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

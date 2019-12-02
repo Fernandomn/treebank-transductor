@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS autoridades)
+   )
+   (VP 
+    (VP 
+     (VB arquivam)
+     (NP 
+      (DT o)
+      (NNS processo)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS falta)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS provas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

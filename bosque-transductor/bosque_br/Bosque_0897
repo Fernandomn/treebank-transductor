@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Covas)
+   )
+   (VP 
+    (VBP muda)
+   )
+   (NP 
+    (DT seu)
+    (NN programa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN TV)
+     )
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN conselho)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN assessores)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP FHC)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

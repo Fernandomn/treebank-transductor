@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Aleksandre)
+      (NNS Donner)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS treinador)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS ABC)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB manteve)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (PP suas)
+        (NNS afirmações)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (JJ mesmo)
+      (NP 
+       (NNS tom)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Artur)
+             (NNS Monteiro)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

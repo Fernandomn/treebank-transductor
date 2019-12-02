@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS futebol)
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB teve)
+     (PP 
+      (IN de)
+      (VP 
+       (VB reduzir)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS capacidade)
+         (JJ económica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ali)
+   )
+   (VP 
+    (VBP estará)
+   )
+   (VBN exposto)
+   (NP 
+    (DT o)
+    (NNP Lancer_Evolution)
+    (NP 
+     (NN carro)
+     (PP 
+      (IN de)
+      (NP 
+       (NN competição)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Mitsubishi)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS protagonista)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS mulher)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB assedia)
+         (NP 
+          (DT um)
+          (NNS homem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Comissão_Parlamentar_de_Inquérito)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN caso)
+      (NP 
+       (NNP Whitewater)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP começa)
+    (IN a)
+    (VB funcionar)
+   )
+   (NP 
+    (NN dia)
+    (ADJP 
+     (CD 29)
+    )
+   )
+  )
+ )
+)

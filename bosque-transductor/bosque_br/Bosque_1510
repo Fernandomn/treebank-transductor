@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN desenlace)
+    )
+    (ADVP 
+     (RB porém)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP veio)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN forma)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN golpe)
+        (PP 
+         (IN de)
+         (NP 
+          (NN timão)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN reforma)
+      (ADJP 
+       (JJ radical)
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP foi)
+     (VBN precipitado)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT as)
+      (CD duas)
+      (NN balas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tiraram)
+       )
+       (NP 
+        (DT a)
+        (NN vida)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Colosio)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

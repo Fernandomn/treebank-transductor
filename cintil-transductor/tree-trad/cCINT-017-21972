@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Em_)
+     (RB a)
+     (RB verdade)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Vasco)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (VP 
+      (VB tido)
+      (NP 
+       (NP 
+        (ADJP 
+         (RB lá)
+         (PRP muita)
+        )
+       )
+       (NP 
+        (NNS sorte)
+        (PP 
+         (IN com)
+         (NP 
+          (DT os)
+          (NNS bichos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

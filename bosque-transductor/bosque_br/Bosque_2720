@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Anteontem)
+   )
+   (NP 
+    (DT o)
+    (NNP Banerj)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP administra)
+     )
+     (NP 
+      (DT a)
+      (NN dívida)
+      (ADJP 
+       (JJ pública)
+      )
+      (ADJP 
+       (JJ estadual)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP conseguiu)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Banco_Central)
+    )
+    (VP 
+     (VBP negociasse)
+    )
+    (NP 
+     (NN R$)
+     (NP 
+      (CD 84)
+      (NN milhões)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN títulos)
+      (ADJP 
+       (JJ estaduais)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG trocando-)
+     )
+     (NP 
+      (PRP os)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN títulos)
+       (ADJP 
+        (JJ federais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Advogada)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (NN passaporte)
+      (VBN devolvido)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP é)
+      (VBN barrada)
+     )
+    )
+   )
+  )
+ )
+)

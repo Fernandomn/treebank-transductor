@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (PP 
+      (IN De)
+      (NP 
+       (NNS Palmela)
+      )
+     )
+     (S 
+      (VP 
+       (VB poderá)
+       (VP 
+        (VB desaparecer)
+       )
+      )
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS situação)
+        (ADJP 
+         (RB socialmente)
+         (JJ confrangedora)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS resolução)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS problema)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB está)
+       (RB ainda)
+      )
+      (ADVP 
+       (RB longe)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS final)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

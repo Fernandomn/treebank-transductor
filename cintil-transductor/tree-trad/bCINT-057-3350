@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Fábrica)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS tintas)
+      )
+     )
+    )
+    (JJ centenária)
+   )
+  )
+  (VP 
+   (VB ardeu)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS Vila)
+      (NNS Nova)
+      (NNS de)
+      (NNS Gaia)
+     )
+    )
+   )
+  )
+ )
+)

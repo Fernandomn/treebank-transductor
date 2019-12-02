@@ -1,0 +1,35 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Não)
+   )
+   (S 
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VB tenho)
+     (NP 
+      (NP 
+       (NP 
+        (NNS confiança)
+        (JJ absoluta)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS doutor)
+          (NNS Sardinha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

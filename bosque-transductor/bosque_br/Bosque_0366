@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Cada)
+    (NN banco)
+   )
+   (VP 
+    (VBP buscará)
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP BC)
+     )
+    )
+    ou
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP BB)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN volume)
+    (PP 
+     (IN de)
+     (NP 
+      (NN dinheiro)
+     )
+    )
+    (ADJP 
+     (JJ compatível)
+     (PP 
+      (IN com)
+      (NP 
+       (DT suas)
+       (NN operações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

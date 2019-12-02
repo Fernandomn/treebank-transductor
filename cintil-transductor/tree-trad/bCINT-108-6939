@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS director)
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB quer)
+       )
+       (VP 
+        (VB ser)
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (CC nem)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS burocrata)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NNS subsídios)
+               )
+              )
+             )
+            )
+           )
+          )
+          (NP 
+           (CC nem)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS coveiro)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS arte)
+                (JJ contemporânea)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

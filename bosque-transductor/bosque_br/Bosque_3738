@@ -1,0 +1,107 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN estratégia)
+    (VP 
+     (VP 
+      (VBN montada)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNP Quércia)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT o)
+    (NN objetivo)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB ganhar)
+      )
+      (NP 
+       (DT a)
+       (NN prévia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP PMDB)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP vai)
+        )
+        (UCP 
+         (VP 
+          (VB definir)
+          (NP 
+           (DT o)
+           (NN candidato)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN partido)
+             (PP 
+              (IN a+)
+              (NP 
+               (DT a)
+               (NN Presidência)
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (JJ próximo)
+            (NN dia)
+            (ADJP 
+             (CD 15)
+            )
+           )
+          )
+         )
+         (ADVP 
+          (RB bem_como)
+         )
+         (VP 
+          (VB manter)
+          (NP 
+           (DT o)
+           (NNP PMDB)
+          )
+          (VBN unido)
+          (PP 
+           (IN durante)
+           (NP 
+            (DT a)
+            (NN campanha)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

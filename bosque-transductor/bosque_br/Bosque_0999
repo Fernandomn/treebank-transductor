@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN tabela)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ primeira)
+      (NN fase)
+     )
+    )
+   )
+   (VP 
+    (VBP prevê)
+   )
+   (NP 
+    (DT uma)
+    (NN viagem)
+    (NP 
+     (NNP Los_AngelesDetroitLos_Angeles)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN seleção)
+     (ADJP 
+      (JJ romena)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT um)
+     (NN espaço)
+     (PP 
+      (IN de)
+      (NP 
+       (CD oito)
+       (NN dias)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN fase)
+    )
+   )
+  )
+ )
+)

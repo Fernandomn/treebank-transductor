@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Sendo)
+      (NP 
+       (PRP ela)
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ única)
+       (NP 
+        (NNS beneficiária)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS actividade)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB poderia)
+       )
+      )
+      (VP 
+       (VP 
+        (VB responsabilizar)
+        (NP 
+         (DT o)
+         (NNS hospital)
+        )
+       )
+       (RB objectivamente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

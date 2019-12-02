@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS expressão)
+   )
+   (VP 
+    (VP 
+     (VB evocará)
+     (RB também)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS extensão)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS serviços)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (DT as)
+            (NNS mulheres)
+           )
+           (VP 
+            (VP 
+             (VB prestariam)
+             (PP 
+              (PP 
+               (IN em_)
+               (NP 
+                (DT a)
+                (NP 
+                 (NNS perspectiva)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT as)
+                   (NNS metades)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

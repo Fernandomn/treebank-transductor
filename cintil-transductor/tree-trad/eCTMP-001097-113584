@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS padeiro)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NNS peixeiro)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB podem)
+    )
+    (VP 
+     (RB aqui)
+     (VB chegar)
+    )
+   )
+  )
+ )
+)

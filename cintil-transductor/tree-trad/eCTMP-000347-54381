@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB afirmou)
+       (ADVP 
+        (RB ontem)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS São)
+         (NNS Paulo)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NP 
+         (NNS visão)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS situação)
+            (JJ brasileira)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB é)
+       (ADJP 
+        (JJ pessimista)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

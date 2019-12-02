@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN tumorectomia)
+    )
+    (VP 
+     (VBP garante)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NN sobrevida)
+       (ADJP 
+        (JJ comparável)
+       )
+      )
+      e
+      (NP 
+       (JJ melhor)
+       (NN qualidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NN vida)
+        )
+       )
+      )
+     )
+     (SBAR do_que
+      (S 
+       (DT a)
+       (NN mastectomia)
+       (ADJP 
+        (JJ total)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP escreveu)
+   )
+   (NP 
+    (DT a)
+    (NN chefe)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (JJ novo)
+      (NN estudo)
+     )
+    )
+    (NP 
+     (NNP Anna_Lee-Feldstein)
+    )
+   )
+  )
+ )
+)

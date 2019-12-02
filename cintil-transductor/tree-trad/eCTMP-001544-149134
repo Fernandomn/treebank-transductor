@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vai)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS frente)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS homem)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB tinha)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (NNS mãozinhas)
+            (JJ especiais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS relojoeiro)
+       (NP 
+        (CC e)
+        (NNS fotógrafo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

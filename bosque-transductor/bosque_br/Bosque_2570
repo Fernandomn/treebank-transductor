@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN polícia)
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (VP 
+     (VB localizar)
+    )
+    (NP 
+     (DT todos)
+     (DT os)
+     (VBN envolvidos)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN briga)
+      )
+     )
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (DT o)
+      (NN dia)
+      (ADJP 
+       (CD 21)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN outubro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

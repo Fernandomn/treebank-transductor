@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN câmera)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Raoul_Coutard)
+     )
+    )
+   )
+   (VP 
+    (VBP conseguiu)
+   )
+   (VP 
+    (VP 
+     (VB transformar)
+    )
+    (NP 
+     (NNP Paris)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT uma)
+      (NN cidade)
+      (ADJP 
+       (JJ gélida)
+      )
+      (PP 
+       (IN sem)
+       (VP 
+        (VP 
+         (VB contar)
+        )
+        (NP 
+         (DT a)
+         (NN ousadia)
+         (PP 
+          (IN de)
+          (VP 
+           (VP 
+            (VB montar)
+           )
+           (NP 
+            (NN sequências)
+            (ADJP 
+             (JJ inteiras)
+            )
+           )
+           (PP 
+            (IN em)
+            (ADJP 
+             (JJ negativo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NNP Guarda_Nacional)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Venezuela)
+      )
+     )
+    )
+    (VP 
+     (VBP passou)
+     (IN a)
+     (VB conversar)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN índios)
+     )
+    )
+    (CC e)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB convencê-)
+      )
+      (NP 
+       (PRP los)
+      )
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB fazer)
+        )
+        (NP 
+         (DT o)
+         (NN papel)
+         (PP 
+          (IN de+)
+          (NP 
+           (PRP ela)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB ou_seja)
+    )
+    (VP 
+     (VP 
+      (VB reprimir)
+     )
+     (NP 
+      (DT os)
+      (NN garimpeiros)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Altino)
+   )
+  )
+ )
+)

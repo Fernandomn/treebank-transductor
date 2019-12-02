@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Nikias)
+    (NNS Skapinakis)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS galeria)
+      (NP 
+       (NNS Fernando)
+       (NNS Santos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

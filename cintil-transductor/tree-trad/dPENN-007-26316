@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS taxa)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS resultado)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS pagamento)
+         (ADJP 
+          (ADJP 
+           (VB aprovado)
+           (RB ontem)
+          )
+          (PP 
+           (IN por_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Departamento)
+             (NNS de)
+             (NNS Utilidade)
+             (NNS Pública)
+             (NNS de)
+             (NNS Mssachusetts)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

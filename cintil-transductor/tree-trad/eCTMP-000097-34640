@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS escritor)
+     (NP 
+      (NNS David)
+      (NNS Mourão-Ferreira)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB apresentou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS terça-feira)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS resultado)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB tomou)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS forma)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS livro)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

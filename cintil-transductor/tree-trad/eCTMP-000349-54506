@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Quando)
+     (RB muito)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS bancos)
+    )
+    (VP 
+     (VB permitem)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS subscrição)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS regime)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS contitularidade)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

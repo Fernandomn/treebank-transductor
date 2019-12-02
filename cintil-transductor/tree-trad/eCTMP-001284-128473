@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Maqueta)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS projecto)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB foi)
+    (VB apresentada)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Embaixada)
+      (NNS de)
+      (NNS França)
+     )
+    )
+   )
+  )
+ )
+)

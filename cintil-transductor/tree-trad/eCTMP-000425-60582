@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Quanto)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS obra)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB vai)
+           (VP 
+            (VB custar)
+            (NP 
+             (NP 
+              (ADVP 
+               (RB cerca)
+               (RB de)
+              )
+              (NP 
+               (CD 600)
+               (CD mil)
+              )
+             )
+             (NNS contos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB garante)
+   )
+  )
+ )
+)

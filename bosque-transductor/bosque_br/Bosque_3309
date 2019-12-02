@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Moscou)
+   )
+   (VP 
+    (VBP exige)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NN conferência)
+     (PP 
+      (IN sobre)
+      (NP 
+       (NN segurança)
+       (ADJP 
+        (JJ européia)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP recompense)
+    )
+    (NP 
+     (DT a)
+     (NNP Sérvia)
+    )
+    (PP 
+     (IN por)
+     (VP 
+      (VP 
+       (VB pressionar)
+      )
+      (NP 
+       (NN sérvios-bósnios)
+      )
+     )
+    )
+   )
+  )
+ )
+)

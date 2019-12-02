@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Trabalhadores)
+  )
+  (VP 
+   (VP 
+    (VB manifestam)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (NP 
+      (NNS Lei)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS Disponíveis)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Bandeirantes)
+   )
+   (VP 
+    (VBP mostra)
+   )
+   (NP 
+    (DT o)
+    (NN videoteipe)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNP Kansas)
+      )
+      e
+      (NP 
+       (NNP Atlanta)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 17h45)
+    )
+   )
+  )
+ )
+)

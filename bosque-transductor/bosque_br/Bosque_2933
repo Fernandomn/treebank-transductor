@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN tucanos)
+   )
+   (VP 
+    (VBP consideram)
+   )
+   (ADJP 
+    (JJ perigoso)
+   )
+   (VP 
+    (VP 
+     (VB deixar)
+    )
+    (NP 
+     (DT um)
+     (JJ possível)
+     (NN governo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP FHC)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN sujeito)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (NN manobras)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NN deputados)
+           )
+           e
+           (NP 
+            (NN senadores)
+           )
+          )
+          (ADJP 
+           (JJ pefelistas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

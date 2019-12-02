@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS projecto)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VB arquitectado)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Robert)
+          (NNS Pittman)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS ex-programador)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS rádio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Warner)
+       (NNS Amex)
+       (NNS Entertainment)
+       (NNS Company)
+      )
+     )
+    )
+   )
+  )
+ )
+)

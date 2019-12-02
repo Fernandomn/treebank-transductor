@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de+)
+    (NP 
+     (DT a)
+     (NN popularidade)
+    )
+   )
+   (NP 
+    (NNP Chico_de_Miguel)
+   )
+   (VP 
+    (VBP perdeu)
+   )
+   (NP 
+    (DT as)
+    (CD duas)
+    (JJ últimas)
+    (NN eleições)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN Prefeitura)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Itabaiana)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP passou)
+       (IN a)
+       (VB ser)
+       (VBN controlada)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN políticos)
+        (ADJP 
+         (JJ locais)
+        )
+        (VP 
+         (VP 
+          (VBN ligados)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (NN governador)
+           (NP 
+            (NNP João_Alves)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

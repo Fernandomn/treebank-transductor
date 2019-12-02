@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Caso)
+    (NP 
+     (PRP isso)
+    )
+    (VP 
+     (VBP ocorresse)
+    )
+   )
+   (NP 
+    (PRP eles)
+   )
+   (VP 
+    (VBP seriam)
+    (VBN colocados)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN liberdade)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB tão_logo)
+    )
+    (VP 
+     (VBP chegassem)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Canadá)
+     )
+    )
+   )
+  )
+ )
+)

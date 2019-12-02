@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Lira)
+    (NP 
+     (CC e)
+     (NNS peseta)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS queda)
+    )
+   )
+  )
+ )
+)

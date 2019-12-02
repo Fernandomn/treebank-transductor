@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NNS PS)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (NP 
+      (NNS diagnóstico)
+     )
+     (ADJP 
+      (VB feito)
+      (PP 
+       (IN por)
+       (NP 
+        (NNS Catroga)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

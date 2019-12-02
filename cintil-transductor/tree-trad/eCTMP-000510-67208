@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB gostam)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS competições)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (S 
+      (VP 
+       (VB aceitam)
+       (NP 
+        (DT os)
+        (NNS desafios)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB protegem)
+        (NP 
+         (DT a)
+         (NNS natureza)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

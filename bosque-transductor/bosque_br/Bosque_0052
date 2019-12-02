@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Só)
+     (RB depois)
+    )
+    (ADVP 
+     (RB é_que)
+    )
+    (VP 
+     (VBP levanto)
+    )
+    (NP 
+     (DT a)
+     (NN cabeça)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB fazer)
+       )
+       (NP 
+        (DT um)
+        (NN lançamento)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP reclama)
+   )
+   (NP 
+    (NN Neto)
+   )
+  )
+ )
+)

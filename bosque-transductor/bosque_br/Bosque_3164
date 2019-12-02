@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Vocês)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN pessoas)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NNP Brasil)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tem)
+       )
+       (NP 
+        (NN sinais)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN renovação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

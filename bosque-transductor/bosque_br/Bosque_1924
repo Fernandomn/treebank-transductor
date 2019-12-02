@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Votar)
+    )
+    (ADVP 
+     (RB contra)
+    )
+   )
+   (VP 
+    (VBP seria)
+   )
+   (ADJP 
+    (JJ perigoso)
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (DT o)
+     (NN plano)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN apoio)
+     (ADJP 
+      (JJ popular)
+     )
+    )
+   )
+  )
+ )
+)

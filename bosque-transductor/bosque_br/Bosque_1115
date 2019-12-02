@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP pode)
+    (VB medir)
+   )
+   (NP 
+    (DT um)
+    (NN sentimento)
+   )
+   (VP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP mede)
+    )
+    (NP 
+     (DT uma)
+     (NN estrada)
+    )
+   )
+  )
+ )
+)

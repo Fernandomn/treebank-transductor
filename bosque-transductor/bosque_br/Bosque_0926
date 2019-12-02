@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN polícia)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Arealva)
+      (NP 
+       (CD 386)
+       (NN km)
+       (PP 
+        (IN a)
+        (NP 
+         (NN noroeste)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP prendeu)
+   )
+   (NP 
+    (CD três)
+    (NN rapazes)
+    (VP 
+     (VP 
+      (VBN acusados)
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB estuprar)
+       )
+       (NP 
+        (DT a)
+        (NN funcionária)
+        (ADJP 
+         (JJ pública)
+        )
+        (NP 
+         (NNP A.P.S.)
+        )
+        (ADJP 
+         (CD 30)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (JJ último)
+         (NN domingo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

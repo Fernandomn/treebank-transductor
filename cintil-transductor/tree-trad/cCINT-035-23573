@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Nenhum)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (PRP eles)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB arranjou)
+     (NP 
+      (DT outra)
+      (NNS pessoa)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

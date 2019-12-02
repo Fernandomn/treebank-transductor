@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Marcou)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ bom)
+       (NNS golo)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB foi)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS perigo)
+        (JJ constante)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

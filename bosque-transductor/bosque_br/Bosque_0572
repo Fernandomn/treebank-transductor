@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Burle_Filho)
+    )
+   )
+   (NP 
+    (NNP Biscaia)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP lhe)
+   )
+   (VP 
+    (VBP adiantou)
+   )
+   (NP 
+    (PRP nada)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN telefone)
+    )
+   )
+   (NP 
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN assunto)
+     )
+    )
+   )
+  )
+ )
+)

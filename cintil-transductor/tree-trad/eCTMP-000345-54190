@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Anuncia)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (RB também)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (NP 
+       (NNS Jacques)
+       (NNS Roubaud)
+      )
+     )
+     (VP 
+      (VP 
+       (VB pronunciará)
+       (NP 
+        (DT uma)
+        (NNS conferência)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Instituto)
+         (NNS Franco-Português)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

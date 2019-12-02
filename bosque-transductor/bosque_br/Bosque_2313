@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Les_Granges)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NN aroma)
+       )
+       e
+       (NP 
+        (NN sabor)
+       )
+      )
+      (VP 
+       (VP 
+        (VBN marcado)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NN morangos)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP evolui)
+     )
+     (ADVP 
+      (RB bem)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN boca)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB enquanto)
+    )
+    (NP 
+     (DT o)
+     (NNP Saumur)
+     (ADJP 
+      (RB também)
+      (VBN frutado)
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ sério)
+     )
+     e
+     (ADJP 
+      (RB levemente)
+      (JJ tânico)
+     )
+    )
+   )
+  )
+ )
+)

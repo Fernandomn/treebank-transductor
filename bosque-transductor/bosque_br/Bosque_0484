@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB justificar)
+     )
+     (NP 
+      (DT sua)
+      (NN necessidade)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN República)
+     )
+    )
+   )
+   (VP 
+    (VBP abriu)
+   )
+   (NP 
+    (DT uma)
+    (NN fresta)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN realidade)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN propaganda)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT as)
+       (NN virtudes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN URV)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

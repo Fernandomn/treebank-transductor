@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Cristou)
+   )
+   (VP 
+    (VBP representa)
+   )
+   (NP 
+    (DT os)
+    (NN clubes)
+    (ADJP 
+     (JJ alemães)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (NP 
+       (DT o)
+       (NNP Bayern_Leverkusen)
+      )
+      e
+      (NP 
+       (NNP Shalk-04)
+      )
+     )
+    )
+   )
+  )
+ )
+)

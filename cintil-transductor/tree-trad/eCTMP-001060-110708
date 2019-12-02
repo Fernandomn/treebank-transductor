@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (RB Também)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS marca)
+         (NNS Epic)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (NP 
+       (JJ lançado)
+       (NP 
+        (NP 
+         (NNS Pinhead)
+         (NNS v)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

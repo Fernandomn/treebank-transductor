@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (RB trás)
+   )
+   (S 
+    (VP 
+     (VB fica)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS imagem)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS terra)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS castelos)
+            (NP 
+             (CC e)
+             (NNS fantasmas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

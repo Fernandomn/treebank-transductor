@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS fenómeno)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ explicável)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS razões)
+        (JJ históricas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

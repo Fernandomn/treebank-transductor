@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN candidato)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PMDB)
+     )
+    )
+   )
+   (VP 
+    (VBP chegou)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Bauru)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 10h)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN jatinho)
+     (VP 
+      (VP 
+       (VBN fretado)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN partido)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

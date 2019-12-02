@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NNP Tatuapé)
+     (VP 
+      (ADVP 
+       (RB onde)
+      )
+      (NP 
+       (DT a)
+       (NN falta)
+       (PP 
+        (IN de)
+        (NP 
+         (NN atendimento)
+        )
+       )
+      )
+      (VP 
+       (VBP é)
+      )
+      (ADJP 
+       (JJ comum)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NN fins-de-semana)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP havia)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NP 
+     (NN clínicos)
+    )
+    e
+    (NP 
+     (NN cirurgiões)
+    )
+   )
+   (VBG trabalhando)
+  )
+ )
+)

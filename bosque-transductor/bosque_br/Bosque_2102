@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Citou)
+   )
+   (NP 
+    (DT outros)
+    (VP 
+     (VP 
+      (VBN ocorridos)
+     )
+     (ADVP 
+      (RB recentemente)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNP Carinhanha)
+       )
+       (NP 
+        (NNP Santa_Maria_da_Vitória)
+       )
+       (NP 
+        (NNP Paratinga)
+       )
+       e
+       (NP 
+        (NNP Guanambi)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

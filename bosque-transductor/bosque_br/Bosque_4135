@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Alguns)
+     (NN tenistas)
+    )
+    (VP 
+     (VBP são)
+    )
+    (ADVP 
+     (RB assim)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP usam)
+    )
+    (NP 
+     (DT sua)
+     (NN carga)
+     (ADJP 
+      (JJ emocional)
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NN combustível)
+     )
+    )
+   )
+  )
+ )
+)

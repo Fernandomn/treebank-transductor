@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VB Choveu)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS altura)
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (VP 
+         (VB choveu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

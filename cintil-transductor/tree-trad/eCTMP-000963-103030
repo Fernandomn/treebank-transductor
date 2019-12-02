@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Portugal)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB ter)
+      (PP 
+       (IN de)
+       (VB atacar)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB precisa)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS golos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS navio)
+   )
+   (VP 
+    (VB estava)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ encalhado)
+     )
+     (CONJP 
+      (CC que)
+      (NP 
+       (NNS árvore)
+      )
+     )
+    )
+   )
+  )
+ )
+)

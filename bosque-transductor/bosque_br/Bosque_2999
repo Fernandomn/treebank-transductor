@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Pode)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VP 
+     (VB reorientar)
+     (PP 
+      (IN para)
+      (NP 
+       (DT uma)
+       (JJ maior)
+       (NN produção)
+       (ADJP 
+        (JJ industrial)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VB contribuir)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN criação)
+       (PP 
+        (IN de)
+        (NP 
+         (DT mais)
+         (NP 
+          (NP 
+           (NN emprego)
+          )
+          e
+          (NP 
+           (NN riqueza)
+          )
+         )
+        )
+       )
+       (NP 
+        (NN consequência)
+        (ADJP 
+         (JJ natural)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN processo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

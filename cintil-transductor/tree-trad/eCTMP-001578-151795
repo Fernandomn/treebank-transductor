@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Questões)
+       (JJ dolorosas)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NP 
+         (JJ irlandeses)
+        )
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (VB levantadas)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS campanha)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB aconselhavam)
+    )
+    (NP 
+     (NP 
+      (JJ grandes)
+      (NP 
+       (NNS demonstrações)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS alegria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

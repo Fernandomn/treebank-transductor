@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT As)
+     (NN fábricas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP atingiram)
+      )
+     )
+    )
+    (VP 
+     (VBP receberam)
+    )
+    (NP 
+     (DT uma)
+     (NN placa)
+    )
+   )
+   (CC e)
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (DT alguns)
+      (NN casos)
+     )
+    )
+    (NP 
+     (DT um)
+     (NN veículo)
+    )
+    (VP 
+     (VBP é)
+     (VBN sorteado)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT seus)
+      (NN funcionários)
+     )
+    )
+   )
+  )
+ )
+)

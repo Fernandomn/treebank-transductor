@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Comunidade)
+     (NNS Europeia)
+    )
+   )
+   (VP 
+    (VB tentará)
+    (VP 
+     (VP 
+      (VB fazer)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ mesmo)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS Rússia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

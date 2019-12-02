@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS interior)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (RB realmente)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB negar)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS importância)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS estrutura)
+           (CONJP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB é)
+               (NP 
+                (DT a)
+                (NP 
+                 (JJ única)
+                 (NP 
+                  (NNS razão)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT este)
+                    (NNS edifício)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

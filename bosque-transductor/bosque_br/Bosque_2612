@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN arquivos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN pastas)
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP podem)
+    (VB ser)
+    (VBN abertos)
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT o)
+     (NN menu)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG facilitando)
+    )
+    (NP 
+     (DT o)
+     (NN uso)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN arquivos)
+       )
+       e
+       (NP 
+        (NN aplicações)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

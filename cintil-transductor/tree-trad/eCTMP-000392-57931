@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS NATO)
+  )
+  (VP 
+   (VB decidiu)
+   (VP 
+    (VP 
+     (VB enviar)
+     (NP 
+      (NP 
+       (CD seis)
+       (CD mil)
+      )
+      (NNS soldados)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNS Bósnia)
+     )
+    )
+   )
+  )
+ )
+)

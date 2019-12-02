@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Jack)
+       (NNS Nicholson)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Demi)
+         (NNS Moore)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Tom)
+          (NNS Cruise)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Collor)
+   )
+   (VP 
+    (VBP recebia)
+   )
+   (NP 
+    (NN telefonemas)
+   )
+   (NP 
+    (DT o)
+    (NN tempo)
+    (ADJP 
+     (JJ inteiro)
+    )
+   )
+   (NP 
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN advogados)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN políticos)
+       (ADJP 
+        (JJ amigos)
+       )
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN pessoas)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP prestavam)
+        )
+        (NP 
+         (NN solidariedade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

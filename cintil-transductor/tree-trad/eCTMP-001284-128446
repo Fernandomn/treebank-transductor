@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Dionísio)
+     (NNS Sampaio)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS proprietário)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS casa)
+         (ADJP 
+          (VB arrendada)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS família)
+             (JJ cigana)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

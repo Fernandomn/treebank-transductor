@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Estava)
+       (RB evidentemente)
+      )
+      (PP 
+       (IN sem)
+       (NP 
+        (NNS forças)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (PP 
+        (IN por)
+        (NP 
+         (DT isso)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP o)
+        )
+        (VB tirei)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

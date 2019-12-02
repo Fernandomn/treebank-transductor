@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS opinião)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS escolaridade)
+       (JJ obrigatória)
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB deve)
+      )
+      (VP 
+       (VB ter)
+       (NP 
+        (NP 
+         (NNS princípios)
+         (JJ selectivos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

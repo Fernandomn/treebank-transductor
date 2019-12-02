@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Algarve)
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS problemas)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS saúde)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

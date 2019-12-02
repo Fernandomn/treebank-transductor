@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Maria)
+     (NNS de_)
+     (NNS a)
+     (NNS Luz)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB começa)
+     (PP 
+      (IN a)
+      (VP 
+       (VB sentir)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS efeitos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS greve)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS fome)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

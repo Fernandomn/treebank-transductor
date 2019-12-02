@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB ter)
+      (VBN dito)
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (NN dias)
+      )
+     )
+     (VP 
+      (IN que)
+      (PP 
+       (IN entre)
+       (NP 
+        (NP 
+         (DT o)
+         (NP justo e
+          (NN legítimo)
+         )
+        )
+        e
+        (NP 
+         (DT o)
+         (NN legal)
+        )
+       )
+      )
+      (VP 
+       (VBP opta)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NP justo e
+         (NN legítimo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Lula)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN reforma)
+     (ADJP 
+      (JJ agrária)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT sua)
+      (JJ eventual)
+      (NN governo)
+     )
+    )
+    (VP 
+     (VBP será)
+     (VBN feito)
+    )
+    (PP 
+     (IN dentro_de+)
+     (NP 
+      (DT a)
+      (NN lei)
+     )
+    )
+   )
+  )
+ )
+)

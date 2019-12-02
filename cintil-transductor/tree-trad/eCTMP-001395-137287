@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Moçambique)
+        )
+       )
+       (VB recrudesce)
+      )
+      (NP 
+       (DT esse)
+       (NNS fenómeno)
+      )
+     )
+    )
+   )
+  )
+ )
+)

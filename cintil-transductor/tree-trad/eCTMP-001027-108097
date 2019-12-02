@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS imagética)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (RB agora)
+     )
+     (ADJP 
+      (RB mais)
+      (JJ violenta)
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS sinceridade)
+         (NP 
+          (CC e)
+          (NNS imediação)
+         )
+        )
+        (JJ maiores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

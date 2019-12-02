@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN crise)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP MG)
+     )
+    )
+   )
+   (VP 
+    (VBP aprofundou-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de)
+      (NP 
+       (NN dezembro)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN declínio)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN preços)
+       (ADJP 
+        (JJ internacionais)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN petróleo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

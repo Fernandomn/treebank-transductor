@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Enfim)
+   )
+   (NP 
+    (RB nem)
+    (PRP tudo)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN perdido)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT este)
+      (NN futebol)
+      (UCP 
+       (VBN automatizado)
+       e
+       (ADJP 
+        (RB excessivamnete)
+        (JJ defensivo)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT a)
+        (NN Copa)
+       )
+       (VP 
+        (VBP está)
+        (VBG consagrando)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

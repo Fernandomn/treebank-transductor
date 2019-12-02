@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (DT minha)
+     (JJ primeira)
+     (NN tentativa)
+    )
+   )
+   (VP 
+    (VBP fiz)
+   )
+   (ADVP 
+    (RB exatamente)
+   )
+   (NP 
+    (DT a)
+    (DT mesma)
+    (NN coisa)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (JJ primeira)
+       (NN vez)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP pratiquei)
+        )
+        (NP 
+         (NN esqui)
+         (ADJP 
+          (JJ aquático)
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (VP 
+          (VP 
+           (VBP caí)
+          )
+         )
+         e
+         (VP 
+          (NP 
+           (PRP me)
+          )
+          (VP 
+           (VBP soltei)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

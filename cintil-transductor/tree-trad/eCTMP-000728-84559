@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Têm)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS modelo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS jogo)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Ajax)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB estou)
+      (JJ confiante)
+     )
+    )
+   )
+  )
+ )
+)

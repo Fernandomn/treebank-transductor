@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NP 
+       (NNS central)
+       (JJ sindical)
+      )
+      (JJ norte-americana)
+     )
+     (NNS AFL-CIO)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB apoiou)
+      (RB ontem)
+     )
+     (RB oficialmente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS recandidatura)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Presidente)
+           (NNS Bill)
+           (NNS Clinton)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Casa)
+          (NNS Branca)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Novembro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

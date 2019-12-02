@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ponto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS partida)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS farsa)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NP 
+           (NNS Velho)
+           (NNS de_)
+           (NNS a)
+           (NNS Horta)
+          )
+         )
+         (ADJP 
+          (ADJP 
+           (VB interpretado)
+           (PP 
+            (IN por)
+            (NP 
+             (NP 
+              (NNS Carlos)
+              (NNS Paulo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN Sr.)
+    )
+    (VP 
+     (VBP acredita)
+    )
+    (VP 
+     (VP 
+      (VB ter)
+      (VBN influenciado)
+     )
+     (NP 
+      (DT estes)
+      (NN filmes)
+     )
+    )
+   )
+  )
+ )
+)

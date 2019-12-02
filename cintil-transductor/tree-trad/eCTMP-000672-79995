@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NNS chuva)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT o)
+      (NNS calor)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS excesso)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS humidade)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB são)
+      (NP 
+       (DT um)
+       (NNS problema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

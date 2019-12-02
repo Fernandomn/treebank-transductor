@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS conflitos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB há)
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Portugal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB basicamente)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (JJ mesmos)
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (PRP todos)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ outros)
+           (NNS países)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

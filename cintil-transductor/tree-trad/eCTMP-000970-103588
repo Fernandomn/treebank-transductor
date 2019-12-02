@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Em)
+     (RB geral)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS causa)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS doença)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (VB conhecida)
+    )
+   )
+  )
+ )
+)

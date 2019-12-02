@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Estudantes)
+  )
+  (VP 
+   (VB admitem)
+   (NP 
+    (NP 
+     (NNS bloqueio)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NNS propinas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

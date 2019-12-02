@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Esse)
+      (NNS trabalho)
+     )
+     (VP 
+      (VB deve)
+      (VP 
+       (VP 
+        (VB ser)
+        (VB feito)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Abril)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (PP 
+       (NP 
+        (DT este)
+        (NNS ano)
+       )
+      )
+      (VP 
+       (RB só)
+       (VP 
+        (VB aconteceu)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Junho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

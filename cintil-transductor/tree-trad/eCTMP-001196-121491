@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Advertência)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS atiradores)
+       (ADJP 
+        (VB isolados)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS montes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

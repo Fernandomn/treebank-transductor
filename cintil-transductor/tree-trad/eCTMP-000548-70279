@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS decreto)
+    )
+    (VP 
+     (VP 
+      (VB terá)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS alcance)
+        (JJ global)
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB beneficiando)
+        (RB igualmente)
+       )
+       (NP 
+        (DT as)
+        (NNS empresas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

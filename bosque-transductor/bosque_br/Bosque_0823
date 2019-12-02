@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (NNP Marcondes)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN valor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN patrimônio)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN hospital)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 50)
+       (NN milhões)
+      )
+      (NP 
+       (NN R$)
+       (NP 
+        (CD 42.7)
+        (NN milhões)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN total)
+     (PP 
+      (IN de)
+      (NP 
+       (NN dívidas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN R$)
+         (NP 
+          (CD 50)
+          (NN milhões)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

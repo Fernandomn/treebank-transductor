@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (CD Uma)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN novidades)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN permissão)
+    (PP 
+     (IN para)
+     (VP 
+      (NP 
+       (DT a)
+       (NN polícia)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VB infiltrar)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN quadrilhas)
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB obter)
+        )
+        (NP 
+         (NN provas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

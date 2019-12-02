@@ -1,0 +1,48 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Isabel)
+    (NNS Mota)
+   )
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (NP 
+     (NP 
+      (NNS avaliação)
+      (JJ positiva)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NP 
+         (NNS ano)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (JJ novo)
+            (NP 
+             (NNS Quadro)
+             (NNS Comunitário)
+             (NNS de)
+             (NNS Apoio)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

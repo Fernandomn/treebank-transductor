@@ -1,0 +1,46 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NP 
+      (NNS dia)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS férias)
+       )
+      )
+     )
+     (ADJP 
+      (RB propriamente)
+      (VB dito)
+     )
+    )
+    (ADJP 
+     (ADJP 
+      (JJ cheio)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS gente)
+          (JJ barulhenta)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNS férias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

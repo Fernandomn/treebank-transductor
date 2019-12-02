@@ -1,0 +1,98 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Entretanto)
+   )
+   (S 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS conferência)
+       (JJ internacional)
+      )
+     )
+    )
+    (S 
+     (PP 
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NNS tema)
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB foi)
+        (VB dito)
+       )
+       (CONJP 
+        (CC que)
+        (S 
+         (PP 
+          (IN em)
+          (NP 
+           (PRP alguns)
+           (NP 
+            (NP 
+             (NNS exércitos)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS países)
+              )
+             )
+            )
+            (JJ africanos)
+           )
+          )
+         )
+         (S 
+          (NP 
+           (NP 
+            (NNS metade)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NNS soldados)
+             )
+            )
+           )
+          )
+          (VP 
+           (VP 
+            (VB está)
+            (JJ infectada)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (DT o)
+             (NNS vírus)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS sida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

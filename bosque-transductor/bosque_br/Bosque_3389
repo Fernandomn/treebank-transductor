@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN dinâmica)
+    (NP 
+     (DT a)
+     (NN maneira)
+     (VP 
+      (ADVP 
+       (RB como)
+      )
+      (NP 
+       (DT os)
+       (NN movimentos)
+      )
+      (VP 
+       (VBP são)
+       (VBN construídos)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ diferente)
+   )
+  )
+ )
+)

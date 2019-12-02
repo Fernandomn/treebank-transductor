@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN funcionários)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN prefeitura)
+     )
+    )
+   )
+   (VP 
+    (VBP reclamam)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NNP Lídice)
+    )
+    (VP 
+     (VBP está)
+     (VBG adiando)
+    )
+    (PP 
+     (IN desde)
+     (NP 
+      (NN maio)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN pagamento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN perdas)
+       (ADJP 
+        (JJ salariais)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN categoria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

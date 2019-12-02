@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Portugal)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB nasceu)
+    )
+    (S 
+     (CC e)
+     (S 
+      (VB morreu)
+     )
+    )
+   )
+  )
+ )
+)

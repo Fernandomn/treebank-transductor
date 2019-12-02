@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Mulher)
+  )
+  (VP 
+   (VP 
+    (VB morta)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Cabo)
+      (NNS Espichel)
+     )
+    )
+   )
+  )
+ )
+)

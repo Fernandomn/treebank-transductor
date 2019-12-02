@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (ADVP 
+      (RB Interinamente)
+     )
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS brigadeiro)
+        (NNS Portela)
+       )
+      )
+      (VP 
+       (VB irá)
+       (VP 
+        (VB assegurar)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS chefia)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS OGMA)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD próximos)
+          (NNS meses)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB deverá)
+       (VB suceder)
+      )
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS reestruturação)
+       (ADJP 
+        (RB mais)
+        (JJ profunda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

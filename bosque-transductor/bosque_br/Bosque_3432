@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN pai)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Romário)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN sequestrado)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN segunda-feira)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN noite)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Rio)
+    )
+   )
+  )
+ )
+)

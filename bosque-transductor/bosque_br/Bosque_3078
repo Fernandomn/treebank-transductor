@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Inspira-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ antigo)
+      )
+      e
+      (ADJP 
+       (JJ melhor)
+      )
+     )
+     (NN bailarino)
+     (PP 
+      (IN de)
+      (NP 
+       (DT minha)
+       (NN companhia)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP morreu)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (JJ último)
+        (NN verão)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

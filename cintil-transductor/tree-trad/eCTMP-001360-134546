@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uns)
+   )
+   (VP 
+    (VB dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (RB não)
+       (VB compreendem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

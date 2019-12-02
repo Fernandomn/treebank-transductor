@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Depois)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS picareta)
+       )
+      )
+     )
+    )
+    (VB chegou)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS metralhadora)
+     (JJ falante)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NP 
+        (NNS termos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS marketing)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB adoptámos)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS estratégia)
+        (JJ errada)
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (RB até)
+       (CONJP 
+        (CC porque)
+        (S 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS publicidade)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS sector)
+            )
+           )
+          )
+         )
+         (VP 
+          (VB aumentou)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS forma)
+             (JJ significativa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

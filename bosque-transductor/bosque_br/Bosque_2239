@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP O_que)
+    )
+    (VP 
+     (VBP deve)
+     (VB ser)
+     (VBN destacado)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN forma)
+      (VBN resumida)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT um)
+      (NN item)
+      (PP 
+       (IN sobre)
+       (NP 
+        (NN qualificações)
+        (ADJP 
+         (JJ profissionais)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NP 
+     (DT os)
+     (NN pontos)
+     (ADJP 
+      (JJ fortes)
+     )
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN experiência)
+       )
+      )
+      e
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN formação)
+        (ADJP 
+         (JJ acadêmica)
+        )
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (DT os)
+     (NN atributos)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP podem)
+       (VB diferenciar)
+      )
+      (NP 
+       (DT o)
+       (NN candidato)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN mercado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Corinthians)
+   )
+   (VP 
+    (VBP terá)
+    (IN de)
+    (VB atacar)
+   )
+   (NP 
+    (DT os)
+    (CD 90)
+    (NN minutos)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB reverter)
+     )
+     (NP 
+      (DT a)
+      (JJ enorme)
+      (NN vantagem)
+      (ADJP 
+       (JJ palmeirense)
+      )
+     )
+    )
+   )
+  )
+ )
+)

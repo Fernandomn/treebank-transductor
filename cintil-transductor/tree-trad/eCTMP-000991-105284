@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS cidade)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB agora)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS monte)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS escombros)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

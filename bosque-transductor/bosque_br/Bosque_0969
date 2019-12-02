@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sem)
+    (NP 
+     (NN acesso)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN contas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN grupo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP elas)
+   )
+   (VP 
+    (VBP informam)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP assinaram)
+    )
+    (NP 
+     (DT o)
+     (NN balanço)
+    )
+   )
+  )
+ )
+)

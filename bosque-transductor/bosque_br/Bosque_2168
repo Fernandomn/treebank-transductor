@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todos)
+   )
+   (VP 
+    (VBP lembraram)
+   )
+   (NP 
+    (DT a)
+    (NN importância)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (CD dois)
+      (NN treinadores)
+     )
+    )
+    (PP 
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN história)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN futebol)
+        )
+       )
+      )
+     )
+     e
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN cenário)
+       (ADJP 
+        (JJ atual)
+       )
+       (ADJP 
+        (JJ mundial)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

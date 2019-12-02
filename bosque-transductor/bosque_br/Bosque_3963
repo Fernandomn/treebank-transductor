@@ -1,0 +1,97 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN seleção)
+    (ADJP 
+     (JJ brasileira)
+    )
+    (ADJP 
+     (JJ feminina)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN basquete)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN campeã)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Torneio_Internacional_de_Basquete)
+      (UCP 
+       (NP 
+        (DT um)
+        (NN quadrangular)
+        (ADJP 
+         (JJ amistoso)
+        )
+        (VP 
+         (VP 
+          (VBN disputado)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNP Recife)
+           (NP 
+            (NNP PE)
+           )
+          )
+         )
+        )
+       )
+       e
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP contou)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NN participação)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT as)
+            (NN seleções)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNP Cuba)
+              )
+              (NP 
+               (NNP Argentina)
+              )
+              e
+              (NP 
+               (NNP Eslovênia)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

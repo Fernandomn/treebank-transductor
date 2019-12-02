@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Alliot)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VP 
+       (VB fez)
+       (PP 
+        (NP 
+         (DT este)
+         (NNS ano)
+        )
+       )
+      )
+      (NP 
+       (PRP algumas)
+       (NNS provas)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB disputou)
+        )
+        (NP 
+         (PRP qualquer)
+         (NP 
+          (JJ grande)
+          (NNS prémio)
+         )
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS cores)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT esta)
+            (NNS escuderia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS nome)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS verdade)
+         )
+        )
+        (PP 
+         (PP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS dignidade)
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS justiça)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

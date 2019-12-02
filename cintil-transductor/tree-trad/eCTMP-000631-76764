@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Caso)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS poluição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS ribeira)
+          (NNS de_)
+          (NNS a)
+          (NNS Marateca)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

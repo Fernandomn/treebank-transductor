@@ -1,0 +1,104 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Janet)
+       (NNS Leach)
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (RB também)
+          (VP 
+           (VP 
+            (VB entrevistou)
+            (NP 
+             (NP 
+              (NNS Fred)
+              (NNS West)
+             )
+            )
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NNS prisão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Caroline)
+        (NNS Owens)
+       )
+      )
+      (NP 
+       (NP 
+        (DT uma)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS vítimas)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS casal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (CD duas)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS testemunhas)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT essa)
+           (NNS situação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

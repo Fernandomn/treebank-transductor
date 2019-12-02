@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB interrogou)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Conselho)
+        (NNS de_)
+        (NNS os)
+        (NNS Estados)
+       )
+       (JJ suíço)
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (RB não)
+           (VB aceitou)
+          )
+          (NP 
+           (DT a)
+           (NNS petição)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

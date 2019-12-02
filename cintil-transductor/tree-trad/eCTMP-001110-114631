@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS defesa)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Espinho)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB começava)
+    (PP 
+     (IN a)
+     (VP 
+      (VB dar)
+      (NP 
+       (NP 
+        (NNS sinais)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS desacerto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

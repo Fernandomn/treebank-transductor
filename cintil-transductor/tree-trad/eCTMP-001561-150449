@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Eurico)
+    )
+    (VP 
+     (VB reafirmou)
+     (NP 
+      (PRP tudo)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB disse)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NP 
+       (NNS Vieira)
+       (NNS de)
+       (NNS Carvalho)
+      )
+     )
+     (VP 
+      (VB engrossou)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS lobby)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS críticos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Cinquenta)
+       (NNS anos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS israelitas)
+    )
+    (VP 
+     (VB continuam)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (ADJP 
+           (RB mais)
+           (JJ forte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

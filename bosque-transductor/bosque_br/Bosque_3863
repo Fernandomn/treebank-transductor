@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN Príncipe)
+    (NP 
+     (NNP Charles)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Reino_Unido)
+     )
+    )
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (NN respiração)
+    (NP 
+     (NN boca-a-boca)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT um)
+     (NN boneco)
+     (NP 
+      (NN foto)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN inauguração)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ novo)
+       (NN prédio)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Centro_de_Ambulâncias)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Wellington)
+           (NP 
+            (NN capital)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NNP Nova_Zelândia)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

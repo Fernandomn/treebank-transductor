@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN taxa)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP CR$)
+     (ADJP 
+      (CD 4.300.00)
+     )
+    )
+   )
+  )
+ )
+)

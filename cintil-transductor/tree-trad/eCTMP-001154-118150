@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS fim)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS URSS)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB alterou)
+    )
+   )
+  )
+ )
+)

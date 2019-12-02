@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VBP preferiu)
+   )
+   (VP 
+    (VP 
+     (VB ser)
+    )
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN dama)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN ilha)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Skorpios)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

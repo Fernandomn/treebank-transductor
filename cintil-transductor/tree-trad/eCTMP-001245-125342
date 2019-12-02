@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Gonçalo)
+    (NNS Gomes)
+   )
+  )
+  (VP 
+   (VB venceu)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Fórmula)
+      (NNS Opel)
+     )
+    )
+   )
+  )
+ )
+)

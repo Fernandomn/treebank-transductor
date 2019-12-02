@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ontem)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS divisa)
+      (JJ alemã)
+     )
+    )
+    (S 
+     (VP 
+      (VP 
+       (VB trocou)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN entre)
+       (NP 
+        (NP 
+         (DT as)
+         (NP 
+          (CD 91,20)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (CD 92,10)
+          (NNS pesetas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

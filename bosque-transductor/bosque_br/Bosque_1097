@@ -1,0 +1,167 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN mal)
+   )
+   (VP 
+    (VBP residia)
+   )
+   (ADVP 
+    (RB enfim)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN fato)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (DT a)
+        (NN política)
+        (ADJP 
+         (JJ real)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP UDN)
+         )
+        )
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBP traduzia)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP conspirava)
+          )
+          (PP 
+           (IN entre)
+           (NP 
+            (CD quatro)
+            (NN paredes)
+           )
+          )
+         )
+         (PP 
+          (PP 
+           (IN sem)
+           (NP 
+            (DT uma)
+            (NN antena)
+            (ADJP 
+             (JJ parabólica)
+            )
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (NP 
+              (PRP lhe)
+             )
+             (VP 
+              (VBP pusesse)
+             )
+             (NP 
+              (NN termo)
+             )
+            )
+           )
+          )
+          e
+          (PP 
+           (IN sem)
+           (NP 
+            (DT uma)
+            (NN imprensa)
+            (ADJP 
+             (JJ independente)
+            )
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (VP 
+              (VBP revelasse)
+             )
+             (ADJP 
+              (JJ livre)
+              (PP 
+               (IN de)
+               (NP 
+                (NN paixões)
+                (ADJP 
+                 (JJ partidárias)
+                )
+               )
+              )
+             )
+             (NP 
+              (DT sua)
+              (NN vocação)
+              (PP 
+               (IN para)
+               (VP 
+                (VP 
+                 (VB renunciar)
+                )
+                (PP 
+                 (IN a+)
+                 (NP 
+                  (DT o)
+                  (NN Estado)
+                  (PP 
+                   (IN de)
+                   (NP 
+                    (NN Direito)
+                   )
+                  )
+                 )
+                )
+                (PP 
+                 (IN a+)
+                 (NP 
+                  (DT o)
+                  (NN toque)
+                  (PP 
+                   (IN de+)
+                   (NP 
+                    (DT a)
+                    (JJ primeira)
+                    (NN corneta)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

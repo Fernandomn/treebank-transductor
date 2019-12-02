@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jacques)
+    (NNS Derrida)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Feira)
+      (NNS de_)
+      (NNS o)
+      (NNS Livro)
+      (NNS de)
+      (NNS Braga)
+     )
+    )
+   )
+  )
+ )
+)

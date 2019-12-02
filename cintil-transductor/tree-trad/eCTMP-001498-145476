@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS repressão)
+      (JJ situacionista)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Togo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS tradição)
+      (JJ infeliz)
+     )
+    )
+   )
+  )
+ )
+)

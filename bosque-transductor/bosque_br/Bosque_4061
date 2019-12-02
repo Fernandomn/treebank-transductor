@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Minha)
+    (NN expectativa)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP foi)
+    (VBN atendida)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT vários)
+     (NN pontos)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB conheço)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ única)
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS medida)
+           (ADJP 
+            (VB tomada)
+            (PP 
+             (IN por_)
+             (NP 
+              (DT o)
+              (NNS Estado)
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS apoio)
+            (PP 
+             (IN a_)
+             (NP 
+              (DT a)
+              (NNS família)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS âmbito)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS Ano)
+               (NNS Internacional)
+               (NNS de_)
+               (NNS a)
+               (NNS Família)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

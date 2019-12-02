@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP ficou)
+   )
+   (ADJP 
+    (JJ famoso)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (DT todo)
+     (DT o)
+     (NN país)
+    )
+   )
+  )
+ )
+)

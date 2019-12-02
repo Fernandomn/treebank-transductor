@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS anúncio)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VP 
+       (VB feito)
+       (RB ontem)
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS secretário)
+          (NNS de)
+          (NNS Estado)
+          (NNS de_)
+          (NNS os)
+          (NNS Recursos)
+          (NNS Naturais)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Ricardo)
+          (NNS Magalhães)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS apresentação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS programa)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS acção)
+            )
+           )
+          )
+          (NP 
+           (NNS Litoral)
+           (NNS 98)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

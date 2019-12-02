@@ -1,0 +1,98 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NNP Servaz)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT o)
+     (NN documento)
+     (VP 
+      (VP 
+       (VBN obtido)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT a)
+        (NN Folha)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Odebrecht)
+   )
+   (VP 
+    (VBP acerta)
+   )
+   (NP 
+    (DT o)
+    (NN pagamento)
+    (PP 
+     (IN de)
+     (UCP 
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 110)
+        (NN mil)
+       )
+      )
+      (ADVP 
+       (RB mais)
+      )
+      (NP 
+       (CD uma)
+       (NN porcentagem)
+       (PP 
+        (IN referente_a)
+        (NP 
+         (NN obras)
+         (PP 
+          (IN de)
+          (NP 
+           (NN abastecimento)
+           (PP 
+            (IN de)
+            (NP 
+             (NN água)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Roraima)
+    )
+   )
+   (ADVP 
+    (RB ainda)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB serem)
+       (VBN licitadas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

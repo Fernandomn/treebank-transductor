@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS abastecimento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS carro)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS Pedro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

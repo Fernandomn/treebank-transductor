@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Faleceu)
+      (RB ontem)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Parede)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (CD 78)
+       (NP 
+        (NNS anos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS idade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

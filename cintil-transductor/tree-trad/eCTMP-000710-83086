@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estava)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 1957)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB tinham)
+      (NP 
+       (CD 14)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

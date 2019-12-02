@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS ponte)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NNS Tejo)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS auto-estrada)
+      (NNS Lisboa-Porto)
+     )
+    )
+   )
+  )
+ )
+)

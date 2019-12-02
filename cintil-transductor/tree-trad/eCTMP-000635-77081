@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT as)
+      (NNS cidades)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Páscoa)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB é)
+       (RB hoje)
+      )
+      (VB celebrada)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS maneiras)
+        (JJ diferentes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

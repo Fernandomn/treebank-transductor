@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (RB Ainda)
+   (S 
+    (PP 
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ mesma)
+        (NNS fonte)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS relatório)
+     )
+     (VP 
+      (VB indicava)
+      (NP 
+       (NP 
+        (NNS ferimentos)
+        (JJ forçados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

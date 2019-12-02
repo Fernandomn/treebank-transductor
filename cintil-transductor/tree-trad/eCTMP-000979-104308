@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CD seis)
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (DT as)
+     (NP 
+      (CD primeiras)
+      (NP 
+       (NNS vítimas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD três)
+          (NP 
+           (NNS meses)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (NP 
+               (NNS campanha)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS Primavera)
+                )
+               )
+              )
+              (PP 
+               (IN contra)
+               (NP 
+                (DT o)
+                (NNS crime)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

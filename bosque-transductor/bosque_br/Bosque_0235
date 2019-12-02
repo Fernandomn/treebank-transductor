@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP italianos e
+    (NN belgas)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP descobriram)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VP 
+      (VB comprar)
+     )
+     (NP 
+      (NN imóveis)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Natal)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT um)
+     (JJ ótimo)
+     (NN negócio)
+    )
+   )
+  )
+ )
+)

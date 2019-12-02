@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Câmara)
+  )
+  (VP 
+   (VB aprovou)
+   (NP 
+    (NP 
+     (NNS reconversão)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS litoral)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Matosinhos-Sul)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

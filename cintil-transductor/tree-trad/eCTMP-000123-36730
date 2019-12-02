@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Gostava)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP tudo)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB estava)
+             (PP 
+              (IN a)
+              (VP 
+               (VB fazer)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT as)
+        (NNS vezes)
+       )
+      )
+      (VP 
+       (VB desconcentrava)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

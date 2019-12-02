@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN exemplos)
+    (ADJP 
+     (RB mais)
+     (ADJP 
+      (ADJP 
+       (JJ célebres)
+      )
+      e
+      (ADJP 
+       (JJ trágicos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT os)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNP Rushdie)
+      )
+      e
+      (NP 
+       (NNP Nasreen)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS CNN)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ francesa)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS rede)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS La)
+          (NNS Cinq)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

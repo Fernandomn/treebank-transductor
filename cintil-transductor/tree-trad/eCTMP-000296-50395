@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Agora)
+    )
+    (VP 
+     (VB podem)
+     (VP 
+      (VB custar)
+      (NP 
+       (NP 
+        (NP 
+         (RB entre)
+         (CD 300)
+        )
+        (CONJP 
+         (CC e)
+         (CD 600)
+        )
+       )
+       (NNS escudos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

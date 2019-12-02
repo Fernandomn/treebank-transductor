@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Hugo)
+   )
+   (VP 
+    (VP 
+     (VB tinha)
+     (NP 
+      (NP 
+       (RB apenas)
+       (CD cinco)
+      )
+      (NNS anos)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (NP 
+        (NNS Aurélio)
+        (NNS de_)
+        (NNS a)
+        (NNS Paz)
+        (NNS de_)
+        (NNS os)
+        (NNS Reis)
+       )
+      )
+      (VB morreu)
+     )
+    )
+   )
+  )
+ )
+)

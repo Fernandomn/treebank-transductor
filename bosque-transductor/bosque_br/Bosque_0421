@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+   )
+   (ADVP 
+    (RB agora)
+   )
+   (ADVP 
+    (RB apenas)
+   )
+   (VP 
+    (VBP antecipou)
+   )
+   (NP 
+    (CD uma)
+    (NN rodada)
+    (PP 
+     (IN de)
+     (NP 
+      (NN redução)
+      (PP 
+       (IN de)
+       (NP 
+        (NN tarifas)
+        (VP 
+         (VP 
+          (VBN prevista)
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (NN janeiro)
+           (PP 
+            (IN de)
+            (ADJP 
+             (CD 95)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS final)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS cimeira)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP nenhum)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (PRP eles)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB quis)
+     (VB falar)
+    )
+   )
+  )
+ )
+)

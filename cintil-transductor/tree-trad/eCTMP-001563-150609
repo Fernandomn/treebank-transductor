@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (NNS Liontiev)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (NNS eleições)
+       (JJ passadas)
+      )
+     )
+     (VP 
+      (VB significam)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS fim)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS comunismo)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Rússia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

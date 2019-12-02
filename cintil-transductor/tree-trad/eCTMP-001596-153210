@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS pormenores)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NNS operação)
+       )
+      )
+     )
+     (ADJP 
+      (VB fornecidos)
+      (RB imediatamente)
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (JJ escassos)
+   )
+  )
+ )
+)

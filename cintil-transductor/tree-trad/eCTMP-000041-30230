@@ -1,0 +1,24 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Claro)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS tom)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB é)
+      (NP 
+       (DT outro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

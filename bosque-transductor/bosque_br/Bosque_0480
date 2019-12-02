@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP comprometeu)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB garfar)
+     )
+     (NP 
+      (DT a)
+      (NN poupança)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN palavras)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN presidente)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP BC)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

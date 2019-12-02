@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (PRP ela)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+   )
+   (VP 
+    (VBP confidenciou)
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VB acreditar)
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP terminaria)
+     )
+     (NP 
+      (DT o)
+      (DT seu)
+      (NN mandato)
+     )
+    )
+   )
+  )
+ )
+)

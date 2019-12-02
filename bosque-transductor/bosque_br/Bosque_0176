@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (NN Países)
+     (ADJP 
+      (ADJP 
+       (JJ produtores)
+      )
+      e
+      (ADJP 
+       (JJ consumidores)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN café)
+      )
+     )
+    )
+    (VP 
+     (VBP entraram)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT um)
+      (NN tipo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP pré-pacto)
+        (ADJP 
+         (JJ internacional)
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (ADVP 
+          (RB não)
+         )
+         (VP 
+          (VBP intervenha)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT os)
+           (NN preços)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN produto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (DT o)
+    (NN porta-voz)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Organização_Internacional_do_Café)
+      (NP 
+       (NNP OIC)
+      )
+     )
+    )
+   )
+  )
+ )
+)

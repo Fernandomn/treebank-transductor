@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Era)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ bom)
+       (NNS dia)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS partido)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS António)
+          (NNS Guterres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

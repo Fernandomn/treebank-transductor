@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (NNS cónego)
+       (NP 
+        (NNS Manuel)
+        (NNS de_)
+        (NNS as)
+        (NNS Neves)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB participa)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (PRP nenhuma)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT essas)
+           (NNS reuniões)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB está)
+      (ADVP 
+       (ADVP 
+        (RB a)
+        (RB par)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (PRP tudo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

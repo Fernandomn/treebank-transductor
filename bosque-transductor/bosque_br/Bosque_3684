@@ -1,0 +1,112 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Divulgado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN semana)
+      (VBN passada)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ fraco)
+    (NN resultado)
+    (PP 
+     (IN em)
+     (NP 
+      (NN novembro)
+     )
+    )
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN produção)
+       (ADJP 
+        (JJ industrial)
+       )
+      )
+     )
+     e
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (JJ novas)
+       (NN encomendas)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT as)
+         (NN indústrias)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP acabou)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT as)
+     (NN esperanças)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (DT a)
+        (NNP Alemanha)
+       )
+       (VP 
+        (VBP tivesse)
+        (VBN saído)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (JJ pior)
+         (NN recessão)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NP pós-guerra)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (JJ último)
+         (NN trimestre)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN ano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

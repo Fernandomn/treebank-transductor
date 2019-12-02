@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (NP 
+      (CD uma)
+      (NN loja)
+     )
+     e
+     (NP 
+      (DT outra)
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB ocorrer)
+   )
+   (NP 
+    (JJ grandes)
+    (NN diferenças)
+   )
+  )
+ )
+)

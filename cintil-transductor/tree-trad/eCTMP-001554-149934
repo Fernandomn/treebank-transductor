@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VB Vai)
+   (VP 
+    (VP 
+     (VB haver)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS missa)
+       (JJ solene)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS sede)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS Festa)
+           (JJ Brava)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

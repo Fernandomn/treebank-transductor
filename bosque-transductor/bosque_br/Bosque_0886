@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VBP é)
+    (VBN vencida)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Quércia)
+     (VP 
+      (VP 
+       (VBN indicado)
+      )
+      (NP 
+       (NN candidato)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN Presidência)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

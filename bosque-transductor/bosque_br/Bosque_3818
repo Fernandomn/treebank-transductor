@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Alencar)
+   )
+   (VP 
+    (VBP defendeu)
+   )
+   (NP 
+    (DT a)
+    (NN adoção)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NN defesa)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP prevê)
+       )
+       (NP 
+        (DT a)
+        (NN suspensão)
+        (PP 
+         (IN de)
+         (NP 
+          (NN garantias)
+          (ADJP 
+           (JJ individuais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

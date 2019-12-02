@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Silvia)
+    )
+    (VP 
+     (VBP tomou)
+    )
+    (NP 
+     (NN anestesia)
+     (ADJP 
+      (JJ peridural)
+     )
+     (VP 
+      (VP 
+       (VBN aplicada)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN região)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN coluna)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP pôde)
+     (VB retornar)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT sua)
+      (NN casa)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (DT mesmo)
+      (NN dia)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Amostras)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS fósseis)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB enviadas)
+     (PP 
+      (IN para)
+      (NP 
+       (NNS França)
+      )
+     )
+    )
+   )
+  )
+ )
+)

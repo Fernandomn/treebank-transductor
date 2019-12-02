@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Haverá)
+   )
+   (NP 
+    (UCP 
+     (NP 
+      (DT mais)
+     )
+     e
+     (ADJP 
+      (JJ melhores)
+     )
+    )
+    (NP 
+     (NP 
+      (NN escolas)
+     )
+     (NP 
+      (NN laboratórios)
+     )
+     (NP 
+      (NN universidades)
+     )
+     e
+     (NP 
+      (NN bolsas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN estudo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

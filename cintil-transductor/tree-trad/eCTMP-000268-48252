@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Memórias)
+     (NNS de_)
+     (NNS as)
+     (NNS Guerras)
+     (NNS Coloniais)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS livro)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS trabalho)
+        )
+       )
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS investigação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

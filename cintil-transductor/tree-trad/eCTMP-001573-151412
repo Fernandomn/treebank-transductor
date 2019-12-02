@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Entretanto)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS correspondência)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS Cocteau)
+        )
+        (NP 
+         (CC ou)
+         (NP 
+          (NNS Ionesco)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (JJ micro-filmada)
+    )
+   )
+  )
+ )
+)

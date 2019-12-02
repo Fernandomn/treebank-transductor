@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT os)
+      (NNS bombeiros)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (RB também)
+     (NP 
+      (NP 
+       (DT a)
+       (NNS PSP)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Polícia)
+         (NNS Marítima)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB receberam)
+      (PP 
+       (PP 
+        (IN durante)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS noite)
+          (NP 
+           (CC e)
+           (NNS madrugada)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (PRP muitas)
+      (NP 
+       (NNS chamadas)
+       (PP 
+        (PP 
+         (PP 
+          (CC quer)
+          (PP 
+           (IN por)
+           (NP 
+            (NNS distúrbios)
+           )
+          )
+         )
+         (PP 
+          (CC quer)
+          (PP 
+           (IN por)
+           (NP 
+            (NP 
+             (NNS ruído)
+             (JJ excessivo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

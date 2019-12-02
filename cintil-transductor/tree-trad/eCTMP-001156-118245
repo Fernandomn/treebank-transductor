@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD 30)
+    (CD mil)
+   )
+   (NNS pessoas)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Fórum)
+      (NNS Global)
+     )
+    )
+   )
+  )
+ )
+)

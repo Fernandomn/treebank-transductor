@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB É)
+      (ADJP 
+       (RB também)
+       (JJ difícil)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB viverem)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NNS passado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

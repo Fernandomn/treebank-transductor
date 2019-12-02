@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Londres)
+   )
+   (VP 
+    (VP 
+     (VB perderá)
+     (RB assim)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (CD última)
+        (NP 
+         (NNS jóia)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Coroa)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT um)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ derradeiros)
+           (NP 
+            (NNS confettis)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS Império)
+               (NNS Britânico)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

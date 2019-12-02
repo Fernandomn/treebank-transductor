@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS relatos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Agência)
+          (NNS France)
+          (NNS Presse)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS cidade)
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (RB praticamente)
+     )
+     (JJ destruída)
+    )
+   )
+  )
+ )
+)

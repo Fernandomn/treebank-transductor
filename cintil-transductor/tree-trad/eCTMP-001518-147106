@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS quarta-feira)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS António)
+    )
+    (VP 
+     (VB teve)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS notícia)
+       (JJ desagradável)
+      )
+     )
+    )
+   )
+  )
+ )
+)

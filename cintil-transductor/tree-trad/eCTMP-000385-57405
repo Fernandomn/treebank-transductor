@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS monarca)
+   )
+   (VP 
+    (VP 
+     (VB desapareceu)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS vista)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS fiéis)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (PRP algum)
+      (NNS tempo)
+     )
+    )
+   )
+  )
+ )
+)

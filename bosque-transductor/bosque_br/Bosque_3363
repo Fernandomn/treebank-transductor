@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN boneco)
+   )
+   (VP 
+    (VBP vai)
+    (VB ser)
+    (VBN colocado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN locais)
+     (PP 
+      (IN sem)
+      (NP 
+       (NN congestionamento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN faixa)
+     (ADJP 
+      (RB mais)
+      (JJ interessante)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN disco)
+       (NP 
+        (NNP Wooden_Nails)
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (JJ primeira)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN tema)
+    (VBN abordado)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN superação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN dependência)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NN drogas)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN depressão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

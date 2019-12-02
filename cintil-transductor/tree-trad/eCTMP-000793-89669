@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NP 
+       (NNS Bailinho)
+       (NNS de_)
+       (NNS a)
+       (NNS Madeira)
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS Tia)
+        (NNS Anica)
+        (NNS de)
+        (NNS Loulé)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS termos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS animação)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB substituíram)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS hino)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS PSD)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

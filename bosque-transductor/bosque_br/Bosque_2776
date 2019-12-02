@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP vice-presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Câmara)
+      (NP 
+       (NNP Adylson_Motta)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN regimento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Câmara)
+      )
+     )
+    )
+    (VP 
+     (VBP impede)
+    )
+    (NP 
+     (DT o)
+     (NN corte)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN juiz)
+   )
+   (VP 
+    (VBP determina)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (NP 
+    (DT o)
+    (NN restabelecimento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN meios)
+      (ADJP 
+       (JJ necessários)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN funcionamento)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Comissão_de_Processos_Administrativos_Especiais)
+          (ADJP 
+           (JJ responsável)
+           (PP 
+            (IN por+)
+            (NP 
+             (DT o)
+             (NN inquérito)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

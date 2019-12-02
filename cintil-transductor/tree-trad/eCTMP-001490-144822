@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fica)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Rua)
+        (NNS de_)
+        (NNS o)
+        (NNS Açúcar)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NP 
+       (NNS Graça)
+       (NNS Morais)
+      )
+     )
+     (VP 
+      (VB foi)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS artista)
+        (ADJP 
+         (VB escolhida)
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS inauguração)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT este)
+              (NP 
+               (JJ novo)
+               (NNS espaço)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Siza)
+  )
+  (VP 
+   (VB fala)
+   (PP 
+    (IN de)
+    (NP 
+     (NP 
+      (NP 
+       (NNS projectos)
+       (JJ adiados)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS Porto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

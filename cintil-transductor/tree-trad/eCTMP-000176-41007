@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS gravidade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NNS situação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB seria)
+     (JJ relativa)
+    )
+    (CONJP 
+     (CC se)
+     (S 
+      (NP 
+       (DT este)
+      )
+      (VP 
+       (VP 
+        (VB fosse)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS caso)
+          (JJ único)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS Agroal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

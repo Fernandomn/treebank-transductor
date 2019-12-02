@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS associação)
+     )
+     (VP 
+      (VB cumpriu)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS parte)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NNS pronto-socorro)
+     )
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB foi)
+       )
+       (VB atribuído)
+      )
+     )
+    )
+   )
+  )
+ )
+)

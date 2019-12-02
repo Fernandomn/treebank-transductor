@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN candidato)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+   )
+   (VP 
+    (VBP bateu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN trave)
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 89)
+    )
+   )
+  )
+ )
+)

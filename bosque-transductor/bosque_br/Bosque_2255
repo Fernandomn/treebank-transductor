@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Eleito)
+    )
+    (PP 
+     (IN em)
+     (ADJP 
+      (CD 1988)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP ex-presidente)
+    (NP 
+     (NNP Carlos_Andrés_Pérez)
+    )
+    (NP 
+     (NN social-democrata)
+    )
+   )
+   (VP 
+    (VBP encetou)
+   )
+   (NP 
+    (DT uma)
+    (NN política)
+    (ADJP 
+     (JJ econômica)
+    )
+    (ADJP 
+     (JJ neoliberal)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP impôs)
+     )
+     (NP 
+      (NN sacrifícios)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN população)
+      )
+     )
+     (VP 
+      (VP 
+       (VBG dando)
+      )
+      (NP 
+       (NN início)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NN série)
+        (PP 
+         (IN de)
+         (NP 
+          (JJ violentos)
+          (NN protestos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (DT seus)
+    (CD 100)
+    (NN quilômetros)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP levaram)
+   )
+   (NP 
+    (DT este)
+    (NN ano)
+   )
+   (NP 
+    (NP 
+     (CD 200)
+     (NN mil)
+    )
+    (NN toneladas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN soja)
+     )
+    )
+   )
+  )
+ )
+)

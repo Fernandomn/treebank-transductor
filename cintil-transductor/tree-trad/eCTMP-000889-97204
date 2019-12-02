@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Jimi)
+     (NNS Hendrix)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (VB detido)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS posse)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS haxixe)
+           (NP 
+            (CC e)
+            (NNS heroína)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (VB atravessava)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS fronteira)
+         (PP 
+          (IN entre)
+          (NP 
+           (NP 
+            (DT os)
+            (NNS EUA)
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (DT o)
+             (NNS Canadá)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

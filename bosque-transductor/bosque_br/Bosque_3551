@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NN diretor)
+     (PP 
+      (IN de)
+      (NP 
+       (NN crédito)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Febraban)
+      )
+     )
+     (NP 
+      (NNP Christoph_Heinrich_Von_Beackedorff)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (JJ novos)
+    (NN tomadores)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP estão)
+    (VBG sendo)
+    (VBN rolados)
+   )
+   (NP 
+    (DT os)
+    (NN empréstimos)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP estão)
+      (VBG vencendo)
+     )
+    )
+   )
+  )
+ )
+)

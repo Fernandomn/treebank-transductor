@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Intermarché)
+  )
+  (VP 
+   (VP 
+    (VB prolongou)
+    (RB indefinidamente)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS período)
+     (ADJP 
+      (JJ promocional)
+     )
+    )
+   )
+  )
+ )
+)

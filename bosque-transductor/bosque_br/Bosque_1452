@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ministro)
+   )
+   (VP 
+    (VBP limitou-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB dizer)
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (VBP havia)
+       (VBN conversado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN telefone)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NN assessores)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN presidente)
+          (NP 
+           (NNP Itamar_Franco)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NN proposta)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (JJ nova)
+          (NN legislação)
+          (PP 
+           (IN contra)
+           (NP 
+            (NN abusos)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN poder)
+              (ADJP 
+               (JJ econômico)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

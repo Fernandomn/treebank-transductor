@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS coluna)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS lado)
+        (JJ direito)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (VB será)
+        (PP 
+         (PP 
+          (IN segundo)
+          (NP 
+           (NP 
+            (NNS Mário)
+            (NNS Abreu)
+           )
+          )
+         )
+        )
+       )
+       (ADVP 
+        (RB meramente)
+       )
+      )
+      (JJ decorativa)
+     )
+    )
+    (CC já)
+    (CC que)
+    (S 
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VB volta)
+      (PP 
+       (IN a)
+       (VP 
+        (VB desenhar)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS disposição)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (JJ próprias)
+             (NNS paredes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

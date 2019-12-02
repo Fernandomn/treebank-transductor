@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS FNE)
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (NP 
+     (NNS balanço)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ano)
+        (JJ lectivo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

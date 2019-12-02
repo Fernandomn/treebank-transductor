@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS sessão)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS encerramento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS trabalhos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estará)
+    (PP 
+     (IN a)
+     (NP 
+      (NP 
+       (NNS cargo)
+       (PP 
+        (IN de_)
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS bispo)
+           (NNS de)
+           (NNS Santarém)
+          )
+         )
+         (NP 
+          (NP 
+           (NNS D.)
+           (NNS António)
+           (NNS Francisco)
+           (NNS Marques)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

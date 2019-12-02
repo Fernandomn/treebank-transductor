@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN partido)
+   )
+   (VP 
+    (VBP expulsou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NNP Walter_Queiroz)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB considerar)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VBP faltou)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NN verdade)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN episódio)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (JJ dupla)
+          (NN declaração)
+          (PP 
+           (IN de)
+           (NP 
+            (NN renda)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

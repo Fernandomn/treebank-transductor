@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VB começou)
+       (PP 
+        (IN a)
+        (VB agradecer)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB falou)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS pai)
+         )
+        )
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS professor)
+            (NP 
+             (NNS Fidelino)
+             (NNS de)
+             (NNS Figueiredo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VB caiu)
+     )
+    )
+   )
+  )
+ )
+)

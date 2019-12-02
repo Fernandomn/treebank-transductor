@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ necessário)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (DT nosso)
+      (NNP Banco_Central)
+     )
+     (VP 
+      (VBP busque)
+     )
+     (NP 
+      (RB não)
+      (DT a)
+      (NN independência)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Tesouro)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP é)
+       )
+       (ADJP 
+        (JJ impossível)
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (IN que)
+     (VP 
+      (VBP deixe)
+      (IN de)
+      (VB quebrar-)
+     )
+     (NP 
+      (PRP lo)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (DT sua)
+       (NN política)
+       (ADJP 
+        (JJ agressiva)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN juros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

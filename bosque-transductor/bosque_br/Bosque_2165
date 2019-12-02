@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN definição)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN tempo)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN horário)
+        (ADJP 
+         (JJ eleitoral)
+        )
+        (ADJP 
+         (JJ gratuito)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN encaminhada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN corregedoria)
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT todos)
+     (DT os)
+     (NN partidos)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP disputam)
+      )
+      (NP 
+       (DT a)
+       (NN sucessão)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN governador)
+         (NP 
+          (NNP Luiz_Antonio_Fleury_Filho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

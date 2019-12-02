@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (NNS partilha)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS responsabilidades)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS reforço)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS associativismo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB serão)
+    (NP 
+     (DT as)
+     (NP 
+      (JJ grandes)
+      (NNS apostas)
+     )
+    )
+   )
+  )
+ )
+)

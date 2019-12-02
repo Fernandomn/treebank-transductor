@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Tal)
+    (NN política)
+   )
+   (VP 
+    (VBP convertera-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN avanço)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN globalização)
+       (ADJP 
+        (JJ econômica)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN sinônimo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN proteção)
+       (PP 
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN atraso)
+         )
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN desperdício)
+         )
+        )
+        e
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN ineficiência)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

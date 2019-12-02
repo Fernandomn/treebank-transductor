@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Votaram)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NP 
+         (NNS redistribuição)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS dinheiro)
+          )
+         )
+        )
+        (PP 
+         (IN por_)
+         (NP 
+          (DT o)
+          (NNS povo)
+         )
+        )
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS governo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NNS sala)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (JJ único)
+      (NNS burburinho)
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (JJ originado)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS junção)
+        (NP 
+         (NNS FC)
+         (NNS Porto-Benfica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

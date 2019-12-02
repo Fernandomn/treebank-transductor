@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (CD três)
+    (NP 
+     (NNS povos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB farão)
+         (RB sempre)
+        )
+        (NP 
+         (NP 
+          (NNS parte)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NP 
+              (NNS marcos)
+              (JJ históricos)
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS Japão)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

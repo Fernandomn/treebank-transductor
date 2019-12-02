@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Lisboa-94)
+  )
+  (VP 
+   (VB perde)
+   (NP 
+    (DT um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NP 
+         (NNS cenários)
+         (JJ privilegiados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

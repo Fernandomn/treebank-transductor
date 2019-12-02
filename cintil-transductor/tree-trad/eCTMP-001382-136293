@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Tratou)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NP 
+      (CD 12º)
+      (NP 
+       (NP 
+        (NNS satélite)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT este)
+          (NNS tipo)
+         )
+        )
+       )
+       (ADJP 
+        (VB colocado)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS espaço)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

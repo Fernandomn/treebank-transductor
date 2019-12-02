@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Supremo_Tribunal)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (ADVP 
+      (RB por_acaso)
+     )
+     (NP 
+      (DT uma)
+      (NN Justiça)
+      (ADJP 
+       (JJ privada)
+      )
+     )
+    )
+    ou
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (DT o)
+      (NN baluarte)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Justiça_Pública)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

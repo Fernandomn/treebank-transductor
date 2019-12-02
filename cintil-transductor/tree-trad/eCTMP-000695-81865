@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (PRP algo)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB faz)
+         )
+         (PP 
+          (ADVP 
+           (RB muito)
+           (RB mais)
+          )
+          (PP 
+           (IN sobre)
+           (NP 
+            (DT o)
+            (NNS tempo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

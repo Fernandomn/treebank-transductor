@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN pessoas)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (VP 
+    (VP 
+     (VBN cansadas)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN hype)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBP cria)
+       )
+       (PP 
+        (PP 
+         (IN em_torno_de+)
+         (NP 
+          (DT as)
+          (NN roupas)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN estilistas)
+         )
+        )
+        e
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN luxo)
+          (ADJP 
+           (JJ abusivo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

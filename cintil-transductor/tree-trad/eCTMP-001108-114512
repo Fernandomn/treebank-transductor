@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS jeito)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS epílogo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB ficam)
+    )
+    (NP 
+     (CD duas)
+     (NNS notas)
+    )
+   )
+  )
+ )
+)

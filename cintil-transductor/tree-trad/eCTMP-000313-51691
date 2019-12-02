@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (NP 
+        (NNS pai)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS indonésios)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB pode)
+      (VP 
+       (VB ter)
+       (VB caído)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT isso)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB aconteceu)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NNS estrondo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

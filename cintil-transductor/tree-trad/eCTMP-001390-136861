@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT Um)
+       (NNS lançamento)
+      )
+      (VP 
+       (VP 
+        (JJ especial)
+       )
+       (CONJP 
+        (CC porque)
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB trata)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS telenovela)
+             (ADJP 
+              (RB muito)
+              (JJ especial)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB dizia)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS pivot)
+     )
+    )
+   )
+  )
+ )
+)

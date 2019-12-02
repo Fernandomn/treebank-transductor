@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN Física)
+    )
+   )
+   (VP 
+    (VBP ganhou)
+   )
+   (NP 
+    (DT a)
+    (NNP Agência_Meteorológica_Japonesa)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT um)
+     (NN estudo)
+     (PP 
+      (IN de)
+      (NP 
+       (CD sete)
+       (NN anos)
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NN hipótese)
+       (PP 
+        (IN de)
+        (VP 
+         (NP 
+          (NN terremotos)
+         )
+         (VP 
+          (VB serem)
+          (VBN causados)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (NN peixes)
+           (VP 
+            (VP 
+             (VBG rebolando)
+            )
+            (NP 
+             (DT suas)
+             (NN caudas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

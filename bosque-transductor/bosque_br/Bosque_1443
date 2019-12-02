@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (NP 
+     (DT o)
+     (NN abrandamento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN inversão)
+       (ADJP 
+        (JJ térmica)
+       )
+       (NP 
+        (NN fenômeno)
+        (VP 
+         (VP 
+          (VBN causado)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (NN massas)
+           (PP 
+            (IN de)
+            (NP 
+             (NN ar)
+             (ADJP 
+              (JJ quente)
+             )
+             (VP 
+              (NP 
+               (PRP que)
+              )
+              (VP 
+               (VBP impedem)
+              )
+              (NP 
+               (DT a)
+               (NN dispersão)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT os)
+                 (NN poluentes)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (DT a)
+     (NN volta)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN ventos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deverão)
+    (VB contribuir)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN melhora)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN qualidade)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN ar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

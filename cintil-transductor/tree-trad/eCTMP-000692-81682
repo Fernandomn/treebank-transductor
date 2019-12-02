@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Stefanie)
+     (NNS Carp)
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (PRP vários)
+     (NP 
+      (NP 
+       (NNS textos)
+       (JJ publicados)
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (NP 
+         (NNS Ciência)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Literatura)
+            (NNS Moderna)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

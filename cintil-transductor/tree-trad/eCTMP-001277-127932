@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (PP sua)
+      (NNS saúde)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB parece)
+     )
+     (VP 
+      (VB estar)
+      (RB bem)
+     )
+    )
+   )
+  )
+ )
+)

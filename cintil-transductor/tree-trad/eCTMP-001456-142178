@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS processo)
+     (ADJP 
+      (VB iniciado)
+      (RB ontem)
+     )
+    )
+   )
+   (VP 
+    (VB poderá)
+    (VP 
+     (VB durar)
+     (NP 
+      (PRP alguns)
+      (NNS meses)
+     )
+    )
+   )
+  )
+ )
+)

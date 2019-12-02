@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Banco)
+     (NNS de)
+     (NNS Portugal)
+    )
+   )
+   (VP 
+    (VP 
+     (VB interveio)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS mercado)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB cedendo)
+        (NP 
+         (NNS liquidez)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS regime)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS leilão)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS taxa)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS juro)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

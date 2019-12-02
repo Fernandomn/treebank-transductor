@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Cada)
+    (NN obra)
+   )
+   (VP 
+    (VBP consome)
+   )
+   (NP 
+    (NP 
+     (CD 1.5)
+     (NN tonelada)
+     (PP 
+      (IN de)
+      (NP 
+       (NN aço)
+       (NP 
+        (NN US$)
+        (NP 
+         (CD 6)
+         (NN mil)
+        )
+       )
+      )
+     )
+    )
+    mais
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 10)
+      (NN mil)
+      (PP 
+       (IN de)
+       (NP 
+        (NN mão-de-obra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

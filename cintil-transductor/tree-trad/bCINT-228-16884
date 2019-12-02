@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Michael)
+      (NNS Johnson)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Michael)
+       (NNS Powell)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB podiam)
+    )
+    (VP 
+     (VB esconder)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS frustração)
+      )
+     )
+    )
+   )
+  )
+ )
+)

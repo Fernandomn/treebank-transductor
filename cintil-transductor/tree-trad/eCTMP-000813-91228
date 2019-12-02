@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Após)
+       (NP 
+        (DT o)
+        (NNS intervalo)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS Iordanov)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS lugar)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Douglas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Sporting)
+    )
+    (VP 
+     (VB apareceu)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ mesma)
+        (NP 
+         (NNS postura)
+         (JJ atacante)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

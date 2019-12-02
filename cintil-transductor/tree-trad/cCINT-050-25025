@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Releu)
+     (NP 
+      (PRP -a)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB depois)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uns)
+          (NP 
+           (NNS minutos)
+           (PP 
+            (IN em)
+            (NP 
+             (NNS silêncio)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VB adiantou)
+     )
+    )
+   )
+  )
+ )
+)

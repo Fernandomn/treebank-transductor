@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS fábrica)
+   )
+   (VP 
+    (VB terá)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS área)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD nove)
+          (CD mil)
+         )
+         (NP 
+          (NNS metros)
+          (JJ quadrados)
+         )
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (PP 
+         (IN por)
+         (RB onde)
+        )
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB repartirão)
+          )
+         )
+         (NP 
+          (NP 
+           (DT a)
+           (NP 
+            (NNS linha)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS produção)
+             )
+            )
+           )
+          )
+          (NP 
+           (NP 
+            (NP 
+             (NNS armazém)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (NNS administração)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

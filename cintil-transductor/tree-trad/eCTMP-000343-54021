@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Estoril)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB perde)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS casa)
+     )
+    )
+   )
+  )
+  (S 
+   (S 
+    (NP 
+     (NNS Sporting)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB ganha)
+     )
+     (RB fora)
+    )
+   )
+  )
+ )
+)

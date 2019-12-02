@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN A_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS discurso)
+        (ADJP 
+         (RB razoavelmente)
+         (JJ optimista)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Belmiro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Aníbal)
+      (NNS Santos)
+     )
+    )
+    (VP 
+     (VP 
+      (VB contrapôs)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS quadro)
+        (ADJP 
+         (RB muito)
+         (JJ negro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

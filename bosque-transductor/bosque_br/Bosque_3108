@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN tesoureira)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN campanha)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Lula)
+        )
+       )
+      )
+     )
+     (NP 
+      (NNP Tatau_Godinho)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN custos)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP resumem)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN passagem)
+     (ADJP 
+      (JJ aérea)
+     )
+    )
+   )
+   (VP 
+    (IN já_que)
+    (NP 
+     (DT o)
+     (NN candidato)
+    )
+    (VP 
+     (VBP ficou)
+    )
+    (VP 
+     (VP 
+      (VBN hospedado)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN casa)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN embaixador)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Brasil)
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NNP África_do_Sul)
+          )
+         )
+         (NP 
+          (NNP Antônio_Amaral_de_Sampaio)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

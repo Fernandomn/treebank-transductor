@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS Síria)
+     )
+     (VP 
+      (VP 
+       (VB procura)
+       (RB ostensivamente)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (PP nossa)
+        (NNS retirada)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS prática)
+         )
+        )
+       )
+       (VP 
+        (VB impede)
+        (NP 
+         (PRP -a)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

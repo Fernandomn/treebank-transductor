@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS poeta)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB recordado)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NP 
+         (NNS leitura)
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (NP 
+           (DT uma)
+           (NP 
+            (JJ grande)
+            (NNS amiga)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS Clara)
+            (NNS Paiva)
+            (NNS Boléu)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (JJ belíssimos)
+          (NP 
+           (NNS versos)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS Últimos)
+              (NNS Desejos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

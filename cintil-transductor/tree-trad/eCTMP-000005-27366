@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS beco)
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS carros)
+          (JJ estacionados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS quantidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ pequenos)
+          (NNS letreiros)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB anuncia)
+     (NP 
+      (DT um)
+      (NNS vidente)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB São)
+     (NP 
+      (NP 
+       (NNS jornalistas)
+       (JJ alemães)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NNS Edelman)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB contém)
+      )
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS expressão)
+        (ADJP 
+         (RB menos)
+         (JJ simpática)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

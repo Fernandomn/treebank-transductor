@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (NNS situação)
+       (JJ política)
+      )
+      (JJ portuguesa)
+     )
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ estável)
+      )
+      de_ o que
+      (NP 
+       (DT a)
+       (NNS espanhola)
+      )
+     )
+    )
+   )
+  )
+ )
+)

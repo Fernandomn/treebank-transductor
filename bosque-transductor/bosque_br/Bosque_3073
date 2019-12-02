@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (ADJP 
+     (JJ Negro)
+    )
+    e
+    (ADJP 
+     (JJ portador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN vírus)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Aids)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Bill_T._Jones)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (CD uma)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN expressões)
+      (ADJP 
+       (RB mais)
+       (JJ poderosas)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN dança)
+        (ADJP 
+         (JJ contemporânea)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP jogava)
+   )
+   (VP 
+    (IN porque)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP estava)
+    )
+    (ADVP 
+     (RB bem)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT A)
+       (NNS contradição)
+      )
+      (VP 
+       (VB é)
+       (JJ evidente)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB conclui)
+    )
+    (NP 
+     (NP 
+      (NNS Mário)
+      (NNS Soares)
+     )
+    )
+   )
+  )
+ )
+)

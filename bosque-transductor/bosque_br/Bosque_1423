@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN cartões)
+    (NP 
+     (NNP Sollo)
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP realizaram)
+   )
+   (NP 
+    (NN contratos)
+    (PP 
+     (IN entre)
+     (NP 
+      (DT outros)
+     )
+    )
+   )
+   (NP 
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (DT o)
+       (NNP Jockey_Club)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP São_Paulo)
+        )
+       )
+      )
+      (NP 
+       (DT a)
+       (NNP Fundação_Getúlio_Vargas)
+      )
+      (NP 
+       (DT a)
+       (NNP Associação_Paulista_de_Propaganda)
+      )
+      (NP 
+       (DT a)
+       (NNP Birello)
+      )
+      e
+      (NP 
+       (DT a)
+       (NNP Jogê)
+      )
+     )
+    )
+   )
+  )
+ )
+)

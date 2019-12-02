@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS países)
+     (ADJP 
+      (JJ candidatos)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS instalação)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (DT a)
+      (NNS França)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT a)
+       (NNS Holanda)
+      )
+     )
+    )
+   )
+  )
+ )
+)

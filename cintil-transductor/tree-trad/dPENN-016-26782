@@ -1,0 +1,44 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS Hewlett-Packard)
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS empresa)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Palo)
+          (NNS Alto)
+         )
+        )
+        (NP 
+         (NNS Calif.)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS fabricante)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS computadores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

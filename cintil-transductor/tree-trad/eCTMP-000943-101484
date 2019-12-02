@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS sector)
+     (JJ privado)
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VB ser)
+     (ADJP 
+      (ADJP 
+       (RB apenas)
+       (ADJP 
+        (JJ complementar)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS público)
+         )
+        )
+       )
+      )
+      (ADJP 
+       (CC ou)
+       (JJ concorrencial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

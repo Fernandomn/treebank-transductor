@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pão-de-açúcar)
+   )
+   (VP 
+    (VBP negocia)
+   )
+   (NP 
+    (NN compra)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP G.Aronson)
+     )
+    )
+   )
+  )
+ )
+)

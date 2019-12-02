@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (VP 
+    (VBP suponha)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN economia)
+     (NP 
+      (DT toda)
+     )
+    )
+    (VP 
+     (VBP vire)
+    )
+    (NP 
+     (DT um)
+     (NN bando)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NN gente)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP ganha)
+         )
+         (NP 
+          (NN mesada)
+         )
+        )
+       )
+      )
+      e
+      (PP 
+       (IN de)
+       (NP 
+        (NN gente)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP dá)
+         )
+         (NP 
+          (NN mesada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

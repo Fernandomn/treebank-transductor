@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB sabiam)
+    )
+    (NP 
+     (DT esses)
+     (NP 
+      (NNS académicos)
+      (NP 
+       (CC e)
+       (NNS matemáticos)
+      )
+     )
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (VB podem)
+      (VB existir)
+     )
+     (NP 
+      (NP 
+       (NNS percentagens)
+       (JJ negativas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

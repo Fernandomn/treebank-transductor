@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS paz)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (IN para)
+      (NP 
+       (NNS Angola)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (DT as)
+         (NNS pernas)
+        )
+        (VP 
+         (VP 
+          (VB são)
+          (PP 
+           (IN para)
+           (NP 
+            (DT o)
+            (NNS homem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

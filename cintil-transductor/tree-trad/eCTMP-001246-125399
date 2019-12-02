@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Sou)
+     (RB actualmente)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS jornalista)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS informação)
+          (JJ televisiva)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS canal)
+         (JJ privado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

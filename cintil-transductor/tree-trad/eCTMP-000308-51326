@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Filmes)
+     (NP 
+      (CC e)
+      (NNS livros)
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Faro)
+   )
+  )
+ )
+)

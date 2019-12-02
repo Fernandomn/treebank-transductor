@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Metro)
+     (ADJP 
+      (ADJP 
+       (VB contactado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS PÚBLICO)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS estudos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS viabilidade)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (JJ futura)
+              (NNS estação)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (RB ainda)
+       (VP 
+        (VP 
+         (RB não)
+         (VB estão)
+        )
+        (JJ terminados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

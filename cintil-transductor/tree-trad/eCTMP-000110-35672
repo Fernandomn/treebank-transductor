@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Começaram)
+     (RB bem)
+    )
+    (NP 
+     (DT os)
+     (NNS argentinos)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB desenvolvendo)
+      (NP 
+       (NP 
+        (NP 
+         (NNS lances)
+         (JJ rápidos)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS contra-ataque)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

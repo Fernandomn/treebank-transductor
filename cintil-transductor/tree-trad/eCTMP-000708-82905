@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Dei)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS toque)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT um)
+          (NNS passeio)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT o)
+       (NNS volante)
+      )
+      (VB saltou)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (VP 
+        (VB perco)
+        (NP 
+         (NNS dinheiro)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB estou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ter)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS posicionamento)
+         (JJ estratégico)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

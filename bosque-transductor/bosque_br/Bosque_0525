@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Parar)
+    )
+    (NP 
+     (DT esse)
+     (NN ataque)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN bloqueio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN missão)
+    (ADJP 
+     (RB quase)
+     (JJ impossível)
+    )
+   )
+  )
+ )
+)

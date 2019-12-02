@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gorbatchov)
+   )
+   (VP 
+    (VP 
+     (VB chegou)
+     (RB precisamente)
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS estudantes)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (RB aí)
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB manifestavam)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB davam)
+        (NP 
+         (NNS início)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS greve)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS fome)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

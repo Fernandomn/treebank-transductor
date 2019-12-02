@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS futuro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS espaço)
+         )
+        )
+       )
+       (CONJP 
+        (RB onde)
+        (S 
+         (VP 
+          (VB funciona)
+         )
+         (NP 
+          (DT a)
+          (NNS carreira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS Mota)
+     )
+    )
+    (VP 
+     (VP 
+      (VB disse)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT isso)
+        )
+        (VP 
+         (VB seria)
+         (VB visto)
+        )
+       )
+      )
+     )
+     (ADVP 
+      (ADVP 
+       (RB mais)
+       (RB tarde)
+      )
+     )
+    )
+   )
+  )
+ )
+)

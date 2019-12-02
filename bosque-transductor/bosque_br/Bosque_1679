@@ -1,0 +1,132 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN há)
+    (NP 
+     (RB mais_de)
+     (CD um)
+     (NN ano)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP México)
+   )
+   (VP 
+    (VBP encontra-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT uma)
+     (NN situação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN desequilíbrio)
+       (ADJP 
+        (JJ potencial)
+       )
+       (ADJP 
+        (JJ permanente)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN balanço)
+      (PP 
+       (IN de)
+       (NP 
+        (NN transações)
+        (ADJP 
+         (JJ correntes)
+        )
+       )
+      )
+     )
+    )
+    e
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN orçamento)
+      (ADJP 
+       (JJ fiscal)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP foi)
+        (VBN compensado)
+       )
+       (ADVP 
+        (RB mais)
+        (RB recentemente)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (DT um)
+         (NN endividamento)
+         (ADJP 
+          (JJ crescente)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN setor)
+           (ADJP 
+            (JJ público)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT as)
+         (NN praças)
+         (ADJP 
+          (JJ financeiras)
+         )
+         (ADJP 
+          (JJ internacionais)
+         )
+         (PP 
+          (RB em_particular)
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN Bolsa)
+           (PP 
+            (IN de)
+            (NP 
+             (NNP Nova_York)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

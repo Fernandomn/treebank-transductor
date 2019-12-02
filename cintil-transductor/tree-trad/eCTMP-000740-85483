@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS bisavó)
+   )
+   (VP 
+    (VB fundou)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS enleio)
+       (JJ artístico)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS família)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Brasil)
+   )
+   (VP 
+    (VP 
+     (VB integra)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Grupo)
+       (NNS de_)
+       (NNS o)
+       (NNS Torneio)
+       (NNS Olímpico)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN juntamente)
+       (IN com)
+      )
+      (NP 
+       (DT as)
+       (NP 
+        (NNS selecções)
+        (PP 
+         (IN de_)
+         (NP 
+          (NP 
+           (DT o)
+           (NNS Japão)
+          )
+          (NP 
+           (NP 
+            (NP 
+             (NNS Hungria)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (NNS Nigéria)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

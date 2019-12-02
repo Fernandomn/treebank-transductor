@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN torcidas)
+   )
+   (VP 
+    (VBP partem)
+   )
+   (ADVP 
+    (RB para_cima)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP PM)
+     )
+    )
+   )
+   (VP 
+    (IN a_fim_de_que)
+    (NP 
+     (PRP nos)
+    )
+    (VP 
+     (VBP concentremos)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT um)
+      (RB só)
+      (NN local)
+     )
+    )
+   )
+  )
+ )
+)

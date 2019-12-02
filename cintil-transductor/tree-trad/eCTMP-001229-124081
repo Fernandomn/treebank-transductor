@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NNS Avião)
+  )
+  (VP 
+   (VP 
+    (VB abatido)
+    (PP 
+     (IN por)
+     (NP 
+      (DT um)
+      (NNS míssil)
+     )
+    )
+   )
+  )
+ )
+)

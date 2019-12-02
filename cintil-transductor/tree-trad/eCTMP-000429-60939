@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Gondomar)
+    )
+   )
+   (S 
+    (VP 
+     (VB vão)
+     (VP 
+      (VP 
+       (VB estar)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS confronto)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Aníbal)
+       (NNS Lira)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Ricardo)
+        (NNS Bexiga)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

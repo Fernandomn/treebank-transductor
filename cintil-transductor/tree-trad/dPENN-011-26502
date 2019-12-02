@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Chivas)
+     (NNS Class)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (CD primeira)
+      (NP 
+       (NNS promoção)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS género)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

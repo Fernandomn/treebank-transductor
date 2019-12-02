@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP faça)
+   )
+   (NP 
+    (NN perguntas)
+    (NP 
+     (RB como)
+     (NP 
+      (DT esta)
+     )
+    )
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (DT o)
+     (NN amor)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (ADJP 
+      (JJ grande)
+     )
+     nem
+     (ADJP 
+      (JJ pequeno)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (VB Chegou)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS indivíduo)
+     (CONJP 
+      (NP 
+       (DT cuja)
+       (NNS moto)
+      )
+      (S 
+       (VB avariou)
+      )
+     )
+    )
+   )
+  )
+ )
+)

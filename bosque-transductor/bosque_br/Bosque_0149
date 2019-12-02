@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Pereira)
+   )
+   (VP 
+    (VBP levou)
+   )
+   (NP 
+    (DT um)
+    (NN pisão)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN cabeça)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB mesmo)
+    )
+    (VP 
+     (VBG estando)
+    )
+    (VP 
+     (VP 
+      (VBN caído)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN chão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

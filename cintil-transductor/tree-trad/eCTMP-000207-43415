@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (NP 
+        (NNS Erupões)
+        (ADJP 
+         (RB mais)
+         (JJ fortes)
+        )
+       )
+      )
+      (VP 
+       (VB podem)
+       (VP 
+        (VB ocorrer)
+        (PP 
+         (IN a)
+         (NP 
+          (PRP qualquer)
+          (NNS momento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS chefe)
+       (NNS de_)
+       (NNS o)
+       (NNS Instituto)
+       (NNS de)
+       (NNS Vulcanologia)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Raymundo)
+       (NNS Punongbayan)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (VP 
+     (VBP noticiei)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (NNP Fernando_Henrique)
+     )
+     (VP 
+      (VBP estava)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN contatos)
+       (ADJP 
+        (JJ sigilosos)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NN governo)
+         (NP 
+          (NNP Figueiredo)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBG oferecendo)
+      )
+      (NP 
+       (DT um)
+       (NN plano)
+       (PP 
+        (IN de)
+        (NP 
+         (NN conciliação)
+         (PP 
+          (IN entre)
+          (NP 
+           (NP 
+            (DT o)
+            (NN regime)
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (NP 
+              (PRP se)
+             )
+             (VP 
+              (VBP exauria)
+             )
+            )
+           )
+           e
+           (NP 
+            (DT o)
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (VP 
+              (VBP nasceria)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

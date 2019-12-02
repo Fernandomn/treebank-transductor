@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Amorim)
+   )
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP posso)
+     (VB dizer)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (PRP algo)
+     )
+     (NP 
+      (PRP me)
+     )
+     (VP 
+      (VBP frustre)
+     )
+    )
+    (VP 
+     (VP 
+      (VBG levando)
+     )
+     (ADVP 
+      (RB em_conta)
+     )
+     (VP 
+      (IN que)
+      (PP 
+       (IN há)
+       (NP 
+        (CD três)
+        (NN anos)
+       )
+      )
+      (NP 
+       (DT a)
+       (NN idéia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Mercosul)
+        )
+       )
+      )
+      (VP 
+       (VBP surgia)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Tratado_de_Assunção)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

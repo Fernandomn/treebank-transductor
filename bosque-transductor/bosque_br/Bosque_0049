@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN top)
+    (PP 
+     (IN de)
+     (NP 
+      (NN linha)
+     )
+    )
+   )
+   (VP 
+    (VBP custa)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 30)
+     (NN mil)
+    )
+   )
+  )
+ )
+)

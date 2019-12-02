@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS júri)
+     (ADJP 
+      (ADJP 
+       (VB constituído)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (DT um)
+          (NP 
+           (NNS chefe)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS secção)
+            )
+           )
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (CD duas)
+           (NNS secretárias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB perguntou)
+    (NP 
+     (PRP -lhe)
+    )
+   )
+  )
+ )
+)

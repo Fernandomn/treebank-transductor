@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (ADJP 
+     (JJ igual)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS agricultor)
+           (CONJP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB tem)
+               (PP 
+                (IN de)
+                (VB semear)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

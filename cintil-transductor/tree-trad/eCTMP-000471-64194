@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS Alves)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB só)
+     (RB aparentemente)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS homem)
+       (JJ intranquilo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

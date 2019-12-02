@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Telesp)
+    (NNS Celular)
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS impacto)
+       (JJ positivo)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS 2002)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

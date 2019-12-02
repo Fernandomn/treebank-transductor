@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS polícia)
+   )
+   (VP 
+    (VB chegou)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (JJ plena)
+       (NP 
+        (NNS discussão)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS berma)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS estrada)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

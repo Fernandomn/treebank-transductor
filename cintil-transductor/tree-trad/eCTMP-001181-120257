@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NNS repórter)
+      (JJ fictício)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Tuna)
+        (NNS Universitária)
+        (NNS de_)
+        (NNS o)
+        (NNS Porto)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB simulava)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS relato)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS directo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

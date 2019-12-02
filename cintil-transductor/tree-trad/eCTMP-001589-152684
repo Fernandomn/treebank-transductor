@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (PP sua)
+      (NP 
+       (NNS candidatura)
+       (CONJP 
+        (CONJP 
+         (NP 
+          (DT cuja)
+          (NNS lista)
+         )
+         (S 
+          (VP 
+           (VB deverá)
+           (VP 
+            (VP 
+             (VB ser)
+             (VB apresentada)
+            )
+            (RB brevemente)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB vai)
+       (ADVP 
+        (ADVP 
+         (RB de)
+         (RB certeza)
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN até)
+       (IN a_)
+      )
+      (NP 
+       (DT o)
+       (NNS fim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

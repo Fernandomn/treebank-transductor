@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (RB Nunca)
+   (S 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS passado)
+     )
+    )
+    (S 
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS selecção)
+       (JJ africana)
+      )
+     )
+     (VP 
+      (VP 
+       (VB chegara)
+       (ADVP 
+        (RB tão)
+        (RB longe)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS competição)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS futebol)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

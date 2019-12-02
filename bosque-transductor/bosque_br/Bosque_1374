@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN suspensão)
+    (ADJP 
+     (JJ traseira)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ progressiva)
+    (PP 
+     (IN com)
+     (NP 
+      (DT um)
+      (JJ só)
+      (NN amortecedor)
+      (NP 
+       (NNP Boge)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Emily_Lloyd)
+   )
+   (VP 
+    (VBP vai)
+    (VB ser)
+   )
+   (NP 
+    (DT a)
+    (VBN desbocada)
+    (NN punk)
+    (NP 
+     (NNP Tank_Girl)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN gibis)
+      (ADJP 
+       (JJ ingleses)
+      )
+     )
+    )
+   )
+  )
+ )
+)

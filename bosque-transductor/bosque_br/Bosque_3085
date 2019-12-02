@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Primeiro)
+    )
+    (NP 
+     (NNP George)
+    )
+    (VP 
+     (VBP fazia)
+    )
+    (NP 
+     (DT a)
+     (NN música)
+    )
+   )
+   (VP 
+    (NP 
+     (NNP Ira)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP capturava)
+      )
+      (NP 
+       (DT o)
+       (NN espírito)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN canção)
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP apunha-)
+      )
+      (NP 
+       (PRP lhe)
+      )
+      (NP 
+       (NP 
+        (NN título)
+       )
+       e
+       (NP 
+        (NN letra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

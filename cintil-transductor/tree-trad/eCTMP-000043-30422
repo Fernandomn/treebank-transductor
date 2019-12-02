@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Acontece)
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS TV2)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS Zombi)
+      (NNS de_)
+      (NNS os)
+      (NNS Palmares)
+     )
+    )
+   )
+  )
+ )
+)

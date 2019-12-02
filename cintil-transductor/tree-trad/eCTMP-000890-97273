@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NNS Jordan)
+  )
+  (VP 
+   (VP 
+    (VB faz)
+    (NP 
+     (CD 35)
+     (NNS pontos)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS dia)
+      (JJ mau)
+     )
+    )
+   )
+  )
+ )
+)

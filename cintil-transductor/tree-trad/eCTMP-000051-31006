@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sem)
+    (NP 
+     (NNS radicalismo)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB há)
+    )
+    (NP 
+     (PRP qualquer)
+     (NP 
+      (NNS evolução)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS sociedade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

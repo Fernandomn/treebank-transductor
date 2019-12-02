@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS anúncio)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NP 
+        (JJ nova)
+        (NNS tecnologia)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VB recebido)
+      (PP 
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NNS especialistas)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS imprensa)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (PRP alguma)
+      (NNS prudência)
+     )
+    )
+   )
+  )
+ )
+)

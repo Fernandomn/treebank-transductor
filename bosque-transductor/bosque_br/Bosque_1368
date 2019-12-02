@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NN amigos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN presidente)
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP repetiu)
+   )
+   (NP 
+    (DT várias)
+    (NN vezes)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NNP Ariosto)
+    )
+    (VP 
+     (VBP era)
+    )
+    (NP 
+     (DT o)
+     (NN filho)
+     (NP 
+      (NN homem)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB nunca)
+      )
+      (VP 
+       (VBP teve)
+      )
+     )
+    )
+   )
+  )
+ )
+)

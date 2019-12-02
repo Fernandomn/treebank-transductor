@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Miguel)
+      (NNS Gorjão)
+      (NNS Clara)
+     )
+    )
+    (VP 
+     (VB fez)
+     (NP 
+      (DT os)
+      (NNS desenhos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS empresa)
+        (NNS DET)
+       )
+       (ADJP 
+        (ADJP 
+         (VB sediada)
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Santarém)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB ganhou)
+      (NP 
+       (DT o)
+       (NNS concurso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NNS capital)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS reforço)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VP 
+       (VP 
+        (VB centrar)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (ADVP 
+        (RB essencialmente)
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Baixa)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS saídas)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NP 
+              (NNS estações)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS metropolitano)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

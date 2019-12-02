@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NNS ronda)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NNS Finanças)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS coordenação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (PRP várias)
+            (NNS pastas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

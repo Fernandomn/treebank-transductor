@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS programa)
+   )
+   (VP 
+    (VB inclui)
+    (NP 
+     (NP 
+      (NNS composições)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS João)
+          (NNS de)
+          (NNS Sousa)
+          (NNS Carvalho)
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NNS Mozart)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (NNS Schubert)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

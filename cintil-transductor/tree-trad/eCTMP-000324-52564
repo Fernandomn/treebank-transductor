@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS OSI)
+   )
+   (VP 
+    (VP 
+     (VB terminou)
+     (RB entretanto)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (CD segundo)
+      (NP 
+       (NNS relatório)
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB foi)
+           (VP 
+            (VB entregue)
+            (PP 
+             (IN a_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS Departamento)
+               (NNS de)
+               (NNS Saúde)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (CONJP 
+         (CONJP 
+          (CC mas)
+          (CONJP 
+           (NP 
+            (DT cujo)
+            (NNS conteúdo)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VP 
+               (RB não)
+               (VB foi)
+              )
+              (RB ainda)
+             )
+             (VB divulgado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

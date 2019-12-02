@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Arriet_Chanin)
+   )
+   (VP 
+    (NP 
+     (DT A)
+     (NN artista)
+    )
+    (VP 
+     (VBP mostra)
+    )
+    (NP 
+     (NP 
+      (CD 15)
+      (NN monotipias)
+      (VP 
+       (VP 
+        (VBN trabalhadas)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN papel)
+         (ADJP 
+          (JJ artesanal)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NN folha)
+           (PP 
+            (IN de)
+            (NP 
+             (NN bananeira)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (CD 12)
+      (NN gravuras)
+      (PP 
+       (IN em)
+       (NP 
+        (NN metal)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP são)
+       )
+       (NP 
+        (NP 
+         (NN instrumentos)
+         (ADJP 
+          (JJ musicais)
+         )
+        )
+        e
+        (NP 
+         (NN conchas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

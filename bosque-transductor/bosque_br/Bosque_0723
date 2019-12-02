@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Culpi)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (VP 
+    (VBP acha)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN time)
+    )
+    (VP 
+     (VBP pode)
+    )
+    (VP 
+     (VP 
+      (VB suportar)
+      (NP 
+       (DT a)
+       (NN pressão)
+      )
+     )
+     e
+     (VP 
+      (VB confirmar)
+      (NP 
+       (DT a)
+       (NN vantagem)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

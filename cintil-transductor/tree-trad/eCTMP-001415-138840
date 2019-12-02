@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS tiro)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS factor)
+      (JJ psicológico)
+     )
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB muito)
+      (JJ importante)
+     )
+    )
+   )
+  )
+ )
+)

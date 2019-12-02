@@ -1,0 +1,174 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN notícia)
+    (VP 
+     (VP 
+      (VBN veiculada)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT esta)
+       (NNP Folha)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD 10/10/1994)
+      )
+     )
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NN presidente)
+       (VBN eleito)
+       (NP 
+        (NNP Fernando_Henrique_Cardoso)
+       )
+      )
+      (VP 
+       (VBP pretende)
+      )
+      (VP 
+       (VP 
+        (VB propor)
+       )
+       (NP 
+        (DT o)
+        (NN fim)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN unicidade)
+          (NP 
+           (NN sindical)
+          )
+          (NP 
+           (NN sindicato)
+           (ADJP 
+            (JJ único)
+           )
+           (VP 
+            (VP 
+             (VBG representando)
+            )
+            (UCP 
+             (NP 
+              (DT a)
+              (DT mesma)
+              (NN categoria)
+             )
+             e
+             (PP 
+              (IN em+)
+              (NP 
+               (DT a)
+               (DT mesma)
+               (NN base)
+               (ADJP 
+                (JJ territorial)
+               )
+              )
+             )
+            )
+            (VP 
+             (IN conforme)
+             (VP 
+              (VBP está)
+             )
+             (VP 
+              (VP 
+               (VBN previsto)
+              )
+              (PP 
+               (IN em+)
+               (NP 
+                (DT o)
+                (NN artigo)
+                (ADJP 
+                 (JJ 8º)
+                )
+                (NP 
+                 (NN II)
+                 (PP 
+                  (IN de+)
+                  (NP 
+                   (DT a)
+                   (NNP Constituição_Federal)
+                   (PP 
+                    (IN de)
+                    (ADJP 
+                     (CD 1988)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB juntamente)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN contrato)
+      (ADJP 
+       (JJ coletivo)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN trabalho)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP demonstra)
+   )
+   (NP 
+    (DT sua)
+    (NN coerência)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN modernização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN relações)
+        (ADJP 
+         (JJ sociais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

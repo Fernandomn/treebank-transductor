@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS Xuxa)
+  )
+  (VP 
+   (VP 
+    (VB lançou)
+    (NP 
+     (DT a)
+     (NNS moda)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS televisão)
+    )
+   )
+  )
+ )
+)

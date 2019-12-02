@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (ADVP 
+      (RB muito)
+      (RB muito)
+     )
+     (ADJP 
+      (JJ contente)
+      (PP 
+       (IN com)
+       (NP 
+        (DT isso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

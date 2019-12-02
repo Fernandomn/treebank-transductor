@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN ataques)
+    (PP 
+     (IN a)
+     (NP 
+      (NNP Sarney)
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP serão)
+    (VBN feitos)
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (DT a)
+     (NN contabilidade)
+     (ADJP 
+      (JJ quercista)
+     )
+    )
+    (VP 
+     (VBP constatar)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT a)
+      (NN vitória)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN prévia)
+       )
+      )
+     )
+     (VP 
+      (VBP está)
+     )
+     (VBN ameaçada)
+    )
+   )
+  )
+ )
+)

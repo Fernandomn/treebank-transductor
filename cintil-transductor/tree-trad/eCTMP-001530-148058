@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS olhos)
+    )
+    (VP 
+     (VB são)
+     (JJ azuis)
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT o)
+      (NNS olhar)
+     )
+     (VP 
+      (VB é)
+      (JJ frio)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Mirko)
+     (NNS Jozic)
+    )
+    (PP 
+     (PP 
+      (IN antes)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS estreia)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Setúbal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

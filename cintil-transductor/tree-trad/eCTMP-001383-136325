@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS estreias)
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Telmo)
+       (NNS Correia)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Francisco)
+        (NNS Peixoto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

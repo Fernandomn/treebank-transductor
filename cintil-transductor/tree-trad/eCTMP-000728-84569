@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Alimentos)
+     (PP 
+      (IN para)
+      (NP 
+       (NNS bebés)
+      )
+     )
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NP 
+       (NNS ingredientes)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS bovinos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

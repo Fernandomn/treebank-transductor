@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Só)
+    (VP 
+     (VB têm)
+     (NP 
+      (NNS voz)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (NP 
+         (PRP a)
+        )
+        (VB servem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

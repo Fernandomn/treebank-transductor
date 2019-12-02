@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN projeto)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT as)
+     (NN empresas)
+     (NP 
+      (NP 
+       (NNP Xerox)
+      )
+      e
+      (NP 
+       (NNP Ernst_&_Rubican)
+      )
+     )
+    )
+   )
+  )
+ )
+)

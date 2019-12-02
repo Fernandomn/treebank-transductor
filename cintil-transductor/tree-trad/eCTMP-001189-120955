@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Pedro)
+      (NNS Augusto)
+     )
+    )
+    (VP 
+     (VB enxuga)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS testa)
+       (ADJP 
+        (VB coberta)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS suor)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB despede)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS gerente)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS discoteca)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

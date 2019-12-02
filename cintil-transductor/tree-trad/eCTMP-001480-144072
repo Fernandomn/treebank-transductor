@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS etapa)
+   )
+   (VP 
+    (VP 
+     (VB marcou)
+     (RB também)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS despedida)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS circuito)
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS território)
+         (JJ europeu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

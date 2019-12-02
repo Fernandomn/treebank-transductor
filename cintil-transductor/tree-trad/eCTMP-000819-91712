@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Entre)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS zona)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS cremação)
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NNS mausoléu)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT este)
+        (NNS momento)
+       )
+      )
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB construir)
+       (NP 
+        (DT uma)
+        (NNS capela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

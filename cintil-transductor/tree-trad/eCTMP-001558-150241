@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VB posso)
+      (VP 
+       (VB aceitar)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS solução)
+         (JJ radical)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CC se)
+      (S 
+       (NP 
+        (DT a)
+        (NNS situação)
+       )
+       (VP 
+        (RB só)
+        (VP 
+         (VB puder)
+         (VP 
+          (VB admitir)
+          (NP 
+           (DT essa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

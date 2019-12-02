@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sem)
+    (VP 
+     (VP 
+      (VB mencionar)
+     )
+     (NP 
+      (DT o)
+      (NN nome)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (DT próprio)
+    (NNP FHC)
+   )
+   (VP 
+    (VBP deu)
+   )
+   (NP 
+    (NN crédito)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Collor)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS promessa)
+    )
+    (VP 
+     (VP 
+      (VB tem)
+      (RB já)
+     )
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (CD dois)
+      )
+      (NNS anos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB envolve)
+      (NP 
+       (NP 
+        (NNS contactos)
+        (PP 
+         (IN com)
+         (NP 
+          (DT as)
+          (NNS autarquias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

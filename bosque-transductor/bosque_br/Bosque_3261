@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN dinheiro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN vendas)
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+    (VBN utilizado)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN pagamento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN dívida)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Banespa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

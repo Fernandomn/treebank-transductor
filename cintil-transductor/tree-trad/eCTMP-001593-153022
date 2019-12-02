@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Washington)
+  )
+  (VP 
+   (VB garante)
+   (NP 
+    (NP 
+     (NNS redução)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS défice)
+      )
+     )
+    )
+   )
+  )
+ )
+)

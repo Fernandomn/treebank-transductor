@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Vice)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP FHC)
+     )
+    )
+   )
+   (NP 
+    (NNP Maciel)
+   )
+   (ADVP 
+    (RB nunca)
+   )
+   (VP 
+    (VBP usou)
+   )
+   (ADVP 
+    (RB tanto)
+   )
+   (NP 
+    (DT a)
+    (NN expressão)
+    (NP 
+     (NN ternurar)
+    )
+   )
+  )
+ )
+)

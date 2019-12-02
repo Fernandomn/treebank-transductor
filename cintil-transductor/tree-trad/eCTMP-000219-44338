@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS percurso)
+   )
+   (VP 
+    (ADVP 
+     (RB todavia)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VB cumprido)
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (PRP qualquer)
+       (NNS problema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Gilbert)
+   )
+   (VP 
+    (VP 
+     (VBP Acho)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (NNP Andre)
+     )
+     (VP 
+      (VBP usou)
+     )
+     (NP 
+      (DT essa)
+      (DT mesma)
+      (NN pressão)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT seu)
+       (NN favor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

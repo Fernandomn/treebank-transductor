@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS FC)
+     (NNS Porto)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS Guimarães)
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB obrigados)
+    (PP 
+     (IN a)
+     (VB ganhar)
+    )
+   )
+  )
+ )
+)

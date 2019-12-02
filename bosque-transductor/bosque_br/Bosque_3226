@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (CC E)
+   (VP 
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP gostava)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Roosevelt)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP detestava)
+    )
+    (NP 
+     (DT os)
+     (NN nazistas)
+    )
+   )
+  )
+ )
+)

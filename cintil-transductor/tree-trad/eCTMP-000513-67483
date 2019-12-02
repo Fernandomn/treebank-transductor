@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS Marselha)
+    )
+    (NP 
+     (NP 
+      (NNS campeão)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS título)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB recebe)
+    (NP 
+     (DT o)
+     (NNS Lille)
+    )
+   )
+  )
+ )
+)

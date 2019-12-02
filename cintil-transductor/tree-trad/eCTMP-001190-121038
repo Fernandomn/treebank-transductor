@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Durante)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS férias)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS deputados)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB entrará)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS funções)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS comissão)
+     (JJ permanente)
+    )
+   )
+  )
+ )
+)

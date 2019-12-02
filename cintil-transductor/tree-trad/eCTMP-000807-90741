@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS afluência)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NNS urnas)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB pode)
+   (VP 
+    (VB decidir)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS resultado)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS eleições)
+         (JJ mexicanas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

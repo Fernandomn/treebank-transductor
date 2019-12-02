@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (NP 
+    (NP 
+     (DT os)
+     (NN soldados)
+    )
+    e
+    (NP 
+     (DT a)
+     (NN polícia)
+    )
+   )
+   (VP 
+    (VBP estão)
+    (VBG trabalhando)
+   )
+   (ADVP 
+    (RB juntos)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB prender)
+     )
+     (NP 
+      (DT os)
+      (NN traficantes)
+     )
+    )
+   )
+  )
+ )
+)

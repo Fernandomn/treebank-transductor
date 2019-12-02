@@ -1,0 +1,86 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN bastidores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN museus)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN trabalho)
+     (VP 
+      (VP 
+       (VBN feito)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT os)
+        (NN fotógrafos)
+        (NP 
+         (NP 
+          (NNP Eduardo_Castanho)
+         )
+         (NP 
+          (NNP Saul_Queiroz)
+         )
+         (NP 
+          (NNP Rogério_Voltan)
+         )
+         (NP 
+          (NNP Ricardo_Hantzchel)
+         )
+         (NP 
+          (NNP Fausto_Chermont)
+         )
+         e
+         (NP 
+          (NNP Eliana_Lopes)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP retrata)
+    )
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (NP 
+      (DT as)
+      (NN pessoas)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP vêem)
+     )
+     (PP 
+      (IN a+)
+      (VP 
+       (DT o)
+       (VP 
+        (VB visitar)
+       )
+       (NP 
+        (DT um)
+        (NN museu)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

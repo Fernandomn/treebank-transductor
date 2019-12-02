@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS César)
+      (NNS Vila)
+      (NNS Franca)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS Câmara)
+      (NNS Municipal)
+      (NNS de)
+      (NNS Castelo)
+      (NNS Branco)
+     )
+    )
+   )
+   (VP 
+    (VB decidiu)
+    (VP 
+     (VP 
+      (VP 
+       (VB suspender)
+       (NP 
+        (DT o)
+        (NNS mandato)
+       )
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (CD 45)
+        (NNS dias)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN a)
+        (IN partir)
+        (IN de_)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS início)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Outubro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Árbitro)
+  )
+  (VP 
+   (VB irrita)
+   (NP 
+    (NP 
+     (NNS adeptos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Rio)
+        (NNS Ave)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

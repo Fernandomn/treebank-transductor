@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NNS causas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT esta)
+         (NP 
+          (NNS fusão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS gelo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Per)
+         (NNS Gloersen)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS William)
+          (NNS Campbell)
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB arriscam)
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS posição)
+         (JJ definitiva)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB dão)
+       (NP 
+        (PRP algumas)
+        (NNS pistas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

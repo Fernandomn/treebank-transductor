@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS estrada)
+      )
+     )
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VB chegar)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS velocidade)
+         (PP 
+          (IN de)
+          (NP 
+           (CD 90)
+           (NP 
+            (NNS quilómetros)
+            (PP 
+             (IN por)
+             (NP 
+              (NNS hora)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

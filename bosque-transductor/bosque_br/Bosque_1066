@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN caso)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN autor)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP O_Amanuense_Belmiro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP recomendo)
+    )
+    (NP 
+     (DT a)
+     (NN leitura)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD um)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (JJ inaugurais)
+         (NN romances)
+         (ADJP 
+          (JJ urbanos)
+         )
+         (ADJP 
+          (JJ brasileiros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP havia)
+   )
+   (NP 
+    (PRP nada)
+    (ADJP 
+     (JJ especial)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB demandar)
+      )
+      (NP 
+       (DT a)
+       (NN pergunta)
+       (VP 
+        (VP 
+         (VBN feita)
+        )
+        (ADVP 
+         (RB através)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Alcino)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

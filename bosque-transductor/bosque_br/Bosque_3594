@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Adventure_in_Castle)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN programa)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB aprender)
+      )
+      (NP 
+       (NN matemática)
+      )
+     )
+    )
+   )
+  )
+ )
+)

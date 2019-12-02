@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN pastor)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (JJ responsável)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+   )
+   (NP 
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP Comunidade_Pacifista_Cristã)
+      (VP 
+       (VP 
+        (VBN fundada)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Alemanha)
+        )
+       )
+       (PP 
+        (IN em)
+        (ADJP 
+         (CD 1708)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

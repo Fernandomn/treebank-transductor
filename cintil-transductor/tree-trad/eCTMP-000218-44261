@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aliás)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS programação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS RTP)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB até)
+     )
+     (ADJP 
+      (RB muito)
+      (JJ razoável)
+     )
+    )
+   )
+  )
+ )
+)

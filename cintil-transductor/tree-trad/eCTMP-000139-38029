@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS SJ)
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB exige)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NP 
+         (NNS manutenção)
+         (JJ integral)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS postos)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS trabalho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT os)
+     (CD dez)
+     (NN cestinhas)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (JJ atual)
+       (NN temporada)
+      )
+     )
+    )
+   )
+   (ADJP 
+    (RB apenas)
+    (CD um)
+   )
+   (VP 
+    (VBP joga)
+   )
+   (PP 
+    (IN fora_de+)
+    (NP 
+     (DT o)
+     (NN garrafão)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Animado)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT um)
+      (NN teste)
+      (PP 
+       (IN de)
+       (NP 
+        (NN vestiário)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN tcheco)
+    (NP 
+     (NNP Zdenek_Zeman)
+    )
+    (NP 
+     (NN técnico)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Lazio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP colocou)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN campo)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN atacante)
+    (ADJP 
+     (JJ croata)
+    )
+    (NP 
+     (NNP Alan_Boksic)
+     (VP 
+      (NP 
+       (DT cuja)
+       (NN volta)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN time)
+        )
+       )
+      )
+      (VP 
+       (VBP estava)
+      )
+      (VP 
+       (VP 
+        (VBN prevista)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (JJ próxima)
+         (NN semana)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

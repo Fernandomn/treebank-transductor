@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN refinamento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN executivo)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT mais)
+    (CD um)
+    (NN diferencial)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN hora)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (DT sua)
+        (NN avaliação)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP completa)
+   )
+  )
+ )
+)

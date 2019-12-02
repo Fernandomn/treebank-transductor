@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP própria)
+     (NNS SPA)
+    )
+   )
+   (VP 
+    (VB procederá)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS distribuição)
+       (PP 
+        (IN de)
+        (NP 
+         (CD três)
+         (NP 
+          (NP 
+           (NNS compilações)
+           (PP 
+            (IN de)
+            (NP 
+             (PRP vários)
+             (NP 
+              (NNS autores)
+              (JJ nacionais)
+             )
+            )
+           )
+          )
+          (ADJP 
+           (ADJP 
+            (VB produzidas)
+            (PP 
+             (IN para)
+             (NP 
+              (NP 
+               (NP 
+                (NNS edições)
+                (JJ prévias)
+               )
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NNS Midem)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

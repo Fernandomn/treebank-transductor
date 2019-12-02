@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBG Dobrando)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN vinco)
+      )
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NN calça)
+       (ADJP 
+        (JJ jeans)
+       )
+      )
+      ou
+      (NP 
+       (DT a)
+       (NN calça)
+       (PP 
+        (IN de)
+        (NP 
+         (NN veludo)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBG estendendo-)
+     )
+     (NP 
+      (PRP a)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NN carpete)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN quarto)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN hotel)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP fica)
+   )
+   (VP 
+    (IN como_se)
+    (VP 
+     (VBP tivesse)
+     (VBN sido)
+     (VBN passada)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN ferro)
+     )
+    )
+   )
+  )
+ )
+)

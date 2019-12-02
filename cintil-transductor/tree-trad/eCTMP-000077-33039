@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS Três)
+     (NNS Cavaleiros)
+     (NNS de_)
+     (NNS o)
+     (NNS Apocalipse)
+    )
+   )
+   (VP 
+    (VB eram)
+    (NP 
+     (CD quatro)
+     (NP 
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS conjunto)
+         (PP 
+          (IN de)
+          (NP 
+           (CD cinco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Tampouco)
+   )
+   (VP 
+    (VBP passa)
+   )
+   (PP 
+    (PP 
+     (IN por)
+     (NP 
+      (NNP FHC)
+      (NP 
+       (NN representante)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN contemporização)
+         (ADJP 
+          (RB bem)
+          (VBN explicada)
+         )
+        )
+       )
+      )
+     )
+    )
+    ou
+    (PP 
+     (IN por)
+     (NP 
+      (NNP Antonio_Britto)
+      (VP 
+       (NP 
+        (DT cujo)
+        (NN voto)
+       )
+       (PP 
+        (IN em_favor_de+)
+        (NP 
+         (DT a)
+         (NN anistia)
+         (ADJP 
+          (JJ total)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT os)
+           (NN agricultores)
+          )
+         )
+        )
+       )
+       (NP 
+        (NN semana)
+        (VBN passada)
+       )
+       (VP 
+        (VBP ressuscitou)
+       )
+       (NP 
+        (DT os)
+        (JJ piores)
+        (NN prognósticos)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT seu)
+          (NN estilo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

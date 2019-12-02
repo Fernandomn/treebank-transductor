@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN camelô)
+    (ADJP 
+     (JJ cearense)
+    )
+   )
+   (VP 
+    (VBP inventou)
+   )
+   (NP 
+    (DT o)
+    (NN kit)
+    (NP 
+     (NN Aids)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NN par)
+      (PP 
+       (IN de)
+       (NP 
+        (NN joelheiras)
+       )
+      )
+     )
+     e
+     (NP 
+      (CD 45)
+      (NN camisinhas)
+     )
+    )
+   )
+  )
+ )
+)

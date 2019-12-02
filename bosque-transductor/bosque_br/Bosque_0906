@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (NN medo)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB ser)
+       (VBN mortos)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (DT a)
+     (NN coisa)
+    )
+    (VP 
+     (VBP está)
+     (VBG ficando)
+    )
+    (ADJP 
+     (JJ violenta)
+     (RB demais)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN linhas)
+    (ADJP 
+     (JJ invisíveis)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN superfície)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN detectadas)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de)
+     (NP 
+      (NN dados)
+      (PP 
+       (IN de)
+       (NP 
+        (NN satélites)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

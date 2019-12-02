@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Pegou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS auscultador)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (JJ grande)
+       (NNS nervosismo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

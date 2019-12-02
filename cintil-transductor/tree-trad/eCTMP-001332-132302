@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Quis)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT uma)
+      (NP 
+       (CD terceira)
+       (NP 
+        (NP 
+         (NNS via)
+         (ADJP 
+          (JJ revolucionária)
+         )
+        )
+        (PP 
+         (IN entre)
+         (NP 
+          (NP 
+           (DT o)
+           (NNS marxismo)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT o)
+            (NNS liberalismo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

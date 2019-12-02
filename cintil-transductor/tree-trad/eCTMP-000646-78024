@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Estamos)
+      (PP 
+       (IN a)
+       (VP 
+        (VB construir)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS nação)
+          (PP 
+           (IN para)
+           (NP 
+            (DT a)
+            (NNS democracia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (PRP eu)
+      )
+      (VP 
+       (VB gosto)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT isso)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

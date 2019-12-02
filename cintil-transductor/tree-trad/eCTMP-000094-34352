@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (ADJP 
+      (RB mais)
+      (JJ agradável)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT as)
+       (NNS coisas)
+      )
+      (VB pairam)
+     )
+    )
+   )
+  )
+ )
+)

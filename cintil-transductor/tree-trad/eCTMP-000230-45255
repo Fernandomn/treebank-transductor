@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Fica)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (JJ plena)
+       (NP 
+        (NNS Avenida)
+        (NNS de_)
+        (NNS a)
+        (NNS Constitución)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

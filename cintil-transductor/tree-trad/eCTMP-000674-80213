@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Fernando)
+      (NNS Santos)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS treinador)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Estoril)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS protagonista)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS jornada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS fábrica)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Steiff)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB fica)
+    )
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS terra)
+         (JJ natal)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Margarete)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

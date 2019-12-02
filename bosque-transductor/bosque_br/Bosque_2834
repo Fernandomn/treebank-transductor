@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Muitos)
+    (NN negócios)
+   )
+   (VP 
+    (VBP foram)
+   )
+   (VP 
+    (VP 
+     (VBN iniciados)
+    )
+    ou
+    (VP 
+     (VBN fechados)
+     (PP 
+      (IN durante)
+      (NP 
+       (DT o)
+       (NNP Siaf)
+      )
+     )
+    )
+   )
+  )
+ )
+)

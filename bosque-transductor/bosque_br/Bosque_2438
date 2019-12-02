@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Sei)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB jamais)
+    )
+    (VP 
+     (VBP terei)
+    )
+    (NP 
+     (DT uma)
+     (NN chance)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB trabalhar)
+       )
+       (ADVP 
+        (RB tão)
+        (RB calmamente)
+       )
+       (ADVP 
+        (RB de_novo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

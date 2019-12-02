@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS relações)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS autoridade)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS aula)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB eram)
+    (ADJP 
+     (RB muito)
+     (JJ claras)
+    )
+   )
+  )
+ )
+)

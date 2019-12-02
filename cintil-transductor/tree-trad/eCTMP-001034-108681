@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NNS Catolicismo)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS alta)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS cidade)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Calvino)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

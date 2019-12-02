@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tombamento)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN caminhão)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN km)
+      (ADJP 
+       (CD 226)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN pista)
+        (NP 
+         (NNP Rio-São_Paulo)
+        )
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN via)
+        (NP 
+         (NNP Dutra)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 5h)
+      (PP 
+       (IN de)
+       (RB ontem)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP provocou)
+   )
+   (NP 
+    (NN engarrafamento)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN rodovia)
+    )
+   )
+  )
+ )
+)

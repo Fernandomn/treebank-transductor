@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Sindicato_dos_Jornalistas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Pará)
+     )
+    )
+   )
+   (VP 
+    (VBP exige)
+   )
+   (NP 
+    (DT a)
+    (NN demissão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (RB cerca_de)
+      (CD 150)
+      (NN jornalistas)
+      (ADJP 
+       (JJ irregulares)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP têm)
+       )
+       (NP 
+        (NN curso)
+        (ADJP 
+         (JJ universitário)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN Jornalismo)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN empresas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Belém)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Falando)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT os)
+      (NN membros)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Comissão_de_Assuntos_Econômicos)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN Senado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN ministro)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (VP 
+     (VB estar)
+    )
+    (ADJP 
+     (JJ feliz)
+    )
+    (PP 
+     (IN por)
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VB haver)
+      )
+      (ADVP 
+       (IN até)
+       (RB agora)
+      )
+      (NP 
+       (NN sentenças)
+       (ADJP 
+        (JJ judiciais)
+       )
+       (ADJP 
+        (JJ contrárias)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT as)
+          (NN medidas)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN plano)
+            (ADJP 
+             (JJ econômico)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

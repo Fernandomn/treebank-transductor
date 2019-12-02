@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS processo)
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS desejo)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NP 
+          (JJ impossível)
+          (NNS missão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

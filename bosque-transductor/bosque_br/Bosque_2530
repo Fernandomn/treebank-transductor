@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT as)
+     (NN 22h43)
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NN governador)
+     (VBN eleito)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP São_Paulo)
+      )
+     )
+     (NP 
+      (NNP Mário_Covas)
+     )
+    )
+    e
+    (NP 
+     (DT sua)
+     (NN mulher)
+     (NP 
+      (NNP Lila)
+     )
+    )
+   )
+   (VP 
+    (VBP chegaram)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN jantar)
+    )
+   )
+  )
+ )
+)

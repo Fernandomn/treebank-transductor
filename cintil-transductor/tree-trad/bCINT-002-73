@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (PRP poucas)
+       (NNS palavras)
+      )
+     )
+    )
+    (VP 
+     (VB ficamos)
+     (PP 
+      (IN a)
+      (VP 
+       (VB saber)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (DT a)
+          (NNS beleza)
+         )
+         (VP 
+          (VB é)
+          (ADJP 
+           (ADJP 
+            (RB tão)
+            (JJ boring)
+           )
+           (CONJP 
+            (CC como)
+            (NP 
+             (DT um)
+             (NNS bonsai)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

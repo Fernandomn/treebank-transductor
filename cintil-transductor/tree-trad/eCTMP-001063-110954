@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+    (NNS trabalhos)
+   )
+   (VP 
+    (VP 
+     (VB documentam)
+     (RB sobretudo)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NNS chegada)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT a)
+        (NNS partida)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS medidas)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS ajuda)
+             (PP 
+              (IN a_)
+              (NP 
+               (DT os)
+               (NP 
+                (NP 
+                 (NNS emigrantes)
+                 (JJ judeus)
+                )
+                (PP 
+                 (IN em)
+                 (NP 
+                  (NNS Portugal)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

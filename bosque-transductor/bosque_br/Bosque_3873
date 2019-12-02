@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Stephen_Freehill)
+    (ADJP 
+     (CD 16)
+    )
+    (NP 
+     (NN foto)
+    )
+   )
+   (VP 
+    (VBP compareceu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT um)
+     (NN tribunal)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Cingapura)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT uma)
+     (NN audiência)
+     (ADJP 
+      (JJ preliminar)
+     )
+    )
+   )
+  )
+ )
+)

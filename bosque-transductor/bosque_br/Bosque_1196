@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+   )
+   (ADJP 
+    (JJ possível)
+   )
+   (VP 
+    (VP 
+     (VB cumprir)
+    )
+    (NP 
+     (DT os)
+     (CD 13.4)
+     (NN quilômetros)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN percurso)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT uma)
+      (NN velocidade)
+      (ADJP 
+       (JJ média)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (CD 40)
+        (NN km/h)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG incluindo-)
+     )
+     (NP 
+      (PRP se)
+     )
+     (NP 
+      (DT a)
+      (NN espera)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NN semáforos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

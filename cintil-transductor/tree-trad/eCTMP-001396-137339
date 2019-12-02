@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS guerra)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS coisa)
+       (ADJP 
+        (RB mais)
+        (JJ desprezível)
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VB existe)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

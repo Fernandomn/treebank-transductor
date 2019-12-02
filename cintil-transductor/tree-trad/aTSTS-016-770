@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS remoção)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS livro)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS prateleira)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS Pedro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

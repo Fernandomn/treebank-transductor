@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Desde)
+    (NP 
+     (DT o)
+     (JJ último)
+     (NN dia)
+     (ADJP 
+      (CD 13)
+     )
+    )
+   )
+   (NP 
+    (NNP Confissões_de_Adolescente)
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+    (VBN vista)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT os)
+     (NN teens)
+     (ADJP 
+      (JJ portugueses)
+     )
+    )
+   )
+  )
+ )
+)

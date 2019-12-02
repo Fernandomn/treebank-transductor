@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP pediu)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN ministro)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NNP Minas_e_Energia)
+       )
+      )
+      (NP 
+       (NNP Alexis_Stepanenko)
+      )
+     )
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP cheque)
+     )
+     (ADVP 
+      (RB também)
+     )
+     (NP 
+      (DT as)
+      (NN estatais)
+      (VP 
+       (VP 
+        (VBN ligadas)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (PRP ele)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB saber)
+       )
+       (VP 
+        (IN se)
+        (ADVP 
+         (RB também)
+        )
+        (VP 
+         (VBP houve)
+        )
+        (NP 
+         (NN desobediência)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

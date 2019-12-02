@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PS)
+   )
+   (VP 
+    (VB reagiu)
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS defesa)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Soares)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (CC mas)
+      (PP 
+       (IN com)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS fórmula)
+         (JJ frágil)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

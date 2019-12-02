@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNS Moçambique)
+  )
+  (VP 
+   (PP 
+    (IN a)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB mais)
+       (RB de)
+      )
+      (CD um)
+     )
+     (NP 
+      (NNS ano)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS eleições)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

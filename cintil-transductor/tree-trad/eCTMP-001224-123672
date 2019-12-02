@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS princípio)
+       )
+      )
+      (VP 
+       (VB fiquei)
+       (VB chocado)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB agora)
+      (VP 
+       (VP 
+        (VB gosto)
+        (RB imenso)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VB está)
+              (RB lá)
+             )
+             (JJ feito)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

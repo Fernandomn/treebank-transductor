@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB É)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS newbie)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB admite)
+       (CONJP 
+        (S 
+         (VP 
+          (VP 
+           (VP 
+            (RB não)
+            (VB serem)
+           )
+           (ADJP 
+            (JJ visíveis)
+           )
+          )
+          (ADVP 
+           (RB ainda)
+          )
+         )
+         (NP 
+          (DT as)
+          (NP 
+           (NNS vantagens)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS sistema)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

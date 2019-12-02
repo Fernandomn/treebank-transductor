@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por_)
+      (NP 
+       (DT a)
+       (NNS energia)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NNS força)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS crueza)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS coisa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

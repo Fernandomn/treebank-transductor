@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Pouco)
+      (RB depois)
+     )
+    )
+    (VP 
+     (VB reapareceu)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS companhia)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS prima)
+           (CONJP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VP 
+                (VB tinha)
+                (RB ainda)
+               )
+               (NP 
+                (NP 
+                 (DT os)
+                 (NP 
+                  (NNS olhos)
+                  (JJ inchados)
+                 )
+                )
+                (NP 
+                 (CC e)
+                 (NP 
+                  (DT o)
+                  (NP 
+                   (NNS rosto)
+                   (ADJP 
+                    (RB ligeiramente)
+                    (ADJP 
+                     (VB congestionado)
+                     (PP 
+                      (IN de_)
+                      (NP 
+                       (DT o)
+                       (NNS choro)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

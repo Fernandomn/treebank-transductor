@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Seis)
+       (NNS anos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Gennifer)
+         (NNS Flowers)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB volta)
+     (PP 
+      (IN a)
+      (VB surgir)
+     )
+    )
+   )
+  )
+ )
+)

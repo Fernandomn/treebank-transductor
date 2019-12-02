@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Porém)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS investimento)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Rockefeller)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (JJ maior)
+        (NNS aquisição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

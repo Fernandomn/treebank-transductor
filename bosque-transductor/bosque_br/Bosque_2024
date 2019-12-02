@@ -1,0 +1,115 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Ensec)
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADJP 
+    (CD uma)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (CD cinco)
+      (NN empresas)
+      (VP 
+       (VP 
+        (VBN pré-qualificadas)
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB participar)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NN concorrência)
+           (PP 
+            (IN de)
+            (NP 
+             (NN US$)
+             (NP 
+              (CD 11)
+              (NN milhões)
+             )
+            )
+           )
+           (PP 
+            (IN para)
+            (VP 
+             (VP 
+              (VB reconstruir)
+             )
+             (NP 
+              (DT o)
+              (NN sistema)
+              (PP 
+               (IN de)
+               (NP 
+                (NN segurança)
+               )
+              )
+              (PP 
+               (IN de+)
+               (NP 
+                (DT o)
+                (NN estacionamento)
+                (PP 
+                 (IN de+)
+                 (NP 
+                  (DT o)
+                  (NNP World_Trade_Center)
+                 )
+                )
+               )
+              )
+             )
+             (PP 
+              (IN em)
+              (NP 
+               (NNP Nova_York)
+              )
+             )
+             (NP 
+              (VP 
+               (VP 
+                (VBN destruído)
+               )
+               (PP 
+                (IN com)
+                (NP 
+                 (DT a)
+                 (NN explosão)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (DT um)
+                   (NN carro-bomba)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

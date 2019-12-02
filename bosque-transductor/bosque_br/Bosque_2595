@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN processo)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP seguiu)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN derrubada)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN ditadura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN poder)
+   )
+   (VP 
+    (VBP caiu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN rua)
+    )
+   )
+  )
+ )
+)

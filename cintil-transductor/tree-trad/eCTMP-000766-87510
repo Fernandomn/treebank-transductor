@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isso)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB significa)
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB estejamos)
+        )
+        (PP 
+         (IN perante)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS problema)
+           (JJ grave)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

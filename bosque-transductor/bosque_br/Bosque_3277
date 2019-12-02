@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Patologistas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN hospital)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Riverside)
+        (NP 
+         (NNP Califórnia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tiveram)
+    (IN que)
+    (VB vestir)
+   )
+   (NP 
+    (NN roupas)
+    (ADJP 
+     (JJ especiais)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB autopsiar)
+      )
+      (NP 
+       (NN corpo)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NN mulher)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP teria)
+          )
+          (NP 
+           (NN químicos)
+           (ADJP 
+            (JJ tóxicos)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NN sangue)
+           )
+          )
+          (VP 
+           (IN porque)
+           (NP 
+            (DT o)
+            (NN cheiro)
+           )
+           (NP 
+            (PRP os)
+           )
+           (VP 
+            (VBP fez)
+           )
+           (VP 
+            (VP 
+             (VB desmaiar)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

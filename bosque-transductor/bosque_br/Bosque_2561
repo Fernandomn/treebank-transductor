@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (PRP você)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP precisa)
+   )
+   (VP 
+    (VP 
+     (VB correr)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB trocar)
+      )
+      (NP 
+       (DT o)
+       (DT seu)
+       (NN dinheiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

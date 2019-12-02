@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS fraude)
+   )
+   (VP 
+    (VP 
+     (VB acabou)
+     (PP 
+      (IN por)
+      (VP 
+       (VB ser)
+       (VB detectada)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN depois)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS encerramento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS urnas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

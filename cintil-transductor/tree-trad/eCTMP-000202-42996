@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (RB também)
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS problema)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS articulação)
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Administração)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (JJ próprios)
+             (NP 
+              (NNS sistemas)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS inspecção)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

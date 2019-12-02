@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT as)
+     (NN modificações)
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (NP 
+    (DT a)
+    (NN construção)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN anfiteatro)
+      (ADJP 
+       (JJ ao_ar_livre)
+      )
+     )
+    )
+   )
+  )
+ )
+)

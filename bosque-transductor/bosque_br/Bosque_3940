@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN Sinfonia)
+    (NP 
+     (DT toda)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN espécie)
+    (PP 
+     (IN de)
+     (NP 
+      (NN demonização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Nona_de_Beethoven)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP é)
+         )
+         (ADVP 
+          (RB muito)
+          (RB mais)
+         )
+         (NP 
+          (DT seu)
+          (NN assunto)
+         )
+         (ADVP 
+          (SBAR do_que
+           (S 
+            (DT o)
+            (NNP Fausto)
+            (PP 
+             (IN de)
+             (NP 
+              (NNP Goethe)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS participação)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS identificação)
+          (NP 
+           (CC e)
+           (NNS controlo)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS riscos)
+            (JJ ambientais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     bem como
+     (NP 
+      (DT a)
+      (NP 
+       (NNS vigilância)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS saúde)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NNS trabalhadores)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB também)
+    )
+    (NP 
+     (NP 
+      (NNS acções)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS enfermagem)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS trabalho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

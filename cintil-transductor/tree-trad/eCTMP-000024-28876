@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (JJ novo)
+      (NP 
+       (NNS embaixador)
+       (NNS de)
+       (NNS Portugal)
+       (NNS em)
+       (NNS Luanda)
+      )
+     )
+    )
+    (VP 
+     (VB tem)
+     (NP 
+      (CD 46)
+      (NNS anos)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB iniciou)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS carreira)
+          (JJ diplomática)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (CD 1969)
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB desempenhava)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS funções)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS director-geral)
+             (NNS para)
+             (NNS a)
+             (NNS Cooperação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

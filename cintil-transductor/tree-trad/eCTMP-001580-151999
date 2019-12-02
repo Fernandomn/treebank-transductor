@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quase)
+     (PRP todos)
+    )
+    (NP 
+     (PRP eles)
+    )
+   )
+   (VP 
+    (VB pertencem)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS diáspora)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

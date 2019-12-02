@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN margem)
+    (PP 
+     (IN de)
+     (NP 
+      (NN erro)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN pesquisa)
+      (NP 
+       (NNP Datafolha)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (CD 3.0)
+     (NN pontos)
+     (ADJP 
+      (JJ percentuais)
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN para)
+     (NP 
+      (DT mais)
+     )
+    )
+    ou
+    (PP 
+     (IN para)
+     (NP 
+      (DT menos)
+     )
+    )
+   )
+   (PP 
+    (IN exceto)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Distrito_Federal)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP é)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (CD 4.0)
+         (NN pontos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

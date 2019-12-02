@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ recente)
+     (NP 
+      (NP 
+       (NNS descoberta)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS água)
+          (JJ contaminada)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (PRP diversos)
+        (NP 
+         (NNS poços)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS freguesia)
+             (NNS de)
+             (NNS Arada)
+            )
+            (PP 
+             (PP 
+              (IN em_)
+              (NP 
+               (DT o)
+               (NP 
+                (NNS concelho)
+                (NNS de)
+                (NNS Ovar)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB causou)
+     (NP 
+      (NNS consternação)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS população)
+     )
+    )
+   )
+  )
+ )
+)

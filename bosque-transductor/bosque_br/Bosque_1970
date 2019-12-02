@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Quero)
+   )
+   (VP 
+    (VP 
+     (VB ser)
+    )
+    (ADJP 
+     (CD uma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (JJ melhores)
+       (NN atrizes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN mundo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

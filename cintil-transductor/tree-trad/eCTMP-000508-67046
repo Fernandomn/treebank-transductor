@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Em)
+     (RB suma)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS clube)
+    )
+    (VP 
+     (VB está)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS deriva)
+      )
+     )
+    )
+   )
+  )
+ )
+)

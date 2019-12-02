@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS UNITA)
+   )
+   (VP 
+    (VP 
+     (VB entrou)
+     (PP 
+      (IN por)
+      (RB ali)
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NNS calmas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

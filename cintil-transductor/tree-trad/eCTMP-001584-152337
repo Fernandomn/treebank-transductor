@@ -1,0 +1,69 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CONJP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB faz)
+         )
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT um)
+           (NNS festival)
+          )
+         )
+         (PP 
+          (CC mas)
+          (PP 
+           (PP 
+            (IN através)
+            (IN de_)
+           )
+           (NP 
+            (DT a)
+            (NNS formação)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS recuperação)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS infra-estruturas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

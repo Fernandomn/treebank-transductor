@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ela)
+    )
+    (VB luz)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB é)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS ouro)
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS ouro)
+            (JJ puro)
+           )
+           (ADJP 
+            (JJ maciço)
+           )
+          )
+          (JJ genuíno)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Processo)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS alienação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS Correio)
+           (NNS de_)
+           (NNS o)
+           (NNS Minho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

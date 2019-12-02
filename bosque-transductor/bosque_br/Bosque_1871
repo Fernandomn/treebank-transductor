@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Talvez)
+   )
+   (NP 
+    (DT um)
+    (NN quadrangular)
+    (ADJP 
+     (JJ final)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB como)
+    )
+    (VP 
+     (VBP fizeram)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN campeonato)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Rio_de_Janeiro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

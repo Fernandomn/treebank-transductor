@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS títulos)
+     (JJ editados)
+    )
+   )
+   (VP 
+    (VB apresentam)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ única)
+      (NP 
+       (NNS morada)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS Bairro)
+           (NNS de)
+           (NNS São)
+           (NNS Francisco)
+          )
+          (PP 
+           (PP 
+            (IN em)
+            (NP 
+             (NNS Camarate)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lacan)
+   )
+   (VP 
+    (VBP desenvolveu)
+   )
+   (NP 
+    (DT os)
+    (NN conceitos)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN metáfora)
+      )
+      e
+      (NP 
+       (NN metonímia)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB caracterizar)
+     )
+     (NP 
+      (DT certos)
+      (NN modos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN consciência)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

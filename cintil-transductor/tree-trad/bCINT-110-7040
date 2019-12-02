@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Espanha)
+     )
+    )
+    (VP 
+     (VB é)
+     (JJ importante)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS articulação)
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Instituto)
+         (NNS Cervantes)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS embaixada)
+           (JJ portuguesa)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Madrid)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS Nações)
+     (NNS Unidas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB estimam)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (CD 500)
+        (CD mil)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS número)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS pessoas)
+         (PP 
+          (IN em)
+          (NP 
+           (NNS risco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

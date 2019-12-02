@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS catástrofe)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Rússia)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB fomentar)
+     (NP 
+      (DT a)
+      (NP 
+       (CD sexta)
+       (NNS coligação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

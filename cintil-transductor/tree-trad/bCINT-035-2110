@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS ciência)
+    )
+    (VP 
+     (VB precisa)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS religião)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS religião)
+     )
+     (VP 
+      (VB precisa)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS ciência)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

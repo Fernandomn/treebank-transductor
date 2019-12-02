@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS modelo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS impostor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

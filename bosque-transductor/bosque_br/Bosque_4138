@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP FHC)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Brasil)
+   )
+   (VP 
+    (VBP possui)
+   )
+   (NP 
+    (NP 
+     (DT esses)
+     (NN recursos)
+     (NP 
+      (NP 
+       (DT muitos)
+       (PP 
+        (IN de+)
+        (NP 
+         (PRP eles)
+        )
+       )
+      )
+      (NN naturais)
+     )
+    )
+    e
+    (NP 
+     (NN vantagens)
+     (ADJP 
+      (JJ comparativas)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB realizar)
+       )
+       (NP 
+        (DT essas)
+        (NN metas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

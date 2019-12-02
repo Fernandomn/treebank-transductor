@@ -1,0 +1,15 @@
+(
+ (S 
+  (NP 
+   (NN Inadimplentes)
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN sexo)
+     (RB em_geral)
+    )
+   )
+  )
+ )
+)

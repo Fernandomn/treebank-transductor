@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (NNS dias)
+       )
+      )
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NP 
+           (NNS jardim)
+           (NNS Tunduru)
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Maputo)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB conheci)
+      (NP 
+       (DT o)
+       (NNS Abílio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

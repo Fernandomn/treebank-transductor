@@ -1,0 +1,59 @@
+(
+ (S 
+  (CONJP 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS polémica)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS tempero)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS democracia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (S 
+    (VP 
+     (VB afirma)
+    )
+    (NP 
+     (NNS Soares)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS arranque)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Presidência)
+         (NNS Aberta)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

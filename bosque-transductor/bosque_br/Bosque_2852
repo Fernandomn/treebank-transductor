@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN franqueados)
+    (ADJP 
+     (JJ brasileiros)
+    )
+   )
+   (VP 
+    (VBP começam)
+    (IN a)
+    (VB utilizar)
+   )
+   (NP 
+    (DT uma)
+    (JJ nova)
+    (NN arma)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB aumentar)
+      )
+      (NP 
+       (DT seu)
+       (NN poder)
+       (PP 
+        (IN de)
+        (NP 
+         (NN influência)
+        )
+       )
+      )
+     )
+     (ADVP 
+      (RB junto)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN cúpula)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (NN empresas)
+          (ADJP 
+           (JJ franqueadoras)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

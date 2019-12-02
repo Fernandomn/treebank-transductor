@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Usuário)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP BBS)
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB entrar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP InterNet)
+    )
+   )
+  )
+ )
+)

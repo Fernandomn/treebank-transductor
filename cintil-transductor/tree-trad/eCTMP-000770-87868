@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS incidente)
+   )
+   (VP 
+    (VB ocorreu)
+    (ADVP 
+     (RB perto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS quartel)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS bombeiros)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Camarate)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

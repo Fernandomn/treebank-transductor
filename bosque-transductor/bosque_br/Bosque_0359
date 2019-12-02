@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP TV-A)
+   )
+   (VP 
+    (VBP atribui)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Plano_Real)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN conquista)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 17)
+      (NN mil)
+      (NN assinantes)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN outubro)
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (DT a)
+     (NN média)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 10)
+       (NN mil)
+       (NN assinaturas)
+       (PP 
+        (IN $/)
+        (NP 
+         (NN mês)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN ano)
+      )
+     )
+    )
+   )
+  )
+ )
+)

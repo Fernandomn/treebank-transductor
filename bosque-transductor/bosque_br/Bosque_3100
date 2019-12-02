@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN texto)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (ADJP 
+      (JJ curto)
+     )
+     e
+     (ADJP 
+      (JJ prático)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT todos)
+     (DT os)
+     (NN capítulos)
+    )
+    (VP 
+     (VBP são)
+     (VBN recheados)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NN notas)
+       )
+       (NP 
+        (NN dicas)
+       )
+       e
+       (NP 
+        (NN alertas)
+       )
+      )
+      (VP 
+       (VP 
+        (VBN ilustradas)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT as)
+         (JJ respectivas)
+         (NN figuras)
+         (NP 
+          (NP 
+           (NN Note)
+          )
+          (NP 
+           (NN Tip)
+          )
+          e
+          (NP 
+           (NN Stop)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

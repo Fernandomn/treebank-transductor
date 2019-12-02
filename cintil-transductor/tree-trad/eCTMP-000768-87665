@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Conferência)
+    (NNS de)
+    (NNS Haia)
+   )
+  )
+  (VP 
+   (VB comemora)
+   (NP 
+    (CD cinco)
+    (NP 
+     (NNS anos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Eureka)
+      )
+     )
+    )
+   )
+  )
+ )
+)

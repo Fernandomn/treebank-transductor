@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN seca)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP atingiu)
+     )
+     (NP 
+      (DT as)
+      (NN áreas)
+      (ADJP 
+       (JJ produtoras)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN grãos)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP deve)
+    (VB causar)
+   )
+   (NP 
+    (JJ grandes)
+    (NN estragos)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN safra)
+     (ADJP 
+      (CD 1994/95)
+     )
+    )
+   )
+  )
+ )
+)

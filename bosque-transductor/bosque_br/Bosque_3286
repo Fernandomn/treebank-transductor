@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Muitas)
+    (PP 
+     (IN de+)
+     (NP 
+      (PRP elas)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (UCP 
+    (ADJP 
+     (JJ inconsequentes)
+    )
+    (ADJP 
+     (JJ improváveis)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NN documentação)
+     )
+    )
+   )
+  )
+ )
+)

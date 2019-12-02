@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Xanana)
+     (NNS Gusmão)
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NP 
+     (NNS mensagem)
+     (ADJP 
+      (ADJP 
+       (VB lida)
+       (RB ontem)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Austrália)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

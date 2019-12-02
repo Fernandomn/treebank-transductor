@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fez)
+     (NP 
+      (NNS maravilhas)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB como)
+        (RB tal)
+       )
+      )
+      (VP 
+       (VB foi)
+       (VB recompensado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

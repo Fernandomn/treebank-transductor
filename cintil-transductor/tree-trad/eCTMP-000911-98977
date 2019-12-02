@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS romance)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Robert)
+        (NNS Louis)
+        (NNS Stevenson)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS cientista)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (ADVP 
+          (RB voluntariamente)
+         )
+         (VP 
+          (VB procura)
+          (VP 
+           (VB libertar)
+           (NP 
+            (DT esse)
+            (NP 
+             (NP 
+              (NNS lado)
+              (JJ negro)
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS alma)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

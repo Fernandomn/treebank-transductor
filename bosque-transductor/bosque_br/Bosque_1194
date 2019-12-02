@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Velocidade)
+    (ADJP 
+     (JJ média)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (CD 40)
+     (NN km/h)
+    )
+   )
+  )
+ )
+)

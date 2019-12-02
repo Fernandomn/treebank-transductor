@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Coprotest)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN versão)
+    (VP revista e
+     (VBN melhorada)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (ADJP 
+       (ADJP 
+        (DT as)
+        (ADJP 
+         (NP anti-higiênicas)
+        )
+       )
+       e
+       (ADJP 
+        (RB pouco)
+        (JJ seguras)
+       )
+      )
+      (NN latinhas)
+      (PP 
+       (IN para)
+       (NP 
+        (NN coleta)
+        (PP 
+         (IN de)
+         (NP 
+          (NN fezes)
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (NN exames)
+          (ADJP 
+           (JJ parasitológicos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

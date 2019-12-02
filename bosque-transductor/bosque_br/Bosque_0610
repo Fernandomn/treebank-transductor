@@ -1,0 +1,16 @@
+(
+ (S 
+  (NP 
+   (CC E)
+   (DT os)
+   (NN nomes)
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (NN blocos)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP pense)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT esta)
+     (NN ruptura)
+     (ADJP 
+      (JJ modernizante)
+     )
+    )
+    (VP 
+     (VBP passa)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+   )
+  )
+ )
+)

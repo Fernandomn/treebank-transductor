@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (JJ grande)
+    (NP 
+     (NNS obreiro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS futebol)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS Antas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

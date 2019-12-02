@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB outro)
+     (RB lado)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS valores)
+      (ADJP 
+       (VB apontados)
+      )
+     )
+    )
+    (VP 
+     (VB sugerem)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS reforço)
+        (JJ substancial)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS ajudas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS orçamento)
+             (JJ comunitário)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

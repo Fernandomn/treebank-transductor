@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN guerra)
+   )
+   (VP 
+    (VBP começou)
+   )
+   (PP 
+    (IN há)
+    (NP 
+     (CD 13)
+     (NN dias)
+    )
+   )
+   (PP 
+    (IN por_causa_de)
+    (NP 
+     (DT um)
+     (NN confronto)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (DT o)
+        (NN presidente)
+        (NP 
+         (NNP Ali_Abdulllah_Saleh)
+        )
+       )
+       e
+       (NP 
+        (DT seu)
+        (NN vice)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

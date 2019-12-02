@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS excepções)
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS libra)
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB atingiu)
+          (NP 
+           (DT um)
+           (NP 
+            (NP 
+             (NNS máximo)
+             (PP 
+              (IN de)
+              (NP 
+               (CD dois)
+               (NNS anos)
+              )
+             )
+            )
+            (PP 
+             (IN contra)
+             (NP 
+              (NP 
+               (NP 
+                (DT o)
+                (NNS marco)
+               )
+              )
+              (NP 
+               (CC e)
+               (NP 
+                (DT as)
+                (NP 
+                 (NNS moedas)
+                 (JJ nórdicas)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

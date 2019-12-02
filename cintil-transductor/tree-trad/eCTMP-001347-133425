@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS SIC)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (NP 
+       (NNS líder)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS mês)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Junho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS caso)
+     (NNS Dreyfus)
+    )
+   )
+   (VP 
+    (VB começara)
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS 1894)
+      )
+     )
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ banal)
+         (NP 
+          (NNS escândalo)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS espionagem)
+             (PP 
+              (PP 
+               (IN a)
+               (IN favor)
+               (IN de_)
+              )
+              (NP 
+               (DT a)
+               (NNS Alemanha)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

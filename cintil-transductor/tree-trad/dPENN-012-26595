@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT essa)
+      (NNS altura)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS tarefas)
+    )
+    (VP 
+     (VP 
+      (VB eram)
+      (VB distribuídas)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS base)
+        (PP 
+         (RB exclusivamente)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS antiguidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

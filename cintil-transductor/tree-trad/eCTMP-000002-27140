@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS advogados)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS defesa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB sublinharam)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS processo)
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT este)
+       (NNS facto)
+      )
+      (VP 
+       (VP 
+        (VB perturbou)
+        (RB altamente)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS senhor)
+          (NNS de)
+          (NNS Sabóia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

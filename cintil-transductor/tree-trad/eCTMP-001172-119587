@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ tal)
+     (NP 
+      (NNS volume)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS produção)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB suscita)
+     (RB inevitavelmente)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS problema)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS qualidade)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS material)
+            (JJ realizado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

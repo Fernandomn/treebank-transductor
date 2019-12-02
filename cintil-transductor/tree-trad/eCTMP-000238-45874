@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN De)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+     (VP 
+      (VB disse)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT a)
+         (NP 
+          (NNS fórmula)
+          (PP 
+           (IN de_)
+           (NP 
+            (NP 
+             (DT o)
+             (NP 
+              (NP 
+               (NNS Estado)
+               (NNS providência)
+              )
+             )
+            )
+            (NP 
+             (NP 
+              (NNS tutela)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS bem-estar)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VB está)
+         (ADJP 
+          (VB esgotada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

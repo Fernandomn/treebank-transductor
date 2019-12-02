@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS espécie)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS evolução)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS continuidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

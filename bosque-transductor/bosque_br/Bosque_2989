@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Trabalho)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN amendoim)
+     )
+    )
+    (PP 
+     (IN há)
+     (NP 
+      (CD 27)
+      (NN anos)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB sempre)
+    )
+    (VP 
+     (VBP tive)
+    )
+    (NP 
+     (NN lucro)
+    )
+   )
+  )
+ )
+)

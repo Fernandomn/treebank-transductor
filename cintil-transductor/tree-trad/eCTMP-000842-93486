@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Fundaram)
+      (NP 
+       (DT o)
+       (NNS CDS)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB desapareceram)
+       (CONJP 
+        (S 
+         (VP 
+          (VB há)
+          (NP 
+           (NNS anos)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS vida)
+         (JJ política)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

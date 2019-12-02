@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Paris)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB quer)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT o)
+         (NNS GATT)
+        )
+        (VP 
+         (VB vigie)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NNS direitos)
+            (ADJP 
+             (JJ mínimos)
+            )
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS protecção)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NNS trabalhadores)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN de)
+       (IN acordo)
+       (IN com)
+      )
+      (NP 
+       (DT as)
+       (NP 
+        (NNS palavras)
+        (PP 
+         (IN de_)
+         (NP 
+          (NP 
+           (DT o)
+           (NP 
+            (NNS ministro)
+            (NNS francês)
+            (NNS de_)
+            (NNS o)
+            (NNS Trabalho)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS Michel)
+            (NNS Giraud)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

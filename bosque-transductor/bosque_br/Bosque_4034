@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP PMD)
+    (NP 
+     (NN psicose)
+     (ADJP 
+      (JJ maníaco-depressiva)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN doença)
+    (ADJP 
+     (JJ psiquiátrica)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP leva)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT uma)
+       (NN alteração)
+       (ADJP 
+        (JJ abrupta)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN comportamento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

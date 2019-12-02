@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lessa)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP está)
+    )
+    (VP 
+     (VP 
+      (VBN disposto)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB ouvir)
+       )
+       (NP 
+        (DT uma)
+        (NN proposta)
+        (ADJP 
+         (JJ formal)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN governador)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

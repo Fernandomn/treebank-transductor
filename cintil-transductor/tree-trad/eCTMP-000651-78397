@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ outro)
+        (NNS lado)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS pessoal)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS continente)
+         (JJ chinês)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

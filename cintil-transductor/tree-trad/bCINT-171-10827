@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ outra)
+     (NP 
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ mesma)
+          (NNS quantidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB realizada)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS incorporação)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS reservas)
+          (JJ livres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Aristides)
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (JJ excelente)
+      (NP 
+       (NNS professor)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Físico-Química)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

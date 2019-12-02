@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ logística)
+    )
+   )
+   (VP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS ministérios)
+     )
+    )
+    (VP 
+     (VB envolvidos)
+    )
+   )
+  )
+ )
+)

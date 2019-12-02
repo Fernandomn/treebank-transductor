@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Estão)
+      (PP 
+       (IN a)
+       (VP 
+        (VB fazer)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS conferência)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS imprensa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS autorização)
+      )
+     )
+    )
+   )
+  )
+ )
+)

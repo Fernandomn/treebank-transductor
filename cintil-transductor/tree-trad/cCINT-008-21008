@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (NP 
+     (DT a)
+     (NP 
+      (CD última)
+      (NP 
+       (NNS aula)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS dia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

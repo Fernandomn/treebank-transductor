@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NN Tipo)
+   (PP 
+    (IN de)
+    (NP 
+     (NN programa)
+     (PP 
+      (IN de)
+      (NP 
+       (NN saneamento)
+       (ADJP 
+        (JJ ambiental)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (CD 200)
+     (JJ maiores)
+     (NN municípios)
+     (ADJP 
+      (JJ brasileiros)
+     )
+    )
+   )
+  )
+ )
+)

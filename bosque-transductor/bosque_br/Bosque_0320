@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN jogadores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Palmeiras)
+     )
+    )
+   )
+   (VP 
+    (VBP treinam)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 9h)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN Centro)
+     (PP 
+      (IN de)
+      (NP 
+       (NN Treinamento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

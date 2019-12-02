@@ -1,0 +1,30 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Sim)
+   )
+   (S 
+    (S 
+     (VP 
+      (RB não)
+      (VB faltaram)
+     )
+     (NP 
+      (NNS bebés)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT estes)
+      (NP 
+       (NNS fóruns)
+       (JJ políticos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

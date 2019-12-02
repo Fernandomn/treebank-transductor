@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB quer)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB digam)
+       (NP 
+        (DT as)
+        (NNS verdades)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

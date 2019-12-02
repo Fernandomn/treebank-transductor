@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Por)
+      (RB um)
+      (RB lado)
+     )
+     (VP 
+      (VB integra)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS clubes)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB possuem)
+           (NP 
+            (NP 
+             (NNS jogadores)
+             (JJ profissionais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB por)
+        (RB outro)
+       )
+      )
+      (VP 
+       (VP 
+        (VB tem)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS representação)
+          (JJ federativa)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS organismo)
+           (JJ autónomo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

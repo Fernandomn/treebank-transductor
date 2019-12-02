@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Clubes)
+  )
+  (VP 
+   (VB aprovaram)
+   (NP 
+    (NP 
+     (NNS sorteio)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS árbitros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

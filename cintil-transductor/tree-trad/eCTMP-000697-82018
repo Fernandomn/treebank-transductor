@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS destino)
+  )
+  (VP 
+   (VB é)
+   (ADJP 
+    (ADJP 
+     (RB mais)
+     (JJ forte)
+    )
+    (CONJP 
+     (CC que)
+     (NP 
+      (DT o)
+      (NNS dinheiro)
+     )
+    )
+   )
+  )
+ )
+)

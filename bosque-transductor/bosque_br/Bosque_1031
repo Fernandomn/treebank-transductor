@@ -1,0 +1,91 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Tsunezaemon)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP havia)
+      (VBN sido)
+     )
+     (NP 
+      (NN barbeiro)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Lima)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Peru)
+       (VP 
+        (ADVP 
+         (RB onde)
+        )
+        (VP 
+         (VBP morou)
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (CD 14)
+          (NN anos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP acumulara)
+   )
+   (NP 
+    (NN dinheiro)
+    (VP 
+     (PP 
+      (IN com)
+      (NP 
+       (PRP o_qual)
+      )
+     )
+     (VP 
+      (VBP comprou)
+     )
+     (NP 
+      (NP 
+       (NN casas)
+      )
+      e
+      (NP 
+       (NN prédios)
+      )
+     )
+     (PP 
+      (IN a+)
+      (VP 
+       (DT o)
+       (VP 
+        (VB retornar)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NNP Japão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

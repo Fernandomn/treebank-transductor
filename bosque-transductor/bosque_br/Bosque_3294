@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP atribui)
+   )
+   (NP 
+    (DT as)
+    (NN derrotas)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN Judiciário)
+     (VP 
+      (VP 
+       (VBN acusado)
+      )
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB auxiliar)
+        )
+        (NP 
+         (DT seus)
+         (NN opositores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

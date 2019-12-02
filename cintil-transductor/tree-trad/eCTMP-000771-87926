@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS François)
+     (NNS Duvalier)
+    )
+   )
+   (VP 
+    (VB morreu)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS cama)
+     )
+    )
+   )
+  )
+ )
+)

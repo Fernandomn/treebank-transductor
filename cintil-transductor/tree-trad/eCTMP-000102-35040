@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (RB também)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS desafio)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS empresa)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (RB já)
+            (VP 
+             (VB explora)
+             (NP 
+              (DT os)
+              (NP 
+               (NNS parques)
+               (PP 
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT o)
+                  (NNS Castil)
+                 )
+                )
+                (PP 
+                 (CC e)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT os)
+                   (NNS Restauradores)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

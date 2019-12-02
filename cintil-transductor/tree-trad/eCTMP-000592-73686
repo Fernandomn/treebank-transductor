@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS dádiva)
+   )
+   (VP 
+    (VB pressupõe)
+    (NP 
+     (NP 
+      (NNS fé)
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Deus)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (NP 
+              (PRP ele)
+             )
+             (VP 
+              (VB promete)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

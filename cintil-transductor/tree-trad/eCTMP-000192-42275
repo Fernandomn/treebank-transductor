@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Assembleia)
+  )
+  (VP 
+   (VP 
+    (VB manda)
+    (NP 
+     (NNS recados)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NNS direcção)
+    )
+   )
+  )
+ )
+)

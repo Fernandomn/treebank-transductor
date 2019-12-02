@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (JJ Velhos)
+     (NP 
+      (NP 
+       (NNS carros)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS combate)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Infantaria)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB são)
+    )
+    (NP 
+     (NNS raridade)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (NP 
+     (NNP Itamar_Franco)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN ministro)
+     (NP 
+      (NNP Alexis_Stepanenko)
+     )
+     (NP 
+      (NNP Minas_e_Energia)
+     )
+     (NP 
+      (NN autor)
+      (PP 
+       (IN de)
+       (NP 
+        (DT vários)
+        (NN bilhetes)
+        (VP 
+         (VP 
+          (VBG pedindo)
+         )
+         (NP 
+          (NN apoio)
+          (PP 
+           (IN a+)
+           (NP 
+            (DT o)
+            (NN candidato)
+            (NP 
+             (NNP Fernando_Henrique_Cardoso)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP está)
+    )
+    (VBN perdido)
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS governo)
+   )
+   (VP 
+    (VB recua)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS alteração)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS orçamento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

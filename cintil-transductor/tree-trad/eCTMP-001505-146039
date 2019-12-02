@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NNS caso)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB mudaram)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS mãos)
+         (NNS 232)
+        )
+       )
+      )
+     )
+     (NP 
+      (CD mil)
+      (NNS papéis)
+     )
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS negócios)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB totalizaram)
+           (NP 
+            (NP 
+             (CD 560)
+             (CD mil)
+            )
+            (NNS contos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+    (NN dados)
+   )
+   (VP 
+    (VBP fazem)
+   )
+   (NP 
+    (NN parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN livro)
+      (NP 
+       (NNP Conflitos_no_Campo_Brasil_1993)
+      )
+      (VP 
+       (VP 
+        (VBN lançado)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP ABI)
+         (NP 
+          (NNP Associação_Brasileira_de_Imprensa)
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Rio_de_Janeiro)
+        )
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NNP CPT)
+         (NP 
+          (NNP Comissão_Pastoral_da_Terra)
+         )
+         (NP 
+          (NN órgão)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN Igreja)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

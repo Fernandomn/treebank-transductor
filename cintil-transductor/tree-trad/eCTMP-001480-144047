@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS coisa)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB já)
+        (VP 
+         (VB está)
+         (ADJP 
+          (VB definida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS regime)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS instalação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (NNS institutos)
+             (JJ superiores)
+            )
+            (JJ politécnicos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

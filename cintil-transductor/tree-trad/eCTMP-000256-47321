@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS humidade)
+    )
+    (VP 
+     (VP 
+      (VB atingiu)
+      (NP 
+       (DT os)
+       (NNS livros)
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (VB danificando)
+         (NP 
+          (PRP -os)
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS encadernações)
+           (NP 
+            (CC e)
+            (NP 
+             (NNS folhas)
+             (JJ interiores)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

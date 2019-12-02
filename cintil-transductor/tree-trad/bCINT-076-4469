@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Câmara)
+    (NNS de)
+    (NNS Gaia)
+   )
+  )
+  (VP 
+   (VB quer)
+   (VP 
+    (VP 
+     (VB construir)
+     (NP 
+      (CD 23)
+      (NNS casas)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS comunidade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS acampamento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

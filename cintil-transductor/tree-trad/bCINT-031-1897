@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (PRP qualquer)
+      (NNS forma)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Cadete)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS conversa)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS dia)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Alvalade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

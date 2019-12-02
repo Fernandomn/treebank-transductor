@@ -1,0 +1,19 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Prefeitura)
+    (ADJP 
+     (JJ paulista)
+    )
+   )
+   (VP 
+    (VBP corrige)
+   )
+   (NP 
+    (DT a)
+    (NNP UFM)
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Plano)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS Orçamento)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS debate)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NNS Açores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

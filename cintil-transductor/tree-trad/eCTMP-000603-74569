@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Acesso)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ensino)
+       (JJ superior)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB dominou)
+   (NP 
+    (NNS plenário)
+   )
+  )
+ )
+)

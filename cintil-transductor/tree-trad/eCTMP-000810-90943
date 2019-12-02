@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Companhia)
+    (NNS de_)
+    (NNS as)
+    (NNS Lezírias)
+   )
+  )
+  (VP 
+   (VB aposta)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (JJ novos)
+      (NNS agricultores)
+     )
+    )
+   )
+  )
+ )
+)

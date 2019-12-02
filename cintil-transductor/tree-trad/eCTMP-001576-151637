@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (RB Depois)
+   (S 
+    (ADVP 
+     (ADVP 
+      (RB de)
+      (RB repente)
+     )
+    )
+    (S 
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD primeira)
+         (NP 
+          (NNS vez)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (PP minha)
+             (NNS vida)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB tentei)
+        (ADVP 
+         (RB de)
+         (RB facto)
+        )
+       )
+       (VP 
+        (VP 
+         (VB fazer)
+         (NP 
+          (PRP qualquer)
+          (NNS coisa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

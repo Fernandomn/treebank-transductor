@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS protestos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT este)
+       (NNS campo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB poderão)
+     (RB agora)
+    )
+    (VP 
+     (VB chegar)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS fim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

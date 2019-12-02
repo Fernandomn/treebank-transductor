@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP FHC)
+   )
+   (VP 
+    (VBP ressalvou)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP conhecia)
+     )
+     (NP 
+      (DT a)
+      (NN proposta)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN detalhes)
+      )
+     )
+    )
+    e
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+     (VP 
+      (VBP está)
+     )
+     (VP 
+      (VP 
+       (VBN aberto)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NN negociações)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

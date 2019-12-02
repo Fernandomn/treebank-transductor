@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Carlos)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (JJ único)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB revelou)
+          (NP 
+           (DT as)
+           (NP 
+            (PP suas)
+            (NNS emoções)
+           )
+          )
+         )
+         (S 
+          (S 
+           (VP 
+            (VB quebrando)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS tradição)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NNS família)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

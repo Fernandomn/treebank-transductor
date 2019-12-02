@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT este)
+     (NNS momento)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB há)
+      (RB já)
+     )
+     (NP 
+      (NP 
+       (NNS jogadores)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS hóquei)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS sala)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD seis)
+       (NP 
+        (NNS escalões)
+        (JJ etários)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

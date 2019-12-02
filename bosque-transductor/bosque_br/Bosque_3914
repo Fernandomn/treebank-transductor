@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN filme)
+   )
+   (VP 
+    (VBP narra)
+   )
+   (NP 
+    (DT uma)
+    (NN greve)
+    (PP 
+     (IN de)
+     (NP 
+      (NN mineiros)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT uma)
+      (NN cidade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Novo_México)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT os)
+          (NNP EUA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

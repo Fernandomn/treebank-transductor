@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fui)
+     (NP 
+      (NP 
+       (NNS vítima)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS guerra)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NNS audiências)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS sistema)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

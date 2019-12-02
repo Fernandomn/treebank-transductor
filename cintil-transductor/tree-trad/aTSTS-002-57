@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB comprou)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS camisola)
+      (ADJP 
+       (RB muito)
+       (JJ amarela)
+      )
+     )
+    )
+   )
+  )
+ )
+)

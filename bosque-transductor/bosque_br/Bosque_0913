@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN advogado)
+    (ADJP 
+     (JJ nova-iorquino)
+    )
+   )
+   (VP 
+    (VBP transformou)
+   )
+   (NP 
+    (DT seu)
+    (NN apartamento)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Brooklyn)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN paraíso)
+     (ADJP 
+      (JJ tropical)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NN árvores)
+       )
+       (NP 
+        (CD um)
+        (NN sol)
+        (ADJP 
+         (JJ artificial)
+        )
+       )
+       e
+       (NP 
+        (RB pelo_menos)
+        (CD cinco)
+        (NN jacarés)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN foto)
+          (NP 
+           (DT os)
+           (NN policiais)
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NN momento)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NN retirada)
+               (PP 
+                (IN de)
+                (ADJP 
+                 (CD um)
+                 (PP 
+                  (IN de+)
+                  (NP 
+                   (PRP eles)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

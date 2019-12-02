@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN caso)
+    (NP 
+     (NNP Effenberg)
+    )
+    (NP 
+     (NN jogador)
+     (VP 
+      (VP 
+       (VBN cortado)
+      )
+      (PP 
+       (IN por)
+       (VP 
+        (VP 
+         (VB ter)
+         (VBN feito)
+        )
+        (NP 
+         (NN gesto)
+         (ADJP 
+          (JJ obsceno)
+         )
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN torcida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP foi)
+    (VBN criticado)
+   )
+  )
+ )
+)

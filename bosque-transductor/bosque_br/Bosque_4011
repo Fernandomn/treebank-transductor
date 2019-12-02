@@ -1,0 +1,108 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em_torno_de+)
+    (NP 
+     (DT o)
+     (NN gabinete)
+     (ADJP 
+      (JJ presidencial)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN Planalto)
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP quer)
+   )
+   (NP 
+    (DT os)
+    (CD dois)
+    (JJ maiores)
+    (NN colaboradores)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN campanha)
+      (ADJP 
+       (JJ eleitoral)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NN amigo)
+       )
+       (NP 
+        (NN empresário)
+       )
+       e
+       (NP 
+        (NN secretário-geral)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP PSDB)
+        (NP 
+         (NNP Sérgio_Motta)
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (NP 
+       (NP 
+        (DT o)
+        (NP ex-reitor)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Unicamp)
+         )
+        )
+       )
+       e
+       (NP 
+        (NN coordenador)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN programa)
+          (PP 
+           (IN de)
+           (NP 
+            (NN governo)
+           )
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (NNP Paulo_Renato_de_Souza)
+      )
+     )
+    )
+   )
+  )
+ )
+)

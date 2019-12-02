@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Águias)
+     (NP 
+      (CC e)
+      (NNS leões)
+     )
+    )
+   )
+   (VP 
+    (VB começam)
+    (PP 
+     (IN a)
+     (VP 
+      (VB agitar)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+   )
+  )
+ )
+)

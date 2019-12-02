@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS lado)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS administração)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Marcaplac)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS versão)
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB bem)
+      (JJ diferente)
+     )
+    )
+   )
+  )
+ )
+)

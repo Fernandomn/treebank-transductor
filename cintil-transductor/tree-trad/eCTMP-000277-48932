@@ -1,0 +1,43 @@
+(
+ (S 
+  (NP 
+   (NNS Cientistas)
+  )
+  (VP 
+   (VB descobrem)
+   (NP 
+    (NP 
+     (NP 
+      (NNS gene)
+      (ADJP 
+       (JJ regulador)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS actividade)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS moscas)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS vinagre)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

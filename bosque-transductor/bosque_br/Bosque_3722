@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN conselho)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP manteve)
+   )
+   (NP 
+    (NN multas)
+    (VP 
+     (VP 
+      (VBN aplicadas)
+     )
+     (PP 
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NNP Indústrias_J.B._Duarte)
+       )
+      )
+      e
+      (PP 
+       (IN a)
+       (NP 
+        (DT seus)
+        (NN dirigentes)
+       )
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN prática)
+       (PP 
+        (IN de)
+        (NP 
+         (NN atividades)
+         (VP 
+          (VP 
+           (VBN restritas)
+          )
+          (PP 
+           (IN a)
+           (NP 
+            (NN instituições)
+            (ADJP 
+             (JJ financeiras)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

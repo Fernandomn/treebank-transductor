@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN famíla)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP voltava)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN casa)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Americanópolis)
+      )
+     )
+     (ADVP 
+      (RB depois)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB participar)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN casamento)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NNP Barra_Funda)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP deu)
+     )
+     (NP 
+      (NN carona)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NN amigos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NN Peixe)
+    )
+    (VP 
+     (VBP passou)
+     (IN a)
+     (VB ter)
+    )
+    (NP 
+     (NN gosto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN carne)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP mim)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (CD uma)
+     (NN noite)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT estas)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN Rodeio)
+     )
+    )
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP confundi)
+    )
+    (NP 
+     (NN salsicha)
+     (ADJP 
+      (JJ caseira)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN frango)
+      (NP 
+       (NN kebab)
+      )
+     )
+    )
+   )
+  )
+ )
+)

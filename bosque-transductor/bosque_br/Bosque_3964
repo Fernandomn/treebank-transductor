@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN time)
+    (VP 
+     (VP 
+      (VBN comandado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN técnico)
+       (NP 
+        (NNP Miguel_Ângelo_da_Luz)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ficou)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN título)
+    )
+   )
+   (PP 
+    (IN a+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB derrotar)
+     )
+     (ADVP 
+      (RB anteontem)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN noite)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN final)
+      )
+     )
+     (NP 
+      (DT a)
+      (JJ forte)
+      (NN seleção)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Cuba)
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (ADJP 
+       (ADJP 
+        (CD 115)
+        (PP 
+         (IN a)
+         (NP 
+          (CD 93)
+         )
+        )
+       )
+       (ADJP 
+        (CD 54)
+        (PP 
+         (IN a)
+         (ADJP 
+          (CD 44)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (JJ primeiro)
+          (NN tempo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

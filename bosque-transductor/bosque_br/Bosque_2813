@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN assunto)
+   )
+   (VP 
+    (VBP saiu)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN pauta)
+    )
+   )
+   (VP 
+    (IN ainda_que)
+    (VP 
+     (VBP esteja)
+    )
+    (PP 
+     (IN dentro_de+)
+     (NP 
+      (DT o)
+      (NN bolso)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN leitor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

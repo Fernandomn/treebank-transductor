@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Eduardo)
+     (NNS de_)
+     (NNS os)
+     (NNS Santos)
+    )
+   )
+   (VP 
+    (VP 
+     (VB sublinhou)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (PP seu)
+        (NNS lado)
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS visita)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS primeiro-ministro)
+           (NNS espanhol)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB constituiu)
+       (NP 
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NP 
+            (NNS marco)
+            (JJ importante)
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT as)
+            (NP 
+             (NP 
+              (NNS relações)
+              (JJ bilaterais)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS amizade)
+                (NP 
+                 (CC e)
+                 (NNS cooperação)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

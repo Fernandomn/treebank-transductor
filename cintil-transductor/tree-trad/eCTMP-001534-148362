@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT O)
+       (NP 
+        (NNS campeonato)
+        (JJ italiano)
+       )
+      )
+      (VP 
+       (VB é)
+       (ADJP 
+        (RB mais)
+        (JJ rigoroso)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB vou)
+       (VP 
+        (VP 
+         (VB resolver)
+         (NP 
+          (DT isso)
+         )
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NNS calma)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Marítimo)
+   )
+   (VP 
+    (VP 
+     (VB jogava)
+     (RB assim)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (CD quatro)
+      (NP 
+       (NNS homens)
+       (ADJP 
+        (VB fixos)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS frente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

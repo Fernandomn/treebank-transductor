@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS portugueses)
+   )
+   (VP 
+    (VP 
+     (VB estão)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS forma)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS surf)
+     )
+    )
+   )
+  )
+ )
+)

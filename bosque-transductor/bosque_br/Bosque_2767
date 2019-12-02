@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NN Corte)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN salários)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN deputados)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP depende)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Câmara)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (NN congressistas)
+    )
+    (VP 
+     (VBP recebem)
+    )
+    (NP 
+     (NN CR$)
+     (NP 
+      (CD 83)
+      (NN mil)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN dia)
+       (PP 
+        (IN de)
+        (NP 
+         (NN trabaho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

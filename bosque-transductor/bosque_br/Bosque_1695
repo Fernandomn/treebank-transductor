@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Os)
+     (NN policiais)
+    )
+    (VP 
+     (VBP foram)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT uma)
+      (NN casa)
+      (VP 
+       (VP 
+        (VBN indicada)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT as)
+         (CD duas)
+         (NN mulheres)
+        )
+       )
+      )
+      (VP 
+       (ADVP 
+        (RB onde)
+       )
+       (VP 
+        (VBP estariam)
+       )
+       (NP 
+        (DT outros)
+        (NN integrantes)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN quadrilha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (PRP nada)
+    )
+    (VP 
+     (VBP foi)
+     (VBN encontrado)
+    )
+    (ADVP 
+     (RB ali)
+    )
+   )
+  )
+ )
+)

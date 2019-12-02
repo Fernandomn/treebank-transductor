@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (ADJP 
+    (RB Menos)
+    (JJ radicais)
+   )
+   (S 
+    (VP 
+     (VB são)
+    )
+    (NP 
+     (DT aqueles)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB exigem)
+          (ADVP 
+           (RB apenas)
+          )
+         )
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS uso)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS petroleiros)
+               (JJ reforçados)
+              )
+             )
+            )
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT as)
+             (NP 
+              (NNS águas)
+              (JJ britânicas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

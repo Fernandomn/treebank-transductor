@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN futebol)
+   )
+   (VP 
+    (VBP precisa)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB seguir)
+     )
+     (NP 
+      (DT o)
+      (NN exemplo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN CPI)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN orçamento)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB apresentar)
+     )
+     (NP 
+      (DT todos)
+      (DT os)
+      (NN podres)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Bowie)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB conseguiu)
+      (ADVP 
+       (RB de)
+       (RB novo)
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS proeza)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS modernismo)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (JJ plena)
+       (NP 
+        (NNS fase)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS desencantamento)
+           (JJ pós-moderno)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

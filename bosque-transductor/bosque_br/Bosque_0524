@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+    (RB por_acaso)
+   )
+   (NP 
+    (DT o)
+    (NN técnico)
+    (NP 
+     (NNP Bernardinho)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN time)
+     (ADJP 
+      (JJ cubano)
+     )
+    )
+    (VP 
+     (VBP ataca)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (JJ terceiro)
+      (NN andar)
+     )
+    )
+   )
+  )
+ )
+)

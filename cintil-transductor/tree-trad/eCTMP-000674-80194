@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por)
+      (NP 
+       (DT um)
+       (NNS motivo)
+      )
+     )
+     (ADVP 
+      (CC ou)
+      (ADVP 
+       (RB por)
+       (RB outro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

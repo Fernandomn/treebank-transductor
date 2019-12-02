@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Baltasar)
+     (NNS Lopes)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NNS Chiquinho)
+      )
+     )
+    )
+    (VP 
+     (VB fundou)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ moderna)
+       (NP 
+        (NNS ficção)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS país)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

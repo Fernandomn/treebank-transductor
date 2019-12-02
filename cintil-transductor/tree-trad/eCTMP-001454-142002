@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP seu)
+     (NNS nome)
+    )
+   )
+   (VP 
+    (VP 
+     (VB continua)
+     (RB assim)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ restrita)
+       (NP 
+        (NNS lista)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ possíveis)
+           (NP 
+            (NNS sucessores)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NP 
+                (NNS patriarca)
+                (NNS Deng)
+               )
+               (CONJP 
+                (CONJP 
+                 (NP 
+                  (PRP que)
+                 )
+                 (S 
+                  (VP 
+                   (VB deverá)
+                   (VP 
+                    (VP 
+                     (VB fazer)
+                     (NP 
+                      (CD 91)
+                      (NNS anos)
+                     )
+                    )
+                    (PP 
+                     (IN em)
+                     (NP 
+                      (NNS Agosto)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

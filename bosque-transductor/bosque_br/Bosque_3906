@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Senão)
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP vai)
+    (VB ser)
+   )
+   (NP 
+    (NN alvo)
+    (ADJP 
+     (JJ fácil)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN críticas)
+     )
+    )
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (DT o)
+     (NN time)
+    )
+    (VP 
+     (VBP perder)
+    )
+   )
+  )
+ )
+)

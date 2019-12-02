@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ministro)
+     (NNS de_)
+     (NNS os)
+     (NNS Negócios)
+     (NNS Estrangeiros)
+    )
+   )
+   (VP 
+    (RB apenas)
+    (VP 
+     (VP 
+      (VP 
+       (VB representará)
+       (RB provisoriamente)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NNS país)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN até)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS formação)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (JJ novo)
+           (NNS governo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

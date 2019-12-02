@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Seixal)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS FC)
+      (NNS Porto)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS final)
+    )
+   )
+  )
+ )
+)

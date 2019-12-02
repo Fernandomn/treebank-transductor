@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS pose)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS verdade)
+      )
+     )
+    )
+    (VP 
+     (VB era)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS estilo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

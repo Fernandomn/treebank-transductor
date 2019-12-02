@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT este)
+     (NNS contexto)
+    )
+   )
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC caso)
+      (S 
+       (VP 
+        (VB seja)
+        (VB apresentado)
+       )
+       (NP 
+        (DT tal)
+        (NNS processo)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS União)
+       (NNS de_)
+       (NNS as)
+       (NNS Misericórdias)
+      )
+     )
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB por)
+        (RB certo)
+       )
+      )
+      (VP 
+       (VB irá)
+       (VP 
+        (VB apreciá)
+        (NP 
+         (PRP -lo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

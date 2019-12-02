@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Sindicalista)
+   )
+   (VP 
+    (VBP faz)
+   )
+   (NP 
+    (DT o)
+    (NN tempo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN 1h41)
+     )
+    )
+   )
+   (PP 
+    (IN De+)
+    (NP 
+     (DT a)
+     (NN Reportagem)
+     (ADJP 
+      (JJ Local)
+     )
+    )
+   )
+  )
+ )
+)

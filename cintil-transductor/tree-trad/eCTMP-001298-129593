@@ -1,0 +1,50 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Procissão)
+    (PP 
+     (PP 
+      (PP 
+       (IN sem)
+       (NP 
+        (NP 
+         (NNS púrpuras)
+         (NP 
+          (NP 
+           (NNS velas)
+           (NP 
+            (NP 
+             (NNS opas)
+             (NP 
+              (CC e)
+              (NNS pálio)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (ADJP 
+      (CC mas)
+      (ADJP 
+       (JJ bela)
+       (ADJP 
+        (ADJP 
+         (JJ bélica)
+         (ADJP 
+          (CC e)
+          (JJ bestial)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

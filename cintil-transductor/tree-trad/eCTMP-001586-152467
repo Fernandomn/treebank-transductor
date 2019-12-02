@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Nogueira)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (ADJP 
+       (JJ português)
+      )
+     )
+     de_ o que
+     (NP 
+      (NNS Guterres)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,176 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ou_seja)
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (DT tal)
+     (NN procedimento)
+    )
+    (VP 
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP for)
+      )
+      (ADJP 
+       (JJ ocasional)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP tiver)
+      )
+      (ADVP 
+       (RB realmente)
+      )
+      (NP 
+       (DT a)
+       (NN conivência)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN transportadoras)
+         (ADJP 
+          (JJ aéreas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT estas)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (ADVP 
+    (RB expressamente)
+   )
+   (VP 
+    (VBG contribuindo)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN concorrência)
+     (ADJP 
+      (ADJP 
+       (JJ desleal)
+      )
+      e
+      (ADJP 
+       (JJ ilícita)
+      )
+     )
+     (PP 
+      (IN perante)
+      (NP 
+       (DT os)
+       (NN agentes)
+       (PP 
+        (IN de)
+        (NP 
+         (NN viagens)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN além_de)
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB preservar)
+     )
+     (NP 
+      (DT seus)
+      (NN clientes)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP são)
+        (VBN consultados)
+       )
+       (PP 
+        (IN sobre)
+        (VP 
+         (VP 
+          (IN se)
+          (VP 
+           (VP 
+            (VP 
+             (VBP querem)
+            )
+           )
+           ou
+           (VP 
+            (VP 
+             (ADVP 
+              (RB não)
+             )
+             (VP 
+              (VB receber)
+             )
+             (NP 
+              (DT tais)
+              (NN propostas)
+             )
+            )
+           )
+          )
+         )
+         ou
+         (VP 
+          (IN se)
+          (VP 
+           (VBP autorizam)
+          )
+          (NP 
+           (DT a)
+           (NN divulgação)
+           (PP 
+            (IN de)
+            (NP 
+             (DT seus)
+             (NP 
+              (NP 
+               (NN nomes)
+              )
+              e
+              (NP 
+               (NN endereços)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Corte)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NNS taxas)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB anima)
+   (NP 
+    (NNS Lisboa)
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Luiz_Henrique)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP PMDB)
+    )
+    (VP 
+     (VBP vai)
+     (VB procurar)
+    )
+    (NP 
+     (NP 
+      (DT os)
+      (NN presidentes)
+     )
+     e
+     (NP 
+      (NN líderes)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (DT outros)
+        (NN partidos)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN busca)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN consenso)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT a)
+          (NN votação)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN reforma)
+            (ADJP 
+             (ADJP 
+              (JJ fiscal)
+             )
+             e
+             (ADJP 
+              (JJ tributária)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

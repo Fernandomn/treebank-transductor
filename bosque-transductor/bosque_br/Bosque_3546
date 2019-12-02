@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN fãs)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Frank_Zappa)
+     )
+    )
+   )
+   (VP 
+    (VBP vão)
+    (VB ter)
+   )
+   (NP 
+    (DT uma)
+    (JJ boa)
+    (NN surpresa)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN janeiro)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP EUA)
+    )
+    (VP 
+     (VBP Lançam)
+    )
+    (NP 
+     (NN Nave)
+    )
+    (PP 
+     (IN A+)
+     (NP 
+      (DT a)
+      (NN Lua)
+     )
+    )
+    (PP 
+     (IN Após)
+     (NP 
+      (CD 21)
+      (NN Anos)
+     )
+    )
+   )
+   (NP 
+    (NNP Carlos_EDUARDO_LINS_da_Silva)
+    (PP 
+     (IN De)
+     (NP 
+      (NNP Washington)
+     )
+    )
+   )
+  )
+ )
+)

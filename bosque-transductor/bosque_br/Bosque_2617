@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ninguém)
+   )
+   (VP 
+    (VBP fica)
+   )
+   (VP 
+    (VP 
+     (VBN parado)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN vento)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP sopra)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Pacífico)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Artigo)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS embaixador)
+        (NNS de_)
+        (NNS o)
+        (NNS Brasil)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Portugal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB gera)
+   (NP 
+    (NNS polémica)
+   )
+  )
+ )
+)

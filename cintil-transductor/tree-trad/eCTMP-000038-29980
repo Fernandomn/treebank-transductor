@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS verdade)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (NNS Gramm)
+     )
+     (VP 
+      (VP 
+       (VB planeia)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS campanha)
+        )
+       )
+      )
+      (CONJP 
+       (S 
+        (VP 
+         (VB há)
+         (NP 
+          (NNS anos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (VB anda)
+         (RB activamente)
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS estrada)
+          )
+         )
+        )
+       )
+       (CONJP 
+        (S 
+         (VP 
+          (VB há)
+          (NP 
+           (NNS meses)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

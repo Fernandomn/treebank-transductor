@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Guterres)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NNS Vitorino)
+     )
+    )
+   )
+   (VP 
+    (VB empossam)
+    (NP 
+     (NP 
+      (NNS Torres)
+      (NNS Campos)
+     )
+    )
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (VP 
+     (VB reiteram)
+     (NP 
+      (NP 
+       (NNS princípio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Governo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS objectivo)
+       (JJ ambicioso)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS companhia)
+         (CONJP 
+          (RB onde)
+          (S 
+           (CONJP 
+            (S 
+             (VP 
+              (VB há)
+              (NP 
+               (CD três)
+               (NNS anos)
+              )
+             )
+            )
+           )
+           (S 
+            (NP 
+             (NP 
+              (CD 90)
+              (NP 
+               (NP 
+                (NN por)
+                (NN cento)
+               )
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NP 
+                  (PP seu)
+                  (NNS negócio)
+                 )
+                )
+               )
+              )
+             )
+            )
+            (VP 
+             (VP 
+              (VB era)
+              (JJ directo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

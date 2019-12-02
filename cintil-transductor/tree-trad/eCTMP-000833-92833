@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NP 
+      (JJ própria)
+      (NP 
+       (NNS pátria)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Lenine)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS febre)
+      (JJ nacionalista)
+     )
+    )
+    (S 
+     (VP 
+      (VB suplanta)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS internacionalismo)
+        (JJ proletário)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

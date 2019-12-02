@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS área)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS desporto)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (JJ nomeados)
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (NP 
+       (NNS Domingos)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Fernanda)
+          (NNS Ribeiro)
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS Luís)
+            (NNS Figo)
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (NP 
+             (NNS Manuela)
+             (NNS Machado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

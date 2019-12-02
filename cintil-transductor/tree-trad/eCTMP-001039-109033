@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Nomeando)
+       (RB directamente)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS Fernando)
+         (NNS Nogueira)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Luís)
+          (NNS Filipe)
+          (NNS Menezes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Carvalhas)
+    )
+    (VB concluiu)
+   )
+  )
+ )
+)

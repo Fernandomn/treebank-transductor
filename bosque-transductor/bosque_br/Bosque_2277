@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (PRP Eles)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP suportariam)
+     )
+     (NP 
+      (DT a)
+      (NN aridez)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN teoria)
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP discuto)
+     )
+     (NP 
+      (NN temas)
+      (NP 
+       (RB como)
+       (NP 
+        (NN espaço)
+        (ADJP 
+         (ADJP 
+          (JJ público)
+         )
+         e
+         (ADJP 
+          (JJ privado)
+         )
+        )
+       )
+      )
+     )
+     (ADVP 
+      (RB através)
+      (PP 
+       (IN de)
+       (NP 
+        (NN fatos)
+        (NP 
+         (RB como)
+         (NP 
+          (DT o)
+          (NN comportamento)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NNP Itamar)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NN Carnaval)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

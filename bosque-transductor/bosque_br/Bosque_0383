@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN jovens)
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBN encontrado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Atalaia)
+    )
+   )
+   (PP 
+    (RB principalmente)
+    (IN entre)
+    (NP 
+     (NP 
+      (NN quarta-feira)
+     )
+     e
+     (NP 
+      (NN domingo)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (VP 
+     (VBP são)
+     (VBN realizados)
+    )
+    (NP 
+     (NN jogos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN voleibol)
+      )
+     )
+    )
+   )
+  )
+ )
+)

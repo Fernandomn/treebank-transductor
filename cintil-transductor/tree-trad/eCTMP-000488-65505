@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Jaime)
+      (NNS Gama)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS líder)
+        (JJ parlamentar)
+       )
+       (JJ socialista)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB gostou)
+     (ADVP 
+      (RB muito)
+     )
+    )
+   )
+  )
+ )
+)

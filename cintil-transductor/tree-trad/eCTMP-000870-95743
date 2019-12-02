@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VP 
+        (VB questionámos)
+        (NP 
+         (NP 
+          (NNS Emanuel)
+          (NNS Jardim)
+          (NNS Fernandes)
+         )
+        )
+       )
+       (PP 
+        (IN sobre)
+        (NP 
+         (NP 
+          (NNS situações)
+          (JJ concretas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS líder)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PS)
+       )
+      )
+     )
+    )
+    (VB interroga)
+   )
+  )
+ )
+)

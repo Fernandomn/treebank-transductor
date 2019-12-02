@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS operação)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (JJ marcada)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ próxima)
+       (NNS terça-feira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

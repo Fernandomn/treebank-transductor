@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN engenheiro)
+    (NP 
+     (NNP Bruno_Maranhão)
+    )
+    (NP 
+     (NN líder)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Movimento_por_Terra,_Trabalho_e_Liberdade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pertence)
+   )
+   (PP 
+    (IN a)
+    (ADJP 
+     (CD uma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN famílias)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP dominam)
+        )
+        (NP 
+         (DT os)
+         (NN latifúndios)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN Nordeste)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

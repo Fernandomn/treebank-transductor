@@ -1,0 +1,92 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Apresentei)
+      (NP 
+       (NNS queixa)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Polícia)
+        (NNS Judiciária)
+        (NNS de_)
+        (NNS o)
+        (NNS Porto)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB entregando)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (JJ mesma)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS documentos)
+         (NP 
+          (CC e)
+          (NP 
+           (NNS nomes)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS testemunhas)
+              (CONJP 
+               (NP 
+                (PRP que)
+               )
+               (S 
+                (VP 
+                 (VB comprovam)
+                 (NP 
+                  (DT a)
+                  (NP 
+                   (JJ inegável)
+                   (NP 
+                    (NNS culpabilidade)
+                    (PP 
+                     (IN de_)
+                     (NP 
+                      (DT os)
+                      (NNS vigaristas)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

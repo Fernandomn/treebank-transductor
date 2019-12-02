@@ -1,0 +1,45 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS lance)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (RB provavelmente)
+      (S 
+       (S 
+        (NP 
+         (NNS Short)
+        )
+        (VP 
+         (VP 
+          (RB não)
+          (VB previu)
+         )
+        )
+       )
+       (S 
+        (CC ou)
+        (S 
+         (VP 
+          (VP 
+           (VP 
+            (RB não)
+            (VB avaliou)
+           )
+           (RB correctamente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN corredor)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP começará)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (JJ marginal)
+       (NNP Tietê)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN altura)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN Cebolão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP passará)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (NP 
+        (DT o)
+        (NNP Ceagesp)
+       )
+       (NP 
+        (NN praça)
+        (NP 
+         (NNP Panamericana)
+        )
+       )
+       (NP 
+        (NNP Faria_Lima)
+       )
+       (NP 
+        (NNP Luís_Carlos_Berrini)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP terminará)
+     )
+     (ADVP 
+      (RB por_enquanto)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN shopping)
+       (NP 
+        (NNP Morumbi)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

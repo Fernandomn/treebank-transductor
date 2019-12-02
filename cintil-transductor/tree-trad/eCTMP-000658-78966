@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Leonide)
+     (NNS Massine)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB criaria)
+      (PP 
+       (IN para)
+       (NP 
+        (NNS Diaghilev)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN entre)
+       (NP 
+        (DT outros)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (JJ famoso)
+      (NP 
+       (NNS bailado)
+       (JJ cubista)
+      )
+     )
+    )
+   )
+  )
+ )
+)

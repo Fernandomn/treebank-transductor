@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NN Termo)
+   (PP 
+    (IN de)
+    (NP 
+     (NN convênio)
+    )
+   )
+   (VP 
+    (NP 
+     (PRP que)
+    )
+    (VP 
+     (VBP celebram)
+    )
+    (ADVP 
+     (RB entre_si)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NN União)
+     )
+     e
+     (NP 
+      (DT o)
+      (NN Estado)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Rio_de_Janeiro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

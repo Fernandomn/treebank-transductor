@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (NP 
+      (NP 
+       (NNS munícipe)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Cascais)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (CD 30)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

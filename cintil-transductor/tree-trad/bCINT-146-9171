@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Antes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Tim)
+      (NNS Burton)
+     )
+    )
+    (VP 
+     (VB ataca)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (PP seu)
+         (PP próprio)
+        )
+        (NP 
+         (NNS surrealismo)
+         (JJ bizarro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

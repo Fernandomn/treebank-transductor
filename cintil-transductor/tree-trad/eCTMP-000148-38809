@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS valor)
+   )
+   (VP 
+    (VP 
+     (VB representará)
+     (PP 
+      (PP 
+       (PP 
+        (IN face)
+        (IN a_)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ano)
+         (JJ passado)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS crescimento)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD oito)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

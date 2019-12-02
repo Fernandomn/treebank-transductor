@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS refugiado)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (DT uma)
+       (NNS ameaça)
+      )
+     )
+    )
+    (S 
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT o)
+        (NP 
+         (ADJP 
+          (VB ameaçado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

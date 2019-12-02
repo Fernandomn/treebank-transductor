@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Desobediência)
+      (JJ civil)
+     )
+     (ADJP 
+      (ADJP 
+       (JJ violenta)
+       (ADJP 
+        (CC ou)
+        (JJ não-violenta)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB constitui)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS violação)
+       (JJ intencional)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS lei)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

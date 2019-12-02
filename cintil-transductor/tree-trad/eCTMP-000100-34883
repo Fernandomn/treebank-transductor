@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB é)
+     )
+     (ADVP 
+      (RB contudo)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS caso)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NP 
+          (NP 
+           (NNS versões)
+           (JJ especiais)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Peugeot)
+             (NNS 205)
+            )
+           )
+          )
+         )
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB começam)
+             (PP 
+              (IN a)
+              (VB surgir)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

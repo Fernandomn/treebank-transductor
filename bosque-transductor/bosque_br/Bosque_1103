@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (DT muito)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB fazer)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN apartamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

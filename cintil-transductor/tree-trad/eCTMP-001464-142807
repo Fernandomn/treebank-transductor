@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Pretendemos)
+     (NP 
+      (NP 
+       (DT a)
+       (NNS paz)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT a)
+         (NNS segurança)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS progresso)
+           (JJ económico)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NNS cipriotas-turcos)
+     )
+    )
+   )
+  )
+ )
+)

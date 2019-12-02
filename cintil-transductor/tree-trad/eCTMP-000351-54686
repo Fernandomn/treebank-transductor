@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS qualidade)
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (RB praticamente)
+      )
+      (JJ igual)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS custo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS produção)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB é)
+      (ADJP 
+       (RB bem)
+       (JJ menor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

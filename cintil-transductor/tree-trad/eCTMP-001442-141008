@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS sala)
+     (ADJP 
+      (ADJP 
+       (JJ atenta)
+       (ADJP 
+        (CC e)
+        (JJ devota)
+       )
+      )
+     )
+    )
+   )
+   (VB escutava)
+  )
+ )
+)

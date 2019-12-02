@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS As)
+       (NNS FARC)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS ex-guerrilheiros)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS EPL)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB iniciaram)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS luta)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS controlo)
+           (JJ político)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Uruba)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

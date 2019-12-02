@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP houve)
+   )
+   (NP 
+    (NN acordo)
+    (PP 
+     (IN para)
+     (NP 
+      (DT uma)
+      (NN trégua)
+     )
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT a)
+     (NN Copa)
+    )
+   )
+  )
+ )
+)

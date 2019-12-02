@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS entrada)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS empresa)
+         (JJ portuguesa)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT estes)
+       (NNS mercados)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB formalizada)
+    )
+    (PP 
+     (PP 
+      (IN através)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS compra)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS participações)
+           (JJ minoritárias)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (NNS empresas)
+             (JJ congéneres)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

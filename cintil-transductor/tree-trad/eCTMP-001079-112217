@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CD primeiro)
+    (NNS passo)
+   )
+  )
+  (VP 
+   (PP 
+    (IN de)
+    (NP 
+     (NP 
+      (NNS Tim)
+      (NNS Floyd)
+     )
+    )
+   )
+  )
+ )
+)

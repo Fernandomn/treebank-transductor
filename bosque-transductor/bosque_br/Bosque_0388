@@ -1,0 +1,140 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN clima)
+     (PP 
+      (IN de)
+      (NP 
+       (NN sinistrose)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NN fragilidades)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP ficaram)
+   )
+   (ADJP 
+    (RB tão)
+    (JJ visíveis)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN opinião_pública)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN dificuldade)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB fazerem)
+       )
+       (NP 
+        (NN alianças)
+        (ADJP 
+         (JJ capazes)
+         (PP 
+          (IN de)
+          (VP 
+           (VP 
+            (VB sustentar)
+           )
+           (NP 
+            (NNP Lula)
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (ADVP 
+         (RB quando)
+        )
+        (VP 
+         (VBP virasse)
+        )
+        (NP 
+         (NN presidente)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT os)
+     (NN aloprados)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP conquistaram)
+      )
+      (NP 
+       (NN posições)
+       (ADJP 
+        (JJ estratégicas)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN partido)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NN falta)
+     (PP 
+      (IN de)
+      (NP 
+       (VBN generalizada)
+       (NN convicção)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT o)
+         (NN valor)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN democracia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

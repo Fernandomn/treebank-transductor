@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS fábula)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS leão)
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS lobo)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS cordeiro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

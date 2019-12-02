@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (PP 
+       (IN Por_)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS nome)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (PP sua)
+           (NNS trajectória)
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT o)
+           (NP 
+            (PP seu)
+            (NNS espírito)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS Sporting)
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (RB sempre)
+      )
+      (NP 
+       (DT um)
+       (NNS candidato)
+      )
+     )
+    )
+   )
+  )
+ )
+)

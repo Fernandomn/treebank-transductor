@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS mercado)
+     (NNS retalhista)
+     (NNS de)
+     (NNS Alhandra)
+    )
+   )
+   (VP 
+    (VB atingiu)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NP 
+        (NNS estado)
+        (JJ inaceitável)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS degradação)
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (VB denunciado)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS generalidade)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS utentes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

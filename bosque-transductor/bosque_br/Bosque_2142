@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP FHC)
+    )
+    e
+    (NP 
+     (NNP Malan)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP esclareceram)
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (DT o)
+     (NN momento)
+    )
+   )
+   (VP 
+    (VP 
+     (NP 
+      (DT quanto)
+     )
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+     (VP 
+      (VBP gastou)
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (DT quando)
+     )
+     (VP 
+      (VBP foram)
+      (VBN comprados)
+     )
+     (NP 
+      (DT os)
+      (NN papéis)
+     )
+    )
+   )
+  )
+ )
+)

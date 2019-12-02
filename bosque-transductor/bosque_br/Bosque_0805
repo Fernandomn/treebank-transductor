@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NNP COE)
+    )
+   )
+   (VP 
+    (VBP eram)
+   )
+   (ADJP 
+    (JJ remotas)
+   )
+   (NP 
+    (DT as)
+    (NN chances)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNP Lauro)
+       )
+       e
+       (NP 
+        (NNP Alex)
+       )
+      )
+      (VP 
+       (VP 
+        (VB serem)
+        (VBN encontrados)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN vida)
+        )
+       )
+       (VP 
+        (IN porque)
+        (NP 
+         (PRP eles)
+        )
+        (VP 
+         (VBP haviam)
+         (VBN levado)
+        )
+        (NP 
+         (NN comida)
+         (ADJP 
+          (JJ suficiente)
+          (PP 
+           (IN para)
+           (NP 
+            (RB apenas)
+            (CD um)
+            (NN dia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

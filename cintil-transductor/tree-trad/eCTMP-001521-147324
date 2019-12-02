@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS acontecimento)
+   )
+   (VP 
+    (VB acabou)
+    (PP 
+     (IN por)
+     (VP 
+      (VP 
+       (VP 
+        (NP 
+         (PRP lhe)
+        )
+        (VB mudar)
+       )
+       (RB também)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS rumo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS negócios)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

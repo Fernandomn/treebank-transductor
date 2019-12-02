@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN sequência)
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1498)
+    )
+   )
+   (NP 
+    (NNP Vasco_da_Gama)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP chegou)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN Índias)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP inaugurou)
+     )
+     (NP 
+      (DT uma)
+      (JJ nova)
+      (NN era)
+     )
+    )
+   )
+  )
+ )
+)

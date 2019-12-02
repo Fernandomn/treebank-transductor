@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT este)
+      (NNS momento)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS situação)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (JJ complexa)
+     )
+     (PP 
+      (IN sob)
+      (NP 
+       (PRP todos)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS pontos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS vista)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

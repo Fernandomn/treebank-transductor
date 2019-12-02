@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ao_mesmo_tempo)
+   )
+   (VP 
+    (VBP estamos)
+    (VBG esperando)
+   )
+   (NP 
+    (NN denúncias)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN atuação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN bicheiros)
+        (ADJP 
+         (JJ paulistas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Burle_Filho)
+   )
+  )
+ )
+)

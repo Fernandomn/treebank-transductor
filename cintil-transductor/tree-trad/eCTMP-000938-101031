@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Será)
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS sentido)
+         (ADJP 
+          (RB quase)
+          (JJ literal)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS espécie)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS milagre)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS rosas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

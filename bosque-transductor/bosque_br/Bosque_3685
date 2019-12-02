@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN dados)
+    (VP 
+     (VP 
+      (VBN detalhados)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NN desempenho)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP PIB)
+        )
+       )
+       (PP 
+        (IN entre)
+        (NP 
+         (NP 
+          (NN outubro)
+         )
+         e
+         (NP 
+          (NN dezembro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP serão)
+    (VBN revelados)
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (NN março)
+    )
+   )
+  )
+ )
+)

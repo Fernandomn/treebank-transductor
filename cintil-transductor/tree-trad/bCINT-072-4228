@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS classe)
+       (JJ média)
+      )
+     )
+     (VB desapareceu)
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (RB apenas)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ pequeno)
+         (NP 
+          (NNS grupo)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS pessoas)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VB enriqueceu)
+     )
+    )
+   )
+  )
+ )
+)

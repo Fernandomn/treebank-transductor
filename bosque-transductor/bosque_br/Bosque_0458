@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN escritório)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Júlio_Neves)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP começa)
+    (IN a)
+    (VB preparar)
+   )
+   (NP 
+    (JJ novos)
+    (NN estudos)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN prolongamento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT este)
+       (NN corredor)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN além_de+)
+    (NP 
+     (DT o)
+     (NN shopping)
+     (NP 
+      (NNP Morumbi)
+     )
+    )
+   )
+   (PP 
+    (IN em_direção_a+)
+    (NP 
+     (DT a)
+     (NN ponte)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Socorro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

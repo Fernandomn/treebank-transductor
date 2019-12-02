@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Ana)
+      (NNS Gerschenfeld)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS José)
+       (NNS Vítor)
+       (NNS Malheiros)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Paris)
+   )
+  )
+ )
+)

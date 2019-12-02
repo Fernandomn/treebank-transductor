@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Escola)
+    (NNS secundária)
+   )
+  )
+  (VP 
+   (VB tem)
+   (NP 
+    (NP 
+     (NNS clube)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS arqueologia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Aconteceu)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS noite)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS sexta)
+           (JJ passada)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (CD terceira)
+        (NP 
+         (NNS noite)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS ciclo)
+             (NNS Ritmos)
+            )
+            (CONJP 
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (RB hoje)
+                (VP 
+                 (VB encerra)
+                 (PP 
+                  (IN em_)
+                  (NP 
+                   (DT o)
+                   (NNS Porto)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Acordo)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Sintra)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB obriga)
+    (NP 
+     (NNS populares)
+    )
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VB mostrar)
+     (NP 
+      (NNS candidatos)
+     )
+    )
+   )
+  )
+ )
+)

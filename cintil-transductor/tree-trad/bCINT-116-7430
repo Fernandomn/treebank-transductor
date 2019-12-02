@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS funcionário)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS pastelaria)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB contou)
+     (RB ainda)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP nenhum)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS trabalhadores)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS estabelecimento)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB ficou)
+       (VB ferido)
+      )
+     )
+    )
+   )
+  )
+ )
+)

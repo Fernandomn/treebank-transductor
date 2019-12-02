@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Existem)
+   )
+   (NP 
+    (DT outras)
+    (NN formas)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB burlar)
+      )
+      (NP 
+       (DT o)
+       (NN reajuste)
+       (ADJP 
+        (JJ anual)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

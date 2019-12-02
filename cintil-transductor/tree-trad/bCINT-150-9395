@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS prioridade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Educação)
+        )
+       )
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (PP 
+        (RB só)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Governo)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB é)
+        (RB também)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Parlamento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

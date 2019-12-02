@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS estudo)
+   )
+   (VP 
+    (VB deveria)
+    (VP 
+     (VP 
+      (VB pronunciar)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS viabilidade)
+         (ADJP 
+          (JJ técnica)
+          (ADJP 
+           (CC e)
+           (JJ económica)
+          )
+         )
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (PP 
+            (IN de)
+            (NP 
+             (CD três)
+             (NP 
+              (NNS soluções)
+              (JJ possíveis)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

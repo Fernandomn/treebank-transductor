@@ -1,0 +1,21 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Argentina)
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (DT uma)
+    (NN opção)
+    (ADJP 
+     (RB bastante)
+     (JJ ofensiva)
+    )
+   )
+  )
+ )
+)

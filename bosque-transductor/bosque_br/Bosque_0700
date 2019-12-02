@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ainda)
+   )
+   (VP 
+    (VBP há)
+   )
+   (ADVP 
+    (RB muito)
+   )
+   (NP 
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VB fazer)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB desgravar)
+     )
+     (ADVP 
+      (RB completamente)
+     )
+     (NP 
+      (DT as)
+      (NN exportações)
+      (PP 
+       (IN de)
+       (NP 
+        (NN impostos)
+        (ADJP 
+         (JJ indiretos)
+        )
+        (VP 
+         (ADVP 
+          (RB conforme)
+         )
+         (VP 
+          (VP 
+           (VP 
+            (VBP permitem)
+           )
+           (NP 
+            (DT as)
+            (NN regras)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NNP Gatt)
+             )
+            )
+           )
+          )
+          e
+          (VP 
+           (VP 
+            (VBP impõe)
+           )
+           (NP 
+            (DT a)
+            (NN realidade)
+            (PP 
+             (IN de)
+             (NP 
+              (DT um)
+              (NN ambiente)
+              (ADJP 
+               (JJ internacional)
+              )
+              (ADJP 
+               (JJ competitivo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

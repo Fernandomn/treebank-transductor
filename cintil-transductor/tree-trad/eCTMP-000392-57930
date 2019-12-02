@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS misoprostol)
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (VP 
+      (VB sido)
+      (VB usado)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS tratamento)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS úlceras)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

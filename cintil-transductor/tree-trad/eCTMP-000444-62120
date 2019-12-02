@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jornadas)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Literatura)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Livro)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB começam)
+    (RB hoje)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+  )
+ )
+)

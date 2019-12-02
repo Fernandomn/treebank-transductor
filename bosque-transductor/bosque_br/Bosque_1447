@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP podemos)
+     (VB aceitar)
+    )
+    (NP 
+     (NN medidas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP contrariem)
+      )
+      (NP 
+       (DT o)
+       (NN combate)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN inflação)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP FHC)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VB responder)
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NN assunto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

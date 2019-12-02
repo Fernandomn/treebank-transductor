@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT os)
+     (JJ últimos)
+     (NN dias)
+    )
+   )
+   (VP 
+    (VBP houve)
+   )
+   (NP 
+    (DT uma)
+    (NN saída)
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 100)
+       (NN milhões)
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN custódia)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN instituição)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por_causa_de+)
+    (NP 
+     (DT a)
+     (NN crise)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP México)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Cada)
+    (NNS SASU)
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (NP 
+      (NP 
+       (CD dois)
+       (NNS médicos)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT um)
+         (NNS enfermeiro)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS funcionário)
+           (JJ administrativo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS períodos)
+       (PP 
+        (IN de)
+        (NP 
+         (CD seis)
+         (NNS horas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

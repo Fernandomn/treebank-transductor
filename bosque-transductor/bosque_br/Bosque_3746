@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Destaca)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Partido_Liberal_Democrático)
+     (NP 
+      (NNP PLD)
+     )
+     (VP 
+      (VP 
+       (VBN derrubado)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN poder)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN ano)
+        (VBN passado)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP deverá)
+     (VB apresentar)
+    )
+    (NP 
+     (DT seu)
+     (NN presidente)
+     (NP 
+      (NNP Yohei_Kono)
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NN candidato)
+      (PP 
+       (IN a)
+       (NP 
+        (NN primeiro-ministro)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Japão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

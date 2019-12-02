@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Dá)
+     (NP 
+      (DT o)
+      (NNS emprego)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NNS amigo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

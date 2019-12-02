@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Paulo_Cesar)
+   )
+   (VP 
+    (VP 
+     (VBG cobrando)
+    )
+    (NP 
+     (NN falta)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN cabeça)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN área)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP fechou)
+   )
+   (NP 
+    (DT o)
+    (NN marcador)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (CD 43)
+     (NN min)
+    )
+   )
+   (PP 
+    (IN sem)
+    (NP 
+     (NN chances)
+     (PP 
+      (IN de)
+      (NP 
+       (NN defesa)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN goleiro)
+       (NP 
+        (NNP Sílvio)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Santo_André)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

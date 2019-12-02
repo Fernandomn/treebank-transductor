@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (VB enunciado)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS forma)
+       (ADJP 
+        (ADJP 
+         (RB muito)
+         (JJ interrogativa)
+        )
+        (ADJP 
+         (ADJP 
+          (RB muito)
+          (JJ dialogante)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

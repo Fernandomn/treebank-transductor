@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (ADJP 
+     (RB tão)
+     (JJ bom)
+    )
+    (NN artista)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT muitos)
+     (NN pintores)
+    )
+    (VP 
+     (VBP quiseram)
+    )
+    (VP 
+     (VP 
+      (VB aprender)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB pintar)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (PRP ele)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

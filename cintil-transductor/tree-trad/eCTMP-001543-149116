@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Avaria)
+  )
+  (VP 
+   (VB atrasa)
+   (NP 
+    (NP 
+     (NP 
+      (NNS saída)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS barcos)
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Expo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

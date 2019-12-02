@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Claro)
+    )
+    (PP 
+     (IN sem)
+     (VP 
+      (VP 
+       (VB descuidar)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (PRP tudo)
+        (NP 
+         (DT mais)
+        )
+       )
+      )
+     )
+    )
+    (CC mas)
+    (VP 
+     (VP 
+      (VBG vendo)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN clareza)
+      )
+     )
+     (NP 
+      (DT a)
+      (NN questão)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN prioridades)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP declara)
+   )
+   (NP 
+    (NNP Brizola)
+   )
+  )
+ )
+)

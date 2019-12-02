@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Era)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS resto)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS história)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS Correio)
+          (NNS Braziliense)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

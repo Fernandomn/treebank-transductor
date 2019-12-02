@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS termos)
+      (JJ semanais)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS balanço)
+    )
+    (VP 
+     (VB é)
+     (JJ negativo)
+    )
+   )
+  )
+ )
+)

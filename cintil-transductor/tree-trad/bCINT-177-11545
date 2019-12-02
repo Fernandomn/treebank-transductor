@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Internet)
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB ser)
+       )
+       (RB ainda)
+      )
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS hipótese)
+         (JJ chamativa)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS negócio)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS maioria)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS sectores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

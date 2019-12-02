@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS felicidade)
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB provoca)
+     (RB irremediavelmente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (PP minha)
+      (NNS infelicidade)
+     )
+    )
+   )
+  )
+ )
+)

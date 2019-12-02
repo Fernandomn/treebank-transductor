@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS de)
+     (NNS Deus)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB deixou)
+    )
+    (NP 
+     (PRP muitos)
+     (NP 
+      (NNS documentos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS autoria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

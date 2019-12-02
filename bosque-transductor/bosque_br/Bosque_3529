@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Cursando)
+    )
+    (NP 
+     (NN economia)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Faap)
+     )
+    )
+   )
+   (NP 
+    (NNP Kiko)
+   )
+   (VP 
+    (VBP espera)
+   )
+   (ADJP 
+    (JJ ansioso)
+   )
+   (NP 
+    (DT o)
+    (DT seu)
+    (NN telefone)
+    (ADJP 
+     (JJ celular)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP está)
+      (IN para)
+      (VB sair)
+     )
+    )
+   )
+  )
+ )
+)

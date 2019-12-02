@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN jogador)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Palmeiras)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP terá)
+   )
+   (NP 
+    (NN dificuldades)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB garantir)
+      )
+      (NP 
+       (DT o)
+       (NN título)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN partida)
+        (PP 
+         (IN contra)
+         (NP 
+          (DT o)
+          (NNP Corinthians)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB pois)
+    )
+    (VP 
+     (VBP deve)
+     (VB enfrentar)
+    )
+    (ADVP 
+     (RB antes)
+    )
+    (NP 
+     (NN adversários)
+     (ADJP 
+      (RB teoricamente)
+      (JJ fáceis)
+     )
+     (NP 
+      (NP 
+       (NNP Mogi_Mirim)
+      )
+      (NP 
+       (NNP Ituano)
+      )
+      e
+      (NP 
+       (NNP Santo_André)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Indonésia)
+   )
+   (VP 
+    (VP 
+     (VB tinha)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS manga)
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (CD última)
+      (NNS cartada)
+     )
+    )
+   )
+  )
+ )
+)

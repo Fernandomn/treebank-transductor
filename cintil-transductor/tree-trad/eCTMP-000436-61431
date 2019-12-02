@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Peter)
+      (NNS Mandelson)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NP 
+        (NNS braço-direito)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS bastidores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (RB agora)
+    )
+    (VP 
+     (VB ser)
+     (NP 
+      (NP 
+       (NNS ministro)
+       (NNS de_)
+       (NNS o)
+       (NNS Comércio)
+       (NNS e)
+       (NNS Indústria)
+      )
+     )
+    )
+   )
+  )
+ )
+)

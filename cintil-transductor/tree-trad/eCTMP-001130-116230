@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Ainda)
+     (RB assim)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS optimismo)
+      (ADJP 
+       (VB verificado)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NP 
+          (CD últimas)
+          (NNS semanas)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB abandonou)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS praça)
+       (JJ madrilena)
+      )
+     )
+    )
+   )
+  )
+ )
+)

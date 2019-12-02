@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Falaram)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS acordo)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS autonomia)
+            (JJ palestiniana)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS monarca)
+     )
+     (VP 
+      (VB ficou)
+      (VB sossegado)
+     )
+    )
+   )
+  )
+ )
+)

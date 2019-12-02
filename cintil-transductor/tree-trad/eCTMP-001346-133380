@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS David)
+   )
+   (VP 
+    (VP 
+     (VB começou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB lutar)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD seis)
+          (NNS anos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Clube)
+        (NNS Desportivo)
+        (NNS de)
+        (NNS Arroios)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

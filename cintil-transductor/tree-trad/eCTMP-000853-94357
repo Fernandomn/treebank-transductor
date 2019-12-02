@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (NP 
+      (CD Quinhentos)
+      (NNS anos)
+     )
+    )
+    (RB depois)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS situação)
+    )
+    (VP 
+     (VP 
+      (VB alterou)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (RB radicalmente)
+    )
+   )
+  )
+ )
+)

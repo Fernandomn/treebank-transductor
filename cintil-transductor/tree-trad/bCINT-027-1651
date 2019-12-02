@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NNS Marcelo)
+     )
+     (VP 
+      (VB pede)
+      (NP 
+       (DT o)
+       (NNS consenso)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB há)
+       (NP 
+        (NNS tempestade)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS ar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

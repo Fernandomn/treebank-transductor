@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Milhares)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS ciganos)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (PRP quase)
+          (PRP todos)
+         )
+         (NP 
+          (DT os)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB viviam)
+              (PP 
+               (IN em_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS lado)
+                 (JJ checo)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB morreram)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS campos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS extermínio)
+           (JJ nazis)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Segunda)
+       (NNS Guerra)
+       (NNS Mundial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

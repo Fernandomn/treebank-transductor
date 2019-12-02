@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+   )
+   (VP 
+    (VB viviam)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS Tschiertschen)
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Suíça)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

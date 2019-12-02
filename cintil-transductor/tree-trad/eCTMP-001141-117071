@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS brasão)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (JJ marcado)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS louça)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT as)
+          (NNS refeições)
+         )
+         (VP 
+          (VP 
+           (VB são)
+           (VB servidas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

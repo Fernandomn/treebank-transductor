@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ único)
+     (NP 
+      (NNS acordo)
+      (ADJP 
+       (RB aparentemente)
+       (JJ sólido)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS comando)
+        (JJ central)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS forças)
+          (JJ estratégicas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

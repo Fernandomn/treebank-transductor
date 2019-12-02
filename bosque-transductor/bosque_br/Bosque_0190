@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Roberto_Capuano)
+    (NP 
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Creci-SP)
+       (NP 
+        (NNP Conselho_Regional_de_Corretores_de_Imóveis)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN mercado)
+     (PP 
+      (IN de)
+      (VBN usados)
+     )
+    )
+    (VP 
+     (VBP sofre)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN carência)
+      (PP 
+       (IN de)
+       (NP 
+        (NN financiamentos)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN desde)
+     (ADJP 
+      (CD 70)
+     )
+    )
+   )
+  )
+ )
+)

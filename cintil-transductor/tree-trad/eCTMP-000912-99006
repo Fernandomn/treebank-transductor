@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Freire)
+     (NNS Antunes)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS candidato)
+     (PP 
+      (IN a)
+      (NP 
+       (NP 
+        (NNS líder)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS PSD)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

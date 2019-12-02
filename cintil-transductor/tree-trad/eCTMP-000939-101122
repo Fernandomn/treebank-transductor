@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Ovar)
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (RB hoje)
+     (VP 
+      (VB reviver)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NP 
+          (NNS título)
+          (JJ nacional)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS basquetebol)
+          )
+         )
+        )
+        (ADJP 
+         (VB alcançado)
+         (PP 
+          (IN em)
+          (NP 
+           (CD 1988)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Analisado)
+    )
+    (ADVP 
+     (RB isoladamente)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN imposto)
+    (UCP 
+     (ADJP 
+      (JJ democrático)
+     )
+     e
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (IN se)
+       (VP 
+        (VBN levado)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (DT sua)
+         (NN consequência)
+         (ADJP 
+          (JJ lógica)
+         )
+         (NP 
+          (DT o)
+          (NNP Imposto_Único)
+         )
+        )
+       )
+      )
+      (VP 
+       (VBP poderia)
+       (VB consumar)
+      )
+      (NP 
+       (DT a)
+       (NN revolução)
+       (ADJP 
+        (JJ tributária)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (DT o)
+         (NN país)
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VBP deseja)
+          )
+          (CC e)
+         )
+         (VP 
+          (VP 
+           (VBP precisa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

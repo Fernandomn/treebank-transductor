@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Como)
+    (NP 
+     (NNP Collor)
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ novo)
+    (NN presidente)
+   )
+   (VP 
+    (VBP falou)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NN reforma)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Estado)
+       )
+      )
+     )
+     (NP 
+      (NN abertura)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN economia)
+       )
+      )
+     )
+     (NP 
+      (NN avanço)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN privatização)
+       )
+      )
+     )
+     e
+     (NP 
+      (NN flexibilização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN monopólios)
+        (ADJP 
+         (JJ estatais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

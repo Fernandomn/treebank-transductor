@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Há)
+    )
+    (NP 
+     (DT a)
+     (NN necessidade)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN representação)
+       (ADJP 
+        (JJ permanente)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN trabalhador)
+        )
+       )
+       (VP 
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP converse)
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT o)
+           (NN empregador)
+          )
+         )
+        )
+        e
+        (VP 
+         (VP 
+          (VBP signifique)
+         )
+         (NP 
+          (NN garantia)
+          (PP 
+           (IN de)
+           (VP 
+            (IN que)
+            (ADVP 
+             (RB não)
+            )
+            (VP 
+             (VBP haverá)
+            )
+            (NP 
+             (NN perseguição)
+             (PP 
+              (IN a+)
+              (NP 
+               (DT os)
+               (NN negociadores)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Siqueira)
+   )
+  )
+ )
+)

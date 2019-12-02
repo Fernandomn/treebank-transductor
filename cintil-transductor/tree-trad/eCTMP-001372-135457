@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS centro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS cidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (ADJP 
+      (JJ cheio)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS actividade)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS princípio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS noite)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

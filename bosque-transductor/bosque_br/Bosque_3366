@@ -1,0 +1,129 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Perry)
+   )
+   (VP 
+    (VBP descreveu)
+   )
+   (NP 
+    (CD três)
+    (NN fases)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN operação)
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NN entrada)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Haiti)
+       )
+      )
+     )
+     e
+     (NP 
+      (DT a)
+      (NN conquista)
+      (PP 
+       (IN de)
+       (NP 
+        (DT todas)
+        (DT as)
+        (NN posições)
+        (ADJP 
+         (JJ estratégicas)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NN duração)
+        (NP 
+         (PP 
+          (IN de)
+          (NP 
+           (CD seis)
+           (RB a_horas)
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (CD dois)
+           (NN dias)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NN criação)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NN ambiente)
+        (ADJP 
+         (JJ seguro)
+        )
+       )
+      )
+      (NP 
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD três)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (CD seis)
+         (NN meses)
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (DT a)
+      (NN transferência)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN controle)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN situação)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NNP ONU)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

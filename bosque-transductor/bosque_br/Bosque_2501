@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT o)
+    (NN favorito)
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN eleições)
+      (VP 
+       (VP 
+        (VBN programadas)
+       )
+       (PP 
+        (IN para)
+        (ADJP 
+         (CD 21)
+         (PP 
+          (IN de)
+          (NP 
+           (NN agosto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

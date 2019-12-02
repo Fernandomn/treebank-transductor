@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN advogados)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Lucena)
+     )
+    )
+   )
+   (VP 
+    (VBP calculam)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (PRP isso)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP deve)
+     (VB ocorrer)
+    )
+    (ADVP 
+     (RB antes)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN terça)
+       )
+       ou
+       (NP 
+        (NN quarta)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NNP Lucena)
+      (ADJP 
+       (RB já)
+       (VBN eleito)
+      )
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB segundo)
+     )
+     (VP 
+      (VBP acreditam)
+     )
+    )
+   )
+  )
+ )
+)

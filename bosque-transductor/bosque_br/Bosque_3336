@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Documentos)
+    (VBN reservados)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN segurança)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Presidência)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN República)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP alertavam)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN semana)
+     (ADJP 
+      (JJ anterior)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN possibilidade)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (DT o)
+        (NN presidente)
+       )
+       (VP 
+        (VB ouvir)
+       )
+       (NP 
+        (NN vaias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

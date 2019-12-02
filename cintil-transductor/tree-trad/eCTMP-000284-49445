@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB Posso)
+        (VP 
+         (VB citar)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS caso)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (PP vosso)
+              (NNS hospital)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB perguntou)
+     )
+     (NP 
+      (NNS Bermudez)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS administração)
+       (NNS de_)
+       (NNS o)
+       (NNS Betheda)
+      )
+     )
+    )
+   )
+  )
+ )
+)

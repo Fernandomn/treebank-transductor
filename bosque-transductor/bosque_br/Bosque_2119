@@ -1,0 +1,56 @@
+(
+ (S 
+  (NP 
+   (NNP Yoshiaki_Nakano)
+   (NP 
+    (NP 
+     (NN economista)
+    )
+    (NP 
+     (NP ex-secretário)
+     (ADJP 
+      (JJ especial)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN assuntos)
+       (ADJP 
+        (JJ econômicos)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Ministério_da_Fazenda)
+        )
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (NP ex-secretário)
+     (ADJP 
+      (JJ nacional)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN política)
+       (ADJP 
+        (JJ econômica)
+       )
+       (NP 
+        (NN gestão)
+        (NP 
+         (NNP Bresser_Pereira)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

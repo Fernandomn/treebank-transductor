@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Por)
+      (RB último)
+     )
+    )
+    (VB surge)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS explicação)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (ADJP 
+         (RB tão)
+         (JJ grandes)
+        )
+        (NNS diferenças)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

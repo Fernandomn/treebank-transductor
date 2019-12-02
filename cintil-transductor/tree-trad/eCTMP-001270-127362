@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Todos)
+     (NP 
+      (DT os)
+      (NNS docentes)
+     )
+    )
+    (VP 
+     (VB tinham)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS contrato)
+       (PP 
+        (IN de)
+        (NP 
+         (CD dois)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (PRP muitos)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB tinham)
+      )
+      (NP 
+       (NP 
+        (NNS alternativa)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS emprego)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

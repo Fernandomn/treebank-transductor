@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN mulheres)
+    (ADJP 
+     (JJ jornalistas)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP estão)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN tela)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (JJ inúmeros)
+    (NN problemas)
+   )
+  )
+ )
+)

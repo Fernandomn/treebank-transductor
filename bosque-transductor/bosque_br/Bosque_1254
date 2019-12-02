@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Instituto_Brasileiro_do_Patrimônio_Cultural)
+   )
+   (VP 
+    (VBP reinaugura)
+   )
+   (NP 
+    (NN dia)
+    (ADJP 
+     (CD 18)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Museu_Victor_Meirelles)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Florianópolis)
+    )
+   )
+  )
+ )
+)

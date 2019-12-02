@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (CC Nem)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS formato)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (PP 
+         (CC nem)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS cor)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS papel)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (CC nem)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS impressão)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Oslobodenje)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB conhecem)
+           (CONJP 
+            (S 
+             (VP 
+              (VB há)
+              (NP 
+               (NP 
+                (RB quase)
+                (CD cinquenta)
+               )
+               (NNS anos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

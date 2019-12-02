@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Até)
+    (RB agora)
+   )
+   (NP 
+    (DT o)
+    (NNP Bradesco_VISA)
+   )
+   (VP 
+    (VBP financiava)
+   )
+   (PP 
+    (IN em)
+    (PP 
+     (IN até)
+     (NP 
+      (CD quatro)
+      (NN parcelas)
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NN juros)
+        (VP 
+         (VP 
+          (VBN cobrados)
+         )
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT os)
+           (NN cruzeiros)
+           (ADJP 
+            (JJ reais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

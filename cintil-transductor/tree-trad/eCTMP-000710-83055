@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS As)
+      (NNS Marianas)
+     )
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NP 
+         (PP seus)
+         (NP 
+          (NP 
+           (CD 44)
+           (CD mil)
+          )
+          (NP 
+           (NP 
+            (NNS metros)
+            (JJ quadrados)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS área)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB têm)
+    (NP 
+     (CD 25)
+     (NP 
+      (NNS anos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS existência)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB estou)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB dizer)
+       (CONJP 
+        (CC que)
+        (S 
+         (VP 
+          (VP 
+           (RB não)
+           (VB tenham)
+          )
+          (NP 
+           (NNS filhos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

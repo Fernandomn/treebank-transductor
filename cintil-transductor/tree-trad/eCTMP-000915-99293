@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Rembrandt)
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS voltas)
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NNS copistas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

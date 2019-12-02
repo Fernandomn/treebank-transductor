@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS vendas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Castil)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB baixam)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esta)
+       (NP 
+        (NNS época)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS ano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

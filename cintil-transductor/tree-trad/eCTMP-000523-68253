@@ -1,0 +1,40 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS televisão)
+    (PP 
+     (IN por)
+     (NP 
+      (NNS cabo)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB era)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

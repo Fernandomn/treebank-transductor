@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estamos)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Vale)
+        (NNS de)
+        (NNS Judeus)
+       )
+      )
+      (NP 
+       (NP 
+        (DT um)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (NNS estabelecimentos)
+             (JJ prisionais)
+            )
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS segurança)
+               (JJ máxima)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

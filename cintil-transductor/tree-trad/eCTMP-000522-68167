@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB São)
+     (NP 
+      (PRP poucos)
+     )
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS tradutores)
+      (JJ profissionais)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS avalancha)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS candidatos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

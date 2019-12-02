@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Tudo)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB mexe)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VP 
+      (VB ser)
+      (RB imediatamente)
+     )
+     (VB abatido)
+    )
+   )
+  )
+ )
+)

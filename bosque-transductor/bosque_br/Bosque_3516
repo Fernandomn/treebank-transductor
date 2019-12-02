@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de)
+    (VP 
+     (VP 
+      (VB dominar)
+     )
+     (NP 
+      (DT esta)
+      (NN habilidade)
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (CD duas)
+    (JJ únicas)
+    (NN coisas)
+    (ADJP 
+     (RB realmente)
+     (JJ necessárias)
+     (PP 
+      (IN para)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB viajar)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN trenó)
+        )
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NNP Alasca)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP eram)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB estar)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (JJ razoável)
+       (JJ boa)
+       (NN forma)
+       (ADJP 
+        (JJ física)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB ter)
+     )
+     (NP 
+      (RB mais_de)
+      (CD 13)
+      (NN anos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN idade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

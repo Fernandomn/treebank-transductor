@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Assim)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP abre)
+   )
+   (NP 
+    (NN espaço)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN arquibancada)
+    )
+   )
+   (NP 
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB fumar)
+      )
+      (NP 
+       (NN maconha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

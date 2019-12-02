@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Nujud)
+    )
+   )
+   (NP 
+    (DT as)
+    (NN contas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Corinthians)
+     )
+    )
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP foram)
+    (VBN fechadas)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB saber)
+     )
+     (VP 
+      (IN se)
+      (NP 
+       (DT o)
+       (NN clube)
+      )
+      (VP 
+       (VBP teve)
+      )
+      (NP 
+       (NP 
+        (NN lucro)
+       )
+       ou
+       (NP 
+        (NN prejuízo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

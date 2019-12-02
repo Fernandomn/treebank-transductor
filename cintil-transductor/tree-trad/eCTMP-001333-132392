@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS nomeação)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS civis)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN para)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS indústrias)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Defesa)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN para)
+        (NP 
+         (PRP vários)
+         (NP 
+          (NNS serviços)
+          (JJ estratégicos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS matérias)
+         (ADJP 
+          (RB mais)
+          (JJ comentadas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

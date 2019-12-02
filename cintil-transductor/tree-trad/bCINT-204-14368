@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB isso)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS série)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Cosmos)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB atingiu)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (CD três)
+         (CD mil)
+        )
+        (NNS unidades)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

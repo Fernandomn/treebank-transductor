@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ganho)
+    (PP 
+     (IN de)
+     (NP 
+      (NN arrecadação)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NN aumento)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN carga)
+          (PP 
+           (IN de)
+           (NP 
+            (NN impostos)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT os)
+              (NN bancos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB ajudar)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB fechar)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 16.1)
+        (NN bilhões)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NNP FSE)
+      (NP 
+       (NNP Fundo_Social_de_Emergência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

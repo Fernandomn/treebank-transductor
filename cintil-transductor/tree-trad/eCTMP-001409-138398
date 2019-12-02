@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS autarcas)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (NP 
+           (PRP as)
+          )
+          (VB autorizam)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

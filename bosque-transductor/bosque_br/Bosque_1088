@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tricolor)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (DT tantas)
+     (NN decepções)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN temporada)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN finais)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Conmebol)
+       (NP 
+        (NN caça-níqueis)
+        (ADJP 
+         (RB tão)
+         (JJ inexpressivo)
+         (VP 
+          (IN que)
+          (NP 
+           (DT o)
+           (DT próprio)
+           (NNP São_Paulo)
+          )
+          (VP 
+           (VBP inscreveu)
+          )
+          (NP 
+           (RB apenas)
+           (NN jogadores)
+           (ADJP 
+            (JJ jovens)
+           )
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (NP 
+             (PRP se)
+            )
+            (VP 
+             (VBP denominaram)
+            )
+            (NP 
+             (NN Leões)
+            )
+            (PP 
+             (IN ao_invés_de+)
+             (NP 
+              (DT o)
+              (JJ tradicional)
+              (NNP Expressinho)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

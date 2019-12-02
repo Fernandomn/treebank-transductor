@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Portucel)
+     (NNS Industrial)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB voltou)
+      (RB ontem)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB destacar)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (CD 519.968)
+       (NP 
+        (NNS acções)
+        (JJ negociadas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

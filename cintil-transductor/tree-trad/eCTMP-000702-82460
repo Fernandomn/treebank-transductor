@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Delegados)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS América)
+         (NNS Latina)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB manifestaram)
+         )
+         (PP 
+          (IN contra)
+          (NP 
+           (DT a)
+           (NP 
+            (PP sua)
+            (NP 
+             (NNS presença)
+             (PP 
+              (IN em)
+              (NP 
+               (NNS Viena)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB receberam)
+     (NP 
+      (PRP -no)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NNS apupos)
+     )
+    )
+   )
+  )
+ )
+)

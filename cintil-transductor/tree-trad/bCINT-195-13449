@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (JJ velha)
+      (NNS senhora)
+     )
+    )
+    (VP 
+     (VB riu)
+     (RB muito)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB contou)
+      (NP 
+       (NP 
+        (NNS histórias)
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VB cruzam)
+            )
+            (PP 
+             (IN em_)
+             (NP 
+              (DT a)
+              (NP 
+               (JJ própria)
+               (NP 
+                (NNS História)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT os)
+                  (NP 
+                   (CD dois)
+                   (NNS países)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

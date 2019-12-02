@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Exceptuando)
+      (NP 
+       (NP 
+        (DT um)
+       )
+       (NP 
+        (CC ou)
+        (NP 
+         (DT outro)
+         (NNS pormenor)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VB aprovado)
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS contestação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+    (NN decisão)
+   )
+   (VP 
+    (VBP deverá)
+    (VB dar)
+   )
+   (NP 
+    (RB mais_de)
+    (NN US$)
+    (NP 
+     (CD 12)
+     (NN bilhões)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP FSE)
+    )
+   )
+   (PP 
+    (RB só)
+    (IN com)
+    (NP 
+     (NN tributos)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP pertencem)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN União)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

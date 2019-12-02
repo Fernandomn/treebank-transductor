@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Desemprego)
+    (NP 
+     (CC e)
+     (NP 
+      (NNS crise)
+      (JJ industrial)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB discutidos)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Parlamento)
+    )
+   )
+  )
+ )
+)

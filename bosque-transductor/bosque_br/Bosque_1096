@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN respeito)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN história)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diga-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN mal)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT a)
+       (NNP UDN)
+      )
+      (VP 
+       (VBP fez)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN país)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP decorreu)
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (DT seu)
+       (NN moralismo)
+      )
+     )
+     mas
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN amoralidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

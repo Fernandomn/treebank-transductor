@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Conto)
+    (NP 
+     (NP 
+      (NNS histórias)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS personagens)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (PP nosso)
+            (NNS tempo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

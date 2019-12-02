@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP ti)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS escola)
+    )
+    (VP 
+     (VP 
+      (VB seria)
+      (RB sempre)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS escola)
+       (ADJP 
+        (ADJP 
+         (JJ nova)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (PRP muitos)
+          (NP 
+           (NP 
+            (NNS rapazes)
+            (NP 
+             (CC e)
+             (NNS raparigas)
+            )
+           )
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (RB nunca)
+              (VP 
+               (VB viste)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

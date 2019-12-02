@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (S 
+        (VP 
+         (RB Ainda)
+         (VP 
+          (VB há)
+          (NP 
+           (NP 
+            (CD dez)
+            (NNS anos)
+           )
+           (NP 
+            (NP 
+             (CD quinze)
+             (NNS anos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB estavam)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS pé)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

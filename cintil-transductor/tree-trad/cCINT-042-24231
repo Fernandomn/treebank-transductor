@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (JJ única)
+      (NP 
+       (NNS irmã)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP minha)
+          (NNS mãe)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS tia)
+       (NNS Zé)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VB é)
+     (JJ solteira)
+    )
+   )
+  )
+ )
+)

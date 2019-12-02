@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (NNS Hill)
+      )
+     )
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS conquista)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NNS sonho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

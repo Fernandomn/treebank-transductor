@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NNS debate)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (PRP diversas)
+      (NNS actividades)
+     )
+    )
+    (VP 
+     (VB deverão)
+     (VP 
+      (VB ter)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS vertente)
+        (JJ lúdica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS Julho)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ano)
+          (JJ passado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Santana)
+      (NNS Lopes)
+     )
+    )
+    (VP 
+     (VB prometeu)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS fachada)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS Jerónimos)
+          )
+         )
+        )
+       )
+       (VP 
+        (VB ia)
+        (VP 
+         (VP 
+          (VB ser)
+          (VB destapada)
+         )
+         (ADVP 
+          (RB dentro)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS dias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

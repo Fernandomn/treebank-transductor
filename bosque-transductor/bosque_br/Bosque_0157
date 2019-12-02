@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ atual)
+    (NN perfil)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN poupadores)
+     )
+    )
+   )
+   (VP 
+    (VBP ajudará)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB manter)
+     )
+     (NP 
+      (DT o)
+      (NN dinheiro)
+     )
+     (VBN aplicado)
+    )
+   )
+  )
+ )
+)

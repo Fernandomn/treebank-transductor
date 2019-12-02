@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (NP 
+      (NNP Roseana)
+     )
+     (NP 
+      (DT os)
+      (NN senadores)
+     )
+     (NP 
+      (NN deputados)
+     )
+     e
+     (NP 
+      (NN prefeitos)
+     )
+    )
+    (VP 
+     (VBP estão)
+    )
+    (NP 
+     (PRP me)
+    )
+    (VP 
+     (VBG apoiando)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VBP tenhamos)
+     (VBN firmado)
+    )
+    (NP 
+     (DT qualquer)
+     (NN compromisso)
+     (ADJP 
+      (JJ pessoal)
+     )
+    )
+   )
+  )
+ )
+)

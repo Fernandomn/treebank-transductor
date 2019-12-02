@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (CD duas)
+     (NNS fórmulas)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB são)
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (DT isso)
+        )
+       )
+      )
+     )
+     (VB admitidas)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NP 
+        (NNS regime)
+        (JJ legal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

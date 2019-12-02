@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN equipe)
+   )
+   (VP 
+    (VBP enfrenta)
+   )
+   (NP 
+    (DT o)
+    (NN time)
+    (ADJP 
+     (JJ carioca)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 20h30)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN ginásio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Tijuca_Tênis_Clune)
+      )
+     )
+    )
+   )
+  )
+ )
+)

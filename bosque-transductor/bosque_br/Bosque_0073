@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Disse)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP conseguia)
+    )
+    (VP 
+     (VP 
+      (VB vislumbrar)
+     )
+     (NP 
+      (NP 
+       (NN artifícios)
+       (ADJP 
+        (JJ fraudulentos)
+       )
+      )
+      ou
+      (NP 
+       (NN prática)
+       (PP 
+        (IN de)
+        (NP 
+         (NN peculato)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN protocolo)
+       (VP 
+        (VP 
+         (VBN assinado)
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (NNP Quércia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

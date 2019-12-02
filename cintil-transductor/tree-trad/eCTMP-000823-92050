@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS concurso)
+    )
+    (VP 
+     (VB deverá)
+     (VP 
+      (VP 
+       (VB ser)
+       (VB lançado)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT este)
+        (NNS Verão)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS duração)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS obra)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB rondará)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 15)
+        (NNS meses)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

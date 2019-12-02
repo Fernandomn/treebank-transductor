@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Lucas)
+     (NNS Estêvão)
+    )
+   )
+   (VP 
+    (VB adianta)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB é)
+       (JJ provável)
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (PP 
+          (IN em)
+          (NP 
+           (NP 
+            (NNS Março)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (CD próximo)
+               (NNS ano)
+              )
+             )
+            )
+           )
+          )
+         )
+         (VP 
+          (RB já)
+          (VP 
+           (VB haja)
+           (NP 
+            (DT um)
+            (NNS desenlace)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

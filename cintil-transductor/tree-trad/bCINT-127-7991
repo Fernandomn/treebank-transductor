@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Revelou)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NP 
+      (NNS teor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS acto)
+         (JJ processual)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS segredo)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS justiça)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

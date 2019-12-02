@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN número)
+     (PP 
+      (IN de)
+      (NP 
+       (NN visitantes)
+       (ADJP 
+        (JJ pagantes)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN Bienal)
+         (PP 
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN dia)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NN abertura)
+             )
+            )
+            (ADJP 
+             (CD 12)
+             (PP 
+              (IN de)
+              (NP 
+               (NN outubro)
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (IN até)
+           (ADJP 
+            (DT o)
+            (NN dia)
+            (ADJP 
+             (CD 7)
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT este)
+              (NN mês)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (CD 103)
+      (NN mil)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS operação)
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (RB aparentemente)
+        (RB bem)
+       )
+       (VB montada)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB culminou)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS anúncio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS pedido)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS asilo)
+              (JJ político)
+             )
+            )
+           )
+          )
+          (PP 
+           (IN a)
+           (NP 
+            (NNS Portugal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

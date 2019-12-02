@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NNS França)
+  )
+  (VP 
+   (VB quer)
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT a)
+      (NNS UE)
+     )
+     (VP 
+      (VB tenha)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS política)
+         (JJ comercial)
+        )
+        (JJ firme)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

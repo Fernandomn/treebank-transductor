@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS tábua)
+   )
+   (VP 
+    (VB resvalou)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS ladeira)
+     )
+    )
+   )
+  )
+ )
+)

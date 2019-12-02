@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Batalhas)
+     (NNS Conjugais)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS série)
+      (ADJP 
+       (VB criada)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS William)
+          (NNS Finkelstein)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

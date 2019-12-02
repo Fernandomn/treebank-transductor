@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Machado)
+     (NNS de)
+     (NNS Assis)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NP 
+       (JJ grande)
+       (NP 
+        (NNS escritor)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS Américas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

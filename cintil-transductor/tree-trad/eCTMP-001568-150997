@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS início)
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS fase)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS clubes)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB ouvíamos)
+       (RB muito)
+      )
+      (NP 
+       (NP 
+        (NNS jazz)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS John)
+           (NNS Coltrane)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Roy)
+            (NNS Ayers.)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Printemps)
+    (NNS de)
+    (NNS Bourges)
+   )
+  )
+  (VP 
+   (VB chegou)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS fim)
+    )
+   )
+  )
+ )
+)

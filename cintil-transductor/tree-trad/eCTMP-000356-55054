@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS espelho)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB vai)
+        (VP 
+         (VB equipar)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS supertelescópio)
+           (NNS Magalhães)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB começou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (VB construído)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Nada)
+    (ADJP 
+     (JJ comparável)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN shows)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNP Madonna)
+         )
+         (NP 
+          (NNP Michael_Jackson)
+         )
+         e
+         (NP 
+          (NNP Paul_McCartney)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 93)
+      )
+     )
+    )
+   )
+  )
+ )
+)

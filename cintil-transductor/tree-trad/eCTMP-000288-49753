@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Acentuar-CL-ia)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (RB assim)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS diversificação)
+      (ADJP 
+       (JJ estrutural)
+       (ADJP 
+        (CC e)
+        (JJ curricular)
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ensino)
+        (JJ secundário)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

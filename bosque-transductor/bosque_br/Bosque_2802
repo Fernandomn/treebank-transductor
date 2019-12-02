@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN plantio)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN Cerrado)
+     )
+    )
+   )
+   (VP 
+    (VBP atingiu)
+   )
+   (NP 
+    (NP 
+     (CD 5.000)
+     (NN kg)
+     (PP 
+      (IN $/)
+      (NP 
+       (NN ha)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN lavouras)
+       (ADJP 
+        (JJ comerciais)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (RB mais_de)
+     (CD 8.000)
+     (NN kg)
+     (PP 
+      (IN $/)
+      (NP 
+       (NN ha)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN áreas)
+       (ADJP 
+        (JJ experimentais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

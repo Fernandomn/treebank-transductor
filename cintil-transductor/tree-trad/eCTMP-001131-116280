@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esse)
+      (NNS sentido)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Direcção)
+      (NNS de_)
+      (NNS a)
+      (NNS Organização)
+      (NNS Regional)
+      (NNS de)
+      (NNS Setúbal)
+      (NNS de_)
+      (NNS o)
+      (NNS PCP)
+     )
+    )
+    (VP 
+     (VB propôs)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS abolição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS portagem)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Ponte)
+             (NNS 25)
+             (NNS de)
+             (NNS Abril)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

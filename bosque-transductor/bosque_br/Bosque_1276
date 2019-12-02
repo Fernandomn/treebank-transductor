@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Há)
+    (NP 
+     (CD um)
+     (NN mês)
+    )
+   )
+   (VP 
+    (VBP estrelou)
+   )
+   (NP 
+    (NNP Salomé)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Richard_Strauss)
+     )
+    )
+   )
+  )
+ )
+)

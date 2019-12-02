@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS Gobern)
+    )
+   )
+   (VP 
+    (VP 
+     (VB desmentiu)
+     (RB também)
+    )
+    (NP 
+     (NP 
+      (NNS rumores)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS despedimentos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

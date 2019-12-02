@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN contribuintes)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP pagarem)
+     )
+     (NP 
+      (DT seus)
+      (NN tributos)
+      (NP 
+       (NP 
+        (NNP IPTU)
+       )
+       (NP 
+        (NN ISS)
+       )
+      )
+      (ADVP 
+       (RB etc.)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (VP 
+    (VBP sairão)
+   )
+   (VBG ganhando)
+   (VP 
+    (IN pois)
+    (NP 
+     (DT o)
+     (NN cálculo)
+    )
+    (VP 
+     (VBP será)
+     (VBN feito)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP UFM)
+      (PP 
+       (IN de)
+       (NP 
+        (NN R$)
+        (ADJP 
+         (CD 26.54)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

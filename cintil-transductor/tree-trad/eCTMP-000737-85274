@@ -1,0 +1,88 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS pai)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Nuno)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS capitão-tenente)
+       (NNS Mendes)
+       (NNS Calado)
+      )
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (ADVP 
+             (RB cerca)
+             (RB de)
+            )
+            (CD duzentos)
+           )
+           (NP 
+            (NNS portugueses)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB compõem)
+               (NP 
+                (DT a)
+                (NP 
+                 (NNS guarnição)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT a)
+                   (NP 
+                    (NNS fragata)
+                    (NP 
+                     (NNS Vasco)
+                     (NNS de_)
+                     (NNS a)
+                     (NNS Gama)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

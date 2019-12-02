@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PSD)
+   )
+   (VP 
+    (RB logo)
+    (VP 
+     (VB mergulhou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS contabilização)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS perdas)
+           (NP 
+            (CC e)
+            (NNS ganhos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

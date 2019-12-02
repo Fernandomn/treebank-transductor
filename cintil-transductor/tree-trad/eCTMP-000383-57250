@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Portugal)
+    (NNS Fashion)
+   )
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS moda)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Porto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

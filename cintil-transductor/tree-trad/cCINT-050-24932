@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Alexandre)
+    )
+    (VP 
+     (VB voltou)
+     (PP 
+      (IN a)
+      (VB corar)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB balbuciou)
+    )
+   )
+  )
+ )
+)

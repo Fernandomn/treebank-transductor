@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Muitas_vezes)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN vôos)
+     (PP 
+      (RB quase)
+      (IN sem)
+      (NP 
+       (NN escalas)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT algumas)
+    (NN espécies)
+   )
+   (VP 
+    (VBP voam)
+   )
+   (NP 
+    (PP 
+     (RB mais_de)
+     (NP 
+      (CD 10)
+      (NN mil)
+     )
+    )
+    (NN km)
+   )
+   (ADVP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Ártico)
+     )
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (DT a)
+      (NN lagoa)
+     )
+    )
+   )
+  )
+ )
+)

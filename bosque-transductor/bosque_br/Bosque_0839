@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 1962)
+    )
+   )
+   (VP 
+    (VBP publica)
+   )
+   (NP 
+    (NNP Capitalismo_e_Escravidão_no_Brasil_Meridional)
+    (NP 
+     (JJ primeira)
+     (NN obra)
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN autoria)
+      )
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB tornar)
+       )
+       (NP 
+        (NN referência)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT as)
+         (NN ciências)
+         (ADJP 
+          (JJ sociais)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

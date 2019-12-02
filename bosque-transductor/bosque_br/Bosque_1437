@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Cingapura)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN pena)
+    (PP 
+     (IN de)
+     (VBN chibatadas)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ obrigatória)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN tentativa)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN homicídio)
+       )
+       (NP 
+        (NN roubo)
+       )
+       (NP 
+        (NN estupro)
+       )
+       (NP 
+        (NN tráfico)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NN drogas)
+          )
+          e
+          (NP 
+           (NN vandalismo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

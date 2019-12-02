@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Rio)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN diretor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN futebol)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Vasco)
+     )
+    )
+    (NP 
+     (NNP Eurico_Miranda)
+    )
+   )
+   (VP 
+    (VBP confirmou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN seguro)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP foi)
+     (VBN feito)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (DT O)
+       (NP 
+        (NNS excesso)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS álcool)
+         )
+        )
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NNS cansaço)
+       )
+      )
+     )
+     (VP 
+      (VB eram)
+      (NP 
+       (DT as)
+       (NP 
+        (JJ principais)
+        (NP 
+         (NNS preocupações)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS bombeiros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS quartel)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS Portuenses)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (NP 
+       (DT a)
+       (NNS noite)
+      )
+      (VP 
+       (VB foi)
+       (ADJP 
+        (RB muito)
+        (JJ calma)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

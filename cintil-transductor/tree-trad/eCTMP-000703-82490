@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT esta)
+      (NNS vez)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS galardoados)
+    )
+    (VP 
+     (VB foram)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Edward)
+        (NNS Lewis)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Christiane)
+          (NNS Nusllein-Volhard)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Yuet)
+           (NNS Wai)
+           (NNS Kan)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

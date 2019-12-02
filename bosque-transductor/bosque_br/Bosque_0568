@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (NP 
+    (DT uma)
+    (JJ pequena)
+    (NN parcela)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (NP 
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ catastrofista)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN ponto)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB afirmar)
+         )
+         (VP 
+          (IN que)
+          (NP 
+           (NNP Lula)
+          )
+          (ADVP 
+           (RB sequer)
+          )
+          (VP 
+           (VBP conseguirá)
+          )
+          (VP 
+           (VP 
+            (VB tomar)
+           )
+           (NP 
+            (NN posse)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

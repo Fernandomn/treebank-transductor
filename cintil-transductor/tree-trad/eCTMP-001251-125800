@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VB Bastou)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS fusão)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS instituições)
+       )
+      )
+     )
+    )
+   )
+   para que
+   (S 
+    (NP 
+     (DT esse)
+     (NNS entendimento)
+    )
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB pudesse)
+     )
+     (VP 
+      (VB garantir)
+     )
+    )
+   )
+  )
+ )
+)

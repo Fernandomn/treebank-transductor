@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Luzia)
+      (NNS Maria)
+      (NNS Martins)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Manuel)
+        (NNS Coelho)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS Paulo)
+         (NNS Matos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB encenam)
+    (NP 
+     (DT as)
+     (NP 
+      (JJ outras)
+      (NNS produções)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lisboa)
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB defrontou)
+       )
+       (NP 
+        (NP 
+         (NNS Mário)
+         (NNS Palma)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

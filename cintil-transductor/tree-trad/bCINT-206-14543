@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Está)
+      (RB finalmente)
+     )
+     (JJ constituída)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Missão)
+      (NNS para)
+      (NNS a)
+      (NNS Sociedade)
+      (NNS de)
+      (NNS Informação)
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN sob)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS tutela)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ministro)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Ciência)
+             (NNS e)
+             (NNS Tecnologia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

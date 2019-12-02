@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB houve)
+     )
+     (NP 
+      (NNS vítimas)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS moradores)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS rés-do-chão)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (CD primeiro)
+            (NP 
+             (NNS andar)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS edifício)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB tiveram)
+      (PP 
+       (IN de)
+       (VP 
+        (VB ser)
+        (NP 
+         (NNS realojados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

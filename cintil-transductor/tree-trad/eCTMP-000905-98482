@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Estados)
+    (NNS Gerais)
+    (NNS de_)
+    (NNS a)
+    (NNS Educação)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Porto)
+    )
+   )
+  )
+ )
+)

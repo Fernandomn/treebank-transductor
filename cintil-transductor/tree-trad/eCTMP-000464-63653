@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS diploma)
+   )
+   (VP 
+    (VP 
+     (VB aguarda)
+     (RB agora)
+    )
+    (NP 
+     (NP 
+      (NNS publicação)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS Diário)
+         (NNS de_)
+         (NNS a)
+         (NNS República)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

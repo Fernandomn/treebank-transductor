@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Café)
+    (NNS Central)
+   )
+  )
+  (VP 
+   (VB reabre)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS semana)
+      (JJ tauromáquica)
+     )
+    )
+   )
+  )
+ )
+)

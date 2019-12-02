@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN saída)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN meia-ponta)
+     )
+    )
+   )
+   (VP 
+    (VBP representa)
+   )
+   (NP 
+    (DT uma)
+    (NN perda)
+    (ADJP 
+     (JJ importante)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN time)
+    )
+   )
+  )
+ )
+)

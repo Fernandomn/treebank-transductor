@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Esperava)
+   )
+   (VP 
+    (VP 
+     (VB aparecer)
+    )
+    (ADVP 
+     (RB como)
+     (NP 
+      (DT o)
+      (JJ único)
+      (NN responsável)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN plano)
+        (PP 
+         (IN de)
+         (NP 
+          (NN estabilização)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

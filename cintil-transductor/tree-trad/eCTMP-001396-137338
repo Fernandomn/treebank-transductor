@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Odeio)
+     (RB violentamente)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS heroísmo)
+       (PP 
+        (IN a)
+        (NP 
+         (NNS pedido)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS violência)
+         (JJ gratuita)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS nacionalismo)
+          (JJ idiota)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

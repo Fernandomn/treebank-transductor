@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS socialistas)
+     (JJ europeus)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB têm)
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS verdade)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS caminho)
+       (JJ fácil)
+      )
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS frente)
+     )
+    )
+   )
+  )
+ )
+)

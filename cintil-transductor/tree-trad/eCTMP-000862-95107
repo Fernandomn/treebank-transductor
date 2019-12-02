@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Danny)
+      (NNS Goldberg)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS vice-presidente)
+        (NNS de_)
+        (NNS a)
+        (NNS Atlantic)
+        (NNS Records)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS presidente)
+         (NNS de_)
+         (NNS a)
+         (NNS Associação)
+         (NNS de_)
+         (NNS as)
+         (NNS Liberdades)
+         (NNS Cívicas)
+         (NNS Americanas)
+         (NNS de_)
+         (NNS a)
+         (NNS Califórnia)
+         (NNS de_)
+         (NNS o)
+         (NNS Sul)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VB disse)
+  )
+ )
+)

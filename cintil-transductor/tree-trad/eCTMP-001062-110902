@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Porém)
+   )
+   (S 
+    (NP 
+     (DT este)
+     (NP 
+      (JJ gigantesco)
+      (NP 
+       (NP 
+        (NNS aparelho)
+        (JJ circulatório)
+       )
+       (JJ subterrâneo)
+      )
+     )
+    )
+    (VP 
+     (VB começa)
+     (PP 
+      (IN a)
+      (VP 
+       (VB sentir)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS efeitos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS mudanças)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB ocorrem)
+               (PP 
+                (IN em_)
+                (NP 
+                 (DT a)
+                 (NNS Rússia)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

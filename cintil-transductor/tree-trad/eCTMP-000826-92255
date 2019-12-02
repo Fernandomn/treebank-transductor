@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vamos)
+    (VP 
+     (VP 
+      (VB fazer)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS tipologia)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS casos)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN a)
+       (IN partir)
+       (IN de)
+      )
+      (NP 
+       (NP 
+        (NNS informações)
+        (ADJP 
+         (VB veiculadas)
+         (PP 
+          (IN por)
+          (NP 
+           (NP 
+            (NNS Nuno)
+            (NNS Nazareth)
+            (NNS Fernandes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

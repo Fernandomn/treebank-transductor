@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Em_)
+    (RB o)
+    (RB entanto)
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS opinião)
+        (PP 
+         (IN de)
+         (NP 
+          (PRP vários)
+          (NNS psicólogos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT estas)
+     )
+     (VP 
+      (RB também)
+      (VP 
+       (VB influenciam)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS comportamento)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (PP seus)
+            (NNS educadores)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

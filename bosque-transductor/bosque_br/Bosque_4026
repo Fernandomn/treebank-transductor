@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Julie_Halard)
+   )
+   (VP 
+    (VBP causa)
+   )
+   (NP 
+    (DT a)
+    (JJ primeira)
+    (NN surpresa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Masters)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN tênis)
+        (ADJP 
+         (JJ feminino)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

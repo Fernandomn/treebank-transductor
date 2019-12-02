@@ -1,0 +1,94 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (RB Não)
+         (VB é)
+        )
+        (JJ grande)
+       )
+      )
+      (S 
+       (S 
+        (S 
+         (S 
+          (VP 
+           (VB é)
+           (NP 
+            (NNS verdade)
+           )
+          )
+         )
+        )
+        (S 
+         (CC mas)
+         (S 
+          (NP 
+           (DT os)
+           (NNS espaços)
+          )
+          (VP 
+           (VP 
+            (VB estão)
+            (ADVP 
+             (RB muito)
+             (RB bem)
+            )
+           )
+           (JJ aproveitados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS António)
+       (NNS Dias)
+      )
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS funcionário)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS consulado)
+            (JJ português)
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS Rio)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

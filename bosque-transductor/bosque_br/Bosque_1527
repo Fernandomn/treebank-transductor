@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pesquisadores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP Estados_Unidos)
+     )
+    )
+   )
+   (VP 
+    (VBP concluem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN medicamento)
+    )
+    (VP 
+     (VBP consegue)
+    )
+    (NP 
+     (JJ bons)
+     (NN resultados)
+    )
+    (ADVP 
+     (RB a_longo_prazo)
+    )
+   )
+  )
+ )
+)

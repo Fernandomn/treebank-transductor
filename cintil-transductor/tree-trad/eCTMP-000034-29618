@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Poderá)
+     (VP 
+      (VB recorrer)
+      (PP 
+       (IN a)
+       (NP 
+        (PRP elas)
+       )
+      )
+     )
+    )
+    (CC mesmo)
+    (CC que)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB estejam)
+      )
+      (ADJP 
+       (VB sediadas)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Portugal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

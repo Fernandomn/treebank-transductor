@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (ADVP 
+      (RB Portanto)
+     )
+     (S 
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (JJ próxima)
+         (NNS semana)
+        )
+       )
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT o)
+        (NP 
+         (PP nosso)
+         (NNS limite)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB insistiu)
+    )
+   )
+  )
+ )
+)

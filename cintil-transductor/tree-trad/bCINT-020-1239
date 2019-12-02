@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vai)
+     (VP 
+      (VB ser)
+      (JJ possível)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (JJ maior)
+      (NP 
+       (NP 
+        (NNS convívio)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS cidadãos)
+         )
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS vias)
+          (ADJP 
+           (RB hoje)
+           (JJ impossíveis)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

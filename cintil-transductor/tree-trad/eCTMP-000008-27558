@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministros)
+    (JJ europeu)
+   )
+  )
+  (VP 
+   (VB aprovam)
+   (NP 
+    (NP 
+     (NNS lei)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS assistência)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS família)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

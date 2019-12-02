@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Enfermeiro)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN designação)
+    (ADJP 
+     (JJ válida)
+     (PP 
+      (RB apenas)
+      (IN para)
+      (VP 
+       (NP 
+        (PRP quem)
+       )
+       (VP 
+        (VBP concluiu)
+       )
+       (NP 
+        (DT o)
+        (NN curso)
+        (ADJP 
+         (JJ superior)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN enfermagem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

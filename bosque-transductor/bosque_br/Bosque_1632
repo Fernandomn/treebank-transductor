@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNP Lee_Iacocca)
+   (NP 
+    (NN executivo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN indústria)
+      (ADJP 
+       (JJ automobilística)
+      )
+     )
+    )
+   )
+  )
+ )
+)

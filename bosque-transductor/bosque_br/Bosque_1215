@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NNP Bulletin_Board_Systems)
+    (NP 
+     (NNP BBS)
+    )
+   )
+   (VP 
+    (VBP estão)
+    (VBG oferecendo)
+   )
+   (NP 
+    (DT um)
+    (JJ novo)
+    (NN serviço)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (DT seus)
+     (NN usuários)
+    )
+    (NP 
+     (DT a)
+     (NN conexão)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN rede)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN redes)
+         (NP 
+          (DT a)
+          (NNP InterNet)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

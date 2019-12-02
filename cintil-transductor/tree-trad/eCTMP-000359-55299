@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS Roménia)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NNS equipas)
+           (ADJP 
+            (RB mais)
+            (JJ fortes)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Europa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

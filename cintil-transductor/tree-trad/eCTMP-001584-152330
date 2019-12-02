@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aqui)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS estética)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS grotesco)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (ADJP 
+       (RB quase)
+       (JJ celebratória)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NP 
+         (JJ exaltada)
+         (NNS teatralidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

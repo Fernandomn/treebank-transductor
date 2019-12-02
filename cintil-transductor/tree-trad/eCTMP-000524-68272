@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Câmara)
+   )
+   (VP 
+    (VB afirma)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB é)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Governo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

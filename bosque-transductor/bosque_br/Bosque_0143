@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Caio)
+   )
+   (VP 
+    (VBP entra)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN lugar)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Catê)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN caso)
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP seja)
+     (VBN suspenso)
+    )
+    (ADVP 
+     (RB hoje)
+    )
+    (ADVP 
+     (RB pela_manhã)
+    )
+   )
+  )
+ )
+)

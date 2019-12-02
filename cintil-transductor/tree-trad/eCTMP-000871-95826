@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB São)
+      (NP 
+       (NP 
+        (NNS doenças)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (JJ longa)
+           (NNS duração)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (S 
+        (NP 
+         (DT o)
+         (NNS tratamento)
+        )
+        (VP 
+         (VB pode)
+         (VP 
+          (VB durar)
+          (NP 
+           (NNS anos)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (VP 
+         (VB é)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS tratamento)
+           (JJ efectivo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

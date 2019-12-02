@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lambari_d'_Oeste)
+    (NP 
+     (CD 5.000)
+     (NN habitantes)
+    )
+   )
+   (VP 
+    (VBP virou)
+   )
+   (NP 
+    (NN município)
+   )
+   (PP 
+    (IN há)
+    (NP 
+     (CD dois)
+     (NN anos)
+    )
+   )
+  )
+ )
+)

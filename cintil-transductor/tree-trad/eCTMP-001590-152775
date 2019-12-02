@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Dois)
+       (NNS anos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT estes)
+     (NNS sentimentos)
+    )
+    (VP 
+     (VP 
+      (VB continuam)
+      (JJ patentes)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS rosto)
+         (JJ magro)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Petersen)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (VP 
+       (VP 
+        (VB houvesse)
+        (NP 
+         (NNS eleições)
+        )
+       )
+       (RB amanhã)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Yitzhak)
+      (NNS Rabin)
+     )
+    )
+    (VP 
+     (VB ganharia)
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS dificuldades)
+      )
+     )
+    )
+   )
+  )
+ )
+)

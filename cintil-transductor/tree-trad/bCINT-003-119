@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS forças)
+     (JJ iranianas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB intervieram)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS acção)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB bombardeando)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS posições)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS PDC)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN a)
+         (IN partir)
+         (IN de)
+        )
+        (NP 
+         (NP 
+          (NNS bases)
+          (JJ iranianas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

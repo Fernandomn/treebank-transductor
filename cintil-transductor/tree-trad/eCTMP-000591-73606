@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Nós)
+     )
+     (VP 
+      (VB estamos)
+      (PP 
+       (IN a)
+       (VP 
+        (VB representar)
+        (NP 
+         (PRP -vos)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (NP 
+       (DT isto)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (NP 
+         (DT um)
+         (NNS espelho)
+        )
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS teatro)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS espelho)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

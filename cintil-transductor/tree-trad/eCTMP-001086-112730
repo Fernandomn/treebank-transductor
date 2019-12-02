@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Três)
+       (NNS anos)
+      )
+     )
+     (RB depois)
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (NP 
+       (NNS assistente)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ mesma)
+          (NNS cadeira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

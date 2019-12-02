@@ -1,0 +1,105 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN programa)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NNP 2ª_Guerra_Mundial)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP traz)
+     )
+     (NP 
+      (NN informações)
+      (PP 
+       (IN sobre)
+       (NP 
+        (CD 2.100)
+        (NN eventos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP tem)
+     )
+     (UCP 
+      (NP 
+       (CD 900)
+       (NN fotos)
+      )
+      e
+      (NP 
+       (CD 140)
+       (NN mapas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN batalhas)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VBG permitindo)
+       )
+       (VP 
+        (VP 
+         (VB estudar)
+        )
+        (UCP 
+         (NP 
+          (DT as)
+          (NN táticas)
+          (VP 
+           (VP 
+            (VBN usadas)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT a)
+             (NN guerra)
+            )
+           )
+          )
+         )
+         (IN além_de)
+         (NP 
+          (NP 
+           (NP 
+            (NN textos)
+           )
+           e
+           (NP 
+            (NN vídeos)
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN gravações)
+            (ADJP 
+             (JJ originais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

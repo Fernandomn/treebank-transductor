@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Trabalho)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS laboratórios)
+       (JJ fotográficos)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB satisfaz)
+   )
+   (NP 
+    (DT os)
+    (NNS consumidores)
+   )
+  )
+ )
+)

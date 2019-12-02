@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS história)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ antiga)
+     )
+     (CONJP 
+      (CC que)
+      (NP 
+       (DT a)
+       (NNS nacionalidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

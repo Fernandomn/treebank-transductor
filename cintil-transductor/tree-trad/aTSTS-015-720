@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Maria)
+   )
+   (VP 
+    (VP 
+     (VB desforrou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS criança)
+     )
+    )
+   )
+  )
+ )
+)

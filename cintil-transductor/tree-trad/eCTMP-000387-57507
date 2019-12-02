@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ certo)
+       (NNS sentido)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB trata)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS problema)
+       (JJ secundário)
+      )
+     )
+    )
+   )
+  )
+ )
+)

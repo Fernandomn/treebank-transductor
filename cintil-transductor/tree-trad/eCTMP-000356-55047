@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Proteste)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT as)
+       (NNS instruções)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VB são)
+         (RB excessivamente)
+        )
+        (VB resumidas)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (PRP algumas)
+         (NP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS embalagens)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC ou)
+     (S 
+      (VP 
+       (VB estão)
+       (ADJP 
+        (RB mesmo)
+        (JJ ausentes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

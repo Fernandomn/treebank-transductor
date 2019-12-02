@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Espera)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS abertura)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NNS processo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

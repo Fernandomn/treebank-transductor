@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN dianteira)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN freio)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN disco)
+     (VBN ventilado)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 320)
+       (NN mm)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN pistão)
+     (ADJP 
+      (JJ duplo)
+     )
+    )
+   )
+  )
+ )
+)

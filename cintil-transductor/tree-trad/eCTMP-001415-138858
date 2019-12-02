@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (RB Aliás)
+   (S 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS perspectiva)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Branco)
+           (NNS Rodrigues)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (NP 
+       (DT os)
+       (NNS objectivos)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VP 
+          (VB foram)
+          (RB perfeitamente)
+         )
+         (VB cumpridos)
+        )
+       )
+       (CC uma)
+       (CC vez)
+       (CC que)
+       (S 
+        (S 
+         (VB existem)
+         (NP 
+          (CD 5131)
+          (NP 
+           (JJ novos)
+           (NNS accionistas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

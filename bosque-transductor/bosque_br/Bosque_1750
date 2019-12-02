@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN diretor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP DRFVAT)
+      (NP 
+       (NNP Leonilson_Ribeiro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN presença)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN militares)
+       )
+       e
+       (NP 
+        (NN policiais)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN ruas)
+      )
+     )
+    )
+    (VP 
+     (VBP causou)
+    )
+    (NP 
+     (DT a)
+     (NN diminuição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN número)
+       (PP 
+        (IN de)
+        (NP 
+         (NN carros)
+         (VP roubados e
+          (VBN furtados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

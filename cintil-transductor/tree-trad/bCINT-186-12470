@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NNS PROGRAMA)
+  )
+  (VP 
+   (VP 
+    (VB ARRANCA)
+    (RB HOJE)
+   )
+   (PP 
+    (IN EM_)
+    (NP 
+     (DT O)
+     (NP 
+      (NNS CONTINENTE)
+      (NP 
+       (CC E)
+       (NNS ILHAS)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Adjudicação)
+     (PP 
+      (IN a)
+      (NP 
+       (NP 
+        (NNS empresas)
+        (JJ privadas)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS conservação)
+       (PP 
+        (IN de)
+        (NP 
+         (PRP vários)
+         (NP 
+          (NNS espaços)
+          (JJ ajardinados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

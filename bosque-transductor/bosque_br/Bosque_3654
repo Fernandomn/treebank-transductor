@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Estão)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT esse)
+     (NN grupo)
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Ricardo_Fiuza)
+     (NP 
+      (NNP PFL-PE)
+     )
+    )
+    (NP 
+     (NNP João_Alves)
+     (PP 
+      (IN sem)
+      (NP 
+       (NN partido)
+       (NP 
+        (NNP BA)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Cid_Carvalho)
+     (NP 
+      (NNP PMDB-MA)
+     )
+    )
+    (NP 
+     (NNP José_Geraldo)
+     (NP 
+      (NNP PMDB-MG)
+     )
+    )
+    (NP 
+     (NNP Manoel_Moreira)
+     (NP 
+      (NNP PMDB-SP)
+     )
+    )
+    (NP 
+     (NNP Fábio_Raunheitti)
+     (NP 
+      (NNP PTB-RJ)
+     )
+    )
+    (NP 
+     (NNP Ézio_Ferreira)
+     (NP 
+      (NNP PFL-AM)
+     )
+    )
+    e
+    (NP 
+     (NNP Paulo_Portugal)
+     (NP 
+      (NNP PP-RJ)
+     )
+    )
+   )
+  )
+ )
+)

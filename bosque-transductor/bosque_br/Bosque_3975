@@ -1,0 +1,43 @@
+(
+ (S 
+  (NP 
+   (NNP Bruno_Fortunato)
+   (NP 
+    (DT A)
+    (NN gente)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (NN músicas)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP dão)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB tocar)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN violão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

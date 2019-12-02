@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Guterres)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB foge)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS questão)
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC quando)
+       (VP 
+        (VB questionado)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT os)
+          (NNS jornalistas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB resolve)
+       (NP 
+        (PRP -a)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS forma)
+         (ADJP 
+          (RB mais)
+          (JJ prosaica)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

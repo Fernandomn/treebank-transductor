@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Actualmente)
+    )
+    (VP 
+     (VB atravessa)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS jejum)
+        (PP 
+         (IN de)
+         (NP 
+          (CD cinco)
+          (NNS anos)
+         )
+        )
+       )
+       (PP 
+        (IN sem)
+        (NP 
+         (PRP qualquer)
+         (NNS triunfo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

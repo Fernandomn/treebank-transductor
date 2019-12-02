@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Comecemos)
+    (PP 
+     (IN por)
+     (NP 
+      (PRP algumas)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS mudanças)
+          (ADJP 
+           (VB operadas)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS nomenklatura)
+              (JJ russa)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

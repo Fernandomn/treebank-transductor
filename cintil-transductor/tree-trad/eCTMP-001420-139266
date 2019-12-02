@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT O)
+    (NNS corpo)
+   )
+   (NP 
+    (CC ou)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS lugares)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (PRP ele)
+        )
+        (VP 
+         (VB habita)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

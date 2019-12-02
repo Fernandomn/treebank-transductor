@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+       (NNS altura)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS livros)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB escreveram)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (VB publicados)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS português)
+      )
+     )
+    )
+   )
+  )
+ )
+)

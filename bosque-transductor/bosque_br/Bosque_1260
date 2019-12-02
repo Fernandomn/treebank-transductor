@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN patrimônio)
+   )
+   (VP 
+    (VBP era)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN CR$)
+     (NP 
+      (CD 26.3)
+      (NN trilhões)
+     )
+     (ADJP 
+      (JJ equivalentes)
+      (PP 
+       (IN a)
+       (NP 
+        (NN US$)
+        (NP 
+         (CD 16.3)
+         (NN bilhões)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 6.9)
+      (NN bilhões)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN fundões)
+       (ADJP 
+        (JJ tradicionais)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP vêm)
+         (VBG encolhendo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

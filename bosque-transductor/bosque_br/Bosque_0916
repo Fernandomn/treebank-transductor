@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN sínodo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Igreja)
+      (ADJP 
+       (JJ Católica)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP concluiu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN freiras)
+    )
+    (VP 
+     (VBP devem)
+     (VB ter)
+    )
+    (NP 
+     (JJ maior)
+     (NP 
+      (NP 
+       (NN poder)
+      )
+      e
+      (NP 
+       (NN responsabilidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

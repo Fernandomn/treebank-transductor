@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS marca)
+       (CONJP 
+        (PP 
+         (IN com)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB chegará)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT o)
+             (NNS mercado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB parece)
+      (VP 
+       (RB já)
+       (VP 
+        (VB estar)
+        (JJ escolhida)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (RB também)
+      (NP 
+       (DT esta)
+       (NNS questão)
+      )
+     )
+     (VP 
+      (VP 
+       (VB fica)
+       (ADVP 
+        (RB para)
+        (RB já)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS segredo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

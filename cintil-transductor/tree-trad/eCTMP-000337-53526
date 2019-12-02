@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Registou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (RB também)
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS aumento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS importação)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS bens)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS consumo)
+             )
+            )
+           )
+           (NP 
+            (CC e)
+            (NNS combustíveis)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

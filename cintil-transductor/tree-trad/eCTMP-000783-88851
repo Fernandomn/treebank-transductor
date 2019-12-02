@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS José)
+        (NNS Sousa)
+       )
+      )
+      (NP 
+       (NP 
+        (CD 36)
+        (NNS anos)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS motorista)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS autocarro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS vítima)
+      (JJ mortal)
+     )
+    )
+   )
+  )
+ )
+)

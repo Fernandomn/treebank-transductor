@@ -1,0 +1,102 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Parte)
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (DT o)
+     (NN tricolor)
+    )
+    (VP 
+     (VBP entrou)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN campo)
+      (VP 
+       (ADVP 
+        (RB mal)
+       )
+       (VP 
+        (VBN escalado)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNP Telê)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP tentou)
+          )
+          (VP 
+           (VP 
+            (VB consertar)
+           )
+           (ADVP 
+            (RB logo)
+            (RB após)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (NP 
+              (DT a)
+              (NN entrada)
+              (PP 
+               (IN de)
+               (NP 
+                (NNP Vítor)
+               )
+              )
+              (PP 
+               (IN em+)
+               (NP 
+                (DT a)
+                (NN lateral)
+               )
+              )
+             )
+             e
+             (NP 
+              (DT a)
+              (NN passagem)
+              (PP 
+               (IN de)
+               (NP 
+                (NNP Cafu)
+               )
+              )
+              (PP 
+               (IN para)
+               (NP 
+                (DT o)
+                (NN lugar)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNP Jamelli)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

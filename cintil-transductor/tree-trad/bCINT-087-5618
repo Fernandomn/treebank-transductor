@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PÚBLICO)
+   )
+   (VP 
+    (VB tentou)
+    (VP 
+     (VB obter)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS comentário)
+       (JJ social-democrata)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (NP 
+        (DT o)
+        (NNS trânsito)
+       )
+       (VP 
+        (VB começou)
+        (PP 
+         (IN a)
+         (VB fluir)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (PRP todas)
+      (NP 
+       (DT as)
+       (NNS ruas)
+      )
+     )
+     (VP 
+      (VB estavam)
+      (JJ sinalizadas)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Acha)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP foi)
+     (VBN escolhido)
+    )
+    (VP 
+     (RB como)
+     (NP 
+      (NN suplente)
+     )
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (DT sua)
+      (NN imagem)
+      (ADJP 
+       (JJ empresarial)
+      )
+      (VP 
+       (VP 
+        (VBN formada)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (ADJP 
+          (RB mais_de)
+          (CD 50)
+         )
+         (NN anos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Pessoalmente)
+    )
+    (VP 
+     (VBP prefiro)
+    )
+    (NP 
+     (DT um)
+     (NN tribunal)
+     (ADJP 
+      (JJ internacional)
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB dependermos)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN tribunais)
+        (ADJP 
+         (JJ nacionais)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Ruanda)
+         )
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP terão)
+         )
+         (NP 
+          (NN dificuldade)
+          (PP 
+           (IN em)
+           (VP 
+            (VP 
+             (VB ser)
+            )
+            (ADJP 
+             (JJ imparciais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN professor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN direito)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Costa_do_Marfim)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Alberto_Helena_Jr.)
+    (ADJP 
+     (CD 52)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN colunista)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Folha)
+     )
+    )
+   )
+  )
+ )
+)

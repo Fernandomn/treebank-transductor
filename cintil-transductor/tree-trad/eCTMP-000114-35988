@@ -1,0 +1,51 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS The)
+       (NNS Orchestra)
+      )
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Zbig)
+         (NNS Ribczynski)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS The)
+        (NNS Passing)
+       )
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Bill)
+          (NNS Viola)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

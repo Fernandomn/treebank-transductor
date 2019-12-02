@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Ricardo_Jordão)
+     (NP 
+      (NN gerente)
+      (PP 
+       (IN de)
+       (NP 
+        (NN marketing)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Brasoftware)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN produto)
+    (VP 
+     (VP 
+      (VBN entregue)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN máximo)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD 15)
+       (NN dias)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP sai)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT um)
+     (NN preço)
+     (ADJP 
+      (JJ similar)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN importação)
+        (VP 
+         (VP 
+          (VBN feita)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN usuário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

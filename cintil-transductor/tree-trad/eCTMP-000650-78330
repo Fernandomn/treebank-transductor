@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (CD Sessenta)
+      (CD e)
+      (CD sete)
+     )
+     (NP 
+      (NN por)
+      (NN cento)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB atribuem)
+     (NP 
+      (DT este)
+      (NNS desfasamento)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS nota)
+       (ADJP 
+        (VB obtida)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS PGA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

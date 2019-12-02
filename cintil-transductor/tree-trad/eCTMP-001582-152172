@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS autor)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Bad)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB não)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB pronuncia)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VB Existiu)
+   (NP 
+    (NP 
+     (NNS carga)
+     (PP 
+      (PP 
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT o)
+         (NNS checo)
+        )
+       )
+      )
+      (ADVP 
+       (CC mas)
+       (ADVP 
+        (RB fora)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS área)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS CONVERSAS)
+    (PP 
+     (IN DE)
+     (NP 
+      (NP 
+       (NNS AGOSTINHO)
+       (NNS de_)
+       (NNS a)
+       (NNS SILVA)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB MANTÊM)
+   (NP 
+    (NP 
+     (NNS FRESCURA)
+     (NP 
+      (CC E)
+      (NNS ACTUALIDADE)
+     )
+    )
+   )
+  )
+ )
+)

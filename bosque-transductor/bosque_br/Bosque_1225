@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN texto)
+     (VP 
+      (VP 
+       (VBN publicado)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Mais!)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN autores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN livro)
+     )
+    )
+   )
+   (VP 
+    (VBP afirmam)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN pontuações)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP QI)
+      )
+     )
+    )
+    (VP 
+     (VBP aumentam)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN status)
+      (ADJP 
+       (JJ econômico)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT ambas)
+      (DT as)
+      (NN raças)
+     )
+    )
+   )
+  )
+ )
+)

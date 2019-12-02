@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN delegado)
+   )
+   (VP 
+    (VBP informa)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (VP 
+      (VBP foi)
+      (VBN aberta)
+     )
+     (NP 
+      (NN sindicância)
+      (ADJP 
+       (JJ interna)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN ministério)
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB tentar)
+        )
+        (VP 
+         (VP 
+          (VB apurar)
+         )
+         (NP 
+          (DT o)
+          (NN caso)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (IN que)
+     (NP 
+      (DT a)
+      (NNP Polícia_Federal)
+     )
+     (VP 
+      (VBP deverá)
+     )
+     (ADVP 
+      (RB também)
+     )
+     (VP 
+      (VB abrir)
+     )
+     (NP 
+      (DT um)
+      (NN inquérito)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   Mesmo que
+   (S 
+    (VB quisessem)
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS pessoas)
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB estavam)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS parque)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB conseguiam)
+     )
+     (VP 
+      (VP 
+       (VB ficar)
+       (JJ indiferentes)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS situação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

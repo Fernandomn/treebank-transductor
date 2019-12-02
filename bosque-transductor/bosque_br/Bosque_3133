@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Acho)
+    )
+    (ADJP 
+     (JJ absurdo)
+    )
+    (VP 
+     (NP 
+      (DT um)
+      (NN político)
+     )
+     (VP 
+      (VB pagar)
+     )
+     (NP 
+      (PRP alguém)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB gritar)
+       )
+       (NP 
+        (DT seu)
+        (NN nome)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP reclama)
+   )
+  )
+ )
+)

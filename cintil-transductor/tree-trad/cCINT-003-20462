@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tocara)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS intervalo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS almoço)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Usava)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS relógio)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS pulso)
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (JJ castanho)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS marca)
+          (NP 
+           (NNS Styito)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

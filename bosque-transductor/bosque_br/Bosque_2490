@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PP 
+     (IN De+)
+     (RB aí)
+    )
+    (DT os)
+    (NN nomes)
+    (PP 
+     (IN de)
+     (NP 
+      (NN insetos)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP nós)
+     )
+    )
+   )
+   (VP 
+    (VBP continua)
+   )
+   (NP 
+    (NNP Ann_Marie)
+   )
+  )
+ )
+)

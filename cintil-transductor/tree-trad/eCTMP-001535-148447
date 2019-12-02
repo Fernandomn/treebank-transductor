@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (RB sobretudo)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS filósofo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS lado)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS política)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (JJ teórico)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS sociedade)
+           (JJ contemporânea)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

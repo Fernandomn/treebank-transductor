@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (IN De_)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ principais)
+       (NP 
+        (NP 
+         (NNS forças)
+         (JJ políticas)
+        )
+        (JJ locais)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (RB apenas)
+      (NP 
+       (DT a)
+       (NNS CDU)
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB tem)
+       )
+       (RB ainda)
+      )
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS posição)
+        (JJ definitiva)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS vereador)
+        (JJ comunista)
+       )
+       (NP 
+        (NNS David)
+        (NNS Mendes)
+       )
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB defendeu)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS referendo)
+          (JJ local)
+         )
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT o)
+           (NNS assunto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

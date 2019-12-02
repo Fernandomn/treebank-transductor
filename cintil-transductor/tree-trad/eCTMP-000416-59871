@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS contrário)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB parecem)
+             (VP 
+              (VB ser)
+             )
+            )
+            (NP 
+             (DT as)
+             (NP 
+              (NP 
+               (NNS intenções)
+               (JJ governamentais)
+              )
+              (ADJP 
+               (ADJP 
+                (RB ontem)
+                (ADJP 
+                 (VB divulgadas)
+                 (PP 
+                  (IN por_)
+                  (NP 
+                   (DT o)
+                   (NNS PÚBLICO)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

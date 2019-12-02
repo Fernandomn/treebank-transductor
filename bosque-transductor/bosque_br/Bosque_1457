@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foram)
+    (VBN recebidos)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN semana)
+     (VBN passada)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Detroit)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Alex_Trotman)
+     (NP 
+      (JJ principal)
+      (NN executivo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Ford)
+        (NP 
+         (NN norte-americana)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

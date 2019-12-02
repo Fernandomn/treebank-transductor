@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN documentos)
+   )
+   (VP 
+    (VBP indicam)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN primeira-dama)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NNP EUA)
+      )
+     )
+    )
+    (VP 
+     (VBP estava)
+    )
+    (VP 
+     (ADVP 
+      (RB mais)
+     )
+     (VP 
+      (VBN envolvida)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN dia-a-dia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN administração)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN firma)
+          )
+         )
+        )
+       )
+      )
+     )
+     (ADVP 
+      (VP 
+       (IN do_que)
+       (VP 
+        (VBP fora)
+        (VBN admitido)
+       )
+       (PP 
+        (IN até)
+        (RB agora)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

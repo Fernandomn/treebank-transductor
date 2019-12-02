@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN funcionários)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN universidade)
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN greve)
+    )
+   )
+   (PP 
+    (IN desde)
+    (NP 
+     (DT o)
+     (JJ último)
+     (NN dia)
+     (ADJP 
+      (CD 19)
+     )
+    )
+   )
+  )
+ )
+)

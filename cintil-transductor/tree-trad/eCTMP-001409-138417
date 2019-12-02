@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ outro)
+     (NP 
+      (NNS membro)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS AWB)
+       )
+      )
+     )
+    )
+   )
+   (VB rematou)
+  )
+ )
+)

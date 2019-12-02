@@ -1,0 +1,113 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN cabo)
+    (VP 
+     (VP 
+      (VBP ensinam)
+     )
+     (NP 
+      (DT os)
+      (NN dicionários)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN faixa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN terra)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP entra)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN mar)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN oposto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN fiorde)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP é)
+        )
+        (NP 
+         (DT uma)
+         (NN porção)
+         (PP 
+          (IN de)
+          (NP 
+           (NN mar)
+          )
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP avança)
+          )
+          (PP 
+           (IN por+)
+           (NP 
+            (DT o)
+            (NN continente)
+           )
+          )
+         )
+        )
+        (VP 
+         (ADVP 
+          (RB como)
+         )
+         (VP 
+          (VBP acontece)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNP Noruega)
+            )
+            e
+            (NP 
+             (NNP Suécia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN Em_)
+        (NP 
+         (DT o)
+         (NNS princípio)
+        )
+       )
+      )
+      (VP 
+       (VB inspirava)
+       (NP 
+        (NNS desconfiança)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB agora)
+      (VP 
+       (RB já)
+       (VP 
+        (VB é)
+        (NP 
+         (DT um)
+         (NNS hábito)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

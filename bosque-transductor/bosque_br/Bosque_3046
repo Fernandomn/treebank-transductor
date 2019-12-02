@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Vendendo)
+    )
+    (NP 
+     (DT cada)
+     (NN sala)
+     (ADJP 
+      (JJ especial)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT um)
+      (NN patrocinador)
+      (ADJP 
+       (JJ exclusivo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP demos)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT um)
+    (NN retorno)
+    (ADJP 
+     (ADVP 
+      (RB muito)
+      (RB mais)
+     )
+     (JJ palpável)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NN anúncios)
+       (PP 
+        (IN em)
+        (NP 
+         (NN meios)
+         (PP 
+          (IN de)
+          (NP 
+           (NN comunicação)
+          )
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (DT o)
+       (NN abatimento)
+       (PP 
+        (IN de)
+        (NP 
+         (NN impostos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

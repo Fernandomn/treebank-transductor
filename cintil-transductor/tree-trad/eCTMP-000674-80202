@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (PRP muitos)
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB já)
+        (VP 
+         (VB podiam)
+         (VP 
+          (VB andar)
+          (PP 
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NP 
+              (CD quarta)
+              (NNS classe)
+             )
+            )
+           )
+           (PP 
+            (CC ou)
+            (PP 
+             (RB mesmo)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT o)
+               (NP 
+                (NP 
+                 (CD quinto)
+                )
+                (NP 
+                 (CC ou)
+                 (NP 
+                  (CD sexto)
+                  (NNS ano)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Está)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS frente)
+       (PP 
+        (IN de_)
+        (NP 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Expo)
+           (NNS Urbe)
+          )
+         )
+         (NP 
+          (NP 
+           (NNS empresa)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS universo)
+              (NP 
+               (NNS Parque)
+               (NNS Expo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

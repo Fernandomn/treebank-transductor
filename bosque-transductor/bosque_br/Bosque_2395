@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN período)
+     (ADJP 
+      (RB mais)
+      (JJ seco)
+     )
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (NP 
+       (DT as)
+       (NN chuvas)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP passam)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (CD dez)
+        (NN milímetros)
+        (PP 
+         (IN $/)
+         (NP 
+          (NN mês)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN produtores)
+   )
+   (VP 
+    (VBP plantam)
+   )
+   (NP 
+    (NN soja)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP exige)
+     )
+     (NP 
+      (DT menos)
+      (NN água)
+     )
+    )
+   )
+  )
+ )
+)

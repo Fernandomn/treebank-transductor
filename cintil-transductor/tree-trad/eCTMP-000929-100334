@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS tomada)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS benefícios)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ampliou)
+    (NP 
+     (DT as)
+     (NNS perdas)
+    )
+   )
+  )
+ )
+)

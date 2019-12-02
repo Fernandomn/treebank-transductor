@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Director)
+    (NNS de_)
+    (NNS o)
+    (NNS Abraxa)
+    (NNS Teatro)
+   )
+  )
+  (VP 
+   (VB dirigiu)
+   (NP 
+    (NP 
+     (NNS estágio)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

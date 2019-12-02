@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NN Pergunta)
+   (NP 
+    (DT Quais)
+   )
+   (NP 
+    (DT suas)
+    (NN opiniões)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN atuação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Ministério_Público)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN investigação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN contravenção)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

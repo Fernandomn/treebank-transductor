@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS BEUC)
+   )
+   (VP 
+    (VP 
+     (VB constatou)
+     (NP 
+      (DT esta)
+      (NNS situação)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 40)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD 78)
+          (NP 
+           (NNS casos)
+           (JJ estudados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN traficantes)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP teriam)
+   )
+   (NP 
+    (NN interesse)
+    (PP 
+     (IN em)
+     (VP 
+      (VP 
+       (VB negociar)
+      )
+      (NP 
+       (DT uma)
+       (NN redução)
+       (PP 
+        (IN em)
+        (NP 
+         (DT suas)
+         (NN penas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

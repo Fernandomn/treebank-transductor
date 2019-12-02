@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (NP 
+       (PRP o)
+      )
+      (VB quiser)
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB ter)
+     (PP 
+      (IN de)
+      (VP 
+       (VB pagar)
+       (NP 
+        (NP 
+         (JJ bom)
+         (NNS dinheiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

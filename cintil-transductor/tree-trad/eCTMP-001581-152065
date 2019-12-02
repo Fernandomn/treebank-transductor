@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NNS Meca)
+     (JJ europeia)
+    )
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS aviação)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS espaço)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

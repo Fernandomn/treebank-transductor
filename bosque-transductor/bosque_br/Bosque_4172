@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tenho)
+   )
+   (NP 
+    (NN certeza)
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (VP 
+       (IN se)
+       (VP 
+        (VBP pudesse)
+        (VB concorrer)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (DT algum)
+         (NN cargo)
+        )
+       )
+      )
+      (NP 
+       (PRP me)
+      )
+      (VP 
+       (VBP elegeria)
+      )
+     )
+    )
+   )
+  )
+ )
+)

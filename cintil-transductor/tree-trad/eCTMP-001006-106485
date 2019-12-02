@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ontem)
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS coisas)
+    )
+    (VP 
+     (VP 
+      (VB foram)
+      (ADJP 
+       (ADVP 
+        (RB ainda)
+        (RB mais)
+       )
+       (JJ discretas)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS sector)
+        (JJ feminino)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

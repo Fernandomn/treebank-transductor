@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB reagiu)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS cancelamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS festa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

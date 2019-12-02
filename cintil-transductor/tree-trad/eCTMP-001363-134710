@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Colonos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB tentaram)
+        (VP 
+         (VB impedir)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS acção)
+           (JJ policial)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB envolveram)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS confrontos)
+       (PP 
+        (IN com)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS forças)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS segurança)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

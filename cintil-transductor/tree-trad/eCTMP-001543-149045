@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Para)
+       (IN além)
+       (IN de_)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS reunião)
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NNS primeiro-ministro)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB estão)
+     (JJ agendados)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS encontros)
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Presidente)
+         (NNS de_)
+         (NNS a)
+         (NNS República)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN com)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS ministros)
+          (NNS de_)
+          (NNS os)
+          (NNS Negócios)
+          (NNS Estrangeiros)
+          (NNS e)
+          (NNS de_)
+          (NNS a)
+          (NNS Defesa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

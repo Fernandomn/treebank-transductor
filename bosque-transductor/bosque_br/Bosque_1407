@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Piotr_Wator)
+    (ADJP 
+     (CD 21)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Gajowianka)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ 3ª)
+      (NN divisão)
+     )
+    )
+   )
+   (VP 
+    (VBP morreu)
+   )
+   (NP 
+    (NN domingo)
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (NN partida)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Cracovia)
+    )
+   )
+  )
+ )
+)

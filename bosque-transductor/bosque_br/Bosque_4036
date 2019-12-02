@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Têm)
+   )
+   (NP 
+    (NN fases)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NN depressão)
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN euforia)
+       (NP 
+        (NN mania)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

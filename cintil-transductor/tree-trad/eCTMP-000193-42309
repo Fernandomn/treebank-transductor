@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+       (NNS esquina)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS riquexó)
+    )
+    (VP 
+     (ADVP 
+      (RB por)
+      (RB pouco)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB atropelava)
+      )
+      (NP 
+       (DT um)
+       (NNS velhote)
+      )
+     )
+    )
+   )
+  )
+ )
+)

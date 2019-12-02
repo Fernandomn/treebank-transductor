@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT o)
+      (NNS MRPP)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Portugal)
+    )
+    (VP 
+     (VB abandonava)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS União)
+       (NNS Europeia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

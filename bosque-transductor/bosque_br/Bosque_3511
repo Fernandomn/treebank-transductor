@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Viagem)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ viável)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT os)
+     (NN meses)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN fevereiro)
+       )
+       e
+       (NP 
+        (NN abril)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

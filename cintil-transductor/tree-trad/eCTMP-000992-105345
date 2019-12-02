@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NP 
+       (NNS Marçal)
+       (NNS Grilo)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS 1997)
+      (NNS 98)
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB também)
+      (RB já)
+     )
+     (VB acabou)
+    )
+   )
+  )
+ )
+)

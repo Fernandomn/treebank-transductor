@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (CD dois)
+     (NN países)
+    )
+   )
+   (NP 
+    (DT esses)
+    (NN índios)
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP esqueceram)
+   )
+   (NP 
+    (DT o)
+    (NN trauma)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN conquista)
+      (NP 
+       (NP 
+        (NNP Cortéz)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (DT próprio)
+          (NNP México)
+         )
+        )
+       )
+       e
+       (NP 
+        (NNP Pizarro)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NNP Peru)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

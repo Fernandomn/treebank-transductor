@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS processo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS refiliação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB seria)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS tema)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS debate)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

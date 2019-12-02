@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Boavista)
+   )
+   (VP 
+    (VB quer)
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (VB resolver)
+        (RB logo)
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (CD primeira)
+           (NNS mão)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Bessa)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS eliminatória)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Shaktior)
+          (NNS Donetsk)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

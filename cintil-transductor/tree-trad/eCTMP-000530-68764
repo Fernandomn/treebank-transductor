@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por_)
+     (NP 
+      (DT o)
+      (NP 
+       (CD terceiro)
+       (NP 
+        (NNS ano)
+        (JJ consecutivo)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Largo)
+        (NNS de_)
+        (NNS a)
+        (NNS Sé)
+        (NNS Velha)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Coimbra)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB recuar)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Idade)
+         (NNS Média)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

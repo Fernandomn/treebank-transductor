@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS grutas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Salustreira)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS pontos)
+          (JJ altos)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS exercícios)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

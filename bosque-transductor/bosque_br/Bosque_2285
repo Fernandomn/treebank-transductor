@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Romário)
+   )
+   (VBP é)
+   (NP 
+    (DT o)
+    (ADJP 
+     (RB mais)
+     (VBN votado)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN leitores)
+    )
+   )
+  )
+ )
+)

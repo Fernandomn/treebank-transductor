@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Quem)
+   )
+   (VP 
+    (VBP está)
+   )
+   (ADVP 
+    (NP 
+     (CD duas)
+     (NN horas)
+    )
+    (RB mais)
+    (RB cedo)
+    (SBAR que
+     (S 
+      (NNP Brasília)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP mudará)
+    )
+    (NP 
+     (DT o)
+     (NN horário)
+    )
+    (ADVP 
+     (NP 
+      (CD duas)
+      (NN horas)
+     )
+     (RB antes)
+    )
+    (ADVP 
+     (RB portanto)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT as)
+       (NNS pessoas)
+      )
+      (VP 
+       (VP 
+        (VB podem)
+        (VB progredir)
+       )
+       (PP 
+        (PP 
+         (IN com)
+         (NP 
+          (NNS treino)
+         )
+        )
+        (PP 
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS aperfeiçoamento)
+             (JJ técnico)
+            )
+           )
+          )
+          (PP 
+           (PP 
+            (IN com)
+            (NP 
+             (DT uma)
+             (NP 
+              (NP 
+               (NNS preparação)
+               (JJ psíquica)
+              )
+              (ADJP 
+               (RB mais)
+               (JJ forte)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

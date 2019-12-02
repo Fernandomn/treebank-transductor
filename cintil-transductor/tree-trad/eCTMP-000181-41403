@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (NNS verdade)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB diz)
+        )
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS vinda)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS ciganos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP eles)
+    )
+   )
+   (NP 
+    (NN casos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN doenças)
+      (PP 
+       (IN de)
+       (NP 
+        (NN pele)
+        (PP 
+         (IN em)
+         (NP 
+          (NN índios)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estariam)
+   )
+   (VP 
+    (VP 
+     (VBN relacionados)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN contaminação)
+     )
+    )
+   )
+  )
+ )
+)

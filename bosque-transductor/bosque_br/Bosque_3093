@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN administração)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN aeroclube)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN quadrilha)
+   )
+   (VP 
+    (VBP conseguiu)
+   )
+   (VP 
+    (VP 
+     (VB decolar)
+    )
+    (PP 
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN 4h)
+      )
+     )
+     (PP 
+      (IN sob)
+      (NP 
+       (JJ forte)
+       (NN nevoeiro)
+      )
+     )
+     e
+     (PP 
+      (IN sem)
+      (NP 
+       (NN iluminação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

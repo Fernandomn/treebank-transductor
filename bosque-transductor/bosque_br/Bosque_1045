@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP ex-auxiliar)
+    (PP 
+     (IN de)
+     (NP 
+      (NN produção)
+      (PP 
+       (IN em)
+       (NP 
+        (NN cervejarias)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Joilson_da_Silva)
+    )
+    (ADJP 
+     (CD 23)
+    )
+    (VP 
+     (VP 
+      (VBN casado)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (CD um)
+       (NN filho)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pedia)
+   )
+   (NP 
+    (DT mais)
+    (NN informações)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN abrigo)
+     )
+    )
+   )
+  )
+ )
+)

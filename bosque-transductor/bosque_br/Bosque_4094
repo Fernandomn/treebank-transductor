@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Kodak)
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+   (VP 
+    (VBP apresentou)
+   )
+   (NP 
+    (DT as)
+    (NN impressoras/copiadoras)
+    (NP 
+     (NNP ColorEdge)
+    )
+    (UCP 
+     (NP 
+      (CD 1.560)
+     )
+     e
+     (ADJP 
+      (CD 1.565)
+     )
+    )
+    (ADJP 
+     (JJ capazes)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB copiar)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN cores)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NN frente)
+         )
+         e
+         (NP 
+          (NN verso)
+         )
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN documentos)
+          (PP 
+           (IN de)
+           (NP 
+            (DT várias)
+            (NN páginas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NNS Eriksson)
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (NP 
+        (NP 
+         (NNS treinador)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Benfica)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN até)
+       (NP 
+        (NNS Junho)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB poderá)
+       (VP 
+        (VP 
+         (VB continuar)
+         (PP 
+          (IN com_)
+          (NP 
+           (PRP nós)
+          )
+         )
+        )
+        (ADVP 
+         (RB depois)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT essa)
+           (NNS data)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

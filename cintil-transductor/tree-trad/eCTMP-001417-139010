@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS PJ)
+  )
+  (VP 
+   (VB investiga)
+   (NP 
+    (NP 
+     (NNS roubos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS construção)
+        (JJ civil)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS atacantes)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Gianluca)
+        (NNS Vialli)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS Gianluigi)
+         (NNS Lentini)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ficaram)
+    (PP 
+     (IN de)
+     (RB fora)
+    )
+   )
+  )
+ )
+)

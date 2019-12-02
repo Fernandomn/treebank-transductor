@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS acórdão)
+    )
+    (VP 
+     (VB entrou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS trilho)
+        (ADJP 
+         (RB demasiado)
+         (JJ perigoso)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

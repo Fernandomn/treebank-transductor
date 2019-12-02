@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT As)
+     (NN pessoas)
+    )
+    (VP 
+     (VBP pensam)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP recebem)
+     )
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 80)
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (NP 
+      (CD 30)
+      (NN dias)
+     )
+     (RB depois)
+    )
+    (NP 
+     (DT esse)
+     (NN valor)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (RB muito)
+     (JJ menor)
+    )
+   )
+  )
+ )
+)

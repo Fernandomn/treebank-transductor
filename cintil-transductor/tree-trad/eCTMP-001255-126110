@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (JJ referido)
+     (NP 
+      (NNS Fórum)
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS edição)
+        (JJ chinesa)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (DT outra)
+          (NP 
+           (NP 
+            (NNS obra)
+            (JJ célebre)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Hayek)
+            )
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (NP 
+            (DT A)
+            (NP 
+             (NNS Constituição)
+             (NNS de_)
+             (NNS a)
+             (NNS Liberdade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (DT cujos)
+        (NP 
+         (CD primeiros)
+         (NP 
+          (CD 20.000)
+          (NNS exemplares)
+         )
+        )
+       )
+       (S 
+        (VP 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB esgotaram)
+         )
+         (RB rapidamente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

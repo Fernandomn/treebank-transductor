@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS aldeia)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS artesãos)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB projectada)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NNS Monsaraz)
+    )
+   )
+  )
+ )
+)

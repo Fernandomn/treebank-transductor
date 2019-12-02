@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS fim)
+      )
+     )
+    )
+    (VP 
+     (VB saíram)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (PRP algumas)
+        (NNS promessas)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS nim)
+          )
+          (PP 
+           (IN para)
+           (NP 
+            (DT o)
+            (NNS subsídio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

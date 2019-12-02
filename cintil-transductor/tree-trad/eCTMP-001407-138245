@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Os)
+     (NNS falantes)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT os)
+      (NNS escreventes)
+     )
+    )
+   )
+   (VP 
+    (VB começaram)
+    (PP 
+     (IN a)
+     (VP 
+      (VB sentir)
+      (NP 
+       (DT a)
+       (NNS língua)
+      )
+     )
+    )
+   )
+  )
+ )
+)

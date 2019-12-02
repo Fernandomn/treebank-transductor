@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Rádio)
+     (NNS de)
+     (NNS Israel)
+    )
+   )
+   (VP 
+    (VP 
+     (VB iniciou)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NNS noticiário)
+      )
+     )
+    )
+    (S 
+     (VB dizendo)
+    )
+   )
+  )
+ )
+)

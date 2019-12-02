@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS marrada)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Pedro)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS parede)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

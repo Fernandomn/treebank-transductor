@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Desconhece)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT a)
+     (NNS causa)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB há)
+      )
+      (NP 
+       (NNS tratamento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

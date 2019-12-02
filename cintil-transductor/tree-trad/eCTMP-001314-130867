@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (PRP Algo)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB é)
+        )
+        (NP 
+         (DT um)
+         (NNS hábito)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS competições)
+          (JJ nacionais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

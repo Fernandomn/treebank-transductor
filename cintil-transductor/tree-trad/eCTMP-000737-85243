@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS conflito)
+     (ADJP 
+      (JJ maior)
+      (CONJP 
+       (CC que)
+       (NP 
+        (DT o)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (JJ simples)
+            (NP 
+             (NNS questões)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS incompatibilidade)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB envolve)
+    (NP 
+     (DT a)
+     (NNS confederação)
+    )
+   )
+  )
+ )
+)

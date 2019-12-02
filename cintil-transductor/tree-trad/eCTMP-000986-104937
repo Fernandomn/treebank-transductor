@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Canto)
+       (NNS de_)
+       (NNS a)
+       (NNS Doca)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT as)
+      (NNS noites)
+     )
+     (VP 
+      (VB continuam)
+      (JJ longas)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (RB sempre)
+      (S 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB pode)
+       )
+       (VP 
+        (VB jantar)
+        (ADVP 
+         (RB fora)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS horas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

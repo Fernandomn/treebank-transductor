@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (DT Um)
+      (NP 
+       (NNS príncipe)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS cultura)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB definiu)
+    )
+    (NP 
+     (NP 
+      (NNS Urbano)
+      (NNS Tavares)
+      (NNS Rodrigues)
+     )
+    )
+   )
+  )
+ )
+)

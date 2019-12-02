@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (IN Se)
+     (VP 
+      (VP 
+       (VB sentir)
+      )
+      (VP 
+       (IN que)
+       (VP 
+        (VBP há)
+       )
+       (NP 
+        (DT um)
+        (NN desejo)
+        (ADJP 
+         (JJ coletivo)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP vai)
+     (VB encaminhar)
+    )
+    (NP 
+     (DT as)
+     (NN emendas)
+     (ADJP 
+      (JJ constitucionais)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Luiz_Henrique)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (CD uma)
+     (NN hora)
+     (PP 
+      (IN de)
+      (NP 
+       (NN conversa)
+       (PP 
+        (IN com)
+        (NP 
+         (NNP Itamar)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN Planalto)
+    )
+   )
+  )
+ )
+)

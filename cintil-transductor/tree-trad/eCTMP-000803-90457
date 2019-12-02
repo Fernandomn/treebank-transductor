@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD segunda)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS constatação)
+       (JJ resignada)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NP 
+          (JJ velha)
+          (NP 
+           (NP 
+            (NNS raposa)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS modalidade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

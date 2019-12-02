@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (DT O)
+    (RB mais)
+    (JJ grave)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT os)
+    (NN problemas)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT os)
+      (NN clientes)
+     )
+     (VP 
+      (VBP poderão)
+      (VB enfrentar)
+     )
+    )
+   )
+  )
+ )
+)

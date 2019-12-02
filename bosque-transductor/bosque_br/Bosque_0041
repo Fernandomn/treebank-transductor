@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP dirigisse)
+    )
+    (NP 
+     (DT uma)
+     (NN federação)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP apresentaria)
+     )
+     (NP 
+      (NN balanços)
+      (ADJP 
+       (JJ mensais)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP liberaria)
+     )
+     (NP 
+      (DT minhas)
+      (NN contas)
+      (ADJP 
+       (JJ bancárias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN destaque)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP HBO)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (JJ inédito)
+    (NNP Exterminador_do_Futuro_2_--_O_Julgamento_Final)
+    (PP 
+     (IN em)
+     (VP 
+      (PRP que)
+      (NP 
+       (NNP Schwarzenegger)
+      )
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (DT um)
+       (NN robô)
+       (PP 
+        (IN com)
+        (NP 
+         (NN aparência)
+         (ADJP 
+          (JJ humana)
+         )
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP vem)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN futuro)
+          (PP 
+           (IN para)
+           (VP 
+            (VP 
+             (VB proteger)
+            )
+            (NP 
+             (DT um)
+             (NN garoto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

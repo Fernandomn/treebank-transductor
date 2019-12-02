@@ -1,0 +1,110 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT o)
+     (NN dinheiro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN amendoim)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Guidi)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP conseguiu)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB comprar)
+       )
+       (NP 
+        (NP 
+         (CD duas)
+         (NN camionetes)
+        )
+        e
+        (NP 
+         (DT um)
+         (NN trator)
+         (PP 
+          (IN de)
+          (NP 
+           (CD 150)
+           (NN Hp)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP está)
+      (VBG construindo)
+     )
+     (NP 
+      (DT uma)
+      (NN casa)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN Pontal)
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB ainda)
+     )
+     (VP 
+      (VBP tem)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB receber)
+       )
+       (NP 
+        (NN US$)
+        (NP 
+         (CD 470)
+         (NN mil)
+        )
+        (PP 
+         (IN referente_a+)
+         (NP 
+          (DT a)
+          (NN venda)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 49.4)
+            (NN mil)
+            (NN sacas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

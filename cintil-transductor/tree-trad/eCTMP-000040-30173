@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Ontem)
+    (VP 
+     (VB foram)
+     (VB assassinados)
+    )
+   )
+   (NP 
+    (CD cinco)
+    (NP 
+     (NNS militantes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS partido)
+         (NP 
+          (NNS Bharatiya)
+          (NNS Janata)
+         )
+        )
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS direita)
+            (JJ hindú)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

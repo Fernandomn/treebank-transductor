@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Temos)
+    )
+    (NP 
+     (NN vértebra)
+     (ADJP 
+      (JJ política)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP somos)
+    )
+    (NP 
+     (NN geléia)
+    )
+   )
+  )
+ )
+)

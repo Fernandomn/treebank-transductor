@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NN intervenção)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Rio)
+    )
+   )
+   (IN que)
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP cuide)
+   )
+   (NP 
+    (DT o)
+    (NN resto)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN país)
+     )
+    )
+   )
+  )
+ )
+)

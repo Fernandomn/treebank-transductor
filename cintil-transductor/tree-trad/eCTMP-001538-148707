@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Soube)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (RB depois)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (VB eram)
+      (NP 
+       (NP 
+        (NNS obra)
+        (PP 
+         (IN de_)
+         (NP 
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS Coligação)
+             (NNS de_)
+             (NNS as)
+             (NNS Reformas)
+            )
+           )
+          )
+          (NP 
+           (NP 
+            (DT o)
+            (NP 
+             (NP 
+              (NNS bloco)
+              (JJ parlamentar)
+             )
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VB apoia)
+                (NP 
+                 (NP 
+                  (NNS Boris)
+                  (NNS Ieltsin)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

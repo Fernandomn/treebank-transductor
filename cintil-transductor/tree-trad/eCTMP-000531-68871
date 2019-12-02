@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Depois)
+     (VP 
+      (VP 
+       (VB vim)
+       (PP 
+        (IN com)
+        (NP 
+         (DT os)
+         (NP 
+          (PP meus)
+          (NNS pais)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (RB aqui)
+      )
+     )
+    )
+   )
+  )
+ )
+)

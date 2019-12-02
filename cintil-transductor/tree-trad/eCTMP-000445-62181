@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Modalidades)
+     (JJ amadoras)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS Sporting)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS crise)
+    )
+   )
+  )
+ )
+)

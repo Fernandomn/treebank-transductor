@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (PRP isso)
+   )
+   (VP 
+    (VBP aconteceu)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (DT a)
+     (NN prisão)
+     (PP 
+      (IN de)
+      (NP 
+       (NN soldados)
+       (ADJP 
+        (JJ venezuelanos)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN território)
+     (ADJP 
+      (JJ brasileiro)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN fevereiro)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 1993)
+      )
+     )
+    )
+   )
+  )
+ )
+)

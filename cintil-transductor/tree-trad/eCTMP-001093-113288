@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS fase)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT este)
+        (NNS plano)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB pode)
+     (ADVP 
+      (RB muito)
+      (RB bem)
+     )
+    )
+    (VP 
+     (VB começar)
+     (PP 
+      (NP 
+       (DT esta)
+       (NNS semana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Este)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (ADVP 
+       (RB aliás)
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS princípios)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS justiça)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

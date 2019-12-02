@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Está)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN estudo)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Ministério_da_Previdência)
+    )
+   )
+   (NP 
+    (DT um)
+    (NN conjunto)
+    (PP 
+     (IN de)
+     (NP 
+      (NN medidas)
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB desestimular)
+        )
+        (NP 
+         (DT o)
+         (NN aumento)
+         (PP 
+          (IN de)
+          (NP 
+           (NN aposentadorias)
+          )
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (JJ próximo)
+          (NN ano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

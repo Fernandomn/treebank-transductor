@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD sete)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN dezembro)
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD 1941)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NN aviões)
+    (ADJP 
+     (JJ japoneses)
+    )
+   )
+   (ADVP 
+    (RB praticamente)
+   )
+   (VP 
+    (VBP destruíram)
+   )
+   (NP 
+    (DT a)
+    (NN frota)
+    (ADJP 
+     (JJ norte-americana)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Pacífico)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN ancorada)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Pearl_Harbour)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Havaí)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

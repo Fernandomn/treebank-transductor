@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foram)
+    (VBN detidas)
+   )
+   (NP 
+    (CD 25)
+    (NN pessoas)
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN escritório)
+     )
+    )
+    e
+    (PP 
+     (IN em)
+     (NP 
+      (DT outros)
+      (CD cinco)
+      (NN endereços)
+      (VP 
+       (VP 
+        (VBN ligados)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (NNP Castor_de_Andrade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

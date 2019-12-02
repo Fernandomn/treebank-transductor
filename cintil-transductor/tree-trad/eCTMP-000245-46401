@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Sécheresse)
+       (NNS et)
+       (NNS Pluie)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS coreógrafa)
+        (NP 
+         (NNS Ea)
+         (NNS Sola)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NNS Culturgest)
+   )
+  )
+ )
+)

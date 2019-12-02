@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB temos)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS sala)
+       (CONJP 
+        (RB onde)
+        (S 
+         (S 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB possa)
+          )
+          (VP 
+           (VB fazer)
+           (NP 
+            (NP 
+             (NNS ópera)
+            )
+            (NP 
+             (CC ou)
+             (NP 
+              (DT um)
+              (NP 
+               (NNS concerto)
+               (PP 
+                (IN com)
+                (NP 
+                 (DT uma)
+                 (NP 
+                  (NNS orquestra)
+                  (JJ sinfónica)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

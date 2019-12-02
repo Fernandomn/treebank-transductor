@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB esconde)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (PP seus)
+      (NP 
+       (NNS planos)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS monopolização)
+           (JJ total)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS rede)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NP 
+                 (NNS distribuição)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NNS filmes)
+                  )
+                 )
+                )
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT o)
+                  (NNS país)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

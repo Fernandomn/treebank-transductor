@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (ADVP 
+      (RB Mais)
+      (RB de)
+     )
+     (CD três)
+    )
+    (NP 
+     (NNS centenas)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS técnicos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB discutem)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Lisboa)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ensino)
+      (JJ pré-escolar)
+     )
+    )
+   )
+  )
+ )
+)

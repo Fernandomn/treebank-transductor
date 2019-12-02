@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Ficando)
+    )
+    (ADVP 
+     (RB novamente)
+    )
+    (ADJP 
+     (JJ vago)
+    )
+    (NP 
+     (DT o)
+     (NN cargo)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (UCP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Senado)
+      )
+     )
+     e
+     (ADVP 
+      (RB sucessivamente)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Supremo_Tribunal_Federal)
+       (NP 
+        (NNP STF)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP assumem)
+   )
+   (NP 
+    (DT a)
+    (NN incumbência)
+   )
+  )
+ )
+)

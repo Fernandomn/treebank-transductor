@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADJP 
+    (ADJP 
+     (RB mais)
+     (JJ direto)
+    )
+    (ADJP 
+     (RB mais)
+     (NN atacante)
+    )
+   )
+   (VP 
+    (VBP deu)
+   )
+   (NP 
+    (NN respostas)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (ADJP 
+       (ADJP 
+        (JJ profundas)
+       )
+       e
+       (ADJP 
+        (JJ melhores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

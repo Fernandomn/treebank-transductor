@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN intenção)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ louvável)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT esta)
+     (NNP Folha)
+    )
+    (VP 
+     (VBP tem)
+     (VBN denunciado)
+    )
+    (ADVP 
+     (RB sempre)
+    )
+    (NP 
+     (DT a)
+     (NN ciranda)
+     (ADJP 
+      (JJ financeira)
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NN obstáculo)
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (JJ autêntica)
+        (NN estabilização)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS estabilidade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT esta)
+         (NNS relação)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB possibilita)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS leitura)
+           (JJ semelhante)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

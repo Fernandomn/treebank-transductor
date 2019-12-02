@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por_)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB viu)
+           )
+           (RB ontem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (JJ impossível)
+    )
+   )
+   (NP 
+    (DT outra)
+    (NP 
+     (NNS vitória)
+     (JJ portuguesa)
+    )
+   )
+  )
+ )
+)

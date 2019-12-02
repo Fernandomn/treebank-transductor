@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Desde)
+    (NP 
+     (DT a)
+     (NNP Idade_Média)
+    )
+   )
+   (NP 
+    (DT esse)
+    (NN caminho)
+   )
+   (VP 
+    (VBP é)
+    (VBN feito)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN intelecto)
+      )
+     )
+     e
+     (PP 
+      (RB não)
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN corpo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

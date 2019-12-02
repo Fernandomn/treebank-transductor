@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Homens)
+   )
+   (VP 
+    (VBP são)
+    (VBN achados)
+   )
+   (VP 
+    (VP 
+     (VBN amordaçados)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Rio)
+     )
+    )
+   )
+  )
+ )
+)

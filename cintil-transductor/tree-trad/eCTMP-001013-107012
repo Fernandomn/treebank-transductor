@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS controlo)
+      (JJ sérvio)
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VB reinstalado)
+     )
+     (PP 
+      (RB mesmo)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS entrada)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Pale)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB vigia)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ outro)
+        (NNS itinerário)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS jogo)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (JJ rico)
+    )
+    (PP 
+     (PP 
+      (PP 
+       (CC nem)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS emoção)
+        )
+       )
+      )
+     )
+     (PP 
+      (CC nem)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS beleza)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS tempos)
+   )
+   (VP 
+    (VP 
+     (VB mudariam)
+     (RB também)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Suécia)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB pediria)
+           (ADVP 
+            (RB mais)
+            (RB tarde)
+           )
+          )
+          (NP 
+           (DT a)
+           (NP 
+            (NNS adesão)
+            (PP 
+             (IN a_)
+             (NP 
+              (DT a)
+              (NNS CEE)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

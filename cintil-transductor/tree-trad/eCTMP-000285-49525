@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Ainda)
+     (VP 
+      (VP 
+       (RB não)
+       (VB chegámos)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (ADJP 
+          (RB mais)
+          (JJ alto)
+         )
+         (NNS nível)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VB temos)
+       (PP 
+        (IN de)
+        (VB progredir)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

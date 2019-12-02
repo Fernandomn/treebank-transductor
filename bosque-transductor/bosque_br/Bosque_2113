@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Jucabaré-Theatro_Inteligente)
+   )
+   (VP 
+    (VBP vai)
+    (VB funcionar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN rua)
+     (NP 
+      (NNP Major_Sertório)
+     )
+     (ADJP 
+      (CD 661)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN centro)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP São_Paulo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

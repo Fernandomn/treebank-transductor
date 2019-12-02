@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS LG)
+      (NNS Electronics)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (CD terceiro)
+       (NP 
+        (JJ maior)
+        (NP 
+         (NP 
+          (NNS fabricante)
+          (JJ sul-coreano)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS informática)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB decidiu)
+    (VP 
+     (VB reduzir)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS preços)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (PP seus)
+          (NP 
+           (NNS computadores)
+           (JJ pessoais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

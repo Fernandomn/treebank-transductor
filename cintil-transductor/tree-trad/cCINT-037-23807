@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Despediram)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (ADVP 
+      (RB ali)
+      (RB mesmo)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS Rui)
+     )
+     (VP 
+      (VB correu)
+      (PP 
+       (IN até)
+       (NP 
+        (NP 
+         (NNS casa)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS amigo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

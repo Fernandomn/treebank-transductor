@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP George)
+    )
+    (VP 
+     (VBP fazia)
+    )
+    (NP 
+     (DT a)
+     (NN música)
+    )
+   )
+   (VP 
+    (NP 
+     (NNP Ira)
+    )
+    (NP 
+     (DT a)
+     (NN letra)
+    )
+    (VP 
+     (IN embora)
+     (ADVP 
+      (ADVP 
+       (RB como)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (DT toda)
+        (NN parceria)
+       )
+      )
+     )
+     (NP 
+      (PRP cada_qual)
+     )
+     (VP 
+      (VBP desse)
+     )
+     (NP 
+      (NN palpites)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN especialidade)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (DT outro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

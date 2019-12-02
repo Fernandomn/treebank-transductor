@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS dilema)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS PCP)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (RB provavelmente)
+    )
+    (NP 
+     (NNS solução)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS título)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NNS Des)
+        (NNS Aveugles)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB foi)
+        (VB publicado)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Minuit)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD 1985)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

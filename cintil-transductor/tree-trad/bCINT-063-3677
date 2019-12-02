@@ -1,0 +1,50 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Considerações)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB assumem)
+        (NP 
+         (DT outro)
+         (NNS relevo)
+        )
+       )
+       (CONJP 
+        (CC se)
+        (S 
+         (NP 
+          (DT a)
+          (NNS perspectiva)
+         )
+         (VP 
+          (VP 
+           (VB for)
+           (VB traçada)
+          )
+          (PP 
+           (PP 
+            (IN a)
+            (IN partir)
+            (IN de)
+           )
+           (NP 
+            (NNS Coimbra)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

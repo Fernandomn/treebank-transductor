@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNP Totó_Parente)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN apoio)
+      (PP 
+       (IN a)
+       (NP 
+        (NNP Quércia)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (DT uma)
+     (NN etapa)
+     (PP 
+      (IN rumo_a+)
+      (NP 
+       (DT o)
+       (NN socialismo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

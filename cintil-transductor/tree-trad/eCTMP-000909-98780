@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS direcção)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Artur)
+         (NNS Ramos)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (JJ eficaz)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS trilogia)
+     )
+     (VP 
+      (VP 
+       (VB será)
+       (RB certamente)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ grandes)
+           (NP 
+            (NP 
+             (NNS acontecimentos)
+             (JJ televisivos)
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS ano)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

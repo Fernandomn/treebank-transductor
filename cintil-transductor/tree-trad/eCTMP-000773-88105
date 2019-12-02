@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT este)
+        (NP 
+         (CD último)
+        )
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (RB até)
+        (RB então)
+       )
+       (VB desconhecido)
+      )
+     )
+    )
+   )
+   (VP 
+    (CONJP 
+     (ADVP 
+      (RB em)
+      (RB breve)
+     )
+     (CONJP 
+      (CC se)
+      (S 
+       (VB tornará)
+      )
+     )
+    )
+    (VP 
+     (JJ famoso)
+    )
+   )
+  )
+ )
+)

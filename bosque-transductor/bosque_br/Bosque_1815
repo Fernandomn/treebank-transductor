@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Recentemente)
+    )
+    (NP 
+     (DT o)
+     (NNP Banco_Mundial)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP constituiu)
+      )
+      (NP 
+       (DT um)
+       (NN grupo)
+       (ADJP 
+        (JJ independente)
+        (PP 
+         (IN de)
+         (NP 
+          (NN inspeção)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB analisar)
+        )
+        (NP 
+         (NN queixas)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT seus)
+           (NN projetos)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBP iniciou)
+      )
+      (NP 
+       (DT uma)
+       (JJ nova)
+       (NN política)
+       (PP 
+        (IN de)
+        (NP 
+         (NN informações)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NNP Gatt)
+    )
+    (VP 
+     (VBP organizou)
+    )
+    (NP 
+     (DT o)
+     (JJ primeiro)
+     (NN seminário)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN participação)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP ONGs)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

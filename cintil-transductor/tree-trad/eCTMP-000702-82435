@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (VP 
+        (VB falo)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Barroco)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB interessa)
+      (NP 
+       (PRP -me)
+      )
+     )
+     (RB sobretudo)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS entendimento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS mundo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS pessoas)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB faziam)
+              (NP 
+               (DT aqueles)
+               (NNS trabalhos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

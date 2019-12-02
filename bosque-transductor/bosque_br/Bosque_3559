@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ 9º)
+    (NNP Free_Jazz_Festival)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP ampliou)
+     )
+     (NP 
+      (DT seu)
+      (NN leque)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP programou)
+     )
+     (NP 
+      (CD uma)
+      (NN noite)
+      (ADJP 
+       (JJ trepidante)
+      )
+      (PP 
+       (IN sob)
+       (NP 
+        (DT o)
+        (NN comando)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN godfather_of_soul)
+          (NP 
+           (NNP James_Brown)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP cedeu)
+     )
+     (NP 
+      (NN espaço)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NN modernidade)
+        (PP 
+         (IN de)
+         (UCP 
+          (NP 
+           (NN Guru)
+          )
+          (NP 
+           (NNP US3)
+          )
+          e
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NNP Digable_Planets)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN norte-americanos)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP reuniram)
+     )
+     (ADVP 
+      (RB ontem)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NNP Câmara_de_Comércio_Brasil-Estados_Unidos)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP São_Paulo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ficaram)
+   )
+   (VP 
+    (VP 
+     (VBN conformados)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN derrota)
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN seleção)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

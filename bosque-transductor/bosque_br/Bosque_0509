@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Terminado)
+    )
+    (NP 
+     (DT o)
+     (NN Mundial)
+    )
+   )
+   (NP 
+    (DT todas)
+    (DT as)
+    (NN atenções)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN seleções)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP voltam)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN Olimpíada)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Atlanta)
+      )
+     )
+    )
+   )
+  )
+ )
+)

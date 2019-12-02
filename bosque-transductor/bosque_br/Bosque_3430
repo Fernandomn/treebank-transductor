@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (VP 
+      (VP 
+       (VBN denunciados)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN corrupção)
+        (ADJP 
+         (JJ passiva)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NN procurador)
+     (PP 
+      (IN de)
+      (NP 
+       (NN Justiça)
+      )
+     )
+     (VBN aposentado)
+     (NP 
+      (NNP Aldegy_do_Nascimento)
+     )
+    )
+    (NP 
+     (CD 26)
+     (NN delegados)
+    )
+    (NP 
+     (NN inspetores)
+    )
+    e
+    (NP 
+     (NN peritos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Polícia_Civil)
+      )
+     )
+    )
+    e
+    (NP 
+     (NNP Ary_Chagas_de_Aguiar)
+     (NP 
+      (NN assessor)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN promotora)
+        (NP 
+         (NNP Lúcia_Atalla)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

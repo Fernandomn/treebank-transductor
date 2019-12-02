@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Jair)
+   )
+   (VP 
+    (VBP escala)
+   )
+   (NP 
+    (DT o)
+    (NN time)
+    (ADJP 
+     (JJ reserva)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NNP Flamengo)
+    )
+   )
+  )
+ )
+)

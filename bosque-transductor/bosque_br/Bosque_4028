@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Sanchez)
+    (NP 
+     (NN nº)
+     (ADJP 
+      (CD 2)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN ranking)
+       (ADJP 
+        (JJ mundial)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP perdeu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN jogo)
+     (ADJP 
+      (JJ dramático)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN francesa)
+     (NP 
+      (NNP Julie_Halard)
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NP 
+      (CD 6/2)
+     )
+     (NP 
+      (CD 1/6)
+     )
+     e
+     (NP 
+      (CD 7/6)
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (ADJP 
+     (CD 7/2)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN tie-break)
+       (ADJP 
+        (JJ decisivo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

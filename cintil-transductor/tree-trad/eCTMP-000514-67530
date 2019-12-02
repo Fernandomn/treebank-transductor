@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Olestra)
+   )
+   (VP 
+    (VB inibe)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS absorção)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (PRP algumas)
+         (NNS vitaminas)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT outros)
+          (NNS nutrientes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

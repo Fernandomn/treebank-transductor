@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Por_)
+     (NP 
+      (DT as)
+      (NP 
+       (CD 13)
+       (NNS horas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB haverá)
+     (NP 
+      (DT um)
+      (NNS almoço)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS restaurante)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS lugar)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Nicho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

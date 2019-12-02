@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (RB Porém)
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (DT as)
+        (NP 
+         (NNS taxas)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS juros)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS mercado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VB sobem)
+        (RB rapidamente)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS aumento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS rendimentos)
+        )
+       )
+      )
+     )
+     (VP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NNS bancos)
+       )
+      )
+      (VP 
+       (VB sofre)
+       (NP 
+        (DT um)
+        (NNS desfazamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

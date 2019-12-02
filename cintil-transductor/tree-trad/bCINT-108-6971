@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS IA)
+    )
+    (VP 
+     (VB está)
+     (ADJP 
+      (JJ próximo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS artistas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB apoia)
+       (NP 
+        (DT os)
+        (NNS artistas)
+       )
+      )
+     )
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB gosta)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS artistas)
+          )
+         )
+        )
+       )
+       (S 
+        (S 
+         (VP 
+          (VP 
+           (RB não)
+           (VB tem)
+          )
+          (NP 
+           (NP 
+            (NNS medo)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS criação)
+               (JJ contemporânea)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

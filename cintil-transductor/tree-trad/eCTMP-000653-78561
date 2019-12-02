@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Toda)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS gente)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT aquela)
+        (NNS delegação)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP me)
+    )
+    (VB representa)
+   )
+  )
+ )
+)

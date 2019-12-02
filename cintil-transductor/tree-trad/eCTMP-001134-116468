@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 89)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Humberto)
+    )
+    (VP 
+     (VP 
+      (VB fez)
+      (NP 
+       (DT o)
+       (NNS 2-2)
+      )
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS sequência)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS livre)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Asselman)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

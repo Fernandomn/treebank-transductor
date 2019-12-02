@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (NNS início)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB arrancaram)
+       (PP 
+        (IN com)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS caixa)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS ritmos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS ano)
+           (JJ passado)
+          )
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (VB decidiram)
+         (VP 
+          (VB meter)
+          (NP 
+           (DT um)
+           (NNS baterista)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN por)
+          (IN causa)
+          (IN de_)
+         )
+         (NP 
+          (DT os)
+          (NP 
+           (NNS concertos)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT o)
+             (NP 
+              (JJ vivo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

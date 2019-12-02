@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NN 10h46)
+    )
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN pessoa)
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB ver)
+       )
+       (NP 
+        (DT o)
+        (NN caixão)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NNP Márcio_Putnoki)
+     (ADJP 
+      (CD 13)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT o)
+     (NN estudante)
+    )
+    (VP 
+     (VBP tinha)
+     (VBN chegado)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 15h)
+      (ADVP 
+       (IN de)
+       (RB anteontem)
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN a+)
+     (VP 
+      (DT o)
+      (VP 
+       (VB passar)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN hall)
+        (ADJP 
+         (JJ monumental)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Márcio)
+    )
+    (VP 
+     (VBP chora)
+    )
+   )
+  )
+ )
+)

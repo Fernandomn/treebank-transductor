@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Era)
+   )
+   (NP 
+    (DT uma)
+    (NN época)
+    (VP 
+     (PP 
+      (IN em)
+      (NP 
+       (PRP que)
+      )
+     )
+     (NP 
+      (DT os)
+      (NN cariocas)
+     )
+     (VP 
+      (VBP imperavam)
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NN campo)
+       )
+      )
+      e
+      (PP 
+       (IN fora_de+)
+       (NP 
+        (PRP ele)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

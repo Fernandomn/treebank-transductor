@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Pedro)
+     (NNS Pacheco)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS monitores)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VP 
+           (VB acompanhou)
+           (NP 
+            (DT os)
+            (NP 
+             (CD 15)
+             (NNS jovens)
+            )
+           )
+          )
+          (PP 
+           (PP 
+            (IN a_)
+            (IN o)
+            (IN longo)
+            (IN de_)
+           )
+           (NP 
+            (DT o)
+            (NP 
+             (CD último)
+             (NP 
+              (NNS mês)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS Agosto)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Cencal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

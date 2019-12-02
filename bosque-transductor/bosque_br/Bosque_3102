@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN especial)
+   )
+   (VP 
+    (VBP deverá)
+    (VB ir)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN ar)
+    )
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+    e
+    (PP 
+     (IN em)
+     (NP 
+      (DT vários)
+      (NN países)
+     )
+    )
+   )
+   (ADVP 
+    (NP 
+     (DT poucos)
+     (NN dias)
+    )
+    (RB antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN eleição)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNP Prêmio_Nobel_da_Paz)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

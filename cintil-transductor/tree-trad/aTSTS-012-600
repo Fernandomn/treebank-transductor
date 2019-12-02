@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB fixa)
+     (NP 
+      (DT o)
+      (NNS quadro)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS parede)
+     )
+    )
+   )
+  )
+ )
+)

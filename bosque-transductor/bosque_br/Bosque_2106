@@ -1,0 +1,107 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN grupo)
+     (NP 
+      (NNP Sendas)
+     )
+    )
+    (VP 
+     (VBP entra)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN terreno)
+      (PP 
+       (IN de)
+       (NP 
+        (ADJP 
+         (CD 154)
+         (NP 
+          (NN mil)
+         )
+        )
+        (NN metros)
+        (ADJP 
+         (JJ quadrados)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (S 
+    (NP 
+     (DT o)
+     (NNP Nacional_Iguatemi_Empreendimentos)
+     (NP 
+      (NP 
+       (NN dono)
+       (PP 
+        (IN de)
+        (NP 
+         (NN shoppings_centers)
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN Nordeste)
+          )
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (NN sócio)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Tasso_Jereissati)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Iguatemi)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN recursos)
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB bancar)
+        )
+        (NP 
+         (DT o)
+         (NN empreendimento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

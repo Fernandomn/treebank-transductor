@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS projecto)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS sombra)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Serra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

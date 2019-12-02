@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS empresa)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB teceu)
+    )
+    (NP 
+     (NP 
+      (NNS comentários)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS nomeação)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NNS substituto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Rússia)
+   )
+   (VP 
+    (VP 
+     (VB quer)
+     (VP 
+      (VP 
+       (VB vender)
+       (NP 
+        (NP 
+         (NNS foguetes)
+         (JJ espaciais)
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS Índia)
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC porque)
+     (S 
+      (VP 
+       (VB precisa)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS divisas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

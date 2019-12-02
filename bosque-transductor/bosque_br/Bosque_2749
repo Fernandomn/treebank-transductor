@@ -1,0 +1,20 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Somos)
+   )
+   (ADJP 
+    (NN quercistas)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (JJ atual)
+     (NN momento)
+    )
+   )
+  )
+ )
+)

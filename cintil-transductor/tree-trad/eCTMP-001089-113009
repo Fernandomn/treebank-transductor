@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NP 
+      (NP 
+       (NNS questões)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ambiente)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (NNS exemplo)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (ADJP 
+       (RB totalmente)
+       (JJ novas)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (PRP nós)
+      )
+     )
+    )
+   )
+  )
+ )
+)

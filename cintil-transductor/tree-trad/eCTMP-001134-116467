@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (NP 
+        (NP 
+         (ADJP 
+          (RB já)
+          (PRP poucos)
+         )
+        )
+       )
+       (VB acreditavam)
+      )
+     )
+    )
+    (VB aconteceu)
+   )
+   (NP 
+    (DT o)
+    (NNS volte-face)
+   )
+  )
+ )
+)

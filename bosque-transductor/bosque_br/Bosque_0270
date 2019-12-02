@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN empresários)
+   )
+   (VP 
+    (VBP abriram)
+   )
+   (NP 
+    (NN mão)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN posições)
+     (ADJP 
+      (JJ históricas)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB eventualmente)
+    )
+    (VP 
+     (VBG visando)
+    )
+    (NP 
+     (DT sua)
+     (NN proteção)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VP 
+       (VB construir)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB defender)
+      )
+      (NP 
+       (NN idéias)
+       (PP 
+        (RB exclusivamente)
+        (IN de)
+        (NP 
+         (NN interesse)
+         (ADJP 
+          (JJ coletivo)
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NN desenvolvimento)
+           (ADJP 
+            (JJ global)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

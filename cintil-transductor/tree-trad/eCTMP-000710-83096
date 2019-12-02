@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Sem)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Django)
+       (NNS Reinhardt)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Charlie)
+        (NNS Christian)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS guitarra-jazz)
+    )
+    (VP 
+     (VB seria)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS instrumento)
+       (PP 
+        (IN sem)
+        (NP 
+         (NNS memória)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS mundo)
+       (JJ político)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS vozes)
+    )
+    (VP 
+     (VB são)
+     (PP 
+      (RB também)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS descrédito)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

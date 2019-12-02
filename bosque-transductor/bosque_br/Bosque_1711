@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN juros)
+   )
+   (VP 
+    (VBP despencaram)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN expectativa)
+     (ADJP 
+      (JJ otimista)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN inflação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN dezembro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

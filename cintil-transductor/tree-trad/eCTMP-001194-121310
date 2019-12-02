@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS afluência)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS praia)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB sofreu)
+     )
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (NNS diminuição)
+       (PP 
+        (PP 
+         (IN por)
+         (IN causa)
+         (IN de_)
+        )
+        (NP 
+         (DT o)
+         (NNS derrame)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

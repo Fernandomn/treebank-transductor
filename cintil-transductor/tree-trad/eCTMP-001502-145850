@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS seminários)
+       (ADJP 
+        (VB promovidos)
+        (PP 
+         (IN por)
+         (RB aqui)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NP 
+          (NNS vantagens)
+          (JJ comparativas)
+         )
+         (JJ propagandeadas)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS mão-de-obra)
+          (JJ barata)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

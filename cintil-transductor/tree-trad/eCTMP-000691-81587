@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fê)
+     (NP 
+      (PRP -lo)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB tendo)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS mente)
+        )
+       )
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS área)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS família)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

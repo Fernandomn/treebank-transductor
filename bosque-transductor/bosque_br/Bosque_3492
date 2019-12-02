@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN jurista)
+    (NP 
+     (NNP Miguel_Reale_Jr.)
+    )
+   )
+   (VP 
+    (VBP prefere)
+   )
+   (NP 
+    (DT um)
+    (NN pessedebismo)
+    (ADJP 
+     (JJ pedagógico)
+    )
+   )
+   (PP 
+    (IN a+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB aprovar)
+     )
+     (NP 
+      (DT a)
+      (NN atitude)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN polícia)
+       )
+      )
+      (PP 
+       (IN em)
+       (VP 
+        (VP 
+         (VB detê-)
+        )
+        (NP 
+         (PRP lo)
+        )
+        (NP 
+         (RB como)
+         (NP 
+          (NN exemplo)
+          (PP 
+           (IN para)
+           (NP 
+            (DT a)
+            (NN juventude)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

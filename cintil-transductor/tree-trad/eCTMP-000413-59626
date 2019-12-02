@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS procedimento)
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS lógica)
+      (ADJP 
+       (JJ semelhante)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (ADJP 
+           (VB usada)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT as)
+             (NP 
+              (NP 
+               (NNS macros)
+               (JJ correntes)
+              )
+              (PP 
+               (IN em_)
+               (NP 
+                (DT as)
+                (NP 
+                 (NNS aplicações)
+                 (PP 
+                  (IN para)
+                  (NP 
+                   (NNS Windows)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

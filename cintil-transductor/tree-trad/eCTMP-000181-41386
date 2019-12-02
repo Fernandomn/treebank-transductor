@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Procurador)
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB ter)
+    (PP 
+     (IN de)
+     (VP 
+      (VB explicar)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+   )
+  )
+ )
+)

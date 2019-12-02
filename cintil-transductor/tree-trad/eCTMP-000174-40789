@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Contudo)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS preço)
+    )
+    (VP 
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NNS empresários)
+      )
+     )
+     (VP 
+      (VB pode)
+      (VP 
+       (VB aumentar)
+       (PP 
+        (IN conforme)
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS nível)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS poluição)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NNS efluentes)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS número)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS produtos)
+               (JJ tóxicos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

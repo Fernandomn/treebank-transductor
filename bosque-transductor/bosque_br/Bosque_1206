@@ -1,0 +1,99 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Embora)
+    (ADVP 
+     (RB ainda)
+     (RB não)
+    )
+    (VP 
+     (VBP possa)
+     (VB ser)
+    )
+    (ADVP 
+     (RB definitivamente)
+    )
+    (VP 
+     (VBN descartada)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN hipótese)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN candidatura)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NP ex-presidente)
+        (NP 
+         (NNP José_Sarney)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP encontra-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (ADVP 
+    (RB pelo_menos)
+    (RB momentaneamente)
+   )
+   (ADJP 
+    (RB bastante)
+    (VBN afastada)
+   )
+   (VP 
+    (VP 
+     (VBG abrindo)
+    )
+    (NP 
+     (NN espaço)
+     (PP 
+      (IN para)
+      (VP 
+       (IN que)
+       (NP 
+        (DT a)
+        (NN campanha)
+       )
+       (VP 
+        (VBP comece)
+        (IN a)
+        (VB deslanchar)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN base)
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (JJ atual)
+           (NN grid)
+           (PP 
+            (IN de)
+            (VBN largada)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

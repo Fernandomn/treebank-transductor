@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS David)
+      (NNS Will)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS escopcês)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS vice-presidente)
+         (NNS de_)
+         (NNS a)
+         (NNS FIFA)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB podia)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS solução)
+        (PP 
+         (IN com)
+         (NP 
+          (PRP algum)
+          (NNS consenso)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

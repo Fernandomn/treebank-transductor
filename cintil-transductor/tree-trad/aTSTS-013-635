@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB subdivide)
+     (NP 
+      (DT o)
+      (NNS dinheiro)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NNS Manuel)
+     )
+    )
+   )
+  )
+ )
+)

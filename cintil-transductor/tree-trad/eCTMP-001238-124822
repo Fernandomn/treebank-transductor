@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Abel)
+      (NNS Macedo)
+     )
+    )
+    (VP 
+     (VB leu)
+     (NP 
+      (DT o)
+      (NNS documento)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB gostou)
+       )
+       (ADVP 
+        (RB sobretudo)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS competências)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB serão)
+            (VP 
+             (VB atribuídas)
+             (PP 
+              (IN a_)
+              (NP 
+               (DT as)
+               (NNS escolas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

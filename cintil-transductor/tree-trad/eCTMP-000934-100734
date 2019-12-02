@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Surpreendiam)
+     (NP 
+      (PRP -nas)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (VB paravam)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS sinais)
+          (JJ vermelhos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

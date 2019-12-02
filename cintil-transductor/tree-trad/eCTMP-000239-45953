@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Salientou)
+     (RB também)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT estas)
+       (NNS soluções)
+      )
+      (VP 
+       (RB só)
+       (VP 
+        (VB irão)
+        (VP 
+         (VB abranger)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS cidadãos)
+           (JJ legalizados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

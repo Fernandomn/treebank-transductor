@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN carta)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Stepanenko)
+     )
+    )
+   )
+   (VP 
+    (VBP engrossa)
+   )
+   (PP 
+    (IN desde)
+    (RB ontem)
+   )
+   (NP 
+    (DT o)
+    (NN inquérito)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NN ministro)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP TSE)
+    )
+   )
+  )
+ )
+)

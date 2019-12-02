@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Tentaram)
+      (VP 
+       (VP 
+        (VB alimentá)
+        (NP 
+         (PRP -lo)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS fiambre)
+          (NP 
+           (CC e)
+           (NNS presunto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP lhe)
+        )
+        (VB deram)
+       )
+      )
+      (NP 
+       (NNS água)
+      )
+     )
+    )
+   )
+  )
+ )
+)

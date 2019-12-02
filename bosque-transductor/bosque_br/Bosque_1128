@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (JJ próximas)
+    (NN datas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN cursos)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN dias)
+    (NP 
+     (UCP 
+      (NP 
+       (CD 23)
+      )
+      e
+      (ADJP 
+       (CD 30)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN julho)
+      )
+     )
+    )
+   )
+  )
+ )
+)

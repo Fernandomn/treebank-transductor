@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Anatomia)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS crime)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Rua)
+          (NNS de_)
+          (NNS a)
+          (NNS Palma)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

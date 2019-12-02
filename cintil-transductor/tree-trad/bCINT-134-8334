@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Presidente)
+     (NNS Chirac)
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS laicidade)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB é)
+        )
+        (JJ negociável)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS França)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

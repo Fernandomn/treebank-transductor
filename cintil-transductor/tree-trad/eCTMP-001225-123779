@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Criança)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS avião)
+       (JJ coreano)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB aparece)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS fim)
+      (PP 
+       (IN de)
+       (NP 
+        (CD três)
+        (NNS dias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

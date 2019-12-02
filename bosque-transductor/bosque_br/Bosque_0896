@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN meio)
+     (PP 
+      (IN a)
+      (NP 
+       (DT tantos)
+       (NN scuds)
+       (PP 
+        (IN por_causa_de+)
+        (NP 
+         (DT os)
+         (NN imbroglios)
+         (PP 
+          (IN de)
+          (NP 
+           (DT seu)
+           (NN vice)
+           (NP 
+            (NNP José_Paulo_Bisol)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Luiz_Inácio_Lula_da_Silva)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (ADVP 
+    (RB anteontem)
+   )
+   (NP 
+    (DT um)
+    (JJ providencial)
+    (NN refresco)
+   )
+  )
+ )
+)

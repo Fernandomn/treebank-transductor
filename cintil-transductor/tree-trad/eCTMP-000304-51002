@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD última)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS opções)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS programa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (NP 
+      (NP 
+       (NNS imagens)
+       (JJ animadas)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS dinossauros)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

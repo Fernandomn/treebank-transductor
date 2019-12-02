@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Meu)
+    (NN intuito)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB tentar)
+    )
+    (VP 
+     (VP 
+      (VB entender)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (NN papel)
+      )
+      (VP 
+       (VBP teve)
+      )
+      (NP 
+       (DT a)
+       (NN imprensa)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT essa)
+        (NN história)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

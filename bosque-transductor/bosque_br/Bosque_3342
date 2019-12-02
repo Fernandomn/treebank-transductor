@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Agarrado)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN copo)
+      (PP 
+       (IN de)
+       (NP 
+        (NN uísque)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT outro)
+    (NN destaque)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN noite)
+     )
+    )
+   )
+  )
+ )
+)

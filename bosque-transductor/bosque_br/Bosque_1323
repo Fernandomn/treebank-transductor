@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Brasil)
+    )
+    (VP 
+     (VBP dominou)
+    )
+    (NP 
+     (DT o)
+     (NN jogo)
+     (ADJP 
+      (JJ inteiro)
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP perdeu)
+    )
+    (NP 
+     (DT diversas)
+     (NN chances)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB marcar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT As)
+      (NNS crianças)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB querem)
+      )
+      (VB dormir)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT as)
+       (NNS pessoas)
+      )
+      (VP 
+       (VB estão)
+       (JJ inquietas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

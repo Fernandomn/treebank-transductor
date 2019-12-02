@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (CD 27)
+      (NNS anos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VB fui)
+     (NP 
+      (DT um)
+      (NNS soldado)
+     )
+    )
+   )
+  )
+ )
+)

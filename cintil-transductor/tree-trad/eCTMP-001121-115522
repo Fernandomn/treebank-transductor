@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS pelouros)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB estão)
+       (RB já)
+      )
+      (RB basicamente)
+     )
+     (ADJP 
+      (VB definidos)
+     )
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS administradores)
+       (ADJP 
+        (VB indicados)
+        (PP 
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NNS CML)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT a)
+            (NNS SEC)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Seguiu)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NP 
+      (NNS desfile)
+      (JJ futurista)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NP 
+         (NNS João)
+         (NNS Tomé)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Francisco)
+          (NNS Pontes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

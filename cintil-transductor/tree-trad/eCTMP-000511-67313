@@ -1,0 +1,54 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Vanda)
+     (NNS Canas)
+     (NNS Ferreira)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS professora)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Microbiologia)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS Instituto)
+         (NNS de)
+         (NNS Higiene)
+         (NNS e)
+         (NNS Medicina)
+         (NNS Tropical)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Universidade)
+           (NNS Nova)
+           (NNS de)
+           (NNS Lisboa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

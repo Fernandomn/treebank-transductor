@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Há)
+     (NP 
+      (NP 
+       (NP 
+        (NNS líderes)
+        (JJ parlamentares)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NNS sorte)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS jovem)
+        (NP 
+         (NNS Jorge)
+         (NNS Ferreira)
+        )
+       )
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS PP)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (PRP eles)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

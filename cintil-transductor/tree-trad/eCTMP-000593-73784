@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Valentim)
+     (NNS Loureiro)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VB mostra)
+     (NP 
+      (PRP alguma)
+      (NP 
+       (NNS irritação)
+       (PP 
+        (PP 
+         (IN para)
+         (IN com)
+        )
+        (NP 
+         (NP 
+          (NNS Adriano)
+          (NNS Pinto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Durante)
+    (NP 
+     (DT a)
+     (NN negociação)
+    )
+   )
+   (ADVP 
+    (RB ontem)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN tarde)
+     )
+    )
+   )
+   (NP 
+    (NNP Muller)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP telefonou)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN presidente)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP São_Paulo)
+        )
+       )
+       (NP 
+        (NNP Fernando_Casal_de_Rey)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP lamentou)
+     )
+    )
+   )
+  )
+ )
+)

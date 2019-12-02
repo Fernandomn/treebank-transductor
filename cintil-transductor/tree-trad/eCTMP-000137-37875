@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS problema)
+     (JJ fundamental)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB está)
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NNS alemães)
+       )
+      )
+     )
+     (PP 
+      (CC mas)
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NNS franceses)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

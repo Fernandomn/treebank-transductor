@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD dois)
+   )
+   (VP 
+    (VBP foram)
+    (VBN presos)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT o)
+     (NN taxista)
+     (NP 
+      (NNP José_Fioravanti)
+     )
+     (ADJP 
+      (CD 61)
+     )
+    )
+    (VP 
+     (VBP foi)
+     (VB entregar)
+    )
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 1.000)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NNP Romanioli)
+     )
+    )
+    (ADVP 
+     (RB como)
+     (NP 
+      (NN ágio)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN compra)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NNP Santana_Quantum)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

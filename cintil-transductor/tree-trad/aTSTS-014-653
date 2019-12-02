@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB escolhe)
+    (PP 
+     (IN entre)
+     (NP 
+      (CD dois)
+      (NNS pratos)
+     )
+    )
+   )
+  )
+ )
+)

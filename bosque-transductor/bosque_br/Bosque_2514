@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (VP 
+    (NP 
+     (PRP quem)
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP orgulhe)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN golpes)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP consegue)
+         )
+         (VP 
+          (VP 
+           (VB imaginar)
+          )
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP confunda)
+      )
+      (NP 
+       (NN artimanhas)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NN estratégia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

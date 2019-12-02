@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS complexidade)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS vida)
+           (JJ moderna)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ângulo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS histórias)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS interesse)
+             (JJ humano)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB serve)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS explicação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS evolução)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS História)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS termos)
+         (JJ compreensíveis)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

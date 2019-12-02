@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (DT nosso)
+     (NN jogo)
+    )
+    (ADVP 
+     (RB aqui)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN prevenção)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN secretário)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Segurança_Pública)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Antônio_Correia_Meyer)
+    )
+   )
+  )
+ )
+)

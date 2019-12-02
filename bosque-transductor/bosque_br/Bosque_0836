@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Iniciado)
+    )
+    (PP 
+     (IN em)
+     (ADJP 
+      (CD 1958)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN estudo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP O_Capital)
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN jovens)
+     (ADJP 
+      (JJ intelectuais)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN USP)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP terminaria)
+   )
+   (ADVP 
+    (NP 
+     (CD cinco)
+     (NN anos)
+    )
+    (RB mais)
+    (RB tarde)
+   )
+  )
+ )
+)

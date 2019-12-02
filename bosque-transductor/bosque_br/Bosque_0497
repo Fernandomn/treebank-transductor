@@ -1,0 +1,120 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN advogado)
+    (NP 
+     (NNP Mariano_Gonçalves_Neto)
+    )
+    (NP 
+     (NN autor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN ação)
+       (ADJP 
+        (JJ popular)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VBP arrasta)
+        )
+        (PP 
+         (IN há)
+         (NP 
+          (CD 12)
+          (NN anos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP acusa)
+   )
+   (NP 
+    (DT os)
+    (NP ex-ministros)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB aprovarem)
+     )
+     (NP 
+      (DT uma)
+      (NN superavaliação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN terrenos)
+        (VP 
+         (VP 
+          (VBN entregues)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN grupo)
+           (NP 
+            (NNP Delfin)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (RB como)
+      (NP 
+       (NN pagamento)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NN dívida)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (PP 
+           (IN em)
+           (ADJP 
+            (CD 1982)
+           )
+          )
+          (VP 
+           (VBP chegava)
+          )
+          (PP 
+           (IN a)
+           (NP 
+            (NN Cr)
+            (CD 70)
+            (NN milhões)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

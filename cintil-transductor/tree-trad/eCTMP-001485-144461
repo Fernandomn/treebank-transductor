@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS casa)
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB porém)
+     )
+     (VP 
+      (VB aguardava)
+      (NP 
+       (PRP -a)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ desagradável)
+      (NNS surpresa)
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

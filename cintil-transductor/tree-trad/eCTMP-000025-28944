@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Banco)
+     (NNS de)
+     (NNS Portugal)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB interveio)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS mercado)
+       (JJ interbancário)
+      )
+     )
+    )
+   )
+  )
+ )
+)

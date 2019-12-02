@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Rembrandt)
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT o)
+    (VBN preferido)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN pessoas)
+      (ADJP 
+       (RB mais)
+       (JJ importantes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

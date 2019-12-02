@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Suspensão)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS contrato)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS trabalho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN durante)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS período)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS greve)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP muitos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS fenómeno)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB exclusivamente)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS produto)
+       (JJ mediático)
+      )
+     )
+    )
+   )
+  )
+ )
+)

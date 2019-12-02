@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Semana)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP vem)
+     )
+    )
+   )
+   (VP 
+    (VBP começa)
+    (IN a)
+    (VB reescrever)
+   )
+   (NP 
+    (NNP Irmãos_Coragem)
+    (NP 
+     (NN novela)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Janete_Clair)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (DT a)
+         (NN Globo)
+        )
+        (VP 
+         (VBP exibiu)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (JJ enorme)
+          (NN sucesso)
+         )
+        )
+        (PP 
+         (IN entre)
+         (NP 
+          (NP 
+           (NN junho)
+           (PP 
+            (IN de)
+            (NP 
+             (CD 1970)
+            )
+           )
+          )
+          e
+          (NP 
+           (NN julho)
+           (PP 
+            (IN de)
+            (ADJP 
+             (CD 1971)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

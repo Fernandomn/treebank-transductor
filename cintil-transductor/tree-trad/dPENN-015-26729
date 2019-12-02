@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB é)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS jogo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS soma)
+         (JJ nula)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

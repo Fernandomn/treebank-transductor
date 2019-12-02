@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS margem)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS erro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS estudo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (CD 3,2)
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

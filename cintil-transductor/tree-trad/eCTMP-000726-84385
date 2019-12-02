@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT As)
+       (NP 
+        (NNS multinacionais)
+        (JJ poderosas)
+       )
+      )
+      (VP 
+       (VB ganharam)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS batalha)
+         (PP 
+          (IN contra)
+          (NP 
+           (NP 
+            (DT a)
+            (NNS razão)
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (DT a)
+             (NNS precaução)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB diz)
+     )
+     (NP 
+      (DT a)
+      (NNS organização)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NNS comunicado)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP receberá)
+   )
+   (NP 
+    (DT o)
+    (NN valor)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN vista)
+     )
+    )
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (CD 30)
+     (NN dias)
+    )
+   )
+  )
+ )
+)

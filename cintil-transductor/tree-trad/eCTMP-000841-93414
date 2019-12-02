@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Nenhum)
+     (NP 
+      (NNS governo)
+      (JJ europeu)
+     )
+    )
+    (VP 
+     (VP 
+      (VB considera)
+      (ADVP 
+       (ADVP 
+        (ADVP 
+         (RB a)
+         (RB sério)
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT este)
+           (NNS momento)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS redução)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS jornada)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS trabalho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

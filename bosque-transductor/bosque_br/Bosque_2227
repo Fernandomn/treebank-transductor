@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Licença)
+    (ADJP 
+     (JJ poética)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN parte)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT as)
+      (NN praias)
+     )
+     e
+     (NP 
+      (DT as)
+      (NN dunas)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN Fortaleza)
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN escolhidas)
+   )
+   (VP 
+    (RB como)
+    (NP 
+     (NN cenário)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Tropicaliente)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Paulo_Ubiratan)
+     (NP 
+      (NN diretor-artístico)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Globo)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por_causa_de+)
+    (NP 
+     (DT a)
+     (NN beleza)
+     (ADJP 
+      (JJ natural)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN lugar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

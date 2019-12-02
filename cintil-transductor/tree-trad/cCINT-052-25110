@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Refere)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS vantagens)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (PP 
+         (PP 
+          (IN segundo)
+          (NP 
+           (PRP ambos)
+          )
+         )
+        )
+        (S 
+         (NP 
+          (DT os)
+          (NNS livros)
+         )
+         (VP 
+          (VP 
+           (VB têm)
+           (PP 
+            (PP 
+             (PP 
+              (IN relativamente)
+              (IN a_)
+             )
+             (NP 
+              (DT a)
+              (NNS TV)
+             )
+            )
+            (PP 
+             (CC e)
+             (PP 
+              (IN a_)
+              (NP 
+               (DT os)
+               (NP 
+                (NNS jogos)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS computador)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

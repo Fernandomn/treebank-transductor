@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (S 
+      (VP 
+       (VB investe)
+       (NP 
+        (NP 
+         (NNS somas)
+         (JJ importantes)
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB tem)
+        (PP 
+         (IN de)
+         (VP 
+          (VB ter)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS posicionamento)
+            (ADJP 
+             (JJ diferente)
+             (PP 
+              (IN de)
+              (NP 
+               (DT um)
+               (NP 
+                (JJ pequeno)
+                (NNS accionista)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Vivo)
+     (RB aqui)
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (NP 
+         (CD vinte)
+         (CD e)
+         (CD cinco)
+        )
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

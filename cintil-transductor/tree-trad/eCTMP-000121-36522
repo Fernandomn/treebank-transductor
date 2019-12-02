@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS BBC)
+     (NNS Prime)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB repor)
+     (NP 
+      (PRP todos)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS episódios)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esta)
+          (NP 
+           (NNS série)
+           (ADJP 
+            (VB escrita)
+            (PP 
+             (IN por)
+             (NP 
+              (NP 
+               (NP 
+                (NNS Anthony)
+                (NNS Jay)
+               )
+              )
+              (NP 
+               (CC e)
+               (NP 
+                (NP 
+                 (NNS Jonathan)
+                 (NNS Lynn)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

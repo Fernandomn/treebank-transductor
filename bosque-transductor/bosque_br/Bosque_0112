@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Cinco)
+    (NN linhas)
+    (ADJP 
+     (JJ paralelas)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (ADJP 
+       (RB mais_de)
+       (CD 400)
+      )
+      (NN km)
+      (NP 
+       (DT cada)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN descobertas)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN cientistas)
+     (ADJP 
+      (JJ australianos)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN sul)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN país)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS CIP)
+  )
+  (VP 
+   (VB propõe)
+   (NP 
+    (NP 
+     (NP 
+      (NNS trabalho)
+      (JJ parcial)
+     )
+     (PP 
+      (IN após)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS licença)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS parto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

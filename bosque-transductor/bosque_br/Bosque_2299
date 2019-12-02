@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN líderes)
+   )
+   (VP 
+    (VBP acertaram)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VP 
+      (VBG havendo)
+     )
+     (NP 
+      (NN quorum)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN Orçamento)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 95)
+      )
+     )
+    )
+    (ADVP 
+     (RB só)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP será)
+     (VBN votado)
+    )
+    (ADVP 
+     (RB hoje)
+    )
+    (VP 
+     (IN se)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP ficar)
+     )
+     (ADJP 
+      (JJ pronta)
+     )
+     (NP 
+      (DT a)
+      (NN publicação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN parecer)
+        (VP 
+         (VP 
+          (VBN aprovado)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NNP Comissão_Mista_de_Orçamento)
+          )
+         )
+         (VP 
+          (VP 
+           (VBG acolhendo)
+          )
+          (NP 
+           (RB cerca_de)
+           (NN R$)
+           (NP 
+            (CD 2.5)
+            (NN bilhões)
+           )
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NN emendas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

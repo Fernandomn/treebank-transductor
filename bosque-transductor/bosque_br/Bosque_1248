@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN cama)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (DT um)
+      (NN leito)
+      (PP 
+       (IN de)
+       (NP 
+        (NN enferma)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (DT um)
+      (NN trono)
+      (PP 
+       (IN de)
+       (NP 
+        (NN rainha)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN idéia)
+    )
+    (VP 
+     (VBP é)
+    )
+    (VP 
+     (VP 
+      (VB privilegiar)
+     )
+     (NP 
+      (NP 
+       (DT os)
+       (PP 
+        (IN de)
+        (NP 
+         (JJ maior)
+         (NN qualidade)
+        )
+       )
+      )
+      e
+      (NP 
+       (DT as)
+       (NN feiras)
+       (ADJP 
+        (JJ estaduais)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Souza)
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB De_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN coronel)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN polícia)
+   )
+   (VP 
+    (VBP descobriu)
+   )
+   (NP 
+    (DT a)
+    (NN quadrilha)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NN denúncia)
+      (ADJP 
+       (JJ anônima)
+      )
+     )
+    )
+   )
+  )
+ )
+)

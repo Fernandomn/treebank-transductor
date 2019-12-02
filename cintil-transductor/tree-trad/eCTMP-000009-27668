@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tive)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB dividir)
+       (NP 
+        (DT os)
+        (NNS homens)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS grupos)
+         (ADJP 
+          (RB mais)
+          (JJ pequenos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

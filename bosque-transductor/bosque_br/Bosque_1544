@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Estou)
+     (VBG comprando)
+    )
+    (NP 
+     (DT o)
+     (NN micro)
+     (NP 
+      (DT o)
+      (NN portátil)
+      (NP 
+       (NNP Aero)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Compaq)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB acelerar)
+      )
+      (NP 
+       (DT as)
+       (NN pesquisas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (DT minha)
+         (NN tese)
+         (PP 
+          (IN de)
+          (NP 
+           (NN mestrado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Deborah_Caldas)
+   )
+  )
+ )
+)

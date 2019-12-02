@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT As)
+       (NP 
+        (NP 
+         (NNS condições)
+         (JJ técnicas)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT este)
+          (NNS espaço)
+         )
+        )
+       )
+      )
+      (VP 
+       (RB já)
+       (VP 
+        (VB inviabilizaram)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS participação)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS festival)
+            )
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS companhias)
+             (ADJP 
+              (JJ nacionais)
+              (ADJP 
+               (CC e)
+               (JJ internacionais)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirma)
+    )
+    (NP 
+     (NP 
+      (NNS Maia)
+      (NNS Marques)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Portugal)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS maioria)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS casos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS ponto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS passagem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

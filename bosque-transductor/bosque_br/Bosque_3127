@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Helcio_Emerich)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NN jornalista)
+     )
+     (NP 
+      (NN publicitário)
+     )
+     e
+     (NP 
+      (NP vice-presidente)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN agência)
+      (NP 
+       (NNP Almap/BBDO)
+      )
+     )
+    )
+   )
+  )
+ )
+)

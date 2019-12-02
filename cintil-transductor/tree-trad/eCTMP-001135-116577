@@ -1,0 +1,66 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Joaquim)
+     (NNS Leitão)
+    )
+    (CONJP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB tem)
+         (NP 
+          (NP 
+           (NNS assento)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS conselho)
+              (NNS consultivo)
+              (NNS de_)
+              (NNS o)
+              (NNS IPACA)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (NP 
+           (NNS nomeação)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS ex-secretaria)
+              (NNS de)
+              (NNS Estado)
+              (NNS de_)
+              (NNS a)
+              (NNS Cultura)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

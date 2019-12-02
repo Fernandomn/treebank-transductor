@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Quarenta)
+       (NNS séculos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (ADJP 
+       (JJ descendentes)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS patriarca)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Terra)
+             (NNS Prometida)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VB buscam)
+      (NP 
+       (DT a)
+       (NNS reconciliação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

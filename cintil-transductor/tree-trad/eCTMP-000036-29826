@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Funcionou)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NP 
+        (CD mil)
+        (NNS maravilhas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS Boavista)
+     )
+     (VP 
+      (VB acabou)
+      (PP 
+       (IN por)
+       (VP 
+        (VP 
+         (VB ganhar)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Taça)
+           (NNS de)
+           (NNS Portugal)
+          )
+         )
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (CD dois)
+           (NP 
+            (NNS golos)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Sanchez)
+             )
+            )
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT um)
+            (NP 
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS Nuno)
+                (NNS Gomes)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Número)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS vítimas)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (NNS incerto)
+   )
+  )
+ )
+)

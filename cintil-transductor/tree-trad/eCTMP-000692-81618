@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB De)
+     (RB facto)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS XXIII)
+     )
+    )
+    (VP 
+     (VB tinha)
+     (NP 
+      (PRP muita)
+      (NNS pressa)
+     )
+    )
+   )
+  )
+ )
+)

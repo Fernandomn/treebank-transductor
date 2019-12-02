@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB desapareceu)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS jardim)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (RB Hoje)
+   (S 
+    (ADVP 
+     (ADVP 
+      (RB em_)
+      (RB o)
+      (RB entanto)
+     )
+    )
+    (S 
+     (NP 
+      (NNS Timor)
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (NP 
+        (NP 
+         (NNS lugar)
+         (JJ garantido)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS hemiciclo)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Estrasburgo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

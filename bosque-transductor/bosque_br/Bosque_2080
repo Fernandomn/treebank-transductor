@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NN arquiteto)
+     (NP 
+      (NNP Siegbert_Zanettini)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Vila_Olímpia_Viva)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB agora)
+   )
+   (NP 
+    (DT um)
+    (NN órgão)
+    (ADJP 
+     (JJ independente)
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG analisando)
+   )
+   (NP 
+    (DT o)
+    (NN impacto)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN obra)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN meio_ambiente)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Britto)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP informou)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NNP Streck)
+     )
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ favorável)
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP ficou)
+     (IN de)
+     (VB discutir)
+    )
+    (NP 
+     (DT a)
+     (NN questão)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NNP PMDB)
+      (ADJP 
+       (JJ gaúcho)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Crianças)
+    (NP 
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 11)
+      )
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (CD 14)
+       (NN anos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vão)
+    (VB aprender)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB transformar)
+     )
+     (NP 
+      (NN sucatas)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN brinquedos)
+       (ADJP 
+        (JJ educativos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

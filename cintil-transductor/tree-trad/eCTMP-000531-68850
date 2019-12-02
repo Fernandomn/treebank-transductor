@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Emigração)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS saída)
+       (PP 
+        (IN para)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS habitantes)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS aldeias)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS PNA)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

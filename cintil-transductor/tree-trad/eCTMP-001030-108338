@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Nélson)
+      (NNS de)
+      (NNS Matos)
+     )
+    )
+    (NP 
+     (NNS editor)
+    )
+   )
+   (VP 
+    (VB nasceu)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Amadora)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN Rodovia)
+    (NP 
+     (NNP Castelo_Branco)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP segue)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN oeste)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Estado)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP apresenta)
+   )
+   (NP 
+    (DT vários)
+    (NN pontos)
+    (PP 
+     (IN com)
+     (NP 
+      (NN neblina)
+     )
+    )
+   )
+  )
+ )
+)

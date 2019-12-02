@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (NNS momentos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS salto)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS cultura)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NNS países)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

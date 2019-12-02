@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (NN pivô)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Orlando_Magic)
+      (NP 
+       (NN equipe)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP NBA)
+         (NP 
+          (NN liga)
+          (ADJP 
+           (JJ profissional)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN basquete)
+           )
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NNP EUA)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS sindicato)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS representante)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS negociação)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (ADVP 
+             (RB mais)
+             (RB de)
+            )
+            (CD 20.000)
+           )
+           (NP 
+            (NNS funcionários)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS Estado)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS Michigan)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

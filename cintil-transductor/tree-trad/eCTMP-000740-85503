@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS personagem)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB ganha)
+          (NP 
+           (NNS forma)
+          )
+         )
+         (PP 
+          (PP 
+           (IN a)
+           (NP 
+            (PRP cada)
+            (NNS instante)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

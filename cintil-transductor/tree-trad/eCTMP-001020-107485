@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Tal)
+    (NNS silêncio)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS tortura)
+       (ADJP 
+        (VB refinada)
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (JJ longa)
+            (NNS duração)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN sem)
+        (NP 
+         (NP 
+          (NNS fim)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NNS vista)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

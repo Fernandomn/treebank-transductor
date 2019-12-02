@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vai)
+     (PP 
+      (IN para)
+      (NP 
+       (CD dois)
+       (NNS anos)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS privatização)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS UBP)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB colocou)
+       (NP 
+        (DT os)
+        (NP 
+         (CD dois)
+         (NP 
+          (NNS protagonistas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT esta)
+            (NNS história)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS campos)
+         (JJ opostos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

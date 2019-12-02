@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NP 
+       (NNS centrismo)
+       (JJ parlamentar)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS tipo)
+         (JJ ocidental)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB emergirá)
+      )
+      (RB aqui)
+     )
+     (PP 
+      (PP 
+       (IN antes)
+       (IN de)
+      )
+      (NP 
+       (PRP muito)
+       (NNS tempo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

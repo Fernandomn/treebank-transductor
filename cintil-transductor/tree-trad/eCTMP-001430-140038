@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Eu)
+     )
+     (VP 
+      (VB posso)
+      (VP 
+       (VB dar)
+       (NP 
+        (DT a)
+        (NP 
+         (PP minha)
+         (NP 
+          (NNS opinião)
+          (PP 
+           (IN sobre)
+           (NP 
+            (DT as)
+            (NNS peças)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB faço)
+       (NP 
+        (PRP -o)
+       )
+      )
+      (ADVP 
+       (RB dentro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS SIC)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

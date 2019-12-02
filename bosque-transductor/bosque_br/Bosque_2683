@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB É)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT esse)
+     (NN combate)
+    )
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN maneira)
+     (VP 
+      (ADVP 
+       (RB como)
+      )
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VBP chegou)
+       (IN a)
+       (VB criar)
+      )
+      (NP 
+       (DT as)
+       (NN formas)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP geraram)
+        )
+        (NP 
+         (DT uma)
+         (NN obra)
+         (ADJP 
+          (JJ original)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (NP 
+    (NNP O_Olho_da_Revolução)
+   )
+   (VP 
+    (VBP tira)
+   )
+   (NP 
+    (DT seu)
+    (NN interesse)
+   )
+  )
+ )
+)

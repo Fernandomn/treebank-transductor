@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN sindicatos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN metalúrgicos)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Betim)
+         (NP 
+          (NNP MG)
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Ribeirão_Preto)
+         (NP 
+          (NNP SP)
+         )
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Bahia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP são)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN tendência)
+    )
+   )
+  )
+ )
+)

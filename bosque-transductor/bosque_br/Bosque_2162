@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN bancos)
+   )
+   (VP 
+    (VBP devem)
+    (VB responder)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN proposta)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN grupo)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 12)
+     )
+    )
+   )
+  )
+ )
+)

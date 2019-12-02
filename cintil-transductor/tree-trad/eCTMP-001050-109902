@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ anterior)
+     (NNS presidente)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB concorreu)
+    )
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS razões)
+        (JJ pessoais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

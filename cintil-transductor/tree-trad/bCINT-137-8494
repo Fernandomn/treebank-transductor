@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Precisávamos)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NNS baixo)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB apareceu)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Fernando)
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB tocava)
+            (NP 
+             (NNS guitarra)
+            )
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS Stealing)
+              (NNS Orchestra)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

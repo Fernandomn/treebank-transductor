@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (DT A)
+        (NNS eficácia)
+       )
+       (NP 
+        (NP 
+         (DT a)
+         (NNS organização)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS detalhe)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS pormenores)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNS sintonia)
+   )
+  )
+ )
+)

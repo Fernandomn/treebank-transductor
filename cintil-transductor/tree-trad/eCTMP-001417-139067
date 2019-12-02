@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ principal)
+     (NP 
+      (NNS problema)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS TV3D)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB precisamente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS aceitação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS sistemas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS visualização)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

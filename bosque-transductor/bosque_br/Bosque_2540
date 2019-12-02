@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Era)
+   )
+   (NP 
+    (DT o)
+    (NNP Circo_do_Arrelia)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN TV)
+     (NP 
+      (NNP Record)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1953)
+    )
+   )
+  )
+ )
+)

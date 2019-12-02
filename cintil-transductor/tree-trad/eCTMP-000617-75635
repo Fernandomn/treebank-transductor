@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Hospital)
+    (NNS de_)
+    (NNS o)
+    (NNS Barreiro)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS hora)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS mudança)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS termos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS protocolo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS obras)
+      (ADJP 
+       (ADJP 
+        (VB orçadas)
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (CD 600)
+           (CD mil)
+          )
+          (NNS contos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB serão)
+      (RB integralmente)
+     )
+     (VP 
+      (VB financiadas)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Gabinete)
+         (NNS de_)
+         (NNS o)
+         (NNS Nó)
+         (NNS Ferroviário)
+         (NNS de)
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

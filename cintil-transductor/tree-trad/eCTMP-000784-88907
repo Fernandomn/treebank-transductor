@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS Simão)
+     )
+     (ADJP 
+      (JJ moçambicano)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNS trabalhador)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS minas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS América)
+       (NNS de_)
+       (NNS o)
+       (NNS Sul)
+      )
+     )
+    )
+   )
+   (VP 
+    (CONJP 
+     (CC se)
+     (S 
+      (NP 
+       (DT os)
+       (NNS brancos)
+      )
+      (VP 
+       (VB estiverem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP nosso)
+          (NNS lado)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VB há)
+      (NP 
+       (NNS chances)
+      )
+     )
+    )
+   )
+  )
+ )
+)

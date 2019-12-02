@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Tudo)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ano)
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (DT o)
+         (NP 
+          (CD primeiro)
+          (NP 
+           (NNS sintoma)
+           (JJ negativo)
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VB foi)
+           (VB dado)
+          )
+          (PP 
+           (IN com)
+           (NP 
+            (DT a)
+            (NP 
+             (NP 
+              (NNS redução)
+              (PP 
+               (IN em)
+               (NP 
+                (NP 
+                 (NNS termos)
+                 (JJ reais)
+                )
+               )
+              )
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT as)
+               (NP 
+                (NNS despesas)
+                (PP 
+                 (IN com)
+                 (NP 
+                  (DT a)
+                  (NNS Educação)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

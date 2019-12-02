@@ -1,0 +1,106 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN chegada)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN ano)
+       (VP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (VP 
+         (VBP disputará)
+        )
+        (NP 
+         (DT uma)
+         (NN vaga)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN Senado)
+         )
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT o)
+          (NNP PP-SP)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP deu)
+     )
+     (NP 
+      (RB mais_de)
+      (CD duas)
+      (NN dezenas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN entrevistas)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP posou)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN fotos)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP deixou)
+     )
+     (ADJP 
+      (CD 1993)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN emissoras)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NN rádio)
+         )
+         e
+         (NP 
+          (NNP TV)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

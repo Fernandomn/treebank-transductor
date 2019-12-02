@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (ADVP 
+     (RB Cerca)
+     (RB de)
+    )
+    (NP 
+     (CD 14)
+     (CD mil)
+    )
+   )
+   (NNS títulos)
+  )
+  (VP 
+   (VB estão)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS disposição)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS público)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

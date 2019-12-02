@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Fernando_Collor)
+   )
+   (ADVP 
+    (RB evidentemente)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP foi)
+    (VBN convidado)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN posse)
+    )
+   )
+  )
+ )
+)

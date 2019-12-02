@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT As)
+      (NP 
+       (NNS taxas)
+       (ADJP 
+        (VB praticadas)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS mercado)
+            (JJ monetário)
+           )
+           (JJ espanhol)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB caíram)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS maturidades)
+         (JJ curtas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB apresentaram)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS movimento)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS alta)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS prazos)
+         (ADJP 
+          (RB mais)
+          (JJ longos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

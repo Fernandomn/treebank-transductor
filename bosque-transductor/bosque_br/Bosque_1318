@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Classical_Music_Award)
+    )
+    (VP 
+     (VBP é)
+     (VBN promovido)
+    )
+    (PP 
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NNP BBC_Music_Magazine)
+      )
+     )
+     e
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN jornal)
+       (NP 
+        (NNP The_Independent)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (DT o)
+     (NN patrocínio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN empresa)
+       (NP 
+        (NNP Kenwood)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

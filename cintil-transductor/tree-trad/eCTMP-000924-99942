@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Nogueira)
+     (NNS de)
+     (NNS Brito)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB longe)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS críticas)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS PP)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

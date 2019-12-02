@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Sebastião)
+     (NNS de_)
+     (NNS a)
+     (NNS Gama)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB tinha)
+     )
+     (RB ainda)
+    )
+    (NP 
+     (CD 28)
+     (NNS anos)
+    )
+   )
+  )
+ )
+)

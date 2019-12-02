@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS encontros)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS trabalho)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vão)
+    (S 
+     (VP 
+      (VB acontecendo)
+      (PP 
+       (IN sem)
+       (NP 
+        (NP 
+         (JJ grande)
+         (NNS alarde)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

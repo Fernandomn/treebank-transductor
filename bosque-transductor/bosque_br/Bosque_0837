@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (PRP eles)
+    )
+   )
+   (VP 
+    (VBP estavam)
+   )
+   (NP 
+    (NN figuras)
+    (VP 
+     (ADVP 
+      (RB hoje)
+     )
+     (VP 
+      (VBN conhecidas)
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (DT o)
+       (NN filósofo)
+       (NP 
+        (NNP José_Arthur_Giannotti)
+       )
+      )
+      (NP 
+       (DT o)
+       (NN crítico)
+       (ADJP 
+        (JJ literário)
+       )
+       (NP 
+        (NNP Roberto_Schwarz)
+       )
+      )
+      e
+      (NP 
+       (DT o)
+       (NN economista)
+       (NP 
+        (NNP Paul_Singer)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

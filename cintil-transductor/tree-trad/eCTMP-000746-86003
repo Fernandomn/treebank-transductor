@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS mundo)
+    (ADJP 
+     (VB sonhado)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS desenho)
+      )
+     )
+    )
+   )
+  )
+ )
+)

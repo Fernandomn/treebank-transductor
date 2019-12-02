@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Temos)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS filho)
+       (PP 
+        (IN com)
+        (NP 
+         (CD seis)
+         (NNS anos)
+        )
+       )
+      )
+      (ADJP 
+       (JJ saudável)
+      )
+     )
+    )
+   )
+  )
+ )
+)

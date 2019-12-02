@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT os)
+      (NP 
+       (JJ grandes)
+       (NNS semeadores)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP qualquer)
+     (NNS terra)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NP 
+       (NNS terra)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS fruto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

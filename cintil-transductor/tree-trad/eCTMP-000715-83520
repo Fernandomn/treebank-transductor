@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS turcos)
+   )
+   (VP 
+    (VB são)
+    (PP 
+     (RB também)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS número)
+        (JJ crescente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

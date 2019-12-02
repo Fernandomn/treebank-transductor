@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT o)
+     (NN final)
+    )
+   )
+   (NP 
+    (DT todos)
+    (DT os)
+    (NN corredores)
+   )
+   (VP 
+    (VBP comemoram)
+   )
+   (NP 
+    (DT a)
+    (NN prova)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT uma)
+     (NN feijoada)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN casa)
+     (ADJP 
+      (JJ noturna)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS cerimónia)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS transmissão)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS comando)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB decorrerá)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS cais)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Alcântara)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

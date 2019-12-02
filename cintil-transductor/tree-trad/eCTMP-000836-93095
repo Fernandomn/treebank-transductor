@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS ganhos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Tóquio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB mostram)
+      (RB agora)
+     )
+     (NP 
+      (PRP alguma)
+      (NNS estabilidade)
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN depois)
+       (IN de)
+      )
+      (NP 
+       (CD três)
+       (NP 
+        (NP 
+         (NNS dias)
+         (JJ consecutivos)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNS alta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

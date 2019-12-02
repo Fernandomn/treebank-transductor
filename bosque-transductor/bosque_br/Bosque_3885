@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Técnico)
+    (NP 
+     (NNP Pepe)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP falta)
+    )
+    (NP 
+     (NN talento)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NNP Santos)
+     )
+    )
+   )
+  )
+ )
+)

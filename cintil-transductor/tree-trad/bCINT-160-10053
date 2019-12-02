@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabemos)
+    (NP 
+     (PRP nós)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (PRP tudo)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VB vibra)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB produz)
+      (NP 
+       (DT um)
+       (NNS som)
+      )
+     )
+    )
+   )
+  )
+ )
+)

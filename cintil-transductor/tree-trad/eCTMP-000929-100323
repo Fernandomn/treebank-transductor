@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS escolha)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS festival)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS estreia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB aposta)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS maioria)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS nomes)
+          (JJ fortes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

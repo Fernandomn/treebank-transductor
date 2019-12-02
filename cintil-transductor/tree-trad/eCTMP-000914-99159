@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Recentemente)
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Cardoso)
+      (NNS e)
+      (NNS Cunha)
+     )
+    )
+    (VP 
+     (VB pediu)
+     (NP 
+      (NP 
+       (NNS urgência)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS entrega)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

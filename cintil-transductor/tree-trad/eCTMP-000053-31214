@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Portanto)
+   )
+   (S 
+    (NP 
+     (PRP você)
+    )
+    (VP 
+     (VB deveria)
+     (VP 
+      (VP 
+       (VB preocupar)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS sistemas)
+          (JJ políticos)
+         )
+         (JJ vigentes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

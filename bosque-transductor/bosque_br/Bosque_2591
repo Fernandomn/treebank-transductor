@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN secretário)
+    )
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 43.5)
+     (NN milhões)
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN liberados)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN prefeito)
+    )
+   )
+   (ADVP 
+    (NP 
+     (CD quatro)
+     (NN meses)
+    )
+    (RB atrás)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NP 
+       (NN ampliação)
+      )
+      ou
+      (NP 
+       (NN reforma)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (CD dez)
+        (NN hospitais)
+       )
+       e
+       (NP 
+        (NN unidades)
+        (PP 
+         (IN de)
+         (NP 
+          (NN saúde)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

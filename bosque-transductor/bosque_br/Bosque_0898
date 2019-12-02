@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Preocupado)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN facilidade)
+      (PP 
+       (IN de)
+       (NP 
+        (NN comunicação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT seu)
+          (NN adversário)
+          (NP 
+           (NNP Francisco_Rossi)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Mário_Covas)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP acatou)
+     )
+     (NP 
+      (DT as)
+      (NN recomendações)
+      (PP 
+       (IN de)
+       (NP 
+        (NN assessores)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN presidente)
+          (VBN eleito)
+          (NP 
+           (NNP Fernando_Henrique_Cardoso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP submeteu)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN técnicas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN marketing)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

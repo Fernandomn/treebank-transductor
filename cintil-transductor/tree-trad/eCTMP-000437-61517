@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Praia)
+     (NNS de_)
+     (NNS a)
+     (NNS China)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB entretanto)
+     )
+     (VP 
+      (VB cancelada)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NNS ABC)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS quebra)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS audiência)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

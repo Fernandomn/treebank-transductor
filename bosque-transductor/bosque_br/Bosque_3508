@@ -1,0 +1,202 @@
+(
+ (S 
+  (NP 
+   (NN Parágrafo)
+   (ADJP 
+    (JJ 3º.)
+   )
+   (VP 
+    (PP 
+     (IN Em+)
+     (NP 
+      (DT os)
+      (NN contratos)
+      (UCP 
+       (VBN celebrados)
+       ou
+       (VP 
+        (VP 
+         (VBN convertidos)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN URV)
+         )
+        )
+       )
+      )
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (VP 
+        (VBP haja)
+       )
+       (NP 
+        (NN cláusula)
+        (PP 
+         (IN de)
+         (NP 
+          (NN reajuste)
+          (PP 
+           (IN de)
+           (NP 
+            (NN valor)
+           )
+          )
+          (PP 
+           (PP 
+            (IN por)
+            (NP 
+             (NN índice)
+             (PP 
+              (IN de)
+              (NP 
+               (NN preços)
+              )
+             )
+            )
+           )
+           ou
+           (PP 
+            (IN por)
+            (NP 
+             (NN índice)
+             (VP 
+              (NP 
+               (PRP que)
+              )
+              (VP 
+               (VBP reflita)
+              )
+              (NP 
+               (DT a)
+               (NN variação)
+               (VBN ponderada)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT os)
+                 (NN custos)
+                 (PP 
+                  (IN de+)
+                  (NP 
+                   (DT os)
+                   (NN insumos)
+                   (VBN utilizados)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN cálculo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT esses)
+       (NN índices)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN efeitos)
+       (PP 
+        (IN de)
+        (NP 
+         (NN reajuste)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP deverá)
+     (VB ser)
+    )
+    (VP 
+     (VP 
+      (PP 
+       (IN em+)
+       (NP 
+        (DT esta)
+        (NN moeda)
+       )
+      )
+      (PP 
+       (IN até)
+       (NP 
+        (DT a)
+        (NN emissão)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN real)
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (RB daí_em_diante)
+      (PP 
+       (IN em)
+       (NP 
+        (NN real)
+        (VP 
+         (VP 
+          (VBN observado)
+         )
+         (NP 
+          (DT o)
+          (NN art.)
+          (ADJP 
+           (CD 38)
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN lei)
+            (NP 
+             (NN nº.)
+            )
+            (ADJP 
+             (CD 8.880)
+            )
+            (PP 
+             (IN de)
+             (ADJP 
+              (CD 27.05.94)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

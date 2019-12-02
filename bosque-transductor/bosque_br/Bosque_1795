@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Inclui)
+   )
+   (NP 
+    (NN disquete)
+    (PP 
+     (IN de)
+     (NP 
+      (NN atualização)
+      (NP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (CD 6.0)
+        )
+       )
+       (PP 
+        (IN para)
+        (ADJP 
+         (CD 6.2)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

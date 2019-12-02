@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NN possibilidade)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN gravidez)
+       (NP 
+        (NN pós-menopausa)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN uso)
+     (PP 
+      (IN de)
+      (NP 
+       (NN óvulos)
+       (PP 
+        (IN de)
+        (NP 
+         (NN fetos)
+         (VBN abortados)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP veja)
+    )
+    (NP 
+     (NN texto)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN pág.)
+       (ADJP 
+        (CD 6)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN exemplos)
+    (ADJP 
+     (RB mais)
+     (JJ gritantes)
+    )
+   )
+  )
+ )
+)

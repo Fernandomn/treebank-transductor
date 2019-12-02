@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB é)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS obra-prima)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS realizador)
+            (JJ espanhol)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NNS compromisso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Politburo)
+    )
+    (VP 
+     (VB escolheu)
+     (NP 
+      (DT a)
+      (NNS Praça)
+     )
+    )
+   )
+  )
+ )
+)

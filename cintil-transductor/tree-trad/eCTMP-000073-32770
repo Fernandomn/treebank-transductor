@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Sem)
+      (NP 
+       (NNS escritura)
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB há)
+      )
+      (NP 
+       (NNS alvará)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (IN sem)
+       (NP 
+        (PRP ele)
+       )
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB há)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS inclusão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS espaço)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (ADJP 
+             (VB chamado)
+            )
+            (NP 
+             (NNS perímetro)
+             (JJ urbano)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

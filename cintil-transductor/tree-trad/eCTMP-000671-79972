@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Posição)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB merece)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NNS concordância)
+         (PP 
+          (IN de_)
+          (NP 
+           (NP 
+            (DT o)
+            (NP 
+             (CD terceiro)
+             (NP 
+              (NNS vereador)
+              (JJ social-democrata)
+             )
+            )
+           )
+           (NP 
+            (NP 
+             (NNS Viegas)
+             (NNS Palma)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

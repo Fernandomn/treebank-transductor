@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todos)
+    (DT os)
+    (NN plínios)
+   )
+   (VP 
+    (VBP costumam)
+    (VB almoçar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Esplanada_Grill)
+     (NP 
+      (NN refeições)
+      (PP 
+       (IN de)
+       (NP 
+        (NN US$)
+        (ADJP 
+         (CD 40)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN média)
+      )
+     )
+    )
+   )
+  )
+ )
+)

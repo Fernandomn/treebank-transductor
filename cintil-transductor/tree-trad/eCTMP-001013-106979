@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Bolsa)
+     (NNS de)
+     (NNS Madrid)
+    )
+   )
+   (VP 
+    (VP 
+     (VB iniciou)
+     (NP 
+      (DT a)
+      (NNS semana)
+     )
+    )
+    (PP 
+     (IN sob)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS signo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS azar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

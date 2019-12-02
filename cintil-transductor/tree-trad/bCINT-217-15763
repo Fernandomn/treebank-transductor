@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS triatleta)
+     (JJ portuguesa)
+    )
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (NP 
+      (PRP muitos)
+      (NNS admiradores)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Roth)
+     )
+    )
+   )
+  )
+ )
+)

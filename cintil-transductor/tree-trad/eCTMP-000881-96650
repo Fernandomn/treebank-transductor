@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS curso)
+    )
+    (VP 
+     (VB é)
+     (VP 
+      (VB financiado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Fundo)
+         (NNS Social)
+         (NNS Europeu)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS direcção)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS actores)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB foi)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS José)
+         (NNS Valentim)
+         (NNS Lemos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

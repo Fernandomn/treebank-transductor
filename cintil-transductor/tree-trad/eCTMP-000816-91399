@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Auxílio)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (JJ antigos)
+        (NNS associados)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VB ser)
+     (JJ importante)
+    )
+   )
+  )
+ )
+)

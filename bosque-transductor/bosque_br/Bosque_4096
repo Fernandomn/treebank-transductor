@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNP Kim)
+   (CC E)
+   (IN sobre)
+   (VP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP fiquei)
+    )
+    (ADJP 
+     (RB totalmente)
+     (JJ nua)
+    )
+    (NP 
+     (DT o)
+     (NN tempo)
+     (NP 
+      (DT todo)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Decidimos)
+   )
+   (ADVP 
+    (RB então)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT uma)
+     (NN questão)
+     (PP 
+      (IN de)
+      (NP 
+       (NN economia)
+       (ADJP 
+        (JJ cênica)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB abolir)
+     )
+     (NP 
+      (CD uma)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN casas)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB só)
+     )
+     (VP 
+      (VB insinuar)
+     )
+     (ADJP 
+      (DT as)
+      (DT outras)
+      (CD duas)
+     )
+     (VP 
+      (VP 
+       (VBG fazendo)
+      )
+      (ADVP 
+       (RB apenas)
+      )
+      (NP 
+       (DT suas)
+       (NN entradas)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP parecem)
+        )
+        (NP 
+         (DT as)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NN templo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

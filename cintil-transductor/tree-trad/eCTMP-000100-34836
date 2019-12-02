@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NP 
+        (NNS termos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS conjunto)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (VB montado)
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS sistema)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS iluminação)
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (S 
+        (VP 
+         (VB pode)
+         (VP 
+          (VB representar)
+          (NP 
+           (DT um)
+           (NP 
+            (JJ importante)
+            (NP 
+             (NNS factor)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS valorização)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT o)
+                  (NNS espaço)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NN colisão)
+    )
+   )
+   (NP 
+    (CD cinco)
+    (NN passageiros)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP ficaram)
+     )
+     (VBN feridos)
+    )
+    e
+    (VP 
+     (VP 
+      (VBP foram)
+      (VBN atendidos)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Hospital_Mário_Gatti)
+      )
+     )
+    )
+   )
+  )
+ )
+)

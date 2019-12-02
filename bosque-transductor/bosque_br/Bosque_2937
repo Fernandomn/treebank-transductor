@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Os)
+     (DT demais)
+    )
+    (VP 
+     (VBP estão)
+     (VBG sendo)
+     (VBN poupados)
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP poderiam)
+     (VB jogar)
+    )
+    (VP 
+     (IN se)
+     (VP 
+      (VBP fosse)
+     )
+     (ADJP 
+      (JJ preciso)
+     )
+    )
+   )
+  )
+ )
+)

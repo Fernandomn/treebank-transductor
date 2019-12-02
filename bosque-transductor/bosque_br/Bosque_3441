@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (DT o)
+      (NN almoço)
+      (ADJP 
+       (JJ familiar)
+      )
+     )
+    )
+    (ADVP 
+     (RB por_exemplo)
+    )
+    (VP 
+     (VBP fala-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (ADVP 
+     (RB muito)
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (RB quase)
+      (PRP nada)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP ninguém)
+    )
+    (VP 
+     (VBP mastiga)
+    )
+   )
+  )
+ )
+)

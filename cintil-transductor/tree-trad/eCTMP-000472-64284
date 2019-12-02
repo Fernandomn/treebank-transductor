@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Francisco)
+      (NNS Monteiro)
+     )
+    )
+    (VP 
+     (VB estudou)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS Helena)
+        (NNS Sá)
+        (NNS e)
+        (NNS Costa)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NNS especialista)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS reportório)
+            (JJ contemporâneo)
+           )
+           (JJ português)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

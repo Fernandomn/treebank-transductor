@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS islamização)
+    )
+    (VP 
+     (VP 
+      (VB será)
+      (ADVP 
+       (RB primeiro)
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS destruição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS espaço)
+           (JJ social)
+          )
+          (PP 
+           (IN entre)
+           (NP 
+            (NP 
+             (DT o)
+             (NNS Estado)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (DT a)
+              (NNS família)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

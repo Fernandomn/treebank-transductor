@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Novo)
+    (NP 
+     (NNS fundo)
+     (ADJP 
+      (VB criado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS Governo)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB agrada)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NNS UIPSS)
+    )
+   )
+  )
+ )
+)

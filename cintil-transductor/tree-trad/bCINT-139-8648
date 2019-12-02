@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Portugal)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (JJ pequeno)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NNS X-Wife)
+     )
+    )
+   )
+  )
+ )
+)

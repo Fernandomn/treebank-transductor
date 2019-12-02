@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS Duarte)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NNS Sebastião)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB cumpriram)
+     (ADVP 
+      (RB a_)
+      (RB a)
+      (RB risca)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB haviam)
+          (VP 
+           (VB combinado)
+          )
+         )
+         (PP 
+          (PP 
+           (IN relativamente)
+           (IN a_)
+          )
+          (NP 
+           (DT o)
+           (NNS lixo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

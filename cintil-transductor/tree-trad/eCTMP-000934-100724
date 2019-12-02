@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estarão)
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (PP minha)
+        (NNS procura)
+       )
+      )
+     )
+     (ADVP 
+      (CC ou)
+      (RB não)
+     )
+    )
+   )
+  )
+ )
+)

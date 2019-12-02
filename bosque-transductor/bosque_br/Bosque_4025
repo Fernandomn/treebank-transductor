@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Tenista)
+    (ADJP 
+     (JJ francesa)
+    )
+   )
+   (VP 
+    (VBP elimina)
+   )
+   (NP 
+    (NNP Arantxa)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Nova_York)
+    )
+   )
+  )
+ )
+)

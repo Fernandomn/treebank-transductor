@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (JJ terceiro)
+     (NN réu)
+     (NP 
+      (NNP Alexandre_Cardoso)
+     )
+     (ADJP 
+      (CD 21)
+     )
+     (NP 
+      (DT o)
+      (NNP Topeira)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN juiz)
+   )
+   (VP 
+    (VBP determinou)
+   )
+   (NP 
+    (DT uma)
+    (NN pena)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 20)
+      (NN anos)
+     )
+    )
+   )
+  )
+ )
+)

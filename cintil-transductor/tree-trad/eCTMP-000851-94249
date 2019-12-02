@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Câmara)
+    (NNS de)
+    (NNS Lisboa)
+   )
+  )
+  (VP 
+   (VB ataca)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NNS telhados)
+    )
+   )
+  )
+ )
+)

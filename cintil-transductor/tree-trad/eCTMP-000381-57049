@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Passavam)
+     (NP 
+      (DT o)
+      (NNS tempo)
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB observar)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS recreios)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS jardins)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS infância)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS procura)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS raparigas)
+            (ADJP 
+             (RB mais)
+             (JJ atléticas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

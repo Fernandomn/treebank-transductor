@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Zapata)
+    )
+    (VP 
+     (VB concretizou)
+     (NP 
+      (PRP -os)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS resultado)
+     )
+     (VP 
+      (VB estava)
+      (JJ feito)
+     )
+    )
+   )
+  )
+ )
+)

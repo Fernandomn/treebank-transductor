@@ -1,0 +1,87 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Ensaiam)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS parques)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS estacionamento)
+         )
+        )
+        (PP 
+         (PP 
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS ar)
+             (JJ livre)
+            )
+           )
+          )
+          (PP 
+           (CC ou)
+           (PP 
+            (IN em)
+            (NP 
+             (NP 
+              (NNS pavilhões)
+              (ADJP 
+               (VB cedidos)
+               (PP 
+                (PP 
+                 (IN por)
+                 (NP 
+                  (NP 
+                   (NNS escolas)
+                   (JJ secundárias)
+                  )
+                 )
+                )
+                (PP 
+                 (PP 
+                  (PP 
+                   (IN por_)
+                   (NP 
+                    (DT os)
+                    (NNS bombeiros)
+                   )
+                  )
+                  (PP 
+                   (CC e)
+                   (PP 
+                    (RB até)
+                    (PP 
+                     (IN por)
+                     (NP 
+                      (NNS empresas)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

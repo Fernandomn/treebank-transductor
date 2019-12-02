@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Depois)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NP 
+        (NNS produção)
+        (JJ legislativa)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS bola)
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (RB agora)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS lado)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS SNB)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

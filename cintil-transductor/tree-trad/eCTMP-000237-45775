@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Há)
+      (NP 
+       (CD seis)
+       (NNS anos)
+      )
+     )
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Fátima)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS cardeal)
+     )
+     (VP 
+      (VP 
+       (VB referiu)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS tema)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

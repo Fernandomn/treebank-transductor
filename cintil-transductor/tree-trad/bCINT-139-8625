@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Tem)
+       (RB também)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS bocado)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS punk)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NNS punk)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NNS rock)
+      )
+     )
+    )
+   )
+  )
+ )
+)

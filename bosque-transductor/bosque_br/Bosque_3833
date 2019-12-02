@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP CBD)
+   )
+   (VP 
+    (VBP aliciou)
+   )
+   (NP 
+    (NP 
+     (NNP Leônidas)
+     (NP 
+      (NNP Vasco)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNP Luizinho)
+      )
+      e
+      (NP 
+       (NNP Waldemar_de_Brito)
+      )
+     )
+     (NP 
+      (NNP São_Paulo)
+     )
+    )
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT outros)
+    )
+   )
+  )
+ )
+)

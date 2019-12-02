@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NNS Bill)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB estava)
+      )
+      (ADVP 
+       (RB dentro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Federal)
+          (NNS Building)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (RB só)
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VB sabe)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VB perdeu)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT esse)
+               (NNS dia)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS declaração)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB tem)
+        )
+        (NP 
+         (NP 
+          (NNS valor)
+          (JJ jurídico)
+         )
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (VP 
+          (VB mantém)
+          (NP 
+           (DT a)
+           (NNS questão)
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNS aberto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

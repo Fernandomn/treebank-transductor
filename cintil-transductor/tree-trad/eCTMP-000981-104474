@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Incêndio)
+  )
+  (VP 
+   (VB danifica)
+   (NP 
+    (NP 
+     (NNS prédio)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Coimbra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

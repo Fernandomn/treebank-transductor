@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NP 
+      (NNS saída)
+      (ADJP 
+       (ADJP 
+        (ADVP 
+         (RB só)
+         (RB agora)
+        )
+        (VB conhecida)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB justificada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS discordâncias)
+        (PP 
+         (PP 
+          (IN quanto)
+          (IN a_)
+         )
+         (NP 
+          (DT o)
+          (NP 
+           (NNS rumo)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS trabalhos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

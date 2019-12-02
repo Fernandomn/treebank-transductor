@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Seu)
+    (NN instrumento)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB ser)
+       (VBN ouvido)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT a)
+    (NN força)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN violência)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS SEGURANÇA)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS PARQUE)
+        (JJ OLÍMPICO)
+       )
+       (PP 
+        (IN DE)
+        (NP 
+         (NNS ATLANTA)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB É)
+   (NP 
+    (DT O)
+    (NP 
+     (JJ PRINCIPAL)
+     (NP 
+      (NNS SUSPEITO)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ATENTADO)
+         (JJ BOMBISTA)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

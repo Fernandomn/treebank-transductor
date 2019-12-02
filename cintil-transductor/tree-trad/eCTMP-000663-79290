@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estava)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS vantagem)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS pistola)
+      )
+     )
+     (VP 
+      (VB era)
+      (NP 
+       (DT uma)
+       (NNS 7,65)
+      )
+     )
+    )
+   )
+  )
+ )
+)

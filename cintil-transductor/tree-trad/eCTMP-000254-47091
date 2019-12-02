@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB está)
+     )
+     (PP 
+      (IN a)
+      (VB treinar)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (RB portanto)
+      (VP 
+       (VP 
+        (RB não)
+        (VB está)
+       )
+       (JJ disponível)
+      )
+     )
+    )
+   )
+  )
+ )
+)

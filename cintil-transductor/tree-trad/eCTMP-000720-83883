@@ -1,0 +1,69 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CONJP 
+     (NP 
+      (NP 
+       (PRP que)
+      )
+     )
+     (S 
+      (VP 
+       (RB ainda)
+       (VP 
+        (PP 
+         (PP 
+          (IN segundo)
+          (NP 
+           (PRP ele)
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VB representaria)
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS revolução)
+             (JJ fundamental)
+            )
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS domínio)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS síntese)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS materiais)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

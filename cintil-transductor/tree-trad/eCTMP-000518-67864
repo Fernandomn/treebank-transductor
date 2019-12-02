@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Deng)
+     (NNS Lin)
+    )
+   )
+   (VP 
+    (VP 
+     (VB vive)
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NNS pais)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NP 
+         (NNS pátio)
+         (JJ tradicional)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (JJ velha)
+           (NNS Pequim)
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN por)
+          (IN detrás)
+          (IN de_)
+         )
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Cidade)
+           (NNS Proibida)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

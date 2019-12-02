@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Empresário)
+     (NNS Joe)
+     (NNS Berardo)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS mecenas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS artes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

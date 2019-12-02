@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN relatório)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (DT as)
+     (NN reuniões)
+     (PP 
+      (IN entre)
+      (NP 
+       (NN funcionários)
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Casa_Branca)
+         )
+        )
+        e
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN Tesouro)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP violaram)
+    )
+    (NP 
+     (DT a)
+     (NN ética)
+    )
+   )
+  )
+ )
+)

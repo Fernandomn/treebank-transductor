@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS sequência)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS derrota)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS treinador)
+      (NP 
+       (NNS João)
+       (NNS Alves)
+      )
+     )
+    )
+    (VP 
+     (VB voltou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB demitir)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

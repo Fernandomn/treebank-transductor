@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Havelange)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP aceitaria)
+     )
+     (VP 
+      (VP 
+       (VB engolir)
+      )
+      (NP 
+       (DT o)
+       (NN italiano)
+       (NP 
+        (NNP Antonio_Matarrese)
+       )
+      )
+      (PP 
+       (IN como)
+       (NP 
+        (DT o)
+        (DT seu)
+        (NP vice-executivo)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (PP 
+      (IN além_de+)
+      (NP 
+       (PRP isso)
+      )
+     )
+     (VP 
+      (VBP esqueceria)
+     )
+     (NP 
+      (DT os)
+      (DT seus)
+      (NN modos)
+      (ADJP 
+       (JJ autoritários)
+      )
+     )
+     (VP 
+      (VP 
+       (VBG coordenando)
+      )
+      (NP 
+       (DT a)
+       (NN entidade)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN maneira)
+        (ADJP 
+         (JJ colegiada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

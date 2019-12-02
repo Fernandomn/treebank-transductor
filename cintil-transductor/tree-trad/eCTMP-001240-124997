@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ outro)
+     (NP 
+      (NP 
+       (NNS facto)
+       (JJ astronómico)
+      )
+      (JJ interessante)
+     )
+    )
+   )
+   (VP 
+    (VB ocorrerá)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS madrugada)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS terça-feira)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

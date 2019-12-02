@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD dois)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB matou)
+   (NP 
+    (DT o)
+    (NP 
+     (JJ outro)
+    )
+   )
+  )
+ )
+)

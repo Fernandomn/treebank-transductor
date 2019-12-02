@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Profissionais)
+    (PP 
+     (IN com)
+     (NP 
+      (JJ longa)
+      (NN experiência)
+      (PP 
+       (IN em)
+       (NP 
+        (NN cargos)
+        (ADJP 
+         (ADJP 
+          (JJ gerenciais)
+         )
+         e
+         (ADJP 
+          (JJ administrativos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP devem)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB preocupar)
+   )
+   (PP 
+    (IN a+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (DT o)
+      (NN currículo)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (VP 
+     (VP 
+      (VB mostrar)
+     )
+     (NP 
+      (DT a)
+      (NN essência)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN carreira)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBG resumindo)
+      )
+      (NP 
+       (DT suas)
+       (NP 
+        (NP 
+         (NN conquistas)
+        )
+        e
+        (NP 
+         (NN realizações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

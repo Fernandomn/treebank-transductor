@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN região)
+   )
+   (VP 
+    (VBP vive)
+   )
+   (NP 
+    (DT uma)
+    (NN epidemia)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN doença)
+     )
+    )
+   )
+  )
+ )
+)

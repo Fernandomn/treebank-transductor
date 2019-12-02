@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS PSD)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB votar)
+      (PP 
+       (PP 
+        (IN a)
+        (IN favor)
+        (IN de_)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS texto)
+          (JJ alternativo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

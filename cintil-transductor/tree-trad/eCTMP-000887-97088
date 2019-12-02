@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS jogo)
+    )
+    (VP 
+     (VP 
+      (VB pode)
+      (VP 
+       (VB ser)
+       (JJ decisivo)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNS título)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB vai)
+      (VP 
+       (VB haver)
+       (NP 
+        (NP 
+         (NNS casa)
+         (JJ cheia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (PP nosso)
+       (NP 
+        (NNS estudo)
+        (JJ anterior)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB dávamos)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS benefício)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS dúvida)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS professor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

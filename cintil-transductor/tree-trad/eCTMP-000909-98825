@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Se)
+       (VP 
+        (VB conduzir)
+        (RB correctamente)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB terá)
+      )
+      (NP 
+       (PRP nenhum)
+       (NNS acidente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

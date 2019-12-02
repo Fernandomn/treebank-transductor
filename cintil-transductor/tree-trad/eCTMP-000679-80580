@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS decisão)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB foi)
+       (VB aprovada)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNS unanimidade)
+       )
+      )
+     )
+     (ADVP 
+      (RB ontem)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS plenário)
+       (ADJP 
+        (VB realizado)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Conde)
+           (NNS Ferreira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

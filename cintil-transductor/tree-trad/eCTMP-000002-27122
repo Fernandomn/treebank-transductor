@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por_)
+    (NP 
+     (DT a)
+     (NP 
+      (CD primeira)
+      (NNS vez)
+     )
+    )
+   )
+   (S 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Haiti)
+     )
+    )
+    (S 
+     (NP 
+      (DT um)
+      (NNS padre)
+     )
+     (VP 
+      (VP 
+       (VB foi)
+       (VB assassinado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS motivos)
+         (JJ políticos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

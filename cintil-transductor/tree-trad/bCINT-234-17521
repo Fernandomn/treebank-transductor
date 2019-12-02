@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essa)
+    (NNS informação)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB pedida)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS Outubro)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 1996)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

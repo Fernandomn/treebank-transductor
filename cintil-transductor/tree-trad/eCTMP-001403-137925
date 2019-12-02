@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NNS episódio)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB revela)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS hábito)
+      (ADJP 
+       (VB segredado)
+       (PP 
+        (IN entre)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS mulheres)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS vila)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

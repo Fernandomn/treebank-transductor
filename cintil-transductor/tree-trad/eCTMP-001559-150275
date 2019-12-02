@@ -1,0 +1,103 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS fonte)
+        (JJ oficial)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Comando)
+          (NNS de_)
+          (NNS a)
+          (NNS PSP)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (NNS grupo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS pessoas)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB partiu)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS vidros)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS frente)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS edifício)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NP 
+                (JJ antigo)
+                (NP 
+                 (NNS cinema)
+                 (ADJP 
+                  (ADJP 
+                   (RB agora)
+                   (ADJP 
+                    (VB ocupado)
+                    (PP 
+                     (IN por)
+                     (NP 
+                      (DT aquela)
+                      (NP 
+                       (NNS confissão)
+                       (JJ religiosa)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

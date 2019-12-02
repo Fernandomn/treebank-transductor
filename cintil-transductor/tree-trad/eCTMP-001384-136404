@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Agente)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS PSP)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB fere)
+   (NP 
+    (NNS jovem)
+   )
+  )
+ )
+)

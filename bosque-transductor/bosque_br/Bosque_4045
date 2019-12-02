@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN professora)
+    (NP 
+     (NNP Cláudia_Morgado)
+    )
+    (ADJP 
+     (CD 25)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN academia)
+      (NP 
+       (NNP Competition)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP recomenda)
+   )
+   (NP 
+    (NN exercícios)
+    (ADJP 
+     (JJ leves)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT a)
+     (NN corrida)
+    )
+   )
+  )
+ )
+)

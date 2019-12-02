@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Beijou)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP abraçou)
+    )
+    (NP 
+     (CD duas)
+     (NN vezes)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP conversou)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT alguns)
+      (NN minutos)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (JJ conterrâneo)
+      (NN presidente)
+     )
+    )
+   )
+  )
+ )
+)

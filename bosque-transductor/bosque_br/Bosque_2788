@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ primeira)
+    (NN estilista)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT a)
+    (NNP Donna_Karan)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN linha)
+      (NP 
+       (NNP DKNY)
+      )
+     )
+    )
+   )
+  )
+ )
+)

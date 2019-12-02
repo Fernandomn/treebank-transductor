@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Ouvi)
+      (RB também)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS noticiário)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS manhã)
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (RB hoje)
+      (S 
+       (VP 
+        (VB vai)
+        (VP 
+         (VP 
+          (VP 
+           (VB haver)
+           (NP 
+            (NNS trovoadas)
+           )
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (PRP muitos)
+            (NP 
+             (NNS locais)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS país)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

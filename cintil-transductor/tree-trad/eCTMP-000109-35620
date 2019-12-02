@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ maior)
+     (NNS liberalização)
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (RB também)
+     (ADJP 
+      (VB planeada)
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NNS mares)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

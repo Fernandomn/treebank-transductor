@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS escritor)
+      (JJ britânico)
+     )
+     (NP 
+      (NNS Robin)
+      (NNS Cook)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB sucumbiu)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS sábado)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT um)
+       (NNS cancro)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Londres)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Mesmo)
+    (RB asim)
+   )
+   (NP 
+    (NNP Van_Himst)
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (VP 
+     (VB surpreender)
+    )
+    (NP 
+     (DT a)
+     (NN defesa)
+     (ADJP 
+      (JJ saudita)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG colocando)
+    )
+    (NP 
+     (CD dois)
+     (NN atacantes)
+     (ADJP 
+      (JJ velozes)
+     )
+    )
+   )
+  )
+ )
+)

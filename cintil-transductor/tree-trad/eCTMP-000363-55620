@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Teatro)
+        (NNS de_)
+        (NNS a)
+        (NNS Trindade)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS montagem)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS espectáculo)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS âmbito)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS programa)
+                 (NP 
+                  (NNS Instrumentos)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

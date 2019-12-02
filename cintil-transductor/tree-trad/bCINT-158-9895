@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS David)
+     (NNS Maia)
+    )
+   )
+   (VP 
+    (VB vai)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS Jogos)
+       (NNS Olímpicos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

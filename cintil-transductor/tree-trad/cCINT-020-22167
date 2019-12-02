@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Há)
+     (NP 
+      (NP 
+       (NNS centenas)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS autocarros)
+          (PP 
+           (IN para)
+           (NP 
+            (DT o)
+            (NNS Rossio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB nunca)
+      (VP 
+       (VB aparecem)
+       (CONJP 
+        (CC quando)
+        (S 
+         (VP 
+          (VB precisamos)
+          (PP 
+           (IN de_)
+           (NP 
+            (PRP eles)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aqui)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS jornalista)
+    )
+    (VP 
+     (VB invade)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS terrenos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS historiador)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

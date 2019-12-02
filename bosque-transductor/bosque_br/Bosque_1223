@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN advogada)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Mais!)
+    )
+    (VP 
+     (VBP adulterou)
+    )
+    (NP 
+     (DT a)
+     (NN obra)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB satisfazer)
+      )
+      (NP 
+       (DT a)
+       (NN vontade)
+       (PP 
+        (IN de)
+        (NP 
+         (NN neonazistas)
+         (ADJP 
+          (JJ brasileiros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

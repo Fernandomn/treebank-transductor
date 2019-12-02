@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Lucas)
+     (NNS Pires)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (NP 
+      (NNS candidato)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NNS Presidente)
+         (NNS de_)
+         (NNS a)
+         (NNS República)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

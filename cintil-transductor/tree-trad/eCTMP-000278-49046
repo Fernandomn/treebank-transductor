@@ -1,0 +1,21 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Bom)
+   )
+   (S 
+    (ADVP 
+     (RB mais)
+     (RB logo)
+    )
+    (S 
+     (NP 
+      (PRP se)
+     )
+     (VB verá)
+    )
+   )
+  )
+ )
+)

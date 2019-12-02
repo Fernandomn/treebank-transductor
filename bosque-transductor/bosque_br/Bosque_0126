@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Como)
+    )
+    (NP 
+     (DT a)
+     (NN idéia)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB enxugar)
+       )
+       (NP 
+        (DT a)
+        (NN Constituição)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP enfrenta)
+    )
+    (NP 
+     (NN resistência)
+    )
+    (PP 
+     (RB inclusive)
+     (IN em+)
+     (NP 
+      (DT os)
+      (NN partidos)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP apóiam)
+       )
+       (NP 
+        (DT o)
+        (NN governo)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN equipe)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP FHC)
+     )
+    )
+   )
+   (VP 
+    (VBP resolveu)
+   )
+   (VP 
+    (VP 
+     (VB fazer)
+    )
+    (NP 
+     (DT as)
+     (NN reformas)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN partes)
+     )
+    )
+   )
+  )
+ )
+)

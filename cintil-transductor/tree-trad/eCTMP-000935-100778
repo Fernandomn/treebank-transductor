@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (RB Até)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS fim)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS sessão)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (CC e)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS prazos)
+        (ADJP 
+         (RB mais)
+         (JJ longos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB verificou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS acréscimo)
+       (JJ razoável)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS nível)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS actividade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

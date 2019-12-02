@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Aparentemente)
+    )
+    (VP 
+     (VB fora)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (PP seus)
+           (NNS irmãos)
+          )
+         )
+        )
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB brincara)
+           (PP 
+            (IN com)
+            (NP 
+             (DT um)
+             (NNS isqueiro)
+            )
+           )
+          )
+         )
+        )
+        (CONJP 
+         (CC e)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB incendiara)
+            (NP 
+             (DT a)
+             (NNS sala)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

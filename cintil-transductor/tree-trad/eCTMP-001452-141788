@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ outra)
+     (NNS proposta)
+    )
+   )
+   (VP 
+    (VB visa)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS criação)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS rede)
+         (CONJP 
+          (RB onde)
+          (S 
+           (NP 
+            (NNS investigadores)
+           )
+           (VP 
+            (VP 
+             (VB possam)
+             (VP 
+              (VB testar)
+              (NP 
+               (NP 
+                (NNS ambientes)
+                (JJ virtuais)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

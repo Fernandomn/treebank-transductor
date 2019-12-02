@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (NNS efeito)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (RB mesmo)
+     (NP 
+      (DT as)
+      (NNS personagens)
+     )
+    )
+    (VP 
+     (VP 
+      (VB mudavam)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS aspecto)
+       )
+      )
+     )
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS sonhos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT aquele)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB estava)
+              (PP 
+               (IN a)
+               (VP 
+                (VB imaginá)
+                (NP 
+                 (PRP -las)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

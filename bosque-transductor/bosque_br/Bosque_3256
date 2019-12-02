@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (DT o)
+      (JJ segundo)
+      (NN grau)
+      (ADJP 
+       (JJ completo)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP pode)
+      (VB optar)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (DT o)
+        (NN curso)
+        (ADJP 
+         (JJ técnico)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN enfermagem)
+         )
+        )
+       )
+       ou
+       (NP 
+        (NN curso)
+        (PP 
+         (IN de)
+         (NP 
+          (NN formação)
+          (PP 
+           (IN de)
+           (NP 
+            (NN técnico)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Retrospectiva)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS Helmut)
+       (NNS Newton)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Museu)
+      (NNS de_)
+      (NNS a)
+      (NNS Foto)
+      (NNS de)
+      (NNS Wintertur)
+     )
+    )
+   )
+  )
+ )
+)

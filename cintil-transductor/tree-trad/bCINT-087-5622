@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PÚBLICO)
+   )
+   (VP 
+    (VP 
+     (VB tentou)
+     (ADVP 
+      (ADVP 
+       (RB em)
+       (RB vão)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB obter)
+      (NP 
+       (DT um)
+       (NNS comentário)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS presidente)
+         (NNS de_)
+         (NNS a)
+         (NNS AR)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Almeida)
+         (NNS Santos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

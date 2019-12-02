@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT As)
+       (NNS operações)
+      )
+      (VP 
+       (VB vão)
+       (VP 
+        (VB continuar)
+        (PP 
+         (PP 
+          (IN até)
+          (IN a_)
+         )
+         (NP 
+          (DT a)
+          (NP 
+           (NP 
+            (NNS neutralização)
+            (JJ total)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS PKK)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB anunciou)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Ancara)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS ministro)
+        (NNS de_)
+        (NNS o)
+        (NNS Interior)
+       )
+       (JJ turco)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Ismet)
+       (NNS Sezgin)
+      )
+     )
+    )
+   )
+  )
+ )
+)

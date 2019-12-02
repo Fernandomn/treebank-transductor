@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS gato)
+      (ADJP 
+       (ADJP 
+        (JJ residente)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Sibéria)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB provou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB não)
+      (VB gostou)
+     )
+    )
+   )
+  )
+ )
+)

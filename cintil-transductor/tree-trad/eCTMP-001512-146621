@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS perfis)
+   )
+   (VP 
+    (VP 
+     (VB fixaram)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS mente)
+       (PP 
+        (IN de)
+        (NP 
+         (PRP todos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

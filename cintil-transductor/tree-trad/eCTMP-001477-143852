@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS acções)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VP 
+          (RB não)
+          (VB forem)
+         )
+         (VB adquiridas)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT esta)
+          (NNS tranche)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB serão)
+    (VP 
+     (VB compradas)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NNS BPI)
+      )
+     )
+    )
+   )
+  )
+ )
+)

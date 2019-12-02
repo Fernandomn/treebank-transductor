@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS CE)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Estados)
+       (NNS Unidos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS pé)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS guerra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

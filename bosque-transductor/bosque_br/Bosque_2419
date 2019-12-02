@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Importados)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP Céramus)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN pisos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN uso)
+      (ADJP 
+       (JJ comercial)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (NN hotéis)
+        )
+        e
+        (NP 
+         (NN shopping_centers)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP destacam-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (JJ grande)
+     (NN resistência)
+    )
+   )
+  )
+ )
+)

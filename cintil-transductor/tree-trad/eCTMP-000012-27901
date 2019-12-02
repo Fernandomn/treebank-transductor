@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NP 
+      (CD duas)
+      (NP 
+       (CD primeiras)
+       (NNS jovens)
+      )
+     )
+    )
+    (VB fraquejam)
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NNS Miguel)
+     )
+     (VP 
+      (VP 
+       (VB vai)
+       (RB logo)
+      )
+      (VP 
+       (VB buscar)
+       (NP 
+        (DT outra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

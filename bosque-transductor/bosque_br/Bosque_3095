@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN jogador)
+   )
+   (VP 
+    (VP 
+     (VBG sabendo)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP ganharia)
+     )
+     (NP 
+      (RB mais_de)
+      (NN US$)
+      (NP 
+       (CD 250)
+       (NN mil)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP fez)
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (NP 
+     (DT a)
+     (NN voz)
+    )
+    (VP 
+     (VBP ordenou)
+    )
+   )
+  )
+ )
+)

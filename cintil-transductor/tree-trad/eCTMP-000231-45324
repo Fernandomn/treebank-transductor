@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ justo)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT estes)
+      (NNS nomes)
+     )
+     (VP 
+      (VB sejam)
+      (VB lembrados)
+     )
+    )
+   )
+  )
+ )
+)

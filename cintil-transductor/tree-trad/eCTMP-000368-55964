@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS vertigem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS invenção)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS alcoolismo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB inventa)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT a)
+     (NNS toxicodependência)
+    )
+   )
+  )
+ )
+)

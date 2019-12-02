@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Era)
+      (NP 
+       (DT um)
+       (NNS paraíso)
+      )
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (RB aqui)
+       (S 
+        (NP 
+         (DT a)
+         (NNS guerra)
+        )
+        (VP 
+         (RB não)
+         (VB existia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

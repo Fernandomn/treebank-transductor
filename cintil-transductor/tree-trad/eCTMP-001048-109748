@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Barragem)
+    (NNS de_)
+    (NNS o)
+    (NNS Caldeirão)
+   )
+  )
+  (VP 
+   (VB começou)
+   (PP 
+    (IN a)
+    (VB encher)
+   )
+  )
+ )
+)

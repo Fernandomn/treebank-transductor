@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS jogadores)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB deverão)
+    )
+    (VP 
+     (VP 
+      (VB dizer)
+      (ADVP 
+       (RB depois)
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB há)
+        (NP 
+         (PRP diferentes)
+         (NNS categorias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

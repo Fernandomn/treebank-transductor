@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP faz)
+   )
+   (NP 
+    (NN questão)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB lembrar)
+      )
+      (VP 
+       (IN que)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT os)
+         (CD 46)
+         (NN anos)
+        )
+       )
+       (ADVP 
+        (RB ainda)
+       )
+       (VP 
+        (VBP terá)
+       )
+       (NP 
+        (DT várias)
+        (DT outras)
+        (NN oportunidades)
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB disputar)
+         )
+         (NP 
+          (DT a)
+          (NN presidência)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

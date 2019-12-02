@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+     (NP 
+      (NP 
+       (NNS casa)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS família)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB avistámos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VB deitava)
+     (NP 
+      (NNS fumo)
+     )
+    )
+   )
+  )
+ )
+)

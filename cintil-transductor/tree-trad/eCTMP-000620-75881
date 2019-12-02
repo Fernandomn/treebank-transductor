@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Por)
+      (NP 
+       (NNS sorte)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS equívoco)
+     )
+     (VP 
+      (VP 
+       (VB desfez)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (RB depressa)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS legião)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS CRS)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB acabou)
+      (PP 
+       (IN por)
+       (VP 
+        (VB desaparecer)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS noite)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

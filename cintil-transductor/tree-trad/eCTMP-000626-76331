@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS ponte)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT estes)
+       (NP 
+        (NNS negócios)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (VP 
+     (VB assegurada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Salvo)
+         (NNS Lima)
+        )
+       )
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NP 
+            (NNS braço)
+            (JJ direito)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Andreotti)
+            )
+           )
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Palermo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN generalização)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT essa)
+      (NN indexação)
+      (ADJP 
+       (JJ diária)
+      )
+     )
+    )
+   )
+   (UCP 
+    (ADVP 
+     (RB não)
+     (RB só)
+    )
+    (VP 
+     (VP 
+      (VBP acostuma)
+     )
+     (NP 
+      (DT a)
+      (NN economia)
+     )
+    )
+    (ADVP 
+     (RB como)
+    )
+    (VP 
+     (VP 
+      (VBP passa)
+      (IN a)
+      (VB exercer)
+     )
+     (NP 
+      (NN pressão)
+      (PP 
+       (IN para)
+       (VP 
+        (IN que)
+        (NP 
+         (DT o)
+         (NN governo)
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VBP oficialize)
+          )
+         )
+         e
+         (VP 
+          (VP 
+           (VBP universalize)
+          )
+          (NP 
+           (DT a)
+           (NN prática)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

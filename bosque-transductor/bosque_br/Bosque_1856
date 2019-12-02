@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT As)
+     (NN reformas)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mosteiro)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT a)
+     (NN colocação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (JJ novo)
+       (NN calçamento)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN largo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Bento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP devem)
+    (VB consumir)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 200)
+     (NN mil)
+    )
+   )
+  )
+ )
+)

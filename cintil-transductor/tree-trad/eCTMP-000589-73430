@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Juntamente)
+      (IN com)
+     )
+     (NP 
+      (DT o)
+      (NNS autarca)
+     )
+    )
+    (VP 
+     (VB são)
+     (VB acusados)
+    )
+   )
+   (NP 
+    (CD sete)
+    (NP 
+     (NNS funcionários)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS edilidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Peter)
+    (NNS Brook)
+   )
+  )
+  (VP 
+   (VB fala)
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS peça)
+      (NP 
+       (NP 
+        (NNS Woza)
+        (NNS Albert)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB morarem)
+     )
+     (ADVP 
+      (RB aqui)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN lado)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Miami)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Teresa)
+    )
+    e
+    (NP 
+     (NNP Emerson_Fittipaldi)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP dão)
+   )
+   (NP 
+    (RB nem)
+    (NN tchuns)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN Copa)
+    )
+   )
+  )
+ )
+)

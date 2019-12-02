@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS movimentos)
+      (JJ independentistas)
+     )
+     (ADJP 
+      (ADJP 
+       (VB reforçados)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS sentimento)
+          (JJ anti-nuclear)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB ganham)
+     (RB agora)
+    )
+    (NP 
+     (NP 
+      (JJ novo)
+      (NNS alento)
+     )
+    )
+   )
+  )
+ )
+)

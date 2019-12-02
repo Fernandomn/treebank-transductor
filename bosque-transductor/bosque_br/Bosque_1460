@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (PP 
+    (RB já)
+    (IN em)
+    (ADJP 
+     (CD 1991)
+    )
+   )
+   (VP 
+    (VBP começamos)
+    (IN a)
+    (VB introduzir)
+   )
+   (NP 
+    (DT a)
+    (NN propriedade)
+    (ADJP 
+     (JJ privada)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN terra)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG desmontando)
+    )
+    (NP 
+     (DT o)
+     (NN sistema)
+     (ADJP 
+      (JJ socialista)
+     )
+    )
+   )
+  )
+ )
+)

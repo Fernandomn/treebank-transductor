@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Bolsa)
+     (NNS de)
+     (NNS Frankfurt)
+    )
+   )
+   (VP 
+    (VP 
+     (VB reagiu)
+     (RB negativamente)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS manutenção)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NNS taxas)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS juro)
+            )
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Bundesbank)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

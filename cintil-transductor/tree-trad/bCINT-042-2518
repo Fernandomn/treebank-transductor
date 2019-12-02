@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS praia)
+       (NNS de)
+       (NNS Brookhaven)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS dia)
+    )
+    (VP 
+     (VB foi)
+     (JJ triste)
+    )
+   )
+  )
+ )
+)

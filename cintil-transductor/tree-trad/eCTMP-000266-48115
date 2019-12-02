@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Quer)
+    (NP 
+     (DT isto)
+    )
+   )
+   (VP 
+    (VP 
+     (VB dizer)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (JJ construtores)
+        )
+        (JJ europeus)
+       )
+      )
+      (VP 
+       (VB queriam)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS redução)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NP 
+              (NP 
+               (NNS importações)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS carros)
+                )
+               )
+              )
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS Japão)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+         (VP 
+          (VB fosse)
+          (ADJP 
+           (RB ainda)
+           (JJ maior)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

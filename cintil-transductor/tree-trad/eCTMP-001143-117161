@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Larry)
+    (NNS Ellison)
+   )
+  )
+  (VP 
+   (VB desmente)
+   (NP 
+    (NP 
+     (NNS saturação)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS mercado)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS bases)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS dados)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

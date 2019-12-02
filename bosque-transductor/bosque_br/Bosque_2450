@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de+)
+    (NP 
+     (DT a)
+     (NN veracidade)
+     (ADJP 
+      (ADVP 
+       (RB ainda)
+       (RB hoje)
+      )
+      (JJ comprovável)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN ocasião)
+    )
+   )
+   (NP 
+    (NNP Fernando_Henrique)
+   )
+   (NP 
+    (PRP me)
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (JJ graves)
+    (NN acusações)
+   )
+  )
+ )
+)

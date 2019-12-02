@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Blimunda-mulher)
+   )
+   (NP 
+    (NP 
+     (NNS heroína)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esse)
+       (NP 
+        (NP 
+         (NP 
+          (JJ fresco)
+         )
+         (JJ memorável)
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB é)
+          )
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS Memorial)
+             (NNS de_)
+             (NNS o)
+             (NNS Convento)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

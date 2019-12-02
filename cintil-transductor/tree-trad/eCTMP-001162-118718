@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Bubis)
+   )
+   (VP 
+    (VP 
+     (VB referia)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS leis)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Estado)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS emergência)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

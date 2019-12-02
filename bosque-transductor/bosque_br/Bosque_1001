@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN gramado)
+    )
+   )
+   (ADVP 
+    (RB antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN jogo)
+     )
+    )
+   )
+   (NP 
+    (NN representantes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN torcidas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (JJ grande)
+        (NN times)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+          (NP 
+           (NP 
+            (NNP Corinthians)
+           )
+           (NP 
+            (NNP São_Paulo)
+           )
+           (NP 
+            (NNP Palmeiras)
+           )
+           e
+           (NP 
+            (NNP Santos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP fizeram)
+   )
+   (NP 
+    (DT uma)
+    (NN manifestação)
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN paz)
+     )
+    )
+   )
+  )
+ )
+)

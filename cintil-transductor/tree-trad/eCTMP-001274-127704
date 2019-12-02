@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (VP 
+     (VB exposto)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS Salão)
+         (NNS Internacional)
+         (NNS de)
+         (NNS Arte)
+         (NNS Funerária)
+        )
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (RB hoje)
+            (VP 
+             (VB termina)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NNS FIL)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

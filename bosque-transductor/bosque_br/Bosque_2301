@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP STJ)
+   )
+   (VP 
+    (VBP decide)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NP 
+      (NP 
+       (NNP Halpern)
+      )
+      e
+      (NP 
+       (NNP Decaro)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN indiciados)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NNP MPF)
+       )
+      )
+      (PP 
+       (IN sob)
+       (NP 
+        (DT a)
+        (NN acusação)
+        (PP 
+         (IN de)
+         (NP 
+          (NN fraude)
+          (ADJP 
+           (JJ processual)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP devem)
+     (VB ser)
+     (VBN julgados)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP Justiça_Federal)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP São_Paulo)
+     )
+    )
+   )
+  )
+ )
+)

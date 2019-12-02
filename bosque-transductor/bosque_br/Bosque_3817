@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN campanha)
+     (ADJP 
+      (JJ eleitoral)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Alencar)
+    )
+    e
+    (NP 
+     (NNP Nilo)
+    )
+   )
+   (VP 
+    (VBP estiveram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN lados)
+     (VBN opostos)
+    )
+   )
+   (PP 
+    (IN quanto_a+)
+    (NP 
+     (DT a)
+     (NN ação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NNP Forças_Armadas)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN combate)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN crime)
+      )
+     )
+    )
+   )
+  )
+ )
+)

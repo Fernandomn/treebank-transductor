@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ anterior)
+     (NNS executivo)
+    )
+   )
+   (VP 
+    (VP 
+     (VB tinha)
+     (RB já)
+    )
+    (VP 
+     (VB efectuado)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS estudo)
+        (PP 
+         (IN para)
+         (NP 
+          (DT este)
+          (NNS espaço)
+         )
+        )
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB previa)
+           (NP 
+            (NP 
+             (DT a)
+             (NP 
+              (NNS recuperação)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NP 
+                 (PP sua)
+                 (NP 
+                  (NNS fachada)
+                  (JJ inicial)
+                 )
+                )
+               )
+              )
+             )
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS reestruturação)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NP 
+                  (PP seu)
+                  (NNS interior)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

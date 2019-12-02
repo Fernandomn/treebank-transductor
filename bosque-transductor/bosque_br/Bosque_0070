@@ -1,0 +1,98 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Abstratos)
+    (PP 
+     (IN entre)
+     (ADJP 
+      (ADJP 
+       (JJ medianos)
+      )
+      e
+      (ADJP 
+       (JJ medíocres)
+      )
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (NNP Fukushima)
+      )
+      (NP 
+       (NNP Pérsio)
+      )
+      (NP 
+       (NNP Raimo)
+      )
+      e
+      (NP 
+       (NNP Douchez)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (ADJP 
+      (ADJP 
+       (JJ mesmo)
+      )
+      ou
+      (ADJP 
+       (JJ maior)
+      )
+     )
+     (NN destaque)
+     (SBAR que
+      (S 
+       (NNP Volpi)
+      )
+     )
+    )
+    e
+    (NP 
+     (PRP nada)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP possa)
+       (VB chamar)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN autonomia)
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB oferecer)
+        )
+        (ADVP 
+         (RB como)
+         (NP 
+          (NN lenitivo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

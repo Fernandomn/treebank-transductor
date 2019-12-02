@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Mesmo_assim)
+   )
+   (NP 
+    (DT os)
+    (NN bancos)
+   )
+   (VP 
+    (VBP continuam)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT os)
+     (NN setores)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN economia)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP recolhem)
+      )
+      (NP 
+       (DT menos)
+       (NN tributos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

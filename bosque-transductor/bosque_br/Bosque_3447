@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN porta-voz)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN polícia)
+      )
+     )
+     (NP 
+      (NNP Dave_Bruce)
+     )
+    )
+   )
+   (ADJP 
+    (DT os)
+    (CD seis)
+   )
+   (VP 
+    (VBP foram)
+    (VBN torturados)
+   )
+  )
+ )
+)

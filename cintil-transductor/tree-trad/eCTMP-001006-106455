@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Todos)
+    )
+    (VP 
+     (VP 
+      (VB sabem)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS interior)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS partido)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT os)
+        (NP 
+         (NNS membros)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS lista)
+             (JJ vencedora)
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS distrital)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB são)
+        )
+        (NP 
+         (NP 
+          (NNS candidatos)
+          (PP 
+           (IN a)
+           (NP 
+            (PRP qualquer)
+            (NNS cargo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

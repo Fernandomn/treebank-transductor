@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Um)
+     (NN programa)
+     (UCP 
+      (ADJP 
+       (JJ capaz)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB combater)
+         )
+         (NP 
+          (NP 
+           (DT a)
+           (NN inflação)
+          )
+          (NP 
+           (DT o)
+           (NN desemprego)
+          )
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP abra)
+       )
+       (NP 
+        (DT uma)
+        (NN corrente)
+        (PP 
+         (IN de)
+         (NP 
+          (NN investimentos)
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NN país)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Maluf)
+   )
+  )
+ )
+)

@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS autarca)
+    )
+    (VP 
+     (RB sempre)
+     (VP 
+      (VB refutou)
+      (NP 
+       (DT a)
+       (NNS acusação)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB afirmando)
+      (CONJP 
+       (S 
+        (VP 
+         (VB serem)
+         (NP 
+          (NP 
+           (NNS razões)
+           (JJ políticas)
+          )
+         )
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (JJ única)
+          (NP 
+           (NNS causa)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS pedido)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT os)
+                (NNS comunistas)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

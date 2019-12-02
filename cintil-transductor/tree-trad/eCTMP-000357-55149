@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Encheu)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS sacos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS plástico)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB pagou)
+    )
+   )
+  )
+ )
+)

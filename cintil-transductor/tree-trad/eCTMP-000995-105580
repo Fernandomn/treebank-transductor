@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN Para)
+        (NP 
+         (DT a)
+         (NNS Lusol)
+        )
+       )
+      )
+      (VP 
+       (VB prefere)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS alienação)
+          (JJ parcial)
+         )
+         (JJ maioritária)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB admite)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS venda)
+         (JJ total)
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (CC caso)
+        (S 
+         (NP 
+          (DT esta)
+          (NNS solução)
+         )
+         (VP 
+          (VB seja)
+          (ADJP 
+           (ADVP 
+            (RB financeiramente)
+            (RB mais)
+           )
+           (JJ favorável)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,98 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Jack_«Girafa»_Charlton)
+    (NP 
+     (NN técnico)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Irlanda)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP usou)
+   )
+   (NP 
+    (NP 
+     (DT seu)
+     (NN pescoço)
+     (ADJP 
+      (JJ comprido)
+     )
+    )
+    e
+    (NP 
+     (DT seus)
+     (RB quase)
+     (CD dois)
+     (NN metros)
+     (PP 
+      (IN de)
+      (NP 
+       (NN altura)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB vislumbrar)
+     )
+     (NP 
+      (DT a)
+      (NN passagem)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN equipe)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT as)
+        (NN quartas)
+       )
+      )
+     )
+     (ADVP 
+      (RB depois)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NN estréia)
+        (ADJP 
+         (JJ vitoriosa)
+        )
+        (PP 
+         (IN contra)
+         (NP 
+          (DT a)
+          (NNP Itália)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (JJ primeira)
+          (NN fase)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

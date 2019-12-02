@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (PRP Eles)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP dizem)
+    )
+    (NP 
+     (NN oposição)
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB ainda)
+     (RB não)
+    )
+    (VP 
+     (VBP informaram)
+    )
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (VP 
+      (VBP vão)
+      (VB combater)
+     )
+    )
+   )
+  )
+ )
+)

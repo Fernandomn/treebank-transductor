@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (RB Também)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS matéria)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS liderança)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (NP 
+       (NNS Gorbatchov)
+      )
+      (NP 
+       (CC ou)
+       (NP 
+        (NNS Ieltsin)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

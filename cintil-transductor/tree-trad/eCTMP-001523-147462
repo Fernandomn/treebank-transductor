@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (CD Vinte)
+     (CD e)
+     (CD três)
+    )
+    (NNS futebolistas)
+   )
+   (NP 
+    (NP 
+     (RB apenas)
+     (NP 
+      (CD sete)
+      (NP 
+       (NNS sobreviventes)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (CD última)
+          (NNS época)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

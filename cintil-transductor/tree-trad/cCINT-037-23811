@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VB chegou)
+       (PP 
+        (IN a)
+        (NP 
+         (NNS casa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Maria)
+      (NNS de_)
+      (NNS a)
+      (NNS Glória)
+     )
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB estava)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS janela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

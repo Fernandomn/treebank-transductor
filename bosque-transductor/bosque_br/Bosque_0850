@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Rubens_Barrichello)
+   )
+   (VP 
+    (VBP promete)
+   )
+   (NP 
+    (DT um)
+    (NN anúncio)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (JJ próximos)
+     (NN dias)
+    )
+   )
+  )
+ )
+)

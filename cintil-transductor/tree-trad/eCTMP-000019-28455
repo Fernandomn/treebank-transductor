@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Narana)
+     (NNS Coissoró)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS líder)
+      (JJ parlamentar)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS CDS)
+      )
+     )
+    )
+   )
+  )
+ )
+)

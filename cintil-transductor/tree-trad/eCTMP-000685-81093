@@ -1,0 +1,54 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Edifícios)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS chamas)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS carros)
+       (JJ desfeitos)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS árvores)
+         (JJ arrancadas)
+        )
+        (NP 
+         (NP 
+          (NNS entulho)
+          (NP 
+           (CC e)
+           (NP 
+            (NNS vidros)
+            (PP 
+             (IN por)
+             (NP 
+              (PRP toda)
+              (NP 
+               (DT a)
+               (NNS parte)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

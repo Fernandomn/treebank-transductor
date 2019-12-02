@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VB Existem)
+   (NP 
+    (NP 
+     (NP 
+      (NNS elementos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS familiaridade)
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB atraem)
+         (VP 
+          (CC e)
+          (VB provocam)
+         )
+        )
+        (NP 
+         (NNS curiosidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

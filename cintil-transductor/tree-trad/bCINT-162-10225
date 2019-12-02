@@ -1,0 +1,98 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS ETAR)
+      (NNS de)
+      (NNS Leça)
+      (NNS de_)
+      (NNS a)
+      (NNS Palmeira)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS exutor)
+        (JJ submarino)
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (PP 
+            (PP 
+             (IN a)
+             (IN partir)
+             (IN de_)
+            )
+            (NP 
+             (PRP ela)
+            )
+           )
+           (VP 
+            (VB vai)
+            (VP 
+             (VP 
+              (VB lançar)
+              (PP 
+               (IN em_)
+               (NP 
+                (DT o)
+                (NP 
+                 (JJ alto)
+                 (NNS mar)
+                )
+               )
+              )
+             )
+             (NP 
+              (DT os)
+              (NP 
+               (NNS esgotos)
+               (JJ semi-tratados)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (CD duas)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS obras)
+         (ADJP 
+          (RB mais)
+          (JJ espectaculares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

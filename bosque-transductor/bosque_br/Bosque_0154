@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP é)
+    (VBN patrocinado)
+   )
+   (PP 
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP Organização_de_Defesa_de_Mísseis_Balísticos)
+     )
+    )
+    e
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP Nasa)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT uma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (JJ primeiras)
+       (NN operações)
+       (ADJP 
+        (JJ espacais)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN fins)
+         (ADJP 
+          (ADJP 
+           (JJ civis)
+          )
+          e
+          (ADJP 
+           (JJ militares)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

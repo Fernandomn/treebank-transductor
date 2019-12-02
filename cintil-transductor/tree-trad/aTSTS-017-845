@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Atrasarem)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ habitual)
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+  )
+ )
+)

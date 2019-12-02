@@ -1,0 +1,40 @@
+(
+ (S 
+  (NP 
+   (NNS Fisco)
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (CD duas)
+    (NP 
+     (NNS leituras)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS regime)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS fundos)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS pensões)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

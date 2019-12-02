@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lucena)
+   )
+   (VP 
+    (VBP corta)
+   )
+   (NP 
+    (NN salários)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN senadores)
+      (ADJP 
+       (JJ faltosos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

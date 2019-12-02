@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Fellini)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS campanha)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PRI)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

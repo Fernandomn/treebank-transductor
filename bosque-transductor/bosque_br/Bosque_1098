@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN imprensa)
+    (ADJP 
+     (JJ independente)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP quer)
+   )
+   (VP 
+    (VP 
+     (VB cassar)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Itamar_Franco)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN direito)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB fazer)
+       )
+       (NP 
+        (DT seu)
+        (NN sucessor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS população)
+    )
+    (VP 
+     (VP 
+      (VB ofereceu)
+      (NP 
+       (DT aquela)
+       (NP 
+        (NNS parcela)
+        (RB onde)
+        (S 
+         (VP 
+          (VB estão)
+         )
+         (NP 
+          (DT os)
+          (NNS barracões)
+         )
+        )
+       )
+      )
+     )
+     para que
+     (S 
+      (VP 
+       (RB lá)
+       (VP 
+        (VB fosse)
+        (VB construída)
+       )
+      )
+      (NP 
+       (DT a)
+       (NNS escola)
+      )
+     )
+    )
+   )
+  )
+ )
+)

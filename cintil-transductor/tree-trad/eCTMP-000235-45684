@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ pequeno)
+     (NNS dinossauro)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB poder)
+     (VP 
+      (VB ser)
+      (VP 
+       (VB manipulado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT as)
+         (NNS crianças)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

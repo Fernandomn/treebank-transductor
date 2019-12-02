@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS portistas)
+   )
+   (VP 
+    (VP 
+     (VB recebem)
+     (NP 
+      (DT o)
+      (NP 
+       (ADJP 
+        (VB promovido)
+       )
+       (NNS Boavista)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC enquanto)
+      (S 
+       (NP 
+        (DT os)
+        (NNS sportinguistas)
+       )
+       (VP 
+        (VB têm)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS visita)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Setúbal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

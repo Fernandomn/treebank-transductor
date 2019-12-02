@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS fragata)
+    )
+    (VP 
+     (VB estava)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS banco)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS lodo)
+            (NP 
+             (CC e)
+             (NNS ostras)
+            )
+           )
+          )
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB constituía)
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS carapaça)
+             (JJ tremenda)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

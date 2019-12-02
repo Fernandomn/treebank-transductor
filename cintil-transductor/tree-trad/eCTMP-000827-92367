@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (CD dois)
+      (NNS países)
+     )
+    )
+    (VP 
+     (VP 
+      (VB têm)
+      (NP 
+       (NP 
+        (NNS relações)
+        (JJ diplomáticas)
+       )
+      )
+     )
+     (PP 
+      (IN desde)
+      (NP 
+       (CD 1978)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NNS Israel)
+     )
+     (VP 
+      (VP 
+       (VB possui)
+       (NP 
+        (DT uma)
+        (NNS Embaixada)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

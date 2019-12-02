@@ -1,0 +1,45 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Parque)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS estacionamento)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB aguarda)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS fim)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS escavações)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Castelo)
+           (NNS de)
+           (NNS São)
+           (NNS Jorge)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

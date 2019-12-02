@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS êxito)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (JJ superior)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NNS ratitas)
+     )
+    )
+   )
+  )
+ )
+)

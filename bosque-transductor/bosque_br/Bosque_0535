@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN embargo)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN medida)
+    (PP 
+     (IN para)
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NNP TSE)
+      )
+      (VP 
+       (VBP admita)
+      )
+      (NP 
+       (DT a)
+       (NN constitucionalidade)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN questão)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP permite)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN assunto)
+     )
+     (VP 
+      (VBP seja)
+      (VBN levado)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NNP STF)
+      )
+     )
+    )
+   )
+  )
+ )
+)

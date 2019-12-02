@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Defendemos)
+      (ADVP 
+       (RB muito)
+       (RB bem)
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB mantivemos)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ mesmo)
+          (NP 
+           (NNS nível)
+           (JJ exibicional)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (ADVP 
+          (RB assim)
+         )
+         (VP 
+          (VB ganhámos)
+          (NP 
+           (DT o)
+           (NNS jogo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CD primeiros)
+     (NNS portugueses)
+    )
+   )
+   (VP 
+    (VP 
+     (VB chegaram)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS império)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS sol)
+           (JJ nascente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS 1543)
+     )
+    )
+   )
+  )
+ )
+)

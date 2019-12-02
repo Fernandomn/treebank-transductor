@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Lá)
+     (RB fora)
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (PRP toda)
+      (NP 
+       (DT a)
+       (NNS gente)
+      )
+     )
+     (VB sabe)
+    )
+    (S 
+     (S 
+      (VP 
+       (VB é)
+       (JJ diferente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

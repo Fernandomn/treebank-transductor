@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Ainda)
+    (VP 
+     (VB estamos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Idade)
+        (NNS de_)
+        (NNS a)
+        (NNS Pedra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

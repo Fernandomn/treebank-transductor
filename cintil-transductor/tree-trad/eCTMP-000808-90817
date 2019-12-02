@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NNS verdade)
+      )
+     )
+    )
+    (VP 
+     (VB podem)
+     (VP 
+      (VB ser)
+      (NP 
+       (PRP tudo)
+       (NP 
+        (DT aquilo)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB quiser)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

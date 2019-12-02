@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (PP 
+         (IN Quanto)
+         (IN a_)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Hispania)
+          (JJ romana)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Espanha)
+         (JJ actual)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS resto)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NNS paisagem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

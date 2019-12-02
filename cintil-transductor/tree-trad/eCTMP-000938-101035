@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ superior)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (ADJP 
+      (RB menos)
+      (JJ tranquilizante)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB espera)
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (JJ próximo)
+           (NP 
+            (NNS ministro)
+            (ADJP 
+             (RB já)
+             (VB conhecido)
+            )
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (NNS Mariano)
+           (NNS Gago)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

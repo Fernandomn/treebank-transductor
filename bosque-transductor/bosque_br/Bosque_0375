@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Caso)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP haja)
+    )
+    (NP 
+     (NN fila)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN período)
+    (PP 
+     (IN de)
+     (NP 
+      (NN uso)
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+   )
+   (ADJP 
+    (JJ maior)
+   )
+  )
+ )
+)

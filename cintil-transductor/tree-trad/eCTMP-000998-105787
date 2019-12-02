@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (RB Quase)
+     (PP 
+      (IN a)
+      (VP 
+       (VB chegar)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS fim)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS II)
+     (NNS Festival)
+     (NNS Internacional)
+     (NNS de)
+     (NNS Música)
+     (NNS de)
+     (NNS Câmara)
+     (NNS de)
+     (NNS Castelo)
+     (NNS Branco)
+    )
+   )
+  )
+ )
+)

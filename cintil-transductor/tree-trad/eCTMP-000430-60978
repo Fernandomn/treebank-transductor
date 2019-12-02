@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Aderiu)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PPD)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB fundou)
+       (NP 
+        (DT o)
+        (NNS MSD)
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB foi)
+        (NP 
+         (NP 
+          (NP 
+           (NNS ministro)
+           (NNS de_)
+           (NNS a)
+           (NNS Educação)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NP 
+             (NNS embaixador)
+             (NNS de)
+             (NNS Portugal)
+            )
+            (PP 
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NNS UNESCO)
+              )
+             )
+             (PP 
+              (CC e)
+              (PP 
+               (IN em)
+               (NP 
+                (NP 
+                 (NNS Nova)
+                 (NNS Deli)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

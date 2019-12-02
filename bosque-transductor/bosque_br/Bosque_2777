@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ Favoráveis)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN pressuposto)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN integração)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP devemos)
+    (VB ser)
+   )
+   (ADJP 
+    (JJ criteriosos)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBG descartando)
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB nem)
+     )
+     (VP 
+      (VBG acatando)
+     )
+     (PP 
+      (IN de)
+      (ADJP 
+       (JJ pronto)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP tudo_o_que)
+      )
+      (NP 
+       (PRP nos)
+      )
+      (VP 
+       (VBP oferece)
+      )
+      (NP 
+       (DT o)
+       (NN governo)
+       (ADJP 
+        (JJ federal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

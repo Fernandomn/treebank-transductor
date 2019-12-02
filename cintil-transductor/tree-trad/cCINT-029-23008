@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Esta)
+     (NNS casa)
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (RB muito)
+        (RB mais)
+       )
+       (JJ velha)
+      )
+      de_ o que
+      (NP 
+       (DT a)
+       (NP 
+        (JJ outra)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (ADVP 
+       (RB nem)
+       (RB sequer)
+      )
+      (VP 
+       (VB tem)
+       (NP 
+        (NNS elevador)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

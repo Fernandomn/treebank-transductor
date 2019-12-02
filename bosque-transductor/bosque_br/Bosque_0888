@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP M2.000)
+   )
+   (VP 
+    (VBP abre)
+   )
+   (ADVP 
+    (RB amanhã)
+   )
+   (NP 
+    (DT a)
+    (NN temporada)
+    (ADJP 
+     (CD 94)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN shows)
+     )
+    )
+   )
+  )
+ )
+)

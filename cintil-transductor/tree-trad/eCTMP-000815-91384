@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS macrófagos)
+   )
+   (VP 
+    (VB constituem)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS linha)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS frente)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS defesas)
+          (JJ humanas)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN contra)
+       (NP 
+        (DT as)
+        (NNS infecções)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

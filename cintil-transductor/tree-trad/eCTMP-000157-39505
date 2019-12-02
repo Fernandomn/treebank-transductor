@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS espanhóis)
+   )
+   (VP 
+    (VB decidem)
+    (VP 
+     (VP 
+      (VB enviar)
+      (NP 
+       (DT uma)
+       (NNS fragata)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS zona)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS conflito)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

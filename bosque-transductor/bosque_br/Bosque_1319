@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Outros)
+    (NN prêmios)
+   )
+   (VP 
+    (VBP incluem)
+   )
+   (NP 
+    (NP 
+     (NN personalidade)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN ano)
+      )
+     )
+    )
+    (NP 
+     (JJ melhor)
+     (NN produção)
+     (PP 
+      (IN de)
+      (NP 
+       (NN ópera)
+      )
+     )
+    )
+    (NP 
+     (JJ melhor)
+     (NN transmissão)
+     (PP 
+      (IN de)
+      (NP 
+       (NN TV)
+      )
+     )
+    )
+    (NP 
+     (JJ melhor)
+     (NN grupo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN música)
+       (ADJP 
+        (JJ antiga)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT outros)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Também)
+   )
+   (VP 
+    (VBP vamos)
+    (VB distribuir)
+   )
+   (NP 
+    (CD 1)
+    (NN milhão)
+    (PP 
+     (IN de)
+     (NP 
+      (NN cestas)
+      (ADJP 
+       (JJ básicas)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB matar)
+     )
+     (NP 
+      (DT a)
+      (NN fome)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN população)
+       )
+      )
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (DT a)
+       (NN transição)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NN democracia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

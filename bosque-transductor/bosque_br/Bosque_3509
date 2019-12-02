@@ -1,0 +1,82 @@
+(
+ (S 
+  (NP 
+   (NN Parágrafo)
+   (ADJP 
+    (JJ 4º.)
+   )
+   (VP 
+    (NP 
+     (DT A)
+     (NNP Taxa_Referencial)
+     (NP 
+      (NNP TR)
+     )
+    )
+    (ADVP 
+     (RB somente)
+    )
+    (VP 
+     (VBP poderá)
+     (VB ser)
+     (VBN utilizada)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN operações)
+      (VP 
+       (VP 
+        (VBN realizadas)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT os)
+         (NN mercados)
+         (UCP 
+          (ADJP 
+           (JJ financeiro)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN valores)
+            (ADJP 
+             (JJ mobiliários)
+            )
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN seguros)
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN previdência)
+            (ADJP 
+             (JJ privada)
+            )
+           )
+          )
+          e
+          (PP 
+           (IN de)
+           (NP 
+            (NN futuros)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

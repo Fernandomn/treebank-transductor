@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Contudo)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS mal)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uns)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS bem)
+       (PP 
+        (IN de)
+        (NP 
+         (DT outros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

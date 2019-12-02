@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS Americanos)
+  )
+  (VP 
+   (VB vencem)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Taça)
+      (NNS América)
+     )
+    )
+   )
+  )
+ )
+)

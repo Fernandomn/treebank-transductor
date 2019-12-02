@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Angola)
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VP 
+     (VB receber)
+     (NP 
+      (NNS Mandela)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Março)
+     )
+    )
+   )
+  )
+ )
+)

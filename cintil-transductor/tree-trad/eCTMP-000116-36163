@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Vendem)
+     (NP 
+      (DT os)
+      (NP 
+       (PP seus)
+       (NNS corpos)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (JJ novos)
+        (NP 
+         (NNS ricos)
+         (JJ russos)
+        )
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB desejam)
+          (NP 
+           (NNS exotismo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

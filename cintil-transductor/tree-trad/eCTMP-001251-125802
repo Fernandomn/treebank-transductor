@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS direcção)
+      (JJ anterior)
+     )
+    )
+    (VP 
+     (VB ignorava)
+     (NP 
+      (PRP -os)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (JJ única)
+       (NP 
+        (NNS coisa)
+        (JJ feita)
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VB foram)
+      )
+      (NP 
+       (PRP algumas)
+       (NP 
+        (NNS obras)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS construção)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS arquivos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

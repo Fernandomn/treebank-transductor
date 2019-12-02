@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VB será)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS género)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS comentários)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VB seguirão)
+            )
+            (PP 
+             (IN a)
+             (NP 
+              (DT uma)
+              (NP 
+               (JJ eventual)
+               (NP 
+                (NP 
+                 (NNS rejeição)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT o)
+                   (NNS NAFTA)
+                  )
+                 )
+                )
+                (PP 
+                 (IN por_)
+                 (NP 
+                  (DT os)
+                  (NNS EUA)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

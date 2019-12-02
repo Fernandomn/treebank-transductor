@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD três)
+    (NN primeiros)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (VP 
+    (VP 
+     (VBN voltados)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN TV)
+      (PP 
+       (IN a)
+       (NP 
+        (NN cabo)
+        (VP 
+         (ADVP 
+          (RB onde)
+         )
+         (VP 
+          (VBP atuam)
+         )
+         (S 
+          (S 
+           (ADVP 
+            (RB como)
+           )
+           (NP 
+            (NN operadores)
+           )
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (DT vários)
+           (NN Estados)
+          )
+          (CC e)
+         )
+         (S 
+          (S 
+           (ADVP 
+            (RB como)
+           )
+           (NP 
+            (NN sócios)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (JJ maior)
+              (NN empresa)
+              (PP 
+               (IN de)
+               (NP 
+                (NN distribuição)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NN programação)
+                 )
+                )
+               )
+              )
+              (NP 
+               (DT a)
+               (NNP Net_Brasil)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

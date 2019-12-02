@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Divisão_de_Vigilância_Sanitária)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Sergipe)
+     )
+    )
+   )
+   (VP 
+    (VBP registrou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (JJ primeiros)
+     (CD 115)
+     (NN dias)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT este)
+       (NN ano)
+      )
+     )
+    )
+   )
+   (NP 
+    (CD 87)
+    (NN casos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN cólera)
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT uma)
+     (NN morte)
+    )
+   )
+  )
+ )
+)

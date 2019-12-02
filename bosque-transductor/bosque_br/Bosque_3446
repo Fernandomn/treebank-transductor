@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN polícia)
+   )
+   (VP 
+    (VBP anunciou)
+   )
+   (NP 
+    (DT a)
+    (NN libertação)
+    (PP 
+     (IN de)
+     (NP 
+      (CD seis)
+      (NN homens)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP estavam)
+       )
+       (VP 
+        (VP 
+         (VBN trancados)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN porão)
+          (PP 
+           (IN de)
+           (NP 
+            (DT um)
+            (NN prédio)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NNP CNA)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNP Johannesburgo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

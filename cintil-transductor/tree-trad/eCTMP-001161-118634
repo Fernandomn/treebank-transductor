@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB queriam)
+     )
+     (VP 
+      (VB ser)
+      (VP 
+       (VB governados)
+       (PP 
+        (IN por)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS minoria)
+          (JJ extremista)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB votaram)
+      (PP 
+       (IN por)
+       (NP 
+        (NNS Thatcher)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

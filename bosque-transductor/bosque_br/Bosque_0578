@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Me)
+   )
+   (VP 
+    (VBP deram)
+   )
+   (NP 
+    (DT uma)
+    (NN licença)
+    (PP 
+     (IN de)
+     (NP 
+      (CD dois)
+      (NN anos)
+      (VP 
+       (VP 
+        (VBP acreditavam)
+       )
+       (VP 
+        (IN que)
+        (NP 
+         (DT o)
+         (NN exílio)
+        )
+        (VP 
+         (VBP ia)
+        )
+        (NP 
+         (PRP me)
+        )
+        (VP 
+         (VB neutralizar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

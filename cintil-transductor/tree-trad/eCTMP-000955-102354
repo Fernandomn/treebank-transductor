@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Francisco)
+     (NNS Gil)
+    )
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS hora)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS música)
+        )
+       )
+      )
+      (ADJP 
+       (VB feita)
+       (PP 
+        (IN por)
+        (NP 
+         (NNS portugueses)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

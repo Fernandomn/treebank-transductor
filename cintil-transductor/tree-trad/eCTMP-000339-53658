@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD último)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (PRP eles)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB ocorreu)
+     (CONJP 
+      (S 
+       (VP 
+        (VB há)
+        (NP 
+         (DT uma)
+         (NNS semana)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (CD dois)
+        (NP 
+         (NNS atentados)
+         (JJ suicidas)
+        )
+       )
+       (VP 
+        (VP 
+         (VB mataram)
+         (NP 
+          (CD oito)
+          (NNS judeus)
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Gaza)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

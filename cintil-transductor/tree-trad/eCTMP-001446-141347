@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Expo)
+    (NNS 98)
+   )
+  )
+  (VP 
+   (VB cresce)
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NNS dobro)
+    )
+   )
+  )
+ )
+)

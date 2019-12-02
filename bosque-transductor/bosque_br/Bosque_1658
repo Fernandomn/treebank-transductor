@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Estradas)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP São_Paulo)
+     )
+    )
+   )
+   (VP 
+    (VBP registram)
+   )
+   (NP 
+    (CD duas)
+    (NN mortes)
+   )
+  )
+ )
+)

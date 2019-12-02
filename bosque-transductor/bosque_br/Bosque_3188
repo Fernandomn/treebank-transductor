@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT o)
+     (NN valor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN compra)
+      )
+     )
+    )
+    (VP 
+     (VBP for)
+    )
+    (ADJP 
+     (JJ baixo)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ melhor)
+   )
+   (VP 
+    (VP 
+     (VB pedir)
+    )
+    (NP 
+     (NN encomenda)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN correio)
+      (ADJP 
+       (JJ normal)
+      )
+     )
+    )
+   )
+  )
+ )
+)

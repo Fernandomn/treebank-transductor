@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN empresa)
+   )
+   (VP 
+    (VBP informou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN roupa)
+    )
+    (VP 
+     (VBP era)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Marinko_Gagro)
+      (NP 
+       (NN soldado)
+       (ADJP 
+        (JJ croata-bósnio)
+       )
+       (VP 
+        (VP 
+         (VBN morto)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN julho)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN ano)
+            (VBN passado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

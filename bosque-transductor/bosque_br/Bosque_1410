@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NN aumento)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN arrecadação)
+      )
+     )
+    )
+    (VP 
+     (VBP possibilitou)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB depois)
+      (PP 
+       (IN de)
+       (NP 
+        (CD 30)
+        (NN anos)
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NN prefeitura)
+     )
+     (VP 
+      (VBP pudesse)
+      (VB comprar)
+     )
+     (NP 
+      (NP 
+       (CD três)
+       (NN caminhões)
+      )
+      (NP 
+       (DT um)
+       (NN ônibus)
+      )
+      e
+      (NP 
+       (DT um)
+       (NN trator)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN prefeito)
+    (NP 
+     (NNP Fausto_Camper)
+    )
+    (ADJP 
+     (CD 43)
+     (NP 
+      (NNP PMDB)
+     )
+    )
+   )
+  )
+ )
+)

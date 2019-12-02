@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Ele)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Mbeki)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT outros)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB disputarão)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS sucessão)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Mandela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS situações)
+      (JJ excepcionais)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT isso)
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VB acontecer)
+      (PP 
+       (IN em)
+       (NP 
+        (CD três)
+        (NNS semanas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

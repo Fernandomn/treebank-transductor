@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD segunda)
+     (NNS parte)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB voltou)
+      (PP 
+       (IN a)
+       (VB começar)
+      )
+     )
+     (PP 
+      (IN sob)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS signo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS fortuna)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS homens)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS casa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

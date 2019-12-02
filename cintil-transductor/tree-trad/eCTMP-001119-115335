@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Tinha)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (VP 
+     (VB construído)
+     (NP 
+      (DT um)
+      (NNS caso)
+     )
+    )
+   )
+   (S 
+    (CC ou)
+    (S 
+     (VP 
+      (VB existia)
+      (RB mesmo)
+     )
+     (NP 
+      (DT um)
+      (NNS caso)
+     )
+    )
+   )
+  )
+ )
+)

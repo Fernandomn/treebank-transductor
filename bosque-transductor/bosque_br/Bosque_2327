@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Aberto)
+    )
+    (PP 
+     (IN desde)
+     (ADJP 
+      (CD 1948)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Beverly_Boulevard)
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (NP 
+      (DT os)
+      (NN clientes)
+     )
+     (VP 
+      (VBP eram)
+     )
+     (NP 
+      (NP 
+       (NNP Errol_Flynn)
+      )
+      (NP 
+       (NNP Frank_Sinatra)
+      )
+      e
+      (NP 
+       (NNP Billy_Wilder)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN restaurante)
+    (NP 
+     (NNP Dominick's)
+    )
+   )
+   (VP 
+    (VBP continua)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN moita)
+    )
+   )
+  )
+ )
+)

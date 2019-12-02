@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN simplicidade)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP mata)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (ADVP 
+     (RB mal)
+    )
+    (VP 
+     (VP 
+      (VBN traduzida)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN simploriedade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

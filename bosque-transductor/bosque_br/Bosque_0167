@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN mãe)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN estudante)
+      )
+     )
+    )
+    (VP 
+     (VBP prestou)
+    )
+    (NP 
+     (NN queixa)
+     (UCP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN estupro)
+       )
+      )
+      e
+      (ADVP 
+       (RB depois)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN ameaças)
+        (PP 
+         (IN de)
+         (NP 
+          (NN morte)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (NP 
+            (NNP Rúbio)
+           )
+           (VP 
+            (VBP teria)
+            (VBN feito)
+           )
+           (PP 
+            (IN a)
+            (NP 
+             (NNP Claudirene)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Borlina)
+   )
+  )
+ )
+)

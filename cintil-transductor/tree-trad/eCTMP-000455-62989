@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Kinshasa)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT as)
+      (NNS pilhagens)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS clima)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS insegurança)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB continuam)
+    )
+   )
+  )
+ )
+)

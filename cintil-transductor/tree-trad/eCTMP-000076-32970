@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Arboreto)
+    (NNS de_)
+    (NNS a)
+    (NNS Expo)
+   )
+  )
+  (VP 
+   (VB mostra)
+   (NP 
+    (NP 
+     (NP 
+      (NNS evolução)
+      (JJ histórica)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (CD 120)
+       (NP 
+        (NNS espécies)
+        (JJ arbóreas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

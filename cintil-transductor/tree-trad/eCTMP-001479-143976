@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS GIMME)
+     (NNS SHELTER)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS David)
+        (NNS Maysles)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Albert)
+          (NNS Maysles)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Charlotte)
+           (NNS Zwerin)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

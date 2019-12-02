@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (NP 
+    (DT o)
+    (NN volume)
+    (PP 
+     (IN de)
+     (NP 
+      (NN alumínio)
+     )
+    )
+   )
+   (VP 
+    (VBP daria)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (CD 275)
+      (NN mil)
+      (NN latas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN refrigerante)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

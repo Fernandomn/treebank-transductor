@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (CC Mas)
+    (VP 
+     (VBP existem)
+    )
+    (NP 
+     (NN indústrias)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP estão)
+       (VBG sendo)
+       (VBN procuradas)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT os)
+        (NN lojistas)
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB postergar)
+        )
+        (NP 
+         (DT as)
+         (NN entregas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP conta)
+   )
+   (NP 
+    (NNP Eduardo_Costa)
+    (NP 
+     (NN diretor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Abravest)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP reúne)
+       )
+       (NP 
+        (DT a)
+        (NN indústria)
+        (PP 
+         (IN de)
+         (NP 
+          (NN vestuário)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

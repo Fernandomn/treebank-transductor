@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS madrugada)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS terça-feira)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS UÇK)
+    )
+    (VP 
+     (VB voltou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB atacar)
+       (ADVP 
+        (RB perto)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Pristina)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

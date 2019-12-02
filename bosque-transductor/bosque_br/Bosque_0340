@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Antes)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB estrear)
+      )
+      (NP 
+       (RB como)
+       (NP 
+        (NN editor)
+        (ADJP 
+         (JJ senior)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Playboy)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Nirlando_Beirão)
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (DT uma)
+    (NN série)
+    (PP 
+     (IN de)
+     (NP 
+      (NN testes)
+      (PP 
+       (IN de)
+       (NP 
+        (NN vídeo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

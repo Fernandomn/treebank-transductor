@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (NNS alturas)
+     (CONJP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (S 
+       (VP 
+        (VB parece)
+        (VP 
+         (VP 
+          (VB ter)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS íman)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VP 
+                (VB atrai)
+                (NP 
+                 (DT a)
+                 (NNS bola)
+                )
+               )
+               (PP 
+                (IN em_)
+                (NP 
+                 (DT a)
+                 (NP 
+                  (PP sua)
+                  (NNS direcção)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

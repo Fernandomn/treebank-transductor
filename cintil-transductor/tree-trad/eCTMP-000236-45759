@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB citar)
+       (NP 
+        (PRP -me)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB tem)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS graça)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

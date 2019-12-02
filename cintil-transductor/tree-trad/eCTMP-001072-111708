@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (PRP qualquer)
+      (NNS modo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP toda)
+     (NP 
+      (DT esta)
+      (NP 
+       (NNS reviravolta)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS processo)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB continua)
+     (PP 
+      (PP 
+       (IN a)
+       (VP 
+        (VB suscitar)
+        (NP 
+         (NNS divergências)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a)
+        (VP 
+         (VB agitar)
+         (NP 
+          (NP 
+           (NNS opiniões)
+           (PP 
+            (IN de)
+            (NP 
+             (PRP alguns)
+             (NNS técnicos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

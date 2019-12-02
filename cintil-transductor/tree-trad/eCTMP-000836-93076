@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS aparato)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS acidente)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS ocupantes)
+    )
+    (VP 
+     (VB escaparam)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS ferimentos)
+        (PP 
+         (IN sem)
+         (NP 
+          (NNS gravidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

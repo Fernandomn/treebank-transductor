@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS árbitro)
+     (NP 
+      (NNS Pinto)
+      (NNS Correia)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB esteve)
+     (RB bem)
+    )
+    (PP 
+     (PP 
+      (IN durante)
+      (NP 
+       (PRP toda)
+       (NP 
+        (DT a)
+        (NP 
+         (CD primeira)
+         (NNS parte)
+        )
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN durante)
+       (NP 
+        (NP 
+         (PRP quase)
+         (PRP toda)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (CD segunda)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

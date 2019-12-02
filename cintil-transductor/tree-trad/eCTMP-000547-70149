@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (RB Só)
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (PRP todos)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS títulos)
+         (JJ fundamentais)
+        )
+       )
+      )
+      (VP 
+       (VB estiverem)
+       (JJ cotados)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB pode)
+    )
+    (VP 
+     (VP 
+      (VB avaliar)
+      (RB correctamente)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS performance)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS indicadores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

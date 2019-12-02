@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN a_)
+      (IN o)
+      (IN longo)
+      (IN de_)
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (CD últimos)
+       (NNS anos)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS batalha)
+      (PP 
+       (IN contra)
+       (NP 
+        (NP 
+         (NP 
+          (DT a)
+          (NNS violência)
+         )
+         (NP 
+          (NP 
+           (NP 
+            (DT a)
+            (NNS droga)
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (DT o)
+             (NNS sexo)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS televisão)
+           (JJ americana)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB tem)
+      (VB subido)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS tom)
+      )
+     )
+    )
+   )
+  )
+ )
+)

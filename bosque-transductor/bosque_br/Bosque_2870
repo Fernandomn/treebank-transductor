@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CC Ou)
+    (ADVP 
+     (RB então)
+    )
+    (VP 
+     (VBP lutava)
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (DT uma)
+      (NN depressão)
+      (ADJP 
+       (JJ repentina)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP tentava)
+    )
+    (VP 
+     (VP 
+      (VB controlar)
+     )
+     (NP 
+      (DT minha)
+      (NN raiva)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP fazia)
+    )
+    (NP 
+     (NN piadas)
+     (PP 
+      (IN com)
+      (NP 
+       (PRP alguém)
+      )
+     )
+    )
+   )
+   (CC ou)
+   (VP 
+    (VP 
+     (VBP fazia)
+    )
+    (NP 
+     (NN força)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VB sentir)
+      )
+      (NP 
+       (NN saudades)
+       (PP 
+        (IN de)
+        (NP 
+         (NN casa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

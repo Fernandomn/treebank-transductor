@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN promoção)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN cliente)
+   )
+   (VP 
+    (VBP ganha)
+   )
+   (NP 
+    (DT uma)
+    (NN diária)
+    (ADJP 
+     (JJ grátis)
+    )
+   )
+   (PP 
+    (IN a)
+    (ADJP 
+     (DT cada)
+     (CD três)
+    )
+   )
+  )
+ )
+)

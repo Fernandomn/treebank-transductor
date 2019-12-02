@@ -1,0 +1,99 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Promotores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Sicília)
+     )
+    )
+   )
+   (VP 
+    (VBP pediram)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN Justiça)
+     (ADJP 
+      (JJ local)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN julgamento)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 23)
+      (NN pessoas)
+      (VP 
+       (VP 
+        (VBN acusadas)
+       )
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB conspirarem)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB assassinar)
+           )
+           (NP 
+            (NNP Salvo_Lima)
+            (NP 
+             (NN político)
+             (NP 
+              (NN democrata-cristão)
+             )
+             (VP 
+              (VP 
+               (VBN morto)
+              )
+              (PP 
+               (IN por+)
+               (NP 
+                (DT a)
+                (NN Máfia)
+               )
+              )
+              (ADVP 
+               (RB pouco)
+               (RB antes)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT as)
+                 (NN eleições)
+                 (PP 
+                  (IN de)
+                  (ADJP 
+                   (CD 1992)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

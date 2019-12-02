@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS RTP)
+     (NNS África)
+    )
+   )
+   (VP 
+    (VP 
+     (VB pode)
+     (ADVP 
+      (RB contudo)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB ser)
+       )
+       (NP 
+        (RB apenas)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS canal)
+          (PP 
+           (IN para)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS países)
+             (JJ africanos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (CC mas)
+      (VP 
+       (RB também)
+       (VP 
+        (VB chegar)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS território)
+           (JJ nacional)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

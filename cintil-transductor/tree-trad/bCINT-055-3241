@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Associação)
+  )
+  (VP 
+   (VP 
+    (VB devolve)
+    (NP 
+     (NP 
+      (NNS espaço)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS lazer)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS bairro)
+    )
+   )
+  )
+ )
+)

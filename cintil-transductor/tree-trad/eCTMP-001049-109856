@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (S 
+       (NP 
+        (PRP se)
+       )
+       (VB selecciona)
+      )
+      (S 
+       (CC ou)
+       (S 
+        (NP 
+         (PRP se)
+        )
+        (VB fraqueja)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS batalha)
+    )
+    (VP 
+     (VB está)
+     (JJ perdida)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (VB vencer)
+     )
+    )
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ próxima)
+        (NNS fase)
+       )
+      )
+     )
+     (VP 
+      (VB recebe)
+      (NP 
+       (DT o)
+       (NNS Penafiel)
+      )
+     )
+    )
+   )
+  )
+ )
+)

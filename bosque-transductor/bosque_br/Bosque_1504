@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Volume)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN dinheiro)
+      (PP 
+       (IN em)
+       (NP 
+        (NN circulação)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP cresce)
+   )
+   (ADVP 
+    (RB mais)
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Histórias)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS família)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS PSD)
+    )
+   )
+   (PP 
+    (CC e)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Câmara)
+       (NNS de)
+       (NNS Cabeceiras)
+       (NNS de)
+       (NNS Basto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

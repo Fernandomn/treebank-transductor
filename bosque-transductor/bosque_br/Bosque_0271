@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT Quais)
+    )
+    (VP 
+     (VBP são)
+    )
+    (NP 
+     (DT as)
+     (NN implicações)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT o)
+       (NN encerramento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN revisão)
+        )
+       )
+      )
+      (VP 
+       (VBP traz)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NN economia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

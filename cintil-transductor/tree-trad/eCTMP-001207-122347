@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS David)
+      (NNS Nunes)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS RTC)
+     )
+    )
+   )
+  )
+  (PP 
+   (IN a_)
+   (NP 
+    (DT o)
+    (NNS PÚBLICO)
+   )
+  )
+ )
+)

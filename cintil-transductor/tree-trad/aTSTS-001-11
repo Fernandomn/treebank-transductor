@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS criança)
+   )
+   (VP 
+    (VB obedece)
+    (PP 
+     (RB apenas)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS mãe)
+      )
+     )
+    )
+   )
+  )
+ )
+)

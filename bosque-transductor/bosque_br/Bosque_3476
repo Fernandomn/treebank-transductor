@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Baixada)
+    )
+    (NP 
+     (NN sexta-feira)
+    )
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP cria)
+   )
+   (NP 
+    (DT a)
+    (NN taxa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN juro)
+      (ADJP 
+       (JJ flutuante)
+      )
+     )
+    )
+   )
+  )
+ )
+)

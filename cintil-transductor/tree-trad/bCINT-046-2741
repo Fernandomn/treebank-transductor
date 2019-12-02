@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS texto)
+   )
+   (VP 
+    (VB veio)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS Assembleia)
+        (NNS de_)
+        (NNS a)
+        (NNS República)
+       )
+       (CONJP 
+        (RB onde)
+        (S 
+         (VP 
+          (RB também)
+          (VP 
+           (VP 
+            (VP 
+             (VB foi)
+             (VB aprovado)
+            )
+            (PP 
+             (IN por)
+             (NP 
+              (NNS unanimidade)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

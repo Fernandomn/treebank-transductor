@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Entretanto)
+     )
+     (VP 
+      (VB fiz)
+      (NP 
+       (CD dois)
+       (NP 
+        (NNS cursos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Teatro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB estou)
+       (RB agora)
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VB fazer)
+        (NP 
+         (DT um)
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Dança)
+             (NNS Contemporânea)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

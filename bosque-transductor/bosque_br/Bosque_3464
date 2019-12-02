@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Seu)
+    (NN álbum)
+    (PP 
+     (IN de)
+     (NP 
+      (NN estréia)
+      (VP 
+       (VP 
+        (VBN lançado)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (JJ último)
+         (NN verão)
+         (ADJP 
+          (JJ americano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP causou)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT pouco)
+     )
+     ou
+     (NP 
+      (DT nenhum)
+     )
+    )
+    (NN impacto)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN parada)
+     )
+    )
+   )
+  )
+ )
+)

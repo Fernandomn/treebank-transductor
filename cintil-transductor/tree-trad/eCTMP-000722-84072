@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS caso)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS visita)
+          (JJ prolongada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT isso)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (PRP tudo)
+     )
+    )
+   )
+  )
+ )
+)

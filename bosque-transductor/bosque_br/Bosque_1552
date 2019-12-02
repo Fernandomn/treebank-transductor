@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Asuapi)
+   )
+   (VP 
+    (VBP doou)
+   )
+   (NP 
+    (CD 10)
+    (NN bicicletas)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (NP 
+      (DT a)
+      (NN guarda)
+      (ADJP 
+       (JJ municipal)
+      )
+     )
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (DT o)
+      (NN policiamento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN parque)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

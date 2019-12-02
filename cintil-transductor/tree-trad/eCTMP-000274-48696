@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outro)
+    (NP 
+     (NNS golo)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB merece)
+        (NP 
+         (NNS referência)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB apontado)
+     (PP 
+      (IN por)
+      (NP 
+       (NNS Domingos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

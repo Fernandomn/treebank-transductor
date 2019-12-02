@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN parada)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Boathouse_Cafe)
+      (NP 
+       (NNP East_72)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NNP Park_Drive_North)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+   )
+   (NP 
+    (DT uma)
+    (JJ boa)
+    (NN idéia)
+    (PP 
+     (IN para)
+     (VP 
+      (NP 
+       (PRP quem)
+      )
+      (VP 
+       (VBP está)
+       (VBG indo)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NNP Metropolitan)
+       )
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NNP Central_Park)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

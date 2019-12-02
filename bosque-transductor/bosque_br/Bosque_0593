@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (DT um)
+     (NN artigo)
+     (PP 
+      (IN em)
+      (NP 
+       (NN falta)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mercado)
+       (RB hoje)
+       (NP 
+        (DT todo)
+        (NN tipo)
+        (PP 
+         (IN de)
+         (NP 
+          (NN mercado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diga-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN otimismo)
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Antonio_Jorge)
+    (NP 
+     (NN diretor)
+     (ADJP 
+      (JJ técnico)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Amil)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (NP 
+      (DT a)
+      (NN empresa)
+     )
+     (ADVP 
+      (RB ainda)
+     )
+     (VP 
+      (VBP estuda)
+     )
+     (NP 
+      (DT a)
+      (NN conversão)
+     )
+    )
+    mas
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN carnês)
+      (PP 
+       (IN de)
+       (NP 
+        (NN junho)
+       )
+      )
+     )
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBP serão)
+      (VBN emitidos)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN URV)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Este)
+     (NNS espaço)
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB tão)
+      (JJ bonito)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (RB nunca)
+     (S 
+      (NP 
+       (PRP se)
+      )
+      (VB vê)
+     )
+    )
+   )
+  )
+ )
+)

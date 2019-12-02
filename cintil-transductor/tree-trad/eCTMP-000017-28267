@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+     (NNS tempo)
+    )
+   )
+   (VP 
+    (VB terminou)
+    (PP 
+     (IN sem)
+     (NP 
+      (NNS golos)
+     )
+    )
+   )
+  )
+ )
+)

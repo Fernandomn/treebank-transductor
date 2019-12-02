@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Uma)
+     (NN casa)
+     (PP 
+      (IN de)
+      (NP 
+       (NN praia)
+      )
+     )
+    )
+    (VP 
+     (VBP tem)
+     (IN que)
+     (VB ser)
+    )
+    (ADJP 
+     (JJ prática)
+    )
+    (ADVP 
+     (RB ao_mesmo_tempo)
+     (VP 
+      (IN que)
+      (ADJP 
+       (JJ confortável)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Mikail)
+   )
+  )
+ )
+)

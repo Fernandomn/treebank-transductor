@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS cenário)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS extinção)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS agricultura)
+           (JJ portuguesa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (PRP tudo)
+     (NP 
+      (ADJP 
+       (RB menos)
+       (JJ novo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

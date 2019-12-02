@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS Miguel)
+      (NNS Fernandes)
+      (NNS Jorge)
+     )
+    )
+    (NP 
+     (NNS escritor)
+    )
+   )
+   (VP 
+    (VB nasceu)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Bombarral)
+     )
+    )
+   )
+  )
+ )
+)

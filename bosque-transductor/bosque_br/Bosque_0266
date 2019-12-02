@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Ainda_que)
+    (NP 
+     (NNP Robert_Hughes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN revista)
+       (NP 
+        (NNP Time)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP ache)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN tema)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Twombly)
+       )
+      )
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (RB mesmo)
+      (DT o)
+      (NN fracasso)
+      (VP 
+       (NP 
+        (DT um)
+        (NN fracasso)
+       )
+       (VP 
+        (VBP é)
+       )
+       (ADVP 
+        (RB sempre)
+       )
+       (NP 
+        (DT um)
+        (NN fracasso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

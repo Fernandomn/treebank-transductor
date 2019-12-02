@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT As)
+      (NNS audimetrias)
+     )
+     (VP 
+      (VB condicionam)
+      (NP 
+       (DT as)
+       (NNS programações)
+      )
+     )
+    )
+    (S 
+     (S 
+      (PP 
+       (IN por)
+       (NP 
+        (DT isso)
+       )
+      )
+      (S 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS sociedade)
+         (JJ civil)
+        )
+       )
+       (VP 
+        (RB também)
+        (VP 
+         (VB tem)
+         (PP 
+          (IN de)
+          (VP 
+           (VP 
+            (VB intervir)
+           )
+           (VP 
+            (VB ter)
+            (NP 
+             (NP 
+              (NNS acesso)
+              (PP 
+               (IN a_)
+               (NP 
+                (DT os)
+                (NNS dados)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

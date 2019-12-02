@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (DT esta)
+     (NNS soberania)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB faz)
+     (NP 
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NNS mito)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

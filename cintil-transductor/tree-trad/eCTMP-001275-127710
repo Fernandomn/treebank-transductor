@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (CD Dez)
+      (NP 
+       (NNS crianças)
+       (JJ seronegativas)
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB nasceram)
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS recurso)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ nova)
+             (NNS técnica)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (PRP ela)
+     )
+     (VP 
+      (VP 
+       (VB suscita)
+       (NP 
+        (NNS polémica)
+       )
+      )
+      (PP 
+       (IN entre)
+       (NP 
+        (DT os)
+        (NNS especialistas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

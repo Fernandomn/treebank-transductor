@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (RB 
+      (NN correto)
+     )
+    )
+    (VP 
+     (VBP institucionalizou-)
+    )
+    (NP 
+     (PRP se)
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (RB nem)
+     (DT os)
+     (NN americanos)
+    )
+    (NP 
+     (PRP o)
+    )
+    (VP 
+     (VBP suportam)
+    )
+    (PP 
+     (IN exceto)
+    )
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ claro)
+     )
+    )
+    (PP 
+     (NP 
+      (DT os)
+      (JJ eternos)
+      (NN paroquiais)
+     )
+    )
+   )
+  )
+ )
+)

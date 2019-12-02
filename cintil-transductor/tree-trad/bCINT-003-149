@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NNS EUA)
+     )
+     (VP 
+      (VB pediram)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS apoio)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ outros)
+           (NP 
+            (NNS países)
+            (JJ árabes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB receberam)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS resposta)
+        (JJ tépida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

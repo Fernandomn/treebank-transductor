@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB estão)
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS regime)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS isolamento)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB habitam)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS celas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS cave)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

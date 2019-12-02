@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NP 
+      (NNS conversa)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS terça-feira)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NNS tarde)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS Jorge)
+        (NNS Sampaio)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VB ter)
+     (VP 
+      (VB sido)
+      (JJ decisiva)
+     )
+    )
+   )
+  )
+ )
+)

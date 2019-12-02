@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ republicana)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ mesma)
+        (NNS coisa)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS Nancy)
+          (NNS Reagan)
+         )
+        )
+       )
+       (PP 
+        (CC ou)
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Miss)
+           (NNS América)
+           (NNS surda)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

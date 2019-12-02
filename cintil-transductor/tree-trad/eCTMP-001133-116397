@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NNS retrato)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS sociedade)
+         (JJ francesa)
+        )
+        (JJ contemporânea)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ necessárias)
+       (NP 
+        (NNS implicações)
+        (JJ políticas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

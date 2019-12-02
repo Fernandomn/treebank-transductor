@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS FEP)
+   )
+   (VP 
+    (VP 
+     (VB ofereceu)
+     (NP 
+      (NP 
+       (NNS entradas)
+       (JJ grátis)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (CD 700)
+      )
+      (NP 
+       (NNS crianças)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS escolas)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Lisboa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

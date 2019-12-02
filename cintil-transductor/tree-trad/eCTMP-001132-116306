@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS acções)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Chrysler)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB continuaram)
+    (ADJP 
+     (RB bastante)
+     (JJ activas)
+    )
+   )
+  )
+ )
+)

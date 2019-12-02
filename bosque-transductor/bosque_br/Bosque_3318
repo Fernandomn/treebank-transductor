@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cyberpunk)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN distorção)
+    (ADJP 
+     (JJ alucinógena)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN presente)
+     )
+    )
+   )
+  )
+ )
+)

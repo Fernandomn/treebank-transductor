@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (PP tua)
+      (NNS mãe)
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB ficar)
+      (JJ felicíssima)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB acabam)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (NP 
+      (DT essas)
+      (NNS tretas)
+     )
+    )
+   )
+  )
+ )
+)

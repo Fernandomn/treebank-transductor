@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT os)
+     (NN fundos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN commodities)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN liquidez)
+    (ADJP 
+     (JJ diária)
+    )
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (CD 30)
+     (NN dias)
+    )
+   )
+  )
+ )
+)

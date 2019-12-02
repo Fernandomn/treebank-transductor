@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Televisão)
+    (JJ tridimensional)
+   )
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS espera)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS programas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

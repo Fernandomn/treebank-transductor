@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT este)
+     (NNS momento)
+    )
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VB há)
+      (NP 
+       (NNS cinema)
+      )
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (VB existe)
+       (NP 
+        (NNS RTP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

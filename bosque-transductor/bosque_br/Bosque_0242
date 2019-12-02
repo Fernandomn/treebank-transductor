@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT os)
+     (NN horticultores)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ preciso)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB oferecer)
+      )
+      (NP 
+       (NN informações)
+       (PP 
+        (IN de)
+        (NP 
+         (NN mercado)
+        )
+       )
+       (ADJP 
+        (ADJP 
+         (JJ seguras)
+        )
+        e
+        (ADJP 
+         (JJ atuais)
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NN programação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN produção)
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB desenvolver)
+      )
+      (NP 
+       (JJ novas)
+       (NN alternativas)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NN acondicionamento)
+          )
+          e
+          (NP 
+           (NN embalagem)
+          )
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN produtos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

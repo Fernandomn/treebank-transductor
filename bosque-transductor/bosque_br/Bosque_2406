@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NN médico)
+     )
+     e
+    )
+    (NP 
+     (NN pescador)
+     (ADJP 
+      (JJ profissional)
+     )
+    )
+    (NP 
+     (NNP Gilberto_Fernandes)
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB lançar)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Manaus)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN livro)
+    (NP 
+     (NNP A_Pesca_no_Amazonas_-_Segredos,_Roteiros_e_Estórias)
+    )
+   )
+  )
+ )
+)

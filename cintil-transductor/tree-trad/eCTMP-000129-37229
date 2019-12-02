@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Ela)
+     )
+     (VP 
+      (VB é)
+      (JJ boa)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB pode)
+       (VP 
+        (VP 
+         (VB ser)
+         (VB bebida)
+        )
+        (PP 
+         (IN sem)
+         (NP 
+          (NNS problemas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Perspectiva)
+     (JJ diferente)
+    )
+   )
+   (S 
+    (VP 
+     (VB deram)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS representantes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (JJ outras)
+         (NNS bancadas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS BCP)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS BFE)
+    )
+   )
+  )
+  (VP 
+   (VB admitem)
+   (NP 
+    (NP 
+     (NNS adesão)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Plano)
+        (NNS Mateus)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

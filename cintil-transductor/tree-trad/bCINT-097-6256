@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (JJ principais)
+     (NNS óbices)
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (NP 
+      (NP 
+       (DT a)
+       (NNS chuva)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ forte)
+         (NNS vento)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB assolaram)
+        (NP 
+         (DT a)
+         (NNS prova)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS prestamistas)
+   )
+   (VP 
+    (VB referem)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NNS negócio)
+      )
+      (VP 
+       (RB já)
+       (VP 
+        (VP 
+         (RB não)
+         (VB é)
+        )
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB era)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

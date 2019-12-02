@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS separadores)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS TVI)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (ADJP 
+         (RB mais)
+         (JJ longos)
+        )
+       )
+       (CONJP 
+        (PP 
+         (IN de)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB há)
+           (NP 
+            (NNS memória)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

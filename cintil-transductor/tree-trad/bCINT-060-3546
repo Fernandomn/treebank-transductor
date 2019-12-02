@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (RB Até)
+   (VP 
+    (VB há)
+    (NP 
+     (NP 
+      (NP 
+       (NNS casos)
+       (PP 
+        (PP 
+         (IN segundo)
+         (NP 
+          (NNS noticiários)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS incêndios)
+         (ADJP 
+          (VB provocados)
+          (PP 
+           (IN por)
+           (NP 
+            (NNS bombeiros)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

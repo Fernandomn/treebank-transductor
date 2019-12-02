@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Paulo)
+     (NNS Sousa)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS boina)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS xadrez)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS cabeça)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB marcava)
+     (NP 
+      (DT a)
+      (NNS diferença)
+     )
+    )
+   )
+  )
+ )
+)

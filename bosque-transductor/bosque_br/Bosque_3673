@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NN corpo)
+    )
+    (VP 
+     (VBP foi)
+     (VBN negligenciado)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Viola)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Folha)
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 92)
+    )
+   )
+  )
+ )
+)

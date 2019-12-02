@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS operações)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS recolha)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS corpo)
+          )
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB envolveram)
+         (NP 
+          (NP 
+           (NNS bombeiros)
+          )
+          (NP 
+           (NP 
+            (NP 
+             (NP 
+              (NNS elementos)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NNS PSP)
+               )
+              )
+             )
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (NNS GNR)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (JJ difíceis)
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT Os)
+     (NN jogadores)
+    )
+    e
+    (NP 
+     (NNP Parreira)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP falaram)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN imprensa)
+    )
+   )
+  )
+ )
+)

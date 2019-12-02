@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS OPCA)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS Lyonnaise)
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS resíduos)
+       (JJ industriais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Socialistas)
+  )
+  (VP 
+   (VB lançam)
+   (NP 
+    (NP 
+     (NP 
+      (NNS campanha)
+      (JJ nacional)
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NNS regionalização)
+      )
+     )
+    )
+   )
+  )
+ )
+)

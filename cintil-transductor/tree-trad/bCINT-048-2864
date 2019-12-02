@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT esta)
+      (NP 
+       (NNS qualidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS empresário)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Wiegand)
+    )
+    (VP 
+     (VB terá)
+     (VP 
+      (VB mantido)
+      (NP 
+       (NP 
+        (NP 
+         (NNS relações)
+         (JJ comerciais)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS empresas)
+           (JJ portuguesas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Academia)
+    (NNS de)
+    (NNS Lisboa)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB apresentar)
+    (NP 
+     (NP 
+      (NNS parecer)
+      (PP 
+       (IN sobre)
+       (NP 
+        (NP 
+         (NNS financiamento)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS ensino)
+            (JJ superior)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

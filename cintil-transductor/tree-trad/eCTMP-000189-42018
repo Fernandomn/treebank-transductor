@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Meca)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NNS artes)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS aldeia)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS China)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

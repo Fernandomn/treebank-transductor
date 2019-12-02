@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Entrevista)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Jon)
+        (NNS Elster)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS filósofo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS irracionalidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (RB Ontem)
+   (S 
+    (ADVP 
+     (RB curiosamente)
+    )
+    (S 
+     (NP 
+      (PRP algumas)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS pessoas)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (RB já)
+             (VP 
+              (VB haviam)
+              (VP 
+               (VB sido)
+               (VB chamadas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB voltaram)
+      (PP 
+       (IN a)
+       (VP 
+        (VB prestar)
+        (NP 
+         (NNS declarações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

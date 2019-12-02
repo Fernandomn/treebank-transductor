@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN agentes)
+    (PP 
+     (IN de)
+     (NP 
+      (NN turismo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Japão)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+    (VBG dando)
+   )
+   (NP 
+    (NN tratos)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN bola)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (JJ novo)
+     (NN tour)
+     (PP 
+      (IN em)
+      (NP 
+       (NN solo)
+       (ADJP 
+        (JJ brasileiro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

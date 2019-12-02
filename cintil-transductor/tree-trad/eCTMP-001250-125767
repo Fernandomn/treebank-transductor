@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (ADVP 
+       (NP 
+        (CD Três)
+        (NNS dias)
+       )
+      )
+      (RB mais)
+     )
+     (RB tarde)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB alegava)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS inocência)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB exigia)
+       (NP 
+        (DT um)
+        (NNS julgamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

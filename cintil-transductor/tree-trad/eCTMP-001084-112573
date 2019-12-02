@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Comissão)
+    (NNS de)
+    (NNS Coordenação)
+    (NNS de_)
+    (NNS a)
+    (NNS Região)
+    (NNS Norte)
+   )
+  )
+  (VP 
+   (VB festeja)
+   (NP 
+    (CD 20)
+    (NNS anos)
+   )
+  )
+ )
+)

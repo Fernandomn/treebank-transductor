@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (RB definitavamente)
+      (VP 
+       (VP 
+        (RB não)
+        (VB vai)
+       )
+       (VP 
+        (VB apoiar)
+        (NP 
+         (PRP nenhum)
+         (NP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NNS projectos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Pedro)
+       (NNS Cabral)
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (S 
+          (S 
+           (VB afirma)
+          )
+         )
+         (S 
+          (VP 
+           (VB vai)
+           (VP 
+            (VB votar)
+            (PP 
+             (IN em)
+             (NP 
+              (NNS branco)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

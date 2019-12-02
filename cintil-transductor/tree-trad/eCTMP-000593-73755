@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ciclo)
+       (ADJP 
+        (ADJP 
+         (VB dedicado)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NNS ópera)
+          )
+         )
+        )
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS Cinemateca)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (JJ único)
+      (NNS filme)
+     )
+    )
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (CD três)
+        (NNS sessões)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

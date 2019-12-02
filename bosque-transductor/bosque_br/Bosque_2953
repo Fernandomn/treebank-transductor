@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Outros)
+    (NN especialistas)
+   )
+   (VP 
+    (VBP apontam)
+   )
+   (NP 
+    (DT mais)
+    (NN defeitos)
+    (ADJP 
+     (JJ técnicos)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP MP)
+    )
+   )
+  )
+ )
+)

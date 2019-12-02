@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Dando)
+    )
+    (NP 
+     (DT um)
+     (NN tempo)
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NN acertos)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP FHC)
+   )
+   (VP 
+    (VBP cumpre)
+   )
+   (NP 
+    (DT a)
+    (NN promessa)
+    (PP 
+     (IN de)
+     (VP 
+      (PRP que)
+      (VP 
+       (VBP será)
+      )
+      (NP 
+       (PRP tudo)
+      )
+      (NP 
+       (NN voluntário)
+      )
+     )
+    )
+   )
+  )
+ )
+)

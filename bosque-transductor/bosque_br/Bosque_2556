@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT Os)
+     (NN acasos)
+    )
+    e
+    (NP 
+     (NN interrupções)
+     (ADJP 
+      (JJ misteriosas)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN música)
+       (ADJP 
+        (JJ noturna)
+       )
+       (ADJP 
+        (JJ bartokiana)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP fizeram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Lutoslawski)
+    )
+   )
+   (NP 
+    (NP 
+     (NN silêncios)
+    )
+    e
+    (NP 
+     (NN vibrações)
+     (ADJP 
+      (JJ aleatórias)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN orquestra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

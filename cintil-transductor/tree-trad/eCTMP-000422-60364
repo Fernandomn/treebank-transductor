@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS lado)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS adversário)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (ADJP 
+      (RB ainda)
+      (JJ pior)
+     )
+    )
+   )
+  )
+ )
+)

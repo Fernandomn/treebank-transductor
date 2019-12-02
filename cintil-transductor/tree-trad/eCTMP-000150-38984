@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NNS estudo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Bouygues)
+    )
+    (VP 
+     (VB trazia)
+     (NP 
+      (DT um)
+      (NNS protocolo)
+     )
+    )
+   )
+  )
+ )
+)

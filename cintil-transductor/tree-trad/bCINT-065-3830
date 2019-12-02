@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN Sem)
+        (NP 
+         (DT a)
+         (NP 
+          (CD primeira)
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB há)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (CD segunda)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (PP 
+        (IN sem)
+        (NP 
+         (DT esta)
+        )
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB há)
+        )
+        (NP 
+         (NP 
+          (NNS redução)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS preços)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT uma)
+    (JJ boa)
+    (NN escavação)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN seções)
+      (PP 
+       (IN de)
+       (NP 
+        (NN críticas)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN revistas)
+        (PP 
+         (IN de)
+         (NP 
+          (NN música)
+          (VBN importadas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP revela)
+   )
+   (NP 
+    (DT a)
+    (JJ verdadeira)
+    (NN adoração)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (NNP G._Love)
+     )
+     (VP 
+      (VBP estimulou)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NN jornalistas)
+       (VBN especializados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

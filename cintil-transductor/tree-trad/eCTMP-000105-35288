@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Espectáculos)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS exposições)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS concertos)
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NNS filmes)
+          )
+          (NP 
+           (NP 
+            (NP 
+             (NNS teatros)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (PRP todo)
+              (NP 
+               (DT o)
+               (NP 
+                (NNS tipo)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NP 
+                   (NNS acontecimentos)
+                   (JJ urbanos)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB estão)
+     (RB exaustivamente)
+    )
+    (JJ listados)
+   )
+  )
+ )
+)

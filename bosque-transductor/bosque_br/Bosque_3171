@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Seleção)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (PRP isso)
+    (VP 
+     (VP 
+      (VP 
+       (VBP joga)
+      )
+      (VP 
+       (NP 
+        (PRP quem)
+       )
+       (VP 
+        (VBP está)
+       )
+       (ADJP 
+        (JJ melhor)
+       )
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (DT esse)
+       (NN negócio)
+       (PP 
+        (IN de)
+        (NP 
+         (NN nome)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

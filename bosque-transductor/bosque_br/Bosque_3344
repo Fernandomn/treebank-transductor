@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (JJ nova)
+    (NN divisão)
+    (PP 
+     (IN de)
+     (NP 
+      (NN serviços)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN batizada)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Kis)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP opera)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN administração)
+     (PP 
+      (IN de)
+      (UCP 
+       (NP 
+        (NN copiadoras)
+       )
+       e
+       (NP 
+        (DT outros)
+        (NN equipamentos)
+        (PP 
+         (IN de)
+         (NP 
+          (NN imagem)
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (JJ grandes)
+         (NN empresas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

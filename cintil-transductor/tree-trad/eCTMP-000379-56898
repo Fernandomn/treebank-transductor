@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Tom)
+         (NNS Cruise)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS Mia)
+          (NNS Sara)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Tim)
+       (NNS Curry)
+      )
+     )
+    )
+   )
+  )
+ )
+)

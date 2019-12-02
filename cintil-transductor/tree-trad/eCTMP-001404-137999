@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (VB Venceremos)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB alcançaremos)
+       (NP 
+        (DT a)
+        (NNS paz)
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN para)
+         (NP 
+          (PRP nós)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN para)
+          (NP 
+           (DT os)
+           (NP 
+            (PP nossos)
+            (NNS filhos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

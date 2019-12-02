@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governador)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP convenceu)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (IN que)
+     (IN se)
+     (VP 
+      (VBP abandonassse)
+     )
+     (NP 
+      (DT a)
+      (NN candidatura)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VBP poderia)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB tornar)
+       )
+       (NP 
+        (NN refém)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Quércia)
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VBP perderia)
+       )
+       (NP 
+        (DT o)
+        (NN poder)
+        (PP 
+         (IN de)
+         (NP 
+          (NN influência)
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN escolha)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN candidato)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NNP PMDB)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

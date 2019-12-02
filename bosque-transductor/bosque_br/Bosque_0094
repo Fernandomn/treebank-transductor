@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN exposição)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN material)
+     )
+    )
+    (PP 
+     (PP 
+      (IN durante)
+      (NP 
+       (DT a)
+       (NN gravidez)
+      )
+     )
+     ou
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (CD dois)
+       (JJ primeiros)
+       (NN anos)
+       (PP 
+        (IN de)
+        (NP 
+         (NN vida)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP representa)
+   )
+   (NP 
+    (NN perigo)
+   )
+  )
+ )
+)

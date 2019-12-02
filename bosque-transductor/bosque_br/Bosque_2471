@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ principal)
+    (NN jogador)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN equipe)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN meia-direita)
+    (NP 
+     (NNP José_Basualdo)
+    )
+   )
+  )
+ )
+)

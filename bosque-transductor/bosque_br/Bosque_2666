@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP chegamos)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN paraíso)
+     )
+    )
+    (CC mas)
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VP 
+      (VBP conseguimos)
+     )
+     (VP 
+      (VP 
+       (VB sair)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN inferno)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Carlos_Menem)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN tribuna)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Palermo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

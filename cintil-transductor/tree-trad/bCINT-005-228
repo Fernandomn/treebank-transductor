@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS professora)
+     )
+     (VB lamenta)
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB tem)
+      )
+      (NP 
+       (NP 
+        (NNS respostas)
+        (JJ definitivas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

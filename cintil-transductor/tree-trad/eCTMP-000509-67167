@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Preside)
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Câmara)
+        (NNS de)
+        (NNS Comércio)
+        (NNS e)
+        (NNS Indústria)
+        (NNS Árabe-Portuguesa)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS Lusitaniagás)
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NNS Nacionalgás)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Associação)
+             (NNS Nacional)
+             (NNS de_)
+             (NNS as)
+             (NNS Empresas)
+             (NNS Operadoras)
+             (NNS Portuárias)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

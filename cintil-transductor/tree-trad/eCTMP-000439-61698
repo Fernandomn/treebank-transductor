@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS PÚBLICO)
+  )
+  (VP 
+   (VB avança)
+   (NP 
+    (NP 
+     (NNS previsões)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ nova)
+        (NNS tabela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

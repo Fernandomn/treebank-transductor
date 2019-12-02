@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Deixámos)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNS fim)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS melhor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS festa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

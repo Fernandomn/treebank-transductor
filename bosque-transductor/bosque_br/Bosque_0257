@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN matemática)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN bicho)
+    (PP 
+     (IN de)
+     (NP 
+      (CD sete)
+      (NN cabeças)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (JJ grande)
+     (NN parte)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN estudantes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (ADJP 
+          (ADJP 
+           (JJ 1º.)
+          )
+          e
+          (ADJP 
+           (JJ 2º.)
+          )
+         )
+         (NN graus)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

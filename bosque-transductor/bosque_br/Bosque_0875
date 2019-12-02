@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De)
+    (NP 
+     (NN olho)
+     (PP 
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN voto)
+       )
+      )
+      e
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (JJ segundo)
+        (NN turno)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

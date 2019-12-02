@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ grande)
+     (NP 
+      (NNS problema)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS IILP)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS localização)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ futura)
+         (NNS sede)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

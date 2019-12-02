@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Brasil)
+   )
+   (VP 
+    (VBP está)
+   )
+   (ADVP 
+    (RB assim)
+   )
+   (PP 
+    (IN fora_de+)
+    (NP 
+     (DT as)
+     (NN seleções)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Cannes-94)
+      )
+     )
+    )
+   )
+  )
+ )
+)

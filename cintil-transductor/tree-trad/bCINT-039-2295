@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (CD Três)
+   (NP 
+    (NNS realizações)
+    (ADJP 
+     (VB marcadas)
+     (PP 
+      (IN por)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS raiva)
+        (ADJP 
+         (JJ visceral)
+         (ADJP 
+          (CC e)
+          (JJ provocatória)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Compensando)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS falta)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS dotes)
+            (JJ oratórios)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS peso)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS slogans)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Spöri)
+    )
+    (VB atacou)
+   )
+  )
+ )
+)

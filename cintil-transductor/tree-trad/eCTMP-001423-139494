@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NNS final)
+     (JJ feliz)
+    )
+    (ADJP 
+     (ADJP 
+      (VB aplaudido)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS bancada)
+         (JJ social-democrata)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

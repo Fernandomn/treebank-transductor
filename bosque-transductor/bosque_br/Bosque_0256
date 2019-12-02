@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NN Método)
+     (ADJP 
+      (JJ japonês)
+     )
+    )
+    (VP 
+     (VBP exige)
+    )
+    (NP 
+     (NN calhamaços)
+     (PP 
+      (IN de)
+      (NP 
+       (NN exercícios)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (NN opositores)
+    )
+    (VP 
+     (VBP dizem)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (NN técnica)
+     )
+     (VP 
+      (VBP peca)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN mecanicismo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

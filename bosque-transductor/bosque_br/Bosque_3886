@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Santos)
+   )
+   (VP 
+    (VBP volta)
+    (IN a)
+    (VB viver)
+   )
+   (NP 
+    (DT um)
+    (NN clima)
+    (ADJP 
+     (JJ tenso)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (JJ próximo)
+     (NN jogo)
+    )
+   )
+   (NP 
+    (NN domingo)
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NNP Santo_André)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN busca)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (JJ primeira)
+       (NN vitória)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Campeonato_Paulista)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (NP 
+        (DT a)
+        (NNS irmã)
+       )
+       (VP 
+        (VP 
+         (VB colocou)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS saco)
+          )
+         )
+        )
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS blusa)
+          (ADJP 
+           (VB estampada)
+           (PP 
+            (IN em)
+            (NP 
+             (NP 
+              (NNS preto)
+              (NP 
+               (CC e)
+               (NNS rosa-vivo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB indagou)
+   )
+  )
+ )
+)

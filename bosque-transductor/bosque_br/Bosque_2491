@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN negros)
+    (NP 
+     (DT as)
+     (NN minorias)
+    )
+   )
+   (VP 
+    (VBP têm)
+    (IN que)
+    (VB viver)
+   )
+   (UCP 
+    (S 
+     (RB como)
+     (NP 
+      (DT as)
+      (NN comunidades)
+      (PP 
+       (IN de)
+       (NP 
+        (NN insetos)
+       )
+      )
+     )
+    )
+    (S 
+     (RB como)
+     (NP 
+      (DT as)
+      (NN colméias)
+     )
+    )
+    (NP 
+     (DT os)
+     (NN formigueiros)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB combater)
+     )
+     (NP 
+      (DT o)
+      (NN poder)
+     )
+    )
+   )
+  )
+ )
+)

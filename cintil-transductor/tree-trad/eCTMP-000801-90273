@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS conclusão)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS maus)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS fita)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (DT as)
+      (NNS estradas)
+     )
+    )
+   )
+  )
+ )
+)

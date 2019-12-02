@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Muitos)
+    (NN hotéis)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP perceberam)
+     )
+     (NP 
+      (DT o)
+      (JJ crescente)
+      (NN interesse)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN ecoturismo)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP diversificaram)
+     )
+     (NP 
+      (DT suas)
+      (NN atrações)
+     )
+    )
+   )
+  )
+ )
+)

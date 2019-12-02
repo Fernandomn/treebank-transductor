@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Carlos)
+     (NNS Calheiros)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB terminou)
+      (RB ontem)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS intervalo)
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS jogo)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (ADVP 
+          (RB nem)
+          (RB sequer)
+         )
+         (VP 
+          (VB devia)
+          (VP 
+           (VB ter)
+           (VB começado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

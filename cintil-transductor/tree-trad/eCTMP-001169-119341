@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NP 
+       (NNS desenvolvimento)
+       (NP 
+        (CC e)
+        (NNS modernização)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS país)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB será)
+      )
+      (JJ possível)
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (DT os)
+       (NNS comerciantes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

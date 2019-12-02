@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Eufrasio_Veículos)
+    (NP 
+     (NN revendedora)
+     (NP 
+      (NNP Ford)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP aposta)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN showroom)
+       (ADJP 
+        (JJ sazonal)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP prepara)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB começar)
+        (IN a)
+        (VB atuar)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Campos_do_Jordão)
+        )
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (CD dois)
+         (NN meses)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

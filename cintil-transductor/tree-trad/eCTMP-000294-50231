@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS artesãos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB adaptaram)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (JJ nova)
+           (NNS realidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB perderam)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ significativa)
+      (NP 
+       (NNS quota)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS mercado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

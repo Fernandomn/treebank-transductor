@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Este)
+     (NNS investimento)
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (JJ superior)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (ADJP 
+          (ADJP 
+           (VB efectuado)
+           (PP 
+            (IN por_)
+            (NP 
+             (DT a)
+             (NNS APDL)
+            )
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT os)
+            (NP 
+             (CD últimos)
+             (NP 
+              (CD vinte)
+              (NNS anos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

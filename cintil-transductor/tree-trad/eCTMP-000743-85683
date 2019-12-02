@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS polícia)
+     (JJ local)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB vigia)
+     )
+     (NP 
+      (DT a)
+      (NNS área)
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT a)
+      (NNS noite)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS Telejornal-PSD)
+    )
+   )
+   (S 
+    (VP 
+     (VB sucederia)
+    )
+    (NP 
+     (DT o)
+     (NNS Telejornal-PS)
+    )
+   )
+  )
+ )
+)

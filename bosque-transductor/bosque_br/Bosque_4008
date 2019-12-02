@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NNP NBA)
+    )
+    (ADVP 
+     (RB nem)
+    )
+    (VP 
+     (VBP existia)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN profissionalismo)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN esporte)
+      )
+     )
+    )
+    (ADVP 
+     (RB apenas)
+    )
+    (VP 
+     (VBP engatinhava)
+    )
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (VP 
+      (VBP apareceu)
+     )
+     (NP 
+      (DT o)
+      (JJ primeiro)
+      (NN gigante)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN basquete)
+        (ADJP 
+         (JJ norte-americano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

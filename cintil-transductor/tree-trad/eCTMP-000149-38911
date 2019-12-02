@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Franceses)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS volante)
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS suecos)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS boleia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP ACM)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP conseguiu)
+    )
+    (VP 
+     (VP 
+      (VB entender)
+     )
+     (NP 
+      (PRP nada)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (JJ novo)
+      (NN plano)
+      (ADJP 
+       (JJ econômico)
+      )
+      (VP 
+       (VP 
+        (VBN elaborado)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NN equipe)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN ministro)
+           (NP 
+            (NNP Fernando_Henrique_Cardoso)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

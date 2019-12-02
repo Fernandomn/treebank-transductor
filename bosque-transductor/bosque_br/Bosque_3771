@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Excetuada)
+    )
+    (NP 
+     (DT a)
+     (NN educação)
+     (ADJP 
+      (JJ básica)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (JJ primeiro)
+       (NN grau)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP deve)
+       (VB ser)
+      )
+      (ADJP 
+       (ADJP 
+        (JJ gratuita)
+       )
+       e
+       (ADJP 
+        (JJ obrigatória)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT todo)
+     (DT o)
+     (NN resto)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ preciso)
+   )
+   (VP 
+    (VP 
+     (VB discriminar)
+    )
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP pode)
+      (VB pagar)
+     )
+    )
+   )
+  )
+ )
+)

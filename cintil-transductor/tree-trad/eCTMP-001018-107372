@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (NP 
+       (JJ raras)
+       (NNS excepções)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (JJ própria)
+      (NNS campanha)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB está)
+       (PP 
+        (IN a)
+        (VB decorrer)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS tom)
+         (ADJP 
+          (RB surpreendentemente)
+          (JJ moderado)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT aquilo)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB está)
+           (PP 
+            (IN em)
+            (NP 
+             (NNS jogo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

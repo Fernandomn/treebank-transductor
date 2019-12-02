@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (RB nunca)
+    (VP 
+     (VB gostei)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT aquele)
+       (NNS projecto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

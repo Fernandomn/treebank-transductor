@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Europa)
+    (NNS de_)
+    (NNS os)
+    (NNS Pequenitos)
+   )
+  )
+  (VP 
+   (PP 
+    (IN sem)
+    (NP 
+     (NP 
+      (NNS comissão)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS inquérito)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

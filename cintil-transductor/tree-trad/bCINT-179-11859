@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Inesperadamente)
+   )
+   (S 
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS onda)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS vendas)
+          (JJ especulativas)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS fundos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB desencadeou)
+      (NP 
+       (DT o)
+       (NNS pânico)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS mercado)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS cacau)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

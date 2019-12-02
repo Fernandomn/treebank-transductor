@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS CHIRAC)
+  )
+  (VP 
+   (VP 
+    (VB ENVIA)
+    (NP 
+     (NNS MENSAGEM)
+    )
+   )
+   (PP 
+    (PP 
+     (IN ATRAVÉS)
+     (IN de_)
+    )
+    (NP 
+     (DT o)
+     (NNS EMBAIXADOR)
+    )
+   )
+  )
+ )
+)

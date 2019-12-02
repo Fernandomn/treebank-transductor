@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS mês)
+     (PP 
+      (IN de_)
+      (NP 
+       (NP 
+        (DT o)
+        (NNS Ramadão)
+       )
+       (NP 
+        (NP 
+         (DT a)
+         (NP 
+          (JJ grande)
+          (NP 
+           (NP 
+            (NNS festa)
+            (JJ religiosa)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS mundo)
+              (JJ muçulmano)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB terminou)
+    (RB ontem)
+   )
+  )
+ )
+)

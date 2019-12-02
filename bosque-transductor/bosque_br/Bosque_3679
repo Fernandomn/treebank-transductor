@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (CC Mas)
+    (NP 
+     (DT a)
+     (NNP Dow)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NNP EUA)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP quis)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB cumprir)
+      )
+      (NP 
+       (DT o)
+       (NN contrato)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB transferir)
+      )
+      (NP 
+       (NN tecnologia)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NN concorrente)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

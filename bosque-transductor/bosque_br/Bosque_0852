@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Por_enquanto)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP dedica)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN preparação)
+     (ADJP 
+      (JJ física)
+     )
+    )
+   )
+  )
+ )
+)

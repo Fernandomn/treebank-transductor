@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VBP estou)
+   )
+   (VP 
+    (ADVP 
+     (RB muito)
+    )
+    (VP 
+     (VBN preocupado)
+    )
+    (PP 
+     (IN em)
+     (VP 
+      (VP 
+       (VB estimular)
+      )
+      (NP 
+       (DT as)
+       (NN atividades)
+       (ADJP 
+        (JJ preventivas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

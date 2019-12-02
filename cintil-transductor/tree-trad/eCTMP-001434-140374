@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS associação)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS estudantes)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VP 
+      (VB apresentou)
+      (NP 
+       (NNS queixa)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Inspecção)
+        (NNS Geral)
+        (NNS de_)
+        (NNS as)
+        (NNS Actividades)
+        (NNS Económicas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

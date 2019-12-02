@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN lanchonete)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ simples)
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP faz)
+    )
+    (NP 
+     (DT um)
+     (JJ saboroso)
+     (NN cachorro-quente)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN US$)
+      (ADJP 
+       (CD 3)
+      )
+     )
+    )
+   )
+  )
+ )
+)

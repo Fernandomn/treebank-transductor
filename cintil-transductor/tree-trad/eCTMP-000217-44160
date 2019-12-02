@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS futuro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS país)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB volta)
+    (PP 
+     (IN a)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT uma)
+       (NNS ficção)
+      )
+     )
+    )
+   )
+  )
+ )
+)

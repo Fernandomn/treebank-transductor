@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+   )
+   (S 
+    (S 
+     (NP 
+      (NNS Magic)
+     )
+     (VP 
+      (VB dizia)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB era)
+         )
+         (NP 
+          (NNS verdade)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT os)
+       (NNS rumores)
+      )
+      (VB morriam)
+     )
+    )
+   )
+  )
+ )
+)

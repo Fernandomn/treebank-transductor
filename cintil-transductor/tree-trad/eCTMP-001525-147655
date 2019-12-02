@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Túlio)
+     (NNS Espanca)
+    )
+   )
+   (VP 
+    (VB iria)
+    (VP 
+     (VP 
+      (VB ser)
+      (VP 
+       (VB homenageado)
+       (PP 
+        (IN por_)
+        (NP 
+         (NP 
+          (DT a)
+          (NP 
+           (PP sua)
+           (NP 
+            (NNS terra)
+            (JJ natal)
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (NNS Vila)
+           (NNS Viçosa)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS dia)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (PP seu)
+            (NP 
+             (CD 80º)
+             (NNS aniversário)
+            )
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (CD 8)
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Maio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

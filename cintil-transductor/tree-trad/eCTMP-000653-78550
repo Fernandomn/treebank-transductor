@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Sastre)
+   )
+   (VP 
+    (VP 
+     (VB escreveu)
+     (RB também)
+    )
+    (NP 
+     (NP 
+      (NNS romances)
+      (NP 
+       (CC e)
+       (NP 
+        (NNS livros)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS poesia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

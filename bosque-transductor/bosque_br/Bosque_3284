@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Farina)
+   )
+   (VP 
+    (VBP acusou)
+   )
+   (NP 
+    (DT os)
+    (NN clubes)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB sonegarem)
+     )
+     (NP 
+      (NN impostos)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN cumplicidade)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN federação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

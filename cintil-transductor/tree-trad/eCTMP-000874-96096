@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Foi)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS decisão)
+        (ADJP 
+         (RB mais)
+         (JJ difícil)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP minha)
+          (NNS carreira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

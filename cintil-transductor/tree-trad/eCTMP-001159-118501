@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gratchov)
+   )
+   (VP 
+    (VP 
+     (VB fez)
+     (NP 
+      (DT a)
+      (NNS declaração)
+     )
+    )
+    (PP 
+     (IN após)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS encontro)
+        (ADVP 
+         (RB a)
+         (RB sós)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NNS Perry)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS agentes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS KGB)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB escolhiam)
+       (NP 
+        (DT esses)
+        (NNS lugares)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS encontros)
+         (JJ conspirativos)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC porque)
+       (S 
+        (VP 
+         (RB aí)
+         (VB abundavam)
+        )
+        (NP 
+         (DT as)
+         (NP 
+          (NNS ruelas)
+          (ADJP 
+           (ADJP 
+            (JJ pequenas)
+            (ADJP 
+             (CC e)
+             (JJ estreitas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Esteve)
+    )
+    (ADVP 
+     (RB assim)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN astro)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN conferência)
+       )
+      )
+      (NP 
+       (NN lorde)
+       (NP 
+        (NNP Keynes)
+       )
+       (UCP 
+        (NP 
+         (DT um)
+         (NN sujeito)
+         (ADJP 
+          (JJ sutil)
+         )
+        )
+        (NP 
+         (JJ bom)
+         (NN expositor)
+        )
+        (ADJP 
+         (RB muito)
+         (JJ persuasivo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP conta)
+   )
+   (NP 
+    (NNP Campos)
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ único)
+    (NN favorito)
+    (PP 
+     (IN a)
+     (VB vencer)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (NNP Stefan_Edberg)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP arrasou)
+     )
+     (NP 
+      (DT o)
+      (RB também)
+      (NN sueco)
+      (NP 
+       (NNP Anders_Jarryd)
+      )
+     )
+     (PP 
+      (IN por)
+      (UCP 
+       (NP 
+        (CD 6/1)
+       )
+       e
+       (ADJP 
+        (CD 6/1)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

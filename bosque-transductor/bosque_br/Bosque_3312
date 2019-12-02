@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN reunião)
+   )
+   (VP 
+    (VBP terminou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Budapeste)
+    )
+   )
+  )
+ )
+)

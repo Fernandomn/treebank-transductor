@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Manuel)
+      (NNS Monteiro)
+     )
+    )
+    (VP 
+     (VB lamentou)
+     (NP 
+      (DT o)
+      (NNS facto)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB disse)
+    )
+   )
+  )
+ )
+)

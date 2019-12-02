@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN de_)
+      (RB aí)
+     )
+     (VP 
+      (PP 
+       (IN para)
+       (RB cá)
+      )
+      (VP 
+       (VB tem)
+       (VP 
+        (VB sido)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS desgaste)
+          (JJ diário)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

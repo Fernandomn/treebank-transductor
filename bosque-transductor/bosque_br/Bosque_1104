@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN casal)
+   )
+   (VP 
+    (VBP quer)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB trocar)
+     )
+     (NP 
+      (DT o)
+      (NN piso)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN banheiro)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB revestir)
+     )
+     (NP 
+      (DT o)
+      (NN piso)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN áreas)
+        (ADJP 
+         (JJ sociais)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN madeira)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB instalar)
+     )
+     (NP 
+      (NN armários)
+     )
+    )
+   )
+  )
+ )
+)

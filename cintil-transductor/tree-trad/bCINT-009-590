@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS inexpressionismo)
+   )
+   (VP 
+    (VB poderá)
+    (VP 
+     (VB superar)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS equívocos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS pós-modernismo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

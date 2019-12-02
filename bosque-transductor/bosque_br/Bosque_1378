@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Mal)
+   )
+   (ADVP 
+    (RB pelo_menos)
+    (RB por_enquanto)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN eleição)
+     (ADJP 
+      (JJ presidencial)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP PMDB)
+   )
+   (VP 
+    (VBP mostra)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN corrida)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN senadores)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB ainda)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN cacife)
+    )
+   )
+  )
+ )
+)

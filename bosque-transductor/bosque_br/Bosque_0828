@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN advogada)
+      (NP 
+       (NNP Zilda)
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBP quis)
+        )
+        (VP 
+         (VP 
+          (VB dar)
+         )
+         (NP 
+          (DT o)
+          (NN sobrenome)
+         )
+        )
+       )
+       (ADJP 
+        (CD 49)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP veio)
+   )
+   (PP 
+    (IN junto_com)
+    (NP 
+     (DT uma)
+     (NN carta)
+    )
+   )
+   (VP 
+    (VBG dizendo)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT seu)
+     (NN visto)
+    )
+    (VP 
+     (VBP foi)
+     (VBN recusado)
+    )
+   )
+  )
+ )
+)

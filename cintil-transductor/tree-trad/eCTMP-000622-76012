@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Barclays)
+     (NNS Bank)
+    )
+   )
+  )
+  (PP 
+   (IN a_)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS lado)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Judiciária)
+      )
+     )
+    )
+   )
+  )
+ )
+)

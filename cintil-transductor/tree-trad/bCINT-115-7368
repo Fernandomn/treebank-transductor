@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS deputados)
+     (ADJP 
+      (VB explusos)
+     )
+    )
+   )
+   (VP 
+    (VB ponderam)
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS filiação)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT outro)
+         (NNS partido)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC ou)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS fundação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ nova)
+           (NP 
+            (NNS formação)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (JJ extrema)
+               (NNS esquerda)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

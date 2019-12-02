@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ evidente)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (RB nem)
+      (NP 
+       (PRP todas)
+       (NP 
+        (DT as)
+        (NNS apostas)
+       )
+      )
+     )
+     (VP 
+      (VB vão)
+      (VB resultar)
+     )
+    )
+   )
+  )
+ )
+)

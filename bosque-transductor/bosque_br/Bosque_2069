@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN impressão)
+    (PP 
+     (IN de)
+     (NP 
+      (DT ambos)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Bahia)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN descrita)
+   )
+   (ADVP 
+    (RB assim)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Outterbridge)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,102 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN escolha)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN técnicos)
+      (NP 
+       (NP 
+        (NNP Johan_Cruyff)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Barcelona)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Espanha)
+           )
+          )
+         )
+        )
+       )
+       e
+       (NP 
+        (NNP Telê_Santana)
+        (NP 
+         (NN bicampeão)
+         (ADJP 
+          (JJ mundial)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NN colunistas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Folha)
+       )
+      )
+      (PP 
+       (IN durante)
+       (NP 
+        (DT a)
+        (NN Copa)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NNP EUA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (NP 
+    (NN elogios)
+    (PP 
+     (IN de)
+     (NP 
+      (NP ex-jogadores)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN seleção)
+        (ADJP 
+         (JJ brasileira)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

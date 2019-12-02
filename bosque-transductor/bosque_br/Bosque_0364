@@ -1,0 +1,118 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN segunda)
+     (ADJP 
+      (JJ seguinte)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NN dia)
+       (ADJP 
+        (CD 4)
+       )
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+         (CD 8)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN bancos)
+   )
+   (VP 
+    (VBP ficarão)
+   )
+   (VBN abertos)
+   (PP 
+    (IN até)
+    (NP 
+     (CD uma)
+     (NN hora)
+     (PP 
+      (IN após)
+      (NP 
+       (DT o)
+       (NN expediente)
+       (ADJP 
+        (JJ normal)
+       )
+      )
+     )
+    )
+    (UCP 
+     (NP 
+      (ADJP 
+       (RB apenas)
+       (CD dez)
+      )
+      (NN delegacias)
+      (ADJP 
+       (JJ regionais)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Banco_Central)
+       )
+      )
+     )
+     e
+     (PP 
+      (IN em)
+      (NP 
+       (NN agências)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Banco_do_Brasil)
+         (VP 
+          (VP 
+           (VBN encarregadas)
+          )
+          (PP 
+           (IN de)
+           (VP 
+            (VP 
+             (VB entregar)
+            )
+            (NP 
+             (DT o)
+             (NN real)
+            )
+            (PP 
+             (IN a+)
+             (NP 
+              (DT os)
+              (DT demais)
+              (NN bancos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

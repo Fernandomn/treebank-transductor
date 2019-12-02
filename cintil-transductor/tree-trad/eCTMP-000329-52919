@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Há)
+      (NP 
+       (NNS dias)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS o)
+      (NNS Estado-Maior)
+     )
+    )
+    (VP 
+     (VB assinalou)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS passagem)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (CD terceiro)
+           (NNS mês)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN desde)
+        (NP 
+         (DT o)
+         (NP 
+          (CD último)
+          (NP 
+           (NNS vencimento)
+           (ADJP 
+            (VB recebido)
+            (PP 
+             (IN por_)
+             (NP 
+              (DT os)
+              (NP 
+               (JJ oficiais)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

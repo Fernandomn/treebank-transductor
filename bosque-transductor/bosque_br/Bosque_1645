@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB De_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (VBN amassado)
+      (PP 
+       (IN sem)
+       (VP 
+        (IN que)
+        (VP 
+         (VBP seja)
+        )
+        (ADJP 
+         (JJ preciso)
+        )
+        (VP 
+         (VP 
+          (VB interferir)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN pintura)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

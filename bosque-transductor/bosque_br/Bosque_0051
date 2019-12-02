@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN Vila)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (VP 
+     (VBP recebo)
+    )
+    (NP 
+     (DT a)
+     (NN bola)
+    )
+   )
+   (VP 
+    (VBP tenho)
+    (IN que)
+    (VB ficar)
+    (VBG olhando)
+   )
+   (NP 
+    (DT sua)
+    (NN trajetória)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB ser)
+      (VBN surpreendido)
+     )
+    )
+   )
+  )
+ )
+)

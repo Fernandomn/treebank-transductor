@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Rússia)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS país)
+      (ADJP 
+       (RB altamente)
+       (JJ homogéneo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

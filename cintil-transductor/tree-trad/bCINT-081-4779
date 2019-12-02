@@ -1,0 +1,96 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cheryl)
+     (NNS Ladd)
+    )
+   )
+   (VP 
+    (VB interpreta)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS personagem)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS médica)
+           (JJ legista)
+          )
+          (NP 
+           (NNS Dawn)
+           (NNS Holliday)
+          )
+         )
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (PP 
+              (IN durante)
+              (NP 
+               (DT uma)
+               (NP 
+                (NNS viagem)
+                (PP 
+                 (IN a_)
+                 (NP 
+                  (DT o)
+                  (NNS Hawai)
+                 )
+                )
+               )
+              )
+             )
+             (VP 
+              (VB acaba)
+              (PP 
+               (IN por)
+               (VP 
+                (VB conduzir)
+                (NP 
+                 (DT a)
+                 (NP 
+                  (NNS investigação)
+                  (PP 
+                   (IN de)
+                   (NP 
+                    (DT uma)
+                    (NP 
+                     (NNS série)
+                     (PP 
+                      (IN de)
+                      (NP 
+                       (NNS homicídios)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

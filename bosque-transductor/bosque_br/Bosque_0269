@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN explicação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN reviravolta)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP reside)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT uma)
+      (JJ pretensa)
+      (NN especificidade)
+      (ADJP 
+       (JJ brasileira)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP seria)
+       )
+       (NP 
+        (DT um)
+        (NN coquetel)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NN leviandade)
+          )
+          (NP 
+           (NN inconstância)
+          )
+          e
+          (NP 
+           (NN pusilanimidade)
+          )
+         )
+        )
+        (NP 
+         (PRP tudo)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN som)
+          (PP 
+           (IN de)
+           (NP 
+            (NN salsa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ironiza)
+   )
+   (NP 
+    (DT o)
+    (NN editorial)
+   )
+  )
+ )
+)

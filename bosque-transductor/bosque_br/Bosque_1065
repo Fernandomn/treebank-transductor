@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Outro)
+    (NN dia)
+    (NP 
+     (DT mesmo)
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT a)
+     (NN Copa)
+    )
+   )
+   (NP 
+    (DT um)
+    (NN jornalista)
+    (ADJP 
+     (JJ inglês)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP escreve)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NN futebol)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (JJ principais)
+       (NN jornais)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN mundo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP reclamava)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (DT poucos)
+     (NN autores)
+     (PP 
+      (IN de)
+      (NP 
+       (NN expressão)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP escreveram)
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NN fut)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

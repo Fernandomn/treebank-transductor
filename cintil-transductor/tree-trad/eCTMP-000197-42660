@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Continua)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ciclo)
+       (ADJP 
+        (VB dedicado)
+        (PP 
+         (IN a)
+         (NP 
+          (NNS Eisenstein)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Cinemateca)
+       (NNS Portuguesa)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS Rua)
+        (NNS Barata)
+        (NNS Salgueiro)
+       )
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Lisboa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

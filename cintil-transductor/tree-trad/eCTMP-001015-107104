@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (PP meu)
+       (NNS nome)
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NNS Couto)
+        (NNS Ferreira)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (VB estou)
+         (JJ preso)
+        )
+        (CONJP 
+         (S 
+          (VP 
+           (VB há)
+           (NP 
+            (CD nove)
+            (NNS anos)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS razões)
+          (JJ políticas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (IN Além)
+       (IN de_)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS técnicos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Câmara)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB vamos)
+      (S 
+       (VP 
+        (VB tendo)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS participação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS entidades)
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VB estão)
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT o)
+                  (NNS terreno)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

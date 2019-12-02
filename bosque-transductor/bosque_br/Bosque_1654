@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN negociação)
+    (PP 
+     (IN com)
+     (NP 
+      (NN patrocinadores)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN processo)
+    (ADJP 
+     (RB mais)
+     (JJ complexo)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT a)
+     (NN artista)
+    )
+   )
+  )
+ )
+)

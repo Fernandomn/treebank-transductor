@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Era)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS objectivo)
+       (JJ certo)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB devia)
+        (VP 
+         (VB ser)
+         (VB feita)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT aquela)
+         (NNS altura)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN independentemente)
+         (IN de)
+        )
+        (NP 
+         (NP 
+          (NNS erros)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB tenham)
+             (VP 
+              (VB sido)
+              (VB cometidos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

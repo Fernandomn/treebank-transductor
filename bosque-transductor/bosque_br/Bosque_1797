@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tome-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (NP 
+    (DT o)
+    (NN caso)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Ventersdorp)
+      (NP 
+       (CD 200)
+       (NN km)
+       (PP 
+        (IN a)
+        (NP 
+         (NN oeste)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Johannesburgo)
+          )
+         )
+        )
+       )
+      )
+      (ADJP 
+       (CD uma)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (CD 14)
+         (NN cidades)
+         (VP 
+          (VP 
+           (VBN declaradas)
+          )
+          (PP 
+           (IN por+)
+           (NP 
+            (DT o)
+            (NN governo)
+           )
+          )
+          (NP 
+           (NN áreas)
+           (PP 
+            (IN de)
+            (NP 
+             (NN turbulência)
+            )
+           )
+           (NP 
+            (NN estágio)
+            (ADJP 
+             (JJ suave)
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN estado)
+              (PP 
+               (IN de)
+               (NP 
+                (NN emergência)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

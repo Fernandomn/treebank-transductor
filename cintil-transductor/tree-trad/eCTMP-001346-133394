@@ -1,0 +1,39 @@
+(
+ (S 
+  (PP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Sevilha)
+    )
+   )
+  )
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Mário)
+      (NNS Silva)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Dionísio)
+       (NNS Castro)
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS evidência)
+     )
+    )
+   )
+  )
+ )
+)

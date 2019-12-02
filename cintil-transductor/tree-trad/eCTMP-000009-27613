@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Hélder)
+   )
+   (VP 
+    (VP 
+     (VB cumpriu)
+     (RB bem)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS estreia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

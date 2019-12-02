@@ -1,0 +1,113 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (DT outro)
+    (ADJP 
+     (ADJP 
+      (JJ heterodoxo)
+     )
+     e
+     (ADJP 
+      (JJ inconvencional)
+     )
+    )
+   )
+   (VP 
+    (VBP consiste)
+   )
+   (PP 
+    (IN em)
+    (VP 
+     (VP 
+      (VB controlar)
+     )
+     (NP 
+      (DT as)
+      (NN pressões)
+      (ADJP 
+       (JJ inflacionárias)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT sua)
+       (NN origem)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN cadeias)
+       (ADJP 
+        (JJ produtivas)
+       )
+      )
+     )
+     (PP 
+      (IN mediante)
+      (NP 
+       (DT a)
+       (NN fixação)
+       (VP 
+        (VP 
+         (VBN negociada)
+        )
+        (PP 
+         (IN entre)
+         (NP 
+          (DT todos)
+          (DT os)
+          (NN setores)
+          (ADJP 
+           (JJ participantes)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN tetos)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NN aumentos)
+          (PP 
+           (IN de)
+           (NP 
+            (NN valores)
+            (VP 
+             (VP 
+              (VBP sejam)
+             )
+             (NP 
+              (DT estes)
+             )
+             (NP 
+              (NP 
+               (NN preços)
+              )
+              ou
+              (NP 
+               (NN salários)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

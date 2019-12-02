@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (RB Não)
+         (VB posso)
+        )
+        (VB divulgar)
+       )
+       (CONJP 
+        (CC porque)
+        (S 
+         (VP 
+          (VB é)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS interesse)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT os)
+               (NNS clubes)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB disse)
+     )
+     (NP 
+      (NNS Damásio)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC enquanto)
+      (S 
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS vice-presidente)
+          (NNS Guilherme)
+          (NNS Aguiar)
+         )
+        )
+       )
+       (S 
+        (NP 
+         (DT tais)
+         (NNS garantias)
+        )
+        (VP 
+         (VP 
+          (VB são)
+          (PP 
+           (IN de)
+           (NP 
+            (PRP muita)
+            (NNS natureza)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

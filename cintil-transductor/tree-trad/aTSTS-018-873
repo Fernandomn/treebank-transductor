@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS governo)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB aprova)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS situação)
+      )
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB prolongue)
+      )
+     )
+    )
+   )
+  )
+ )
+)

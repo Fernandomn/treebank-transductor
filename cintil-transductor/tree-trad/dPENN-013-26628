@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Warner)
+    )
+    (VP 
+     (VB afirmou)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB providenciaria)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS financiamento)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS parceria)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (RB porém)
+      (VP 
+       (VP 
+        (RB não)
+        (VB revelou)
+       )
+       (NP 
+        (DT as)
+        (NNS condições)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

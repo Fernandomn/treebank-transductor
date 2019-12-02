@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN votos)
+   )
+   (VP 
+    (VBP foram)
+    (VBN preenchidos)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (DT mesma)
+     (NN letra)
+    )
+   )
+  )
+ )
+)

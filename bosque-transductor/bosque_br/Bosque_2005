@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN motoristas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP EMTU)
+      (NP 
+       (NNP Empresa_Metropolitana_de_Transportes_Urbanos)
+      )
+      (NP 
+       (NN empresa)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN governo)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN Estado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (DT o)
+    (DT mesmo)
+    (NN piso)
+    (ADJP 
+     (JJ salarial)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN empresas)
+      (ADJP 
+       (JJ privadas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

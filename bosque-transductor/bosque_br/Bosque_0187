@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ maior)
+    (NN impacto)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Nafta)
+      (PP 
+       (IN a)
+       (NP 
+        (JJ curto)
+        (NN prazo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP será)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT as)
+     (NN franquias)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN setor)
+       (ADJP 
+        (JJ automotivo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

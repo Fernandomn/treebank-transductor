@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Estádio)
+    (NNS de_)
+    (NNS a)
+    (NNS Luz)
+   )
+  )
+  (VP 
+   (VB pode)
+   (VP 
+    (VB ser)
+    (VB interditado)
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN vaca)
+    (ADJP 
+     (JJ pardo-suíço)
+    )
+   )
+   (VP 
+    (VBP conseguiu)
+   )
+   (NP 
+    (DT a)
+    (JJ maior)
+    (NN cotação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Expomilk)
+     )
+    )
+    (NP 
+     (NN R$)
+     (NP 
+      (CD 36)
+      (NN mil)
+     )
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 42.2)
+       (NN mil)
+      )
+     )
+    )
+   )
+  )
+ )
+)

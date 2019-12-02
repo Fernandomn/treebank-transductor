@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cardoso)
+     (NNS e)
+     (NNS Cunha)
+    )
+   )
+   (VP 
+    (VP 
+     (VB despachou)
+     (NP 
+      (NP 
+       (NNS Manuel)
+       (NNS Salgado)
+      )
+     )
+    )
+    (ADVP 
+     (RB em_)
+     (RB um)
+     (RB ápice)
+    )
+   )
+  )
+ )
+)

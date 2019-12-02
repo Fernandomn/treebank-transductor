@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP encontram)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN noite)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN bar)
+     (NP 
+      (NNP Cabral)
+     )
+    )
+   )
+   (VP 
+    (IN embora)
+    (ADVP 
+     (RB não)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP conheçam)
+    )
+   )
+  )
+ )
+)

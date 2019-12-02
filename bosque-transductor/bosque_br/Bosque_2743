@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ bom)
+    (NN uso)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (NN modems)
+       )
+       e
+       (NP 
+        (NN fax/modem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP depende)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (NN programas)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NP 
+         (NN gerenciamento)
+        )
+        e
+        (NP 
+         (NN transmissão)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN dados)
+        )
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP acompanham)
+      )
+      (NP 
+       (DT os)
+       (NN equipamentos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

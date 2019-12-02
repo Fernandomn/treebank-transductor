@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Todavia)
+   )
+   (S 
+    (NP 
+     (DT esta)
+     (NNS versão)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (JJ verosímil)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (PRP alguns)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Há)
+    (NP 
+     (CD dois)
+     (NN meses)
+    )
+   )
+   (IN que)
+   (NP 
+    (DT a)
+    (NN coisa)
+   )
+   (VP 
+    (VBP está)
+   )
+   (ADJP 
+    (JJ pior)
+   )
+  )
+ )
+)

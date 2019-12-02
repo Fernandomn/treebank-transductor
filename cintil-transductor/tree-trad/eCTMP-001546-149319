@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Maria)
+     (NNS João)
+     (NNS Pires)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Cesária)
+      (NNS Évora)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS Grammies)
+     )
+    )
+   )
+  )
+ )
+)

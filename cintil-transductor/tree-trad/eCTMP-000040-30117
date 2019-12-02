@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB há)
+        )
+        (NP 
+         (NNS vida)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS lado)
+          (PP 
+           (IN de)
+           (RB lá)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

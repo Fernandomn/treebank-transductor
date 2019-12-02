@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Liga_de_Assistência_e_Recuperação)
+    (NP 
+     (NN órgão)
+     (VP 
+      (VP 
+       (VBN ligado)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN Prefeitura)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Salvador)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG desenvolvendo)
+   )
+   (NP 
+    (DT um)
+    (NN projeto)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN confecção)
+      (PP 
+       (IN de)
+       (NP 
+        (NN brinquedos)
+        (PP 
+         (IN a_partir_de)
+         (NP 
+          (NN sucatas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

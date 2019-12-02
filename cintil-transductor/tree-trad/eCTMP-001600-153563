@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS amor)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ forte)
+      )
+      de_ o que
+      (NP 
+       (DT a)
+       (NNS morte)
+      )
+     )
+    )
+    (ADVP 
+     (ADVP 
+      (RB mesmo)
+      (ADVP 
+       (RB por)
+       (RB acaso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

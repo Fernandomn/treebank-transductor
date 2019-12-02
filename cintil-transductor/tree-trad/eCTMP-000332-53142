@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Túnel)
+    (NNS de)
+    (NNS Faria)
+    (NNS Guimarães)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB ter)
+    (NP 
+     (NP 
+      (NNS zona)
+      (JJ ajardinada)
+     )
+    )
+   )
+  )
+ )
+)

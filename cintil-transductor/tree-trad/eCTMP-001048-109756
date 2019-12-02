@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (ADVP 
+      (ADVP 
+       (RB por)
+       (RB outro)
+       (RB lado)
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS riqueza)
+       (JJ extraordinária)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB é)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS diversidade)
+          (PP 
+           (PP 
+            (PP 
+             (IN a)
+             (NP 
+              (PRP todos)
+              (NP 
+               (DT os)
+               (NNS níveis)
+              )
+             )
+            )
+            (PP 
+             (CC e)
+             (PP 
+              (IN em)
+              (NP 
+               (PRP todos)
+               (NP 
+                (DT os)
+                (NNS aspectos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Fomos)
+    (VBN convidados)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (DT um)
+      (NN minitreking)
+     )
+     (ADVP 
+      (RB ou_seja)
+     )
+     (VP 
+      (VP 
+       (VB caminhar)
+      )
+      (VP 
+       (VP 
+        (VBG claçando)
+       )
+       (NP 
+        (NN crampones)
+        (NP 
+         (NN sapatos)
+         (PP 
+          (IN com)
+          (NP 
+           (NN pregos)
+           (PP 
+            (IN de)
+            (NP 
+             (NN ferro)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT o)
+         (NN glaciar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Guterres)
+    )
+    (VP 
+     (VB enfrentou)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS contestação)
+       (JJ comunista)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB recentrou)
+      (NP 
+       (DT o)
+       (NNS eleitorado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

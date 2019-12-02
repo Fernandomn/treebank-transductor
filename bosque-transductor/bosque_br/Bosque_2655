@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Incluem)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (NP 
+    (DT um)
+    (DT outro)
+    (NN CD)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP serve)
+     )
+     (ADVP 
+      (ADVP 
+       (RB como)
+      )
+      (NP 
+       (NN guia)
+       (PP 
+        (IN para)
+        (NP 
+         (NN uso)
+         (PP 
+          (IN em)
+          (NP 
+           (NN sala)
+           (PP 
+            (IN de)
+            (NP 
+             (NN aula)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por_)
+    (NP 
+     (DT o)
+     (NP 
+      (JJ mesmo)
+      (NNS diapasão)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afinaram)
+     (NP 
+      (DT os)
+      (NNS russos)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS tom)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS críticas)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS partido)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Jonas)
+               (NNS Savimbi)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

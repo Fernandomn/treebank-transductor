@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS clube)
+   )
+   (VP 
+    (VP 
+     (VB bateu)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS subida)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS divisão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD segundo)
+        (NP 
+         (NNS dia)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS viagem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB encontrámos)
+     (NP 
+      (DT os)
+      (NP 
+       (CD primeiros)
+       (NNS golfinhos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

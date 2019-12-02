@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (RB Ontem)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB foi)
+        )
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (PP nosso)
+         (NNS dia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Miss)
+       (NNS Porto)
+       (NNS Rico)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Aurea)
+       (NNS Marrero)
+       (NNS Nieves)
+      )
+     )
+    )
+   )
+  )
+ )
+)

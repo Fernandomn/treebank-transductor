@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS patriarca)
+     (NP 
+      (NNS Alexei)
+      (NNS II)
+     )
+    )
+   )
+   (VP 
+    (VB celebrou)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS funeral)
+      (PP 
+       (IN para)
+       (NP 
+        (PRP todas)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS vítimas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Revolução)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

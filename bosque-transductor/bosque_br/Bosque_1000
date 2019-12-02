@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ próprio)
+    (VBN agredido)
+   )
+   (VP 
+    (VBP informou)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN polícia)
+    )
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP tratava)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN agressores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Angola)
+    (NP 
+     (DT uma)
+     (NN tragédia)
+     (VBN esquecida)
+    )
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN fotógrafo)
+     (NP 
+      (NNP André_Penner)
+     )
+    )
+    (VP 
+     (VBP expõe)
+    )
+    (NP 
+     (CD 29)
+     (NN fotos)
+     (VBN coloridas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP retratam)
+      )
+      (NP 
+       (DT o)
+       (NN cotidiano)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN guerra)
+         (ADJP 
+          (JJ civil)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Angola)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS Open)
+      (NNS de_)
+      (NNS a)
+      (NNS Ilha)
+      (NNS de_)
+      (NNS a)
+      (NNS Madeira)
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS golfe)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB marcar)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS abertura)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NP 
+            (NNS circuito)
+            (JJ europeu)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS golfe)
+            )
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ próxima)
+             (NNS temporada)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

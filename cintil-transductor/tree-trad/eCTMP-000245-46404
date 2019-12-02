@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Sécheresse)
+     (NNS et)
+     (NNS Pluie)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS obra)
+      (ADJP 
+       (JJ singular)
+       (PP 
+        (CC e)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS beleza)
+           (JJ invulgar)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

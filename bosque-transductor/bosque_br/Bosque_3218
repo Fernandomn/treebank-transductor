@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NNP EUA)
+   )
+   (ADVP 
+    (RB depois)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (JJ histórico)
+      (NN discurso)
+      (PP 
+       (IN de)
+       (NP 
+        (DT seu)
+        (NN presidente)
+        (NP 
+         (NNP Franklin_Delano_Roosevelt)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP entraram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN guerra)
+     (PP 
+      (IN contra)
+      (NP 
+       (NP 
+        (DT o)
+        (NNP Japão)
+       )
+       e
+       (NP 
+        (DT seus)
+        (NN aliados)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN Eixo)
+          (NP 
+           (NP 
+            (NNP Alemanha)
+           )
+           e
+           (NP 
+            (NNP Itália)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

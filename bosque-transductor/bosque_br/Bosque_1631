@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Nós)
+   )
+   (VP 
+    (VBP temos)
+    (IN que)
+   )
+   (VP 
+    (VP 
+     (VB parar)
+     (PP 
+      (IN por)
+      (NP 
+       (CD um)
+       (NN momento)
+      )
+     )
+    )
+    e
+    (VP 
+     (VB perguntar)
+     (PP 
+      (IN a)
+      (NP 
+       (PRP nós)
+       (NP 
+        (DT mesmos)
+       )
+      )
+     )
+     (VP 
+      (PP 
+       (IN De)
+       (NP 
+        (DT quanto)
+        (NN ar)
+        (VBN limpo)
+       )
+      )
+     )
+     (VP 
+      (VBP precisamos)
+     )
+    )
+   )
+  )
+ )
+)

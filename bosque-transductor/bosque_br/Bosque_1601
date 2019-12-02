@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (NP 
+    (DT o)
+    (NN plenário)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP TRE)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Rio)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP determinou)
+   )
+   (NP 
+    (DT a)
+    (NN recontagem)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN votos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (JJ 81ª)
+        (NN seção)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (JJ 77ª)
+          (NN zona)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

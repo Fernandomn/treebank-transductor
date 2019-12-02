@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Meirelles)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT esses)
+     (NN recursos)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP saíram)
+    )
+    (UCP 
+     (PP 
+      (IN de)
+      (NP 
+       (NN negócios)
+       (ADJP 
+        (JJ tradicionais)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN Bolsas)
+        )
+       )
+      )
+     )
+     mas
+     (ADVP 
+      (RB sim)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN operações)
+       (PP 
+        (IN de)
+        (NP 
+         (NN box)
+        )
+       )
+       (NP 
+        (NN financiamentos)
+        (VP 
+         (VP 
+          (VBG tendo)
+         )
+         (ADVP 
+          (RB como)
+          (NP 
+           (NN lastro)
+          )
+          (NP 
+           (NN ações)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

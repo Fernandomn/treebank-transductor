@@ -1,0 +1,207 @@
+(
+ (S 
+  (NP 
+   (NN Parágrafo)
+   (ADJP 
+    (JJ 4º)
+   )
+   (VP 
+    (NP 
+     (DT As)
+     (NN contribuições)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNP Seguridade_Social)
+      )
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tratam)
+       )
+       (NP 
+        (DT os)
+        (NN arts.)
+        (NP 
+         (NP 
+          (CD 20)
+         )
+         (NP 
+          (CD 21)
+         )
+         (NP 
+          (CD 22)
+         )
+         e
+         (NP 
+          (CD 24)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Lei)
+          (NP 
+           (NN nº)
+          )
+          (ADJP 
+           (CD 8.212)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (CD 1991)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VBP serão)
+    (VP 
+     (VP 
+      (VP 
+       (VBN convertidas)
+       (PP 
+        (IN em)
+        (NP 
+         (NN URV)
+        )
+       )
+      )
+      e
+      (VP 
+       (VBN convertidas)
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NNP UFIR)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN nos_termos_de+)
+      (NP 
+       (DT o)
+       (NN art.)
+       (ADJP 
+        (CD 53)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN Lei)
+         (NP 
+          (NN nº)
+          (ADJP 
+           (CD 8.383)
+          )
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (CD 30)
+           (PP 
+            (IN de)
+            (NP 
+             (NN dezembro)
+             (PP 
+              (IN de)
+              (ADJP 
+               (CD 1991)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        ou
+        (PP 
+         (IN em)
+         (NP 
+          (NN cruzeiros_reais)
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN data)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN recolhimento)
+          )
+         )
+        )
+       )
+       (VP 
+        (IN caso)
+        (NP 
+         (DT este)
+        )
+        (VP 
+         (VBP ocorra)
+        )
+        (ADVP 
+         (RB antes)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (JJ primeiro)
+           (NN dia)
+           (ADJP 
+            (JJ útil)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN mês)
+             (ADJP 
+              (JJ subsequente)
+              (PP 
+               (IN a+)
+               (NP 
+                (DT o)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NN competência)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

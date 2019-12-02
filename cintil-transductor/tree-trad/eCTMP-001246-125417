@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (ADVP 
+       (ADVP 
+        (RB Depois)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT isso)
+         )
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (PP 
+         (IN até)
+         (IN a_)
+        )
+        (NP 
+         (DT as)
+         (NP 
+          (CD cinco)
+          (NNS horas)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vejo)
+     (NP 
+      (DT os)
+      (NNS estrangeiros)
+     )
+    )
+   )
+  )
+ )
+)

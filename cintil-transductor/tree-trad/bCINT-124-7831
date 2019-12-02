@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NP 
+      (NNS característica)
+      (JJ fundamental)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS portugueses)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ aparente)
+      (NP 
+       (NNS inconsistência)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS extremos)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VB tocam)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

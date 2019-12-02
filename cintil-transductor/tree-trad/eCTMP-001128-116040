@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Prometeu)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS Teatro)
+       (NNS Trindade)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

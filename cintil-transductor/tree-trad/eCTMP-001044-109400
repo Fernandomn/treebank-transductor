@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS organismos)
+   )
+   (VP 
+    (VP 
+     (VB deverão)
+     (ADVP 
+      (RB também)
+     )
+    )
+    (VP 
+     (VB dar)
+     (NP 
+      (NP 
+       (NNS pareceres)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS operacionalidade)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS forças)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS segurança)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (PRP cada)
+                  (NNS município)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

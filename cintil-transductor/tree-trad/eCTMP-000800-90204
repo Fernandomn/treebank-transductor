@@ -1,0 +1,116 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS conferência)
+     )
+     (VP 
+      (VB inicia)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS ciclo)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (NP 
+           (DT aquela)
+           (NNS fundação)
+          )
+          (VP 
+           (VB vai)
+           (VP 
+            (VP 
+             (VB dedicar)
+            )
+            (PP 
+             (PP 
+              (IN a_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS Ciência)
+               )
+              )
+             )
+             (PP 
+              (CC e)
+              (PP 
+               (IN a_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS mundo)
+                 (JJ contemporâneo)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (DT a)
+       (NP 
+        (CD primeira)
+        (NP 
+         (PP 
+          (IN de)
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS série)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (NP 
+               (NNS Cordani)
+              )
+              (VP 
+               (VB irá)
+               (VP 
+                (VP 
+                 (VB proferir)
+                 (PP 
+                  (IN em_)
+                  (NP 
+                   (DT o)
+                   (NNS país)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

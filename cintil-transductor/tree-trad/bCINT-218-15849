@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS fumo)
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS refeitório)
+     )
+    )
+    (VP 
+     (VP 
+      (RB nunca)
+      (VP 
+       (VB foi)
+       (VB proibido)
+      )
+     )
+    )
+   )
+  )
+ )
+)

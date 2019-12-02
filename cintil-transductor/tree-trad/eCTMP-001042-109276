@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Felizmente)
+     )
+     (VP 
+      (VB estamos)
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB ter)
+         (RB muito)
+        )
+        (NP 
+         (NNS trabalho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

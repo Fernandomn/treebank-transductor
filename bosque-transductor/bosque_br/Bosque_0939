@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Nigéria)
+   )
+   (VP 
+    (VBP conquistou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT o)
+    (NN título)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ 19ª)
+      (NNP Copa_Africana_de_Nações)
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB derrotar)
+     )
+     (NP 
+      (NNP Zâmbia)
+     )
+     (ADVP 
+      (PP 
+       (IN por)
+       (NP 
+        (CD 2)
+       )
+      )
+      (PP 
+       (IN a)
+       (ADJP 
+        (CD 1)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Túnis)
+       (NP 
+        (NNP Tunísia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

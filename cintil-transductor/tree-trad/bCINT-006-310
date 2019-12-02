@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS vigilância)
+      (JJ permanente)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Rex)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB faz)
+    (NP 
+     (DT o)
+     (NNS resto)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NN Ensino)
+     (ADJP 
+      (JJ universitário)
+     )
+    )
+    (NP 
+     (NN contas)
+     (PP 
+      (IN de)
+      (NP 
+       (NN poupança)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN bancos)
+      )
+     )
+    )
+    (NP 
+     (NN investimentos)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NN ações)
+       )
+       e
+       (NP 
+        (NN imóveis)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP asseguram)
+   )
+   (NP 
+    (DT a)
+    (NN transmissão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN patrimônio)
+      (ADJP 
+       (JJ familiar)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN pais)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NN filhos)
+     )
+    )
+   )
+  )
+ )
+)

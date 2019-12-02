@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Sarajevo)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB vivem)
+    )
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (NP 
+       (CD 350)
+       (CD mil)
+      )
+     )
+     (NNS pessoas)
+    )
+   )
+  )
+ )
+)

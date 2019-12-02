@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (IN De+)
+    (RB aí)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT alguns)
+     (NN anos)
+    )
+   )
+   (NP 
+    (DT os)
+    (NNP Gershwins)
+   )
+   (VP 
+    (VBP foram)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NNP Hollywood)
+    )
+   )
+   (PP 
+    (IN a_fim_de)
+    (VP 
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (DT o)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB intimamente)
+       )
+       (VP 
+        (VBP desprezavam)
+       )
+      )
+      (VP 
+       (VP 
+        (VB escrever)
+       )
+       (NP 
+        (NN canções)
+        (PP 
+         (IN para)
+         (NP 
+          (NN filmes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

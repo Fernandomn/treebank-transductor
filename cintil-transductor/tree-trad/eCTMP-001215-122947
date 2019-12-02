@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS La)
+     (NNS Féria)
+    )
+   )
+   (VP 
+    (VB foge)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS pergunta)
+     )
+    )
+   )
+  )
+ )
+)

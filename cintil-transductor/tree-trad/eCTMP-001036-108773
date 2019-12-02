@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cinema)
+     (JJ alemão)
+    )
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS Gil)
+        (NNS Vicente)
+       )
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Coimbra)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

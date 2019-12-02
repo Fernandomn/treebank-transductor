@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todas)
+    (NP 
+     (DT estas)
+     (NNS garantias)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (RB ontem)
+    )
+    (VP 
+     (VP 
+      (VB dadas)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT os)
+        (NNS trabalhadores)
+       )
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS secretário)
+         (NNS de)
+         (NNS Estado)
+         (NNS adjunto)
+         (NNS de_)
+         (NNS a)
+         (NNS Economia)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Vítor)
+         (NNS Ramalho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

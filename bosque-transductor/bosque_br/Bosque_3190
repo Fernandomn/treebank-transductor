@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP quiser)
+    )
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB aventurar)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN importação)
+       (ADJP 
+        (JJ direta)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP existem)
+   )
+   (NP 
+    (NN empresas)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT a)
+     (NNP Brasoftware)
+     (NP 
+      (NN tel.)
+      (ADJP 
+       (CD 011/253-1588)
+      )
+     )
+    )
+   )
+   (NP 
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP importam)
+     )
+     (NP 
+      (NN programas)
+      (PP 
+       (IN sob)
+       (NP 
+        (NN encomenda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

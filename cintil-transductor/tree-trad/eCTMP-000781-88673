@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Com)
+      (NP 
+       (DT a)
+       (NNS Inglaterra)
+      )
+     )
+     (VB diminuíram)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNS resto)
+       )
+      )
+      (VP 
+       (VB são)
+       (NP 
+        (NP 
+         (RB quase)
+         (CD zero)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

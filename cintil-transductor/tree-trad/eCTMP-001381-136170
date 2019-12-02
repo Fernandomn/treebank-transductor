@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS casa)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS espaço)
+       (JJ bonito)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB muito)
+    )
+    (VP 
+     (VB frequentada)
+     (PP 
+      (IN por)
+      (NP 
+       (PRP muitas)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS vedetas)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (PP nosso)
+              (NP 
+               (NNS mundinho)
+               (JJ artístico)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

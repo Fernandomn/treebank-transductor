@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (IN Em_)
+       (NP 
+        (DT a)
+        (NNS praça)
+       )
+      )
+     )
+     (VP 
+      (VB comprava)
+      (NP 
+       (PRP tudo)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB era)
+            (JJ bom)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

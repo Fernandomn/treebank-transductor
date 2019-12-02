@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Localização)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ futura)
+       (NP 
+        (NNS zona)
+        (JJ industrial)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB acende)
+   (NP 
+    (NNS polémica)
+   )
+  )
+ )
+)

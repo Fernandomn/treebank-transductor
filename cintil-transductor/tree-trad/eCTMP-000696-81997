@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS socialistas)
+   )
+   (VP 
+    (VB querem)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Tribunal)
+        (NNS de)
+        (NNS Contas)
+       )
+      )
+      (VP 
+       (VB proceda)
+       (PP 
+        (IN a)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS auditoria)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS dinheiros)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NP 
+                (CD segundo)
+                (NP 
+                 (NNS Quadro)
+                 (NNS Comunitário)
+                 (NNS de)
+                 (NNS Apoio)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

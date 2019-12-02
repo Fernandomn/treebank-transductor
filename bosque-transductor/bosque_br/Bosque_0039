@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (ADJP 
+     (RB Apenas)
+     (CD dois)
+    )
+    (NN árbitros)
+   )
+   (VP 
+    (VBP resolveram)
+   )
+   (VP 
+    (VP 
+     (VB contar)
+    )
+    (NP 
+     (DT todos)
+     (DT os)
+     (NN podres)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB enquanto)
+    )
+    (NP 
+     (DT a)
+     (NN federação)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (RB mais_de)
+     (CD 70)
+    )
+   )
+  )
+ )
+)

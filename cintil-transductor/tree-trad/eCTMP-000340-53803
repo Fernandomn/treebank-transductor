@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (CD Treze)
+   (NNS famílias)
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB entaladas)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Calçada)
+       (NNS de_)
+       (NNS o)
+       (NNS Livramento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

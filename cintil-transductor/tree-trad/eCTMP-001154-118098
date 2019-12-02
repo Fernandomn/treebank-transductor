@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Número)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS indecisos)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB ainda)
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB muito)
+     (JJ elevado)
+    )
+   )
+  )
+ )
+)

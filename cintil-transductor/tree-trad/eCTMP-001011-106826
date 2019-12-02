@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (CD Treze)
+   (NNS habitantes)
+  )
+  (VP 
+   (VP 
+    (VB acusados)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT o)
+      (NNS MP)
+     )
+    )
+   )
+  )
+ )
+)

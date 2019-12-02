@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NP 
+       (NNS Angelino)
+       (NNS Ferreira)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS vantagens)
+    )
+    (VP 
+     (VB são)
+     (JJ mútuas)
+    )
+   )
+  )
+ )
+)

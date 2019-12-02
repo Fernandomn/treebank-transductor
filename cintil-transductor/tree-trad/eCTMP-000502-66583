@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Inquérito)
+    (ADJP 
+     (VB conduzido)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Alexandre)
+         (NNS Frade)
+         (NNS Baptista)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Manuel)
+          (NNS Abreu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

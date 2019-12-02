@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esta)
+    (NN vertente)
+    (ADJP 
+     (RB francamente)
+     (JJ conteudista)
+    )
+   )
+   (VP 
+    (VBP derivava)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT as)
+     (NN experiências)
+     (VP 
+      (VP 
+       (VBN realizadas)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN período)
+        (ADJP 
+         (NP pré-64)
+        )
+       )
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT os)
+        (NNP Centros_Populares_de_Cultura)
+        (NP 
+         (NNP CPCs)
+        )
+        (VP 
+         (VP 
+          (VBN ligados)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT a)
+           (NNP União_Nacional_dos_Estudantes)
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (VP 
+             (VP 
+              (VP 
+               (VBP privilegiavam)
+              )
+              (NP 
+               (DT a)
+               (NN mensagem)
+              )
+             )
+             e
+             (VP 
+              (VP 
+               (VBP procuravam)
+              )
+              (VP 
+               (VP 
+                (VB falar)
+               )
+               (NP 
+                (DT uma)
+                (VBN idealizada)
+                (NN linguagem)
+                (PP 
+                 (IN de+)
+                 (NP 
+                  (DT o)
+                  (NN povo)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

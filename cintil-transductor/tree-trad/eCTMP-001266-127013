@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB posso)
+     )
+     (ADVP 
+      (RB portanto)
+     )
+    )
+    (VP 
+     (VP 
+      (VB pronunciar)
+      (NP 
+       (PRP -me)
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (PRP ele)
+      )
+     )
+    )
+   )
+  )
+ )
+)

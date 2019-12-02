@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (VP 
+     (VBP experimenta)
+    )
+    (NP 
+     (DT a)
+     (JJ última)
+     (NN versão)
+     (NP 
+      (NN safra)
+      (ADJP 
+       (CD 91)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP descobrirá)
+   )
+   (NP 
+    (DT um)
+    (NN vinho)
+    (ADJP 
+     (JJ novo)
+     (RB ainda)
+    )
+    (UCP 
+     (ADJP 
+      (JJ adstringente)
+     )
+     mas
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NP 
+         (NN aroma)
+        )
+        e
+        (NP 
+         (NN sabor)
+        )
+       )
+       (ADJP 
+        (JJ intensos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

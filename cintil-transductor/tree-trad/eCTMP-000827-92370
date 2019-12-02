@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NNS telefones)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS processo)
+    )
+    (VP 
+     (VB seria)
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (RB muito)
+        (RB mais)
+       )
+       (JJ complicado)
+      )
+      (ADJP 
+       (CC ou)
+       (ADJP 
+        (RB mesmo)
+        (JJ impraticável)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

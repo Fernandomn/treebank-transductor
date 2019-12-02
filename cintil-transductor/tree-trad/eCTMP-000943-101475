@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Que)
+     (S 
+      (VP 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB calaram)
+       )
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS maré)
+          (JJ negra)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB dizes)
+    )
+   )
+  )
+ )
+)

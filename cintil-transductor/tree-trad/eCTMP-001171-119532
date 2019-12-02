@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aliás)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS criação)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS conselho)
+          (JJ local)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS solidariedade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (NNS apoio)
+         (PP 
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (CD terceira)
+             (NNS idade)
+            )
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT a)
+             (NNS infância)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT outra)
+       (NP 
+        (NNS prioridade)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ novo)
+           (NP 
+            (NNS executivo)
+            (JJ rosa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

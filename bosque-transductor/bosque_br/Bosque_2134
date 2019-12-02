@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Até)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN tarde)
+       (PP 
+        (IN de)
+        (RB ontem)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT nenhum)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN partidos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Nova_Força)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP havia)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBN manifestado)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT o)
+     (NN assunto)
+    )
+   )
+  )
+ )
+)

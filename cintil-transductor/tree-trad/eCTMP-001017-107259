@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Moção)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS censura)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Turquia)
+    )
+   )
+  )
+ )
+)

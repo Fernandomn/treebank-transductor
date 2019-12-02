@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NNS situação)
+   )
+   (VP 
+    (VP 
+     (VB agravada)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS chuvas)
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VB criaram)
+             (NP 
+              (PRP várias)
+              (NNS poças)
+             )
+            )
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NNS local)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

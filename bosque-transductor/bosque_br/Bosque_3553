@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT esse)
+     (NN modo)
+    )
+   )
+   (NP 
+    (RB apenas)
+    (NN parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN fundo)
+      (PP 
+       (IN de)
+       (NP 
+        (NN viagem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP seria)
+    (VBN empregada)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN compra)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN traveler_cheques)
+       )
+       ou
+       (NP 
+        (NN cédulas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

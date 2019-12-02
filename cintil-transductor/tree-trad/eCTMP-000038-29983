@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS homem)
+  )
+  (VP 
+   (VB está)
+   (PP 
+    (IN a)
+    (VP 
+     (VB aquecer)
+     (NP 
+      (DT o)
+      (NNS globo)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN leilão)
+   )
+   (VP 
+    (VBP será)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN casa)
+     (NP 
+      (NNP Renato_Magalhães_Gouvêa_Escritório_de_Arte)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NNP Jardins)
+     (NP 
+      (NN zona)
+      (ADJP 
+       (JJ oeste)
+      )
+     )
+    )
+   )
+  )
+ )
+)

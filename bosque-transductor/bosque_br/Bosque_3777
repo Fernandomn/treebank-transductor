@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP PF)
+    (NP 
+     (NNP Polícia_Federal)
+    )
+   )
+   (VP 
+    (VBP indiciou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (CD duas)
+    (NN pessoas)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB vender)
+     )
+     (NP 
+      (NN carro)
+      (PP 
+       (IN com)
+       (NP 
+        (NN ágio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

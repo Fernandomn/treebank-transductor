@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (CD primeiro)
+       (NNS dia)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS maestro)
+      (NP 
+       (NNS Gintaras)
+       (NNS Rinkevicious)
+      )
+     )
+    )
+    (VP 
+     (VB dirige)
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Orquestra)
+        (NNS Sinfónica)
+        (NNS de_)
+        (NNS o)
+        (NNS Estado)
+        (NNS de_)
+        (NNS a)
+        (NNS Lituânia)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS pianista)
+         (NP 
+          (NNS Edson)
+          (NNS Elias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

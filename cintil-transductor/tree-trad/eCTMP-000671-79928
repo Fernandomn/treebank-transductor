@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Igrejas)
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS investimentos)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS armamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

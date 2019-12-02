@@ -1,0 +1,45 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (JJ verdadeira)
+    (NP 
+     (NNS história)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS tarde)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS campanha)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS baixa)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Lisboa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

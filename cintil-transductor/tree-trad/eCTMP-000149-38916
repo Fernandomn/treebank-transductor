@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB gosta)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS projecto)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NNS CGT)
+    )
+   )
+  )
+ )
+)

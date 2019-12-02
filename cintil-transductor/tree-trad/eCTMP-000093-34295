@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PÚBLICO)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB conseguiu)
+    )
+    (VP 
+     (ADVP 
+      (RB ontem)
+     )
+     (VP 
+      (VB contactar)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS presidente)
+        (NNS de_)
+        (NNS a)
+        (NNS Câmara)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

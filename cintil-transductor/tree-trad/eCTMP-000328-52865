@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Centros)
+    (NNS de)
+    (NNS Educação)
+    (NNS Especial)
+   )
+  )
+  (VP 
+   (VP 
+    (VP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS reestruturação)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Norte)
+    )
+   )
+  )
+ )
+)

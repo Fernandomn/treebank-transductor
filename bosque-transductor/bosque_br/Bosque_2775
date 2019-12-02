@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Até)
+    (NP 
+     (DT as)
+     (NN 20h)
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP havia)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBN pronunciado)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT a)
+     (NN extensão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN medida)
+      )
+     )
+     (PP 
+      (RB também)
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN trabalhos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN revisão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS homens)
+   )
+   (VP 
+    (VP 
+     (VB gloriam)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP própria)
+       (NNS cegueira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

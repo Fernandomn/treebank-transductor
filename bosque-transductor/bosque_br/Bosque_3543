@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ministro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Aeronáutica)
+      (NP 
+       (NNP Lélio_Viana_Lôbo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP aproveitou)
+   )
+   (NP 
+    (DT a)
+    (NN comemoração)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Dia_do_Soldado)
+     )
+    )
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB queixar-)
+     )
+     (NP 
+      (PRP se)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN dificuldades)
+       (ADJP 
+        (JJ salariais)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN militares)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

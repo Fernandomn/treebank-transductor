@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS mercado)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ainda)
+    )
+    (VP 
+     (VB estimulado)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS prestação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (JJ restantes)
+           (NNS Bolsas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

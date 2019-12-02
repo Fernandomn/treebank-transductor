@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS génio)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Shakespeare)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB nunca)
+    (VP 
+     (VB foi)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS assunto)
+       (JJ consensual)
+      )
+     )
+    )
+   )
+  )
+ )
+)

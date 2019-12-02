@@ -1,0 +1,99 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Mia)
+     (NNS Farrow)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB disse)
+      (RB ontem)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS tribunal)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Nova)
+           (NNS Iorque)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS ex-companheiro)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Woody)
+         (NNS Allen)
+        )
+       )
+      )
+      (VP 
+       (VB teve)
+       (NP 
+        (DT uma)
+        (NP 
+         (NP 
+          (NP 
+           (NNS relação)
+           (ADJP 
+            (RB pouco)
+            (JJ própria)
+           )
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (DT a)
+            (NP 
+             (NP 
+              (NNS filha)
+              (JJ adoptiva)
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS casal)
+              )
+             )
+            )
+           )
+           (NP 
+            (NNS Dylan)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,105 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Corecon)
+       (NP 
+        (NNP Hélio_Portocarrero)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN inflação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN real)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP será)
+    (VBN puxada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT os)
+     (NN oligopólios)
+     (VP 
+      (VP 
+       (VBN apontados)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT a)
+        (NN equipe)
+        (ADJP 
+         (JJ econômica)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN governo)
+         )
+        )
+       )
+      )
+      (ADVP 
+       (RB como)
+       (NP 
+        (DT os)
+        (JJ principais)
+        (NN vilões)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN subida)
+        (PP 
+         (IN de)
+         (NP 
+          (NN preços)
+         )
+        )
+        (PP 
+         (IN após)
+         (NP 
+          (DT a)
+          (NN implantação)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN URV)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Danielle)
+      (NNS Mitterrand)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS amigos)
+       (ADJP 
+        (RB mais)
+        (JJ chegados)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB viajaram)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ outro)
+       (NNS avião)
+      )
+     )
+    )
+   )
+  )
+ )
+)

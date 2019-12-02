@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT a)
+     (NN lei)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN partidos)
+   )
+   (VP 
+    (VBP recebem)
+   )
+   (NP 
+    (NN recursos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+    )
+   )
+   (ADVP 
+    (RB de_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN resultados)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (JJ última)
+        (NN eleição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS educação)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS área)
+       (JJ delicada)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (ADVP 
+          (ADVP 
+           (RB cada)
+           (RB vez)
+           (RB mais)
+          )
+         )
+         (VP 
+          (VB constitui)
+          (NP 
+           (DT o)
+           (NP 
+            (JJ grande)
+            (NP 
+             (NNS centro)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS atenções)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (PRP toda)
+                  (NP 
+                   (DT a)
+                   (NNS sociedade)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

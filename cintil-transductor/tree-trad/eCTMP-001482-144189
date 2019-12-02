@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Após)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS refluxo)
+        (JJ demográfico)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS século)
+          (NNS XIV)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS cidades)
+    )
+    (VP 
+     (VB voltam)
+     (PP 
+      (IN a)
+      (VP 
+       (VB povoar)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

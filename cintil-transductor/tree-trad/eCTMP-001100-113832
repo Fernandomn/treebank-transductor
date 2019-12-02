@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Governo)
+    )
+    (VP 
+     (VB encerra)
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS linhas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS transporte)
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NNS escolas)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS unidades)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS saúde)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB criando)
+      (NP 
+       (NP 
+        (NP 
+         (NNS condições)
+         (ADJP 
+          (RB mais)
+          (JJ difíceis)
+         )
+        )
+        (CONJP 
+         (PP 
+          (IN para)
+          (NP 
+           (PRP quem)
+          )
+         )
+         (S 
+          (VP 
+           (VB ficou)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

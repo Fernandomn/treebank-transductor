@@ -1,0 +1,99 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN jornal)
+    (ADJP 
+     (JJ kuaitiano)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN governo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN país)
+      )
+     )
+    )
+    (VP 
+     (VBP fechou)
+    )
+    (NP 
+     (DT um)
+     (NN salão)
+     (PP 
+      (IN de)
+      (NP 
+       (NN beleza)
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (CD uma)
+      (NN semana)
+     )
+    )
+    (PP 
+     (IN por)
+     (VP 
+      (VP 
+       (VB infringir)
+      )
+      (NP 
+       (DT a)
+       (NN lei)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP proíbe)
+        )
+        (NP 
+         (NN mulheres)
+        )
+        (PP 
+         (IN de)
+         (VP 
+          (VP 
+           (VB trabalhar)
+          )
+          (UCP 
+           (PP 
+            (IN em)
+            (NP 
+             (NN salões)
+             (PP 
+              (IN para)
+              (NP 
+               (NN homens)
+              )
+             )
+            )
+           )
+           e
+           (ADVP 
+            (RB vice-versa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

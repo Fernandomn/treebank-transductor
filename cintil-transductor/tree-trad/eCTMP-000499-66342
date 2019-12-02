@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (RB Ontem)
+   (S 
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS reaparecimento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Gil)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS mistério)
+     )
+     (VP 
+      (VB desfez)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+   )
+  )
+ )
+)

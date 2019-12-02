@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Muitas_vezes)
+   )
+   (NP 
+    (DT as)
+    (NN mudanças)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN vida)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (VBN recém-aposentado)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP levam)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT uma)
+     (NN sensação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN perda)
+       (PP 
+        (IN de)
+        (NP 
+         (NN capacidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

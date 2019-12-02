@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ principal)
+     (NP 
+      (NNS negócio)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS moagens)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS venda)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS farinha)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS trigo)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NNS panificação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mulher)
+   )
+   (VP 
+    (VP 
+     (VB morrera)
+     (CONJP 
+      (S 
+       (VP 
+        (VB há)
+        (NP 
+         (PRP pouco)
+         (NNS tempo)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS doença)
+       (ADJP 
+        (JJ incurável)
+        (ADJP 
+         (CC e)
+         (VB prolongada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

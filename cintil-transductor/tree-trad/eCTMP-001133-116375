@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CC Quando)
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB está)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS estrada)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS digressão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB é)
+     (NP 
+      (NNS Natal)
+     )
+    )
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NNS dias)
+     )
+    )
+   )
+  )
+ )
+)

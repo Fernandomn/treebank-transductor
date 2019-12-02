@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Inventei)
+      (RB aqui)
+     )
+     (NP 
+      (DT uma)
+      (NNS família)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB inventei)
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (DT os)
+           (NNS filhos)
+          )
+         )
+         (NP 
+          (DT os)
+          (NNS sobrinhos)
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (RB não)
+            (VB tive)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (VB sinto)
+         (NP 
+          (PRP -me)
+         )
+        )
+        (RB bem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

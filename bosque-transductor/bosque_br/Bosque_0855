@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Seu)
+    (NNP Sauber)
+   )
+   (VP 
+    (VBP pode)
+    (VB acabar)
+    (VBG trocando)
+   )
+   (NP 
+    (DT o)
+    (NN certo)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN incerto)
+    )
+   )
+   (PP 
+    (IN a+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB esperar)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNP Karl_Wendlinger)
+      )
+     )
+    )
+   )
+  )
+ )
+)

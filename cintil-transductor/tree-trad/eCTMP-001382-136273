@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NP 
+     (NP 
+      (NNS estado)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS arte)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS hora)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS sismo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Porém)
+   )
+   (S 
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS proposta)
+      (ADJP 
+       (ADJP 
+        (VB apresentada)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Câmara)
+           (NNS de_)
+           (NNS o)
+           (NNS Barreiro)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT esse)
+         (NNS sentido)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (VB recusada)
+    )
+   )
+  )
+ )
+)

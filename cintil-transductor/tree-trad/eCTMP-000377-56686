@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS vítimas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB atingida)
+     (PP 
+      (IN por)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS árvore)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS queda)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

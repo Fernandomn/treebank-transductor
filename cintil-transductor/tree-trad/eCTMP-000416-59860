@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS delegações)
+      (JJ metropolitanas)
+     )
+     (JJ portuguesas)
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB recebidas)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS comissário)
+        (NP 
+         (NNS Bruce)
+         (NNS Millan)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

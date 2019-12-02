@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Guida)
+   )
+   (VP 
+    (RB até)
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB engasgou)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS torrada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD 160)
+    (NN expositores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN mostra)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN indústria)
+        (PP 
+         (IN de)
+         (NP 
+          (NN cosméticos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estimam)
+   )
+   (NP 
+    (NN vendas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (CD 150)
+      (NN milhões)
+     )
+    )
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN segunda-feira)
+    )
+   )
+  )
+ )
+)

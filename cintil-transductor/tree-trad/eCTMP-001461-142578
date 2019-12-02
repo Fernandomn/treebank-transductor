@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS clarificação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (JJ futuros)
+        (NP 
+         (NP 
+          (NNS accionistas)
+          (JJ estrangeiros)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS instituição)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VB ajudou)
+   )
+  )
+ )
+)

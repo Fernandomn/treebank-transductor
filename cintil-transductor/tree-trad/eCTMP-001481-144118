@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Caldeira)
+    (ADJP 
+     (VB julgado)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS fim)
+        (PP 
+         (IN de)
+         (NP 
+          (CD quatro)
+          (NNS anos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

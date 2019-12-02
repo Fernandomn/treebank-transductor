@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Éramos)
+      (ADJP 
+       (RB muito)
+       (JJ semelhantes)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (PRP muitas)
+       (NNS coisas)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB sentíamos)
+        (NP 
+         (DT a)
+         (NNS beleza)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ mesma)
+          (NNS maneira)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB tínhamos)
+        (NP 
+         (PRP ambos)
+        )
+       )
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS sentido)
+          (JJ ético)
+         )
+         (ADJP 
+          (RB muito)
+          (JJ firme)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

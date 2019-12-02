@@ -1,0 +1,53 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (PRP Quem)
+   )
+   (S 
+    (VP 
+     (RB nunca)
+     (VP 
+      (VP 
+       (VB folheou)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS olhos)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS bico)
+           )
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (JJ célebre)
+        (NP 
+         (NNS livrinho)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS In)
+            (NNS Search)
+            (NNS of)
+            (NNS Space)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,94 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De_)
+    (NP 
+     (DT o)
+     (NP 
+      (JJ outro)
+      (NP 
+       (NNS lado)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS rede)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB deverão)
+      (VP 
+       (VB estar)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Korda)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS Vacek)
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC embora)
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS capitão)
+         )
+         (JJ checo)
+        )
+       )
+       (VP 
+        (VB tenha)
+        (VP 
+         (VB indicado)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS nomes)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NP 
+               (NNS Jiri)
+               (NNS Novak)
+              )
+             )
+             (NP 
+              (CC e)
+              (NP 
+               (NP 
+                (NNS Bohdan)
+                (NNS Ulihrach)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

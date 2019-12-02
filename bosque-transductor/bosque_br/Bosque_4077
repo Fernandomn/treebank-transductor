@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN candidatos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Bahia)
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+    (VBG encontrando)
+   )
+   (NP 
+    (DT certa)
+    (NN dificuldade)
+    (PP 
+     (IN em)
+     (VP 
+      (VP 
+       (VB contratar)
+      )
+      (NP 
+       (NN cantores)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB animar)
+        )
+        (NP 
+         (DT suas)
+         (NN campanhas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS petróleo)
+   )
+   (VP 
+    (VB recuou)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS preço)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Abril)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

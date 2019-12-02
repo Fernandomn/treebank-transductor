@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Em)
+     (RB resumo)
+    )
+   )
+   (S 
+    (NP 
+     (PRP ela)
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (DT a)
+      (NNS vizir-que-queria-ser-grão-vizir)
+     )
+    )
+   )
+  )
+ )
+)

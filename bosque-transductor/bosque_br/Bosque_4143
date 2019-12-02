@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN relações_públicas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN corporação)
+     )
+    )
+    (NP 
+     (NN tenente-coronel)
+     (NP 
+      (NNP Fernando_Belo)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN encontro)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (DT uma)
+     (NN oportunidade)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VP 
+         (VB agradecer)
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VB elogiar)
+        )
+        (NP 
+         (DT a)
+         (NN colaboração)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP PM)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

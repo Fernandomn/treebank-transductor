@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN banco)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP informou)
+   )
+   (VP 
+    (ADVP 
+     (RB porque)
+    )
+    (NP 
+     (DT o)
+     (NN sigilo)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP foi)
+     (VBN mantido)
+    )
+    (PP 
+     (RB também)
+     (IN para)
+     (NP 
+      (DT os)
+      (NN grupos)
+      (ADJP 
+       (JJ estrangeiros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

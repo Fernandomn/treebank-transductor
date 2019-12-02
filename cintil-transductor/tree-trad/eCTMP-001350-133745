@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Lisboa)
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (NP 
+     (NP 
+      (NNS ponte)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NNS PALOP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

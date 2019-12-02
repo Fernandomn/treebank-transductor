@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS militares)
+    )
+    (VP 
+     (VB acataram)
+     (NP 
+      (DT a)
+      (NNS argumentação)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT isso)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB significou)
+      )
+      (NP 
+       (NP 
+        (NNS concordância)
+        (JJ absoluta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

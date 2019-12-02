@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (RB Também)
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS receios)
+      (PP 
+       (PP 
+        (IN quanto)
+        (IN a)
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (JJ possível)
+         (NP 
+          (NNS subida)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS taxas)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS juro)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB estão)
+     (PP 
+      (IN a)
+      (VP 
+       (VB condicionar)
+       (NP 
+        (DT o)
+        (NNS mercado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

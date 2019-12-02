@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Desde)
+     (RB cedo)
+    )
+    (VP 
+     (VBP fui)
+    )
+    (NP 
+     (NN orador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN turma)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB sempre)
+    )
+    (VP 
+     (VBP gostei)
+    )
+    (PP 
+     (IN de)
+     (VB declamar)
+    )
+   )
+  )
+ )
+)

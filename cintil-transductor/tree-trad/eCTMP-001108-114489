@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS ruas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS bairro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB foram)
+     )
+     (VB postas)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS inquérito)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (S 
+          (S 
+           (NP 
+            (DT a)
+            (NNS Câmara)
+           )
+           (VP 
+            (VP 
+             (VB fez)
+             (CONJP 
+              (S 
+               (VP 
+                (VB há)
+                (NP 
+                 (CD dois)
+                 (NNS anos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+         (S 
+          (S 
+           (VP 
+            (VP 
+             (VB declara)
+             (RB ainda)
+            )
+           )
+           (NP 
+            (DT o)
+            (NP 
+             (NNS porta-voz)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS comissão)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Estado)
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB comparticipar)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

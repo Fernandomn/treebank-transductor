@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aliás)
+   )
+   (S 
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS animais)
+       (NP 
+        (CC e)
+        (NP 
+         (NNS plantas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS deserto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB desenvolveram)
+     (NP 
+      (NP 
+       (NNS características)
+       (JJ especiais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS transporte)
+     (JJ marítimo)
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (ADJP 
+      (ADVP 
+       (RB muito)
+       (RB mais)
+      )
+      (JJ económico)
+     )
+     de_ o que
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (JJ outro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

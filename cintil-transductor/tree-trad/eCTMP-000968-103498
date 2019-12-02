@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS trabalhos)
+   )
+   (VP 
+    (VB encerram)
+    (ADVP 
+     (ADVP 
+      (RB hoje)
+     )
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS final)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS manhã)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS eleições)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ nova)
+             (NNS direcção)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB andou)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS lado)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Maria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

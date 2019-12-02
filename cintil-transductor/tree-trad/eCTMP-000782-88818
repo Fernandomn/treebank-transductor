@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS cabelo)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (VB está)
+      (JJ ruivo)
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (S 
+        (VP 
+         (VB acabou)
+         (PP 
+          (IN de)
+          (VB rodar)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Harley)
+          (NNS Davidson)
+          (NNS and)
+          (NNS the)
+          (NNS Malboro)
+          (NNS Man)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN a_)
+          (IN o)
+          (IN lado)
+          (IN de)
+         )
+         (NP 
+          (NP 
+           (NNS Don)
+           (NNS Johnson)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

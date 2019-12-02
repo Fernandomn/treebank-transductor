@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS Porto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS coisas)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB estão)
+     )
+     (JJ melhores)
+    )
+   )
+  )
+ )
+)

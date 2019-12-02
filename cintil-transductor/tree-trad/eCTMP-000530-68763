@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Sé)
+    (NNS Velha)
+   )
+  )
+  (VP 
+   (VB mergulha)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Idade)
+      (NNS Média)
+     )
+    )
+   )
+  )
+ )
+)

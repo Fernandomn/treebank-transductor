@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN de_)
+    (RB aí)
+   )
+   (S 
+    (RB também)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS subtítulo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS documento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

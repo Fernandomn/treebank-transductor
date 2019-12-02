@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS passo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS regresso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

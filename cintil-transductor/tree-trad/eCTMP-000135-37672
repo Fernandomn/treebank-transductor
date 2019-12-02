@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ferro)
+    (NNS Rodrigues)
+   )
+  )
+  (VP 
+   (VB fala)
+   (PP 
+    (IN de_)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS problemas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS mercado)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS trabalho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

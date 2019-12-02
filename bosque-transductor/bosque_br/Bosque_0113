@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Elas)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (VP 
+    (VP 
+     (VBN separadas)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN espaços)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (CD 80)
+         (NN km)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (CD 100)
+         (NN km)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Meu)
+     (NN avô)
+     (ADJP 
+      (JJ materno)
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (NN prefeito)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Limeira)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT meu)
+     (NN pai)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (CD duas)
+     (NN vezes)
+    )
+    (NP 
+     (NN prefeito)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Itapira)
+      )
+      (VP 
+       (ADVP 
+        (RB onde)
+       )
+       (VP 
+        (VBP passei)
+       )
+       (NP 
+        (DT toda)
+        (DT minha)
+        (NN infância)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

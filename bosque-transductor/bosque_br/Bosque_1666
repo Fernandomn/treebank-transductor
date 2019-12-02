@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN diretor)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Assuntos_Internacionais)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Banco_Central)
+     )
+    )
+    (NP 
+     (NNP Gustavo_Franco)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP BC)
+    )
+    (VP 
+     (VBP vai)
+     (VB comprar)
+    )
+    (NP 
+     (NN dólares)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT uma)
+      (NN cotação)
+      (ADVP 
+       (RB bem)
+       (RB abaixo)
+       (PP 
+        (IN de)
+        (NP 
+         (NN R$)
+         (ADJP 
+          (CD 1.00)
+         )
+         (NP 
+          (NN preço)
+          (PP 
+           (IN por+)
+           (VP 
+            (PRP o_qual)
+            (VP 
+             (VBP vende)
+            )
+            (NP 
+             (DT a)
+             (NN moeda)
+             (ADJP 
+              (JJ norte-americana)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

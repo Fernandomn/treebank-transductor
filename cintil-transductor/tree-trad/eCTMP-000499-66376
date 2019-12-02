@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (PP 
+      (PP 
+       (PP 
+        (IN Face)
+        (IN a_)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS pedido)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB vai)
+            (VP 
+             (VB formular)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (NP 
+       (DT o)
+       (NNS autarca)
+      )
+      (VP 
+       (VB pode)
+       (VP 
+        (VB regressar)
+        (ADVP 
+         (RB dentro)
+         (PP 
+          (IN de)
+          (NP 
+           (CD seis)
+           (NNS meses)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS vontade)
+      )
+     )
+     (VP 
+      (VB é)
+      (PRP pouca)
+     )
+    )
+   )
+  )
+ )
+)

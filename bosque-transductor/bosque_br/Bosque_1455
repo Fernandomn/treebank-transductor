@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN redes)
+    (PP 
+     (IN de)
+     (NP 
+      (NN revendedores)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (CD duas)
+        (NN marcas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP festejam)
+   )
+   (NP 
+    (DT a)
+    (NN dissolução)
+   )
+  )
+ )
+)

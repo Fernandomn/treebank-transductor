@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP William_Rhodes)
+    (NP 
+     (NP vice-presidente)
+     (ADJP 
+      (JJ mundial)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Citibank)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP veio)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN reunião)
+     (PP 
+      (IN com)
+      (NP 
+       (NN executivos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN banco)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de+)
+    (NP 
+     (DT a)
+     (NN entrada)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN frente)
+       (ADJP 
+        (JJ fria)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN Estado)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT poucas)
+   )
+   (NP 
+    (DT as)
+    (NN chances)
+    (PP 
+     (IN de)
+     (NP 
+      (NN chuvas)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN interior)
+     (NP 
+      (NN região)
+      (VP 
+       (ADVP 
+        (RB mais)
+       )
+       (VP 
+        (VBN afetada)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NN falta)
+         (PP 
+          (IN de)
+          (NP 
+           (NN chuvas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

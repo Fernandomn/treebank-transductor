@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (ADVP 
+     (RB Felizmente)
+    )
+    (S 
+     (RB aqui)
+     (S 
+      (NP 
+       (DT a)
+       (NNS água)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB chegou)
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT as)
+         (NNS casas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

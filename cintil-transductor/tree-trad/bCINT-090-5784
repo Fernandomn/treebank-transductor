@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Londres)
+   )
+   (VP 
+    (VB ocupa)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS lugar)
+       (JJ importante)
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (PP sua)
+           (NNS vida)
+          )
+         )
+        )
+       )
+       (PP 
+        (CC mas)
+        (PP 
+         (RB também)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS obra)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS pintor)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

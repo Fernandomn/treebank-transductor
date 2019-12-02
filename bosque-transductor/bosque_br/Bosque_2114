@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN renda)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN noite)
+      (PP 
+       (IN de)
+       (NP 
+        (NN inauguração)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP será)
+    (VBN doada)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Fundo_Social_de_Solidariedade)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Estado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

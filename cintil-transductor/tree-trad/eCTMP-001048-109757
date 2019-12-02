@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VB devia)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS linha)
+       (ADJP 
+        (JJ orientadora)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS divulgação)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (NP 
+               (PRP se)
+              )
+              (VB pretende)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

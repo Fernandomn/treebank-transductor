@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Todo)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ambiente)
+       (RB aqui)
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS autopunição)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (PRP nós)
+     )
+     (VP 
+      (VB estamos)
+      (PP 
+       (IN a)
+       (VP 
+        (VB subir)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (PP nosso)
+           (NNS calvário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

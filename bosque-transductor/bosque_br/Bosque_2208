@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN professores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP UFPB)
+      (NP 
+       (NNP Universidade_Federal_da_Paraíba)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP entraram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN greve)
+     (ADJP 
+      (JJ geral)
+     )
+    )
+   )
+   (ADVP 
+    (RB ontem)
+   )
+  )
+ )
+)

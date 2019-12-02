@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+    (NN aspectos)
+   )
+   (VP 
+    (VBP podem)
+    (VB ser)
+    (VBN observados)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN relatos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN pacientes)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP tenho)
+       (IN que)
+       (VB arrumar)
+      )
+      (NP 
+       (DT a)
+       (NN casa)
+      )
+     )
+     e
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP estou)
+      )
+      (ADVP 
+       (RB com_vontade)
+      )
+      (VP 
+       (VBP escuto)
+      )
+      (NP 
+       (NN vozes)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP me)
+        )
+        (VP 
+         (VBP incentivam)
+        )
+        (PP 
+         (IN a)
+         (VP 
+          (VP 
+           (VB começar)
+          )
+          (NP 
+           (DT a)
+           (NN tarefa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

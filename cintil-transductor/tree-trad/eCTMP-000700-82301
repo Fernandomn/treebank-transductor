@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS história)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS espécie)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Mme)
+            (NNS Pompadour)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS tempos)
+              (JJ modernos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (VB publicada)
+     )
+     (PP 
+      (NP 
+       (DT esta)
+       (NNS semana)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS França)
+     )
+    )
+   )
+  )
+ )
+)

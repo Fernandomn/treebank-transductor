@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (DT O)
+       (NNS desenvolvimento)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT a)
+        (NNS qualidade)
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS assistência)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB têm)
+    (VP 
+     (VB sido)
+     (NP 
+      (NP 
+       (NP 
+        (NNS trunfos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS SAP)
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NP 
+           (NNS implantação)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS mercado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Depois)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS incidente)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS populares)
+    )
+    (VP 
+     (VB fugiram)
+     (PP 
+      (IN para)
+      (NP 
+       (DT as)
+       (NNS montanhas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

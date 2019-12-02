@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Ráscal_Pizza_&_Cozinha)
+   )
+   (VP 
+    (VBP criou)
+   )
+   (NP 
+    (DT um)
+    (NN cardápio)
+    (ADJP 
+     (JJ especial)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN almoço)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Páscoa)
+       (PP 
+        (IN de)
+        (RB amanhã)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NN massa)
+       (UCP 
+        (PP 
+         (IN com)
+         (NP 
+          (DT um)
+          (NN recheio)
+         )
+        )
+        e
+        (NP 
+         (DT um)
+         (NN molho)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT a)
+           (NN base)
+           (PP 
+            (IN de)
+            (NP 
+             (NN peixes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

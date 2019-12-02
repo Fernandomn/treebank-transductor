@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Agora)
+   )
+   (S 
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS American)
+       (NNS Splendor)
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VB está)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS universo)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Harvey)
+          (NNS Pekar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

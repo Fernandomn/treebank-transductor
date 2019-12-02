@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ontem)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS situação)
+       (ADJP 
+        (JJ política)
+        (ADJP 
+         (CC e)
+         (JJ social)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Port)
+          (NNS Moresby)
+         )
+        )
+        (NP 
+         (NP 
+          (DT a)
+          (NNS capital)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB permanecia)
+     (ADJP 
+      (JJ tensa)
+      (ADJP 
+       (CC e)
+       (JJ indefinida)
+      )
+     )
+    )
+   )
+  )
+ )
+)

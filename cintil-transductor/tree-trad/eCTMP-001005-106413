@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS tarefa)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS juízes)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (RB porém)
+    )
+    (JJ invejável)
+   )
+  )
+ )
+)

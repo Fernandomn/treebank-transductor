@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (CD duas)
+    (NN guitarras)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Helmet)
+     )
+    )
+   )
+   (VP 
+    (VBP atacam)
+   )
+   (ADJP 
+    (RB sempre)
+    (VBN juntas)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ pequenas)
+     (NN células)
+     (VP 
+      (VP 
+       (VBN separadas)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (DT um)
+        (NN silêncio)
+        (ADVP 
+         (RB nunca)
+         (RB menos)
+         (ADJP 
+          (IN que)
+          (JJ perturbador)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS França)
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS reconquista)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS política)
+         (JJ árabe)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

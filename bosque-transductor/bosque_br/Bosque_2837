@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Empresários)
+    (ADJP 
+     (JJ alemães)
+    )
+   )
+   (VP 
+    (VBP avançaram)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (NN negociações)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB instalar)
+       )
+       (NP 
+        (NN unidades)
+        (PP 
+         (IN de)
+         (NP 
+          (NN beneficiamento)
+          (PP 
+           (IN de)
+           (NP 
+            (NN polpas)
+            (PP 
+             (IN de)
+             (NP 
+              (NN frutas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

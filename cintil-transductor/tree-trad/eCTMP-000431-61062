@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (PP 
+         (IN em_)
+         (NP 
+          (PRP ele)
+         )
+        )
+        (VP 
+         (VB faz)
+         (NP 
+          (DT a)
+          (NNS diferença)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB são)
+      (ADVP 
+       (RB de)
+       (RB facto)
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS criações)
+      (PP 
+       (IN para)
+       (NP 
+        (NNS mulher)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

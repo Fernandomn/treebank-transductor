@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN projeto)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN definição)
+    (PP 
+     (IN de)
+     (VP 
+      (NP 
+       (DT quantos)
+      )
+      (VP 
+       (VBP podem)
+       (VB ser)
+       (VBN construídos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

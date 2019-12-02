@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN restaurante)
+    (VP 
+     (VP 
+      (VBN especializado)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NN carnes)
+       )
+       e
+       (NP 
+        (NN saladas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP oferecerá)
+   )
+   (NP 
+    (DT uma)
+    (NN garrafa)
+    (PP 
+     (IN de)
+     (NP 
+      (NN champanhe)
+      (ADJP 
+       (JJ espanhol)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT os)
+     (NN casais)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN noite)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN dia)
+       (ADJP 
+        (CD 12)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

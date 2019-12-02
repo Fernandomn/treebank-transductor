@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB avaliar)
+     )
+     (NP 
+      (DT as)
+      (NN perspectivas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT este)
+        (NN ano)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Folha)
+   )
+   (VP 
+    (VBP ouviu)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NN economistas)
+     )
+     e
+     (NP 
+      (NN consultores)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP têm)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT seus)
+       (NN clientes)
+      )
+     )
+     (NP 
+      (DT muitas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (JJ principais)
+        (NN empresas)
+        (ADJP 
+         (JJ brasileiras)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

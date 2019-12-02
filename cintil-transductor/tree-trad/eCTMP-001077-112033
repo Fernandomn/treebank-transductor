@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Você)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (PRP poucas)
+         (NP 
+          (NNS pessoas)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB continuam)
+             (PP 
+              (IN a)
+              (VP 
+               (VB ter)
+               (NP 
+                (NP 
+                 (NP 
+                  (NNS acesso)
+                  (JJ directo)
+                 )
+                 (PP 
+                  (IN a)
+                  (NP 
+                   (PRP ele)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

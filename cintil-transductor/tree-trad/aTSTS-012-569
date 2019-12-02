@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (VB Choveu)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS sítio)
+      (CONJP 
+       (RB onde)
+       (S 
+        (VP 
+         (VB choveu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

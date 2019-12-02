@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+    (NP 
+     (NNP Jair_Pereira)
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB escalar)
+   )
+   (NP 
+    (DT um)
+    (NN time)
+    (PP 
+     (IN de)
+     (NP 
+      (NN reservas)
+     )
+    )
+   )
+   (ADVP 
+    (RB amanhã)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 17h)
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NNP Flamengo)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Caio_Martins)
+    )
+   )
+  )
+ )
+)

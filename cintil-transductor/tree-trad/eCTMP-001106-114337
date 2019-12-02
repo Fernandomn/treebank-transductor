@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (DT As)
+     (NNS apostas)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT as)
+      (NNS caras)
+     )
+    )
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS presidência)
+      (JJ portuguesa)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS valor)
+     (ADJP 
+      (RB mais)
+      (JJ próximo)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB atingido)
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT o)
+       (NNS papel)
+      )
+      (S 
+       (VP 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB transaccionou)
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (CD 2698)
+          (NNS escudos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

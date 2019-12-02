@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Sei)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB agora)
+    )
+    (VP 
+     (VBP tenho)
+    )
+    (NP 
+     (DT um)
+     (JJ longo)
+     (NN caminho)
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB percorrer)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

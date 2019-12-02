@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Portugal)
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (VP 
+     (VB havido)
+     (NP 
+      (PRP poucos)
+      (NP 
+       (NNS reflexos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS movimento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

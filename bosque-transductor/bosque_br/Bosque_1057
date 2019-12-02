@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN cardápio)
+   )
+   (VP 
+    (VBP varia)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (NP 
+      (NN pratos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN massa)
+        (RB al_dente)
+       )
+      )
+      (ADVP 
+       (RB cerca_de)
+       (NP 
+        (NN US$)
+        (ADJP 
+         (CD 15)
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (NN peixes)
+      (VBN grelhados)
+      (NP 
+       (NN US$)
+       (ADJP 
+        (CD 20)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS processo)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB estava)
+       (ADJP 
+        (VB bloqueado)
+       )
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS UNITA)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NNS Governo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

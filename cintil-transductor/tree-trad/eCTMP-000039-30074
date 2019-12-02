@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Conferência)
+    (NNS de_)
+    (NNS o)
+    (NNS CFE)
+   )
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Viena)
+    )
+   )
+  )
+ )
+)

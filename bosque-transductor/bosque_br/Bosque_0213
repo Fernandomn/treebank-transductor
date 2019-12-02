@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essas)
+    (NN conversas)
+   )
+   (VP 
+    (VBP levaram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN março)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN demissão)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Bernard_Nussbaum)
+      )
+      (NP 
+       (NN amigo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN primeira-dama)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN cargo)
+       (PP 
+        (IN de)
+        (NP 
+         (NN assessor)
+         (ADJP 
+          (JJ jurídico)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Casa_Branca)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Frenesim)
+     (JJ regionalista)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS PS-Porto)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB deve)
+   (VP 
+    (VB ser)
+    (VB refreado)
+   )
+  )
+ )
+)

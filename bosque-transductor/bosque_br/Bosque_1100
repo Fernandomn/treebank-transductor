@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (IN Que)
+   (NP 
+    (PRP o)
+   )
+   (VP 
+    (VBP faça)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (NP 
+    (DT todos)
+    (DT os)
+    (NN dias)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN ano)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+    (RB apenas)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT o)
+     (NN país)
+    )
+    (VP 
+     (VBP está)
+    )
+    (PP 
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN boca)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN urna)
+        )
+       )
+      )
+     )
+     e
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN limites)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN lei)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

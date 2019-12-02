@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN Justiça)
+    )
+    (VP 
+     (VBP foi)
+     (VBN aplicada)
+    )
+    (VP 
+     (IN porque)
+     (NP 
+      (DT o)
+      (NNP Estatuto_da_Criança_e_do_Adolescente)
+     )
+     (VP 
+      (VBP garante)
+     )
+     (NP 
+      (DT o)
+      (NN direito)
+      (PP 
+       (IN de)
+       (NP 
+        (NN escolas)
+       )
+      )
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT todas)
+       (DT as)
+       (NN crianças)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Márcia_Mendes)
+    (NP 
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Associaçãos_dos_Pais_de_Alunos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Pitágoras)
+         (NP 
+          (DT um)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (CD seis)
+           (NN colégios)
+           (VP 
+            (VP 
+             (VBN acusados)
+            )
+            (PP 
+             (IN de)
+             (VP 
+              (VP 
+               (VB recusar)
+              )
+              (NP 
+               (DT as)
+               (NN matrículas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

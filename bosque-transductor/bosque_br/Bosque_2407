@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (NN responsável)
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN inclusão)
+      (PP 
+       (IN de)
+       (NP 
+        (NN peixes)
+        (ADJP 
+         (JJ amazônicos)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN livro)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN recordes)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP International_Game_Fish_Association)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

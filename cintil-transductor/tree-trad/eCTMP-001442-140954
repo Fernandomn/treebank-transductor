@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS Branco)
+    )
+   )
+   (VP 
+    (VP 
+     (VB abandonou)
+     (NP 
+      (DT o)
+      (NNS curso)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (VB frequentava)
+       (NP 
+        (DT o)
+        (NP 
+         (CD 4º)
+         (NP 
+          (NNS ano)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Instituto)
+             (NNS Superior)
+             (NNS de)
+             (NNS Agronomia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

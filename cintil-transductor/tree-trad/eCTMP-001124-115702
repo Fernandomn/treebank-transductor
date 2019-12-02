@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Mesmo)
+     (RB assim)
+    )
+   )
+   (S 
+    (VP 
+     (VB sente)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS falta)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS explicações)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

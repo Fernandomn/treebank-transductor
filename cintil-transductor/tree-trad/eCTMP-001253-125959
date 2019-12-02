@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (PRP Quem)
+      )
+      (S 
+       (VP 
+        (NP 
+         (PRP o)
+        )
+        (VB diz)
+       )
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NNS Alain)
+        (NNS Prost)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS professor)
+      )
+     )
+     (VP 
+      (VP 
+       (VB conhece)
+       (RB bem)
+      )
+      (NP 
+       (DT aquilo)
+       (NP 
+        (CONJP 
+         (PP 
+          (IN de)
+          (NP 
+           (PRP que)
+          )
+         )
+         (S 
+          (VP 
+           (VB está)
+           (PP 
+            (IN a)
+            (VP 
+             (VB falar)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

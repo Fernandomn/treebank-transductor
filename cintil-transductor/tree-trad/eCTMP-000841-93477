@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gomes)
+   )
+   (VP 
+    (VP 
+     (VB quer)
+     (RB ainda)
+    )
+    (VP 
+     (VP 
+      (VB meter)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS ordem)
+       )
+      )
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (NNS arrumadores)
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB são)
+            (RB igualmente)
+           )
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS fonte)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS insegurança)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

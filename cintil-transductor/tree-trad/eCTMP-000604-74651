@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fraude)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (CD 15)
+        (CD mil)
+       )
+       (NNS contos)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NP 
+     (NNS firma)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS electrodomésticos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

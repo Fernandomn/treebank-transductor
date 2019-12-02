@@ -1,0 +1,111 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Terminou)
+     (RB ontem)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ excelente)
+      (NP 
+       (NNS carreira)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Pedro)
+          (NNS Leão)
+          (NNS Saraiva)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Orange)
+       (NNS Bowl)
+      )
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS campeonato)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS mundo)
+            )
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NNS ténis)
+           )
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS categorias)
+            (JJ jovens)
+           )
+          )
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (RB anualmente)
+           (VP 
+            (VB decorre)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS Florida)
+               (PP 
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT os)
+                  (NNS EUA)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

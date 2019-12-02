@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Fusão)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS vista)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NNS bolsas)
+    )
+   )
+  )
+ )
+)

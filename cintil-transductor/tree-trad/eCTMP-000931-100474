@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS importância)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ mesmo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB justifica)
+    (NP 
+     (PRP -o)
+    )
+   )
+  )
+ )
+)

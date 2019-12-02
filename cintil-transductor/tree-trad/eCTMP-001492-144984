@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS reacção)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NP 
+           (NNS debates)
+           (JJ quinzenais)
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NNS AR)
+           )
+          )
+         )
+         (ADJP 
+          (VB propostos)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT o)
+            (NNS PSD)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

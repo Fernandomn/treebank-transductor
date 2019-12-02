@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS partido)
+   )
+   (VP 
+    (VP 
+     (VB pronunciou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NNS relatório)
+     )
+    )
+   )
+  )
+ )
+)

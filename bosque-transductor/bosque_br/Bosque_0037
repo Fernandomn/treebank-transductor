@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (CC E)
+    (NP 
+     (PRP o_que)
+    )
+    (NP 
+     (DT o)
+     (NN senhor)
+    )
+    (VP 
+     (VBP acha)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN escândalo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN arbitragem)
+        (ADJP 
+         (JJ carioca)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

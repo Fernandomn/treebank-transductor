@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Journey_in_the_Universe)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN programa)
+    (PP 
+     (IN em)
+     (NP 
+      (NN inglês)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN voltado)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN crianças)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP querem)
+        )
+        (VP 
+         (VP 
+          (VB aprender)
+         )
+         (NP 
+          (NN noções)
+          (PP 
+           (IN de)
+           (NP 
+            (NN astronomia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Até)
+    (IN em)
+    (NP 
+     (NNP Hollywood)
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN pessoas)
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (NNP Sonia_Braga)
+      )
+      e
+      (NP 
+       (NNP Andy_Garcia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN assessor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN imprensa)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Ministério_da_Fazenda)
+     )
+    )
+    (NP 
+     (NNP Sérgio_Danese)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN ministro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Fazenda)
+      )
+     )
+     (NP 
+      (NNP Rubens_Ricúpero)
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP iria)
+     (VB comentar)
+    )
+    (NP 
+     (DT o)
+     (NN assunto)
+    )
+    (VP 
+     (IN porque)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP tinha)
+     )
+     (NP 
+      (NN informações)
+      (ADJP 
+       (JJ suficientes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

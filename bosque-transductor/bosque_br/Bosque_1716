@@ -1,0 +1,118 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN tratado)
+      (PP 
+       (IN de)
+       (NP 
+        (NN paz)
+       )
+      )
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 1923)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP aboliu)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NN califato)
+      )
+      (NP 
+       (DT a)
+       (NN poligamia)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP substituiu)
+     )
+     (NP 
+      (NN práticas)
+      (ADJP 
+       (JJ legais)
+      )
+      (ADJP 
+       (JJ islâmicas)
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT outras)
+       (PP 
+        (IN de)
+        (NP 
+         (NN inspiração)
+         (ADJP 
+          (JJ européia)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP adotou)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NN alfabeto)
+       (ADJP 
+        (JJ romano)
+       )
+      )
+      e
+      (NP 
+       (DT o)
+       (NN calendário)
+       (ADJP 
+        (JJ gregoriano)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP concedeu)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN mulheres)
+      )
+     )
+     (NP 
+      (NN direito)
+      (PP 
+       (IN de)
+       (NP 
+        (NN voto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

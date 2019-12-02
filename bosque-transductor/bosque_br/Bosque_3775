@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP PF)
+   )
+   (VP 
+    (VBP prende)
+   )
+   (ADJP 
+    (CD dois)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB cobrar)
+     )
+     (NP 
+      (NN ágio)
+     )
+    )
+   )
+  )
+ )
+)

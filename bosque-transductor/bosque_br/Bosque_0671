@@ -1,0 +1,127 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN impacto)
+    (VP 
+     (VP 
+      (VBN provocado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (JJ jazzística)
+       (NN trilha)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP A_Marca_da_Maldade)
+         (PP 
+          (IN com)
+          (NP 
+           (NN temas)
+           (VP 
+            (VP 
+             (VBN influenciados)
+            )
+            (PP 
+             (PP 
+              (IN por)
+              (NP 
+               (NNP Stan_Kenton)
+              )
+             )
+             e
+             (PP 
+              (RB até)
+              (IN por)
+              (NP 
+               (NN pianistas)
+               (PP 
+                (IN de)
+                (NP 
+                 (NN bordel)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP chamou)
+   )
+   (NP 
+    (DT a)
+    (NN atenção)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Edwards)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (PP 
+        (IN em)
+        (ADJP 
+         (CD 1958)
+        )
+       )
+       (VP 
+        (VBP procurava)
+       )
+       (NP 
+        (DT um)
+        (NN músico)
+        (ADJP 
+         (ADJP 
+          (JJ novo)
+         )
+         (ADJP 
+          (JJ talentoso)
+         )
+         e
+         (ADJP 
+          (JJ barato)
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB compor)
+         )
+         (NP 
+          (DT o)
+          (NN prefixo)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN telessérie)
+            (NP 
+             (NNP Peter_Gunn)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

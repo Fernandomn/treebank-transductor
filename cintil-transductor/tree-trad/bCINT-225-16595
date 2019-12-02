@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS cimeira)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS OSCE)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB revolucionar)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+   )
+  )
+ )
+)

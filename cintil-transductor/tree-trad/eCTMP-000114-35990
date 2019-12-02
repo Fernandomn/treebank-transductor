@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Propõe)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Xanadu)
+        (NNS City)
+       )
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS Jerome)
+           (NNS Estienne)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Xavier)
+            (NNS Duval)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

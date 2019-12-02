@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Para)
+      (IN além)
+      (IN de)
+     )
+     (NP 
+      (NP 
+       (NNS Óscar)
+       (NNS Branco)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (CD dois)
+      (NP 
+       (JJ outros)
+       (NNS actores)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (CD sete)
+       (NNS bailarinos)
+      )
+     )
+    )
+    (VP 
+     (VB constituem)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS elenco)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ nova)
+          (NNS peça)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

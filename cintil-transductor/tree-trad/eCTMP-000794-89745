@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Leite)
+    (JJ escolar)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS camião)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS lixo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

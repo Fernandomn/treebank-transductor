@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB outro)
+     (RB lado)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (JJ simples)
+      (NP 
+       (NNS boatos)
+       (ADJP 
+        (VB fomentados)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS voz)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS povo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB constituem)
+      )
+      (ADVP 
+       (RB obviamente)
+      )
+     )
+     (NP 
+      (NNS provas)
+     )
+    )
+   )
+  )
+ )
+)

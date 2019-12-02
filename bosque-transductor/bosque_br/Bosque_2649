@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB De_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN assessoria)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN secretário)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN Transportes)
+     )
+    )
+    (NP 
+     (NNP Márcio_Ribeiro)
+    )
+   )
+   (VP 
+    (VBP determinou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN engenheiros)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Departamento_de_Estradas_de_Rodagem)
+       (NP 
+        (NNP DER)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP apressassem)
+    )
+    (NP 
+     (DT os)
+     (NN estudos)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN duplicação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

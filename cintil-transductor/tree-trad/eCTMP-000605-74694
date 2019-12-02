@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Scorsese)
+  )
+  (VP 
+   (VB preside)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS júri)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD 51º)
+         (NP 
+          (NNS Festival)
+          (NNS de)
+          (NNS Cannes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

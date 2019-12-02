@@ -1,0 +1,136 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (VP 
+    (VBP passou)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN hora)
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (NP 
+         (NN governo)
+        )
+        (NP 
+         (NN prestadores)
+         (PP 
+          (IN de)
+          (NP 
+           (NN serviços)
+          )
+         )
+        )
+        e
+        (NP 
+         (NN usuários)
+        )
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VB empenharem)
+       )
+       (UCP 
+        (PP 
+         (IN para)
+        )
+        (ADVP 
+         (RB não)
+         (RB só)
+        )
+       )
+       (PP 
+        (VP 
+         (VP 
+          (VB aprofundar)
+         )
+         (NP 
+          (DT as)
+          (NN discussões)
+          (PP 
+           (IN sobre)
+           (NP 
+            (DT a)
+            (NN ineficácia)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN sistema)
+              (PP 
+               (IN de)
+               (NP 
+                (NN saúde)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (ADVP 
+         (RB como)
+         (RB também)
+        )
+        (PP 
+         (IN para)
+         (VP 
+          (VP 
+           (VB buscar)
+          )
+          (NP 
+           (NP 
+            (NN alternativas)
+           )
+           e
+           (NP 
+            (NN soluções)
+            (ADJP 
+             (JJ viáveis)
+            )
+           )
+          )
+          (PP 
+           (IN a_fim_de)
+           (VP 
+            (VP 
+             (VB proporcionar)
+            )
+            (NP 
+             (DT um)
+             (NN atendimento)
+             (ADJP 
+              (RB mais)
+              (JJ digno)
+             )
+             (PP 
+              (IN a+)
+              (NP 
+               (DT a)
+               (NN população)
+               (RB em_geral)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

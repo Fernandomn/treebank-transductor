@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS padre)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB quer)
+     )
+     (ADVP 
+      (RB porém)
+     )
+    )
+    (VP 
+     (VB falar)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS milagres)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS monsenhor)
+           (NP 
+            (NNS Alves)
+            (NNS Brás)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

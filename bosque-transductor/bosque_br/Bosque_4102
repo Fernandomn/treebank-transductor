@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNP Alec)
+   (ADVP 
+    (RB Nunca)
+   )
+   (VP 
+    (VBP usei)
+   )
+   (NP 
+    (DT um)
+    (NN chapéu)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT aqueles)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN vida)
+    )
+   )
+  )
+ )
+)

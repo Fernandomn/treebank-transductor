@@ -1,0 +1,125 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Adeus_America)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Jan_Schutte)
+     )
+    )
+   )
+   (NP 
+    (NNP O_Casamento_de_Muriel)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP P.J._Hogan)
+     )
+    )
+   )
+   (NP 
+    (NNP 71_Fragmentos_da_Cronologia_de_Um_Acaso)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Michael_Haneke)
+     )
+    )
+   )
+   (NP 
+    (NNP Fresh)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Boaz_Yakin)
+     )
+    )
+   )
+   (NP 
+    (NNP Venus_de_Neve)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Sotiris_Gortisas)
+     )
+    )
+   )
+   (NP 
+    (NNP Costas_às_Costas_,_Cara_a_Cara)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Huang_Jianxin)
+     )
+    )
+   )
+   (NP 
+    (NNP Rainha_Bandida)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Shekkar_Kapur)
+     )
+    )
+   )
+   (NP 
+    (NNP Sem_Pele)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Alessandro_d'_Allatri)
+     )
+    )
+   )
+   (NP 
+    (NNP Wrony)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Dorota_Kedzierzawska)
+     )
+    )
+   )
+   (NP 
+    (NNP Três_Palmeiras)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP João_Botelho)
+     )
+    )
+   )
+   (NP 
+    (NNP Katia_Ismailova)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Valeri_Todorovski)
+     )
+    )
+   )
+   (NP 
+    (NNP Os_Silêncios_do_Palácio)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Moufida_Tiati)
+     )
+    )
+   )
+   (CC e)
+   (NP 
+    (DT o)
+    (NN filme)
+    (ADJP 
+     (JJ coletivo)
+    )
+    (NP 
+     (NNP Homem,_Deus_e_Monstro)
+    )
+   )
+  )
+ )
+)

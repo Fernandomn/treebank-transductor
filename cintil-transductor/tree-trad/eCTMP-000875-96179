@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (CD terceira)
+      (NP 
+       (NNS guerra)
+       (JJ mundial)
+      )
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB começar)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Sarajevo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Clinic)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB É)
+      (JJ engraçada)
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT o)
+        (NNS Rui)
+       )
+       (VP 
+        (VP 
+         (VP 
+          (VB toca)
+          (NP 
+           (NNS bateria)
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT os)
+           (NNS dedos)
+          )
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS tempo)
+           (JJ real)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

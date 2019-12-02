@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS crianças)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB aprendiam)
+       (NP 
+        (PRP tudo)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS ponta)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS língua)
+          )
+         )
+        )
+       )
+      )
+     )
+     (CC nem)
+     (CC que)
+     (S 
+      (VP 
+       (VB fosse)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS custa)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS reguadas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

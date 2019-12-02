@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN alquimia)
+     (ADJP 
+      (JJ medieval)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN árvore)
+   )
+   (VP 
+    (VBP simbolizava)
+   )
+   (NP 
+    (DT a)
+    (NN transformação)
+    (VP 
+     (ADVP 
+      (RB sempre)
+     )
+     (VP 
+      (VBN cercada)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN globos)
+       (ADJP 
+        (JJ reluzentes)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP corresponderiam)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT os)
+          (NN planetas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

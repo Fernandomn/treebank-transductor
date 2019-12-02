@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN espanhola)
+    (NP 
+     (NNP Arantxa_Sanchez)
+    )
+    (NP 
+     (NN tenista)
+     (PP 
+      (IN com)
+      (NP 
+       (JJ mlehor)
+       (NN desempenho)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT esta)
+         (NN temporada)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+     (VBN eliminada)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (JJ primeira)
+      (NN rodad)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Virginia_Slims_Masters)
+        (PP 
+         (IN em)
+         (NP 
+          (NNP Nova_York)
+         )
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP reúne)
+         )
+         (NP 
+          (DT as)
+          (CD 16)
+          (JJ melhores)
+          (NN jogadoras)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN ano)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

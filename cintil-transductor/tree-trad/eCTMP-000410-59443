@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Sampaio)
+  )
+  (VP 
+   (VB aposta)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS cultura)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS descentralização)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

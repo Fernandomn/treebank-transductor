@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NN pergunta)
+   (VP 
+    (IN Se)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+    (VP 
+     (VBP repetir)
+    )
+    (NP 
+     (DT a)
+     (NN atuação)
+     (PP 
+      (IN de)
+      (RB hoje)
+     )
+    )
+   )
+   (VP 
+    (VBP conseguirá)
+   )
+   (VP 
+    (VP 
+     (VB vencer)
+    )
+    (NP 
+     (DT a)
+     (NNP Holanda)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (JJ terceira)
+      (NN fase)
+      (NP 
+       (NN quartas-de-final)
+      )
+     )
+    )
+   )
+  )
+ )
+)

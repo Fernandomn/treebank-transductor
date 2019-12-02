@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB foi)
+          (JJ definido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Liga)
+    )
+    (VP 
+     (VB admite)
+     (NP 
+      (NNS alterações)
+     )
+    )
+   )
+  )
+ )
+)

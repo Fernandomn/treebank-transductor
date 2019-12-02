@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS formalismo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS solução)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB limita)
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS resultados)
+       (JJ estéticos)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS obra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS Pequim)
+      (CONJP 
+       (CONJP 
+        (RB onde)
+        (S 
+         (NP 
+          (NP 
+           (PRP quase)
+           (PRP todos)
+          )
+          (NP 
+           (DT os)
+           (NP 
+            (NNS prédios)
+            (JJ novos)
+           )
+          )
+         )
+         (VP 
+          (RB já)
+          (VP 
+           (VP 
+            (VB possuem)
+            (NP 
+             (NNS cabo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS assinatura)
+      (JJ mensal)
+     )
+    )
+    (VP 
+     (VB custa)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB menos)
+        (RB de)
+       )
+       (CD 200)
+      )
+      (NP 
+       (NNS escudos)
+       (JJ portugueses)
+      )
+     )
+    )
+   )
+  )
+ )
+)

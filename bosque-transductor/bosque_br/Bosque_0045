@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Prandi)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN empresa)
+    )
+    (VP 
+     (VBP está)
+     (VBG elaborando)
+    )
+    (NP 
+     (NN normas)
+     (ADJP 
+      (JJ factíveis)
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB serem)
+        (VBN executadas)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (NP 
+          (DT a)
+          (NN solução)
+         )
+         ou
+         (NP 
+          (NN minimização)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NN problemas)
+            (ADJP 
+             (JJ existentes)
+            )
+            (PP 
+             (IN em+)
+             (NP 
+              (DT o)
+              (NN local)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

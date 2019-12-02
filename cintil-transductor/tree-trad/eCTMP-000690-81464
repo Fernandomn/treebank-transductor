@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Metade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS investigação)
+        (JJ nacional)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Ensino)
+       (NNS Superior.)
+      )
+     )
+    )
+   )
+  )
+ )
+)

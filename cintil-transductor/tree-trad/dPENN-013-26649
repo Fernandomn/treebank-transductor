@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Porém)
+   )
+   (S 
+    (NP 
+     (NP 
+      (PRP muitos)
+     )
+     (NP 
+      (NNS casos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS desobediência)
+          (JJ cvil)
+         )
+         (JJ não-violenta)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB são)
+     )
+     (ADJP 
+      (ADVP 
+       (RB assim)
+       (RB tão)
+      )
+      (JJ inofensivos)
+     )
+    )
+   )
+  )
+ )
+)

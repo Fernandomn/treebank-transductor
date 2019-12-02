@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS danos)
+     (ADJP 
+      (ADJP 
+       (VB causados)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ mau)
+          (NNS tempo)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS região)
+         (NNS de)
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB estão)
+     )
+     (JJ quantificados)
+    )
+   )
+  )
+ )
+)

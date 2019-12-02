@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB desapareceu)
+    (ADVP 
+     (RB perto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS jardim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

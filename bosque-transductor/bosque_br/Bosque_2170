@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Sandoval)
+   )
+   (VP 
+    (VP 
+     (VBP Vou)
+     (VB entrar)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN determinação)
+     )
+    )
+    (VP 
+     (VP 
+      (VBG sabendo)
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (VBP vai)
+       (VB ser)
+      )
+      (ADJP 
+       (JJ difícil)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+   )
+   (ADVP 
+    (NP 
+     (CD seis)
+     (NN meses)
+    )
+    (RB antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN golpe)
+     )
+    )
+   )
+  )
+ )
+)

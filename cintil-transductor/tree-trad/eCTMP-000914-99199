@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS final)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS sessão)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS indicador)
+     )
+     (VP 
+      (VB ganhava)
+      (NP 
+       (NP 
+        (ADVP 
+         (RB mais)
+         (RB de)
+        )
+        (NP 
+         (CD 2,9)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB ficando)
+       (RB ligeiramente)
+      )
+      (PP 
+       (PP 
+        (IN abaixo)
+        (IN de_)
+       )
+       (NP 
+        (DT essa)
+        (NNS barreira)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

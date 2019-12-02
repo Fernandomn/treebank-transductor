@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT a)
+     (NN noite)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN projeto)
+   )
+   (VP 
+    (VBP prevê)
+   )
+   (NP 
+    (NN aulas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN alfabetização)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN jovens)
+      (NP 
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD 14)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (CD 22)
+         (NN anos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NNP Cieps)
+    )
+   )
+  )
+ )
+)

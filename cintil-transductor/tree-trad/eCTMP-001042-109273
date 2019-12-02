@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB Estou)
+        (RB aqui)
+       )
+       (CONJP 
+        (S 
+         (VP 
+          (RB só)
+          (VP 
+           (VB há)
+           (NP 
+            (CD três)
+            (NNS semanas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+   )
+  )
+ )
+)

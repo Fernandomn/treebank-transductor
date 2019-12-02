@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 17)
+       )
+      )
+     )
+    )
+    (VB aconteceu)
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS episódio)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB iria)
+        (VP 
+         (VB marcar)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ restante)
+           (NNS jogo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

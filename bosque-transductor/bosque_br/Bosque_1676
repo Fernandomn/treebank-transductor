@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Nosso)
+     (NN objetivo)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN campeonato)
+      )
+     )
+    )
+    (ADVP 
+     (RB portanto)
+    )
+    (VP 
+     (VBP será)
+     (VBN definido)
+    )
+    (ADVP 
+     (RB depois)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN domingo)
+       (VP 
+        (ADVP 
+         (RB quando)
+        )
+        (VP 
+         (VBP enfrentamos)
+        )
+        (NP 
+         (DT o)
+         (NNP São_Paulo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN volante)
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+   )
+   (NP 
+    (DT o)
+    (ADJP 
+     (RB mais)
+     (JJ expressivo)
+    )
+    (NN resultado)
+    (VP 
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBN atingido)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT uma)
+       (NN seleção)
+       (ADJP 
+        (JJ belga)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN história)
+      )
+     )
+    )
+   )
+  )
+ )
+)

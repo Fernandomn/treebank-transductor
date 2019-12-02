@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Magno)
+    )
+    (VP 
+     (VBP desceu)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN direita)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP cruzou)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN área)
+     )
+    )
+   )
+  )
+ )
+)

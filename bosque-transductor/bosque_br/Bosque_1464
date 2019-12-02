@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP leia)
+   )
+   (NP 
+    (NN texto)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN pág.)
+     (ADJP 
+      (CD 4)
+     )
+    )
+   )
+  )
+ )
+)

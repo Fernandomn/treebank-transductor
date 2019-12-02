@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (RB Assim)
+   (S 
+    (VP 
+     (VB pode)
+     (VP 
+      (VP 
+       (VB ser)
+       (VB interpretado)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NP 
+        (NNS discurso)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS ano)
+           (JJ novo)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Presidente)
+          (NNS de_)
+          (NNS a)
+          (NNS República)
+         )
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (RB ontem)
+        (VB pronunciado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Nunca)
+   )
+   (VP 
+    (VBP vi)
+   )
+   (VP 
+    (NP 
+     (DT um)
+     (NN partido)
+    )
+    (VP 
+     (VB render-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (ADVP 
+     (RB tão)
+     (ADVP 
+      (ADVP 
+       (RB rápida)
+      )
+      e
+      (ADVP 
+       (RB incondicionalmente)
+      )
+     )
+     (VP 
+      (RB como)
+      (NP 
+       (DT o)
+       (NNP PT)
+      )
+      (VP 
+       (VBP está)
+       (VBG fazendo.)
+      )
+     )
+    )
+   )
+  )
+ )
+)

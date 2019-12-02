@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Organizados)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN associação)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN franqueados)
+   )
+   (VP 
+    (VBP ganham)
+   )
+   (NP 
+    (JJ maior)
+    (NN poder)
+    (PP 
+     (IN de)
+     (NP 
+      (NN influência)
+     )
+    )
+    (PP 
+     (IN frente_a+)
+     (NP 
+      (DT os)
+      (NN franqueadores)
+     )
+    )
+   )
+  )
+ )
+)

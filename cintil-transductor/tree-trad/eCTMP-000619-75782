@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS secretário)
+       (NNS de)
+       (NNS Estado)
+       (NNS de_)
+       (NNS o)
+       (NNS Sistema)
+       (NNS Educativo)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Emídio)
+       (NNS Gil)
+       (NNS Santos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

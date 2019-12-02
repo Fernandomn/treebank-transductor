@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (NNP Serra)
+    )
+   )
+   (VP 
+    (IN se)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP for)
+     (VBN aprovada)
+    )
+    (NP 
+     (DT a)
+     (NN emenda)
+     (ADJP 
+      (JJ constitucional)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP desvincula)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN fundos)
+        (PP 
+         (IN de)
+         (NP 
+          (NN participação)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NP 
+             (NP 
+              (NN Estados)
+             )
+             e
+             (NP 
+              (NN municípios)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (DT as)
+       (NN receitas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (JJ novos)
+         (NN tributos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (PRP nada)
+    )
+   )
+   (VP 
+    (VBP adiantará)
+   )
+   (NP 
+    (DT o)
+    (NN aumento)
+    (PP 
+     (IN de)
+     (NP 
+      (NN impostos)
+     )
+    )
+   )
+  )
+ )
+)

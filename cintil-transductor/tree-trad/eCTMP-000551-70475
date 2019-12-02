@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB está)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS causa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (PP nosso)
+       (NNS presente)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (PP nosso)
+        (NNS futuro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB A_)
+     (RB as)
+     (RB tantas)
+    )
+   )
+   (S 
+    (JJ indiscreta)
+    (S 
+     (VP 
+      (VB é)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS janela)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Soares)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

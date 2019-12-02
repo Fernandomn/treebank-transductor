@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Tampouco)
+   )
+   (NP 
+    (DT nenhum)
+    (NN filme)
+    (ADJP 
+     (JJ latino-americano)
+    )
+   )
+   (VP 
+    (VBP passou)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN crivo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Quinzena_dos_Realizadores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

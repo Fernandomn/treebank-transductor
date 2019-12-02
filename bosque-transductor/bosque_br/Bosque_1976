@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VBP venho)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NN bairro)
+     (ADJP 
+      (RB muito)
+      (JJ pobre)
+     )
+     (ADJP 
+      (RB muito)
+      (JJ pobre)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Nova_York)
+      )
+     )
+    )
+   )
+  )
+ )
+)

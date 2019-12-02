@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Então)
+   )
+   (NP 
+    (DT os)
+    (NN homens)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP encontraram)
+     )
+     (NP 
+      (DT um)
+      (NN lugar)
+      (ADJP 
+       (JJ plano)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP resolveram)
+     )
+     (VP 
+      (VP 
+       (VB construir)
+      )
+      (NP 
+       (DT uma)
+       (NN torre)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP chegasse)
+        )
+        (PP 
+         (IN até)
+         (NP 
+          (DT o)
+          (NN céu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

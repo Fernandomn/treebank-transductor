@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS situação)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS termos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS emprego)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (ADVP 
+      (RB também)
+     )
+    )
+    (ADJP 
+     (RB muito)
+     (JJ diferente)
+    )
+   )
+  )
+ )
+)

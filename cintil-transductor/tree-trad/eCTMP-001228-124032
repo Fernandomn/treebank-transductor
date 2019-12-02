@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS índice)
+     (NNS SPI)
+    )
+   )
+   (VP 
+    (VP 
+     (VB obteve)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS ganho)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 0,9)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB atingindo)
+       (NP 
+        (DT os)
+        (NP 
+         (CD 1955,37)
+         (NNS pontos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

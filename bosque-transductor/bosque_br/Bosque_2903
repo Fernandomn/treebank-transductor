@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Outro)
+    (NN tributo)
+    (UCP 
+     (ADJP 
+      (JJ importante)
+     )
+     e
+     (PP 
+      (RB também)
+      (IN sob)
+      (NP 
+       (DT a)
+       (NN forma)
+       (PP 
+        (IN de)
+        (NP 
+         (NN contribuição)
+         (ADJP 
+          (JJ voluntária)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+   )
+   (NP 
+    (DT as)
+    (NN trierarquias)
+   )
+  )
+ )
+)

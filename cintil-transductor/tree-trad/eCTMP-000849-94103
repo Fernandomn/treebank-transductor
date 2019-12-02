@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Trata)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NP 
+      (CD primeira)
+      (NP 
+       (NNS empreitada)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS construção)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (JJ novo)
+              (NP 
+               (NNS eixo)
+               (JJ ferroviário)
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (IN entre)
+           (NP 
+            (DT as)
+            (NP 
+             (CD duas)
+             (NP 
+              (NNS margens)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS Tejo)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

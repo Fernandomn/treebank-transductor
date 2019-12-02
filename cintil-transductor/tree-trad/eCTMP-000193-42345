@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Problemas)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS língua)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Assembleia)
+      (NNS Municipal)
+     )
+    )
+   )
+  )
+ )
+)

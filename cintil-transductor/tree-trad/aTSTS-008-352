@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS casa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Maria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

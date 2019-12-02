@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS Soares)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS vereador)
+      (NNS de_)
+      (NNS a)
+      (NNS Cultura)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Câmara)
+        (NNS Municipal)
+        (NNS de)
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

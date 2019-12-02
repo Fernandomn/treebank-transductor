@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Bolsas)
+   )
+   (VB baralham)
+  )
+  (S 
+   (CC e)
+   (S 
+    (VP 
+     (VB voltam)
+     (PP 
+      (IN a)
+      (VB dar)
+     )
+    )
+   )
+  )
+ )
+)

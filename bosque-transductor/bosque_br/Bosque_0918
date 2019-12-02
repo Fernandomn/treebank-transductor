@@ -1,0 +1,94 @@
+(
+ (S 
+  (NP 
+   (NN Parágrafo)
+   (ADJP 
+    (JJ 3º)
+   )
+   (VP 
+    (PP 
+     (IN De+)
+     (NP 
+      (DT a)
+      (NN aplicação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (VBN disposto)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT este)
+          (NN artigo)
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP poderá)
+     (VB resultar)
+    )
+    (NP 
+     (NN pagamento)
+     (PP 
+      (IN de)
+      (NP 
+       (NN benefício)
+       (ADJP 
+        (JJ inferior)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (VP 
+           (ADVP 
+            (RB efetivamente)
+           )
+           (VP 
+            (VBN pago)
+           )
+           (PP 
+            (IN em)
+            (NP 
+             (NN cruzeiros)
+             (ADJP 
+              (JJ reais)
+             )
+            )
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT a)
+             (NN competência)
+             (PP 
+              (IN de)
+              (NP 
+               (NN fevereiro)
+               (PP 
+                (IN de)
+                (ADJP 
+                 (CD 1994)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

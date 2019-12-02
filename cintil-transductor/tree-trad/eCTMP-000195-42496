@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Benfica)
+    )
+    (VP 
+     (VB venceu)
+     (NP 
+      (DT os)
+      (NNS búlgaros)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB despediu)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS golo)
+          (JJ espectacular)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Schwarz)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

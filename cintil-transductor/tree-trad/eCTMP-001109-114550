@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS assessora)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ministro)
+          (NNS Carlos)
+          (NNS Borrego)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Isabel)
+       (NNS Gomes)
+      )
+     )
+    )
+    (VP 
+     (VB concorda)
+     (PP 
+      (IN com)
+      (NP 
+       (NNS Dias)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB acrescenta)
+    )
+   )
+  )
+ )
+)

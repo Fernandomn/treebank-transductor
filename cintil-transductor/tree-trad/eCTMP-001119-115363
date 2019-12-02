@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS cenário)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS preço)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS privatização)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB andará)
+     )
+     (ADVP 
+      (RB longe)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS nível)
+          (JJ encontrado)
+         )
+         (ADJP 
+          (ADJP 
+           (ADVP 
+            (RB aliás)
+            (RB bem)
+           )
+           (VB suportado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS estrada)
+     )
+    )
+    (S 
+     (NP 
+      (CD 341)
+      (NNS pessoas)
+     )
+     (VP 
+      (VB ganharam)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS carro)
+        (ADJP 
+         (JJ igual)
+         (PP 
+          (IN a)
+          (NP 
+           (DT este)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

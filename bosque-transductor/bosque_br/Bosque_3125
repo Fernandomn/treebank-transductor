@@ -1,0 +1,149 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todos)
+    (DT os)
+    (NN anunciantes)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP aderiram)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN idéia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN clubes)
+         (ADJP 
+          (JJ infantis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (PP 
+    (IN atrás_de)
+    (NP 
+     (DT um)
+     (NN mercado)
+     (PP 
+      (IN de)
+      (NP 
+       (NN dimensões)
+       (ADJP 
+        (JJ gigantescas)
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (DT os)
+       (NN miniconsumidores)
+       (ADJP 
+        (JJ americanos)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN faixa)
+         (PP 
+          (IN de)
+          (NP 
+           (NN idade)
+          )
+         )
+         (PP 
+          (IN entre)
+          (NP 
+           (UCP 
+            (NP 
+             (CD 4)
+            )
+            e
+            (ADJP 
+             (CD 12)
+            )
+           )
+           (NN anos)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VBP gastaram)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN ano)
+          (VBN passado)
+         )
+        )
+        (NP 
+         (NN US$)
+         (NP 
+          (CD 7.3)
+          (NN bilhões)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (DT suas)
+           (JJ próprias)
+           (NN mesadas)
+          )
+         )
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VBP influenciaram)
+        )
+        (NP 
+         (DT suas)
+         (NN famílias)
+        )
+        (PP 
+         (IN a)
+         (VP 
+          (VP 
+           (VB comprar)
+          )
+          (NP 
+           (DT mais)
+           (NN US$)
+           (NP 
+            (CD 130)
+            (NN bilhões)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

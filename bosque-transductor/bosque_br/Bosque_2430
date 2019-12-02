@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Com)
+     (NP 
+      (PRP isso)
+     )
+    )
+   )
+   (VP 
+    (VBP dizem)
+   )
+   (VP 
+    (VP 
+     (VBP aumentam)
+    )
+    (NP 
+     (DT os)
+     (NN custos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN contratação)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN jovens)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

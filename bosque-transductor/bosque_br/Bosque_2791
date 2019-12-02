@@ -1,0 +1,105 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Deputados)
+    (VP 
+     (VP 
+      (VBN ligados)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NNP ACM)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diziam)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN conversas)
+     (PP 
+      (IN com)
+      (NP 
+       (NN colegas)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NNP Benito_Gama)
+     (NP 
+      (NNP PFL-BA)
+     )
+    )
+    (VP 
+     (VBP foi)
+     (VBN vetado)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB ser)
+      )
+      (NP 
+       (NN vice)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP FHC)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (IN porque)
+     (NP 
+      (DT o)
+      (NN grupo)
+     )
+     (VP 
+      (VBP avalia)
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (VBP são)
+      )
+      (ADJP 
+       (RB cada_vez_mais)
+       (VBN reduzidas)
+      )
+      (NP 
+       (DT as)
+       (NN chances)
+       (PP 
+        (IN de)
+        (NP 
+         (NN vitória)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN tucano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

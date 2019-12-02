@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Janus)
+     (NNS Elek)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (PP 
+       (IN para)
+       (NP 
+        (PRP todos)
+        (NP 
+         (DT os)
+         (NNS efeitos)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS rival)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Judith)
+         (NNS Kopper)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

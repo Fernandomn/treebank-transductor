@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tem)
+   )
+   (NP 
+    (DT vários)
+    (NN apêndices)
+    (PP 
+     (IN de)
+     (NP 
+      (NN software)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNP DOS)
+      )
+      ou
+      (NP 
+       (NNP Windows)
+      )
+     )
+    )
+   )
+  )
+ )
+)

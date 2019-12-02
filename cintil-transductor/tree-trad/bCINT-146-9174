@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS itinerário)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB anda)
+    )
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS terra)
+        (NNS de)
+        (NNS Oz)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

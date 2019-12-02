@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Czar)
+     (NNS Ieltsin)
+    )
+   )
+   (VP 
+    (VB impõe)
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NNS lei)
+     )
+    )
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (VP 
+     (VB nacionaliza)
+     (NP 
+      (NP 
+       (NNS estruturas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS ex-URSS)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

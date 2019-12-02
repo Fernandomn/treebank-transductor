@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Governador)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+     )
+    )
+   )
+   (VP 
+    (VBP acusa)
+   )
+   (NP 
+    (NN governo)
+    (ADJP 
+     (JJ federal)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB impedir)
+     )
+     (NP 
+      (NN entrada)
+      (PP 
+       (IN de)
+       (NP 
+        (NN estrangeiros)
+       )
+      )
+     )
+    )
+   )
+   (IN De)
+   (NP 
+    (NNP Washington)
+   )
+  )
+ )
+)

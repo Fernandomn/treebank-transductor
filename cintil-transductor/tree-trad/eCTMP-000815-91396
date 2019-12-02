@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (PP 
+        (PP 
+         (IN Em_)
+         (NP 
+          (DT a)
+          (NNS altura)
+         )
+        )
+       )
+       (VP 
+        (VB há)
+        (NP 
+         (NP 
+          (ADVP 
+           (RB cerca)
+           (RB de)
+          )
+          (CD seis)
+         )
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS aldeia)
+    )
+    (VB estagnava)
+   )
+  )
+ )
+)

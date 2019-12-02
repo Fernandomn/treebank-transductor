@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje)
+   )
+   (NP 
+    (DT a)
+    (NN praia)
+   )
+   (VP 
+    (VBP ganhou)
+   )
+   (NP 
+    (JJ nova)
+    (NN infra-estrutura)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NN bares)
+     )
+     (NP 
+      (NN quiosques)
+     )
+     (NP 
+      (NN sistema)
+      (PP 
+       (IN de)
+       (NP 
+        (NN iluminação)
+       )
+      )
+     )
+     (NP 
+      (NN banheiros)
+     )
+     e
+     (NP 
+      (NN quadras)
+      (PP 
+       (IN de)
+       (NP 
+        (NN esportes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

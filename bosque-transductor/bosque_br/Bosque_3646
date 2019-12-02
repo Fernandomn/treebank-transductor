@@ -1,0 +1,109 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN solução)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP deram)
+     )
+    )
+    (VP 
+     (VP 
+      (VB obter)
+     )
+     (NP 
+      (NN equilíbrio)
+      (PP 
+       (IN entre)
+       (NP 
+        (NP 
+         (NN figuração)
+        )
+        e
+        (NP 
+         (NN abstração)
+        )
+       )
+      )
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (NP 
+        (DT a)
+        (NN profundidade)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP é)
+       )
+       (UCP 
+        nem
+        (ADJP 
+         (JJ clássica)
+         (ADJP 
+          (JJ perspectiva)
+         )
+        )
+        nem
+        (ADJP 
+         (JJ modernista)
+         (VP 
+          (VBN planificada)
+         )
+        )
+        mas
+        (VP 
+         (VP 
+          (VBN sugerida)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (NN jogos)
+           (ADJP 
+            (JJ cromáticos)
+           )
+           (ADJP 
+            (JJ semilivres)
+           )
+           (ADVP 
+            (RB às_vezes)
+            (ADJP 
+             (JJ livres)
+             (RB demais)
+            )
+           )
+           (VP 
+            (ADVP 
+             (RB como)
+            )
+            (NP 
+             (PRP você)
+            )
+            (VP 
+             (VBP vai)
+             (VB ver)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

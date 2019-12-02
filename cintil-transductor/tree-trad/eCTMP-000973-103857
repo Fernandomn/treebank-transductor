@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (CD 30)
+     (NP 
+      (NN por)
+      (NN cento)
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NNS sindicato)
+   )
+  )
+ )
+)

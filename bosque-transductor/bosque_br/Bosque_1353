@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Autor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN proposta)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Imposto_Único)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP pretende)
+         )
+         (VP 
+          (VP 
+           (VB reduzir)
+          )
+          (NP 
+           (DT a)
+           (JJ enorme)
+           (NN gama)
+           (PP 
+            (IN de)
+            (NP 
+             (NN tributos)
+            )
+           )
+          )
+          (PP 
+           (IN a)
+           (ADJP 
+            (CD um)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Marcos_Cintra)
+   )
+   (VP 
+    (VBP fará)
+   )
+   (NP 
+    (DT uma)
+    (NN palestra)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN assunto)
+     )
+    )
+   )
+  )
+ )
+)

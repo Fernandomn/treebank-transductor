@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Realismo)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS hierarquia)
+       (JJ militar)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB venceu)
+   (NP 
+    (PRP todos)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS desígnios)
+      (JJ políticos)
+     )
+    )
+   )
+  )
+ )
+)

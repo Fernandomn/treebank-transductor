@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Ministério)
+     (NNS de_)
+     (NNS o)
+     (NNS Ambiente)
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (ADVP 
+        (RB tão)
+        (RB cedo)
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB emitirá)
+        )
+        (NP 
+         (NP 
+          (JJ novas)
+          (NP 
+           (NNS licenças)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS funcionamento)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

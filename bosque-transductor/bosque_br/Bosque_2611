@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Assim)
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (PRP você)
+    )
+    (VP 
+     (VBP está)
+     (VBG usando)
+    )
+    (NP 
+     (DT uma)
+     (NN planilha)
+    )
+    (ADVP 
+     (RB por_exemplo)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP pode)
+      (VB selecionar)
+     )
+     (NP 
+      (NP 
+       (NN parte)
+      )
+      ou
+      (NP 
+       (DT todo)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB levar)
+     )
+     (VP 
+      (NP 
+       (PRP o_que)
+      )
+      (VP 
+       (VBP foi)
+       (VBN selecionado)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (DT outra)
+         (NN planilha)
+        )
+        ou
+        (NP 
+         (DT qualquer)
+         (NN programa)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP estiver)
+           (VBG sendo)
+           (VBN usado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

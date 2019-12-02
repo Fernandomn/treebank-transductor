@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP AI)
+    (NP 
+     (NN organismo)
+     (ADJP 
+      (JJ internacional)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (ADJP 
+        (RB mais_de)
+        (CD 1.1)
+       )
+       (NN milhão)
+       (PP 
+        (IN de)
+        (NP 
+         (NN membros)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP divulgou)
+   )
+   (NP 
+    (DT o)
+    (NN documento)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NN disputa)
+      (VBN acirrada)
+      (PP 
+       (IN entre)
+       (NP 
+        (DT as)
+        (NN indústrias)
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB conquistar)
+        )
+        (NP 
+         (DT os)
+         (JJ melhores)
+         (NN mercados)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN ranking)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (JJ gigantes)
+      (NN multinacionais)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP dividem)
+       )
+       (NP 
+        (DT o)
+        (NN bolo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP mudou)
+   )
+  )
+ )
+)

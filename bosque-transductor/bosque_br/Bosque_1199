@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN grupo)
+    (NP 
+     (NNP Votorantim)
+    )
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (NP 
+    (DT o)
+    (NNP ISO-9002)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN cimento)
+     (NP 
+      (NNP Votoran)
+      (VP 
+       (VP 
+        (VBN produzido)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Volta_Redonda)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

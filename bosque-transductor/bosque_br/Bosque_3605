@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Carlos_Mariani_Bittencourt)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN grupo)
+      (ADJP 
+       (JJ petroquímico)
+      )
+      (NP 
+       (NNP Mariani)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB definitivamente)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ necessária)
+    )
+    (NP 
+     (DT uma)
+     (NN lei)
+     (NP 
+      (NN antitruste)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN país)
+     )
+    )
+   )
+  )
+ )
+)

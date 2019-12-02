@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Aliás)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT essa)
+     (NN entrevista)
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB corretamente)
+     )
+     (VP 
+      (VBP defende)
+     )
+     (NP 
+      (DT a)
+      (NN legalização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN aborto)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN argumentos)
+       (ADJP 
+        (JJ razoáveis)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB agora)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN motivos)
+       (ADJP 
+        (JJ eleitoreiros)
+       )
+      )
+     )
+     (VP 
+      (VBP cedeu)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN pressão)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Igreja_Católica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

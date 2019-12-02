@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (NP 
+     (CD 1991)
+     (PP 
+      (IN a)
+      (ADJP 
+       (CD 1993)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN produção)
+    (PP 
+     (IN de)
+     (NP 
+      (NN petróleo)
+      (ADJP 
+       (JJ local)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pulou)
+   )
+   (PP 
+    (PP 
+     (IN de)
+     (NP 
+      (CD 20)
+      (NN milhões)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (CD 34.60)
+      (NN milhões)
+      (PP 
+       (IN de)
+       (NP 
+        (NN metros)
+        (ADJP 
+         (JJ cúbicos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Simplesmente)
+   )
+   (VP 
+    (VBP tornara-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (ADJP 
+    (JJ impossível)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN razões)
+     (ADJP 
+      (ADJP 
+       (JJ tecnológicas)
+      )
+      (ADJP 
+       (JJ comerciais)
+      )
+      e
+      (ADJP 
+       (JJ financeiras)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB estimular)
+    )
+    (NP 
+     (DT o)
+     (NN desenvolvimento)
+     (PP 
+      (IN com)
+      (NP 
+       (NN base)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN substituição)
+         (PP 
+          (IN de)
+          (NP 
+           (NN importações)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

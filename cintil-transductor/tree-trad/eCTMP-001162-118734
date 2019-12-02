@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS El)
+      (NNS Cordobés)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS irmãos)
+        (NNS Domecq)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS Pedro)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS Álvaro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB quiseram)
+    (VP 
+     (VB comprá)
+     (NP 
+      (PRP -lo)
+     )
+    )
+   )
+  )
+ )
+)

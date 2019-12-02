@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS APP)
+    )
+    (VP 
+     (VP 
+      (VB assinalará)
+      (NP 
+       (DT a)
+       (NNS data)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS almoço)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS confraternização)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB informaram)
+     (NP 
+      (DT as)
+      (NP 
+       (CD duas)
+       (NNS organizações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

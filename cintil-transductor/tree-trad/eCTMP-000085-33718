@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Estudo)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NNS realojamento)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB apresentado)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Amadora)
+    )
+   )
+  )
+ )
+)

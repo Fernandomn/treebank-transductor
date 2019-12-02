@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Têm)
+   )
+   (NP 
+    (NN resolução)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 600x600)
+      (NN pontos)
+      (PP 
+       (IN por)
+       (NP 
+        (NN polegada)
+       )
+      )
+      (NP 
+       (NN dpi)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP permite)
+    )
+    (VP 
+     (VP 
+      (VB obter)
+     )
+     (NP 
+      (NN imagens)
+      (PP 
+       (IN com)
+       (NP 
+        (DT mais)
+        (NN definição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS inauguração)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esta)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS jogada)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS peso)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

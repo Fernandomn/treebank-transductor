@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Coisa)
+     (ADJP 
+      (RB nunca)
+      (ADJP 
+       (VB vista)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Barrancos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB dizia)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+  )
+ )
+)

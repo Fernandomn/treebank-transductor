@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Crianças)
+    (ADJP 
+     (JJ norte-americanas)
+    )
+   )
+   (VP 
+    (VBP encontram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN maio)
+    )
+   )
+   (NP 
+    (DT mais)
+    (CD dois)
+    (NN programas)
+    (ADJP 
+     (JJ educativos)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN CD-ROM)
+     )
+    )
+   )
+  )
+ )
+)

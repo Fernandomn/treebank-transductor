@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Setembro)
+    )
+   )
+   (S 
+    (NP 
+     (DT este)
+     (NNS número)
+    )
+    (VP 
+     (PP 
+      (IN para)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+     (VP 
+      (VB foi)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD 4,7)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

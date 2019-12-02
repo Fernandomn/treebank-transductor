@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NP 
+        (NP 
+         (NNS pacote)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Governo)
+            (JJ italiano)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NP 
+           (CD próximos)
+           (NP 
+            (CD três)
+            (NNS anos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

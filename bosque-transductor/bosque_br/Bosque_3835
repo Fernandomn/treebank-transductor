@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (NN razões)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT a)
+       (DT própria)
+       (NN razão)
+      )
+      (VP 
+       (VBP desconhece)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN sorteio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN local)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN jogo)
+         (ADJP 
+          (JJ decisivo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN bolinha)
+   )
+   (ADVP 
+    (RB quase)
+    (RB sempre)
+   )
+   (VP 
+    (VBP apontava)
+   )
+   (NP 
+    (DT o)
+    (JJ assustador)
+    (NN estádio)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP São_Januário)
+     )
+    )
+   )
+  )
+ )
+)

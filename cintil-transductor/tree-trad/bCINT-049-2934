@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NP 
+     (NNS educação)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS qualidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB só)
+     (VP 
+      (VP 
+       (VB é)
+       (JJ possível)
+      )
+      (CONJP 
+       (CC se)
+       (S 
+        (NP 
+         (NP 
+          (DT os)
+          (NNS adultos)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT as)
+           (NNS crianças)
+          )
+         )
+        )
+        (VB interagirem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

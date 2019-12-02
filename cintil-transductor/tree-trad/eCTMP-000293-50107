@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS silêncio)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS defesa)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS exportadores)
+        )
+       )
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS agentes)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS navegação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

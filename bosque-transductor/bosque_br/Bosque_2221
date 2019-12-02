@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Markus_Sokol)
+     (NP 
+      (NN coordenador)
+      (PP 
+       (IN de)
+       (NP 
+        (NN comunicação)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN estratégia)
+    (PP 
+     (IN de)
+     (NP 
+      (NN comunicação)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN delineada)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT um)
+     (NN seminário)
+     (VP 
+      (VP 
+       (VBN realizado)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN dezembro)
+        (VBN passado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

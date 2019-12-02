@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN propaganda)
+    (ADJP 
+     (JJ eleitoral)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN redes)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP TV)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP custou)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN uruguaio)
+    )
+   )
+   (NP 
+    (RB mais_de)
+    (NN US$)
+    (NP 
+     (CD 14)
+     (NN milhões)
+    )
+    (NP 
+     (RB cerca_de)
+     (NN US$)
+     (ADJP 
+      (CD 7.00)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT cada)
+       (NN eleitor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

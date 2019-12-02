@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS doente)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS bebé)
+       (PP 
+        (IN de)
+        (NP 
+         (CD oito)
+         (NNS meses)
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (DT cujas)
+         (NNS células)
+        )
+        (S 
+         (VP 
+          (VB vão)
+          (VP 
+           (VB ser)
+           (VP 
+            (VB colhidas)
+            (VP 
+             (VP 
+              (VP 
+               (VP 
+                (VB reparadas)
+               )
+               (RB geneticamente)
+              )
+              (VP 
+               (CC e)
+               (VP 
+                (VB reintroduzidas)
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT o)
+                  (NP 
+                   (PP seu)
+                   (NNS organismo)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT a)
+     (NN vacância)
+    )
+    (VP 
+     (VBP ocorresse)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (JJ últimos)
+      (CD dois)
+      (NN anos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN mandato)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN eleição)
+   )
+   (VP 
+    (VBP seria)
+    (VBN feita)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN Congresso)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD 30)
+     (NN dias)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (NNS Presidente)
+       (NNS de_)
+       (NNS a)
+       (NNS República)
+      )
+     )
+     (VP 
+      (VB excedeu)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS limites)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS magistratura)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS influência)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB semeou)
+        (NP 
+         (DT o)
+         (NNS alarmismo)
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (VB desenvolveu)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS apologia)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS desesperança)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

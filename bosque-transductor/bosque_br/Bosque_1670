@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG estando)
+    )
+    (NP 
+     (DT o)
+     (NN demos)
+    )
+    (PP 
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN recepção)
+      )
+     )
+     e
+     (PP 
+      (RB não)
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN produção)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN discurso)
+         (ADJP 
+          (JJ político)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ melhor)
+   )
+   (VP 
+    (VP 
+     (VB dizer)
+    )
+    (NP 
+     (NN regime)
+     (ADJP 
+      (JJ demótico)
+      (SBAR que
+       (S 
+        (JJ democrático)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

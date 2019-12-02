@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (ADVP 
+       (RB Ainda)
+       (RB anteontem)
+      )
+      (VP 
+       (VB houve)
+       (NP 
+        (NNS tiros)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (CONJP 
+       (S 
+        (VP 
+         (VB há)
+         (NP 
+          (DT uns)
+          (NNS tempos)
+         )
+        )
+       )
+      )
+      (S 
+       (NP 
+        (DT um)
+        (NP 
+         (JJ cigano)
+        )
+       )
+       (VP 
+        (VP 
+         (VB esfaqueou)
+         (RB mesmo)
+        )
+        (NP 
+         (DT um)
+         (NNS filho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

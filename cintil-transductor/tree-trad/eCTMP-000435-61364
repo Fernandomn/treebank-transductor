@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (CD 13,3)
+      (NP 
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS respostas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT este)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (JJ único)
+        (NNS argumento)
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB está)
+           (PP 
+            (IN a)
+            (VB crescer)
+           )
+          )
+          (PP 
+           (IN desde)
+           (NP 
+            (NNS Junho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

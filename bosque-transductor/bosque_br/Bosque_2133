@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN surpresa)
+    (VP 
+     (VP 
+      (VBN descrita)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNP Pedro_Collor)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP atingiu)
+   )
+   (NP 
+    (DT todos)
+    (DT os)
+    (NN partidos)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP integram)
+     )
+     (NP 
+      (DT a)
+      (JJ chamada)
+      (NNP Nova_Força)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN política)
+        (ADJP 
+         (JJ local)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VBN liderada)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNP Lessa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

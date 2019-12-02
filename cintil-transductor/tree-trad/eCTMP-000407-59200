@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS retrato)
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB feito)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS ONU)
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB diz)
+            (RB ainda)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

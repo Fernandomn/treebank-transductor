@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Deu)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT esse)
+       (NP 
+        (NNS fato)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS banho)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS atol)
+         (JJ perdido)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

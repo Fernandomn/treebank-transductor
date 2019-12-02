@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NNS intérpretes)
+    )
+   )
+   (S 
+    (VP 
+     (VB estão)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Alexandra)
+       (NNS Lencastre)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS João)
+         (NNS Perry)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Rogério)
+          (NNS Samora)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

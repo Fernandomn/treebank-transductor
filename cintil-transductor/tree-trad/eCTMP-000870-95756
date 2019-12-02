@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS TAP)
+  )
+  (VP 
+   (VP 
+    (VB fez)
+    (NP 
+     (NNS contas)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS ar)
+    )
+   )
+  )
+ )
+)

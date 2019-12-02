@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Esse)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT o)
+     (NN tema)
+     (VP 
+      (ADVP 
+       (RB mais)
+      )
+      (VP 
+       (VBN discutido)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN imprensa)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN país)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB anteontem)
+    )
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (NN objeto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN debate)
+       (ADJP 
+        (JJ especial)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN gabinete)
+         (PP 
+          (IN de)
+          (NP 
+           (NN governo)
+           (ADJP 
+            (JJ japonês)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Cem)
+    (NP 
+     (NNS quilos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS haxixe)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NNS Algarve)
+   )
+  )
+ )
+)

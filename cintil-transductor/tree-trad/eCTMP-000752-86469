@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Joel)
+       (NNS Hasse)
+       (NNS Ferreira)
+      )
+     )
+     (NP 
+      (NP 
+       (CD 49)
+       (NNS anos)
+      )
+     )
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VP 
+       (VB tinha)
+       (VP 
+        (VB sido)
+        (NP 
+         (NNS deputado)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS tempo)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS bloco)
+            (JJ central)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB regressou)
+      (PP 
+       (IN com)
+       (NP 
+        (DT esta)
+        (NNS legislatura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

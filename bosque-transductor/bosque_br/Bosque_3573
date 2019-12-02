@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esta)
+    (NN taxa)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP reflete)
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP está)
+     (VBG acontecendo)
+    )
+    (ADVP 
+     (RB de_fato)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN preços)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (JJ últimas)
+      (NN semanas)
+     )
+    )
+   )
+  )
+ )
+)

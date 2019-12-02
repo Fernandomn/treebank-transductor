@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS resto)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS procura)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS facilidades)
+         )
+        )
+       )
+      )
+      (NP 
+       (CC ou)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS falta)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS coragem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

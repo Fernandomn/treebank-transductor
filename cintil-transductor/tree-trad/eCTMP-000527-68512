@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (DT Os)
+       (NNS actos)
+      )
+      (NP 
+       (NP 
+        (DT as)
+        (NNS fugas)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS tibieza)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Cavaco)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB pertencem)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (NNS estrutura)
+        (JJ orgânica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

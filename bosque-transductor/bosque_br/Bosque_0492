@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Stepanenko)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP viajou)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNP China)
+      )
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (CD uma)
+       (NN semana)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP deve)
+      (VB voltar)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN sexta-feira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

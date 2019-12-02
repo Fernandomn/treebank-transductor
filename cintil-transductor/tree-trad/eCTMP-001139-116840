@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS guerra)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS estradas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Portugal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,131 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN responsáveis)
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN programa)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP vasculharam)
+     )
+     (NP 
+      (DT uma)
+      (NN multidão)
+      (PP 
+       (IN de)
+       (NP 
+        (NN arquivos)
+        (PP 
+         (IN de)
+         (NP 
+          (NN filmes)
+          (ADJP 
+           (ADJP 
+            (JJ russos)
+           )
+           (ADJP 
+            (JJ norte-americanos)
+           )
+           (ADJP 
+            (JJ franceses)
+           )
+           (ADJP 
+            (JJ ingleses)
+           )
+           (ADJP 
+            (JJ alemães)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP selecionaram)
+     )
+     (NP 
+      (NN imagens)
+      (VP 
+       (VP 
+        (VBN produzidas)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT as)
+         (NN agências)
+         (ADJP 
+          (JJ oficiais)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT esses)
+           (NN países)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP compõem)
+       )
+       (NP 
+        (DT uma)
+        (JJ formidável)
+        (NN ilustração)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN história)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN século)
+            (ADJP 
+             (CD 20)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (ADVP 
+       (ADVP 
+        (RB tal_como)
+       )
+       (VBN vista)
+       (PP 
+        (IN por)
+        (NP 
+         (DT seus)
+         (NN protagonistas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

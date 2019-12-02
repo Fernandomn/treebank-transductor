@@ -1,0 +1,131 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (JJ novo)
+    (NN protocolo)
+    (VP 
+     (VP 
+      (VBN desenvolvido)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NN grupo)
+       (PP 
+        (IN de)
+        (NP 
+         (NN médicos)
+         (PP 
+          (IN de)
+          (NP 
+           (CD quatro)
+           (NN instituições)
+           (ADJP 
+            (JJ públicas)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNP São_Paulo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG trazendo)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Interferon_Beta)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN tratamento)
+     (PP 
+      (IN de)
+      (NP 
+       (NN pacientes)
+       (PP 
+        (IN com)
+        (NP 
+         (NN esclerose)
+         (ADJP 
+          (JJ múltipla)
+         )
+         (NP 
+          (NN doença)
+          (ADJP 
+           (JJ degenerativa)
+          )
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP causa)
+           )
+           (NP 
+            (NP 
+             (NN enrijecimento)
+             (ADJP 
+              (JJ muscular)
+             )
+            )
+            (NP 
+             (NN debilidade)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT as)
+               (NN funções)
+               (ADJP 
+                (JJ motoras)
+               )
+              )
+             )
+            )
+            e
+            (NP 
+             (NN perda)
+             (ADJP 
+              (JJ parcial)
+             )
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NN visão)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

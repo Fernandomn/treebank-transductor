@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS votação)
+     (JJ final)
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VB ocorrer)
+     (ADVP 
+      (RB hoje)
+      (ADVP 
+       (CC ou)
+       (RB amanhã)
+      )
+     )
+    )
+   )
+  )
+ )
+)

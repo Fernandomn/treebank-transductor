@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS desafio)
+     (ADJP 
+      (VB lançado)
+      (PP 
+       (IN a)
+       (NP 
+        (NNS Guterres)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB caiu)
+    (RB bem)
+   )
+  )
+ )
+)

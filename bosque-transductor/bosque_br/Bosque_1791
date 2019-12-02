@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Traz)
+   )
+   (NP 
+    (NN dicas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN produção)
+      (ADJP 
+       (JJ gráfica)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB como)
+    (NP 
+     (NN alinhamento)
+    )
+   )
+  )
+ )
+)

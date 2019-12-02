@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (S 
+        (NP 
+         (DT Os)
+         (NNS jogadores)
+        )
+        (VP 
+         (VP 
+          (VB têm)
+          (NP 
+           (CD três)
+           (NNS treinos)
+          )
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (NNS dia)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (NP 
+         (NP 
+          (PRP nós)
+         )
+         (NP 
+          (NP 
+           (NNS equipa)
+           (JJ técnica)
+          )
+         )
+        )
+        (VP 
+         (VB teremos)
+         (NP 
+          (CD cinco)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirmou)
+    )
+    (NP 
+     (NNS Jozic)
+    )
+   )
+  )
+ )
+)

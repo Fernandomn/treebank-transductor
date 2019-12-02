@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (JJ Claro)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT a)
+      (NNS atmosfera)
+     )
+     (VP 
+      (VB tem)
+      (PP 
+       (IN de)
+       (VP 
+        (VB estar)
+        (JJ transparente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

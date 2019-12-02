@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB posso)
+    )
+    (VP 
+     (VB ir)
+     (PP 
+      (IN a)
+      (NP 
+       (PRP todas)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS acções)
+         (CONJP 
+          (PP 
+           (IN a)
+           (NP 
+            (PRP que)
+           )
+          )
+          (S 
+           (NP 
+            (DT a)
+            (NNS IGAI)
+           )
+           (VP 
+            (PP 
+             (PP 
+              (PP 
+               (IN de)
+               (IN acordo)
+               (IN com)
+              )
+              (NP 
+               (DT a)
+               (NNS lei)
+              )
+             )
+            )
+            (VP 
+             (VB deve)
+             (VP 
+              (VB ir)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

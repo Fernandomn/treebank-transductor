@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Mercosul)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (NN objeto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN declarações)
+       (ADJP 
+        (RB meio)
+        (JJ eufóricas)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (JJ últimos)
+      (NN dias)
+     )
+    )
+   )
+  )
+ )
+)

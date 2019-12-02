@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Vacas)
+    (NP 
+     (NN girolando)
+    )
+   )
+   (VP 
+    (VBP conseguem)
+   )
+   (NP 
+    (NN R$)
+    (ADJP 
+     (CD 3.600)
+    )
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (NN R$)
+     (ADJP 
+      (CD 3.000)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (JJ holandesas)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD dois)
+     (NN remates)
+     (VP 
+      (VP 
+       (VBN realizados)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP SP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

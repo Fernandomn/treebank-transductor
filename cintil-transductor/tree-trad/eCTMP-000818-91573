@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (NP 
+        (NNS custo)
+        (JJ anual)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (PRP tudo)
+         (NP 
+          (DT isto)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB seria)
+      (NP 
+       (NP 
+        (CD seis)
+        (CD mil)
+       )
+       (NNS contos)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NNS PNSC)
+     )
+     (VP 
+      (RB ainda)
+      (VP 
+       (RB não)
+       (VB respondeu)
+      )
+     )
+    )
+   )
+  )
+ )
+)

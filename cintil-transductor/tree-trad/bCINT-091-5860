@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vamos)
+    (VP 
+     (VB ter)
+     (PP 
+      (IN de)
+      (VP 
+       (VB jogar)
+       (PP 
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NNS pontos)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN para)
+          (NP 
+           (DT as)
+           (NNS vitórias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

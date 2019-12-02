@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN final)
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN feita)
+   )
+   (NP 
+    (DT uma)
+    (NN auditoria)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB ver)
+      )
+      (VP 
+       (IN se)
+       (NP 
+        (DT a)
+        (NP auto-avaliação)
+        (VP 
+         (VP 
+          (VBN feita)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT a)
+           (NN fábrica)
+          )
+         )
+        )
+       )
+       (VP 
+        (VBP corresponde)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN realidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

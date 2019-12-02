@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Arantxa)
+      (NNS Sanchez-Vicario)
+     )
+    )
+    (VP 
+     (VP 
+      (VB poderá)
+      (VP 
+       (VP 
+        (VB dar)
+        (NP 
+         (DT a)
+         (NP 
+          (CD primeira)
+          (NNS vitória)
+         )
+        )
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS Espanha)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC se)
+       (VP 
+        (VB vencer)
+        (NP 
+         (NP 
+          (DT a)
+          (NP 
+           (JJ grande)
+           (NP 
+            (NNS revelação)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT este)
+              (NNS ano)
+             )
+            )
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (JJ francesa)
+            )
+            (NP 
+             (NNS Mary)
+             (NNS Pierce)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

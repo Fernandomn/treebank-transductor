@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (JJ segunda)
+     (NN metade)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN vantagem)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN inquilino)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP papa)
+      )
+      (NP 
+       (DT menos)
+       (NN aluguel)
+       (VP 
+        (IN do_que)
+        (VP 
+         (VBP vale)
+        )
+        (NP 
+         (DT o)
+         (NN uso)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN imóvel)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

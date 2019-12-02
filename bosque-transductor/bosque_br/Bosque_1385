@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN plantão)
+     (ADJP 
+      (JJ especial)
+     )
+    )
+   )
+   (NP 
+    (NN funcionários)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Delegacia_Regional_do_Trabalho)
+      )
+     )
+     e
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Instituro_Pedro_Melo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP expedirão)
+   )
+   (NP 
+    (NN carteiras)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NN trabalho)
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN identidade)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN mulheres)
+    )
+   )
+  )
+ )
+)

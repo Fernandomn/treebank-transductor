@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Brasil)
+   )
+   (ADVP 
+    (RB nunca)
+   )
+   (VP 
+    (VBP esteve)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN apuros)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT o)
+     (NN técnico)
+    )
+   )
+  )
+ )
+)

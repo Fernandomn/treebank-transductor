@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB Não)
+        (VB tem)
+       )
+       (NP 
+        (PRP muitos)
+        (NNS temperos)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VP 
+        (VB é)
+        (RB sempre)
+       )
+       (NP 
+        (DT uma)
+        (NNS maravilha)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

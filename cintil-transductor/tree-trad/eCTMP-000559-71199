@@ -1,0 +1,52 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS A)
+       (NNS Mansão)
+       (NNS de_)
+       (NNS a)
+       (NNS Loucura)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS Errol)
+        (NNS Flynn)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Inspiração)
+        (NNS Trágica)
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS Humphrey)
+          (NNS Bogart)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Os)
+     (NNS indivíduos)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (PRP eles)
+         )
+        )
+       )
+       (ADJP 
+        (VB encapuçado)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB agrediram)
+      (RB violentamente)
+     )
+     (NP 
+      (DT o)
+      (NNS casal)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS murros)
+       (NP 
+        (CC e)
+        (NNS pontapés)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

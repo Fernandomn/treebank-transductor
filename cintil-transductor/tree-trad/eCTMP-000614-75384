@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Anita)
+     (NNS Hill)
+    )
+   )
+   (VP 
+    (VP 
+     (VB dá)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NNS acordo)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS investigação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS FBI)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Gripe)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NNS aves)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB gera)
+    (NP 
+     (NNS pânico)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS Hong)
+      (NNS Kong)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fato)
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (NP 
+       (DT os)
+       (NN bancos)
+       (ADJP 
+        (JJ públicos)
+       )
+      )
+      (VP 
+       (VBP venham)
+       (IN a)
+       (VB ser)
+      )
+      (ADVP 
+       (RB recorrentemente)
+      )
+      (NP 
+       (NN fontes)
+       (PP 
+        (IN de)
+        (NP 
+         (NN prejuízo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vem)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VP 
+     (VB reforçar)
+    )
+    (NP 
+     (DT as)
+     (NN desvantagens)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN atuação)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Estado)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT esse)
+         (NN setor)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

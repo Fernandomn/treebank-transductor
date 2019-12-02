@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN De)
+      (IN acordo)
+      (IN com)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS fonte)
+        (JJ policial)
+       )
+       (ADJP 
+        (VB contactada)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS agência)
+           (NNS Lusa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS disparos)
+    )
+    (VP 
+     (VB deviam)
+     (VP 
+      (VP 
+       (VB ter)
+       (VP 
+        (VB sido)
+        (VB feitos)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS ar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

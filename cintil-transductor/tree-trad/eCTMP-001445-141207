@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS direcção)
+       (JJ actual)
+      )
+     )
+     (VP 
+      (VP 
+       (VB está)
+       (ADVP 
+        (RB entretanto)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS procura)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS reajustamento)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS cineclube)
+              )
+             )
+            )
+            (PP 
+             (IN a_)
+             (NP 
+              (DT os)
+              (NP 
+               (JJ novos)
+               (NNS tempos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB aposta)
+       (RB essencialmente)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS público)
+         (JJ estudantil)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

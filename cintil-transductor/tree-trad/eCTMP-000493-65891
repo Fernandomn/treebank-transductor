@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS débito)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS conta)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS subscritores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB efectuado)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ próxima)
+       (NNS quarta-feira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

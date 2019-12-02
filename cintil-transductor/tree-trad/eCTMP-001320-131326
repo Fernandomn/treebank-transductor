@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Argumentos)
+    (PP 
+     (PP 
+      (IN a)
+      (IN favor)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS localização)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ novo)
+           (NNS aeroporto)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Ota)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

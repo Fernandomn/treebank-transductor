@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN aposentadoria)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADVP 
+     (RB em_tese)
+    )
+    (NP 
+     (DT o)
+     (NN tempo)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB realizar)
+       )
+       (NP 
+        (NN planos)
+        (VP 
+         (ADVP 
+          (RB antes)
+         )
+         (VP 
+          (VBN abandonados)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT a)
+           (NN necessidade)
+           (PP 
+            (IN de)
+            (VB trabalhar)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB nem)
+     (RB sempre)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (PRP isso)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP acontece)
+      )
+     )
+    )
+   )
+  )
+ )
+)

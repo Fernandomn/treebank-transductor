@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VBP adoro)
+    )
+    (NP 
+     (NN política)
+    )
+   )
+   (VP 
+    (VBP confessa)
+   )
+   (NP 
+    (NNP Mercedes_Rossi_de_Almeida)
+    (ADJP 
+     (CD 73)
+    )
+    (NP 
+     (DT a)
+     (NN mãe)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN candidato)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN governo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+       (NP 
+        (NNP Francisco_Rossi)
+       )
+       (NP 
+        (NNP PDT)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

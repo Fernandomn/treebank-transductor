@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ necessárias)
+   )
+   (NP 
+    (NN estratégias)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN base)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN sociedade)
+     )
+    )
+   )
+  )
+ )
+)

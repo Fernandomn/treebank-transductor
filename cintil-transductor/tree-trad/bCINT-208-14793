@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Cada)
+    (NNS iniciativa)
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VP 
+      (VB contemplar)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS mínimo)
+        )
+       )
+      )
+     )
+     (NP 
+      (CD cinco)
+      (NP 
+       (NNS postos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS trabalho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

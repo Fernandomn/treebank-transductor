@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Estávamos)
+      (ADJP 
+       (VB organizados)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS grupos)
+          (PP 
+           (IN de)
+           (NP 
+            (CD dez)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP cada)
+         (NP 
+          (NNS agrupamento)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS prédios)
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VB havia)
+        (NP 
+         (NP 
+          (CD quatro)
+         )
+         (NP 
+          (CC ou)
+          (NP 
+           (CD cinco)
+           (NNS grupos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

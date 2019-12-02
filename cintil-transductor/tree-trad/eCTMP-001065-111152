@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Boris)
+      (NNS Ieltsin)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Guennadi)
+       (NNS Ziuganov)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB disputavam)
+    (NP 
+     (DT as)
+     (NP 
+      (JJ presidenciais)
+     )
+    )
+   )
+  )
+ )
+)

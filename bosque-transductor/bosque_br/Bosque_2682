@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (NP 
+     (DT certa)
+     (NN forma)
+    )
+   )
+   (VP 
+    (VBP afiou-)
+   )
+   (NP 
+    (PRP o)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN luta)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP engajaria)
+      )
+      (PP 
+       (IN a_partir_de+)
+       (NP 
+        (DT os)
+        (NN anos)
+        (ADJP 
+         (CD 60)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

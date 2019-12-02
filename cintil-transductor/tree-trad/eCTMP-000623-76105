@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NNS Dia)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN de)
+     (NP 
+      (NNS pausa)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS batalha)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Sarajevo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

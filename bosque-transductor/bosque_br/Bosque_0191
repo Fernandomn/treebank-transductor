@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (PP 
+      (IN Em)
+      (ADJP 
+       (CD 79)
+      )
+     )
+     (VP 
+      (VBP houve)
+     )
+     (NP 
+      (DT uma)
+      (JJ leve)
+      (NN reabertura)
+      (PP 
+       (IN de)
+       (NP 
+        (NN crédito)
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (ADJP 
+      (RB nada)
+      (JJ significativo)
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+  )
+ )
+)

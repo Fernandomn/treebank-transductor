@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NNS dúzias)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS amigos)
+          )
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB tínhamos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB fiquei)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (CD três)
+       )
+       (NP 
+        (CC ou)
+        (NP 
+         (CD quatro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

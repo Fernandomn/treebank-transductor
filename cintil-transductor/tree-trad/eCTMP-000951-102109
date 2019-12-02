@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS corrida)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VB ser)
+      (VB travada)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (RB não)
+        (VB existe)
+       )
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS plano)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS ordenamento)
+           )
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS zona)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS regolfo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

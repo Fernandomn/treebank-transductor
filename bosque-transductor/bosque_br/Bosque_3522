@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN plínios)
+   )
+   (VP 
+    (VBP têm)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Cabral)
+     (VP 
+      (VP 
+       (VBN aberto)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN final)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 1992)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT uma)
+        (NN travessa)
+        (VBN escondida)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN avenida)
+          (NP 
+           (NNP Cidade_Jardim)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT sua)
+    (NN meca)
+   )
+  )
+ )
+)

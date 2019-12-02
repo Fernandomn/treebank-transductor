@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Define)
+     (RB apenas)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS quadro)
+      (CONJP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (PRP qual)
+        )
+       )
+       (S 
+        (NP 
+         (DT a)
+         (NNS negociação)
+        )
+        (VP 
+         (VB vai)
+         (VP 
+          (VP 
+           (VB ser)
+           (VB realizada)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

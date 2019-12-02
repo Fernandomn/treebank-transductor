@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NN programa)
+    )
+    (VP 
+     (VBP terá)
+    )
+    (NP 
+     (NN ação)
+     (VBN integrada)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NN pais)
+       )
+       e
+       (NP 
+        (NN alunos)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB através)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN formação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN grupos)
+         (PP 
+          (IN de)
+          (NP 
+           (NN informação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Antonio_Carlos_Gomes_da_Silva)
+    (NP 
+     (NN superintendente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP HC)
+      )
+     )
+    )
+   )
+  )
+ )
+)

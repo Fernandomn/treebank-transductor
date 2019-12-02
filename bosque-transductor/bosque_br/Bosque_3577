@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN preços)
+   )
+   (VP 
+    (VBP estiveram)
+   )
+   (ADVP 
+    (RB praticamente)
+   )
+   (ADJP 
+    (JJ estáveis)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (JJ últimas)
+     (NN semanas)
+    )
+   )
+  )
+ )
+)

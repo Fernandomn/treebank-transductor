@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS FC)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VP 
+    (VB tem)
+    (RB hoje)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS exame)
+     (JJ final)
+    )
+   )
+  )
+ )
+)

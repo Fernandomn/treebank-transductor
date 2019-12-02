@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 90)
+    )
+   )
+   (NP 
+    (CD quatro)
+    (NN membros)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP CV)
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN mortos)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (DT um)
+     (NN tiroteio)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Cidade_Tiradentes)
+    )
+   )
+  )
+ )
+)

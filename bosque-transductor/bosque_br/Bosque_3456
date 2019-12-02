@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Niemeyer)
+   )
+   (VP 
+    (ADVP 
+     (UH É)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (PP 
+     (IN em)
+     (ADJP 
+      (CD 1936)
+     )
+    )
+   )
+  )
+ )
+)

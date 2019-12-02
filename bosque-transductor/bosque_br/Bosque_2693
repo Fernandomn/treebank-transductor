@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Brasil)
+   )
+   (VP 
+    (VBP dispõe)
+   )
+   (PP 
+    (IN de)
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (ADJP 
+        (RB mais)
+        (JJ modernos)
+       )
+       (NN sistemas)
+       (ADJP 
+        (JJ bancários)
+       )
+       (VBN privados)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN mundo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

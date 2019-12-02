@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS vogais)
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (NP 
+       (NNS João)
+       (NNS Bártolo)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Luís)
+         (NNS Palha)
+         (NNS de_)
+         (NNS a)
+         (NNS Silva)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS José)
+           (NNS Manuel)
+           (NNS Morais)
+           (NNS Cabral)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Francisco)
+            (NNS Cruz)
+            (NNS Rosa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

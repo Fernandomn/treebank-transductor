@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jornadas)
+    (NNS Atlânticas)
+    (NNS de)
+    (NNS Educação)
+   )
+  )
+  (VP 
+   (VP 
+    (VB terminaram)
+    (RB ontem)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Funchal)
+    )
+   )
+  )
+ )
+)

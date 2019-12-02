@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS editor)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB marca)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS preço)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS livros)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

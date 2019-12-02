@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS estudantes)
+      (ADJP 
+       (VB passados)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT as)
+         (NNS armas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB figurava)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Abdulkhalil)
+        (NNS Abdumadjid)
+       )
+      )
+      (NP 
+       (NP 
+        (CD 27)
+        (NNS anos)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS líder)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ pequeno)
+          (NP 
+           (NNS grupo)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS separatistas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

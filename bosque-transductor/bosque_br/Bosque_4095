@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Podem)
+    (VB produzir)
+   )
+   (NP 
+    (NP 
+     (JJ pequenas)
+     (NN brochuras)
+    )
+    (NP 
+     (NN mala)
+     (ADJP 
+      (JJ direta)
+     )
+    )
+    (NP 
+     (NN folhetos)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG realizando)
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (CD sete)
+      (NN impressões)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN minuto)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Embora)
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP estejam)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT as)
+      (NN chaves)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN imóvel)
+        (ADJP 
+         (JJ novo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP devem)
+    (VB ir)
+   )
+   (PP 
+    (IN para)
+    (RB lá)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN fevereiro)
+    )
+   )
+  )
+ )
+)

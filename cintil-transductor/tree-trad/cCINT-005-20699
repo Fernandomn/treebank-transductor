@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS cena)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB ia)
+     )
+     (VP 
+      (VB ser)
+      (JJ breve)
+     )
+    )
+    (PP 
+     (PP 
+      (IN por_)
+      (NP 
+       (DT os)
+       (NNS vistos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

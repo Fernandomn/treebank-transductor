@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Aldeia)
+    (NNS de_)
+    (NNS a)
+    (NNS Luz)
+   )
+  )
+  (VP 
+   (VB quer)
+   (VP 
+    (VB ir)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNS Julioa)
+     )
+    )
+   )
+  )
+ )
+)

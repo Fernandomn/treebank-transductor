@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP confirmou)
+   )
+   (NP 
+    (DT as)
+    (NN idéias)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP eu)
+     )
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBP tinha)
+     )
+    )
+    (NP 
+     (DT um)
+     (NN candidato)
+     (ADJP 
+      (JJ sério)
+     )
+     (ADJP 
+      (JJ responsável)
+     )
+    )
+   )
+  )
+ )
+)

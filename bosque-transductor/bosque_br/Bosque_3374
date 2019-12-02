@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN trânsito)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN avenidas)
+      (NP 
+       (NP 
+        (NNP Paulista)
+       )
+       e
+       (NP 
+        (NNP Brigadeiro_Luís_Antônio)
+       )
+      )
+      (NP 
+       (NN zona)
+       (ADJP 
+        (JJ central)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNP São_Paulo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP parou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 9)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN setembro)
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD 86)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN professor)
+    (NP 
+     (NNP Leitão_de_Abreu)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (NN ministro)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Gabinete_Civil)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP vive)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB confirmar)
+     )
+     (NP 
+      (DT as)
+      (NN visitas)
+      (NP 
+       (NN ofertantes)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Fernando_Henrique)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

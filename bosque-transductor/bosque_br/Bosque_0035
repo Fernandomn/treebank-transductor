@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ninguém)
+   )
+   (VP 
+    (VBP força)
+   )
+   (NP 
+    (DT sua)
+    (NN escalação)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VBP há)
+    )
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP escale)
+     )
+     (NP 
+      (DT o)
+      (NN time)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP São_Paulo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

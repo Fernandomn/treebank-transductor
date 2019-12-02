@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (VB Regressou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB fê)
+       (NP 
+        (PRP -lo)
+       )
+      )
+      (CONJP 
+       (CC porque)
+       (S 
+        (NP 
+         (DT o)
+         (NNS Gil)
+        )
+        (VP 
+         (VB decidiu)
+         (VP 
+          (VP 
+           (VB aceitar)
+           (NP 
+            (DT o)
+            (NNS golo)
+           )
+          )
+          (VP 
+           (CC e)
+           (VP 
+            (VB jogar)
+            (PP 
+             (PP 
+              (IN até)
+              (IN a_)
+             )
+             (NP 
+              (DT o)
+              (NNS fim)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

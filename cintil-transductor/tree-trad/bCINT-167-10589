@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS clima)
+       (JJ desanuviado)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Guterres)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB recebeu)
+       (RB ontem)
+      )
+      (PP 
+       (IN durante)
+       (NP 
+        (NP 
+         (ADVP 
+          (RB mais)
+          (RB de)
+         )
+         (CD três)
+        )
+        (NNS horas)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Alberto)
+       (NNS João)
+       (NNS Jardim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

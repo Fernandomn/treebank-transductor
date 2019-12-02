@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Concessão)
+     (JJ territorial)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (CD 1954)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB anulada)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Parlamento)
+       (NNS russo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Carlos)
+     (NNS Alberto)
+     (NNS Silva)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT a)
+     (NNS tradição)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Estoril)
+    )
+   )
+  )
+ )
+)

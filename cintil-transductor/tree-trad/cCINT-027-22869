@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Imagina)
+      (NP 
+       (PRP -te)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS corte)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Dom)
+           (NNS Pedro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB redige)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS mandado)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS captura)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS carrascos)
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (NNS dona)
+                 (NNS Inês)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

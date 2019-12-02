@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN alteração)
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+    (VBN feita)
+   )
+   (ADVP 
+    (RB de_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN hora)
+      (ADJP 
+       (JJ local)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG respeitando)
+    )
+    (ADVP 
+     (RB portanto)
+    )
+    (NP 
+     (DT as)
+     (NN diferenças)
+     (ADJP 
+      (JJ normais)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN fusos)
+       (ADJP 
+        (JJ horários)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

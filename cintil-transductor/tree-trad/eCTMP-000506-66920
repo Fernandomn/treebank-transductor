@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS TV)
+     (JJ interactiva)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS etapa)
+        (JJ seguinte)
+       )
+       (JJ natural)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS TV)
+         (PP 
+          (IN por)
+          (NP 
+           (NNS cabo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

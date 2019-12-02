@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Ainda)
+     (VP 
+      (VP 
+       (VB estive)
+       (PP 
+        (IN com)
+        (NP 
+         (PRP ela)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS semana)
+         (JJ passada)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB estava)
+      (NP 
+       (PRP tudo)
+      )
+     )
+     (RB bem)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS ideia)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NNS eleições)
+         (JJ directas)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS órgãos)
+           (JJ políticos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB assim)
+     )
+     (VP 
+      (VB apresentada)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT as)
+        (NNS bases)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

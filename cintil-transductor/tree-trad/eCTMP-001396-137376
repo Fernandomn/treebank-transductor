@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Crise)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS refugiados)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB agrava)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NNS Balcãs)
+    )
+   )
+  )
+ )
+)

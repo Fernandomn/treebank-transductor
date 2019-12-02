@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NNS incêndio)
+   )
+   (VP 
+    (VP 
+     (VB destruiu)
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NP 
+       (NNS andar)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS prédio)
+           (ADJP 
+            (VB habitado)
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NP 
+             (NP 
+              (NNS Largo)
+              (NNS Marques)
+              (NNS de)
+              (NNS Nisa)
+             )
+             (PP 
+              (PP 
+               (IN em)
+               (NP 
+                (NNS Xabregas)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

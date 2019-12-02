@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS Estacionamento)
+  )
+  (VP 
+   (VP 
+    (VB gera)
+    (NP 
+     (NNS problemas)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS hospital)
+      (NNS de_)
+      (NNS a)
+      (NNS Póvoa)
+      (NNS de)
+      (NNS Varzim)
+     )
+    )
+   )
+  )
+ )
+)

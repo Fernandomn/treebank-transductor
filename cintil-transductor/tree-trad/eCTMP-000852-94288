@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Só)
+    (VP 
+     (VB sabemos)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB ignoramos)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS extensão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS fenómeno)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

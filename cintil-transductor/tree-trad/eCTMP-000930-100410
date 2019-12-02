@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS British)
+    (NNS Airways)
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS resultados)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS queda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

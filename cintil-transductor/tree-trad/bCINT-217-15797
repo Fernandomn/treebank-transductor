@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS mercados-alvo)
+   )
+   (VP 
+    (VP 
+     (VB serão)
+     (ADVP 
+      (ADVP 
+       (RB em)
+       (RB princípio)
+      )
+     )
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS América)
+         (NNS Latina)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

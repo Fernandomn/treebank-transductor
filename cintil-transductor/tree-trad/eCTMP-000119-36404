@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Algumas)
+   )
+   (VP 
+    (VP 
+     (VB estão)
+     (RB hoje)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS armazém)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Bairro)
+           (NNS Alto)
+          )
+         )
+        )
+       )
+       (ADJP 
+        (ADJP 
+         (ADJP 
+          (VB cedido)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT a)
+            (NNS Unisys)
+           )
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (NP 
+            (NNS Benjamim)
+            (NNS Brás)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+    (NP 
+     (NNS sinais)
+     (ADJP 
+      (RB tão)
+      (JJ diferentes)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB afinal)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (CD duas)
+      (NP 
+       (NNS faces)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ mesma)
+          (NNS moeda)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Ponte)
+  )
+  (VP 
+   (VP 
+    (VB cortada)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS Vila)
+      (NNS Verde)
+     )
+    )
+   )
+  )
+ )
+)

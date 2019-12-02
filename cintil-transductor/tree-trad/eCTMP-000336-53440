@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ outro)
+     (NP 
+      (NNS aspecto)
+      (ADJP 
+       (VB referido)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS Álvaro)
+          (NNS Pedro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS praga)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS vinho)
+          (PP 
+           (IN a)
+           (NP 
+            (NNS martelo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

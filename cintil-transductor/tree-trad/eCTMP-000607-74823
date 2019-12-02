@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Tive)
+       (NP 
+        (CD 12)
+        (NNS filhos)
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS tempo)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS fome)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB tenho)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS irmã)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB teve)
+            (NP 
+             (CD 24)
+             (NNS filhos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

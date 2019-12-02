@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (JJ possíveis)
+     (NP 
+      (NP 
+       (NNS mudanças)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS governo)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Inglaterra)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Itália)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB recomendam)
+    (NP 
+     (NNS prudência)
+    )
+   )
+  )
+ )
+)

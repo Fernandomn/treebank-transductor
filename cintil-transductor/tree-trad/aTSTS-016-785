@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS distribuidor)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS mercadoria)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT as)
+        (NNS lojas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

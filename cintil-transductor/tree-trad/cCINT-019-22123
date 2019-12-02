@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS tipo)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (NP 
+       (PRP tu)
+      )
+      (VP 
+       (VP 
+        (VB estavas)
+        (RB sempre)
+       )
+       (PP 
+        (IN a)
+        (VP 
+         (VB criticar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

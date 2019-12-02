@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN advogado)
+    (NP 
+     (NNP Waldir_de_Arruda_Miranda_Carneiro)
+     (VP 
+      (VP 
+       (VBN especializado)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN locação)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN conversão)
+     (ADJP 
+      (JJ espontânea)
+     )
+    )
+    (VP 
+     (VBP pode)
+     (VB ser)
+    )
+    (ADJP 
+     (JJ interessante)
+    )
+    (VP 
+     (VP 
+      (VBG dependendo)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN negociação)
+       (PP 
+        (IN entre)
+        (NP 
+         (DT as)
+         (NN partes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

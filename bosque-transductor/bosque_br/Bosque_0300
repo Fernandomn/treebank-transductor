@@ -1,0 +1,114 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN lição)
+   )
+   (VP 
+    (VBP parece)
+   )
+   (ADJP 
+    (JJ clara)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT ambos)
+     (DT os)
+     (NN casos)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP será)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NN artifício)
+      (ADJP 
+       (JJ legal)
+      )
+     )
+     nem
+     (NP 
+      (DT a)
+      (NN boa_vontade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN governos)
+       )
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP protegerão)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NN riqueza)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN poupadores)
+        )
+       )
+      )
+      ou
+      (NP 
+       (DT o)
+       (NN poder)
+       (PP 
+        (IN de)
+        (NP 
+         (NN compra)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN assalariados)
+        )
+       )
+      )
+     )
+     (CC mas)
+     (VP 
+      (ADVP 
+       (RB sim)
+      )
+      (NP 
+       (DT um)
+       (NN ambiente)
+       (PP 
+        (IN de)
+        (NP 
+         (NN estabilidade)
+         (ADJP 
+          (JJ econômica)
+         )
+         (ADJP 
+          (JJ consistente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Nissan)
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VP 
+      (VB lançar)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS Sentra)
+        (ADJP 
+         (RB completamente)
+         (JJ renovado)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ próxima)
+        (NNS estação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

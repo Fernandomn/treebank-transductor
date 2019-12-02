@@ -1,0 +1,52 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mário)
+    (NNS Soares)
+   )
+  )
+  (VP 
+   (VP 
+    (VP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Moscovo)
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Presidente)
+       (NNS soviético)
+      )
+     )
+    )
+    (PP 
+     (CC e)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS dirigentes)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS oposição)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

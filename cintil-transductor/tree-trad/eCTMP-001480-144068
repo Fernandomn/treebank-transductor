@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Rita)
+     (NNS Pires)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (JJ portuguesa)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB chegou)
+         (ADVP 
+          (RB mais)
+          (RB longe)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

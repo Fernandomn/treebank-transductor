@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Marcos_Augusto_Gonçalves)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN editor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Revista_da_Folha)
+     )
+    )
+   )
+  )
+ )
+)

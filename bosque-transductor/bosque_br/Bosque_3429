@@ -1,0 +1,26 @@
+(
+ (S 
+  (PP 
+   (ADJP 
+    (JJ II)
+   )
+   (IN em+)
+   (NP 
+    (NP 
+     (DT as)
+     (NN etiquetas)
+    )
+    e
+    (NP 
+     (NN tabelas)
+     (PP 
+      (IN de)
+      (NP 
+       (NN preços)
+      )
+     )
+    )
+   )
+  )
+ )
+)

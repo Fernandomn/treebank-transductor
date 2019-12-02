@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (S 
+    (NP 
+     (PRP qualquer)
+     (NNS coisa)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB estava)
+     )
+     (RB bem)
+    )
+   )
+  )
+ )
+)

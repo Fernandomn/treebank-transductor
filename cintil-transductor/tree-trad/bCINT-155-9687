@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP seu)
+     (NP 
+      (JJ maior)
+      (NNS feito)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (VB obtido)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (CD segunda)
+        (NNS jornada)
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VB derrotaram)
+        (NP 
+         (DT os)
+         (NNS italianos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

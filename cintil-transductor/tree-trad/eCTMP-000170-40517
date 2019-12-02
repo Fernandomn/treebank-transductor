@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS regras)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS jogo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS investigação)
+           (JJ comunitária)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB têm)
+    (PP 
+     (IN de)
+     (VP 
+      (VB ser)
+      (JJ alteradas)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS situação)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (PRP nenhum)
+      (NNS partido)
+     )
+     (VP 
+      (VB pode)
+      (VP 
+       (VB ser)
+       (JJ responsabilizado)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (PRP todos)
+      )
+      (VP 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB desresponsabilizam)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (DT aquilo)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB é)
+             (NP 
+              (DT a)
+              (NNS câmara)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

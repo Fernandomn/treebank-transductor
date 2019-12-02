@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (NP 
+      (NNS pena)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS verdade)
+        )
+       )
+       (S 
+        (NP 
+         (DT o)
+         (NNS espectáculo)
+        )
+        (VP 
+         (RB mal)
+         (VP 
+          (VB tinha)
+          (VB começado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

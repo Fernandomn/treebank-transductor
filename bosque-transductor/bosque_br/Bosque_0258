@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Uruguai)
+   )
+   (NP 
+    (NNP Sérgio_Abreu)
+    (NP 
+     (NN ministro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NNP Relações_Exteriores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

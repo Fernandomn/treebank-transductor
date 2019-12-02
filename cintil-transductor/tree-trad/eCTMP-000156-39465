@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (CD último)
+       (NNS instante)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS moribundo)
+    )
+    (VP 
+     (VP 
+      (VB dedicou)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS caçador)
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS olhar)
+       (ADJP 
+        (JJ cheio)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS ternura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

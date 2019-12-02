@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NP 
+      (NNS exemplo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ má)
+         (NNS gestão)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS CP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

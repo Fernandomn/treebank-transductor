@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP vai)
+      (VB fazer)
+     )
+     (NP 
+      (DT a)
+      (NN pesquisa)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN computador)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN separação)
+    (PP 
+     (IN de)
+     (NP 
+      (NN dados)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP faz)
+   )
+   (NP 
+    (DT nenhuma)
+    (NN diferença)
+    (VP 
+     (NP 
+      (PRP tudo)
+     )
+     (VP 
+      (VBP funciona)
+     )
+     (VP 
+      (IN como_se)
+      (VP 
+       (VBP fizesse)
+      )
+      (NP 
+       (NN parte)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (RB só)
+         (NN arquivo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

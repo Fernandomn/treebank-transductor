@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN registro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN tipo)
+      (NP 
+       (NN DI)
+      )
+      (NP 
+       (NN desenho)
+       (ADJP 
+        (JJ industrial)
+       )
+      )
+     )
+     (VP 
+      (VBP diz)
+     )
+     (NP 
+      (NN respeito)
+      (PP 
+       (IN a+)
+       (NP 
+        (NP 
+         (DT a)
+         (NN configuração)
+        )
+        e
+        (NP 
+         (NN cor)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN produto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

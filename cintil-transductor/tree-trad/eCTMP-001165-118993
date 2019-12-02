@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS acidentes)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS viação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB são)
+     )
+     (PP 
+      (IN de)
+      (RB longe)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ principal)
+      (NP 
+       (NNS causa)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS morte)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS crianças)
+             (NP 
+              (CC e)
+              (NNS adolescentes)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

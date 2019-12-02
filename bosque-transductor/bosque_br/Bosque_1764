@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT o)
+    (NN caso)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ segunda)
+      (NN opção)
+      (NP 
+       (DT uma)
+       (NN versão)
+       (ADJP 
+        (RB mais)
+        (VBN apressada)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (JJ primeira)
+         (NN hipótese)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

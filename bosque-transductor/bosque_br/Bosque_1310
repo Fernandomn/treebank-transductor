@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (NP 
+     (DT seu)
+     (NN lado)
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Rússia)
+   )
+   (VP 
+    (VBP manifestava)
+   )
+   (NP 
+    (NN preocupações)
+    (ADJP 
+     (JJ semelhantes)
+    )
+   )
+   (PP 
+    (IN diante_de+)
+    (NP 
+     (DT a)
+     (NN aproximação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Otan)
+      )
+     )
+     (PP 
+      (IN em_relação_a+)
+      (NP 
+       (DT os)
+       (JJ antigos)
+       (NN membros)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Pacto_de_Varsóvia)
+         (NP 
+          (DT a)
+          (NN aliança)
+          (ADJP 
+           (JJ militar)
+          )
+          (ADJP 
+           (JJ pró-URSS)
+          )
+          (VP 
+           (VP 
+            (VBN extinta)
+           )
+           (PP 
+            (IN em)
+            (ADJP 
+             (CD 1990)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

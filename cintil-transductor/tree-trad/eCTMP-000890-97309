@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+       (NNS fonte)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS vítima)
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB teve)
+          (NP 
+           (NP 
+            (NNS morte)
+            (JJ imediata)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Maria)
+        (NNS Assunção)
+        (NNS Neves)
+        (NNS de_)
+        (NNS os)
+        (NNS Santos)
+       )
+       (ADJP 
+        (ADJP 
+         (JJ residente)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT essa)
+           (NNS localidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

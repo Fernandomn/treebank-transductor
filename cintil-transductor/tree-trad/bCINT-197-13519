@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NP 
+       (NNS Vó)
+       (NNS Aurora)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT aquela)
+      (NNS vida)
+     )
+     (VP 
+      (VB era)
+      (JJ boa)
+     )
+    )
+   )
+  )
+ )
+)

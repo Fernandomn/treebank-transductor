@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS tratamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS carnes)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VB terá)
+     (PP 
+      (IN de)
+      (VP 
+       (VB obedecer)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NP 
+            (NNS técnicas)
+            (JJ tradicionais)
+           )
+           (JJ locais)
+          )
+          (PP 
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS matriz)
+              (JJ artesanal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

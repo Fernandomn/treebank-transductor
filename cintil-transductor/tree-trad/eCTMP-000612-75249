@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Vacina)
+     (JJ anti-sida)
+    )
+    (JJ americana)
+   )
+  )
+  (VP 
+   (VP 
+    (VB será)
+    (VB testada)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS China)
+    )
+   )
+  )
+ )
+)

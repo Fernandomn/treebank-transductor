@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT a)
+     (NN Bienal)
+    )
+    (VP 
+     (VBP for)
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (DT o)
+      (NN dia)
+      (ADJP 
+       (CD 11)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN dezembro)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deverá)
+    (VB ter)
+   )
+   (NP 
+    (DT um)
+    (NN público)
+    (ADJP 
+     (JJ total)
+    )
+    (PP 
+     (IN de)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN máximo)
+      )
+     )
+     (NP 
+      (CD 250)
+      (NN mil)
+      (NN pagantes)
+     )
+    )
+    (PP 
+     (IN além_de)
+     (NP 
+      (RB quase)
+      (CD 200)
+      (NN mil)
+      (NN crianças)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG seguindo)
+    )
+    (NP 
+     (DT a)
+     (NN projeção)
+    )
+   )
+  )
+ )
+)

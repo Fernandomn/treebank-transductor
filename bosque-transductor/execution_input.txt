@@ -1,0 +1,3 @@
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -loadFromSerializedFile /home/fernando/projeto-final-parsers/serialized-files/serialGrammarBOSQUE10 input/sentencas_teste_bosque.txt
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -loadFromSerializedFile /home/fernando/projeto-final-parsers/serialized-files/serialGrammarBOSQUE10 input/sentencas_teste_bosque2.txt
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -loadFromSerializedFile /home/fernando/projeto-final-parsers/serialized-files/serialGrammarBOSQUE10 input/sentencas_teste_bosque3.txt

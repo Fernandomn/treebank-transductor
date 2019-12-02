@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Qual)
+   )
+   (NP 
+    (DT a)
+    (NN matéria)
+    (VP 
+     (VP 
+      (VBN odiada)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN escola)
+      )
+     )
+    )
+   )
+  )
+ )
+)

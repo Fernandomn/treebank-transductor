@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+    (NP 
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS religião)
+        (JJ católica)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS instrumento)
+       (JJ padrão)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS medida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN pico)
+    (PP 
+     (IN de)
+     (NP 
+      (NN audiência)
+     )
+    )
+   )
+   (VP 
+    (VBP aconteceu)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NN 20h)
+      )
+      e
+      (NP 
+       (NN 21h)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN sábado)
+       (VP 
+        (ADVP 
+         (RB quando)
+        )
+        (NP 
+         (DT o)
+         (NN sistema)
+        )
+        (VP 
+         (VBP atendeu)
+        )
+        (NP 
+         (CD 309)
+         (NN ligações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

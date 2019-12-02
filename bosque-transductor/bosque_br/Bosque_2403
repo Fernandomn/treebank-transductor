@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN segredo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Atlético)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN quinteto)
+   )
+  )
+ )
+)

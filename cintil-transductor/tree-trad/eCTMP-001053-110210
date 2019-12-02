@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS argumentos)
+     (ADJP 
+      (ADJP 
+       (VB invocados)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD dois)
+          (NNS especialistas)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS defesa)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (JJ respectivas)
+            (NNS posições)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (JJ claros)
+   )
+  )
+ )
+)

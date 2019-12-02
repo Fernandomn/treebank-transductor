@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Porque)
+       (S 
+        (NP 
+         (DT as)
+         (NNS raparigas)
+        )
+        (VP 
+         (VB são)
+         (ADJP 
+          (RB mais)
+          (JJ emotivas)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB entram)
+       (RB sempre)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS linha)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS conta)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (JJ respectivas)
+      (NP 
+       (NNS histórias)
+       (JJ pessoais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

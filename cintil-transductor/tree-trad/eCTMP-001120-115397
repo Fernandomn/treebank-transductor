@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS originalidades)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS representação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS rifa)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NNS presunto)
+        )
+       )
+      )
+      (PP 
+       (IN entre)
+       (NP 
+        (DT os)
+        (NNS espectadores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

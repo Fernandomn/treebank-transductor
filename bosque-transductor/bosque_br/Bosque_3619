@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP SPQ)
+    (NP 
+     (NNP Sistema_de_Projeções_Qualificadas)
+    )
+   )
+   (VP 
+    (VBP resulta)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN média)
+     (PP 
+      (IN de)
+      (NP 
+       (NN opiniões)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 16)
+         (NN economistas)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP fazem)
+          )
+          (NP 
+           (NN análise)
+           (PP 
+            (IN de)
+            (NP 
+             (NN conjuntura)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

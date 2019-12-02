@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (PP meu)
+      (NNS marido)
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB todavia)
+     )
+     (VP 
+      (VB está)
+      (JJ seropositivo)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB iniciou)
+       (RB agora)
+      )
+      (NP 
+       (DT o)
+       (NNS AZT)
+      )
+     )
+    )
+   )
+  )
+ )
+)

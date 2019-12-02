@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS debate)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (NP 
+       (DT a)
+       (NNS SIC)
+      )
+      (VP 
+       (VP 
+        (VB lançou)
+        (PP 
+         (IN durante)
+         (NP 
+          (DT o)
+          (NP 
+           (PP seu)
+           (NP 
+            (NNS Jornal)
+            (NNS de_)
+            (NNS a)
+            (NNS Noite)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

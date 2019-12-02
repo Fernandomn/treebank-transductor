@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Assim)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS teletrabalhador)
+     )
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VP 
+       (VP 
+        (VB comunicar)
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NNS escritório)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN a)
+         (IN partir)
+         (IN de)
+        )
+        (NP 
+         (DT outro)
+         (NNS continente)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VB partilhar)
+         (NP 
+          (NNS dados)
+         )
+        )
+        (VP 
+         (CC e)
+         (VP 
+          (VB enviar)
+          (NP 
+           (NP 
+            (NNS mensagens)
+            (JJ electrónicas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

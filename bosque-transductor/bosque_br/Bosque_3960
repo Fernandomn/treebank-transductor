@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN casamento)
+   )
+   (VP 
+    (VBP será)
+    (VBN realizado)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN reverendo)
+     (NP 
+      (NNP Onaldo_Pereira)
+     )
+     (ADJP 
+      (CD 38)
+     )
+     (VP 
+      (VP 
+       (VBN ordenado)
+      )
+      (PP 
+       (IN há)
+       (NP 
+        (CD oito)
+        (NN anos)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NNP Estados_Unidos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

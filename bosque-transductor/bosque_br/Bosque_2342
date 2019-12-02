@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Migues)
+    )
+   )
+   (NP 
+    (DT algumas)
+    (NN fábricas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Autolatina)
+     )
+    )
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP atingiram)
+   )
+   (NP 
+    (DT o)
+    (NN padrão)
+    (PP 
+     (IN de)
+     (NP 
+      (NN excelência)
+      (NP 
+       (NNP Q1)
+      )
+     )
+    )
+   )
+  )
+ )
+)

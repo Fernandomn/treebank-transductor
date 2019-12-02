@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Está)
+    )
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+       )
+       (NP 
+        (DT o)
+        (NN melhor)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Tchaikovski)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (DT o)
+     (NN diabolismo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN parte)
+       (ADJP 
+        (JJ solista)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP deixa)
+    )
+    (ADVP 
+     (RB nunca)
+    )
+    (PP 
+     (IN de)
+     (VB impressionar)
+    )
+   )
+  )
+ )
+)

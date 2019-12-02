@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Logo)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB podia)
+     )
+     (VP 
+      (VB escrever)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB escreveu)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

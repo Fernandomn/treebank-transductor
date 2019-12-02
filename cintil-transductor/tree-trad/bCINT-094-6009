@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT este)
+      (NNS jogo)
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB criámos)
+       (NP 
+        (CD cinco)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB marcámos)
+        (NP 
+         (CD três)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

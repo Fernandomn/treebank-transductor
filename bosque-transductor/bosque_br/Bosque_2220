@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Seus)
+    (NN programas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN rádio)
+     )
+    )
+   )
+   (VP 
+    (VBP terão)
+   )
+   (NP 
+    (NN reportagens)
+    (PP 
+     (IN de)
+     (NP 
+      (NN rua)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN vetadas)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN TV)
+      )
+     )
+    )
+   )
+  )
+ )
+)

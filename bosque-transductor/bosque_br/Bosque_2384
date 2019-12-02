@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Outro)
+    (NN ponto)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN bolas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP vão)
+       (VB ser)
+       (VBN usadas)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN campeonato)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP devem)
+     (VB ser)
+     (VBN escolhidas)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN interesses)
+      (ADJP 
+       (JJ comerciais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

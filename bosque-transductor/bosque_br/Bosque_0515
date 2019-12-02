@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN time)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN anos)
+       (ADJP 
+        (CD 80)
+       )
+      )
+     )
+     (VP 
+      (VBP dominou)
+     )
+     (NP 
+      (DT o)
+      (NN vôlei)
+      (ADJP 
+       (JJ feminino)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP voltou)
+    (IN a)
+    (VB decepcionar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN Mundial)
+    )
+   )
+  )
+ )
+)

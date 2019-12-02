@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS mercado)
+      (JJ brasileiro)
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB mereceu)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS atenção)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Ibersol)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

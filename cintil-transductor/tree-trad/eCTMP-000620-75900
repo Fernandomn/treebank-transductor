@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS margem)
+        (JJ esquerda)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS rio)
+          (NNS Guadiana)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (PRP tudo)
+     )
+     (VP 
+      (VP 
+       (VB está)
+       (RB já)
+      )
+      (JJ perdido)
+     )
+    )
+   )
+  )
+ )
+)

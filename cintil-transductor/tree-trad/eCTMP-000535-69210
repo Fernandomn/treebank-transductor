@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Estradas)
+  )
+  (VP 
+   (VP 
+    (VB danificadas)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS transporte)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS pedra)
+          (NP 
+           (CC e)
+           (NNS areia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

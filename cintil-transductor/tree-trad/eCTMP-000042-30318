@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Câmara)
+     (NNS Municipal)
+     (NNS de)
+     (NNS Gaia)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB demolir)
+     (NP 
+      (PRP todas)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NNS construções)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS raiz)
+          )
+         )
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS acampamento)
+            (JJ cigano)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Francelos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

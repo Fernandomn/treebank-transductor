@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Nanni)
+        (NNS Moretti)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS La)
+          (NNS Cosa)
+         )
+        )
+        (NP 
+         (NP 
+          (DT um)
+          (NP 
+           (NNS filme)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS Carlo)
+              (NNS Mazzacurati)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT outro)
+     (NNS realizador)
+    )
+    (VP 
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS cinema)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ nova)
+           (NP 
+            (NNS geração)
+            (JJ italiana)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

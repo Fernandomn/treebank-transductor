@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ grande)
+     (NNS jogador)
+    )
+   )
+   (VP 
+    (VB tinha)
+    (VP 
+     (VB perdido)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS apetite)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS golo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

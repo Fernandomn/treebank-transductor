@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lula)
+   )
+   (VP 
+    (VB conseguiu)
+    (VP 
+     (VP 
+      (VB reduzir)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS vulnerabilidade)
+        (JJ externa)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS câmbio)
+         (JJ flutuante)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS aumento)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS exportações)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

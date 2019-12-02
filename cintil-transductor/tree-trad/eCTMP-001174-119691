@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS presença)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS milhares)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS espanhóis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (NP 
+      (DT uma)
+      (NNS constante)
+     )
+    )
+    (PP 
+     (PP 
+      (IN a_)
+      (IN o)
+      (IN longo)
+      (IN de_)
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (CD três)
+       (NNS dias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

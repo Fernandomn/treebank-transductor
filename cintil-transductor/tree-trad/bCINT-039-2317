@@ -1,0 +1,47 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministério)
+    (NNS de_)
+    (NNS as)
+    (NNS Finanças)
+   )
+  )
+  (VP 
+   (VP 
+    (VB toma)
+    (NP 
+     (NNS decisão)
+    )
+   )
+   (ADVP 
+    (ADVP 
+     (NP 
+      (CD quatro)
+      (NNS anos)
+     )
+    )
+    (ADVP 
+     (RB depois)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS fuga)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS ex-corretor)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

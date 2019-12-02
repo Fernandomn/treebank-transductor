@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS televisões)
+     (JJ privadas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB vão)
+     (VP 
+      (VB ter)
+      (NP 
+       (NNS futebol)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (NNS programação)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Verão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

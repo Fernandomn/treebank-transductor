@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS empréstimo)
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB composto)
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS total)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 1.226.617)
+          (NP 
+           (NNS títulos)
+           (PP 
+            (PP 
+             (IN com)
+             (NP 
+              (DT o)
+              (NP 
+               (NP 
+                (NNS valor)
+                (JJ nominal)
+               )
+               (PP 
+                (IN de)
+                (NP 
+                 (NP 
+                  (CD dez)
+                  (CD mil)
+                 )
+                 (NNS escudos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

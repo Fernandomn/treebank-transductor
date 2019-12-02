@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (PP 
+         (IN além)
+         (IN de_)
+        )
+        (NP 
+         (DT o)
+         (NNS Papa)
+        )
+       )
+      )
+      (VP 
+       (VB tem)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS rosto)
+         (ADJP 
+          (ADVP 
+           (RB tão)
+           (RB facilmente)
+          )
+          (JJ reconhecível)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

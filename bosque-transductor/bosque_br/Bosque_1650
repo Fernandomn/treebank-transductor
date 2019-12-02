@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Amélia)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT o)
+    (NN OK)
+    (ADJP 
+     (JJ inicial)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (CD três)
+      (NN países)
+      (NP 
+       (NP 
+        (NNP Alemanha)
+       )
+       (NP 
+        (NNP França)
+       )
+       e
+       (NP 
+        (NNP EUA)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

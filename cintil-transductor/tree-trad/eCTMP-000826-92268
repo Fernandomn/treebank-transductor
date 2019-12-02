@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Autores)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Estados)
+          (NNS Unidos)
+         )
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Canadá)
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB escrevam)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS espanhol)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB também)
+    )
+    (JJ apreciados)
+   )
+  )
+ )
+)

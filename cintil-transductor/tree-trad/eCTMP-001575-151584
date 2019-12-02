@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NP 
+      (NNS académico)
+      (JJ brasileiro)
+     )
+    )
+    (VP 
+     (VB fez)
+     (NP 
+      (DT as)
+      (NNS contas)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB concluiu)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS língua)
+           (ADJP 
+            (RB mais)
+            (JJ falada)
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NNS mundo)
+           )
+          )
+         )
+        )
+        (VP 
+         (VB é)
+         (NP 
+          (DT aquilo)
+          (NP 
+           (CONJP 
+            (PP 
+             (IN a)
+             (NP 
+              (PRP que)
+             )
+            )
+            (S 
+             (VP 
+              (VP 
+               (VB deu)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS nome)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NNS iberofonia)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

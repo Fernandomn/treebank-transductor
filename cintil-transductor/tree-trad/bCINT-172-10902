@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (RB Mesmo)
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS mulheres)
+        (JJ surdas)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS filhos)
+          (JJ surdos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vocalizam)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS ouvido)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS crianças)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

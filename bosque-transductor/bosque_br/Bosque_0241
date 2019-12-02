@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Também)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ necessário)
+   )
+   (VP 
+    (VP 
+     (VB alertar)
+    )
+    (NP 
+     (DT toda)
+     (DT a)
+     (NN sociedade)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN importância)
+      (PP 
+       (IN de)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VB reduzir)
+        )
+        (NP 
+         (DT as)
+         (NN perdas)
+         (PP 
+          (IN de)
+          (NP 
+           (NN alimentos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

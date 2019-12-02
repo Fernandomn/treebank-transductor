@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ Confiante)
+    (PP 
+     (IN em)
+     (NP 
+      (DT uma)
+      (JJ eventual)
+      (NN vitória)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN candidato)
+        (NP 
+         (NNP Fernando_Henrique_Cardoso)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN cúpula)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PSDB)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP articula)
+   )
+   (NP 
+    (DT a)
+    (NN formação)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN superpartido)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB depender)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP PFL)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN Congresso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

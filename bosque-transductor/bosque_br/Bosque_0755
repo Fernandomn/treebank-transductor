@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+   )
+   (NP 
+    (NN secretário)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Planejamento)
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Privatização_e_Parceria)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN município)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+           (NP 
+            (NN administração)
+            (NP 
+             (NNP Paulo_Maluf)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS gramática)
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB composta)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (RB apenas)
+        (CD 16)
+       )
+       (NP 
+        (NNS regras)
+        (PP 
+         (PP 
+          (IN sem)
+          (NP 
+           (NNS excepções)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

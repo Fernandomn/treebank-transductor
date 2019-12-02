@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NNS livro)
+    )
+    (S 
+     (S 
+      (VP 
+       (VB compra)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB lê)
+        (NP 
+         (PRP -se)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

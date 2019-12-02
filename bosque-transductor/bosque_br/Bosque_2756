@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lula)
+   )
+   (VP 
+    (VBP foi)
+    (VBN incensado)
+   )
+   (ADVP 
+    (RB antes)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN direita)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB ser)
+      (VBN destronado)
+     )
+     (ADVP 
+      (RB depois)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (JJ segundo)
+       (NN turno)
+      )
+     )
+    )
+   )
+  )
+ )
+)

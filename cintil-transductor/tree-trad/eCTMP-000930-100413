@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS conflito)
+   )
+   (VP 
+    (VP 
+     (VB conheceu)
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ nova)
+       (NNS escalada)
+      )
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT as)
+       (NP 
+        (JJ antigas)
+        (NP 
+         (NNS tropas)
+         (JJ soviéticas)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB abandonaram)
+        (NP 
+         (DT a)
+         (NNS região)
+        )
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS início)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Janeiro)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

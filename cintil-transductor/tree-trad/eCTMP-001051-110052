@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Aquilo)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (NP 
+        (PRP eu)
+       )
+       (VP 
+        (VP 
+         (VB digo)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS álbum)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (PRP eu)
+        )
+        (VP 
+         (VB quero)
+         (VP 
+          (RB mesmo)
+          (VP 
+           (VB dizer)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Dados)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NN abuso)
+      (ADJP 
+       (JJ sexual)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN bulímicas)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNP Brasil)
+        )
+        (NP 
+         (NNP Áustria)
+        )
+        e
+        (NP 
+         (NNP Estados_Unidos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN centralizados)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Harrison_Pope)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Escola_de_Medicina)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Harvard)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

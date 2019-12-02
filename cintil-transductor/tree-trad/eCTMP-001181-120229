@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Saímos)
+     (RB exactamente)
+    )
+    (CONJP 
+     (CC porque)
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB tinha)
+       )
+       (VP 
+        (VB compreendido)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS problema)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Angola)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Está)
+     (JJ entornado)
+    )
+    (NP 
+     (DT o)
+     (NNS caldo)
+    )
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Câmara)
+       (NNS de)
+       (NNS Vila)
+       (NNS Real)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS grupo)
+        (NP 
+         (NNS Portugal)
+         (NNS Telecom)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

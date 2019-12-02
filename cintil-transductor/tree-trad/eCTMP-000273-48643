@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT outros)
+     (NNS países)
+    )
+   )
+   (S 
+    (VP 
+     (VB tentou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (VP 
+     (VP 
+      (VB resolver)
+      (NP 
+       (DT o)
+       (NNS problema)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (PRP várias)
+       (NNS maneiras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

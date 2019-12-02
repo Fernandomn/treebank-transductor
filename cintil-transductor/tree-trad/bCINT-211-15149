@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (PRP alguns)
+      (NNS amigos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS segurança)
+    )
+    (VP 
+     (VB transportava)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS saco)
+       (ADJP 
+        (JJ semelhante)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB escondia)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS bomba)
+                (JJ artesanal)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

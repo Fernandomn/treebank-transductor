@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Existe)
+   )
+   (NP 
+    (NN ambiente)
+    (ADJP 
+     (ADJP 
+      (JJ político)
+     )
+     (ADJP 
+      (JJ social)
+     )
+     e
+     (ADJP 
+      (JJ econômico)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VB produzir)
+      )
+      (NP 
+       (NN automóveis)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Brasil)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

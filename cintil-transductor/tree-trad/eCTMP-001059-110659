@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS tempos)
+     (JJ livres)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB começam)
+     )
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS contrário)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (NP 
+                (PRP se)
+               )
+               (VB pensa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS trabalho)
+        (JJ profissional)
+       )
+      )
+      (VB acaba)
+     )
+    )
+   )
+  )
+ )
+)

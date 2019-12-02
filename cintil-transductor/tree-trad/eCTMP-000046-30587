@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Arrigo)
+      (NNS Sacchi)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS seleccionador)
+        (JJ nacional)
+       )
+       (JJ italiano)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS futebol)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB indicou)
+     (RB ontem)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (CD 22)
+      (NP 
+       (NNS jogadores)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB vão)
+          (VP 
+           (VP 
+            (VB representar)
+            (NP 
+             (DT o)
+             (NNS país)
+            )
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS Mundial)
+              (NNS de)
+              (NNS Futebol)
+              (NNS de_)
+              (NNS os)
+              (NNS Estados)
+              (NNS Unidos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

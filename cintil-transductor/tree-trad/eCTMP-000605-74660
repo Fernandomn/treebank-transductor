@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS conflitos)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Santana)
+         (NNS Lopes)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Mário)
+          (NNS Soares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB são)
+    )
+    (NP 
+     (NNS novidade)
+    )
+   )
+  )
+ )
+)

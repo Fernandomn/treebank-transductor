@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VP 
+    (VB cria)
+    (NP 
+     (NNS comissão)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS âmbito)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ nova)
+         (NP 
+          (NNS política)
+          (JJ marítima)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

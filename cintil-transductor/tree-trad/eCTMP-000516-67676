@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (RB Ontem)
+   (S 
+    (PP 
+     (PP 
+      (PP 
+       (IN apesar)
+       (IN de)
+      )
+      (NP 
+       (PRP tudo)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VB sucedeu)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (RB nunca)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS estrutura)
+        (JJ sindical)
+       )
+      )
+      (VP 
+       (VB tentou)
+       (VP 
+        (VB ser)
+        (VP 
+         (VB recebida)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS administração)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS empresa)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

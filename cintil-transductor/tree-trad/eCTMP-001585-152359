@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CC Que)
+    (S 
+     (NP 
+      (DT um)
+      (NNS ministro)
+     )
+     (VP 
+      (VB diga)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (NP 
+           (NNS Borrego)
+          )
+          (VP 
+           (VB disse)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB efectivamente)
+     )
+    )
+    (JJ impensável)
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cavaco)
+     (NNS Silva)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (JJ autêntico)
+      (NP 
+       (NP 
+        (NNS rei)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS graças)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT estes)
+         (NNS dias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

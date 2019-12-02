@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS O)
+      (NNS DAX)
+     )
+    )
+    (VP 
+     (VB ganhou)
+     (NP 
+      (CD 15,12)
+      (NNS pontos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB fechou)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (CD 2187,04)
+         (NNS pontos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

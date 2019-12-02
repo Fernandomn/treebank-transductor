@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (RB Também)
+   (S 
+    (NP 
+     (DT o)
+     (NNS órgão)
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (NP 
+       (NNS objecto)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS celeuma)
+          (PP 
+           (IN entre)
+           (NP 
+            (NP 
+             (DT o)
+             (NNS padre)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (DT os)
+              (NP 
+               (PP seus)
+               (NNS contestatários)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

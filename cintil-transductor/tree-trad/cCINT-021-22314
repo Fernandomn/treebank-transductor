@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mãe)
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP eu)
+      )
+      (VP 
+       (VB teria)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ter)
+         (NP 
+          (NP 
+           (NP 
+            (NNS cuidados)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS higiene)
+             )
+            )
+           )
+           (JJ redobrados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

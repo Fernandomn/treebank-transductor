@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De)
+    (NP 
+     (PRP algum)
+     (NNS modo)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS questão)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (JJ nova)
+    )
+   )
+  )
+ )
+)

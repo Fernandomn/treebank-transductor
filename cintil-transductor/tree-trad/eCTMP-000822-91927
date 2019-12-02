@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Octeto)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS David)
+         (NNS Murray)
+        )
+       )
+      )
+     )
+    )
+   )
+   (RB hoje)
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Teatro)
+       (NNS São)
+       (NNS Luiz)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Lisboa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS cheiro)
+     (PP 
+      (IN a)
+      (NP 
+       (NNS naftalina)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB invadiu)
+    (NP 
+     (DT o)
+     (NP 
+      (JJ longo)
+      (NNS corredor)
+     )
+    )
+   )
+  )
+ )
+)

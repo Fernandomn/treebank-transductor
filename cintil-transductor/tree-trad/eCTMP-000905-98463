@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS determinação)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Popov)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADJP 
+      (ADVP 
+       (RB tão)
+       (RB mais)
+      )
+      (JJ importante)
+     )
+    )
+    (CONJP 
+     (CC porque)
+     (S 
+      (VP 
+       (VB está)
+       (ADJP 
+        (RB quase)
+        (JJ sozinho)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

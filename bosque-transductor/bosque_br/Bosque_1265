@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN colégio)
+   )
+   (VP 
+    (VBP foi)
+    (VBN multado)
+   )
+   (NP 
+    (NN semana)
+    (VBN passada)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD 2)
+     (NN milhões)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Ufir)
+       (NP 
+        (RB quase)
+        (NN R$)
+        (NP 
+         (CD 1)
+         (NN milhão)
+        )
+        (NP 
+         (NN valor)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP corresponde)
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (NP 
+             (DT o)
+             (NNP II)
+             (NP 
+              (NNP Imposto_de_Importação)
+             )
+            )
+           )
+           (CC e)
+           (NP 
+            (NNP IPI)
+            (NP 
+             (NNP Imposto_sobre_Produtos_Industrializados)
+            )
+            (VP 
+             (VP 
+              (VBN sonegados)
+             )
+             (PP 
+              (IN por_meio_de+)
+              (NP 
+               (DT a)
+               (NN fraude)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

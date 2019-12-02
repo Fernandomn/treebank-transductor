@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT As)
+       (NNS pessoas)
+      )
+      (VP 
+       (VB estão)
+       (ADJP 
+        (RB muito)
+        (JJ frustradas)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT a)
+       (NNS culpa)
+      )
+      (VP 
+       (VP 
+        (VB é)
+        (RB sobretudo)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS sistema)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

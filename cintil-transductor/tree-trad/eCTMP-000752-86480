@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Nacional)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS xadrez)
+     )
+    )
+   )
+  )
+  (S 
+   (VP 
+    (VP 
+     (VB começou)
+     (RB ontem)
+    )
+   )
+  )
+ )
+)

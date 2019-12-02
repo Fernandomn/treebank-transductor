@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (DT O)
+      (NN contrato)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP expirou)
+     )
+     (NP 
+      (NN ano)
+      (VBN passado)
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB só)
+     )
+     (VP 
+      (VBP foi)
+      (VBN renovado)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN fevereiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Itamar)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN assédio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN imprensa)
+      )
+     )
+    )
+    (VP 
+     (VBP continua)
+     (VBG atrapalhando)
+    )
+    (ADVP 
+     (RB muito)
+    )
+    (NP 
+     (DT seu)
+     (NN namoro)
+     (PP 
+      (IN com)
+      (NP 
+       (NNP June)
+      )
+     )
+    )
+   )
+  )
+ )
+)

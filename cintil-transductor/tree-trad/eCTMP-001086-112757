@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Analistas)
+   )
+   (VP 
+    (VB afirmam)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS clima)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS paz)
+          )
+         )
+        )
+        (PP 
+         (IN entre)
+         (NP 
+          (NP 
+           (NNS chineses)
+           (NP 
+            (CC e)
+            (NNS ingleses)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB está)
+       (PP 
+        (IN a)
+        (VP 
+         (VB beneficiar)
+         (NP 
+          (DT a)
+          (NNS bolsa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

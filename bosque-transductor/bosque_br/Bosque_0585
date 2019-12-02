@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Fizemos)
+     )
+     (NP 
+      (DT um)
+      (NN projeto)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP comecei)
+      (IN a)
+      (VB elaborar)
+     )
+     (NP 
+      (DT a)
+      (NN estrutura)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN livro)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Andréa)
+   )
+  )
+ )
+)

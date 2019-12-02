@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT O)
+      (NP 
+       (NNS ministro)
+       (NNS de_)
+       (NNS as)
+       (NNS Obras)
+       (NNS Públicas)
+       (NNS Ferreira)
+       (NNS de_)
+       (NNS o)
+       (NNS Amaral)
+      )
+     )
+    )
+    (VP 
+     (VB apostou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS política)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS facto)
+           (JJ consumado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB ganhou)
+    )
+   )
+  )
+ )
+)

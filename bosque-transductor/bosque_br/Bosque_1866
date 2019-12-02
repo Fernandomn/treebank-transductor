@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (JJ Jovens)
+    (NN estudantes)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Belo_Horizonte)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN anos)
+        (ADJP 
+         (CD 20)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (JJ futuro)
+     (NN médico)
+     (NP 
+      (NNP Juscelino_Kubitschek)
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (JJ futuro)
+     (NN advogado)
+     (NP 
+      (NNP José_Maria_Alkimin)
+     )
+    )
+   )
+   (VP 
+    (VBP costumavam)
+    (VB sair)
+   )
+   (ADVP 
+    (RB juntos)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN busca)
+     (PP 
+      (IN de)
+      (NP 
+       (NN moças)
+       (ADJP 
+        (JJ namoradeiras)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

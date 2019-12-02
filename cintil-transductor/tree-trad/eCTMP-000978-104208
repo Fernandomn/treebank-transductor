@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS política)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS estabilidade)
+        (JJ cambial)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB estava)
+     (JJ assumida)
+    )
+   )
+  )
+ )
+)

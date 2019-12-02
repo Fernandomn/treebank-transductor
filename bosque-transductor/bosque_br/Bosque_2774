@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (JJ primeiros)
+    (NN descontos)
+   )
+   (VP 
+    (VBP aconteceriam)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN folha)
+     (PP 
+      (IN de)
+      (NP 
+       (NN pagamento)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT este)
+       (NN mês)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VBP encerra)
+        )
+        (NP 
+         (NN dia)
+         (ADJP 
+          (CD 15)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (NP 
+   (NNP Tavares)
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP usamos)
+   )
+   (NP 
+    (DT nenhum)
+    (NN modelo)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VBP temos)
+    )
+    (NP 
+     (DT uma)
+     (NN caracterísitica)
+     (NP 
+      (DT muito)
+      (DT nossa)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP é)
+       )
+       (NP 
+        (DT o)
+        (NN tamanho)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Brasil)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

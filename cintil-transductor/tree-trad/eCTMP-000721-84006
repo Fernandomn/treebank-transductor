@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS arte)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fim)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

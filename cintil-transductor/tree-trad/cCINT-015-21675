@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essa)
+    (NNS palavra)
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (RB mais)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NNS peluches)
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS coisas)
+           (RB assim)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NNS miúdos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

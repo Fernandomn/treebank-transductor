@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NNS dinheiro)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS vítima)
+    )
+    (VP 
+     (VB ficou)
+     (PP 
+      (IN sem)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS jóias)
+        (CONJP 
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB usava)
+            )
+           )
+          )
+         )
+         (ADJP 
+          (VB avaliadas)
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (ADVP 
+              (RB mais)
+              (RB de)
+             )
+             (CD 350)
+            )
+            (NNS contos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

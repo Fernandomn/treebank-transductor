@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS princípio)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NNS sida)
+     )
+     (VP 
+      (VB era)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS doença)
+        (JJ mediática)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS projectos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS apoio)
+           (ADJP 
+            (JJ residencial)
+            (ADJP 
+             (CC e)
+             (JJ domiciliário)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB multiplicavam)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP explica)
+    )
+    (VP 
+     (ADVP 
+      (RB como)
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP garante)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP vai)
+      (VB perder)
+     )
+     (NP 
+      (DT a)
+      (JJ próxima)
+      (NN eleição)
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Itabaiana)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

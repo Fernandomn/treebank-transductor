@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS estatutos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS CCP)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB não)
+    (VP 
+     (NP 
+      (PRP o)
+     )
+     (VB permitem)
+    )
+   )
+  )
+ )
+)

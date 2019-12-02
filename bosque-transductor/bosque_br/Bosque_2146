@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB explicar)
+     )
+     (NP 
+      (DT as)
+      (NN compras)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN sigilo)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN argumento)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB justamente)
+   )
+   (NP 
+    (DT a)
+    (NN necessidade)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB evitar)
+      )
+      (NP 
+       (DT o)
+       (NN encarecimento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN papéis)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

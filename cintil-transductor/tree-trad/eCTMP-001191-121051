@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NP 
+       (CD primeiros)
+      )
+     )
+     (VP 
+      (VB fizeram)
+      (NP 
+       (NP 
+        (NNS concessões)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS gosto)
+           (JJ juvenil)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB mantiveram)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS ironia)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT uma)
+         (NP 
+          (JJ certa)
+          (NNS distância)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eles)
+    )
+    (VP 
+     (VB têm)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS educação)
+       (ADJP 
+        (ADJP 
+         (JJ desportiva)
+        )
+        (ADJP 
+         (CC mas)
+         (ADJP 
+          (RB também)
+          (JJ intelectual)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

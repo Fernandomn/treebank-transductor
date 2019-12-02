@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS 1910)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (JJ novas)
+      (NP 
+       (JJ grandes)
+       (NNS transformações)
+      )
+     )
+    )
+    (VP 
+     (VB ocorreram)
+     (PP 
+      (PP 
+       (IN sob)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS direcção)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (JJ enorme)
+             (NNS vulto)
+            )
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB foi)
+               (NP 
+                (NP 
+                 (NNS José)
+                 (NNS de)
+                 (NNS Figueiredo)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (NNS alunos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB estão)
+        (PP 
+         (RB verdadeiramente)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS estado)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NP 
+                (NP 
+                 (NNS solidão)
+                 (JJ intelectual)
+                )
+                (JJ grave)
+               )
+               (ADJP 
+                (JJ dura)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

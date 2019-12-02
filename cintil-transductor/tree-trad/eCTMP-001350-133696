@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Curiosamente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS coro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS empresários)
+        )
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NNS favor)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS desvalorização)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB tem)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS voz)
+       (JJ dissonante)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT um)
+     (NN Mundial)
+    )
+   )
+   (NP 
+    (DT esta)
+    (NN palavra)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT um)
+    (NN significado)
+    (ADJP 
+     (JJ determinante)
+    )
+   )
+  )
+ )
+)

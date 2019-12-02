@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ladrão)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP verificou)
+     )
+     (VP 
+      (NP 
+       (DT qual)
+      )
+      (VP 
+       (VBP era)
+      )
+      (NP 
+       (DT o)
+       (NN saldo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN conta)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Maria_Estela)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB em_seguida)
+     )
+     (VP 
+      (VBP retirou)
+     )
+     (NP 
+      (NN R$)
+      (ADJP 
+       (CD 225)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN caixa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

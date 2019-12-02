@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS crescimento)
+      (JJ económico)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD últimos)
+        (NP 
+         (CD 30)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VB gerou)
+      (NP 
+       (NP 
+        (NNS aumento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS bem-estar)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (PRP quem)
+       )
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB tem)
+         )
+         (NP 
+          (NP 
+           (NNS falta)
+           (PP 
+            (IN de_)
+            (NP 
+             (PRP ele)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

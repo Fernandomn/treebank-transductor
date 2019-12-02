@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (NP 
+       (DT as)
+       (NNS coisas)
+      )
+      (VB acalmarem)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP nós)
+    )
+    (VP 
+     (VB entramos)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS contacto)
+        (PP 
+         (IN com_)
+         (NP 
+          (PRP vós)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

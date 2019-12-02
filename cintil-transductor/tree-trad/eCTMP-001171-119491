@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (JJ holandês)
+     )
+     (NP 
+      (NNS Jo)
+      (NNS Bonfrère)
+     )
+    )
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ próximo)
+       (NP 
+        (NNS seleccionador)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Nigéria)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

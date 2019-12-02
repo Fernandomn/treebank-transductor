@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Newman)
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB interrompido)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS Joanne)
+         (NNS Woodward)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS Clea)
+         )
+         (NP 
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS filha)
+             (ADJP 
+              (RB mais)
+              (JJ nova)
+             )
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS casal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

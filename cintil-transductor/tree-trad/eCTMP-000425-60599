@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estas)
+    (NNS eleições)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB também)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS batalha)
+       (JJ pessoal)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS primeiro-ministro)
+         (NNS Paul)
+         (NNS Keating)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

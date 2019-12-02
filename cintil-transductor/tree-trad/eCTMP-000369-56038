@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Entretanto)
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (NP 
+      (NNS teses)
+      (PP 
+       (IN para)
+       (NP 
+        (PRP todos)
+        (NP 
+         (DT os)
+         (NNS gostos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

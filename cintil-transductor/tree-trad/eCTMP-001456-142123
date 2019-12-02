@@ -1,0 +1,99 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS programa)
+   )
+   (VP 
+    (VP 
+     (VB controla)
+     (NP 
+      (NP 
+       (DT a)
+       (NNS velocidade)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS tempo)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS acesso)
+            (PP 
+             (PP 
+              (IN a_)
+              (NP 
+               (DT o)
+               (NNS ISP)
+              )
+             )
+             (PP 
+              (CC e)
+              (PP 
+               (IN a_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS servidor)
+                 (JJ remoto)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB detectando)
+        (RB instantaneamente)
+       )
+       (NP 
+        (PRP quaisquer)
+        (NP 
+         (NP 
+          (NNS quebras)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS velocidade)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS transferência)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS dados)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

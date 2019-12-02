@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (CD Dois)
+      (NNS escritores)
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NNS actor)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS série)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS televisão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS director)
+   )
+   (VP 
+    (VP 
+     (VB decidiu)
+     (RB então)
+    )
+    (VP 
+     (VB pedir)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS inquérito)
+       (ADJP 
+        (RB agora)
+        (VB realizado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN equipe)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN ministro)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Fazenda)
+       )
+      )
+      (NP 
+       (NNP Rubens_Ricupero)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP avalia)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN processo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN crescimento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN volume)
+         (PP 
+          (IN de)
+          (NP 
+           (NN dinheiro)
+           (PP 
+            (IN em)
+            (NP 
+             (NN circulação)
+             (ADJP 
+              (JJ decorrente)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NN queda)
+                (PP 
+                 (IN de+)
+                 (NP 
+                  (DT a)
+                  (NN inflação)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP está)
+    )
+    (ADVP 
+     (RB praticamente)
+    )
+    (VBN encerrado)
+   )
+  )
+ )
+)

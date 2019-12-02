@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS pai)
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VB estar)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS máquinas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

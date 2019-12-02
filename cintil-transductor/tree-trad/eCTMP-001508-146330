@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (RB Já)
+   (S 
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NP 
+       (ADJP 
+        (VB eleitos)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT o)
+          (NNS PSD)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB prestaram)
+      (NP 
+       (NNS depoimento)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS tribunal)
+        (JJ tirsense)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Vozes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT estas)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB curam)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS doenças)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS alma)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB lavam)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS angústias)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS corpo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

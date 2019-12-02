@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Acabou)
+    (PP 
+     (IN por)
+     (VP 
+      (VP 
+       (VB sair)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS liberdade)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN mediante)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS caução)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 75)
+            (NNS contos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

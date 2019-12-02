@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN quadro)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NN inseguranças)
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN incertezas)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBP dura)
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (CD duas)
+       (NN décadas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP contribui)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB transformar)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NN integrismo)
+      )
+      (NP 
+       (DT o)
+       (NN racismo)
+      )
+      (NP 
+       (DT a)
+       (NN intolerância)
+       (ADJP 
+        (JJ política)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT um)
+       (JJ formidável)
+       (NN desafio)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN sistema)
+         (ADJP 
+          (JJ democrático)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT este)
+       (DT nosso)
+       (NN fim)
+       (PP 
+        (IN de)
+        (NP 
+         (NN século)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

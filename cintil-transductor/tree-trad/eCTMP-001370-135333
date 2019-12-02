@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Assiste)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NP 
+         (NNS ataque)
+         (JJ violento)
+        )
+        (PP 
+         (IN contra)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS criadores)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS cultura)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN por)
+         (NP 
+          (NP 
+           (NNS via)
+           (JJ económica)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

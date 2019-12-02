@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Cruzeiro)
+   )
+   (VP 
+    (VBP deve)
+    (VB começar)
+   )
+   (NP 
+    (DT a)
+    (NN partida)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNP Michelli)
+     )
+     (NP 
+      (NNP Magno)
+     )
+     (NP 
+      (NNP Derlan)
+     )
+     (NP 
+      (NNP Marcus_Vinícius)
+     )
+     e
+     (NP 
+      (NNP Anderson)
+     )
+     (NP 
+      (NNP Emiliano)
+     )
+     (NP 
+      (NNP Juliano)
+     )
+     e
+     (NP 
+      (NNP Anderson_Leão)
+     )
+     (NP 
+      (NNP Ricardinho)
+     )
+     (NP 
+      (NNP Nílson)
+     )
+     e
+     (NP 
+      (NNP Herbert)
+     )
+    )
+   )
+  )
+ )
+)

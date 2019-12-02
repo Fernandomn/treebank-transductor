@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Para)
+      (RB já)
+     )
+    )
+    (VP 
+     (VB foram)
+     (VB publicados)
+    )
+   )
+   (NP 
+    (CD 13)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 22)
+        (NP 
+         (NNS volumes)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS Nova)
+             (NNS Enciclopédia)
+             (NNS Larrouse)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

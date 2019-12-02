@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Caso)
+    (NP 
+     (DT o)
+     (NN tetracampeão)
+    )
+    (VP 
+     (VBP seja)
+    )
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP seja)
+     (VBN feita)
+    )
+    (NP 
+     (DT a)
+     (DT vossa)
+     (NN vontade)
+    )
+    (UCP 
+     (ADVP 
+      (RB assim)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN Terra)
+      )
+     )
+     (ADVP 
+      (RB como)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN gramados)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP confirma-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN últimos)
+     )
+     (VP 
+      (VBP serão)
+     )
+     (NP 
+      (DT os)
+      (NN primeiros)
+     )
+    )
+   )
+  )
+ )
+)

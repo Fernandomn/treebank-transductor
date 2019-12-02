@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (PP meu)
+      (NNS pai)
+     )
+    )
+    (VP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NNS vezes)
+      )
+     )
+     (VP 
+      (VB ficava)
+      (JJ furioso)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB gostava)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT isso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

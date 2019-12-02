@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Trata-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN candidato)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VP 
+         (VP 
+          (VBP estreou)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NN comício)
+          )
+         )
+         (PP 
+          (IN sob)
+          (NP 
+           (NN vaias)
+          )
+         )
+        )
+        e
+        (VP 
+         (VP 
+          (VBP quer)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT a)
+           (NN via)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN preconceito)
+            )
+           )
+          )
+         )
+         (VP 
+          (VP 
+           (VB enfraquecer)
+          )
+          (VP 
+           (NP 
+            (PRP quem)
+           )
+           (VP 
+            (VBP lidera)
+           )
+           (NP 
+            (DT as)
+            (NN pesquisas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Falcão)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (NNP FHC)
+    )
+   )
+  )
+ )
+)

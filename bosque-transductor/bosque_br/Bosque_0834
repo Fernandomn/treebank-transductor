@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN objetivo)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB informar)
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN importância)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN amamentação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

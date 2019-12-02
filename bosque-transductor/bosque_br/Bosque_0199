@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Ilmar_Galvão)
+    )
+    e
+    (NP 
+     (NNP Moreira_Alves)
+    )
+   )
+   (VP 
+    (VBP votaram)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN concessão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mandato)
+       (PP 
+        (IN de)
+        (NP 
+         (NN segurança)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

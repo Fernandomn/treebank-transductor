@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Participa)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN reunião)
+     (ADJP 
+      (JJ partidária)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Maravilha)
+     (NP 
+      (NNP Santa_Catarina)
+     )
+    )
+   )
+  )
+ )
+)

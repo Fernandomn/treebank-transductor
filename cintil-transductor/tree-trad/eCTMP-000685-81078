@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Gaspar)
+      (NNS Ramos)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS vice-presidente)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS futebol)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (RB pouco)
+     (JJ optimista)
+    )
+   )
+  )
+ )
+)

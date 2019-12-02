@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (CD dois)
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NP 
+       (NNS nomes)
+       (JJ maiores)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS música)
+         (JJ portuguesa)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB hoje)
+        (VP 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB apresentam)
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (JJ vivo)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS Expo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

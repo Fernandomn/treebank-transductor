@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (S 
+        (VP 
+         (RB Ainda)
+         (VP 
+          (VP 
+           (VB vou)
+           (VB pensar)
+          )
+          (PP 
+           (PP 
+            (IN até)
+            (IN a_)
+           )
+           (NP 
+            (DT a)
+            (NP 
+             (NNS hora)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS jogo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (NP 
+         (DT a)
+         (NNS equipa)
+        )
+        (VP 
+         (VP 
+          (RB não)
+          (VB sofrerá)
+         )
+         (NP 
+          (PRP muitas)
+          (NNS alterações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS treinador)
+      (NNS Filipovic)
+     )
+    )
+   )
+  )
+ )
+)

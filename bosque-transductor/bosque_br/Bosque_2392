@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN empresas)
+    (NP 
+     (NP 
+      (NNP Tejofran)
+     )
+     e
+     (NP 
+      (NNP Power)
+     )
+    )
+   )
+   (VP 
+    (VBP informaram)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN nota)
+     (VP 
+      (VP 
+       (VBN enviada)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NNP TRE)
+       )
+       (NP 
+        (NNP Tribunal_Regional_Eleitoral)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP prestam)
+    )
+    (NP 
+     (NN serviços)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT os)
+      (NN comitês)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNP PSDB)
+         )
+         e
+         (NP 
+          (NNP PMDB)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

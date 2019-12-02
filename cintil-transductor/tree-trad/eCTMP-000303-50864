@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ano)
+       (JJ passado)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS documento)
+    )
+    (VP 
+     (VB dizia)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT o)
+        (NNS START)
+       )
+       (VP 
+        (VP 
+         (VB deve)
+         (VP 
+          (VB entrar)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS vigor)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

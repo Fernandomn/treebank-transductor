@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS cães)
+     (NP 
+      (CC e)
+      (NNS gatos)
+     )
+    )
+   )
+   (VP 
+    (VB têm)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS garantia)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (CD seis)
+        (NNS meses)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS estrado)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Perot)
+    )
+    (VP 
+     (VB estava)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NNS melhor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

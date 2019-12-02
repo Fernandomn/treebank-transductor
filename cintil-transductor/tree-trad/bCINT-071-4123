@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Privatização)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS Cimpor)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (CD próxima)
+      (NNS segunda-feira)
+     )
+    )
+   )
+  )
+ )
+)

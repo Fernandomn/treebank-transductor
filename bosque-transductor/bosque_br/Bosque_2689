@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Serra)
+   )
+   (S 
+    (VP 
+     (VP 
+      (VBP Seria)
+     )
+    )
+    (CC e)
+    (VP 
+     (NP 
+      (PRP o)
+     )
+     (VP 
+      (VBP foi)
+      (VBN apresentado)
+     )
+     (ADVP 
+      (RB assim)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT uma)
+       (NN reunião)
+       (VP 
+        (PP 
+         (IN de+)
+         (NP 
+          (PRP a_qual)
+         )
+        )
+        (VP 
+         (VBP participei)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS conclusão)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB poderia)
+    )
+    (VP 
+     (VB ser)
+     (ADJP 
+      (RB menos)
+      (JJ brutal)
+     )
+    )
+   )
+  )
+ )
+)

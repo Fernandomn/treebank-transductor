@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ mesma)
+     (NNS explicação)
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB avançada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Francesco)
+         (NNS de)
+         (NNS Domenico)
+        )
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS canal)
+            (JJ italiano)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

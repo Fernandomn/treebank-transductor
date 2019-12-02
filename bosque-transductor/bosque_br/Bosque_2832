@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN atentado)
+   )
+   (VP 
+    (VBP teria)
+    (VBN sido)
+    (VBN planejado)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN grupo)
+     (ADJP 
+      (JJ radical)
+     )
+     (ADJP 
+      (JJ islâmico)
+     )
+     (NP 
+      (NNP Gama'a_al-Islamiya)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP lançou)
+      )
+      (NP 
+       (NN campanha)
+       (PP 
+        (IN contra)
+        (NP 
+         (DT o)
+         (NN governo)
+         (ADJP 
+          (JJ egípcio)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (ADJP 
+        (CD 1992)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NN criação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NN Estado)
+          (ADJP 
+           (JJ Islâmico)
+          )
+          (ADJP 
+           (JJ fundamentalista)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

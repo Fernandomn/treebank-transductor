@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Orquestra)
+     (NNS de_)
+     (NNS o)
+     (NNS Porto)
+     (NNS de_)
+     (NNS a)
+     (NNS Régie)
+     (NNS Sinfonia)
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB criada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Teresa)
+        (NNS Gouveia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

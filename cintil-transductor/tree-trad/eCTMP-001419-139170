@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Arons)
+    (NNS de)
+    (NNS Carvalho)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Maratona)
+      (NNS de)
+      (NNS Londres)
+     )
+    )
+   )
+  )
+ )
+)

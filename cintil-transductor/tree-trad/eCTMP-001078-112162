@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (DT uns)
+    (NP 
+     (NNS espertinhos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB tentam)
+        (VP 
+         (VB ludibriar)
+         (NP 
+          (DT o)
+          (NNS carro-vassoura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

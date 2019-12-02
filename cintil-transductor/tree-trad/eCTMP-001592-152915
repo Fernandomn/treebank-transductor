@@ -1,0 +1,93 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS Wet)
+     (NNS Wet)
+     (NNS Wet)
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT os)
+     (NP 
+      (JJ principais)
+      (NP 
+       (NNS herdeiros)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS pop)
+           (JJ adolescente)
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (NP 
+             (DT a)
+             (NNS Inglaterra)
+            )
+            (VP 
+             (VP 
+              (VP 
+               (VB vendeu)
+              )
+              (PP 
+               (IN a_)
+               (NP 
+                (DT as)
+                (NP 
+                 (NNS raparigas)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT o)
+                   (NP 
+                    (NNS mundo)
+                    (JJ inteiro)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+             (PP 
+              (PP 
+               (IN a_)
+               (IN o)
+               (IN longo)
+               (IN de_)
+              )
+              (NP 
+               (DT as)
+               (NP 
+                (CD últimas)
+                (NP 
+                 (CD três)
+                 (NNS décadas)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

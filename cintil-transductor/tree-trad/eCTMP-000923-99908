@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Palácio)
+    (NNS de)
+    (NNS Cristal)
+   )
+  )
+  (VP 
+   (VB renasce)
+   (PP 
+    (IN de_)
+    (NP 
+     (DT as)
+     (NNS cinzas)
+    )
+   )
+  )
+ )
+)

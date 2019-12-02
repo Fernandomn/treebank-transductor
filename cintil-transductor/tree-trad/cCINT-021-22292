@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VB calhar)
+      )
+     )
+     (VP 
+      (VB comeu)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS data)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS porcarias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB estava)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS diarreia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Banco)
+     (NNS de)
+     (NNS Portugal)
+    )
+   )
+   (VP 
+    (VP 
+     (VB reagiu)
+     (RB também)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS declarações)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ministro)
+          (JJ holandês)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

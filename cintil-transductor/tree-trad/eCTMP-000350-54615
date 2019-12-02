@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aí)
+   )
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (DT o)
+       (NNS director-tesoureiro)
+      )
+      (NP 
+       (NP 
+        (NNS José)
+        (NNS Alberto)
+        (NNS Pinto)
+       )
+      )
+     )
+     (VP 
+      (VB apresentou)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS demissão)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (VB justifica)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS irregularidades)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NP 
+              (NNS gestão)
+              (JJ directiva)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS Moreira)
+                (NNS Alves)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

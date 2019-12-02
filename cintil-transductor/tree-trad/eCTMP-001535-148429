@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VP 
+       (VB Estamos)
+       (RB muito)
+      )
+      (JJ escaldados)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT esta)
+       (NP 
+        (NNS história)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS subsídios)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Estado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

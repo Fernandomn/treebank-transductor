@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (NN contatos)
+     (ADJP 
+      (JJ telefônicos)
+     )
+    )
+   )
+   (VP 
+    (VBP ligue)
+   )
+   (ADJP 
+    (CD 011)
+    (CD 224-3896)
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (NN 14h)
+      )
+      e
+      (NP 
+       (NN 18h)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (PP 
+     (IN de)
+     (NP 
+      (NN segunda)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN sexta-feira)
+    )
+   )
+  )
+ )
+)

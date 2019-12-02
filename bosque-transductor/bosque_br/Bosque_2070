@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Senti)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (PRP eu)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP conhecia)
+    )
+    (NP 
+     (DT o)
+     (NNP Brasil)
+    )
+    (ADVP 
+     (RB antes)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ter)
+        (VBN vindo)
+       )
+       (ADVP 
+        (RB aqui)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

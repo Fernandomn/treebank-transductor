@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS redução)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS tributação)
+        (PP 
+         (IN sobre)
+         (NP 
+          (NNS rendimentos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NNS CGTP)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS componente)
+        (JJ fundamental)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NP 
+           (NNS reforma)
+           (JJ fiscal)
+          )
+          (JJ inadiável)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

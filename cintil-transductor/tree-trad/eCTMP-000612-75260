@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Centro)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS saúde)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB está)
+   (PP 
+    (IN sem)
+    (NP 
+     (NNS director)
+    )
+   )
+  )
+ )
+)

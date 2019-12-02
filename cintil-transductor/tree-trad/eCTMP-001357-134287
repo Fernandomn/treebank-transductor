@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lefebvrianos)
+   )
+   (VP 
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB exigir)
+       (ADVP 
+        (RB silenciosamente)
+       )
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS regresso)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS tradição)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

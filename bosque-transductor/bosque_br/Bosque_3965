@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN cestinha)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN jogo)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (NNP Hortência)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP marcou)
+     )
+     (NP 
+      (CD 38)
+      (NN pontos)
+     )
+    )
+   )
+  )
+ )
+)

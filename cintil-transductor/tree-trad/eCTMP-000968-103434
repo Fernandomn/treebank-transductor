@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS questões)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NNS secção)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB solicitam)
+    (NP 
+     (DT o)
+     (NP 
+      (PP seu)
+      (NP 
+       (NNS posicionamento)
+       (PP 
+        (IN perante)
+        (NP 
+         (NP 
+          (NNS problemáticas)
+          (JJ actuais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

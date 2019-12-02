@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Às_vezes)
+     )
+     (VP 
+      (VBP peco)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN falta)
+       (PP 
+        (IN de)
+        (NP 
+         (NN experiência)
+        )
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (NP 
+      (PRP me)
+     )
+     (VP 
+      (VBP considero)
+     )
+     (NP 
+      (DT um)
+      (NN piloto)
+      (ADJP 
+       (JJ rápido)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT o)
+    (NN brasileiro)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN entrevista)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN Folha)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN telefone)
+    )
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NNP Itália)
+    )
+   )
+  )
+ )
+)

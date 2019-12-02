@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS história)
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB mais)
+       (RB de)
+      )
+      (CD dois)
+     )
+     (NNS anos)
+    )
+   )
+  )
+ )
+)

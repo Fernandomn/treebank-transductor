@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT essa)
+       (NNS altura)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB mudaria)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NNS movimento)
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNS Europa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

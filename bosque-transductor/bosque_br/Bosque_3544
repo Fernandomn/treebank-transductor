@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Vivemos)
+    )
+    (ADVP 
+     (RB ainda)
+    )
+    (NP 
+     (NN dias)
+     (ADJP 
+      (JJ difíceis)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT um)
+      (NN contexto)
+      (ADJP 
+       (ADJP 
+        (JJ econômico)
+       )
+       (ADJP 
+        (JJ social)
+       )
+       e
+       (ADJP 
+        (JJ político)
+       )
+      )
+      (PP 
+       (IN em)
+       (VP 
+        (PRP que)
+        (NP 
+         (DT as)
+         (NN necessidades)
+         (ADJP 
+          (JJ básicas)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (DT nossas)
+           (NN forças)
+          )
+         )
+        )
+        (VP 
+         (VBP têm)
+         (VBN sofrido)
+        )
+        (ADVP 
+         (RB severamente)
+        )
+        (NP 
+         (DT as)
+         (NN agruras)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (NP 
+           (DT toda)
+           (NN nação)
+          )
+          (VP 
+           (VBP atravessa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN saudação)
+     (VP 
+      (VP 
+       (VBN enviada)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN Exército)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

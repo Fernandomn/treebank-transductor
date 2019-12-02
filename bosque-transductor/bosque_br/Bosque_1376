@@ -1,0 +1,109 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP TJM)
+    (NP 
+     (NNP Tribunal_de_Justiça_Militar)
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB começar)
+    (IN a)
+    (VB ouvir)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT este)
+     (NN mês)
+    )
+   )
+   (NP 
+    (DT as)
+    (NN testemunhas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN acusação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN processo)
+        (PP 
+         (IN contra)
+         (NP 
+          (DT os)
+          (CD 120)
+          (NN Policiais)
+          (ADJP 
+           (JJ Militares)
+          )
+          (VP 
+           (VP 
+            (VBN denunciados)
+           )
+           (PP 
+            (IN por+)
+            (NP 
+             (DT o)
+             (NN massacre)
+             (PP 
+              (IN de)
+              (NP 
+               (CD 111)
+               (NN presos)
+              )
+             )
+            )
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NN pavilhão)
+             (ADJP 
+              (CD 9)
+             )
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NNP Casa_de_Detenção)
+              )
+             )
+            )
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NNP Carandiru)
+             (NP 
+              (NN zona)
+              (ADJP 
+               (JJ norte)
+              )
+              (PP 
+               (IN de)
+               (NP 
+                (NNP São_Paulo)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

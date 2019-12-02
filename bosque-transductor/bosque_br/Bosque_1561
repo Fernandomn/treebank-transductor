@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Epson)
+   )
+   (VP 
+    (VBP mostra)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Comdex)
+    )
+   )
+   (NP 
+    (CD quatro)
+    (NN modelos)
+    (PP 
+     (IN com)
+     (NP 
+      (NN tecnologia)
+      (NP 
+       (NN jato)
+      )
+      (PP 
+       (IN de)
+       (VBN tinta)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP deverão)
+        (VB substituir)
+       )
+       (NP 
+        (DT os)
+        (NN modelos)
+        (ADJP 
+         (JJ matriciais)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN dia-a-dia)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (NN usuários)
+            )
+            e
+            (NP 
+             (NN empresas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

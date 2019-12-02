@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Petróleo)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS alta)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS Estados)
+      (NNS Unidos)
+     )
+    )
+   )
+  )
+ )
+)

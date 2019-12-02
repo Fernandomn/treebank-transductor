@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS José)
+     (NNS Junqueiro)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS membro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Comissão)
+        (NNS Permante)
+        (NNS de_)
+        (NNS o)
+        (NNS PS)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

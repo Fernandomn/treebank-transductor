@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Beckenbauer)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT o)
+    (NN direito)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB dizer)
+      )
+      (VP 
+       (NP 
+        (PRP o_que)
+       )
+       (VP 
+        (VBP quiser)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

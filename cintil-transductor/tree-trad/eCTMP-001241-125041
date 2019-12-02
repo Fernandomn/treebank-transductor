@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Esses)
+     (NNS livros)
+    )
+    (VP 
+     (VB podem)
+     (VP 
+      (VB jogar)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT esse)
+        (NNS apelo)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ mesmo)
+          (NNS tempo)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB são)
+       (NP 
+        (NP 
+         (NNS livros)
+         (ADJP 
+          (ADVP 
+           (RB extremamente)
+           (RB bem)
+          )
+          (VB feitos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

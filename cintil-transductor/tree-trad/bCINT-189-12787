@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS PSD)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS hora)
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS silêncio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

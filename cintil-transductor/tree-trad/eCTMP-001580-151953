@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS noite)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 4)
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Dezembro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Ahmad)
+      (NNS Alkatiri)
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VB morto)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS facada)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS porta)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS casa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

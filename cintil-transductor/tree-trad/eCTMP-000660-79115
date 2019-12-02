@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Oulipo)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB negligencia)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (JJ boa)
+       (NNS comida)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (JJ boa)
+         (NNS bebida)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ bom)
+          (NNS riso)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

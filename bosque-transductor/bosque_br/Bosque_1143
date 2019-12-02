@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NP 
+      (NN Proximidade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN vencimento)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (NN opções)
+         )
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (NN reunião)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP CMN)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP movimentam)
+    )
+    (NP 
+     (DT o)
+     (NN mercado)
+     (ADJP 
+      (JJ acionário)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (NN dólar)
+    )
+    (VP 
+     (VBP cai)
+    )
+   )
+  )
+ )
+)

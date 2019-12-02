@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Poderá)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Sihanouk)
+      (NNS e)
+      (NNS Hun)
+      (NNS Sen)
+     )
+    )
+   )
+   (VP 
+    (VB derrubar)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS Khmer)
+       (NNS Rouge)
+      )
+      (ADJP 
+       (RB ainda)
+       (ADJP 
+        (VB apoiado)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS China)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

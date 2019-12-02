@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todo)
+    (NP 
+     (DT esse)
+     (NP 
+      (CD segundo)
+      (NP 
+       (NNS pólo)
+       (ADJP 
+        (RB indiscutivelmente)
+        (JJ marcante)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ ausente)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT este)
+       (NNS ciclo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

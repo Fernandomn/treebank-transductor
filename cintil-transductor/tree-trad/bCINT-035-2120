@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP minha)
+     (NP 
+      (NNS vida)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS cientista)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB enriquecida)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS factor)
+        (JJ religioso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

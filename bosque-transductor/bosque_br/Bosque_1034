@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN tarde)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+   (PP 
+    (IN diante_de)
+    (NP 
+     (DT dezenas_de)
+     (NN jornalistas)
+    )
+   )
+   (NP 
+    (NN Pertence)
+   )
+   (VP 
+    (VBP zerou)
+   )
+   (NP 
+    (DT os)
+    (NN computadores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Justiça_Eleitoral)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB têm)
+         (NP 
+          (DT uma)
+          (NNS marca)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB estão)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ficar)
+       (PP 
+        (IN com)
+        (NP 
+         (DT uma)
+         (NP 
+          (NP 
+           (NNS parte)
+           (JJ desproporcionada)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS receitas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

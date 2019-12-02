@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS família)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS casa)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB aguardando)
+       (NP 
+        (NP 
+         (JJ novos)
+         (NP 
+          (NNS contactos)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NNS raptores)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

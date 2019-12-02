@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (IN De)
+       (NP 
+        (PRP qualquer)
+        (NNS forma)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (NP 
+        (DT uma)
+        (NNS novidade)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (NNS Luís)
+         (NNS Pereira)
+         (NNS de)
+         (NNS Sousa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

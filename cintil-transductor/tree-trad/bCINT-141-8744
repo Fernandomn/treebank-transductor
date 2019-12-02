@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Tenho)
+      (NP 
+       (CD dois)
+       (NP 
+        (NNS irmãos)
+        (ADJP 
+         (RB mais)
+         (JJ novos)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (RB raramente)
+       (VP 
+        (VP 
+         (NP 
+          (PRP os)
+         )
+         (VB vejo)
+        )
+        (CONJP 
+         (CONJP 
+          (CC porque)
+          (S 
+           (VP 
+            (VP 
+             (VB estou)
+             (ADVP 
+              (RB quase)
+              (RB sempre)
+             )
+            )
+            (RB fora)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

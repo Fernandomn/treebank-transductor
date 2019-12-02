@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (IN Que)
+     (NP 
+      (DT a)
+      (NN democracia)
+      (ADJP 
+       (JJ contemporânea)
+      )
+     )
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (RB fortemente)
+      (JJ corporativa)
+     )
+    )
+    (NP 
+     (PRP o)
+    )
+    (VP 
+     (VBP sabemos)
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP esperamos)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP continue)
+      (IN a)
+      (VB ser)
+     )
+     (ADJP 
+      (RB tão)
+      (JJ cheia)
+      (PP 
+       (IN de)
+       (NP 
+        (NN particularismos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

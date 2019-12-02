@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP há)
+   )
+   (ADJP 
+    (CD dois)
+    (ADJP 
+     (RB muito)
+     (JJ instrutivos)
+    )
+   )
+   (ADVP 
+    (RB a_céu_aberto)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (DT as)
+    (NN visitas)
+   )
+   (VP 
+    (VBP vão)
+   )
+   (ADVP 
+    (PP 
+     (RB só)
+     (IN de)
+     (NP 
+      (NN junho)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN setembro)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Para)
+     (RB já)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS líder)
+      (JJ socialista)
+     )
+    )
+    (VP 
+     (VB parece)
+     (VP 
+      (VB ter)
+      (VP 
+       (VB metido)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS golo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

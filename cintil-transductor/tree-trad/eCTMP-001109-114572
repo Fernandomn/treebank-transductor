@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Médicos)
+     (NNS de_)
+     (NNS o)
+     (NNS Hospital)
+    )
+   )
+   (VP 
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS Base)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS capital)
+          (JJ brasileira)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB disseram)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NP 
+            (NNS mulher)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS PC)
+              )
+             )
+            )
+           )
+          )
+          (NNS Farias)
+         )
+        )
+        (VP 
+         (VP 
+          (VB morreu)
+          (ADVP 
+           (RB provavelmente)
+          )
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS madrugada)
+          )
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC enquanto)
+       (S 
+        (VB dormia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

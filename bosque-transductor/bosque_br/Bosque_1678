@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN entrada)
+    (PP 
+     (IN de)
+     (NP 
+      (NN capitais)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB ser)
+      (VBN esterilizada)
+     )
+     (ADVP 
+      (RB monetariamente)
+     )
+    )
+   )
+   (VP 
+    (VBP teve)
+    (IN de)
+    (VB ser)
+    (VBN absorvida)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN crescimento)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN dívida)
+       (ADJP 
+        (JJ pública)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (ADVP 
+     (RB por_sua_vez)
+    )
+    (VP 
+     (VBP requereu)
+    )
+    (NP 
+     (DT um)
+     (NN superávit)
+     (ADJP 
+      (JJ fiscal)
+     )
+     (ADJP 
+      (JJ primário)
+     )
+     (ADJP 
+      (JJ crescente)
+     )
+    )
+   )
+  )
+ )
+)

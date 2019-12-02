@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Governo)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB desconhece)
+       (RB oficialmente)
+      )
+     )
+     (NP 
+      (DT o)
+      (NNS assunto)
+     )
+    )
+   )
+  )
+ )
+)

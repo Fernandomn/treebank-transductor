@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS empresários)
+     (JJ privados)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB deverão)
+    )
+    (VP 
+     (VP 
+      (VB fazer)
+      (NP 
+       (NP 
+        (NNS investimentos)
+        (JJ significativos)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD próximo)
+        (NNS ano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

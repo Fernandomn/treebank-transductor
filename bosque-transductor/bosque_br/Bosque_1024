@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essas)
+    (NN mudanças)
+   )
+   (ADVP 
+    (RB geralmente)
+   )
+   (VP 
+    (VBP coincidem)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN crise)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (JJ meia)
+       (NN idade)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP é)
+       (VBN definida)
+      )
+      (UCP 
+       (ADVP 
+        (RB não)
+        (PP 
+         (IN por+)
+         (NP 
+          (DT a)
+          (NN faixa)
+          (ADJP 
+           (JJ etária)
+          )
+         )
+        )
+       )
+       mas
+       (S 
+        (RB como)
+        (NP 
+         (DT um)
+         (DT certo)
+         (NN momento)
+         (PP 
+          (IN em)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (NP 
+            (DT as)
+            (NN pessoas)
+           )
+           (VP 
+            (VBP reavaliam)
+           )
+           (NP 
+            (DT as)
+            (NN escolhas)
+            (VP 
+             (VP 
+              (VBN feitas)
+             )
+             (PP 
+              (IN em+)
+              (NP 
+               (DT a)
+               (DT sua)
+               (NN vida)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

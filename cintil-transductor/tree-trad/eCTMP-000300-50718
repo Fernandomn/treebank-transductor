@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (NNS indústria)
+       (JJ americana)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS semiconductores)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB teve)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+       (NNS problema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

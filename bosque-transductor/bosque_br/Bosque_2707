@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Elas)
+   )
+   (VP 
+    (VBP pertencem)
+   )
+   (ADVP 
+    (RB basicamente)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN categoria)
+     (NP 
+      (NN fuzil)
+     )
+     (ADJP 
+      (JJ automático)
+     )
+     (ADVP 
+      (RB isto_é)
+     )
+     (NP 
+      (DT um)
+      (NN híbrido)
+      (VP 
+       (VP 
+        (VBN surgido)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Segunda_Guerra)
+        )
+       )
+      )
+      (PP 
+       (IN entre)
+       (NP 
+        (NP 
+         (DT os)
+         (JJ tradicionais)
+         (NN fuzis)
+        )
+        e
+        (NP 
+         (NN metralhadoras)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NN mão)
+           )
+           ou
+           (NP 
+            (NN submetralhadoras)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

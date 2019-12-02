@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS onda)
+     (JJ moralista)
+    )
+   )
+   (VP 
+    (VP 
+     (VB atingiu)
+     (RB também)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS cobertura)
+       (JJ televisiva)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS bailes)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS clubes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

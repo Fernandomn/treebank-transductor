@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (PP 
+      (IN Durante)
+      (NP 
+       (CD sete)
+       (NNS meses)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB houve)
+      )
+      (NP 
+       (NNS audimetrias)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Espanha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

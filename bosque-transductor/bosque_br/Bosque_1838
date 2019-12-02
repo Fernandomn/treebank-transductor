@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP IBGE)
+   )
+   (VP 
+    (VBP divulgou)
+   )
+   (ADVP 
+    (RB também)
+    (RB ontem)
+   )
+   (NP 
+    (DT a)
+    (NN inflação)
+    (VP 
+     (VP 
+      (VBN registrada)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (NP 
+        (DT o)
+        (NNP Rio)
+       )
+       e
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NN dias)
+       (ADJP 
+        (ADJP 
+         (CD 9)
+         (PP 
+          (IN de)
+          (NP 
+           (NN março)
+          )
+         )
+        )
+        e
+        (ADJP 
+         (CD 7)
+         (PP 
+          (IN de)
+          (NP 
+           (NN abril)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

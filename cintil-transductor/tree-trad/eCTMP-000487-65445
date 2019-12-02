@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Macau)
+   )
+   (VP 
+    (VP 
+     (VB participa)
+     (PP 
+      (IN com)
+      (NP 
+       (NNS equipas)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NP 
+        (NNS competições)
+        (JJ desportivas)
+       )
+       (JJ internacionais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

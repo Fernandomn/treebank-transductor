@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Tóquio)
+  )
+  (VP 
+   (VP 
+    (VB prepara)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NNS terramoto)
+    )
+   )
+  )
+ )
+)

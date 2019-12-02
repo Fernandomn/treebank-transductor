@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Parque)
+     (NNS Natural)
+     (NNS de)
+     (NNS Montezinho)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB anteontem)
+    )
+    (NP 
+     (NP 
+      (NNS palco)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NP 
+          (NNS montaria)
+          (JJ especial)
+         )
+         (PP 
+          (PP 
+           (PP 
+            (IN sem)
+            (NP 
+             (NNS chumbo)
+            )
+           )
+           (PP 
+            (CC e)
+            (PP 
+             (IN com)
+             (NP 
+              (NP 
+               (NP 
+                (NNS estudantes)
+                (JJ universitários)
+               )
+               (PP 
+                (IN em_)
+                (NP 
+                 (DT o)
+                 (NP 
+                  (NNS papel)
+                  (PP 
+                   (IN de)
+                   (NP 
+                    (NNS batedores)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

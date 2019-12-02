@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (VP 
+    (VBP abre)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NN almoço)
+     )
+     e
+     (NP 
+      (NN drinks)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (VP 
+         (VP 
+          (VB cair)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN tarde)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

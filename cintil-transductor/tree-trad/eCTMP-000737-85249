@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NNS futuro)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS perspectivas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS crescimento)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB parecem)
+     (VP 
+      (VB estar)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NP 
+          (NNS segmentos)
+          (ADJP 
+           (RB bem)
+           (VB delimitados)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS oferta)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

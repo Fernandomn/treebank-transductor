@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Isabel)
+     (NNS Carvalho)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS professoras)
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB está)
+          (PP 
+           (IN a)
+           (VP 
+            (VB terminar)
+            (NP 
+             (DT a)
+             (NNS especialização)
+            )
+           )
+          )
+         )
+        )
+       )
+       (CONJP 
+        (CC e)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (RB não)
+            (VB percebe)
+           )
+           (NP 
+            (DT as)
+            (NP 
+             (NNS razões)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS tutela)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Novas)
+    (NP 
+     (NNS regras)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS regime)
+         (JJ disciplinar)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS alunos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

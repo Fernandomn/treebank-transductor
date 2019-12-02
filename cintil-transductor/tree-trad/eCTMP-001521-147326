@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (PP meu)
+       (NNS filho)
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VP 
+        (RB não)
+        (VB está)
+       )
+       (RB cá)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB tenho)
+       )
+       (NP 
+        (NNS sócios)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

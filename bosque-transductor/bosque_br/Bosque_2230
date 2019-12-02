@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN adultos)
+    (VP 
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP voltam)
+       (IN a)
+       (VB comer)
+      )
+      (NP 
+       (NN proteínas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB ter)
+   )
+   (NP 
+    (NP 
+     (NN piora)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN concentração)
+       )
+      )
+      e
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN memória)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (DT uma)
+     (JJ maior)
+     (NN agitação)
+    )
+   )
+  )
+ )
+)

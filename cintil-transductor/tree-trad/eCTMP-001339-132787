@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS índice)
+     (NNS DAX)
+    )
+   )
+   (VP 
+    (VB fechou)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 2323,48)
+       (NNS pontos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

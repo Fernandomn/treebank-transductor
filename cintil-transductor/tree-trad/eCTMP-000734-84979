@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Logo)
+     (ADVP 
+      (RB a)
+      (RB seguir)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS motor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS moto)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Roma)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB cedeu)
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Era)
+   )
+   (NP 
+    (NNP Senna_erra_e_Schumacher_vence)
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNP O_Globo)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN frase)
+    )
+    (VP 
+     (VBP ficou)
+    )
+    (ADJP 
+     (RB pouco)
+     (JJ maior)
+     (SBAR que
+      (S 
+       (PRP isso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

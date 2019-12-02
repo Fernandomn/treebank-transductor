@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Já)
+    )
+    (VP 
+     (VBP tinha)
+     (VBN feito)
+    )
+    (NP 
+     (NP 
+      (NN dieta)
+     )
+     (NP 
+      (NN ginástica)
+      (VBN localizada)
+     )
+     (NP 
+      (NN exercícios)
+      (PP 
+       (IN com)
+       (NP 
+        (NN aparelhos)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP conseguia)
+    )
+    (VP 
+     (VP 
+      (VB eliminar)
+     )
+     (NP 
+      (DT essas)
+      (NN gordurinhas)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS presidente)
+     (NNS de_)
+     (NNS a)
+     (NNS Assembleia)
+     (NNS de_)
+     (NNS a)
+     (NNS República)
+    )
+   )
+   (VP 
+    (VP 
+     (VB reagiu)
+     (ADVP 
+      (RB logo)
+      (RB ontem)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS pedido)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS demissão)
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Pedro)
+          (NNS Macedo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

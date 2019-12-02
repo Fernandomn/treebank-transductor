@@ -1,0 +1,147 @@
+(
+ (S 
+  (S 
+   (CC Mas)
+   (VP 
+    (NP 
+     (DT a)
+     (NN roubalheira)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (RB apenas)
+     (DT a)
+     (NN ponta)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN lamaçal)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT o)
+     (NN problema)
+     (ADJP 
+      (JJ essencial)
+     )
+     (NP 
+      (DT a)
+      (JJ grande)
+      (NN delinquência)
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT a)
+     (JJ baixa)
+     (NN taxa)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NP 
+         (NN seriedade)
+        )
+        e
+        (NP 
+         (NN compromisso)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN homens)
+         (ADJP 
+          (JJ públicos)
+         )
+        )
+       )
+      )
+     )
+     (ADJP 
+      (JJ responsável)
+      (PP 
+       (IN por)
+       (VP 
+        (VP 
+         (VB estarmos)
+        )
+        (VP 
+         (VP 
+          (VBN atolados)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NN níveis)
+           (ADJP 
+            (RB jamais)
+            (JJ vistos)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NN miséria)
+             )
+             e
+             (NP 
+              (NN violência)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (IN como)
+     (VP 
+      (VBP diz)
+     )
+     (NP 
+      (DT o)
+      (NN salmo)
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADVP 
+     (RB aí)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP pode)
+      (VB estar)
+     )
+     (ADVP 
+      (RB em_pé)
+     )
+    )
+   )
+  )
+ )
+)

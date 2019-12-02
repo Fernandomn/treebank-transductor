@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Tudo)
+    )
+    (VP 
+     (VBP leva)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB crer)
+      )
+      (VP 
+       (IN que)
+       (VP 
+        (VBP estamos)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT um)
+         (NN processo)
+         (PP 
+          (IN de)
+          (NP 
+           (NN endemia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP sustenta)
+   )
+   (NP 
+    (DT o)
+    (NN patologista)
+    (NP 
+     (NNP Bruce_Mendes_Campos)
+    )
+    (ADJP 
+     (JJ responsável)
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN análise)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN sangue)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

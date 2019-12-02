@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN vitrinas)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (VP 
+    (VBP guardam)
+   )
+   (NP 
+    (NN surpresas)
+   )
+   (VP 
+    (VP 
+     (VBG variando)
+    )
+    (ADVP 
+     (PP 
+      (IN desde)
+      (NP 
+       (DT o)
+       (JJ caro)
+       (NN refinamento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN avenida)
+         (NP 
+          (NNP Montaigne)
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP concentra)
+          )
+          (NP 
+           (DT a)
+           (JJ alta)
+           (NN costura)
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NNP Champs_Elysèes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (DT as)
+       (NN pechinchas)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT as)
+         (JJ pequenas)
+         (NN lojas)
+         (VP 
+          (VP 
+           (VBN espalhadas)
+          )
+          (PP 
+           (PP 
+            (IN por+)
+            (NP 
+             (DT a)
+             (NN cidade)
+            )
+           )
+           e
+           (PP 
+            (IN em+)
+            (NP 
+             (DT os)
+             (NN magazines)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

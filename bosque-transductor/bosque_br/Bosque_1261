@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ grande)
+    (NN vantagem)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN fundos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN commodities)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN possibilidade)
+    (PP 
+     (IN de)
+     (NP 
+      (NN saques)
+      (ADJP 
+       (JJ diários)
+      )
+      (PP 
+       (IN sem)
+       (NP 
+        (NN perda)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN rendimento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (CD 30)
+     (NN dias)
+    )
+   )
+  )
+ )
+)

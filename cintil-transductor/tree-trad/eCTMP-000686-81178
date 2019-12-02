@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS inventário)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS aromas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Lisboa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

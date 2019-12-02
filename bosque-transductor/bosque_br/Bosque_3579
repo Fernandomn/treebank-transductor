@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN intenção)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB votar)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB aprovar)
+     )
+     (NP 
+      (DT a)
+      (NNP MP)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (JJ próxima)
+       (NN semana)
+      )
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NN dias)
+       (UCP 
+        (NP 
+         (CD 26)
+        )
+        e
+        (ADJP 
+         (CD 27)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Leonel)
+      (NNS Moura)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS artista)
+      (JJ plástico)
+     )
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (VP 
+        (VB é)
+        (NP 
+         (DT uma)
+         (NP 
+          (JJ boa)
+          (NNS medida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Ir)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT uma)
+      (NN feira)
+      (ADJP 
+       (JJ livre)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP serve)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN aula)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (NP 
+      (DT os)
+      (NN principiantes)
+     )
+     (VP 
+      (VB aprenderem)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB comprar)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NN frutas)
+         )
+         (NP 
+          (NN legumes)
+         )
+         e
+         (NP 
+          (NN verduras)
+         )
+        )
+        (UCP 
+         (ADJP 
+          (RB mais)
+          (JJ baratos)
+         )
+         e
+         (PP 
+          (IN de)
+          (NP 
+           (JJ melhor)
+           (NN qualidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

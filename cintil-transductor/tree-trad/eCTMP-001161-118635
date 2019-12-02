@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Só)
+    (RB hoje)
+   )
+   (S 
+    (PP 
+     (PP 
+      (PP 
+       (IN graças)
+       (IN a)
+      )
+      (NP 
+       (NP 
+        (NNS Neil)
+        (NNS Kinnock)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS trabalhismo)
+       (JJ britânico)
+      )
+     )
+     (VP 
+      (VB pode)
+      (VP 
+       (VB ser)
+       (VP 
+        (VB comparado)
+        (PP 
+         (IN com)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NNS partidos)
+            (JJ socialistas)
+           )
+           (JJ continentais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN reta)
+     (ADJP 
+      (JJ final)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT seu)
+       (NN mandato)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (NP 
+     (NNP Itamar_Franco)
+    )
+   )
+   (VP 
+    (VBP decidiu)
+   )
+   (VP 
+    (VP 
+     (VB arrumar)
+    )
+    (NP 
+     (NN empregos)
+    )
+    (PP 
+     (IN a_partir_de)
+     (NP 
+      (NN janeiro)
+      (ADJP 
+       (JJ próximo)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT seus)
+      (NN amigos)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP compõem)
+       )
+       (NP 
+        (DT o)
+        (VBN chamado)
+        (NNP Grupo_de_Juiz_de_Fora)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

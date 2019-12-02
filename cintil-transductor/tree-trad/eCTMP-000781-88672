@@ -1,0 +1,96 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS relações)
+      (JJ económicas)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB tiveram)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS crescimento)
+       (ADJP 
+        (RB muito)
+        (JJ grande)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS Espanha)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS França)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NNS Alemanha)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      e ,
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT um)
+         (NP 
+          (CD segundo)
+          (NNS registo)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NNS Holanda)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN com)
+           (NP 
+            (DT a)
+            (NNS Itália)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Corte)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS estrada)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NNS apoio)
+      (PP 
+       (IN a)
+       (NP 
+        (NNS sindicalista)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

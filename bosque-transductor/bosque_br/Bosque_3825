@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN desfiles)
+    (PP 
+     (IN com)
+     (NP 
+      (NN roupas)
+      (PP 
+       (IN a)
+       (NP 
+        (NN venda)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (DT próprio)
+          (NN shopping)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP visam)
+   )
+   (VP 
+    (VP 
+     (VB orientar)
+    )
+    (NP 
+     (DT o)
+     (NN consumidor)
+    )
+    (PP 
+     (IN a_respeito_de+)
+     (NP 
+      (DT a)
+      (NN moda)
+     )
+    )
+   )
+  )
+ )
+)

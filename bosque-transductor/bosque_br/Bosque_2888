@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governador)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Paraná)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN ligado)
+   )
+   (ADVP 
+    (RB politicamente)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NP ex-governador)
+     (NP 
+      (NNP Roberto_Requião)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (NN candidato)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN Senado)
+        )
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NNP PMDB)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

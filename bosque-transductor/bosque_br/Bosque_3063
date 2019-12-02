@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP vão)
+    (VB ser)
+    (VBN indiciados)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NP 
+      (VBN suposta)
+      (NN corrupção)
+      (PP 
+       (IN de)
+       (ADJP 
+        (JJ menores)
+       )
+      )
+     )
+     (NP 
+      (NN favorecimento)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN prostituição)
+       )
+      )
+     )
+     e
+     (NP 
+      (NN cárcere)
+      (ADJP 
+       (JJ privado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

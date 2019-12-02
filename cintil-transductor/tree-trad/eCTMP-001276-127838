@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS chuva)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NNS vento)
+     )
+    )
+   )
+   (VP 
+    (VB provocaram)
+    (NP 
+     (NP 
+      (NNS danos)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS edifícios)
+         (NP 
+          (CC e)
+          (NNS automóveis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN presença)
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+    (VBN confirmada)
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (DT o)
+     (JJ próximo)
+     (NN dia)
+     (ADJP 
+      (CD 5)
+     )
+    )
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN tel.)
+     (ADJP 
+      (CD 221-2155)
+     )
+    )
+   )
+  )
+ )
+)

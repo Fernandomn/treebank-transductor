@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB atou)
+     (NP 
+      (DT a)
+      (NNS corda)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS pescoço)
+     )
+    )
+   )
+  )
+ )
+)

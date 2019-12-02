@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Brasil)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP sairá)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (DT sua)
+     (NN mediocridade)
+    )
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP deixar)
+    )
+    (VP 
+     (VP 
+      (VB incorporar)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NNP Amazônia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

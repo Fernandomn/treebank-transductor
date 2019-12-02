@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS António)
+     (NNS Guterres)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB participar)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NP 
+          (NNS campanha)
+          (JJ eleitoral)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS PS)
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS Regionais)
+           (NNS de_)
+           (NNS os)
+           (NNS Açores)
+           (NNS e)
+           (NNS de_)
+           (NNS a)
+           (NNS Madeira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

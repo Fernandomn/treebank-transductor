@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT As)
+     (NP 
+      (NNS autonomias)
+      (ADJP 
+       (JJ administrativas)
+       (ADJP 
+        (CC e)
+        (JJ financeiras)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB são)
+     )
+     (RB automaticamente)
+    )
+    (VP 
+     (VB limitadas)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ própria)
+        (NNS legislação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

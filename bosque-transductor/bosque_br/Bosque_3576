@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A_partir_de)
+    (RB agora)
+   )
+   (NP 
+    (DT a)
+    (NN taxa)
+   )
+   (VP 
+    (VBP deve)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (VP 
+    (VB recuar)
+   )
+  )
+ )
+)

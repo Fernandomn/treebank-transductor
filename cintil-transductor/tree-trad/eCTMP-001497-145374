@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT O)
+      (NNS presidente)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT outros)
+       (NP 
+        (CD dois)
+        (NNS membros)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB participaram)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS votação)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB foi)
+       (VB assinalada)
+      )
+      (RB ainda)
+     )
+     (NP 
+      (DT uma)
+      (NNS abstenção)
+     )
+    )
+   )
+  )
+ )
+)

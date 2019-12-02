@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Actualmente)
+   )
+   (VP 
+    (VP 
+     (VB há)
+     (NP 
+      (NP 
+       (CD sete)
+       (CD mil)
+      )
+      (NNS desempregados)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS população)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 90)
+          (CD mil)
+         )
+         (NNS activos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

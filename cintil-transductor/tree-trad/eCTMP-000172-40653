@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (NNS décadas)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Aurélio)
+      (NNS Márcio)
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (NP 
+       (NP 
+        (NNS companheiro)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Nuno)
+           (NNS Ferrari)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS redacção)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS A)
+           (NNS Bola)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

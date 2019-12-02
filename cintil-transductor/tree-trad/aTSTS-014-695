@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS paisagem)
+   )
+   (VP 
+    (VB sobressai)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS obra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

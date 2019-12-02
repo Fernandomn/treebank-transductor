@@ -1,0 +1,110 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Documento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Ministério_das_Relações_Exteriores)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Canadá)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBN obtido)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NNP Folha)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP dá)
+   )
+   (NP 
+    (NN apoio)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN lobby)
+      (NP 
+       (NN grupo)
+       (PP 
+        (IN de)
+        (NP 
+         (NN pressão)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VBN feito)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NN Embaixada)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Canadá)
+          )
+         )
+        )
+       )
+       (ADVP 
+        (RB junto)
+        (PP 
+         (IN a)
+         (NP 
+          (NP 
+           (NP 
+            (NN senadores)
+           )
+           e
+           (NP 
+            (NN deputados)
+           )
+          )
+          (ADJP 
+           (JJ brasileiros)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (IN que)
+         (NP 
+          (DT os)
+          (NN canadenses)
+         )
+         (VP 
+          (VBP sejam)
+          (VBN expulsos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

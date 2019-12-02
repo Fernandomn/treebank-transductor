@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS caças)
+     (JJ franceses)
+    )
+   )
+   (VP 
+    (VB efectuaram)
+    (NP 
+     (NP 
+      (NNS missões)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS cobertura)
+         (JJ aérea)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

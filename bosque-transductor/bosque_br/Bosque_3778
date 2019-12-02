@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foram)
+    (VBN indiciados)
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NN dono)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN revendedora)
+       (NP 
+        (NNP 3.000_Automóveis)
+       )
+      )
+      (NP 
+       (NNP Leonardo_Romanioli_Filho)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN vendedor)
+     (NP 
+      (NNP Luís_Silveira)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN concessionária)
+       (NP 
+        (NNP Frame)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

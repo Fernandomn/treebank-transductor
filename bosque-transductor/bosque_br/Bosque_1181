@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Dia)
+    (ADJP 
+     (CD 19)
+    )
+    (ADJP 
+     (JJ último)
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ 2º)
+    (NNP Special_Girolando)
+   )
+   (VP 
+    (VBP atingiu)
+   )
+   (NP 
+    (DT a)
+    (NN média)
+    (PP 
+     (IN de)
+     (NP 
+      (NN R$)
+      (ADJP 
+       (CD 3.600)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (CD 44)
+     (NN fêmeas)
+    )
+   )
+  )
+ )
+)

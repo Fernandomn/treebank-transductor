@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN polícia)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN estrada)
+   )
+   (VP 
+    (VBP é)
+    (VBN procurada)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN grupos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN extermínio)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN desova)
+     (PP 
+      (IN de)
+      (NP 
+       (NN cadáveres)
+      )
+     )
+    )
+   )
+  )
+ )
+)

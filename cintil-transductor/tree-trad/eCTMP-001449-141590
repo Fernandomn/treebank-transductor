@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Embora)
+      (S 
+       (VP 
+        (VB tivesse)
+        (NP 
+         (DT uma)
+         (NP 
+          (NP 
+           (NNS informação)
+           (JJ anterior)
+          )
+          (PP 
+           (IN sobre)
+           (NP 
+            (DT a)
+            (NNS visita)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB surpreendeu)
+     (NP 
+      (PRP -me)
+     )
+    )
+   )
+  )
+ )
+)

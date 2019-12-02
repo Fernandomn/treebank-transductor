@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT o)
+     (NN preço)
+     (PP 
+      (IN de)
+      (NP 
+       (NN CR$)
+       (ADJP 
+        (CD 6.200)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN clientes)
+   )
+   (VP 
+    (VBP poderão)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB servir)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN vontade)
+    )
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN ravióli)
+     (PP 
+      (IN com)
+      (NP 
+       (NN recheio)
+       (PP 
+        (IN de)
+        (NP 
+         (NN salmão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

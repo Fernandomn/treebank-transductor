@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VB viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS colocação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS moldura)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS parede)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS Pedro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

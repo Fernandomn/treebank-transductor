@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Iniciativa)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Moscou)
+     )
+    )
+   )
+   (VP 
+    (VBP torna)
+   )
+   (NP 
+    (NN ataque)
+    (ADJP 
+     (JJ improvável)
+    )
+   )
+  )
+ )
+)

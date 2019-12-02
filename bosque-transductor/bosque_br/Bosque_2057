@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (NP 
+    (PRP eu)
+   )
+   (VP 
+    (VBP gostaria)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB saber)
+     )
+     (VP 
+      (ADVP 
+       (RB como)
+      )
+      (VP 
+       (VB fazer)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB adquirir)
+        )
+        (NP 
+         (DT a)
+         (NN carteirinha)
+         (PP 
+          (IN de)
+          (NP 
+           (NN estudante)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

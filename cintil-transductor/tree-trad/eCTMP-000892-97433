@@ -1,0 +1,51 @@
+(
+ (S 
+  (PP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (JJ plena)
+      (NP 
+       (NNS campanha)
+       (JJ eleitoral)
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (NP 
+    (NP 
+     (NNS administração)
+     (NNS Bush)
+    )
+   )
+   (VP 
+    (VB faz)
+    (NP 
+     (NP 
+      (NNS declarações)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB poderão)
+         (VP 
+          (VB influenciar)
+          (NP 
+           (DT a)
+           (NNS ECO-92)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

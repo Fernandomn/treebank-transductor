@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Chemical)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB tem)
+      (ADVP 
+       (RB ainda)
+      )
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS quota)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS mercado)
+         )
+        )
+       )
+       (JJ significativa)
+      )
+     )
+    )
+    (ADVP 
+     (RB junto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (JJ grandes)
+        (NNS empresas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

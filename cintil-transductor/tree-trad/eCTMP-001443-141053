@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Agustina)
+     (NNS Bessa-Luís)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB intuiu)
+      (RB claramente)
+     )
+     (NP 
+      (DT isso)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (VB escreveu)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NNS poetisa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Empresas)
+   )
+   (VP 
+    (VBP enviam)
+   )
+   (NP 
+    (NN nota)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP TRE)
+    )
+   )
+  )
+ )
+)

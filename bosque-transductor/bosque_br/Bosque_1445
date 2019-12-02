@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Entretanto)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VB saber)
+    )
+    (VP 
+     (VP 
+      (IN que)
+      (NP 
+       (NN perdas)
+      )
+      (VP 
+       (VBP são)
+      )
+      (NP 
+       (DT essas)
+      )
+     )
+     e
+     (VP 
+      (IN que)
+      (ADVP 
+       (IN até)
+       (RB agora)
+      )
+      (NP 
+       (DT todo)
+       (NN mundo)
+      )
+      (VP 
+       (VBP está)
+       (VBG ganhando)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NN URV)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

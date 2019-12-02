@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (DT este)
+       (NP 
+        (JJ novo)
+        (NNS acerto)
+       )
+      )
+     )
+    )
+    (VP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB houver)
+        )
+        (NP 
+         (NP 
+          (NNS coincidência)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS semanas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB será)
+      (VB convocada)
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (CD terceira)
+     (NP 
+      (NNS reunião)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (CD última)
+         (NP 
+          (NNS quarta-feira)
+          (PP 
+           (IN de)
+           (NP 
+            (PRP cada)
+            (NNS mês)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS anúncio)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VP 
+      (VB feito)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Covilhã)
+       )
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS coordenadora)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Sub-Região)
+            (NNS de)
+            (NNS Saúde)
+            (NNS de_)
+            (NNS o)
+            (NNS Distrito)
+            (NNS de)
+            (NNS Castelo)
+            (NNS Branco)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Alzira)
+         (NNS Serrasqueiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

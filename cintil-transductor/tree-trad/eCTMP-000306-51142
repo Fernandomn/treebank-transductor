@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Winnie)
+  )
+  (VP 
+   (VB deixa)
+   (NP 
+    (NP 
+     (NNS cargo)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS ANC)
+      )
+     )
+    )
+   )
+  )
+ )
+)

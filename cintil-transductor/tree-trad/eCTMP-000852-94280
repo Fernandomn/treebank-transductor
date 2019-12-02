@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB queríamos)
+     )
+     (VP 
+      (VP 
+       (VB cometer)
+       (NP 
+        (NNS leviandades)
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VB encarar)
+         (RB levianamente)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS fusão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT esses)
+            (NNS elementos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

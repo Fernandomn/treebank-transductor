@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estávamos)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Novembro)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB fazia)
+       (NP 
+        (NNS frio)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

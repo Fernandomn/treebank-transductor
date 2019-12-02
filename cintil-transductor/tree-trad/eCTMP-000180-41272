@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Queremos)
+     (VP 
+      (VB fazer)
+      (NP 
+       (NP 
+        (NNS previsões)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB possam)
+           (VP 
+            (VB ser)
+            (VB testadas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

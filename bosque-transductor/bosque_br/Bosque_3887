@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+    (NP 
+     (NNP Pepe)
+     (VP 
+      (VP 
+       (VBN irritado)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NN atuação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN time)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN empate)
+          (PP 
+           (IN em)
+           (NP 
+            (CD 1)
+            (PP 
+             (IN a)
+             (ADJP 
+              (CD 1)
+             )
+            )
+           )
+          )
+          (PP 
+           (IN com)
+           (NP 
+            (NNP Ituano)
+           )
+          )
+         )
+        )
+        (RB anteontem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP está)
+     (VBG faltando)
+    )
+    (NP 
+     (NP 
+      (NN tranquilidade)
+     )
+     e
+     (NP 
+      (NN talento)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT os)
+      (NN jogadores)
+     )
+    )
+   )
+  )
+ )
+)

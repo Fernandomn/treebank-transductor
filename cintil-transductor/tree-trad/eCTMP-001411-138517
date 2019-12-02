@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Londres)
+  )
+  (VP 
+   (VB distribui)
+   (NP 
+    (NP 
+     (NNS fundo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Holocausto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Eleições)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Associação)
+       (NNS Académica)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB mobilizam)
+   (NP 
+    (NP 
+     (NNS juventude)
+     (JJ laranja)
+    )
+   )
+  )
+ )
+)

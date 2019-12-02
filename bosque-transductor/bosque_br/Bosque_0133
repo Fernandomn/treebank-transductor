@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De)
+    (NP 
+     (NNP Mario_Bernardini)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Fiesp)
+     )
+    )
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (NP 
+      (DT a)
+      (NN seleção)
+     )
+     e
+     (NP 
+      (DT o)
+      (NN real)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (ADJP 
+     (RB outrora)
+     (JJ odiosos)
+    )
+    (NP 
+     (NP 
+      (NN valores)
+      (PP 
+       (IN de)
+       (NP 
+        (NN família)
+       )
+      )
+     )
+     (NP 
+      (NN sucesso)
+     )
+     e
+     (NP 
+      (NN consumo)
+     )
+    )
+   )
+   (VP 
+    (VBP renascem)
+   )
+   (PP 
+    (RB sobretudo)
+    (IN entre)
+    (NP 
+     (DT a)
+     (NN população)
+     (ADJP 
+      (JJ jovem)
+     )
+    )
+   )
+  )
+ )
+)

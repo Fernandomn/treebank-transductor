@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Até)
+     (RB aí)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (PP minha)
+      (NNS profissão)
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS professor)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

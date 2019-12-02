@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Recentemente)
+   )
+   (NP 
+    (DT o)
+    (NN time)
+   )
+   (VP 
+    (VBP firmou)
+   )
+   (NP 
+    (DT um)
+    (NN contrato)
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 50)
+       (NN mil)
+      )
+      (ADJP 
+       (JJ mensais)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NNP Lousano)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP vale)
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (DT o)
+       (NN fim)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Campeonato_Paulista)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

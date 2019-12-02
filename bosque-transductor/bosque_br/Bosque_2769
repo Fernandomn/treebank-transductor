@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN desconto)
+   )
+   (VP 
+    (VBP seria)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN CR$)
+     (NP 
+      (CD 83)
+      (NN mil)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN dia)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN base)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN vencimentos)
+       (PP 
+        (IN de)
+        (NP 
+         (NN fevereiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

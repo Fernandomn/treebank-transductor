@@ -1,0 +1,97 @@
+(
+ (S 
+  (VP 
+   (UCP 
+    (ADJP 
+     (JJ Simpático)
+    )
+    (ADJP 
+     (JJ fluente)
+     (PP 
+      (IN com)
+      (NP 
+       (DT as)
+       (NN palavras)
+      )
+     )
+     (ADVP 
+      (RB também)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN vontade)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN papel)
+        (PP 
+         (IN de)
+         (NP 
+          (NN regente)
+          (ADJP 
+           (JJ jovem)
+          )
+         )
+         (VP 
+          (IN embora)
+          (VP 
+           (VP 
+            (VBG beirando)
+           )
+           (NP 
+            (DT os)
+            (CD 50)
+            (NN anos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (DT um)
+    (NN nome)
+    (ADJP 
+     (JJ melhor)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB dirigir)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NNP New_World_Symphony)
+       (NP 
+        (DT uma)
+        (NN orquestra)
+        (PP 
+         (IN de)
+         (NP 
+          (NN bolsistas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

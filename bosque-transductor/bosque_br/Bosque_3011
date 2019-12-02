@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de)
+      (NP 
+       (DT cada)
+       (NN corrida)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+   (NP 
+    (DT as)
+    (JJ principais)
+    (NN dicas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN circuito)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN fornecidas)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN piloto)
+    )
+   )
+  )
+ )
+)

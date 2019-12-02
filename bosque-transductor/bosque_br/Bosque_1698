@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN quarto)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (VP 
+       (VBP ficou)
+      )
+     )
+    )
+    (VP 
+     (VBP era)
+    )
+    (ADJP 
+     (JJ pequeno)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT sua)
+     (NN porta)
+    )
+    (VP 
+     (VBP permaneceu)
+    )
+    (ADVP 
+     (RB sempre)
+    )
+    (VBN aberta)
+   )
+  )
+ )
+)

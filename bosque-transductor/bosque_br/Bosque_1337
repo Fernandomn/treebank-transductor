@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Alami)
+    (UCP 
+     (PP 
+      (IN de)
+      (NP 
+       (CD 20)
+       (NN anos)
+      )
+     )
+     e
+     (NP 
+      (NN número)
+      (ADJP 
+       (CD 204)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN ranking)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (DT a)
+    (JJ maior)
+    (NN vitória)
+    (PP 
+     (IN de)
+     (NP 
+      (DT sua)
+      (NN carreira)
+     )
+    )
+   )
+  )
+ )
+)

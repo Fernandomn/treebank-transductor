@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Soldado)
+    (JJ belga)
+   )
+  )
+  (VP 
+   (VB morre)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Bósnia)
+    )
+   )
+  )
+ )
+)

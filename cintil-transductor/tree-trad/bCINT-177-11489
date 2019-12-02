@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS LIGA)
+    (NNS ÁRABE)
+   )
+  )
+  (VP 
+   (VB DENUNCIA)
+   (NP 
+    (NP 
+     (NNS BOMBARDEAMENTOS)
+     (PP 
+      (IN EM_)
+      (NP 
+       (DT O)
+       (NP 
+        (NNS SUL)
+        (NNS de_)
+        (NNS o)
+        (NNS LÍBANO)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

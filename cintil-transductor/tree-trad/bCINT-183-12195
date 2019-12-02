@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (JJ evidente)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NNS portugueses)
+      )
+      (VP 
+       (RB só)
+       (VP 
+        (VB vão)
+        (VP 
+         (VB ser)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB quiserem)
+              (VP 
+               (VB ser)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

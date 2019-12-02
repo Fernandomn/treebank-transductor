@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Trezentos)
+    (NN soldados)
+    (PP 
+     (IN de)
+     (NP 
+      (CD cinco)
+      (NN países)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN região)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Caribe)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP chegaram)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Haiti)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (DT mesma)
+     (NN missão)
+    )
+   )
+  )
+ )
+)

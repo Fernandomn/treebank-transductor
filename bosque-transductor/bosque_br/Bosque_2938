@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN Cobra)
+    )
+    (VP 
+     (VBP privilegiava)
+    )
+    (NP 
+     (NP 
+      (DT os)
+      (NN atos)
+      (ADJP 
+       (JJ impulsivos)
+      )
+     )
+     e
+     (NP 
+      (DT as)
+      (NN cores)
+      (ADJP 
+       (JJ fortes)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT seus)
+     (JJ principais)
+     (NN nomes)
+    )
+    (VP 
+     (VBP foram)
+    )
+    (NP 
+     (NP 
+      (NNP Appel)
+     )
+     e
+     (NP 
+      (NNP Alechinsky)
+     )
+    )
+   )
+  )
+ )
+)

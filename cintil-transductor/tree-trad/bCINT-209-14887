@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS organização)
+   )
+   (VP 
+    (VB espera)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS presença)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (ADVP 
+           (RB cerca)
+           (RB de)
+          )
+          (NP 
+           (CD duas)
+           (CD mil)
+          )
+         )
+         (NNS entidades)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mesmo)
+           (NP 
+            (NNS número)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS jornalistas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

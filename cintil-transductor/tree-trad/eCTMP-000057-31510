@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Fisicamente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS povo)
+       (ADJP 
+        (RB mais)
+        (JJ belo)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS CE)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

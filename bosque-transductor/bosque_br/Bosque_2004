@@ -1,0 +1,97 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Nós)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP vamos)
+     (VB dar)
+    )
+    (NP 
+     (NN corda)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN debate)
+      (ADJP 
+       (JJ rasteiro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP acrescentou)
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP acha)
+     )
+     (ADJP 
+      (JJ improvável)
+     )
+     (VP 
+      (NP 
+       (DT o)
+       (NNP STF)
+      )
+      (VP 
+       (VB permitir)
+      )
+      (NP 
+       (DT a)
+       (NN candidatura)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP José_Sarney)
+        )
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (DT um)
+         (NN partido)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (ADVP 
+           (RB não)
+          )
+          (VP 
+           (VBP seja)
+          )
+          (NP 
+           (DT o)
+           (NNP PMDB)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB Avançou)
+       (NP 
+        (NNS Mostovoi)
+       )
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (VB marcou)
+         (RB logo)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS reatamento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS seleccionador)
+        (JJ russo)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS Oleg)
+        (NNS Romantsev)
+       )
+      )
+     )
+     (VP 
+      (VB começava)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ganhar)
+        (NP 
+         (DT a)
+         (NNS aposta)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

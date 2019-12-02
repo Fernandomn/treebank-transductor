@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS decisão)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (JJ fácil)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS votação)
+     )
+     (VP 
+      (VB foi)
+      (JJ cerrada)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PRP todo)
+      (NP 
+       (DT o)
+       (NNS caso)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS analistas)
+    )
+    (VP 
+     (VB disseram)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB prevê)
+        )
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NNS entrada)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT um)
+           (NP 
+            (JJ novo)
+            (NP 
+             (NNS período)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS baixa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

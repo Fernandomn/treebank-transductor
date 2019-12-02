@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Netscape)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ importante)
+      )
+      (NP 
+       (NNS fabricante)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS software)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS navegação)
+            )
+           )
+          )
+          (PP 
+           (IN para)
+           (NP 
+            (DT a)
+            (NNS Internet)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

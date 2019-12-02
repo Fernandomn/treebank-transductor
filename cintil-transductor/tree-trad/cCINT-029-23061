@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Afinal)
+    )
+    (VP 
+     (VP 
+      (VB sabes)
+      (RB perfeitamente)
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (PP 
+        (IN para)
+        (NP 
+         (PRP mim)
+        )
+       )
+       (S 
+        (NP 
+         (DT esta)
+         (NP 
+          (NNS mudança)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS casa)
+           )
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VP 
+           (RB não)
+           (VB é)
+          )
+          (RB só)
+         )
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS mudança)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS casa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

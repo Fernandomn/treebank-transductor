@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pesquisas)
+   )
+   (VP 
+    (VBP têm)
+    (VBN mostrado)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN fenilcetonúrico)
+    )
+    (VP 
+     (VBP deve)
+     (VB seguir)
+    )
+    (NP 
+     (DT a)
+     (NN dieta)
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT toda)
+      (DT a)
+      (NN vida)
+     )
+    )
+   )
+  )
+ )
+)

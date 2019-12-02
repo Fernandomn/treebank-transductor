@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Tal)
+    (NP 
+     (NNS determinação)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS afirmações)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB dar)
+       (NP 
+        (PRP -lhe)
+       )
+      )
+      (NP 
+       (NNS dividendos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

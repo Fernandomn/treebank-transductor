@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (VP 
+    (IN como)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (NN crescimento)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NN educação)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN causa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN causas)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP nós)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN elevação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN nível)
+      (ADJP 
+       (JJ educacional)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN povo)
+        (ADJP 
+         (JJ brasileiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

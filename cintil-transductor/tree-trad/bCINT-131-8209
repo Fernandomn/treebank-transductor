@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS filhos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB ficou)
+      (RB também)
+     )
+     (VB ferido)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB terá)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB ficar)
+         (VB internado)
+        )
+        (PP 
+         (IN durante)
+         (NP 
+          (DT os)
+          (NP 
+           (CD próximos)
+           (NP 
+            (CD 20)
+            (NNS dias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

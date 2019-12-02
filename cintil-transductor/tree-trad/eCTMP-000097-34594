@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS tarifas)
+     (ADJP 
+      (ADJP 
+       (ADJP 
+        (RB mais)
+        (JJ elevadas)
+       )
+       (CONJP 
+        (CC que)
+        (NP 
+         (DT as)
+         (NP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS táxis)
+             (JJ verdes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (VB calculadas)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS função)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS tempo)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS quilómetros)
+            (JJ percorridos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

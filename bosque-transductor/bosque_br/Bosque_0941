@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN atacante)
+    (NP 
+     (NNP Emmanuel_Amunike)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP empatou)
+     )
+     (ADVP 
+      (NP 
+       (CD dois)
+       (NN minutos)
+      )
+      (RB depois)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP marcou)
+     )
+     (NP 
+      (DT o)
+      (NN gol)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN vitória)
+       )
+      )
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (CD 2)
+       (NN min)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (JJ segundo)
+         (NN tempo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

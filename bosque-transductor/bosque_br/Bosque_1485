@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Jason)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (ADJP 
+     (DT o)
+     (JJ maior)
+    )
+    (NN 
+     (PP 
+      (IN de)
+      (NP 
+       (DT todos)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (CD 126)
+      (NN vítimas)
+     )
+    )
+   )
+  )
+ )
+)

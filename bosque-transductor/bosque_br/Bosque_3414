@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP José_Saramago)
+   )
+   (VP 
+    (NP 
+     (DT A)
+     (NN contribuição)
+    )
+    (VP 
+     (VBP vai)
+     (VB depender)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN eco)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT o)
+        (NN Parlamento)
+       )
+       (VP 
+        (VBP possa)
+        (VB ter)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN opinião)
+         (ADJP 
+          (JJ pública)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

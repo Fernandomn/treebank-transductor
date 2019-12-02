@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB fala)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS disco)
+         (CONJP 
+          (PP 
+           (IN de)
+           (NP 
+            (PRP que)
+           )
+          )
+          (S 
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB gosta)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB acaba)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (RB sempre)
+    )
+    (PP 
+     (IN por)
+     (VP 
+      (VB falar)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP todos)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS discos)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB amámos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

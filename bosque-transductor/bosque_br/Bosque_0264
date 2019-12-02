@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT a)
+     (JJ segunda)
+     (NN geração)
+     (PP 
+      (IN de)
+      (NP 
+       (NN expressionistas)
+       (ADJP 
+        (JJ abstratos)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Twombly)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (JJ segundo)
+     (NN time)
+    )
+   )
+  )
+ )
+)

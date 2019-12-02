@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Muitas)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS vítimas)
+         (JJ mortais)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB foram)
+       )
+       (RB ainda)
+      )
+      (VB identificadas)
+     )
+     (CC já)
+     (CC que)
+     (S 
+      (NP 
+       (PRP alguns)
+       (NNS corpos)
+      )
+      (VP 
+       (VP 
+        (VB estão)
+        (ADVP 
+         (RB totalmente)
+        )
+       )
+       (ADJP 
+        (VB calcinados)
+        (ADJP 
+         (CC e)
+         (VB mutilados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

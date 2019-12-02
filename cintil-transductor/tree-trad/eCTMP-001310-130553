@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (JJ restantes)
+          (NNS deputados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB houve)
+    )
+    (NP 
+     (NP 
+      (JJ melhor)
+      (NNS sorte)
+     )
+    )
+   )
+  )
+ )
+)

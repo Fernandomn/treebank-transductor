@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS álbum)
+    )
+    (VP 
+     (VB dura)
+     (NP 
+      (CD 38)
+      (NNS minutos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT esta)
+      (NNS entrevista)
+     )
+     (VP 
+      (VB durou)
+      (NP 
+       (CD duas)
+       (NNS horas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

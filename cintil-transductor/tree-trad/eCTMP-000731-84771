@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Entrou)
+     (RB bem)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB esteve)
+       (ADJP 
+        (RB ainda)
+        (JJ melhor)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD segunda)
+         (NNS parte)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

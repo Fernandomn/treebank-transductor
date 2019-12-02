@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+    (VP 
+     (VBP vai)
+     (VB vender)
+    )
+    (ADVP 
+     (PP 
+      (IN desde)
+      (NP 
+       (NN automóvel)
+      )
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (NN participação)
+       (ADJP 
+        (JJ acionária)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN empresas)
+         (PP 
+          (IN de)
+          (NP 
+           (NN energia)
+           (ADJP 
+            (JJ elétrica)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

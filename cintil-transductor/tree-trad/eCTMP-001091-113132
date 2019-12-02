@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS Fogo)
+  )
+  (VP 
+   (VB assusta)
+   (NP 
+    (NP 
+     (NNS moradores)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS edifício)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Vialonga)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

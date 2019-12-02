@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS empresa)
+     (JJ proprietária)
+    )
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NNS veículo)
+      )
+      (VP 
+       (VP 
+        (VB tinha)
+        (VP 
+         (VB feito)
+         (NP 
+          (DT uma)
+          (NNS revisão)
+         )
+        )
+       )
+       (ADVP 
+        (ADVP 
+         (NP 
+          (PRP poucos)
+          (NNS dias)
+         )
+        )
+        (RB antes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

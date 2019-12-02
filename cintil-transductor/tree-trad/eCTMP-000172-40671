@@ -1,0 +1,45 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Grupo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS trabalho)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VP 
+     (VB reformular)
+     (NP 
+      (NP 
+       (NNS filosofia)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS diploma)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN até)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NNS Verão)
+     )
+    )
+   )
+  )
+ )
+)

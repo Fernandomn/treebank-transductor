@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por)
+    (NP 
+     (DT isso)
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (PP 
+       (IN para)
+       (IN além)
+       (IN de_)
+      )
+      (NP 
+       (DT os)
+       (NNS projectores)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (CD 16)
+      (NP 
+       (JJ grandes)
+       (NNS candeeiros)
+      )
+     )
+     (VP 
+      (VB garantirão)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS iluminação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS rua)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

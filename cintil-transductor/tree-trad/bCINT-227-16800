@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (RB Ali)
+   (S 
+    (VP 
+     (VP 
+      (VB estão)
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (NNS exemplo)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS fundos)
+       (JJ documentais)
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ antiga)
+         (NP 
+          (NNS Generalitat)
+          (NNS de)
+          (NNS Catalunya)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

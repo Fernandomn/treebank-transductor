@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS avaliação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS actuação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS presidente)
+           (NNS de_)
+           (NNS a)
+           (NNS Câmara)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (NP 
+      (NNS valores)
+      (ADJP 
+       (RB muito)
+       (JJ semelhantes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

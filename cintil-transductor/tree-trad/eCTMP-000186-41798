@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS saxofonista)
+     (NP 
+      (NNS Rão)
+      (NNS Kyao)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (ADVP 
+       (RB a_)
+       (RB o)
+       (RB fim)
+       (RB e)
+       (RB a_)
+       (RB o)
+       (RB cabo)
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NNS fadista)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS chineses)
+   )
+   (VP 
+    (VP 
+     (VB oferecem)
+     (NP 
+      (NP 
+       (NNS flores)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS plástico)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS múmia)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Mao)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

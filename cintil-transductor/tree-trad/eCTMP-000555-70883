@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS resolução)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (ADVP 
+       (RB aliás)
+      )
+     )
+     (VB referida)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS final)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS encontro)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Lisboa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

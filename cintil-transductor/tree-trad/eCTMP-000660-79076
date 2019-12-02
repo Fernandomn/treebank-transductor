@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Max)
+      (NNS Cady)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT um)
+      (NNS animal)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (S 
+           (NP 
+            (PRP todas)
+            (NP 
+             (DT as)
+             (NNS personagens)
+            )
+           )
+           (VP 
+            (VB dizem)
+           )
+          )
+          (S 
+           (CC ou)
+           (S 
+            (VP 
+             (VB sugerem)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

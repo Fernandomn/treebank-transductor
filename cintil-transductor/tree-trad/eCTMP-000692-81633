@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Até)
+     (NP 
+      (NNS Barcelona)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP muita)
+     (NNS água)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB irá)
+       (RB ainda)
+      )
+      (VB correr)
+     )
+     (PP 
+      (IN sob)
+      (NP 
+       (DT as)
+       (NNS pontes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

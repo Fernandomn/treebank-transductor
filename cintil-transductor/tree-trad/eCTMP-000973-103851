@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Finalmente)
+   )
+   (S 
+    (NP 
+     (NNS Hélder)
+    )
+    (VP 
+     (RB só)
+     (VP 
+      (VB jogou)
+      (NP 
+       (DT os)
+       (NP 
+        (CD últimos)
+        (NP 
+         (NNS instantes)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS Compostela-Deportivo)
+             (NNS de_)
+             (NNS a)
+             (NNS Corunha)
+            )
+            (CONJP 
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VB terminou)
+                (PP 
+                 (IN com)
+                 (NP 
+                  (DT um)
+                  (NP 
+                   (NNS empate)
+                   (PP 
+                    (IN a)
+                    (NP 
+                     (CD zero)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

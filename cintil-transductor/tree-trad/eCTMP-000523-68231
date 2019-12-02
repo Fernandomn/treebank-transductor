@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS franceses)
+   )
+   (VP 
+    (VP 
+     (VB estão)
+     (PP 
+      (IN com)
+      (NP 
+       (PRP alguns)
+       (NP 
+        (NNS problemas)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS departamento)
+           (JJ clínico)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC enquanto)
+      (S 
+       (NP 
+        (DT os)
+        (NNS italianos)
+       )
+       (VP 
+        (VB vão)
+        (VP 
+         (VB assistir)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS regresso)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Zola)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

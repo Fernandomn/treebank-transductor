@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Após)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS eleições)
+       (JJ autárquicas)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Jorge)
+      (NNS Lacão)
+     )
+    )
+    (VP 
+     (VB abandonará)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NP 
+        (NNS lugar)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT esta)
+          (NNS estrutura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

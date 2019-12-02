@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN parágrafo)
+     (ADJP 
+      (JJ único)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (DT seu)
+       (JJ primeiro)
+       (NN artigo)
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN candidatos)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP podem)
+     (VB apresentar)
+    )
+    (NP 
+     (NN patologia)
+     (PP 
+      (IN com)
+      (NP 
+       (NN perspectiva)
+       (ADJP 
+        (JJ presente)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN incapacidade)
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN futuro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

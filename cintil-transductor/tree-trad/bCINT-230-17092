@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS notícias)
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS página)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS World)
+           (NNS Wide)
+           (NNS Web)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS acesso)
+          (JJ restrito)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

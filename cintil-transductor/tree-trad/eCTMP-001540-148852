@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Vai)
+    (VP 
+     (VB haver)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS confrontação)
+       (ADJP 
+        (RB muito)
+        (JJ forte)
+       )
+      )
+     )
+    )
+   )
+   (CONJP 
+    (CC porque)
+    (S 
+     (NP 
+      (DT a)
+      (NNS China)
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB é)
+       (NP 
+        (DT a)
+        (NP 
+         (CD terceira)
+         (NP 
+          (NNS potência)
+          (JJ mundial)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

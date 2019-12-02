@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP recebe)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN URV)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ ótimo)
+   )
+  )
+ )
+)

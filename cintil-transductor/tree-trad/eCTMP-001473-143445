@@ -1,0 +1,109 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS clarinetista)
+     (NP 
+      (NNS António)
+      (NNS Saiote)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (JJ principal)
+      (NP 
+       (NNS estrela)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS concerto)
+          (CONJP 
+           (PP 
+            (IN com)
+            (NP 
+             (PRP que)
+            )
+           )
+           (S 
+            (NP 
+             (DT a)
+             (NP 
+              (NNS Orquestra)
+              (NNS Clássica)
+              (NNS de_)
+              (NNS o)
+              (NNS Porto)
+             )
+            )
+            (VP 
+             (VP 
+              (VP 
+               (VB assinala)
+               (PP 
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT o)
+                  (NP 
+                   (NNS auditório)
+                   (PP 
+                    (IN de_)
+                    (NP 
+                     (DT o)
+                     (NNS Europarque)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+              (NP 
+               (DT a)
+               (NP 
+                (NNS abertura)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT a)
+                  (NP 
+                   (PP sua)
+                   (NP 
+                    (JJ nova)
+                    (NP 
+                     (NNS temporada)
+                     (PP 
+                      (IN de)
+                      (NP 
+                       (NNS espectáculos)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

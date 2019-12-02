@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Festa)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NNS Artes)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS ruas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Figueira)
+         (NNS de_)
+         (NNS a)
+         (NNS Foz)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

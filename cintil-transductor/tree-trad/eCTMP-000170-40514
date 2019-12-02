@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Esta)
+      (NNS lista)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB estipula)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS estrutura)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS entrevista)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB enumera)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS assuntos)
+        (CONJP 
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT os)
+           (PRP quais)
+          )
+         )
+         (S 
+          (NP 
+           (DT as)
+           (NNS federações)
+          )
+          (VP 
+           (VB terão)
+           (PP 
+            (IN de)
+            (VP 
+             (VP 
+              (VB testar)
+              (NP 
+               (DT os)
+               (NNS candidatos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NNS moçambicanos)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB são)
+   )
+   (NP 
+    (NP 
+     (NNS reféns)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS língua)
+        (JJ portuguesa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

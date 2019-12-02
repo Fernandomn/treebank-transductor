@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS custo)
+      (PP 
+       (IN por)
+       (NP 
+        (NNS spot)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS SIC)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB mais)
+      (JJ barato)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC embora)
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS custo)
+         (PP 
+          (IN por)
+          (NP 
+           (NNS audiências)
+          )
+         )
+        )
+       )
+       (VP 
+        (VB seja)
+        (ADJP 
+         (RB mais)
+         (JJ caro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

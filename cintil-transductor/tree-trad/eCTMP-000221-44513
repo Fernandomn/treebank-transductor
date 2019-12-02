@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NNS debate)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS os)
+      (NNS Verdes)
+     )
+    )
+    (VP 
+     (VB falaram)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NP 
+          (NNS sexta-feira)
+          (JJ negra)
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS direitos)
+           (JJ cívicos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Dentro)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NNS cidade)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS excesso)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS velocidade)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (VB penalizado)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS mínimo)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 15)
+          (NNS contos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Portanto)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN metade)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN locador)
+   )
+   (VP 
+    (VBP sai)
+   )
+   (VBG ganhando)
+   (VP 
+    (IN pois)
+    (VP 
+     (VBP recebe)
+    )
+    (NP 
+     (DT mais)
+     (NN aluguel)
+     (VP 
+      (IN do_que)
+      (VP 
+       (VBP vale)
+      )
+      (NP 
+       (DT a)
+       (NN locação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

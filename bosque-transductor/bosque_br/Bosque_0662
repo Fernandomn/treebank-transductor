@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP fechou)
+   )
+   (NP 
+    (DT um)
+    (NN tempo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN divergências)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB abrir)
+     )
+     (NP 
+      (DT uma)
+      (NN era)
+      (PP 
+       (IN de)
+       (NP 
+        (NN convergências)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

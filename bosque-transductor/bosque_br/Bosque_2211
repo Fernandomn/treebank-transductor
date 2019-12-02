@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Patrícia)
+   )
+   (VP 
+    (NP 
+     (DT Minha)
+     (NN literatura)
+    )
+    (VP 
+     (VBP vem)
+    )
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN imagem)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN TV)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN cinema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

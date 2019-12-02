@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ própria)
+    (NNP Receita_Federal)
+   )
+   (VP 
+    (VBP pode)
+    (VB ter)
+   )
+   (ADVP 
+    (RB indiretamente)
+   )
+   (VP 
+    (VBN inspirado)
+   )
+   (NP 
+    (DT este)
+    (NN golpe)
+   )
+  )
+ )
+)

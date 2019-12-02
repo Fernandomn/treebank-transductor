@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS corpos)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (ADVP 
+         (RB por_)
+         (RB o)
+         (RB menos)
+        )
+        (CD uma)
+       )
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (PRP elas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foram)
+      (RB provavelmente)
+     )
+     (VB desenterrados)
+    )
+    (RB posteriormente)
+   )
+  )
+ )
+)

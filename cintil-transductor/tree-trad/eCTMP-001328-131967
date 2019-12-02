@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT As)
+   (NNS chamas)
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS serviço)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS floresta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

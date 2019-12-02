@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Conselho)
+    (NNS de)
+    (NNS Ministros)
+   )
+  )
+  (VP 
+   (VB aprovou)
+   (NP 
+    (NP 
+     (JJ novas)
+     (NP 
+      (NNS leis)
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NNS ferros-velhos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

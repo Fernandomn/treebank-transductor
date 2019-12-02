@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN galo)
+     (NP 
+      (NNP Corky)
+     )
+    )
+    (VP 
+     (VBP cantava)
+    )
+    (ADVP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN 3h)
+      )
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN 7h)
+      )
+     )
+    )
+    (ADVP 
+     (RB diariamente)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (NNP Ritchings)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP conseguia)
+    )
+    (VP 
+     (VP 
+      (VB dormir)
+     )
+    )
+   )
+  )
+ )
+)

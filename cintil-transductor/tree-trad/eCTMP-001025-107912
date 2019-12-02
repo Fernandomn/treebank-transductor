@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS primeiro-ministro)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB disse)
+      (RB ainda)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS patriotismo)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS trabalhadores)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS compreensão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS limitações)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Governo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

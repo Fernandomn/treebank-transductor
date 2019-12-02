@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Maastricht)
+   )
+   (VP 
+    (VB representa)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nascimento)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS Europa)
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (NNS personalidade)
+            (JJ política)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

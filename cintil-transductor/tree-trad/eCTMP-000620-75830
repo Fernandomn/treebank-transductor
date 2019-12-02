@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Quarenta)
+       (NNS anos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS tempo)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB mitificou)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS figura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

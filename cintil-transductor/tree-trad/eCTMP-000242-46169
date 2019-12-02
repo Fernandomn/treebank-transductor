@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pinto)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS Fernanda)
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (CD primeiros)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Maia)
+    )
+   )
+  )
+ )
+)

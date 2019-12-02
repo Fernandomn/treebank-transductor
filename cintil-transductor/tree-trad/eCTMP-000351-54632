@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Sociedade)
+    (NNS Protectora)
+    (NNS de_)
+    (NNS os)
+    (NNS Animais)
+    (NNS de_)
+    (NNS o)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VB fez)
+   (NP 
+    (NNS levantamento)
+   )
+  )
+ )
+)

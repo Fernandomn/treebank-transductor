@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS heroína)
+   )
+   (VP 
+    (VP 
+     (VB tinha)
+     (NP 
+      (NNS origem)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Turquia)
+     )
+    )
+   )
+  )
+ )
+)

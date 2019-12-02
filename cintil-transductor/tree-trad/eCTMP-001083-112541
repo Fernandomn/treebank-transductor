@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ nova)
+     (NNS geração)
+    )
+   )
+   (VP 
+    (VB pega)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS rédeas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS partido)
+          (JJ comunista)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

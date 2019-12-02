@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS custos)
+    )
+    (VP 
+     (VB começam)
+     (PP 
+      (IN a)
+      (VP 
+       (VB estar)
+       (PP 
+        (IN sob)
+        (NP 
+         (NNS controlo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (NNS acções)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS instituições)
+          (JJ financeiras)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB apresentam)
+      (NP 
+       (NP 
+        (NNS sinais)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS firmeza)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

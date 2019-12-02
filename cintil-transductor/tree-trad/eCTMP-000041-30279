@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD segunda)
+       (NNS parte)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS tónica)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS jogo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB continuou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ mesma)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

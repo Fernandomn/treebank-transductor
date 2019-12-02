@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Isso)
+   )
+   (VP 
+    (VBP significa)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (NP 
+      (PRP tudo)
+     )
+     (VP 
+      (VBG indo)
+     )
+     (ADVP 
+      (RB bem)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN criação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN URV)
+      )
+     )
+    )
+    (VP 
+     (VBP fica)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN março)
+     )
+    )
+   )
+  )
+ )
+)

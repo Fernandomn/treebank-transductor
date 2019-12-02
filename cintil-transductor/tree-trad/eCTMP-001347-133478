@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (RB Já)
+   (VP 
+    (VB há)
+    (NP 
+     (PRP muitas)
+     (NP 
+      (CONJP 
+       (NP 
+        (DT cujos)
+        (NNS filhos)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB estão)
+          (PP 
+           (IN a)
+           (VB estudar)
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS estrangeiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

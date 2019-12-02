@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Rodrigo)
+    )
+    (VP 
+     (VB tem)
+     (NP 
+      (CD sete)
+      (NNS anos)
+     )
+    )
+   )
+  )
+ )
+)

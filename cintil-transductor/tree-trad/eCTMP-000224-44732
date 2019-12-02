@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT isso)
+     )
+    )
+    (VP 
+     (VB quer)
+     (VP 
+      (VP 
+       (VB criar)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Planalto)
+          (NNS de_)
+          (NNS a)
+          (NNS Caldeira)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NNS infra-estruturas)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB atraiam)
+           (NP 
+            (NP 
+             (DT os)
+             (NNS investidores)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (DT as)
+              (NP 
+               (NNS empresas)
+               (ADJP 
+                (RB agora)
+                (ADJP 
+                 (VB sediadas)
+                 (PP 
+                  (IN em_)
+                  (NP 
+                   (DT uma)
+                   (NP 
+                    (NNS Lisboa)
+                    (ADJP 
+                     (JJ asfixiada)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN primeira)
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (CD dez)
+    (NN anos)
+   )
+   (PP 
+    (IN há)
+    (NP 
+     (DT pouco)
+    )
+   )
+  )
+ )
+)

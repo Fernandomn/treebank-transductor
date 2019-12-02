@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN gente)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP pode)
+    (VB pensar)
+   )
+   (PP 
+    (IN em)
+    (VP 
+     (VP 
+      (VB jogar)
+     )
+     (NP 
+      (DT a)
+      (NN mulher)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mercado)
+       (PP 
+        (IN de)
+        (NP 
+         (NN trabalho)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB enquanto)
+    )
+    (VP 
+     (VBP houver)
+    )
+    (NP 
+     (NN excesso)
+     (PP 
+      (IN de)
+      (NP 
+       (NN mão-de-obra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Creio)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT essa)
+     (NN vocação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN poeta)
+      )
+     )
+    )
+    (VP 
+     (VBP determinou)
+    )
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (JJ maiores)
+       (NN problemas)
+       (VP 
+        (VP 
+         (VBP há)
+        )
+        (NP 
+         (DT vários)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN realização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN obra)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Murilo_Mendes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

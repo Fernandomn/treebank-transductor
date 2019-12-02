@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Junto)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS condutor)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB estava)
+       (RB já)
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (CD segundo)
+       (NNS assaltante)
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VB empunhando)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS arma)
+        (JJ semelhante)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

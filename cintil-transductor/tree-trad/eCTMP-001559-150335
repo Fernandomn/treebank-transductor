@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNS Bagdad)
+  )
+  (VP 
+   (VP 
+    (VB recebe)
+    (PP 
+     (IN com)
+     (NP 
+      (NNS calma)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS resolução)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS ONU)
+      )
+     )
+    )
+   )
+  )
+ )
+)

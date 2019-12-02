@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS âmago)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS teologia)
+           (JJ católica)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB há)
+     )
+     (NP 
+      (NP 
+       (NNS conversão)
+       (JJ forçada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

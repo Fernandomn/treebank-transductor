@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NNS Japão)
+  )
+  (VP 
+   (VB divulga)
+   (NP 
+    (NP 
+     (JJ novo)
+     (NP 
+      (NNS pacote)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS medidas)
+         (PP 
+          (IN para)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS abertura)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NNS mercados)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

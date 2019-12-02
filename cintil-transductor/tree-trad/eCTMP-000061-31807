@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS comissão)
+   )
+   (VP 
+    (VP 
+     (VB reagiu)
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD segunda)
+         (NP 
+          (NNS vez)
+          (PP 
+           (IN em)
+           (NP 
+            (PRP poucos)
+            (NNS meses)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS anúncios)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS empresa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Debate)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS estado)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS nação)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Espanha)
+     )
+    )
+   )
+  )
+ )
+)

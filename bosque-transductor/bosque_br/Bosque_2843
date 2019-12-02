@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (PP 
+     (IN Em+)
+     (NP 
+      (DT o)
+      (NN caso)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Vereda_da_Salvação)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB como)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (DT esse)
+     (NN trabalho)
+     (ADJP 
+      (JJ conjunto)
+     )
+    )
+   )
+  )
+ )
+)

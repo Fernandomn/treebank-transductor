@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT As)
+       (NNS colectividades)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB devem)
+       )
+       (VP 
+        (VB estar)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS serviço)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS partidos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB dizia)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS entrevista)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NNS vereador)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN frase)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NP ex-presidente)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN referência)
+    (PP 
+     (IN a)
+     (ADJP 
+      (CD uma)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN promessas)
+        (VP 
+         (VP 
+          (VBN feitas)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (NNP Cafeteira)
+           (NP 
+            (DT um)
+            (NP ex-sarneyzista)
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (VP 
+              (VBP insinuava)
+             )
+             (PP 
+              (IN durante)
+              (NP 
+               (DT a)
+               (DT sua)
+               (NN campanha)
+              )
+             )
+             (VP 
+              (VP 
+               (VB mandar)
+              )
+              (NP 
+               (NNP Sarney)
+              )
+              (PP 
+               (IN para_fora_de+)
+               (NP 
+                (DT o)
+                (DT seu)
+                (NN Estado)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

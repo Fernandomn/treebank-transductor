@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (ADJP 
+      (RB mais)
+      (JJ importante)
+     )
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN a)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS linha)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS redução)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS custos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

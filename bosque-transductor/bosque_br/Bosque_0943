@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Findo)
+    )
+    (NP 
+     (DT esse)
+     (NN prazo)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN conversão)
+    (PP 
+     (IN para)
+     (NP 
+      (NN URV)
+     )
+    )
+   )
+   (VP 
+    (VBP seria)
+   )
+   (ADJP 
+    (JJ obrigatória)
+   )
+   (ADVP 
+    (RB conforme)
+    (NP 
+     (NN regras)
+     (VP 
+      (ADVP 
+       (RB previamente)
+      )
+      (VP 
+       (VBN fixadas)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

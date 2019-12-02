@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Se)
+       (S 
+        (VP 
+         (VB for)
+         (VB eleito)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB reduzirei)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS despesas)
+          (JJ federais)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (CD 50)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD primeiro)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Funcionamento)
+     (JJ dominical)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS centros)
+       (JJ comerciais)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB ser)
+    (VB restringido)
+   )
+  )
+ )
+)

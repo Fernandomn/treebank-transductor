@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB há)
+    )
+    (NP 
+     (PRP qualquer)
+     (NP 
+      (NP 
+       (NNS equilíbrio)
+       (JJ possível)
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS valores)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS princípios)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ tal)
+      (NP 
+       (NNS moldura)
+       (JJ penal)
+      )
+     )
+    )
+   )
+  )
+ )
+)

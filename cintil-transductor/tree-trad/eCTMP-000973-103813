@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Portugal)
+     (NNS Telecom)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT outro)
+     (NP 
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS títulos)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (RB ontem)
+         (VP 
+          (VB esteve)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS destaque)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

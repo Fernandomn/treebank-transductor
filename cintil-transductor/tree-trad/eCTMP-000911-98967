@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Edimburgo)
+   )
+  )
+  (PP 
+   (IN durante)
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS presidência)
+      (JJ britânica)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS CEE)
+      )
+     )
+    )
+   )
+  )
+ )
+)

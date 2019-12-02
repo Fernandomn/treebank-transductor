@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS atribuição)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS indemnizações)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (RB depois)
+    )
+    (VP 
+     (VB decidida)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Tribunal)
+        (NNS Administrativo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

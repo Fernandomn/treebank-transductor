@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN indigente)
+    (VP 
+     (VP 
+      (VBN conhecido)
+     )
+     (ADVP 
+      (RB como)
+      (NP 
+       (NNP Daniel)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN encontrado)
+   )
+   (VP 
+    (VP 
+     (VBN caído)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN rua)
+      (NP 
+       (NNP Canindé)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN madrugada)
+      (PP 
+       (IN de)
+       (RB ontem)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN policiais)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP estavam)
+       (VBG fazendo)
+      )
+      (NP 
+       (NN patrulhamento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

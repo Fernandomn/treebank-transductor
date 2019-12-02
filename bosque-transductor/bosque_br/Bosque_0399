@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Só)
+    (RB assim)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP evitará)
+   )
+   (NP 
+    (DT a)
+    (NN estratificação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN legislação)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG permitindo)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN sistema)
+     )
+     (VP 
+      (VBP acompanhe)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN maneira)
+       (ADJP 
+        (JJ dinâmica)
+       )
+      )
+     )
+     (NP 
+      (DT as)
+      (NN transformações)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN economia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

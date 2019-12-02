@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS Porto)
+      )
+     )
+    )
+    (VP 
+     (VB funciona)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Praça)
+        (NNS Humberto)
+        (NNS Delgado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

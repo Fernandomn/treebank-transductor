@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (NP 
+        (DT As)
+        (NP 
+         (NNS famílias)
+         (JJ chinesas)
+        )
+       )
+       (VP 
+        (VB estão)
+        (PP 
+         (IN a)
+         (VP 
+          (VB ficar)
+          (ADJP 
+           (RB mais)
+           (JJ pequenas)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (NP 
+         (DT um)
+         (NNS cão)
+        )
+        (VP 
+         (VP 
+          (VB é)
+          (RB sempre)
+         )
+         (NP 
+          (DT uma)
+          (NNS companhia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB diz)
+      (RB também)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Chen)
+      (NNS Shisong)
+     )
+    )
+   )
+  )
+ )
+)

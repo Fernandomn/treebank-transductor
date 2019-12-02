@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS gaveta)
+       (JJ secreta)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS juízes)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS tribunais)
+            (JJ franquistas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

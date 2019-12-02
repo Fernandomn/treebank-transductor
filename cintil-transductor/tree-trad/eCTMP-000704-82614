@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Alguns)
+    (NNS passageiros)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (VP 
+       (VB aguardam)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS central)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS camionagem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (PRP poucos)
+          (NP 
+           (NNS edifícios)
+           (ADJP 
+            (RB totalmente)
+            (VB reconstruídos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

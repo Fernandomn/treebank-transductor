@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS emissão)
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB cotada)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Bolsa)
+       (NNS de)
+       (NNS Valores)
+       (NNS de_)
+       (NNS o)
+       (NNS Luxemburgo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

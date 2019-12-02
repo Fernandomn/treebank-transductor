@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN países)
+    (ADJP 
+     (JJ integrantes)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN instituto)
+     )
+    )
+   )
+   (VP 
+    (VBP enviam)
+   )
+   (NP 
+    (DT o)
+    (NN texto)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (JJ novo)
+      (NN acordo)
+      (PP 
+       (IN para)
+       (NP 
+        (DT seus)
+        (NN governos)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN aprovação)
+      (ADJP 
+       (JJ final)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP deve)
+        (VB ocorrer)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN semana)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP vem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

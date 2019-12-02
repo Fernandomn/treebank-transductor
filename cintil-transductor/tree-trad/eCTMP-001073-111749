@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS equipa)
+      (JJ técnica)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB por)
+      (RB enquanto)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB há)
+     )
+     (NP 
+      (NNS comentários)
+     )
+    )
+   )
+  )
+ )
+)

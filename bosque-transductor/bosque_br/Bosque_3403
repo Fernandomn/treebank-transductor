@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN madrugada)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN prédios)
+   )
+   (VP 
+    (VBP foram)
+    (VBN vigiados)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN distância)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN homens)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Rota)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP estavam)
+      )
+      (PP 
+       (IN sem)
+       (NP 
+        (NN farda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

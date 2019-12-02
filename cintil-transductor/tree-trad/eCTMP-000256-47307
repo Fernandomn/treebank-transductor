@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Grande)
+    (NNS Terror)
+   )
+  )
+  (VP 
+   (VB começou)
+   (CONJP 
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (CD 60)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

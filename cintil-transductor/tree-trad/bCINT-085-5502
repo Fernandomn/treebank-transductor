@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS chegada)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Torres)
+           (NNS Campos)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Parque)
+          (NNS Expo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (CD duas)
+     (NNS caras)
+    )
+    (VP 
+     (VB mudaram)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS administração)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS empresa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

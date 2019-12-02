@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Ambos)
+   )
+   (VP 
+    (VBP seguraram)
+   )
+   (NP 
+    (DT uma)
+    (NN bandeira)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP Estados_Unidos)
+     )
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT a)
+     (NN partida)
+    )
+   )
+  )
+ )
+)

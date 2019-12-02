@@ -1,0 +1,104 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Cite)
+    )
+    (NP 
+     (NP 
+      (DT uma)
+      (NN cantora)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN bossa_nova)
+       )
+      )
+     )
+     ou
+     (NP 
+      (NN estrela)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN televisão)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN anos)
+        (ADJP 
+         (CD 60)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (DT poucas)
+     (NN chances)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (PRP ele)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (NP 
+        (PRP a)
+       )
+       (VP 
+        (VBP tenha)
+        (VBN namorado)
+       )
+       (ADVP 
+        (RB sempre)
+       )
+       (VP 
+        (VP 
+         (VBG dando)
+        )
+        (NP 
+         (DT a)
+         (NN impressão)
+         (PP 
+          (IN de)
+          (VP 
+           (IN que)
+           (VP 
+            (VBP fazia)
+           )
+           (NP 
+            (PRP isto)
+           )
+           (PP 
+            (IN por)
+            (NP 
+             (NN tarefa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

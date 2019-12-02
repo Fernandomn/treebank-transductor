@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT tanto)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ imprescindível)
+   )
+   (VP 
+    (VP 
+     (VB priorizar)
+    )
+    (NP 
+     (DT algumas)
+     (NN ações)
+     (NP 
+      (RB como)
+      (UCP 
+       (NP 
+        (DT a)
+        (NN recuperação)
+        (PP 
+         (PP 
+          (IN de)
+          (NP 
+           (NN unidades)
+           (ADJP 
+            (JJ armazenadoras)
+            (PP 
+             (IN de)
+             (NP 
+              (NN cereais)
+             )
+            )
+           )
+          )
+         )
+         e
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (NN rodovias)
+          )
+         )
+        )
+       )
+       (IN além_de+)
+       (NP 
+        (DT o)
+        (NN incentivo)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN utilização)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT as)
+            (NN ferrovias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

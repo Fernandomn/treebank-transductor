@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS CDTV)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS tecnologia)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB combina)
+          (NP 
+           (NP 
+            (DT o)
+            (NNS áudio)
+           )
+           (NP 
+            (NP 
+             (NP 
+              (DT o)
+              (NNS vídeo)
+             )
+             (NP 
+              (NP 
+               (NP 
+                (DT as)
+                (NP 
+                 (NNS capacidades)
+                 (JJ gráficas)
+                )
+               )
+               (NP 
+                (CC e)
+                (NP 
+                 (DT o)
+                 (NNS texto)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Por)
+      (RB outro)
+      (RB lado)
+     )
+    )
+    (VP 
+     (VB poderá)
+     (VP 
+      (VB permitir)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS acesso)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS investidores)
+            (JJ nacionais)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS mercados)
+           (JJ internacionais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

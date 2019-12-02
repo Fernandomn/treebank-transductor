@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Comparando)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS nascimento)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS euro)
+    )
+    (VP 
+     (VB está)
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (ADVP 
+         (NP 
+          (NP 
+           (ADVP 
+            (RB cerca)
+            (RB de)
+           )
+           (NP 
+            (CD sete)
+            (NP 
+             (NN por)
+             (NN cento)
+            )
+           )
+          )
+         )
+        )
+        (RB mais)
+       )
+       (JJ alto)
+      )
+      de_ o que
+      (NP 
+       (DT o)
+       (NP 
+        (NNS dólar)
+        (JJ norte-americano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

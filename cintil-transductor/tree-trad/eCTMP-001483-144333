@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Presidente)
+    (NNS Kabila)
+   )
+  )
+  (VP 
+   (ADVP 
+    (RB cada)
+    (RB vez)
+   )
+   (VP 
+    (ADJP 
+     (RB mais)
+     (JJ isolado)
+    )
+   )
+  )
+ )
+)

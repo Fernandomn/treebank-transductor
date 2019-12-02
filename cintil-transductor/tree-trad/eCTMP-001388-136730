@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB Querem)
+        (VP 
+         (VB demitir)
+         (NP 
+          (DT o)
+          (NNS ministro)
+         )
+        )
+       )
+       (CONJP 
+        (CC porque)
+        (S 
+         (NP 
+          (PRP ele)
+         )
+         (VP 
+          (VB é)
+          (JJ mestiço)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+   )
+  )
+ )
+)

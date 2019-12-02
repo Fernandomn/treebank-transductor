@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Presidente)
+    (NNS de_)
+    (NNS a)
+    (NNS Confederação)
+    (NNS Helvética)
+   )
+  )
+  (VP 
+   (VP 
+    (VB discute)
+    (NP 
+     (NNS adesão)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+  )
+ )
+)

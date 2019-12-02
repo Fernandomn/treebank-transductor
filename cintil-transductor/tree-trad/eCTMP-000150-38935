@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Trata)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS modelo)
+      (ADJP 
+       (ADJP 
+        (ADJP 
+         (RB mais)
+         (JJ potente)
+        )
+        (CONJP 
+         (CC que)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ anterior)
+           (NP 
+            (NNS Clio)
+            (NNS Williams)
+           )
+          )
+         )
+        )
+       )
+       (ADJP 
+        (CC e)
+        (ADJP 
+         (VB desenvolvido)
+         (PP 
+          (RB especialmente)
+          (PP 
+           (IN para)
+           (NP 
+            (DT a)
+            (NNS competição)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

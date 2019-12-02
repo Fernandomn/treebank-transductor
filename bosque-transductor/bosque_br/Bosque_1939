@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN empresários)
+    (ADJP 
+     (JJ brasileiros)
+    )
+   )
+   (VP 
+    (VBP acreditam)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN setores)
+     (ADJP 
+      (RB mais)
+      (JJ propícios)
+      (PP 
+       (IN a)
+       (NP 
+        (NN investimentos)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NNP Argentina)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP são)
+    )
+    (NP 
+     (NP 
+      (NN cerveja)
+     )
+     (NP 
+      (NN celulose)
+     )
+     (NP 
+      (NN alimentos)
+     )
+     (NP 
+      (NN petroquímica)
+     )
+     (NP 
+      (NN telecomunicações)
+     )
+     e
+     (NP 
+      (NN gás)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN dimensão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN fato)
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN relatividade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (DT sua)
+        (NN importância)
+        (PP 
+         (IN para)
+         (NP 
+          (DT cada)
+          (NN leitor)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (PP 
+     (RB não)
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN espaço)
+      (ADJP 
+       (JJ narcísico)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP ocupa)
+       )
+       (PP 
+        (IN sob)
+        (NP 
+         (DT uma)
+         (NN assinatura)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

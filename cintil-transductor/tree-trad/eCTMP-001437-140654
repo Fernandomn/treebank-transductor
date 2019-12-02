@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NNS palavra)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP nada)
+    )
+    (VP 
+     (VB parece)
+     (VP 
+      (VB afligi)
+      (NP 
+       (PRP -lo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

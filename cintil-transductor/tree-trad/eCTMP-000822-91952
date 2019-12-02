@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT Isto)
+      )
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS filme)
+        )
+       )
+       (VP 
+        (VB pode)
+        (VP 
+         (VB ser)
+         (ADJP 
+          (RB muito)
+          (JJ bonito)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS vida)
+          (JJ real)
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB tenho)
+        )
+        (NP 
+         (DT a)
+         (NNS certeza)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

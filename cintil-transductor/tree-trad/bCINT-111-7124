@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS obra)
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ completa)
+     (VP 
+      (CC e)
+      (VP 
+       (RB agora)
+       (VP 
+        (VB editada)
+        (PP 
+         (IN em)
+         (NP 
+          (CD 11)
+          (NNS DVDs)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

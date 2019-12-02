@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Moura)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS olivicultores)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB perderam)
+      (NP 
+       (NP 
+        (CD 20)
+        (NP 
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS produção)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS azeitona)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ano)
+      (JJ passado)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB fixou)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS equipa)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB foi)
+       (VB emprestado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

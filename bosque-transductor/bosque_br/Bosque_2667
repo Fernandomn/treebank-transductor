@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (NP 
+    (DT os)
+    (NN bancos)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP adequaram)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (JJ novas)
+     (NN regras)
+    )
+   )
+  )
+ )
+)

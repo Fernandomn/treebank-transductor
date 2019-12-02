@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT As)
+     (NP 
+      (NNS divisas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS SME)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB evoluíram)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS faixa)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 8,5)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

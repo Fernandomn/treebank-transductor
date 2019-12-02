@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN caso)
+    (ADJP 
+     (JJ típico)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Someone_to_Watch_Over_Me)
+      (ADJP 
+       (CD 1926)
+      )
+      (VP 
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP nasceu)
+        )
+        (ADJP 
+         (JJ brejeira)
+        )
+       )
+       e
+       (VP 
+        (NP 
+         (NNP Ira)
+        )
+        (VP 
+         (VBP recomendou)
+        )
+        (VP 
+         (IN que)
+         (NP 
+          (PRP ela)
+         )
+         (NP 
+          (PRP se)
+         )
+         (VP 
+          (VBP tornasse)
+         )
+         (NP 
+          (DT uma)
+          (NN balada)
+          (ADJP 
+           (JJ romântica)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

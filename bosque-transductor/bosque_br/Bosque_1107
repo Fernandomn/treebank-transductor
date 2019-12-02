@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NN socióloga)
+     )
+     e
+     (NP 
+      (NN cientista)
+     )
+    )
+    (ADJP 
+     (JJ política)
+    )
+   )
+   (VP 
+    (VBP falou)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT o)
+     (NN tema)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ última)
+     (NN conferência)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN encontro)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Associação_Nacional_de_Pós-graduação_em_Ciências_Sociais)
+         (NP 
+          (NNP Anpocs)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

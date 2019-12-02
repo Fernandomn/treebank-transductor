@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT um)
+     (NN homem)
+     (NP 
+      (RB como)
+      (NP 
+       (NNP Weber)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN jogo)
+   )
+   (VP 
+    (VBP fica)
+   )
+   (ADJP 
+    (RB mais)
+    (JJ fácil)
+    (PP 
+     (IN para)
+     (NP 
+      (DT todo)
+      (DT o)
+      (NN time)
+     )
+    )
+   )
+  )
+ )
+)

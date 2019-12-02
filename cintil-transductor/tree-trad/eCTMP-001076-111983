@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (RB Primeiro)
+   (S 
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS taser)
+      )
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS bastão)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB provoca)
+           (NP 
+            (DT uma)
+            (NP 
+             (JJ poderosa)
+             (NP 
+              (NNS descarga)
+              (JJ eléctrica)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

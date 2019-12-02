@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Só)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS caso)
+       )
+       (NP 
+        (NNS Kola)
+        (NNS Bankole)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB houve)
+    (NP 
+     (CD quatro)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB fizeram)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mesmo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

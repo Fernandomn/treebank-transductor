@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB é)
+      )
+      (JJ fácil)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS solução)
+        (JJ acabada)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT este)
+         (NNS problema)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB é)
+      (ADJP 
+       (JJ possível)
+       (ADJP 
+        (CC e)
+        (ADJP 
+         (RB certamente)
+         (JJ útil)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT uma)
+      (NNS reflexão)
+     )
+    )
+   )
+  )
+ )
+)

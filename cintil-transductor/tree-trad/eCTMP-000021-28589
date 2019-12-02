@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Ainda)
+     (RB assim)
+    )
+   )
+   (S 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS final)
+     )
+    )
+    (S 
+     (NP 
+      (PRP todos)
+     )
+     (VP 
+      (VB ficaram)
+      (JJ contentes)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ontem)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS festa)
+       (JJ prevista)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS Braga)
+         (NNS de)
+         (NNS Macedo)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB acabou)
+     (PP 
+      (IN por)
+      (VP 
+       (VB decorrer)
+       (PP 
+        (IN sem)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS presença)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

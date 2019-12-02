@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP muitos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Paraíso)
+      (NNS Infernal)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS obra)
+        (JJ maior)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Howard)
+          (NNS Hawks)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

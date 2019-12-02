@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Quanto_a+)
+     (NP 
+      (DT as)
+      (NN tarifas)
+      (ADJP 
+       (JJ públicas)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP serão)
+     (VBN fixadas)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP URV)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB evitar)
+      )
+      (NP 
+       (NN reajustes)
+       (ADJP 
+        (JJ diários)
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP terão)
+    )
+    (NP 
+     (NN correções)
+     (ADJP 
+      (JJ periódicas)
+     )
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN indexador)
+     )
+    )
+   )
+  )
+ )
+)

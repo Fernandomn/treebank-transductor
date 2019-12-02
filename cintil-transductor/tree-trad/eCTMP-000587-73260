@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isto)
+    )
+   )
+   porque ,
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NNS Europa)
+     )
+     (VP 
+      (PP 
+       (PP 
+        (PP 
+         (IN para)
+         (IN além)
+         (IN de_)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS dimensão)
+          (JJ económica)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB tem)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ter)
+         (NP 
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS dimensão)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS cidadania)
+             )
+            )
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS dimensão)
+             (JJ social)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

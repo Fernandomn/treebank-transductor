@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN falha)
+   )
+   (VP 
+    (VBP ocorreu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN momento)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VP 
+         (VB conferir)
+        )
+       )
+       (VP 
+        (VP 
+         (VB reembalar)
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VB repassar)
+        )
+        (NP 
+         (DT os)
+         (NN pacotes)
+         (PP 
+          (IN de)
+          (NP 
+           (NN moedas)
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NN tesouraria)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN banco)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

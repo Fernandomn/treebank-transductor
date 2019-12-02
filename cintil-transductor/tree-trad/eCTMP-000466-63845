@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB esperava)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS reacção)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT aquelas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB teve)
+      (NP 
+       (NNS medo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

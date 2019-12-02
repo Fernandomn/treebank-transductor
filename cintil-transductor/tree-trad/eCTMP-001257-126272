@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS portugueses)
+   )
+   (VP 
+    (VP 
+     (VB voltaram)
+     (PP 
+      (IN a)
+      (VP 
+       (VB estar)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (JJ bom)
+          (NNS nível)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Maratona)
+       (NNS de)
+       (NNS Paris)
+      )
+     )
+    )
+   )
+  )
+ )
+)

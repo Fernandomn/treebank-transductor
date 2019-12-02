@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tenho)
+    (IN que)
+    (VB voltar)
+   )
+   (ADVP 
+    (RB amanhã)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN cabeça)
+     (ADJP 
+      (JJ fresca)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB voltar)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN ataque)
+      )
+     )
+    )
+   )
+  )
+ )
+)

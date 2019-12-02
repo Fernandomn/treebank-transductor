@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN família)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN bicheiro)
+      (NP 
+       (NNP José_Scafura)
+      )
+      (NP 
+       (DT o)
+       (NNP Piruínha)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP espera)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT qualquer)
+     (NN momento)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN libertação)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP André)
+      (ADJP 
+       (CD 15)
+      )
+      (VP 
+       (VP 
+        (VBN sequestrado)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN noite)
+         (PP 
+          (IN de)
+          (NP 
+           (NN terça-feira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

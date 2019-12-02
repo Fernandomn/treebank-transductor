@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Já)
+    )
+    (NP 
+     (DT as)
+     (NN submetralhadoras)
+    )
+    (VP 
+     (VBP disparam)
+    )
+    (NP 
+     (NN balas)
+     (ADJP 
+      (JJ semelhantes)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN revólveres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP podem)
+     (VB fazer-)
+    )
+    (NP 
+     (PRP lo)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN rajadas)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NN alcance)
+      (ADJP 
+       (JJ curto)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT dezenas)
+        (PP 
+         (IN de)
+         (NP 
+          (NN metros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

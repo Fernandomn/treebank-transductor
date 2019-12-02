@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN ação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP PF)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP começou)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN 16h30)
+       (PP 
+        (IN de)
+        (RB anteontem)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB só)
+     )
+     (VP 
+      (VBP terminou)
+     )
+     (ADVP 
+      (RB ontem)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (NN 15h30)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

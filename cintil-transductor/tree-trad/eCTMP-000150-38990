@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS orientações)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS CDS)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB apresentam)
+    )
+    (NP 
+     (NP 
+      (JJ grandes)
+      (NP 
+       (NNS inovações)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT esta)
+         (NNS matéria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

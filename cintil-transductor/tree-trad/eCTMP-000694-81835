@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Uma)
+     (NP 
+      (NNS funcionária)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS banco)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB tomou)
+     (NP 
+      (NP 
+       (NNS nota)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS dados)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB prometeu)
+       (NP 
+        (PRP -me)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS despacho)
+        (JJ imediato)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

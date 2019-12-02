@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Agora)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Grande)
+      (NNS Prémio)
+     )
+    )
+    (VP 
+     (VP 
+      (VB vai)
+      (VB prosseguir)
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS território)
+          (JJ americano)
+         )
+        )
+       )
+      )
+      (PP 
+       (CC mas)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS norte)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

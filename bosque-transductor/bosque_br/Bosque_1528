@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN droga)
+    (NP 
+     (NN salmeterol)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (RB mais)
+    (JJ eficaz)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB tratar)
+     )
+     (NP 
+      (NN asma)
+     )
+     (ADVP 
+      (RB a_longo_prazo)
+     )
+    )
+    (SBAR do_que
+     (S 
+      (DT a)
+      (ADJP 
+       (RB comumente)
+       (VBN usada)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NN estudo)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (JJ última)
+       (NN edição)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN revista)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Associação_Médica_Norte-americana)
+           (NP 
+            (NNP Jama)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estas)
+   )
+   (S 
+    (VP 
+     (VB são)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS propostas)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (DT o)
+         (NNS PP)
+        )
+        (VP 
+         (VB vai)
+         (VP 
+          (VP 
+           (VB avançar)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NNS Assembleia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

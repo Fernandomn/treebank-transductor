@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD Sete)
+    (CD mil)
+   )
+   (NP 
+    (NNS pedidos)
+    (PP 
+     (IN em)
+     (NP 
+      (CD dois)
+      (NNS anos)
+     )
+    )
+   )
+  )
+ )
+)

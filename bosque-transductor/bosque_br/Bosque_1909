@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Dançamos)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NN hospitais)
+      )
+      e
+      (NP 
+       (NN manicômios)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (ADJP 
+    (CD uma)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN tias)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN noivo)
+        (NP 
+         (DT uma)
+         (NN senhora)
+         (PP 
+          (IN para)
+          (NP 
+           (DT as)
+           (NN colegas)
+           (NP 
+            (NN peruas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

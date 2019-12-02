@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS domínio)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS evolução)
+    )
+    (VP 
+     (VB tem)
+     (VP 
+      (VB sido)
+      (ADJP 
+       (ADJP 
+        (RB extraordinariamente)
+        (JJ lenta)
+       )
+       (ADJP 
+        (CC e)
+        (ADJP 
+         (RB até)
+         (JJ contraditória)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Tem)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB haver)
+        (NP 
+         (DT um)
+         (NNS controlo)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT isto)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (RB depois)
+       (S 
+        (NP 
+         (DT as)
+         (NNS pessoas)
+        )
+        (VP 
+         (RB não)
+         (VB compram)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

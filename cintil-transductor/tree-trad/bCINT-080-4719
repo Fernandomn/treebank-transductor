@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS ministro)
+    )
+    (VP 
+     (VP 
+      (VB fez)
+      (RB então)
+     )
+     (NP 
+      (NP 
+       (NNS apelo)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS experiência)
+          (JJ parlamentar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB encerrou)
+      (NP 
+       (DT aquela)
+       (NNS palestra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

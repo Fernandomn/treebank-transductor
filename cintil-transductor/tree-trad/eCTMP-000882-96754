@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CD últimos)
+     (NP 
+      (NNS dados)
+      (JJ disponíveis)
+     )
+    )
+   )
+   (VP 
+    (VB indicam)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS realização)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 194)
+         (NP 
+          (NP 
+           (NNS escutas)
+           (JJ legais)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Lisboa)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD 1990)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

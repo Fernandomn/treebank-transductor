@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Apenas)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ pequena)
+      (NNS percentagem)
+     )
+    )
+   )
+   (VP 
+    (VB subsistia)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS custa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS subsídio)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS desemprego)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

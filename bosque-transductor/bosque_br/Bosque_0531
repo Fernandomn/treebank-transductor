@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Embora)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP ocorra)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+    (ADVP 
+     (IN há)
+     (RB muito)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB absolutamente)
+   )
+   (ADJP 
+    (JJ normal)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN países)
+     (PP 
+      (IN de)
+      (NP 
+       (JJ maior)
+       (NN tradição)
+       (ADJP 
+        (JJ democrática)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PRP que)
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP tenha)
+      )
+      (NP 
+       (DT um)
+       (NN candidato)
+      )
+     )
+     e
+     (VP 
+      (NP 
+       (PRP o)
+      )
+      (VP 
+       (VBP apóie)
+      )
+     )
+    )
+   )
+  )
+ )
+)

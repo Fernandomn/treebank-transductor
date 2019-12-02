@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Torre)
+    (NNS de_)
+    (NNS o)
+    (NNS Tombo)
+   )
+  )
+  (VP 
+   (VB conclui)
+   (NP 
+    (NP 
+     (NNS microfilmagens)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS período)
+        (JJ colonial)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

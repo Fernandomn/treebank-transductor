@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP João_Paulo_Bordon)
+    (NP 
+     (NP vice-presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Swift-Armour)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP alega)
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VB ter)
+     (VBN sido)
+     (VBN comunicado)
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN realização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN assembléia)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN empresa)
+         )
+        )
+        (PP 
+         (IN para)
+         (VP 
+          (VP 
+           (VB ratificar)
+          )
+          (NP 
+           (DT a)
+           (NN concordata)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

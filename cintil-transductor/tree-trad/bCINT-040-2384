@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS taxa)
+      (JJ média)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS overnight)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB desceu)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 7,4780)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (CD 7,4411)
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

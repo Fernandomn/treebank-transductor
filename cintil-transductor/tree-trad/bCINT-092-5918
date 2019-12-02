@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Longe)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT estes)
+      (NNS problemas)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB está)
+    )
+    (NP 
+     (NP 
+      (NNS Carlos)
+      (NNS Manuel)
+     )
+    )
+   )
+  )
+ )
+)

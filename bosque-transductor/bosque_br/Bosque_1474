@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Cada)
+    (NN modelo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN fac-símile)
+      (PP 
+       (IN com)
+       (NP 
+        (DT suas)
+        (NN especificações)
+        (ADJP 
+         (JJ técnicas)
+        )
+        (ADJP 
+         (JJ peculiares)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP recebe)
+   )
+   (NP 
+    (DT uma)
+    (NN patente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN tipo)
+      (NP 
+       (NN MI)
+      )
+      (NP 
+       (NN modelo)
+       (ADJP 
+        (JJ industrial)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

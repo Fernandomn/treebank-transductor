@@ -1,0 +1,15 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS tempo)
+  )
+  (VP 
+   (VB tem)
+   (PP 
+    (IN de)
+    (VB parar)
+   )
+  )
+ )
+)

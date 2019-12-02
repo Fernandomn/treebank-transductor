@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Esta)
+     (NNS disciplina)
+    )
+    (VP 
+     (VP 
+      (VB produz)
+      (ADVP 
+       (ADVP 
+        (RB por)
+        (RB um)
+        (RB lado)
+       )
+      )
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ certa)
+       (NNS nivelação)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB garante)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS consistência)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS produto)
+           (JJ final)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

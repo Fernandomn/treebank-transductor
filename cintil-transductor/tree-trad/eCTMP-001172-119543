@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB De)
+     (RB certa)
+     (RB forma)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS unificação)
+      (JJ alemã)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS problema)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NNS Europa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

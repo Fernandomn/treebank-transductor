@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN lesão)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP foi)
+     )
+     (ADJP 
+      (JJ grande)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP vai)
+      (VB deixar)
+     )
+     (NP 
+      (NN sequelas)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Investigadores)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Massachusetts)
+       (NNS Institute)
+       (NNS of)
+       (NNS Technology)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB criam)
+   (NP 
+    (NP 
+     (JJ novo)
+     (NP 
+      (NNS tipo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS laser)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

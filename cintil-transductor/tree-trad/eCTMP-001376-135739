@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS aspecto)
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VP 
+       (RB não)
+       (VB fomos)
+      )
+      (ADJP 
+       (RB muito)
+       (JJ consistentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

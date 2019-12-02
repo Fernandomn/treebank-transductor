@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Muitos)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS pareceres)
+       )
+      )
+     )
+    )
+    (VP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VB foram)
+        (VP 
+         (VB apresentados)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT os)
+           (NP 
+            (JJ respectivos)
+            (NNS relatores)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB eram)
+      (ADJP 
+       (RB completamente)
+       (JJ diferentes)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB houve)
+      (NP 
+       (PRP imensas)
+       (NNS discussões)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS cornetas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS batedores)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB remontam)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS século)
+       (NNS XVII)
+      )
+     )
+    )
+   )
+  )
+ )
+)

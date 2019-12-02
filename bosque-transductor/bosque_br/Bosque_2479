@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Senão)
+    (NP 
+     (PRP eu)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP ia)
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (VP 
+     (VP 
+      (VB conseguir)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB discutir)
+       )
+       (NP 
+        (NN salário)
+        (PP 
+         (IN com)
+         (NP 
+          (PRP ele)
+         )
+        )
+       )
+       (PP 
+        (IN sem)
+        (VP 
+         (NP 
+          (PRP me)
+         )
+         (VP 
+          (VB lembrar)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN episódio)
+          )
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VB rir)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

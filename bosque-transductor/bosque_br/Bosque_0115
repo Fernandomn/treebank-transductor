@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pesquisadores)
+   )
+   (VP 
+    (VBP acham)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN linhas)
+    )
+    (VP 
+     (VBP podem)
+     (VB ser)
+    )
+    (NP 
+     (NN falhas)
+     (ADJP 
+      (JJ geológicas)
+     )
+    )
+   )
+  )
+ )
+)

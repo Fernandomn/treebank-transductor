@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (RB Aqui)
+   (S 
+    (S 
+     (VP 
+      (VB vivem)
+     )
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (CD 2500)
+      )
+      (NNS pessoas)
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB constituindo)
+       (NP 
+        (NP 
+         (ADVP 
+          (RB mais)
+          (RB de)
+         )
+         (CD mil)
+        )
+        (NNS famílias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (ADVP 
+       (RB Por)
+       (RB um)
+       (RB lado)
+      )
+     )
+     (VP 
+      (VB preenche)
+      (NP 
+       (NP 
+        (NNS lacunas)
+        (JJ históricas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB por)
+        (RB outro)
+       )
+      )
+      (VP 
+       (VB corre)
+       (NP 
+        (NP 
+         (NNS riscos)
+         (JJ estéticos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

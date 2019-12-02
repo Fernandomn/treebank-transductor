@@ -1,0 +1,105 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Abav)
+       (NP 
+        (NNP Sérgio_Nogueira)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN expectativa)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN mercado)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN viagens)
+       )
+       e
+       (NP 
+        (NN turismo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP recupere)
+    )
+    (NP 
+     (DT este)
+     (NN ano)
+    )
+    (NP 
+     (DT os)
+     (DT mesmos)
+     (NN índices)
+     (ADJP 
+      (JJ favoráveis)
+     )
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 1990)
+       (NP 
+        (NN ano)
+        (VP 
+         (PP 
+          (IN em)
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP foi)
+           (VBN registrado)
+          )
+          (NP 
+           (DT o)
+           (JJ maior)
+           (NN volume)
+           (PP 
+            (IN de)
+            (NP 
+             (NN vendas)
+             (PP 
+              (IN em)
+              (NP 
+               (NN passagens)
+               (ADJP 
+                (JJ aéreas)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP podemos)
+    )
+    (NP 
+     (PRP nos)
+    )
+    (VP 
+     (VB orgulhar)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT nosso)
+      (NN futebol)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP podemos)
+    (VB dizer)
+   )
+   (NP 
+    (DT o)
+    (DT mesmo)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (DT nossos)
+     (NN árbitros)
+     (VP 
+      (ADVP 
+       (RB aqui)
+      )
+      (VP 
+       (VBN representados)
+      )
+      (ADVP 
+       (RB exatamente)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNP Marsiglia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

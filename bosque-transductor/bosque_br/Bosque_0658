@@ -1,0 +1,137 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Milton_Julio_Zanluqui)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Paraklin_Pára-raios)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT os)
+     (NN tipos)
+     (ADJP 
+      (RB mais)
+      (JJ comuns)
+      (VP 
+       (VP 
+        (VBP veja)
+       )
+       (NP 
+        (NN exemplos)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN lado)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (DT o)
+    (NN sistema)
+    (PP 
+     (IN de)
+     (NP 
+      (NN gaiola)
+      (NP 
+       (NNP Gaiola_de_Faraday)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBN composto)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (CD seis)
+       (NN partes)
+       (ADJP 
+        (JJ principais)
+       )
+       (NP 
+        (NP 
+         (NN captador)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN tipo)
+           (NP 
+            (NN terminal)
+           )
+           (ADJP 
+            (JJ aéreo)
+           )
+          )
+         )
+        )
+        (NP 
+         (NN cabo)
+         (PP 
+          (IN de)
+          (NP 
+           (NN cobre)
+          )
+         )
+        )
+        (NP 
+         (NN suportes)
+         (ADJP 
+          (JJ isoladores)
+         )
+        )
+        (NP 
+         (NN tubo)
+         (PP 
+          (IN de)
+          (NP 
+           (NN proteção)
+          )
+         )
+        )
+        (NP 
+         (NN malha)
+         (PP 
+          (IN de)
+          (NP 
+           (NN aterramento)
+          )
+         )
+        )
+        e
+        (NP 
+         (NN conector)
+         (PP 
+          (IN de)
+          (NP 
+           (NN medição)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

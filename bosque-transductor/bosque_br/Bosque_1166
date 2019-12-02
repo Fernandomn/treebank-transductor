@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP foi)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN aeroporto)
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP disse)
+     )
+     (ADJP 
+      (JJ contente)
+     )
+     (PP 
+      (IN por)
+      (VP 
+       (VP 
+        (VB tê-)
+       )
+       (NP 
+        (PRP lo)
+       )
+       (ADVP 
+        (RB de_volta)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN colo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS FC)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VP 
+    (VB isolado)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS frente)
+    )
+   )
+  )
+ )
+)

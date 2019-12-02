@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (NP 
+    (DT vários)
+    (NN operadores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Bovespa)
+     )
+    )
+   )
+   (VP 
+    (VBP creditavam)
+   )
+   (NP 
+    (DT a)
+    (NN queda)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN índice)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN bolsa)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN percepção)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mercado)
+       (ADJP 
+        (JJ financeiro)
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (DT o)
+        (NNP PFL)
+        (VP 
+         (VP 
+          (VBP leia-)
+         )
+         (NP 
+          (PRP se)
+         )
+         (NP 
+          (NNP ACM)
+         )
+        )
+       )
+       (VP 
+        (VBP está)
+        (VBG desembarcando)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN candidatura)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP FHC)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NNP Samp)
+    )
+   )
+   (NP 
+    (CD dois)
+    (NN titulares)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (PP 
+    (IN fora_de)
+    (NP 
+     (NN combate)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT o)
+      (NN zagueiro)
+      (NP 
+       (NNP Marco_Rossi)
+      )
+     )
+     e
+     (NP 
+      (DT o)
+      (NN armador)
+      (ADJP 
+       (JJ sérvio)
+      )
+      (NP 
+       (NNP Jugovic)
+      )
+     )
+    )
+   )
+  )
+ )
+)

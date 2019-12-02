@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS cidade)
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (RB também)
+     (ADJP 
+      (VB entregue)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS incerteza)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

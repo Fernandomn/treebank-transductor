@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS editor)
+    )
+    (VP 
+     (VP 
+      (VB entregava)
+      (NP 
+       (CD dezasseis)
+       (NNS livros)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS distribuidor)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT este)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB pagava)
+        (NP 
+         (PRP -lhe)
+        )
+       )
+       (RB apenas)
+      )
+      (NP 
+       (CD doze)
+      )
+     )
+    )
+   )
+  )
+ )
+)

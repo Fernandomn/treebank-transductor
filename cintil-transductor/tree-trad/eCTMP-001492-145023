@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (PP seu)
+      (NNS lado)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (NNS litro)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS gasóleo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VP 
+       (VB ser)
+       (VB comprado)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (CD 108)
+        (NNS escudos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS GNR)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS PJ)
+    )
+   )
+  )
+  (VP 
+   (VB identificam)
+   (NP 
+    (NP 
+     (NNS suspeitos)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS furtos)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Guarda)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

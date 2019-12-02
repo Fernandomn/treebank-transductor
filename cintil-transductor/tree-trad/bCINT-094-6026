@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (RB Não)
+         (VB foi)
+        )
+        (ADVP 
+         (RB muito)
+         (RB bem)
+        )
+       )
+       (VB jogado)
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB teve)
+       (NP 
+        (NNS raça)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

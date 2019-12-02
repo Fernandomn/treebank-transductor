@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (JJ Péssima)
+   (NN Notícia)
+   (VP 
+    (NP 
+     (DT o)
+     (NNP Brizola)
+    )
+    (VP 
+     (VBP lançou)
+    )
+    (NP 
+     (DT sua)
+     (NN biografia)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN vídeo)
+     )
+    )
+   )
+  )
+ )
+)

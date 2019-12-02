@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN trabalho)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN publicação)
+      (ADJP 
+       (JJ inglesa)
+      )
+      (VP 
+       (VP 
+        (VBN divulgado)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NNP Financial_Times)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP indica)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (DT menos)
+     (NN preocupação)
+     (PP 
+      (IN com)
+      (NP 
+       (NN riscos)
+       (ADJP 
+        (ADJP 
+         (JJ políticos)
+        )
+        e
+        (ADJP 
+         (JJ econômicos)
+        )
+       )
+       (SBAR do_que
+        (S 
+         (IN com)
+         (NP 
+          (DT a)
+          (NN falta)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NN liquidez)
+            )
+            e
+            (NP 
+             (NN diversificação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

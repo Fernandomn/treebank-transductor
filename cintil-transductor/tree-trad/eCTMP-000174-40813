@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS projecto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Vizela)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB será)
+    (VP 
+     (VP 
+      (VB enviado)
+      (ADVP 
+       (RB entretanto)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Governo)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB está)
+            (RB já)
+           )
+           (PP 
+            (IN a)
+            (VP 
+             (VB estudar)
+             (NP 
+              (DT os)
+              (NP 
+               (JJ outros)
+               (NP 
+                (CD 18)
+                (NNS casos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

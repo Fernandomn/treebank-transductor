@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS livro)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB inicialmente)
+     )
+     (VP 
+      (VB publicado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Cadernos)
+         (NNS Tempo)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Moçambique)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Itália)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB apurou)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS quartos-de-final)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Europeu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

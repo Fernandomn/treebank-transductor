@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (VB anunciado)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS distribuição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS dinheiro)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB vai)
+      (VP 
+       (VP 
+        (VB ser)
+        (VB feita)
+       )
+       (RB regionalmente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

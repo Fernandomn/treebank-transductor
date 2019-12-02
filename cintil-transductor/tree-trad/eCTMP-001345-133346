@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS jornal)
+       (NP 
+        (NNS Sonntagszeitung)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Swisscom)
+    )
+    (VP 
+     (VB tem)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS registos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS chamadas)
+          (ADJP 
+           (VB realizadas)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT os)
+             (NP 
+              (CD últimos)
+              (NP 
+               (CD seis)
+               (NNS meses)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

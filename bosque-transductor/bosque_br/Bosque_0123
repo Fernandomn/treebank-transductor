@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Optar)
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (DT um)
+       (NN aparelho)
+       (VBN conjugado)
+      )
+      e
+      (NP 
+       (DT outro)
+       (JJ simples)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT outro)
+    (NN ponto)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP merece)
+     )
+     (NP 
+      (NN atenção)
+     )
+    )
+   )
+  )
+ )
+)

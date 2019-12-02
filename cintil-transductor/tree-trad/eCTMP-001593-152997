@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS parecer)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (VB aprovado)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS falta)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS quorum)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS consenso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

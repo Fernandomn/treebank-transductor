@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (RB porém)
+   )
+   (NP 
+    (NP 
+     (PRP quem)
+    )
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB tenha)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (JJ mesma)
+        (NNS opinião)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

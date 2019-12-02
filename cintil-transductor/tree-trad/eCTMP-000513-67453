@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB Funciona)
+       (ADVP 
+        (RB muito)
+        (RB bem)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NNS Pete)
+      (NNS Geren)
+     )
+    )
+   )
+  )
+ )
+)

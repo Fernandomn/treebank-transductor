@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Não)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB pode)
+    )
+   )
+   (VP 
+    (VP 
+     (VB conduzir)
+     (NP 
+      (DT a)
+      (NNS política)
+     )
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (IN acordo)
+      (IN com)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NNS tendências)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS sondagens)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

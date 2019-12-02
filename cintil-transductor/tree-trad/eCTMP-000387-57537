@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Deputado)
+     (JJ trabalhista)
+    )
+   )
+   (VP 
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS Torbay)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS editor)
+         (JJ europeu)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS publicação)
+           (NP 
+            (NP 
+             (NNS Intelligence)
+             (NNS Quarterly)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Dinho)
+   )
+   (VP 
+    (VBP aconselha)
+   )
+   (NP 
+    (NN time)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB partir)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN ataque)
+      )
+     )
+    )
+   )
+  )
+ )
+)

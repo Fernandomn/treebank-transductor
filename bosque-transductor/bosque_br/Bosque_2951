@@ -1,0 +1,158 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN constatação)
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN jurista)
+      (NP 
+       (NNP Saulo_Ramos)
+      )
+      (NP 
+       (NP 
+        (NP ex-consultor)
+        (ADJP 
+         (JJ Geral)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN República)
+         )
+        )
+       )
+       e
+       (NP 
+        (NP ex-ministro)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Justiça)
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP foi)
+         (VBN convidado)
+        )
+        (PP 
+         (IN a)
+         (VP 
+          (VP 
+           (VB analisar)
+          )
+          (NP 
+           (DT o)
+           (NN rascunho)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT as)
+             (NN medidas)
+            )
+           )
+          )
+         )
+        )
+       )
+       e
+       (VP 
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN ocasião)
+         )
+        )
+        (VP 
+         (VBP alertou)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (CD dois)
+          (NN problemas)
+          (VP 
+           (NP 
+            (NP 
+             (NP 
+              (DT o)
+              (NN artigo)
+              (ADJP 
+               (JJ primeiro)
+              )
+             )
+             e
+             (NP 
+              (DT o)
+              (NN parágrafo)
+              (ADJP 
+               (JJ primeiro)
+              )
+             )
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NNP MP)
+              (ADJP 
+               (CD 433)
+              )
+             )
+            )
+           )
+           (ADVP 
+            (RB praticamente)
+           )
+           (VP 
+            (VBP instituem)
+           )
+           (NP 
+            (CD duas)
+            (NN moedas)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NN país)
+            )
+           )
+          )
+          (VP 
+           (NP 
+            (PRP o_que)
+           )
+           (VP 
+            (VBP é)
+            (VBN proibido)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Antes)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NNS chacina)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB aparecia)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS imprensa)
+            (JJ indonésia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB era)
+      (NP 
+       (NNS mínimo)
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (VB reflectindo)
+         (RB principalmente)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS versão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Governo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

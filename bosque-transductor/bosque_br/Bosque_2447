@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP preciso)
+   )
+   (VP 
+    (VP 
+     (VB repetir)
+    )
+    (ADVP 
+     (RB agora)
+    )
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (DT o)
+      (NN homem)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (NNP Fernando_Henrique)
+       )
+       (VP 
+        (VBP apresentava)
+       )
+       (ADVP 
+        (RB como)
+        (VBN adequado)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN plano)
+        )
+       )
+       (PP 
+        (IN sob)
+        (NP 
+         (DT o)
+         (NN argumento)
+         (PP 
+          (IN de)
+          (VP 
+           (IN que)
+           (VP 
+            (VBP tinha)
+           )
+           (NP 
+            (NN trânsito)
+            (PP 
+             (IN em+)
+             (NP 
+              (DT as)
+              (NN esquerdas)
+             )
+            )
+           )
+           (PP 
+            (IN para)
+            (VP 
+             (VP 
+              (VB encabeçar)
+             )
+             (NP 
+              (DT um)
+              (NN pacto)
+              (ADJP 
+               (JJ conciliador)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

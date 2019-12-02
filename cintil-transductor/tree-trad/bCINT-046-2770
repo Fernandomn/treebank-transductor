@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS casa)
+       (CONJP 
+        (RB onde)
+        (S 
+         (VP 
+          (VP 
+           (VP 
+            (RB não)
+            (VB há)
+           )
+           (NP 
+            (NNS pão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

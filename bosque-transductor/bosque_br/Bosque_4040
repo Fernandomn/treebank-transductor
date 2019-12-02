@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+    (NN época)
+   )
+   (VP 
+    (VBP marca)
+   )
+   (NP 
+    (DT a)
+    (NN formação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN base)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN moral)
+        (NP 
+         (NN samurai)
+        )
+       )
+      )
+      (NP 
+       (NN resultado)
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN disciplina)
+          (ADJP 
+           (ADJP 
+            (JJ física)
+           )
+           e
+           (ADJP 
+            (JJ mental)
+           )
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN zen-budismo)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN ditames)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN confuncionismo)
+           )
+          )
+         )
+        )
+        e
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN espírito)
+          (ADJP 
+           (JJ militarista)
+          )
+          (ADJP 
+           (JJ reinante)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

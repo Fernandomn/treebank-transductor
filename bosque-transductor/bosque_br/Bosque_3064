@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN advogado)
+    (NP 
+     (NNP José_Carlo_Dri)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP defende)
+      )
+      (NP 
+       (DT os)
+       (NN responsáveis)
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NN boate)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP recusou)
+   )
+   (PP 
+    (IN a)
+    (VB falar)
+   )
+  )
+ )
+)

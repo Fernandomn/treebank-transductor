@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS agente)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Polícia)
+        (NNS Marítima)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB apareceu)
+     (RB depois)
+    )
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS paisana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

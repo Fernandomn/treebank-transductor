@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS fundos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS investimento)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS investidores)
+      (ADJP 
+       (RB mais)
+       (JJ activos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

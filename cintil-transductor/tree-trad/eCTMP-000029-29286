@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Incêndio)
+     (JJ violento)
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS serra)
+     (NNS de_)
+     (NNS o)
+     (NNS Pilar)
+    )
+   )
+  )
+ )
+)

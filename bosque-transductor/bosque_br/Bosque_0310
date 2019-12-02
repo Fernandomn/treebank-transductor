@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tancredismo)
+   )
+   (VP 
+    (VBP concedeu)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (DT seu)
+     (JJ principal)
+     (NN teórico)
+     (NP 
+      (NP 
+       (NN professor)
+      )
+      e
+      (NP 
+       (NN senador)
+       (NP 
+        (NNP Fernando_Henrique_Cardoso)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN oportunidade)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB esboçar)
+      )
+      (NP 
+       (DT a)
+       (NN filosofia)
+       (ADJP 
+        (JJ política)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN mudancismo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

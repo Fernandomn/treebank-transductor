@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (ADVP 
+      (RB Para)
+      (RB já)
+     )
+     (S 
+      (NP 
+       (NP 
+        (NP 
+         (NNS República)
+         (NNS de_)
+         (NNS a)
+         (NNS Irlanda)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS Dinamarca)
+        )
+       )
+      )
+      (VP 
+       (VB ocupam)
+       (NP 
+        (DT os)
+        (NP 
+         (CD dois)
+         (NP 
+          (CD primeiros)
+          (NNS lugares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NNS Espanha)
+     )
+     (VP 
+      (RB ainda)
+      (VP 
+       (VB está)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS corrida)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

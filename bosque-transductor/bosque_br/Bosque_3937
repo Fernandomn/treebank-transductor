@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP República_Movimento)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Emaús)
+     )
+    )
+   )
+   (VP 
+    (VBP trabalha)
+   )
+   (PP 
+    (IN há)
+    (NP 
+     (CD 20)
+     (NN anos)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN adolescentes)
+     (ADJP 
+      (JJ carentes)
+     )
+    )
+   )
+  )
+ )
+)

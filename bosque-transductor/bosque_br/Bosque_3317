@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Mundial)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN delegação)
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (VP 
+    (VBP participa)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT os)
+     (NNP Jogos_da_Amizade)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP têm)
+      )
+      (NP 
+       (NN início)
+      )
+      (NP 
+       (NN dia)
+       (ADJP 
+        (CD 23)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP Rússia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN A)
+     (NP 
+      (CD cinco)
+      (NP 
+       (NNS minutos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS fim)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Rússia)
+    )
+    (VP 
+     (VB estava)
+     (PP 
+      (IN a)
+      (VB ganhar)
+     )
+    )
+   )
+  )
+ )
+)

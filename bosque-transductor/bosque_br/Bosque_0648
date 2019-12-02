@@ -1,0 +1,16 @@
+(
+ (S 
+  (NP 
+   (NN Preço)
+   (ADVP 
+    (RB cerca_de)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 43)
+     )
+    )
+   )
+  )
+ )
+)

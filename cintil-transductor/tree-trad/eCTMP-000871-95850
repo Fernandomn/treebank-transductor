@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Benfica)
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VP 
+      (VB receber)
+      (RB brevemente)
+     )
+     (NP 
+      (NP 
+       (NNS notícias)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS Paulo)
+           (NNS Madeira)
+          )
+          (CONJP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (RB também)
+              (VP 
+               (VB pediu)
+               (NP 
+                (NP 
+                 (NP 
+                  (NNS apoio)
+                  (JJ jurídico)
+                 )
+                 (PP 
+                  (IN a_)
+                  (NP 
+                   (DT o)
+                   (NNS Sindicato)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP São)
+   )
+   (NP 
+    (DT os)
+    (NN deputados)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT o)
+       (NN texto)
+      )
+     )
+     (VP 
+      (VBP devem)
+      (VB ter)
+     )
+     (NP 
+      (DT os)
+      (NN elementos)
+      (ADJP 
+       (JJ comprobatórios)
+      )
+      (VP 
+       (VP 
+        (VBN encaminhados)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NNP Ministério_Público)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

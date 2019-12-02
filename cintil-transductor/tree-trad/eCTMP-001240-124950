@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Além)
+     (IN de)
+    )
+    (NP 
+     (NP 
+      (JJ múltiplas)
+      (NP 
+       (NP 
+        (NNS acções)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS formação)
+         )
+        )
+       )
+       (ADJP 
+        (JJ especializadas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS UITP)
+    )
+    (VP 
+     (VP 
+      (VB realiza)
+      (RB ainda)
+     )
+     (NP 
+      (NP 
+       (JJ grandes)
+       (NNS encontros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT a)
+       (NNS semana)
+      )
+     )
+    )
+    (VP 
+     (VB podemos)
+     (VP 
+      (VB falar)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT isso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

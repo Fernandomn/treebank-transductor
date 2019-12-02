@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS críticas)
+      (JJ generalizadas)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS actuação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS direcção)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS partido)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vieram)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NNS regionalização)
+     )
+    )
+   )
+  )
+ )
+)

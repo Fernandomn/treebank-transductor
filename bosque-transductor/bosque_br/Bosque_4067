@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Holanda)
+      (NP 
+       (NNP Dick_Advocaat)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT sua)
+     (NN preocupação)
+    )
+    (VP 
+     (VBP é)
+    )
+    (VP 
+     (VP 
+      (VB anular)
+     )
+     (NP 
+      (DT o)
+      (NN esquema)
+      (ADJP 
+       (JJ defensivo)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Irlanda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

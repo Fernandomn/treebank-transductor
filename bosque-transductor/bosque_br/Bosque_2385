@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (RB Cerca_de)
+    (CD 300)
+    (NN cubano-americanos)
+   )
+   (VP 
+    (VBP protestaram)
+   )
+   (PP 
+    (IN na_frente_de+)
+    (NP 
+     (DT o)
+     (NN prédio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN missão)
+       (ADJP 
+        (JJ cubana)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP ONU)
+     (VP 
+      (ADVP 
+       (RB onde)
+      )
+      (NP 
+       (DT as)
+       (NN negociações)
+      )
+      (VP 
+       (VBP ocorreram)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Munições)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS São)
+       (NNS Miguel)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB aparecem)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Parede)
+    )
+   )
+  )
+ )
+)

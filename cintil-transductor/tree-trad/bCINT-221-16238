@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS tensão)
+    )
+    (VP 
+     (VB continua)
+     (PP 
+      (IN a)
+      (VB subsistir)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ nova)
+       (NP 
+        (NNS explosão)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS violência)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB poderá)
+      (VP 
+       (VB ocorrer)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (ADJP 
+           (RB mais)
+           (JJ pequeno)
+          )
+          (NNS incidente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

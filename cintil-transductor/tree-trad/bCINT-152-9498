@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NNS PJ)
+  )
+  (VP 
+   (VP 
+    (VB procurou)
+    (PP 
+     (IN durante)
+     (NP 
+      (CD 17)
+      (NNS anos)
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS escultura)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB nunca)
+        (VP 
+         (VB foi)
+         (VB furtada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

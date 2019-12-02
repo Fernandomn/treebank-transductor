@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS negócios)
+   )
+   (VP 
+    (S 
+     (VP 
+      (VB envolvendo)
+      (NP 
+       (NNS acções)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB voltaram)
+      (RB ontem)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB animar)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Bolsa)
+          (NNS de)
+          (NNS Madrid)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

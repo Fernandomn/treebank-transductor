@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS barco)
+   )
+   (VP 
+    (VB ancorou)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS baía)
+     )
+    )
+   )
+  )
+ )
+)

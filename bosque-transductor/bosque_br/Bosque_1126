@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Júlio)
+     (NP 
+      (NNP Othon_Bastos)
+     )
+    )
+    (VP 
+     (VBP chega)
+    )
+    (ADVP 
+     (RB logo)
+    )
+    (ADVP 
+     (RB depois)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN casa)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Emília)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB lá)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (DT uma)
+     (JJ forte)
+     (NN crise)
+     (PP 
+      (IN de)
+      (NP 
+       (NN úlcera)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG sendo)
+      (VBN socorrido)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNP Justina)
+      )
+     )
+    )
+   )
+  )
+ )
+)

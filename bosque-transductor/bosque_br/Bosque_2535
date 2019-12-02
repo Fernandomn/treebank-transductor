@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VBP disse)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP era)
+     )
+     (PP 
+      (PP 
+       (IN para)
+       (VP 
+        (NP 
+         (PRP eu)
+        )
+        (VP 
+         (VB apanhá-)
+        )
+        (NP 
+         (PRP los)
+        )
+       )
+      )
+      e
+      (PP 
+       (IN para)
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB tentar)
+        )
+        (VP 
+         (VP 
+          (VP 
+           (VP 
+            (VB reagir)
+           )
+          )
+          e
+          (VP 
+           (VP 
+            (VB impedir)
+           )
+          )
+         )
+         (NP 
+          (DT sua)
+          (NN fuga)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (NNP Maria_Estela)
+   )
+  )
+ )
+)

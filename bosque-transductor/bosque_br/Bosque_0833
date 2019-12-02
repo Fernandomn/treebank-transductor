@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Banco_de_Leite_Humano)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Secretaria_Estadual_de_Saúde)
+     )
+    )
+   )
+   (VP 
+    (VBP montou)
+   )
+   (NP 
+    (DT um)
+    (NN estande)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN praça)
+     (NP 
+      (NNP Fausto_Cardoso)
+     )
+     (NP 
+      (NN centro)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Aracaju)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

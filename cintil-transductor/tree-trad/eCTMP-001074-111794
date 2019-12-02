@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS decisão)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ministro)
+         (NNS de_)
+         (NNS a)
+         (NNS Defesa)
+        )
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (RB obviamente)
+       (ADJP 
+        (VB coberta)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT o)
+          (NNS primeiro-ministro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB significa)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS circuitos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS decisão)
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB estiveram)
+       )
+       (JJ síncronos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

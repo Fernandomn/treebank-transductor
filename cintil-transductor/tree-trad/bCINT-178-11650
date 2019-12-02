@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS SOARES)
+  )
+  (VP 
+   (VP 
+    (VB DEFENDE)
+    (NP 
+     (NNS APARECIDO)
+    )
+   )
+   (PP 
+    (IN EM_)
+    (NP 
+     (DT A)
+     (NNS CPLP)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN massacre)
+   )
+   (VP 
+    (VBP ocorreu)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT a)
+     (NN tropa)
+     (PP 
+      (IN de)
+      (NP 
+       (NN choque)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP PM)
+      )
+     )
+    )
+    (VP 
+     (VBP invadiu)
+    )
+    (NP 
+     (DT o)
+     (NN pavilhão)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB acabar)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT uma)
+        (NN rebelião)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD 2)
+        (PP 
+         (IN de)
+         (NP 
+          (NN outubro)
+          (PP 
+           (IN de)
+           (ADJP 
+            (CD 92)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

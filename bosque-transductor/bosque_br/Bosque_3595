@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN inglês)
+    )
+   )
+   (VP 
+    (VBP traz)
+   )
+   (NP 
+    (NN noções)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NN cálculos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NN soma)
+        )
+        (NP 
+         (NN subtração)
+        )
+        (NP 
+         (NN multiplicação)
+        )
+        e
+        (NP 
+         (NN divisão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

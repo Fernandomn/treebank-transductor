@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VP 
+       (VB está)
+       (JJ seguro)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS lista)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS Lucas)
+      (NNS Pires)
+     )
+    )
+   )
+  )
+ )
+)

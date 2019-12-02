@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT a)
+      (NNS Torralta)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS projectos)
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NP 
+            (NNS fase)
+            (JJ conclusiva)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS concepção)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB cortam)
+      (NP 
+       (PRP qualquer)
+       (NP 
+        (NNS veleidade)
+        (PP 
+         (PP 
+          (IN quanto)
+          (IN a_)
+         )
+         (NP 
+          (DT o)
+          (NP 
+           (JJ eventual)
+           (NP 
+            (NNS crescimento)
+            (JJ selvagem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

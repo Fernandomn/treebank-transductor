@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fracasso)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN medidas)
+      (ADJP 
+       (JJ antiinflacionárias)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP poderia)
+   )
+   (NP 
+    (PRP lhe)
+   )
+   (VP 
+    (VB custar)
+   )
+   (NP 
+    (DT o)
+    (NN acesso)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN Planalto)
+     )
+    )
+   )
+  )
+ )
+)

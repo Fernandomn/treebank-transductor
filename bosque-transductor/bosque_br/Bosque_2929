@@ -1,0 +1,110 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN nota)
+    )
+   )
+   (NP 
+    (DT as)
+    (NN providências)
+    (ADJP 
+     (JJ capazes)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB alterar)
+       )
+       (NP 
+        (DT o)
+        (NN quadro)
+        (ADJP 
+         (JJ atual)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN combate)
+          (PP 
+           (IN a+)
+           (NP 
+            (DT os)
+            (NN traficantes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP dizem)
+   )
+   (NP 
+    (NN respeito)
+    (PP 
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NNP Polícia_Federal)
+      )
+     )
+     e
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NNP Forças_Armadas)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN objetivo)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB interromper)
+        )
+        (NP 
+         (DT o)
+         (NN fluxo)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NN armas)
+            (VBN proibidas)
+           )
+           e
+           (NP 
+            (NN cocaína)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NNP Rio)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

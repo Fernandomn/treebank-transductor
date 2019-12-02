@@ -1,0 +1,52 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS homem)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS meia-idade)
+       )
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS óculos)
+          (NP 
+           (CC e)
+           (NP 
+            (NNS cabelos)
+            (JJ brancos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT um)
+      (NNS pai)
+     )
+     (NP 
+      (CC ou)
+      (NP 
+       (DT um)
+       (NNS marido)
+      )
+     )
+    )
+   )
+  )
+ )
+)

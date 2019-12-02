@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+   )
+   (VP 
+    (VB parece)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS distribuição)
+           (JJ social)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS riqueza)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

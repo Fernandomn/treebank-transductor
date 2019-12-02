@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS declarações)
+      (JJ oficiais)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS reunião)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Grupo)
+           (NNS de_)
+           (NNS os)
+           (NNS Sete)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tiveram)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS impacte)
+      (ADJP 
+       (RB muito)
+       (VB limitado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

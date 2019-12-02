@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS títulos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS operadora)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB reagiram)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS alta)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS notícia)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Wall)
+          (NNS Street)
+          (NNS Journal)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

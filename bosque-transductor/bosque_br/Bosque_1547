@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Enquanto)
+     )
+     (NP 
+      (PRP isso)
+     )
+    )
+   )
+   (NP 
+    (RB outra_vez)
+    (DT a)
+    (NN vontade)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB escrever)
+      )
+      (NP 
+       (NN entrementes)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT a)
+     (NNP Receita_Federal)
+    )
+    (VP 
+     (VBP divulga)
+    )
+    (NP 
+     (DT a)
+     (NN lista)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN devedores)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Imposto_de_Renda)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP nada)
+        )
+        (VP 
+         (VBP pagarão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

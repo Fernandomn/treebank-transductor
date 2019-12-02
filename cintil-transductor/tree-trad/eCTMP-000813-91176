@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS FC)
+    )
+    (VP 
+     (VB controlou)
+     (PP 
+      (PP 
+       (IN até)
+       (IN a_)
+      )
+      (NP 
+       (DT o)
+       (NNS fim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

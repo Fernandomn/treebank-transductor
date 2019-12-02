@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Policiais)
+   )
+   (VP 
+    (VBP orientarão)
+   )
+   (NP 
+    (DT os)
+    (NN motoristas)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN placas)
+     (ADJP 
+      (JJ educativas)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP indicarão)
+      )
+      (NP 
+       (DT os)
+       (NN cuidados)
+       (ADJP 
+        (JJ básicos)
+       )
+       (PP 
+        (IN contra)
+        (NP 
+         (NN acidentes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

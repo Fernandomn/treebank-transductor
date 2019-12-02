@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Estão)
+     (JJ vazios)
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT as)
+        (NP 
+         (NNS cartas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS dia)
+          )
+         )
+        )
+       )
+       (VP 
+        (RB já)
+        (VP 
+         (VB foram)
+         (VB entregues)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

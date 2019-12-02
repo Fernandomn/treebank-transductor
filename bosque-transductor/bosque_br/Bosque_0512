@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT esta)
+     (NN temporada)
+    )
+   )
+   (ADJP 
+    (CD um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (ADJP 
+       (RB mais)
+       (VBN visados)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (NNP Brasil)
+   )
+  )
+ )
+)

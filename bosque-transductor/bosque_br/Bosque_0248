@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Como)
+     )
+     (VP 
+      (VBP notou)
+     )
+     (NP 
+      (DT o)
+      (NN jornalista)
+      (NP 
+       (NNP Jim_Greer)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN revista)
+        (ADJP 
+         (JJ americana)
+        )
+        (NP 
+         (NNP Spin)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT uma)
+     (JJ boa)
+     (NN grana)
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (PRP nada)
+     (ADJP 
+      (RB muito)
+      (JJ absurdo)
+     )
+    )
+   )
+  )
+ )
+)

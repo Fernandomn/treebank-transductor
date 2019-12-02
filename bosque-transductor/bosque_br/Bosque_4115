@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Manaus)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN representante)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN família)
+      (NP 
+       (NNP Graça)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NNP Manuel_Tavares_da_Graça)
+    (NP 
+     (NN candidato)
+     (VBN derrotado)
+     (PP 
+      (IN a)
+      (NP 
+       (NN deputado)
+       (ADJP 
+        (JJ estadual)
+       )
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NNP PP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

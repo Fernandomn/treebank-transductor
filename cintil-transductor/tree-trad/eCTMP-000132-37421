@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT essa)
+      (NNS altura)
+     )
+    )
+    (VP 
+     (VB começou)
+     (PP 
+      (PP 
+       (IN a)
+       (VP 
+        (VB moldar)
+        (NP 
+         (NNS barro)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN a)
+         (VP 
+          (VB criar)
+          (NP 
+           (NNS peças)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN a)
+          (VP 
+           (VB pintar)
+           (NP 
+            (NNS azulejos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

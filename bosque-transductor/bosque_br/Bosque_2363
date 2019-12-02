@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (JJ importante)
+    (NN papel)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VB manter)
+      )
+      (NP 
+       (NP 
+        (DT a)
+        (NN política)
+        (ADJP 
+         (JJ externa)
+        )
+       )
+       e
+       (NP 
+        (DT muitos)
+        (NN assuntos)
+        (ADJP 
+         (JJ internos)
+        )
+       )
+      )
+      (PP 
+       (IN fora_de+)
+       (NP 
+        (DT a)
+        (NN esfera)
+        (ADJP 
+         (JJ decisória)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP UE)
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VBG ganhando)
+       )
+       (NP 
+        (DT a)
+        (NN simpatia)
+        (ADJP 
+         (JJ britânica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Ao_lado_de+)
+    (NP 
+     (DT o)
+     (NN ala)
+     (NP 
+      (NNP Charles_Barkley)
+     )
+    )
+   )
+   (NP 
+    (NNP Shaq)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (ADJP 
+    (CD um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (JJ maiores)
+      (NN astros)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN basquete)
+        (ADJP 
+         (JJ mundial)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN quantidade)
+    (PP 
+     (IN de)
+     (NP 
+      (NN ferro)
+     )
+    )
+   )
+   (VP 
+    (VBP daria)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB construir)
+     )
+     (NP 
+      (CD 180)
+      (NN carros)
+      (ADJP 
+       (JJ iguais)
+       (PP 
+        (IN a)
+        (NP 
+         (DT um)
+         (NNP Santana)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

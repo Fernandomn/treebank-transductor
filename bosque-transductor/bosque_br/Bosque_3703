@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN acidente)
+   )
+   (VP 
+    (VBP causou)
+   )
+   (NP 
+    (DT a)
+    (NN morte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN menino)
+      (NP 
+       (NNP René_Scorsa)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP estava)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Logus)
+         (VP 
+          (VP 
+           (VBN dirigido)
+          )
+          (PP 
+           (IN por)
+           (NP 
+            (NNP Sérgio_Duran)
+            (ADJP 
+             (CD 33)
+            )
+           )
+          )
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP bateu)
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NN caminhão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

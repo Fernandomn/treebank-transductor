@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Santana)
+    (NNS Lopes)
+   )
+  )
+  (VP 
+   (VP 
+    (JJ cansado)
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NNS guerra)
+    )
+   )
+  )
+ )
+)

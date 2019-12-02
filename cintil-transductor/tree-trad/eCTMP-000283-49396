@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS iéne)
+   )
+   (VP 
+    (VP 
+     (VB esteve)
+     (RB ontem)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS centro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS atenções)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NP 
+              (NNS mercado)
+              (JJ cambial)
+             )
+             (JJ internacional)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cartas)
+    (VP 
+     (VP 
+      (VBG pedindo)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (JJ imediata)
+       (NN comutação)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN condenações)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT a)
+           (NN morte)
+          )
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (DT uma)
+       (NN investigação)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT as)
+         (NN denúncias)
+         (PP 
+          (IN de)
+          (NP 
+           (NN maus-tratos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP devem)
+    (VB ser)
+   )
+   (VP 
+    (VBN enviadas)
+   )
+   (IN a)
+  )
+ )
+)

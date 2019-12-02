@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cláudio)
+    (NNS Torres)
+   )
+  )
+  (VP 
+   (VB dá)
+   (NP 
+    (NP 
+     (NNS aulas)
+     (PP 
+      (IN sobre)
+      (NP 
+       (NP 
+        (NNS Arte)
+        (NNS Islâmica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

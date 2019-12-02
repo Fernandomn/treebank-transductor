@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ana)
+     (NNS Cristina)
+    )
+   )
+   (VP 
+    (VB acabou)
+    (PP 
+     (IN por)
+     (VP 
+      (VB aceitar)
+      (NP 
+       (DT o)
+       (NNS desafio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

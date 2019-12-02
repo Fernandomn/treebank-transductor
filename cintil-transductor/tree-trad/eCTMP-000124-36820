@@ -1,0 +1,58 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS avô)
+    (CONJP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB nunca)
+        (VP 
+         (VB conheceu)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC mas)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP lhe)
+           )
+           (VB deu)
+          )
+          (NP 
+           (DT um)
+           (NP 
+            (NNS olhar)
+            (ADJP 
+             (JJ triste)
+             (ADJP 
+              (CC e)
+              (JJ gozador)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

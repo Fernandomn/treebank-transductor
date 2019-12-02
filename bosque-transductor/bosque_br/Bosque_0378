@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mês)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (NP 
+     (NNP Carlos_Menem)
+    )
+   )
+   (VP 
+    (VBP criou)
+   )
+   (NP 
+    (DT um)
+    (NN fundo)
+    (ADJP 
+     (JJ especial)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 1)
+       (NN milhão)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB recompensar)
+      )
+      (VP 
+       (NP 
+        (PRP quem)
+       )
+       (VP 
+        (VBP fornecesse)
+       )
+       (NP 
+        (NN informações)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP ajudem)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT as)
+           (NN investigações)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

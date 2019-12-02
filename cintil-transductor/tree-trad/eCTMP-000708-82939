@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS feira)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (ADJP 
+          (RB mais)
+          (JJ importantes)
+         )
+         (NP 
+          (NP 
+           (NNS acontecimentos)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS género)
+            )
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NNS Brasil)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

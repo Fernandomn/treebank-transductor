@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NP 
+      (NNS equipa)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS luxo)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS embaixada)
+       (JJ americana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

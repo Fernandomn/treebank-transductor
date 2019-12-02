@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT os)
+     (JJ últimos)
+     (NN dias)
+    )
+   )
+   (VP 
+    (VBP aumentaram)
+   )
+   (NP 
+    (DT as)
+    (NN especulações)
+    (PP 
+     (IN sobre)
+     (VP 
+      (NP 
+       (PRP quem)
+      )
+      (VP 
+       (VBP ocuparia)
+      )
+      (NP 
+       (DT o)
+       (NN lugar)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Mansell)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP Newmann/Hass)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

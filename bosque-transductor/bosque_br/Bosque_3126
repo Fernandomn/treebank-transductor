@@ -1,0 +1,111 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Tanto)
+    (NN dinheiro)
+   )
+   (VP 
+    (VBP parece)
+    (VB tornar)
+   )
+   (ADJP 
+    (JJ desprezível)
+   )
+   (NP 
+    (DT a)
+    (NN ética)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN marketing)
+      (VP 
+       (NP 
+        (DT a)
+        (NNP Delta)
+       )
+       (VP 
+        (VBP recebe)
+       )
+       (NP 
+        (NN centenas)
+        (PP 
+         (IN de)
+         (NP 
+          (NN cartas)
+          (PP 
+           (IN de)
+           (NP 
+            (NN crianças)
+            (VP 
+             (VP 
+              (VBG denunciando)
+             )
+             (NP 
+              (NP 
+               (NP 
+                (NN pais)
+               )
+               ou
+               (NP 
+                (NN parentes)
+               )
+              )
+              (VP 
+               (NP 
+                (PRP que)
+               )
+               (VP 
+                (VBP preferiram)
+               )
+               (VP 
+                (VP 
+                 (VB viajar)
+                )
+                (PP 
+                 (IN por)
+                 (NP 
+                  (DT outras)
+                  (NN companhias)
+                  (ADJP 
+                   (JJ aéreas)
+                  )
+                 )
+                )
+                (VP 
+                 (VP 
+                  (VBG configurando)
+                 )
+                 (NP 
+                  (DT um)
+                  (JJ claro)
+                  (NN estímulo)
+                  (PP 
+                   (IN a+)
+                   (NP 
+                    (DT o)
+                    (NN dedodurismo)
+                    (ADJP 
+                     (JJ precoce)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

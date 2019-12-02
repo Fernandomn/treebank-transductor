@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (VB Chegou)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS indivíduo)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VB chegou)
+      )
+     )
+    )
+   )
+  )
+ )
+)

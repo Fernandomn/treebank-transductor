@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS oposição)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS direita)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB denuncia)
+     (ADVP 
+      (RB porém)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS ineficácia)
+      (PP 
+       (IN de)
+       (NP 
+        (DT tal)
+        (NNS medida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

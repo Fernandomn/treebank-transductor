@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP RUI_TAVARES_MALUF)
+    (ADJP 
+     (CD 35)
+    )
+    (NP 
+     (NN mestre)
+     (PP 
+      (IN em)
+      (NP 
+       (NN ciências)
+       (ADJP 
+        (JJ políticas)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NNP Unicamp)
+         (NP 
+          (NNP Universidade_Estadual_de_Campinas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN analista)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Superintendência_de_Experiências_Metropolitanas_Internacionais)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Emplasa)
+        (NP 
+         (NNP Empresa_de_Planejamento_Metropolitano_da_Grande_São_Paulo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

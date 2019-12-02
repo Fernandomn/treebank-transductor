@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Paula)
+      (NNS Teixeira)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS professora)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Escola)
+         (NNS secundária)
+         (NNS de_)
+         (NNS a)
+         (NNS Damaia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VB lamenta)
+  )
+ )
+)

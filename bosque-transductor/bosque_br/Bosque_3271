@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP MTV)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP exibiu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT o)
+    (NN desenho)
+    (VBN animado)
+    (NP 
+     (NNP Beavis_e_Butt-Head)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN determinação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN liminar)
+       (VP 
+        (VP 
+         (VBN expedida)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT a)
+          (NNP Vara_Central_da_Infância_e_Juventude)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+  )
+ )
+)

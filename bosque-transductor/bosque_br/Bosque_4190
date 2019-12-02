@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN projeto)
+   )
+   (VP 
+    (VBP vem)
+    (VBG sendo)
+    (VBN implementado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN caráter)
+     (ADJP 
+      (JJ experimental)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD três)
+     (NN escolas)
+     (NP 
+      (NP 
+       (NNP Morumbi)
+      )
+      (NP 
+       (NNP Visconde_de_Porto_Seguro)
+       (NP 
+        (JJ particulares)
+       )
+      )
+      e
+      (NP 
+       (NNP Godofredo_Furtado)
+       (NP 
+        (JJ estadual)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

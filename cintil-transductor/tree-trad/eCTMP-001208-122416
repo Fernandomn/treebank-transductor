@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Após)
+     (NP 
+      (PRP vários)
+      (NP 
+       (NNS meses)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS negociações)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Barbosa)
+      (NNS e)
+      (NNS Almeida)
+     )
+    )
+    (VP 
+     (VB deve)
+     (VP 
+      (VP 
+       (VB assumir)
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (JJ próxima)
+           (NNS semana)
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS gestão)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Cive)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Esgotos)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Bandeira)
+       (NNS Azul)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS praia)
+     (NNS de)
+     (NNS Armação)
+     (NNS de)
+     (NNS Pêra)
+    )
+   )
+  )
+ )
+)

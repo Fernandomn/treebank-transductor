@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pizzaria)
+   )
+   (VP 
+    (VBP oferece)
+   )
+   (NP 
+    (NN cardápio)
+    (ADJP 
+     (JJ especial)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NNP Páscoa)
+    )
+   )
+  )
+ )
+)

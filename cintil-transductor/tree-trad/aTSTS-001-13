@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS encomenda)
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (RB mesmo)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS armazém)
+      )
+     )
+    )
+   )
+  )
+ )
+)

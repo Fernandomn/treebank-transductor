@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Carl)
+     (NNS Lewis)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS arquétipo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB acabamos)
+            (PP 
+             (IN de)
+             (VP 
+              (VB dizer)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

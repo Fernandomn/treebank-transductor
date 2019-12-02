@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP toca)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT certa)
+     (NP 
+      (NP 
+       (NN brutalidade)
+      )
+      (NP 
+       (NN impaciência)
+      )
+      ou
+      (NP 
+       (NN agressividade)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN música)
+      )
+     )
+    )
+   )
+  )
+ )
+)

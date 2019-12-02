@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (ADVP 
+     (RB Cerca)
+     (RB de)
+    )
+    (NP 
+     (CD seis)
+     (CD mil)
+    )
+   )
+   (NP 
+    (NNS contos)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS estragos)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Queima)
+          (NNS de_)
+          (NNS as)
+          (NNS Fitas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

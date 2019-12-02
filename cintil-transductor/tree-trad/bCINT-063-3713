@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS cidade)
+     (JJ ideal)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS limite)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ possível)
+     )
+    )
+   )
+  )
+ )
+)

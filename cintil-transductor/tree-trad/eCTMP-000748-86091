@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS oposição)
+     (JJ rosa)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB andou)
+      (RB aqui)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS discurso)
+        (JJ errado)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (NNS anos)
+     )
+    )
+   )
+  )
+ )
+)

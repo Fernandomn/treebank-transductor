@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS Conselho)
+      (NNS de)
+      (NNS Ministros)
+     )
+    )
+    (VP 
+     (VB reuniu)
+     (RB ontem)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB aprovou)
+      (NP 
+       (DT as)
+       (NP 
+        (JJ seguintes)
+        (NNS medidas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Brasil)
+   )
+   (VP 
+    (VBP participa)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN coletânea)
+     (PP 
+      (IN em)
+      (NP 
+       (NN homenagem)
+       (PP 
+        (IN a)
+        (NP 
+         (NNP Frank_Zappa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

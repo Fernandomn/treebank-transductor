@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (DT mesma)
+    (NN editora)
+   )
+   (VP 
+    (VBP publicou)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 93)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN livro)
+    (PP 
+     (IN de)
+     (NP 
+      (NN estréia)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN escritor)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Caça_aos_Turistas)
+    )
+   )
+  )
+ )
+)

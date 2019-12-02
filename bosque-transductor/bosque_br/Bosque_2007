@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Família)
+    (PP 
+     (IN de)
+     (NP 
+      (NN bicheiro)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP vai)
+     (VB pagar)
+    )
+    (NP 
+     (NN resgate)
+    )
+   )
+  )
+ )
+)

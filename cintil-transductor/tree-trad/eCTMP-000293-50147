@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Queria)
+     (VP 
+      (VP 
+       (VB descrever)
+       (NP 
+        (DT a)
+        (NNS hipocrisia)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS escala)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NNS país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

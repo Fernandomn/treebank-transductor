@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN pizzaria)
+    )
+    (VP 
+     (VBP foi)
+     (VBN inugurada)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NNP Grupo_Viena)
+     )
+    )
+    (PP 
+     (IN há)
+     (NP 
+      (CD dois)
+      (NN meses)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP oferece)
+    )
+    (NP 
+     (CD 21)
+     (NN tipos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN pizzas)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN forno)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT a)
+           (NN lenha)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN além_de)
+     (NP 
+      (NP 
+       (NN massas)
+       (ADJP 
+        (JJ especiais)
+       )
+      )
+      (NP 
+       (NN grelhados)
+      )
+      e
+      (NP 
+       (NN saladas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,85 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Parece)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NNP Universidade_Yale)
+     (NP 
+      (DT aquela)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP nos)
+       )
+       (VP 
+        (VBP deu)
+       )
+       (NP 
+        (DT o)
+        (JJ inesquecível)
+        (NNP George_Bush)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP comprovou)
+    )
+    (NP 
+     (DT a)
+     (NN existência)
+     (PP 
+      (IN de)
+      (NP 
+       (NN superdegustadores)
+       (ADVP 
+        (RB ou_seja)
+       )
+       (NP 
+        (NN pessoas)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP possuem)
+         )
+         (NP 
+          (DT um)
+          (NN número)
+          (PP 
+           (IN de)
+           (NP 
+            (NN papilas)
+            (ADJP 
+             (JJ gustativas)
+            )
+           )
+          )
+          (ADVP 
+           (RB muito)
+           (PP 
+            (IN além_de+)
+            (NP 
+             (DT o)
+             (NN normal)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

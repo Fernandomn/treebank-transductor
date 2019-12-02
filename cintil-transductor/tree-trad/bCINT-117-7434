@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB houve)
+    )
+    (NP 
+     (NP 
+      (JJ grandes)
+      (NNS consequências)
+     )
+    )
+   )
+   (CC uma)
+   (CC vez)
+   (CC que)
+   (S 
+    (NP 
+     (DT os)
+     (NNS bombeiros)
+    )
+    (VP 
+     (VB conseguiram)
+     (VP 
+      (VP 
+       (VB dominar)
+       (RB rapidamente)
+      )
+      (NP 
+       (DT as)
+       (NNS chamas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

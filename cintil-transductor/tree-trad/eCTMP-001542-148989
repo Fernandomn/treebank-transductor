@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isso)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB significa)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Departamento)
+        (NNS de)
+        (NNS Justiça)
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB tenha)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNS parte)
+         )
+        )
+       )
+       (NP 
+        (NNS razão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

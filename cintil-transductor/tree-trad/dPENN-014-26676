@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS DIREITOS)
+     (NNS de_)
+     (NNS os)
+     (NNS CONTRIBUINTES)
+    )
+   )
+   (VP 
+    (VB são)
+    (VP 
+     (VB definidos)
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS número)
+         (JJ crescente)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS estados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

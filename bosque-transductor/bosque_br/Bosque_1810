@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN prefeita)
+    (NP 
+     (NNP Luiza_Erundina)
+    )
+   )
+   (VP 
+    (VBP priorizou)
+   )
+   (NP 
+    (DT o)
+    (NN transporte)
+    (ADJP 
+     (JJ público)
+    )
+   )
+  )
+ )
+)

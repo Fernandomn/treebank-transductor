@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Bovespa)
+    (NP 
+     (NNP Bolsa_de_Valores_de_São_Paulo)
+    )
+   )
+   (VP 
+    (VBP movimentou)
+   )
+   (NP 
+    (NN R$)
+    (NP 
+     (CD 450.1)
+     (NN milhões)
+    )
+   )
+  )
+ )
+)

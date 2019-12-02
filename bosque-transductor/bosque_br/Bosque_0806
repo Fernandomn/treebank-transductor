@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Só)
+    )
+    (VP 
+     (VBP sobrevivemos)
+    )
+    (VP 
+     (IN porque)
+     (VP 
+      (VBP encontramos)
+     )
+     (NP 
+      (CD duas)
+      (NN cabanas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN caçadores)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NN mantimentos)
+       )
+       e
+       (NP 
+        (NN cobertores)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Nascimento)
+   )
+  )
+ )
+)

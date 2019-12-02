@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS SNPL)
+    )
+    (VP 
+     (RB sempre)
+     (VP 
+      (VB tem)
+      (VP 
+       (VB defendido)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS diferenciação)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS carreira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

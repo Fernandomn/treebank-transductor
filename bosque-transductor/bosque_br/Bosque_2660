@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VBP tenho)
+   )
+   (NP 
+    (DT um)
+    (NN projeto)
+    (VP 
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP vou)
+       (VB revelar)
+      )
+      (ADVP 
+       (RB aqui)
+      )
+      (ADVP 
+       (RB pela_primeira_vez)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (DT a)
+       (NN assinatura)
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD um)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN homens)
+           (ADJP 
+            (RB mais)
+            (ADJP 
+             (ADJP 
+              (JJ inteligentes)
+             )
+             e
+             (ADJP 
+              (JJ criativos)
+             )
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN mundo)
+             )
+            )
+           )
+           (NP 
+            (NNP Eliezer_Batista)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

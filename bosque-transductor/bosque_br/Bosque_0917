@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (CC Mas)
+    (NP 
+     (NN postos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN comando)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN igreja)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP permanecerão)
+    )
+    (ADVP 
+     (RB exclusivamente)
+    )
+    (ADJP 
+     (JJ masculinos)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN cardeal)
+    (NP 
+     (NNP Eduardo_Martinez_Somalo)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Roma)
+    )
+   )
+  )
+ )
+)

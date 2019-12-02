@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NP 
+    (JJ raros)
+    (NP 
+     (NNS automóveis)
+     (ADJP 
+      (VB pousados)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS sombra)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS palmeiras)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT as)
+              (NNS Arcadas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

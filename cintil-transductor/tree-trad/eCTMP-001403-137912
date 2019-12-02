@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Capital)
+     (JJ humano)
+    )
+    (NP 
+     (CC e)
+     (NNS mobilidade)
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB apresentado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Coimbra)
+    )
+   )
+  )
+ )
+)

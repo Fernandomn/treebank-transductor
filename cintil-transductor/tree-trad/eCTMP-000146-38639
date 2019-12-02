@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Newman)
+    )
+    (VP 
+     (VP 
+      (VB agita)
+      (NP 
+       (DT um)
+       (NNS dedo)
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NNS ombro)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB diz)
+    )
+   )
+  )
+ )
+)

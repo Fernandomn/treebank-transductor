@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Pode-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (ADVP 
+     (RB agora)
+    )
+    (VP 
+     (VB recomendar)
+    )
+    (NP 
+     (DT um)
+     (NN texto)
+     (ADJP 
+      (JJ definitivo)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN conselho)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN organização)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN porta-voz)
+   )
+  )
+ )
+)

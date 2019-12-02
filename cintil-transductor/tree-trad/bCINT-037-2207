@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB constrói)
+        (NP 
+         (DT a)
+         (NNS bioética)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS procura)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS consensos)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN apesar)
+        (IN de_)
+       )
+       (NP 
+        (DT a)
+        (NNS diferença)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (JJ principais)
+     (NP 
+      (NNS concorrentes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS Harmonia)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NNS farinha)
+           )
+          )
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS trigo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Nacional)
+      (NNS a)
+      (NNS Ceres)
+      (NNS e)
+      (NNS a)
+      (NNS Gérmen)
+     )
+    )
+   )
+  )
+ )
+)

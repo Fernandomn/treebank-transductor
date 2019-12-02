@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT O)
+       (NNS suicídio)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT uma)
+        (NNS vocação)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB dizia)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS dadaísta)
+      (NP 
+       (NNS Jacques)
+       (NNS Rigaut)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Querem)
+   )
+   (VP 
+    (VP 
+     (VB organizar)
+    )
+    (NP 
+     (NN pacotes)
+     (PP 
+      (IN para)
+      (NP 
+       (NN visitas)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN túmulo)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN tricampeão)
+           (NP 
+            (NNP Ayrton_Senna)
+            (ADJP 
+             (RB eternamente)
+             (JJ favorito)
+             (PP 
+              (IN de)
+              (ADJP 
+               (CD 10)
+               (PP 
+                (IN entre)
+                (NP 
+                 (CD 10)
+                 (NN japoneses)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

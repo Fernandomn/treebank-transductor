@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Também)
+    (VP 
+     (VP 
+      (VB propõem)
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS obediência)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (JJ mesmo)
+             (NNS princípio)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fim)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS liberdade)
+          (JJ condicional)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

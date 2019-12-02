@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS José)
+     (NNS Luís)
+     (NNS Judas)
+    )
+   )
+   (VP 
+    (VB deu)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS palavra)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS ordem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

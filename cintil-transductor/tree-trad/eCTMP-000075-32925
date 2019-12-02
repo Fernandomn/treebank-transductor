@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Medeia)
+   )
+   (VP 
+    (VB fica)
+    (PP 
+     (IN com)
+     (NP 
+      (DT as)
+      (NP 
+       (CD quatro)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Shopping)
+           (NNS Cidade)
+           (NNS de_)
+           (NNS o)
+           (NNS Porto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

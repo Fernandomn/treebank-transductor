@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esses)
+    (NP 
+     (CD dois)
+     (NNS trabalhos)
+    )
+   )
+   (VP 
+    (VP 
+     (VB destacam)
+     (RB ainda)
+    )
+    (NP 
+     (NP 
+      (NNS situações)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS insegurança)
+         (PP 
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (NNS parques)
+             (JJ infantis)
+            )
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (RB mesmo)
+            (PP 
+             (IN em)
+             (NP 
+              (NNS escolas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

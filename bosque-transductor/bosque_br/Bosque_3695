@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (RB Pelo_menos)
+    (CD três)
+    (NN acontecimentos)
+   )
+   (VP 
+    (VBP podem)
+    (VB ser)
+    (VBN destacados)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (DT seu)
+     (NN papel)
+     (ADJP 
+      (JJ indutor)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN transformações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

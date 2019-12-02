@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Análises)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS água)
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (VB efectuadas)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Administração)
+          (NNS Regional)
+          (NNS de)
+          (NNS Saúde)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB revelaram)
+    (NP 
+     (RB apenas)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS existência)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (PRP alguns)
+           (NP 
+            (NNS micróbios)
+            (JJ estafilococos)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS piscina)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS crianças)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

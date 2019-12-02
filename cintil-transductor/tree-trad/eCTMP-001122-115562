@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS intervenção)
+   )
+   (VP 
+    (VB provocou)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS chuva)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS palmas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

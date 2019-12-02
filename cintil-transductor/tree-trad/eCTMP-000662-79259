@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS CBS)
+   )
+   (VP 
+    (VB anuncia)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS Hotel)
+         (NP 
+          (NP 
+           (NNS El)
+           (NNS Rachid)
+          )
+         )
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Bagdad)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB foi)
+       (VB atingido)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS deputado)
+      (NNS João)
+      (NNS Maçãs)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS ex-presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS CPD)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS candidato)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS presidência)
+         (NNS de_)
+         (NNS a)
+         (NNS Assembleia)
+         (NNS Distrital)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

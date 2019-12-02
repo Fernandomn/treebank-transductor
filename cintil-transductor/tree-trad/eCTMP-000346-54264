@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NP 
+       (CD dois)
+      )
+     )
+     (VP 
+      (VB estão)
+      (ADJP 
+       (RB muito)
+       (JJ próximos)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB são)
+      (JJ diferentes)
+     )
+    )
+   )
+  )
+ )
+)

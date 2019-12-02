@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Calliari)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN barulho)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN agência)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN causado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN reforma)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN prédio)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP abafaram)
+   )
+   (NP 
+    (DT o)
+    (NN ruído)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN queda)
+     )
+    )
+   )
+  )
+ )
+)

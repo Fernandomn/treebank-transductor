@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS mar)
+     (ADJP 
+      (JJ encapelado)
+     )
+    )
+   )
+   (VP 
+    (VB impedia)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS entrada)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS embarcações)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS segurança)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

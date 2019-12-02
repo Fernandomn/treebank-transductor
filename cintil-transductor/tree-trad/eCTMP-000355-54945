@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (NP 
+        (ADVP 
+         (RB Cerca)
+         (RB de)
+        )
+        (CD um)
+       )
+       (NNS mês)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Direcção-Geral)
+      (NNS de)
+      (NNS Energia)
+     )
+    )
+    (VP 
+     (VP 
+      (VB publicava)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS Diário)
+          (NNS de_)
+          (NNS a)
+          (NNS República)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS aviso)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB ditava)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS mudança)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS traçado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

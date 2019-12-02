@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS N)
+      (NNS Park)
+     )
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS dirigentes)
+       (NP 
+        (CC e)
+        (NNS proprietários)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Newcastle)
+         (NNS United)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VB comentaram)
+  )
+ )
+)

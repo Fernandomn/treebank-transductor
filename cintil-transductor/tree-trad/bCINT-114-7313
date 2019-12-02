@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Alguns)
+    (NNS analistas)
+   )
+   (VP 
+    (VB dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT este)
+       (NP 
+        (CD primeiro)
+        (NNS ano)
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VB foi)
+         (RB apenas)
+        )
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS continuidade)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS governo)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS Fernando)
+                (NNS Henrique)
+                (NNS Cardoso)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS termos)
+          (JJ económicos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

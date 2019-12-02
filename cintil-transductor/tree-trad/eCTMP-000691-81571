@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Benfica)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB apadrinhou)
+      (RB ontem)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS apresentação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Estrela)
+          (NNS de_)
+          (NNS a)
+          (NNS Amadora)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Reboleira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

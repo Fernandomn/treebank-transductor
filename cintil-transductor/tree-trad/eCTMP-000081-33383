@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Manuel)
+      (NNS Barroso)
+     )
+    )
+    (VP 
+     (VP 
+      (VB venceu)
+      (NP 
+       (CD 19)
+       (NNS combates)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS disciplina)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS esgrima)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB soma)
+      (NP 
+       (CD 541)
+       (NNS pontos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

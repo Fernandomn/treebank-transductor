@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Frente)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NNS Barcelona)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS rival)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS merengues)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

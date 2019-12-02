@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Eduardo_Lago)
+     (NP 
+      (NN superintendente)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN orgão)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP foram)
+    (VBN aplicadas)
+   )
+   (NP 
+    (CD 400)
+    (NN multas)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT todo)
+     (DT o)
+     (NN país)
+    )
+   )
+   (PP 
+    (IN desde)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mês)
+      )
+     )
+    )
+   )
+  )
+ )
+)

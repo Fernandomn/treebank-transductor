@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN série)
+    (VP 
+     (VP 
+      (VBN exibida)
+     )
+     (ADVP 
+      (RB aqui)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN Cultura)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estreou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP TVI)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Portugal)
+      )
+     )
+    )
+   )
+  )
+ )
+)

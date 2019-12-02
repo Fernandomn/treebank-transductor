@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Até)
+      (RB agora)
+     )
+    )
+    (VP 
+     (VP 
+      (VB foram)
+      (VB evacuadas)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS via)
+        (JJ aérea)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CD 18)
+    (NNS pessoas)
+   )
+  )
+ )
+)

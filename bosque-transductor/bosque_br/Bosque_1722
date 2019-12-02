@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NN diárias)
+     (PP 
+      (IN a_partir_de)
+      (NP 
+       (NN US$)
+       (ADJP 
+        (CD 50)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NN pousadas)
+   )
+   (VP 
+    (VBP promovem)
+   )
+   (NP 
+    (NP 
+     (NN safáris)
+     (ADJP 
+      (JJ fotográficos)
+     )
+    )
+    (NP 
+     (NN focagem)
+     (PP 
+      (IN de)
+      (NP 
+       (NN jacarés)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT outros)
+     (NN passeios)
+    )
+   )
+  )
+ )
+)

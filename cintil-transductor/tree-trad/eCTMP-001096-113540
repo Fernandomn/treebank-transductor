@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (JJ principal)
+     )
+     (JJ beneficiada)
+    )
+   )
+   (S 
+    (VP 
+     (VB tem)
+     (VP 
+      (VB sido)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Soares)
+      (NNS de_)
+      (NNS a)
+      (NNS Costa)
+     )
+    )
+   )
+  )
+ )
+)

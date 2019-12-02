@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Conta)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN recursos)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN figuras)
+       )
+       e
+       (NP 
+        (NN sons)
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP mostram)
+      )
+      (NP 
+       (DT o)
+       (NN significado)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN palavras)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

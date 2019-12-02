@@ -1,0 +1,87 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT este)
+     (NNS portento)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB inclui)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS parte)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS co-processamento)
+           (JJ matemático)
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (DT uma)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (JJ grandes)
+            (NP 
+             (NP 
+              (NNS vantagens)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS Pentium)
+               )
+              )
+             )
+             (PP 
+              (PP 
+               (IN face)
+               (IN a_)
+              )
+              (NP 
+               (DT os)
+               (NP 
+                (PP seus)
+                (NNS antecessores)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

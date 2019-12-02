@@ -1,0 +1,91 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN assunto)
+   )
+   (VP 
+    (VBP veio)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN tona)
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (NN conversa)
+     (NP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN advogado)
+        (NP 
+         (NNP Osmar)
+        )
+        (NP 
+         (NNP Nuno_Leal_Maia)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NN jardineiro)
+        (NP 
+         (NNP Kennedy)
+        )
+        (NP 
+         (NNP Alexandre_Moreno)
+        )
+        (NP 
+         (NN jovem)
+         (ADJP 
+          (JJ negro)
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP sofrera)
+          )
+          (NP 
+           (NN insultos)
+           (ADJP 
+            (JJ racistas)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN patrão)
+             (NP 
+              (DT o)
+              (NN empresário)
+              (NP 
+               (NNP Raul_Pelegrini)
+              )
+              (NP 
+               (NNP Tarcísio_Meira)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NP 
+      (NNS parque)
+      (JJ urbano)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VB ter)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS códigos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS comportamento)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS resto)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NNS cidade)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

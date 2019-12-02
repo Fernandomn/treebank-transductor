@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS índice)
+     (NNS FT)
+     (NNS SE)
+     (NNS 100)
+    )
+   )
+   (VP 
+    (VB fechou)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 3678,8)
+       (NNS pontos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (PRP Eu)
+      )
+      (VP 
+       (VB sou)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS amante)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS fado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VP 
+        (VB estou)
+        (RB aqui)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNS reboque)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

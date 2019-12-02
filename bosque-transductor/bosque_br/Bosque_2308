@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT o)
+     (NN resultado)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN time)
+   )
+   (VP 
+    (VBP perdeu)
+   )
+   (NP 
+    (DT a)
+    (NN chance)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB garantir)
+      )
+      (ADVP 
+       (RB antecipadamente)
+      )
+      (NP 
+       (DT a)
+       (NN vaga)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT as)
+        (NN quartas-de-final)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

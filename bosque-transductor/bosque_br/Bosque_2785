@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Donna_Karan)
+   )
+   (VP 
+    (VBP abre)
+   )
+   (NP 
+    (DT a)
+    (NN temporada)
+    (ADJP 
+     (CD 94)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP NY)
+    )
+   )
+  )
+ )
+)

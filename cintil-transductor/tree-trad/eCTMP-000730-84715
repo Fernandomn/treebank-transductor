@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (ADVP 
+      (RB de)
+      (RB seguida)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS senhor)
+       (NP 
+        (NNS Pacheco)
+        (NNS Pereira)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS príncipe)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (NNS analistas)
+             (JJ políticos)
+            )
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ideólogo)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Cavaquistão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

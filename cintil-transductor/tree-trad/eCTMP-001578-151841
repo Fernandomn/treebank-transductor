@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS EUA)
+  )
+  (VP 
+   (VP 
+    (VB suspendem)
+    (NP 
+     (NP 
+      (NNS exercícios)
+      (JJ militares)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Indonésia)
+    )
+   )
+  )
+ )
+)

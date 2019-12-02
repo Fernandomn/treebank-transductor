@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS aproximação)
+     (ADJP 
+      (ADJP 
+       (RB agora)
+       (VB iniciada)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB assim)
+    )
+    (VP 
+     (VB justificada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Pilar)
+        (NNS Estébanez)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

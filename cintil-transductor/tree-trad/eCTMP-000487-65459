@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS projectista)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Animatógrafo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VB desconhecido)
+   )
+  )
+ )
+)

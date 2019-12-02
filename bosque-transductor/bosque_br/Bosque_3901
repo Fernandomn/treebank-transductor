@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Mercedes)
+   )
+   (VP 
+    (VBP produzirá)
+   )
+   (NP 
+    (NN carro)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP França)
+    )
+   )
+  )
+ )
+)

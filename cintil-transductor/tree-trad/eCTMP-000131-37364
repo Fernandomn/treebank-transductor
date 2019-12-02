@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (CD Três)
+   (NNS pessoas)
+  )
+  (VP 
+   (VP 
+    (VB mortas)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS casa)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Graça)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

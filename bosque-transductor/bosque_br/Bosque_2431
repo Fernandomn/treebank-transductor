@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Ao_contrário_de+)
+    (NP 
+     (DT o)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP poderia)
+       (VB esperar)
+      )
+      (NP 
+       (DT a)
+       (NN direita)
+       (ADJP 
+        (JJ norte-americana)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN vigência)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Guerra_Fria)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN vinda)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Soljenitsin)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP pôde)
+    (VB ser)
+    (VBN capitalizada)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NN discursos)
+     )
+     e
+     (NP 
+      (NN aparições)
+      (ADJP 
+       (JJ públicas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

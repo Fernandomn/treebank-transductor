@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (PP minha)
+       (NNS culpabilidade)
+      )
+     )
+     (VP 
+      (VB é)
+      (JJ clara)
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (PP minha)
+        (NNS inocência)
+       )
+      )
+      (VP 
+       (VB é)
+       (JJ absoluta)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Quarenta)
+    (NN por_cento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN gerentes)
+      (ADJP 
+       (JJ japoneses)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (ADJP 
+    (JJ insatisfeitos)
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN salários)
+      (VBN recebidos)
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NN pesquisa)
+     (VP 
+      (VP 
+       (VBN divulgada)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (DT um)
+        (NN instituto)
+        (ADJP 
+         (JJ privado)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Tóquio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (JJ contínuo)
+      (NNS murmúrio)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (NP 
+         (PRP os)
+        )
+        (VB denuncia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

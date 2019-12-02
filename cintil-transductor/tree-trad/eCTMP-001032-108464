@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS pesca)
+    )
+   )
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB ainda)
+      (RB por)
+      (RB cima)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (JJ difícil)
+    )
+   )
+  )
+ )
+)

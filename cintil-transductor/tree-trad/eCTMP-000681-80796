@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (DT As)
+      (NNS livrarias)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (RB mesmo)
+       (NP 
+        (DT as)
+        (NNS bibliotecas)
+       )
+      )
+     )
+    )
+    (NP 
+     (CC ou)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS clubes)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS vídeo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB existem)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (PRP muitas)
+      (NNS localidades)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Tu)
+    )
+    (VP 
+     (VB és)
+     (NP 
+      (DT aquilo)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (DT as)
+          (NP 
+           (PP tuas)
+           (NNS palavras)
+          )
+         )
+         (VP 
+          (VB ouvem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

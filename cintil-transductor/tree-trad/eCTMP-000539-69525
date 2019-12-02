@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Mesmo)
+     (RB assim)
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (CD 16)
+        (NNS jogos)
+       )
+      )
+     )
+     (VP 
+      (VB marcou)
+      (PP 
+       (IN por)
+       (NP 
+        (CD seis)
+        (NNS vezes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

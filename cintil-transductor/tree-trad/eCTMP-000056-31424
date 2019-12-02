@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS FC)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VB ganhou)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Ovar)
+    )
+   )
+  )
+ )
+)

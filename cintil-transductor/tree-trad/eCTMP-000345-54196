@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vamos)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS data)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB for)
+           (JJ possível)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

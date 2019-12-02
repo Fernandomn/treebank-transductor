@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Artur)
+      (NNS Jorge)
+     )
+    )
+    (VP 
+     (VB continuará)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS frente)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS selecção)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

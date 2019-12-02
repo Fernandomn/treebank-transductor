@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Figura)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Cristo)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB apareceu)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS hóstia)
+     )
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS celebração)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS missa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

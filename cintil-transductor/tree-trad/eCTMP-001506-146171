@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (PRP Algo)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (NP 
+       (NP 
+        (NNS Georges)
+        (NNS Balanchine)
+       )
+      )
+      (VP 
+       (VB sabia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tá)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN ar)
+    )
+   )
+   (NP 
+    (DT mais)
+    (CD uma)
+    (NN calúnia)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Macaco_Simão)
+     )
+    )
+   )
+  )
+ )
+)

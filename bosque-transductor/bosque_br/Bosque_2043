@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN projeto)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP permite)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN polícia)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB impedir)
+      )
+      (VP 
+       (VP 
+        (VB interromper)
+       )
+      )
+      (CC e)
+      (VP 
+       (VP 
+        (VB interceptar)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NN escuta)
+     )
+     e
+     (NP 
+      (DT a)
+      (NN gravação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN conversas)
+        (ADJP 
+         (JJ telefônicas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

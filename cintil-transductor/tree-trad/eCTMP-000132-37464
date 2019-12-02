@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Toni)
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NNS substituto)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS frente)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS ataque)
+         )
+        )
+       )
+       (JJ bracarense)
+      )
+     )
+    )
+   )
+  )
+ )
+)

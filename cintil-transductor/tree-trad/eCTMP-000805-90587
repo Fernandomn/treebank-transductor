@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (CD Sete)
+     (NP 
+      (NNS agentes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS ex-PIDE-DGS)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB estacionam)
+      (NP 
+       (DT uma)
+       (NNS carrinha)
+      )
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (IN frente)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS jornal)
+        (NP 
+         (NNS Notícias)
+         (NNS de_)
+         (NNS a)
+         (NNS Amadora)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB entram)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS rompante)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS tipografia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

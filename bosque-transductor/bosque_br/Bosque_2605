@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Como)
+   )
+   (VP 
+    (VBP poderá)
+    (VB fazer-)
+   )
+   (NP 
+    (PRP lo)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (VP 
+    (VP 
+     (VBG respeitando)
+    )
+    (NP 
+     (PRP ele)
+     (NP 
+      (DT próprio)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN lei)
+    )
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (VP 
+      (VBP existem)
+     )
+     (ADVP 
+      (RB legalmente)
+     )
+     (NP 
+      (CD duas)
+      (NN moedas)
+     )
+    )
+   )
+  )
+ )
+)

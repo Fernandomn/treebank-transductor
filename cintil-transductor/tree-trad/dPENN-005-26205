@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS variação)
+     (JJ percentual)
+    )
+   )
+   (VP 
+    (VB existe)
+    (PP 
+     (IN desde)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS final)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

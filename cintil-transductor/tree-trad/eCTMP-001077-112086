@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS número)
+     (JJ inaugural)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB inteiramente)
+    )
+    (VP 
+     (VB consagrado)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS campo)
+         (JJ arqueológico)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Mértola)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

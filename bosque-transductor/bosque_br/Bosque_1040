@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (ADJP 
+    (CD Três)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN shopping)
+      (NP 
+       (NNP Ibirapuera)
+      )
+     )
+    )
+   )
+   (ADJP 
+    (CD seis)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Belas_Artes)
+     )
+    )
+   )
+   (CC e)
+   (NP 
+    (DT o)
+    (NNP Cinearte)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Conjunto_Nacional)
+     )
+    )
+   )
+  )
+ )
+)

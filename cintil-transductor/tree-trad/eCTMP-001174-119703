@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Johan)
+      (NNS Vandergun)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Marjánka)
+       (NNS Vrabková)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS formação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Puppettheatre)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

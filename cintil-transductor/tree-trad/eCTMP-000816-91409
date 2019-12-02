@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Sentirá)
+     (NP 
+      (NP 
+       (JJ maior)
+       (NP 
+        (NP 
+         (NNS compensação)
+         (JJ afectiva)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT as)
+          (NNS ligações)
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (ADVP 
+       (RB em)
+       (RB particular)
+      )
+      (CONJP 
+       (CC se)
+       (S 
+        (VP 
+         (VB for)
+         (JJ paciente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

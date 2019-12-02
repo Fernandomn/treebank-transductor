@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Diniz)
+   )
+   (VP 
+    (VBP começou)
+   )
+   (NP 
+    (DT sua)
+    (NN carreira)
+    (ADJP 
+     (JJ automobilística)
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1989)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Brasileiro_de_Fórmula_Ford)
+     (NP 
+      (NN campeonato)
+      (PP 
+       (IN em)
+       (VP 
+        (PRP que)
+        (VP 
+         (VBP obteve)
+        )
+        (NP 
+         (DT a)
+         (JJ sexta)
+         (NN posição)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN classificação)
+          (ADJP 
+           (JJ final)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NP 
+       (NNS Jorge)
+       (NNS Seabra)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS questão)
+    )
+    (VP 
+     (VB tem)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+        (VB posta)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (CD dois)
+         (NNS níveis)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

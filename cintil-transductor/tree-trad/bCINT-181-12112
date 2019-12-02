@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PSD)
+   )
+   (VP 
+    (VP 
+     (VB defende)
+     (RB agora)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS exportação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS diferença)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS programa)
+   )
+   (VP 
+    (VB inclui)
+    (NP 
+     (NP 
+      (NNS composições)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Mendelssohn)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS João)
+           (NNS Domingos)
+           (NNS Bomtempo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

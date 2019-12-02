@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (PRP todos)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS médicos)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (NP 
+            (PRP as)
+           )
+           (VB observaram)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS June)
+    )
+    (VP 
+     (VB era)
+     (VP 
+      (VB dominada)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS Jennifer)
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB seria)
+             (NP 
+              (DT uma)
+              (NP 
+               (NNS espécie)
+               (PP 
+                (IN de)
+                (NP 
+                 (NP 
+                  (NNS génio)
+                  (JJ mau)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

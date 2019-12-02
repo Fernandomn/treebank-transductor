@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Mesmo_assim)
+   )
+   (NP 
+    (DT o)
+    (NN governador)
+    (VBN eleito)
+   )
+   (VP 
+    (VBP tem)
+    (VBN seguido)
+   )
+   (NP 
+    (DT a)
+    (NN dieta)
+    (ADJP 
+     (JJ hipocalórica)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN clínica)
+      (VP 
+       (ADVP 
+        (RB onde)
+       )
+       (NP 
+        (DT a)
+        (NN ingestão)
+        (ADJP 
+         (JJ diária)
+        )
+       )
+       (VP 
+        (VBP é)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (CD 350)
+         (NN calorias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

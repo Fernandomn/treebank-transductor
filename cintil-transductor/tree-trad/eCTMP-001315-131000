@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (NP 
+     (NP 
+      (JJ igual)
+      (NNS modo)
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN sob)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS domínio)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Estaline)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC se)
+       (S 
+        (NP 
+         (NNS Lamarck)
+        )
+        (VP 
+         (VB tinha)
+         (NP 
+          (NNS razão)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB havia)
+       )
+       (NP 
+        (NNS lugar)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NNS Darwin)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

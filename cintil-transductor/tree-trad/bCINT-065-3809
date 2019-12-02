@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS semana)
+       (JJ passada)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB escreveram)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NNS Almeida)
+         (NNS Santos)
+        )
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VB pedindo)
+       (NP 
+        (NP 
+         (NNS esclarecimentos)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT a)
+           (NNS questão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Conselho)
+     (NNS de)
+     (NNS Segurança)
+     (NNS de_)
+     (NNS a)
+     (NNS ONU)
+    )
+   )
+   (VP 
+    (VP 
+     (VB decidiu)
+     (PP 
+      (PP 
+       (IN após)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS guerra)
+         (NNS de_)
+         (NNS o)
+         (NNS Golfo)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB eliminar)
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS armas)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS destruição)
+           (JJ maciça)
+          )
+         )
+        )
+       )
+       (JJ iraquianas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Uma)
+    (NN vez)
+    (PP 
+     (IN por)
+     (NP 
+      (NN mês)
+     )
+    )
+   )
+   (VP 
+    (VBP dá)
+   )
+   (NP 
+    (NN plantão)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN fim-de-semana)
+    )
+   )
+  )
+ )
+)

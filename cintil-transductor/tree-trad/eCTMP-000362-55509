@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS freiras)
+   )
+   (VP 
+    (VP 
+     (VB continuam)
+     (PP 
+      (IN a)
+      (VP 
+       (VB levantar)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NP 
+       (CD três)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS manhã)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

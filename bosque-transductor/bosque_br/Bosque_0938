@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Nigéria)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN campeã)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VB bater)
+      )
+      (NP 
+       (NNP Zâmbia)
+      )
+      (ADVP 
+       (PP 
+        (IN por)
+        (NP 
+         (CD 2)
+        )
+       )
+       (PP 
+        (IN a)
+        (ADJP 
+         (CD 1)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

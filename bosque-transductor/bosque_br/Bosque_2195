@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN destaque)
+   )
+   (PP 
+    (IN sem)
+    (NP 
+     (NN dúvida)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN balé)
+    (NP 
+     (NNP Bolshoi)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Rússia)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (RB pelo_menos)
+       (CD cinco)
+       (NN anos)
+       (ADJP 
+        (JJ consecutivos)
+       )
+      )
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP apresenta)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN cidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

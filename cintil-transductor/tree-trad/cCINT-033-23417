@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (RB lá)
+   )
+   (NP 
+    (NP 
+     (NNS desfiladeiros)
+     (NP 
+      (CC e)
+      (NP 
+       (NNS montanhas)
+       (ADJP 
+        (ADJP 
+         (ADVP 
+          (RB ainda)
+          (RB mais)
+         )
+         (JJ altas)
+        )
+        de_ o que
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB existem)
+            (PP 
+             (IN em)
+             (NP 
+              (NNS terra)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

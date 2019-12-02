@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Romagem)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fado)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Coimbra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS CCB)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Romão)
+   )
+   (VP 
+    (VP 
+     (VB concluiu)
+     (RB ainda)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NNS Belenenses)
+      )
+      (VP 
+       (VB defrontou)
+       (NP 
+        (NP 
+         (DT um)
+         (NP 
+          (JJ bom)
+          (NNS opositor)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS situação)
+   )
+   (VP 
+    (VB provocou)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS interrupção)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS vida)
+          (JJ empresarial)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Por)
+      (RB outro)
+      (RB lado)
+     )
+    )
+    (VB consideram)
+   )
+  )
+  (S 
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS conhecimento)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esta)
+        (NNS realidade)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB poderá)
+     (VP 
+      (VP 
+       (VP 
+        (VB desmotivar)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS hospitais)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (RB ainda)
+             (VP 
+              (RB não)
+              (VP 
+               (NP 
+                (PRP o)
+               )
+               (VB fizeram)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

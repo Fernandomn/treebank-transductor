@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS treinador)
+      (NP 
+       (NNS Ângelo)
+       (NNS Pintado)
+      )
+     )
+    )
+    (VP 
+     (VB aposta)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS surpresa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

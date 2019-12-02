@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Fica)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN fazenda)
+     (NP 
+      (NNP Itereí)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Juquitiba)
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (CD 120)
+     (NN quilômetros)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP São_Paulo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

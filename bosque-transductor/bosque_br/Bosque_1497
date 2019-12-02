@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP esqueça)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (NP 
+      (DT os)
+      (NN óculos)
+      (ADJP 
+       (JJ escuros)
+      )
+     )
+     e
+     (NP 
+      (DT uma)
+      (NN capa)
+      (PP 
+       (IN de)
+       (NP 
+        (NN chuva)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

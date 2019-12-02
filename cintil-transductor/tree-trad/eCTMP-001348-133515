@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS O)
+     (NNS Varzim)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB precisamente)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CD último)
+      (NP 
+       (NNS adversário)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Sporting)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Octávio)
+             (NNS Machado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

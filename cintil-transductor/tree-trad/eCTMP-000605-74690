@@ -1,0 +1,102 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Tem)
+      (RB amanhã)
+     )
+     (NP 
+      (NNS início)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS Cabo)
+       (NNS Verde)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS programa)
+     (ADJP 
+      (JJ evocativo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD 25º)
+         (NP 
+          (NNS aniversário)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS morte)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NP 
+                 (NNS Amílcar)
+                 (NNS Cabral)
+                )
+               )
+               (NP 
+                (NP 
+                 (NP 
+                  (NP 
+                   (NNS líder)
+                   (JJ histórico)
+                  )
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT o)
+                    (NNS PAIGC)
+                   )
+                  )
+                 )
+                 (NP 
+                  (CC e)
+                  (NP 
+                   (NP 
+                    (NNS fundador)
+                    (PP 
+                     (IN de_)
+                     (NP 
+                      (DT a)
+                      (NP 
+                       (NNS nacionalidade)
+                       (JJ cabo-verdiana)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

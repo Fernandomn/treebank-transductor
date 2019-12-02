@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VBP estou)
+   )
+   (ADJP 
+    (ADJP 
+     (JJ igualzinho)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN presidente)
+       (NP 
+        (NNP Itamar)
+       )
+      )
+     )
+    )
+    (ADJP 
+     (JJ igualzinho)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN ministério)
+      )
+     )
+    )
+    (ADJP 
+     (JJ igualzinho)
+     (PP 
+      (IN a)
+      (NP 
+       (CD 150)
+       (NN milhões)
+       (PP 
+        (IN de)
+        (NP 
+         (NN brasileiros)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (ADVP 
+           (RB não)
+          )
+          (VP 
+           (VBP sabem)
+          )
+          (NP 
+           (NN coisa)
+           (NP 
+            (DT alguma)
+           )
+          )
+          (PP 
+           (IN sobre)
+           (NP 
+            (DT este)
+            (NN plano)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

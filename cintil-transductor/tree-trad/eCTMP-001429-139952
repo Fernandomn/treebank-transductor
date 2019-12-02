@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NNS Portugal)
+     )
+     (VP 
+      (VB fez)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB era)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (PP seu)
+              (NNS interesse)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT isso)
+      )
+      (VP 
+       (VB é)
+       (JJ normal)
+      )
+     )
+    )
+   )
+  )
+ )
+)

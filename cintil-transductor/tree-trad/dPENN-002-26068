@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ambos)
+    (NP 
+     (DT os)
+     (NNS genes)
+    )
+   )
+   (VP 
+    (VB são)
+    (VP 
+     (VB inseridos)
+     (PP 
+      (IN em)
+      (NP 
+       (PRP algumas)
+       (NP 
+        (NP 
+         (NNS plantas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS estufa)
+          )
+         )
+        )
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VP 
+              (VB são)
+              (RB posteriormente)
+             )
+             (VB polinizadas)
+            )
+            (S 
+             (S 
+              (VP 
+               (VB crescendo)
+               (VP 
+                (CC e)
+                (VP 
+                 (VB produzindo)
+                 (NP 
+                  (NNS sementes)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fanizzi)
+   )
+   (VP 
+    (VBP conta)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB antes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN discussões)
+       (PP 
+        (IN em)
+        (NP 
+         (NN aula)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP era)
+    )
+    (NP 
+     (DT uma)
+     (NN pessoa)
+     (PP 
+      (IN de)
+      (NP 
+       (JJ extrema)
+       (NN direita)
+      )
+     )
+     (VP 
+      (IN que)
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP pensava)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT as)
+        (DT suas)
+        (NN opiniões)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

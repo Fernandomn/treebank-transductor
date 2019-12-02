@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN real)
+   )
+   (VP 
+    (VBP terá)
+    (IN que)
+    (VB ter)
+   )
+   (NP 
+    (DT uma)
+    (NN referência)
+   )
+   (PP 
+    (IN em_relação_a+)
+    (NP 
+     (DT o)
+     (NN dólar)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Amaral)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP quis)
+      )
+      (VP 
+       (VP 
+        (VB dizer)
+       )
+       (VP 
+        (IN se)
+        (NP 
+         (DT o)
+         (NN câmbio)
+         (VP 
+          (VBP será)
+         )
+         (ADJP 
+          (ADJP 
+           (JJ fixo)
+          )
+          ou
+          (ADJP 
+           (JJ variável)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

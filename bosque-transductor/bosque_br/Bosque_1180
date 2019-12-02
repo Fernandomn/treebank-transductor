@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN semana)
+     (VBN passada)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN mercado)
+    (PP 
+     (IN de)
+     (NP 
+      (NN gado)
+      (ADJP 
+       (JJ leiteiro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN marcado)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT uma)
+     (NN surpresa)
+     (VP 
+      (NP 
+       (DT o)
+       (NN gado)
+       (ADJP 
+        (JJ girolando)
+       )
+      )
+      (VP 
+       (VBP atingiu)
+      )
+      (NP 
+       (NN preço)
+       (ADJP 
+        (JJ superior)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN holandês)
+          (ADJP 
+           (JJ puro-sangue)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NN leilões)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

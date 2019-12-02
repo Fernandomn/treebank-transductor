@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NNS Taça)
+     (NNS América)
+    )
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB ficará)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NNS história)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

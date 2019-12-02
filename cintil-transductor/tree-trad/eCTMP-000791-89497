@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS final)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS encontro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Pinto)
+      (NNS de_)
+      (NNS a)
+      (NNS Costa)
+     )
+    )
+    (VP 
+     (VP 
+      (VB dedicou)
+      (NP 
+       (DT a)
+       (NNS vitória)
+      )
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Gonçalves)
+         (NNS Gomes)
+        )
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (RB ontem)
+            (VB faleceu)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

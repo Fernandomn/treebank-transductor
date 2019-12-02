@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Bulls)
+  )
+  (VP 
+   (ADVP 
+    (RB mais)
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS título)
+      )
+     )
+    )
+   )
+  )
+ )
+)

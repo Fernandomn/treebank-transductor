@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (UCP 
+    (ADVP 
+     (RB Amanhã)
+    )
+    e
+    (PP 
+     (IN por)
+     (NP 
+      (DT mais)
+      (CD 15)
+      (NN dias)
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT mais)
+    (NN filme)
+   )
+  )
+ )
+)

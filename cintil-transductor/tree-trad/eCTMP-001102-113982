@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS momento)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT a)
+       (NNS Agenor)
+      )
+      (VP 
+       (VB está)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS CIP)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (PRP nós)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB somos)
+       )
+       (NP 
+        (NNS indústria)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

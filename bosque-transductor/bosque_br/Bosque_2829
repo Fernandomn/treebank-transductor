@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A_partir_de+)
+    (NP 
+     (DT os)
+     (CD 22)
+     (NN min)
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP São_Paulo)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP passou)
+      (IN a)
+      (VB marcar)
+     )
+     (PP 
+      (IN sob)
+      (NP 
+       (NN pressão)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP anulou)
+     )
+     (NP 
+      (DT o)
+      (NN adversário)
+     )
+    )
+   )
+  )
+ )
+)

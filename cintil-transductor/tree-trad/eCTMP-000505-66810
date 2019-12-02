@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNS Investigações)
+  )
+  (VP 
+   (VP 
+    (VB dificultadas)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS caso)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS discoteca)
+         (NNS Ritmika)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

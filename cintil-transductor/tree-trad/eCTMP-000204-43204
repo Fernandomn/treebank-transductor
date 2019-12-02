@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Desvio)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (CD 30)
+        (CD mil)
+       )
+       (NNS contos)
+      )
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS FSE)
+     )
+    )
+   )
+  )
+ )
+)

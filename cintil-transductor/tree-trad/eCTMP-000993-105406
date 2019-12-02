@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS PJ)
+  )
+  (VP 
+   (VP 
+    (VB identificou)
+    (NP 
+     (CD 158)
+     (NNS suspeitos)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS centro)
+    )
+   )
+  )
+ )
+)

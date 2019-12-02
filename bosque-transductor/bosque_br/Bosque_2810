@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN compromisso)
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN precisão)
+      )
+     )
+     e
+     (PP 
+      (IN por)
+      (NP 
+       (NN extensão)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NN leitor)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vale)
+   )
+   (ADVP 
+    (RB menos)
+    (SBAR do_que
+     (S 
+      (DT a)
+      (NN torcida)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN imprensa)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT essas)
+     (NN horas)
+    )
+   )
+  )
+ )
+)

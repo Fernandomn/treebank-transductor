@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Carteira)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (CD 30)
+      )
+      (NP 
+       (NNS estreias)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS televisão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

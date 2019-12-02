@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS facto)
+   )
+   (VP 
+    (VB parece)
+    (VP 
+     (VP 
+      (RB não)
+      (VB afectar)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS decisão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Ferroviários)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

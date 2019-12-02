@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NP 
+      (NNS queda)
+      (ADJP 
+       (JJ rápida)
+       (ADJP 
+        (CC mas)
+        (JJ equilibrada)
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS cotações)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB ontem)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS nota)
+       (JJ dominante)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Frankfurt)
+     )
+    )
+   )
+  )
+ )
+)

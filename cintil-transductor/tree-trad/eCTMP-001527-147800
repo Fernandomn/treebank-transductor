@@ -1,0 +1,40 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Anulado)
+    (NNS concurso)
+   )
+  )
+  (VP 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS terminal)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS carga)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS aeroporto)
+         (NNS de)
+         (NNS Macau)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

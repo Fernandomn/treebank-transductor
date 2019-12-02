@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN bibliotecas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Vaticano)
+     )
+    )
+   )
+   (VP 
+    (VBP poderão)
+    (VB ser)
+    (VBN consultadas)
+   )
+   (ADVP 
+    (RB em_breve)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Internet)
+      (NP 
+       (NN rede)
+       (PP 
+        (IN de)
+        (NP 
+         (NN computadores)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN milhões)
+         (PP 
+          (IN de)
+          (NP 
+           (NN usuários)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

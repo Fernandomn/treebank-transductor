@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NN faixas)
+     )
+     (NP 
+      (NN listras)
+     )
+     e
+     (NP 
+      (NN círculos)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN desenhados)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN gramados)
+       (ADJP 
+        (JJ norte-americanos)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN Copa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADVP 
+    (RB apenas)
+   )
+   (NP 
+    (CD um)
+    (NN recurso)
+    (ADJP 
+     (JJ estético)
+    )
+   )
+  )
+ )
+)

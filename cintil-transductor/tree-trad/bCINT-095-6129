@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Gosto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS futebol)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT aquilo)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (NNS futebol)
+      )
+     )
+    )
+   )
+  )
+ )
+)

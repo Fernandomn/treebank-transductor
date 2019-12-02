@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS grupo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS texanos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB gostou)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (PP seus)
+       (NP 
+        (NNS comentários)
+        (PP 
+         (IN sobre)
+         (NP 
+          (NP 
+           (NNS carne)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS doença)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT as)
+               (NP 
+                (NP 
+                 (NNS vacas)
+                 (JJ loucas)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

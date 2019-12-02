@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (ADJP 
+    (JJ 1.)
+   )
+   (NN Currículo)
+   (PP 
+    (IN com)
+    (NP 
+     (ADJP 
+      (RB mais_de)
+      (CD três)
+     )
+     (NN páginas)
+    )
+   )
+  )
+ )
+)

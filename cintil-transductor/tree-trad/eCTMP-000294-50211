@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Abastecimento)
+     (JJ normal)
+    )
+   )
+  )
+  (PP 
+   (PP 
+    (IN apesar)
+    (IN de_)
+   )
+   (NP 
+    (DT a)
+    (NNS greve)
+   )
+  )
+ )
+)

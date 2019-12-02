@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP sei)
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (DT os)
+     (NN jornalistas)
+    )
+    (VP 
+     (VBP estão)
+    )
+    (ADJP 
+     (JJ conscientes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (JJ grande)
+       (NN responsabilidade)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP têm)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

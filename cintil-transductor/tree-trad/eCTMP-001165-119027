@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS caso)
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB foi)
+      (VP 
+       (VB entregue)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Ministério)
+          (NNS Público)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NNS investigação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

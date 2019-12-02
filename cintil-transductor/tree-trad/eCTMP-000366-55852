@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ principal)
+     (NNS ausência)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Sousa)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS motivos)
+        (JJ clínicos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

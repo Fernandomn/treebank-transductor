@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ciclo)
+     (NNS Jean)
+     (NNS Renoir)
+    )
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Cinemateca)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Crise)
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS basebol)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS EUA)
+      )
+     )
+    )
+   )
+  )
+ )
+)

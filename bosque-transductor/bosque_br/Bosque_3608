@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ministro)
+    (ADJP 
+     (JJ britânico)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNP Irlanda_do_Norte)
+      (NP 
+       (NNP Patrick_Mayhew)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Belfast)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN cronograma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN processo)
+       (PP 
+        (IN de)
+        (NP 
+         (NN paz)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP será)
+     (VBN mantido)
+    )
+   )
+  )
+ )
+)

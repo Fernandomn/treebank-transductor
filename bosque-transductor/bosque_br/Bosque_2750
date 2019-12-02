@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ desenvolvimentista)
+     )
+    )
+    (VP 
+     (VP 
+      (VBP defende)
+     )
+     (NP 
+      (DT a)
+      (NN nação)
+      (ADJP 
+       (JJ soberana)
+      )
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT o)
+       (NN imperialismo)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP representa)
+     )
+     (NP 
+      (DT as)
+      (NN forças)
+      (ADJP 
+       (JJ populares)
+      )
+     )
+    )
+   )
+  )
+ )
+)

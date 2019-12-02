@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Vinho)
+     (PP 
+      (IN a)
+      (NP 
+       (NNS copo)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS templo)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS água)
+      )
+     )
+    )
+   )
+  )
+ )
+)

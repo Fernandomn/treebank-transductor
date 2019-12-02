@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NN cantora)
+     )
+     e
+     (NP 
+      (NN violinista)
+     )
+    )
+    (NP 
+     (NNP Meca_Vargas)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP faz)
+   )
+   (NP 
+    (NN coro)
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN contentes)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NN computador)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (ADVP 
+        (ADVP 
+         (RB Depois)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Carnaval)
+          )
+         )
+        )
+       )
+       (VP 
+        (VB dou)
+        (NP 
+         (DT a)
+         (NNS resposta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB adianta)
+    )
+   )
+  )
+ )
+)

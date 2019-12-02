@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Alguns)
+   )
+   (VP 
+    (VP 
+     (VB dizem)
+     (CONJP 
+      (S 
+       (VP 
+        (RB bem)
+        (VP 
+         (VB feito)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ indisfarçável)
+        (NP 
+         (NNS satisfação)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (PRP quem)
+           )
+           (S 
+            (VP 
+             (VB vê)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS incomodidade)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NNS líder)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

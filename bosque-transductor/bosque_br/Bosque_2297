@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governador)
+   )
+   (VP 
+    (VBP acrescentou)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP pedirá)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NNP Nosso_Senhor_do_Bonfim)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NN plano)
+      )
+      (VP 
+       (VBP dê)
+      )
+      (ADJP 
+       (JJ certo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

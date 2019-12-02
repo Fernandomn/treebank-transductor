@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NN Resultado)
+   (NP 
+    (NN pressão)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NN preços)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN combinada)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN falta)
+       (PP 
+        (IN de)
+        (NP 
+         (NN produtos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

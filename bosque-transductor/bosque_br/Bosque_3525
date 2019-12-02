@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Pedem)
+    )
+    (NP 
+     (NP 
+      (NN cerveja)
+     )
+     (NP 
+      (NN tequila)
+     )
+     e
+     (NP 
+      (NN batidas)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT um)
+      (NN gasto)
+      (ADJP 
+       (JJ médio)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN US$)
+        (ADJP 
+         (CD 30)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN noite)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP falam)
+    )
+    (ADVP 
+     (RB mal)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN mauricinhos)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (IN como)
+        (VP 
+         (VBP diz)
+        )
+        (NP 
+         (NNP Rubinho_Gimenes)
+        )
+       )
+       (VP 
+        (VBP são)
+       )
+       (ADJP 
+        (JJ cheios)
+        (PP 
+         (IN de)
+         (VP 
+          (VP 
+           (VB querer)
+          )
+          (VP 
+           (VP 
+            (VB ser)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

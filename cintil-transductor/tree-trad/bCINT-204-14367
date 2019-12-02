@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NP 
+       (PP seus)
+       (NNS satélites)
+      )
+     )
+     (VP 
+      (RB sempre)
+      (VP 
+       (VB tiveram)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS vida)
+         (JJ curta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS substituição)
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB fazia)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (ADVP 
+        (RB com)
+        (RB frequência)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

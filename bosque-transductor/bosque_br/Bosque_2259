@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN resultado)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT essa)
+      (NN tentativa)
+      (PP 
+       (IN de)
+       (NP 
+        (NN metempsicose)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (VBN recém-lançado)
+     (NN CD)
+     (NP 
+      (NNP Isso_é_Bossa_Nova)
+     )
+     (NP 
+      (NNP EMI-Odeon)
+     )
+     (NP 
+      (JJ sétimo)
+      (NN disco)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD 12)
+       (NN Anos)
+       (PP 
+        (IN de)
+        (NP 
+         (DT sua)
+         (NN carreira)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

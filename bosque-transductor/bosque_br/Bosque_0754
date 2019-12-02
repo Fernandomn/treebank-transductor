@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Marcos_CINTRA_CAVALCANTI_De_ALBUQUERQUE)
+    (ADJP 
+     (CD 48)
+    )
+    (NP 
+     (NN doutor)
+     (PP 
+      (IN em)
+      (NP 
+       (NN economia)
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN Universidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Harvard)
+         (NP 
+          (NNP EUA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NP 
+     (NN vereador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN cidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP São_Paulo)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NNP PL)
+      )
+     )
+    )
+    e
+    (NP 
+     (NN professor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NP 
+        (NNP Fundação_Getúlio_Vargas)
+        (NP 
+         (NNP SP)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

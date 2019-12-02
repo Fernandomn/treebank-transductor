@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN termos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN reforma)
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN assinados)
+   )
+   (ADVP 
+    (RB quarta-feira)
+   )
+   (PP 
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN prefeito)
+      (NP 
+       (NNP Paulo_Maluf)
+      )
+     )
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN abade)
+      (NP 
+       (NNP Dom_Isidoro_Oliveira_Preto)
+      )
+      (NP 
+       (NN mosteiro)
+      )
+     )
+    )
+    e
+    (PP 
+     (IN por)
+     (NP 
+      (NN representantes)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNP Banco_de_Boston)
+         )
+         (NP 
+          (NNP Philips)
+         )
+         e
+         (NP 
+          (NNP Akzo/Tintas_Ypiranga)
+         )
+        )
+        (NP 
+         (NN empresas)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP patrocinam)
+          )
+          (NP 
+           (DT as)
+           (NN obras)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

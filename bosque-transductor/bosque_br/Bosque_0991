@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ainda_assim)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ expressiva)
+   )
+   (NP 
+    (DT a)
+    (NN presença)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (DT outras)
+     (NN seções)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN festival)
+      )
+     )
+    )
+   )
+  )
+ )
+)

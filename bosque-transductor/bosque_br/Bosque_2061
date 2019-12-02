@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP Ex-presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Câmara)
+     )
+    )
+   )
+   (NP 
+    (NNP Ibsen)
+   )
+   (VP 
+    (VBP conduziu)
+   )
+   (NP 
+    (DT a)
+    (NN votação)
+   )
+   (VP 
+    (VP 
+     (VBG autorizando)
+    )
+    (NP 
+     (DT o)
+     (NN impeachment)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Collor)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 29)
+      (PP 
+       (IN de)
+       (NP 
+        (NN setembro)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 1992)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS assaltantes)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN para)
+       (IN além)
+       (IN de_)
+      )
+      (NP 
+       (DT as)
+       (NNS ameaças)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB têm)
+     )
+     (VP 
+      (VP 
+       (VB exercido)
+       (NP 
+        (NNS violência)
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT os)
+        (NNS funcionários)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

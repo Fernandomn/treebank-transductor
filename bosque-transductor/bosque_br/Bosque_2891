@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Afinal)
+   )
+   (VP 
+    (IN por_mais_que)
+    (VP 
+     (VBP tentem)
+    )
+    (VP 
+     (VP 
+      (VB matar)
+     )
+     (NP 
+      (DT o)
+      (NN craque)
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (VP 
+    (VBP sobrevive)
+   )
+   (ADVP 
+    (ADVP 
+     (RB aqui)
+    )
+    ou
+    (ADVP 
+     (RB ali)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB onde)
+    )
+    (ADVP 
+     (RB menos)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP espera)
+    )
+   )
+  )
+ )
+)

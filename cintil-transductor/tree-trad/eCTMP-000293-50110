@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Ministério)
+     (NNS de_)
+     (NNS o)
+     (NNS Comércio)
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (NP 
+        (NNS Portugal)
+       )
+       (VP 
+        (VB está)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS mãos)
+           (JJ atadas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

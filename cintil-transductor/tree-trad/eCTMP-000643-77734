@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS falta)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS maturidade)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS adversários)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NP 
+       (JJ grande)
+       (NNS pecha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

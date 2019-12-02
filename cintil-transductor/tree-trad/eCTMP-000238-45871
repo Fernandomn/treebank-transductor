@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS general)
+     (NNS António)
+     (NNS Ramalho)
+     (NNS Eanes)
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS volta)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS cena)
+          (JJ política)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN kratos)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN povo)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT seu)
+    )
+    (ADVP 
+     (RB se_tanto)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NN ouvido)
+     )
+     (NP 
+      (DT o)
+      (NN olhar)
+     )
+    )
+   )
+  )
+ )
+)

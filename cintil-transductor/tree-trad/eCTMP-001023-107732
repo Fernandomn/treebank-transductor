@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Cada)
+    (NNS lição)
+   )
+   (VP 
+    (VB começa)
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NNS jogos)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS exercícios)
+          (JJ rítmicos)
+         )
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN com)
+         (NP 
+          (NNS poemas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

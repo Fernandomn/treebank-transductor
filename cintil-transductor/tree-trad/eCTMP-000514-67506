@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS comércio)
+      (JJ tradicional)
+     )
+     (JJ português)
+    )
+   )
+   (VP 
+    (VB mantém)
+    (NP 
+     (NP 
+      (NP 
+       (DT um)
+       (NNS peso)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS margem)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS manobra)
+          )
+         )
+        )
+       )
+      )
+     )
+     (JJ consideráveis)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fato)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB haver)
+      )
+      (NP 
+       (JJ razoável)
+       (NN consenso)
+       (ADVP 
+        (RB acerca)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT esses)
+          (NN temas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP significa)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP seja)
+    )
+    (ADJP 
+     (ADJP 
+      (JJ fácil)
+     )
+     ou
+     (ADJP 
+      (JJ rápido)
+     )
+    )
+    (VP 
+     (VP 
+      (VB aprovar)
+     )
+     (NP 
+      (DT tais)
+      (NN reformas)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN Congresso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

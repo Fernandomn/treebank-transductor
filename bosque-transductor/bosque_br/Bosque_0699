@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+    (NP 
+     (NNP Alfio_Basile)
+    )
+   )
+   (VP 
+    (VBP tentou)
+   )
+   (VP 
+    (VP 
+     (VB aproveitar)
+    )
+    (NP 
+     (DT seus)
+     (JJ melhores)
+     (NN jogadores)
+    )
+   )
+  )
+ )
+)

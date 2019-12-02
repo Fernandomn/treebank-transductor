@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB De)
+     (RB um)
+     (RB lado)
+    )
+   )
+   (S 
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS espécie)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Mike)
+          (NNS Tyson)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS política)
+            (ADJP 
+             (JJ portuguesa)
+             (CONJP 
+              (CONJP 
+               (PP 
+                (IN de)
+                (NP 
+                 (PRP que)
+                )
+               )
+               (S 
+                (VP 
+                 (VB é)
+                 (NP 
+                  (NP 
+                   (NP 
+                    (NNS profissional)
+                    (JJ recente)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Januário)
+    )
+    (VB cora)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB será)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (JJ única)
+        (NP 
+         (NNS vez)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS decurso)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS conversa)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

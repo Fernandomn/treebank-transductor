@@ -1,0 +1,123 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Nós)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP vamos)
+     (VB acreditar)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT um)
+      (NN povo)
+      (ADJP 
+       (RB tão)
+       (JJ culto)
+       (SBAR como
+        (S 
+         (DT o)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Guanabara)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VBP possa)
+      (VB ter)
+     )
+     (NP 
+      (NN problemas)
+      (VP 
+       (ADVP 
+        (RB como)
+       )
+       (VP 
+        (VBP andam)
+        (VBG dizendo)
+       )
+       (ADVP 
+        (IN por)
+        (RB aí)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (VP 
+     (VBG referindo-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN população)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (JJ antigo)
+        (NN Estado)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Guanabara)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP desapareceu)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT a)
+             (NN fusão)
+             (PP 
+              (IN com)
+              (NP 
+               (DT o)
+               (NN Estado)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT o)
+                 (NNP Rio_de_Janeiro)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

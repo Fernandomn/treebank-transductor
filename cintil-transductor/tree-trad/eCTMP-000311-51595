@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS guarda-redes)
+     (NNS Hilário)
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN a)
+     (VP 
+      (VB fazer)
+      (NP 
+       (NP 
+        (NP 
+         (NNS treino)
+         (JJ condicionado)
+        )
+        (PP 
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (NP 
+             (NNS trabalho)
+             (JJ específico)
+            )
+            (PP 
+             (IN de)
+             (NP 
+              (NNS ginásio)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

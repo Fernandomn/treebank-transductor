@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Aí)
+   )
+   (NP 
+    (DT a)
+    (NN gente)
+    (VP 
+     (VP 
+      (VP 
+       (VBP tirava)
+      )
+      (NP 
+       (DT a)
+       (NN fita)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP gravava)
+      )
+      (ADVP 
+       (RB em_cima)
+      )
+     )
+    )
+   )
+  )
+ )
+)

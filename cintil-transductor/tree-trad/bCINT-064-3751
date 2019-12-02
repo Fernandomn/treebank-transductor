@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Sobretudo)
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Porto)
+        (CONJP 
+         (CONJP 
+          (RB onde)
+          (S 
+           (NP 
+            (PRP nada)
+           )
+           (VP 
+            (VP 
+             (VB existe)
+             (PP 
+              (IN a)
+              (NP 
+               (DT este)
+               (NNS nível)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

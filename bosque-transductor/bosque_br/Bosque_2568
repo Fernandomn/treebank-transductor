@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN médico)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN edema)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT este)
+      (NN caso)
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ irreversível)
+    )
+   )
+  )
+ )
+)

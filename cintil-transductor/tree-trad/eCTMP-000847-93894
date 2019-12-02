@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NNS Atentado)
+  )
+  (VP 
+   (VB foi)
+   (NP 
+    (NP 
+     (NP 
+      (NNS homenagem)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS trabalho)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Chevardnadze)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

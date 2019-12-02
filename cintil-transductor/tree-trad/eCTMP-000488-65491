@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (JJ Rara)
+   (S 
+    (VP 
+     (VP 
+      (VB é)
+      (RB também)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS descoberta)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS número)
+           (ADJP 
+            (RB tão)
+            (JJ grande)
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS espécies)
+             (JJ diferentes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ mesmo)
+         (NNS lugar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

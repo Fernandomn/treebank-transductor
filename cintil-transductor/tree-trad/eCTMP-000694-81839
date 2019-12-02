@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ela)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB ganha)
+      )
+      (NP 
+       (NNS nada)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT isto)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS banco)
+     )
+     (VP 
+      (VB perde)
+      (NP 
+       (DT um)
+       (NNS cliente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

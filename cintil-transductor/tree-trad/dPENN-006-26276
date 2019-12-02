@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NNS passado)
+    )
+   )
+   (S 
+    (ADVP 
+     (RB contudo)
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NNS Coca-Cola)
+     )
+     (VP 
+      (VP 
+       (VB registou)
+       (RB tipicamente)
+      )
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS participação)
+         (JJ minoritária)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT estes)
+          (NNS empreendimentos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

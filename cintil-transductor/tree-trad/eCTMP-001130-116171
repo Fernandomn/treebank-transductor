@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Soares)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB presidiu)
+      (RB ontem)
+     )
+     (PP 
+      (PP 
+       (RB também)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS Porto)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS lançamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS obra)
+          (NP 
+           (NNS D)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

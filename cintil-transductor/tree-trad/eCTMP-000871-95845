@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (PP 
+      (PP 
+       (IN Após)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS reunião)
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (NNS Gaspar)
+            (NNS Ramos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (NP 
+       (PRP ambos)
+      )
+      (VP 
+       (VB disseram)
+       (CONJP 
+        (CC que)
+        (S 
+         (VP 
+          (VP 
+           (RB não)
+           (VB havia)
+          )
+          (NP 
+           (NNS conclusões)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (NNS Neno)
+     )
+     (VP 
+      (VB reafirmou)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS posição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

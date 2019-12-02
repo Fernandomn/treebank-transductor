@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Semana)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Imprensa)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Escola)
+       (NNS Preparatória)
+       (NNS Bocage)
+      )
+     )
+    )
+   )
+  )
+ )
+)

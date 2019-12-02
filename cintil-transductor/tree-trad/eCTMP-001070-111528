@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Medina)
+     (NNS Carreira)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS deputado)
+      (ADJP 
+       (JJ ausente)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS debates)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Parlamento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

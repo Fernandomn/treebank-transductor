@@ -1,0 +1,27 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Ora)
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS ricos)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB estão)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT isto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

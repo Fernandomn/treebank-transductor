@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB É)
+      (RB ainda)
+     )
+     (NP 
+      (NP 
+       (NNS membro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Comissão)
+          (NNS Política)
+          (NNS Nacional)
+          (NNS de_)
+          (NNS a)
+          (NNS JC)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB integra)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS bancada)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS PP)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Assembleia)
+           (NNS Municipal)
+           (NNS de)
+           (NNS Aveiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

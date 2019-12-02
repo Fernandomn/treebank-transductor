@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Eleições)
+    (ADJP 
+     (JJ parlamentares)
+     (ADJP 
+      (CC e)
+      (JJ locais)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (RB hoje)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Haiti)
+    )
+   )
+  )
+ )
+)

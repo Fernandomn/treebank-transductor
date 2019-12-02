@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (RB Hoje)
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB começou)
+       (PP 
+        (IN a)
+        (VP 
+         (VB ter)
+         (NP 
+          (NP 
+           (NNS dores)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS barriga)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS aula)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB teve)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ir)
+         (PP 
+          (IN para)
+          (NP 
+           (NNS casa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

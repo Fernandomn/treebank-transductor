@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Quanto)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS perda)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS soberania)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN por)
+          (IN causa)
+          (IN de_)
+         )
+         (NP 
+          (DT a)
+          (NNS moeda)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB é)
+       (NP 
+        (NP 
+         (JJ pura)
+         (NNS ilusão)
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN segundo)
+       (NP 
+        (NNS Cavaco)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

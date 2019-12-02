@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS agente)
+     (JJ pagador)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NNS BSNP)
+    )
+   )
+  )
+ )
+)

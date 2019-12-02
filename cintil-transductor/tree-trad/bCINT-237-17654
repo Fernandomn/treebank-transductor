@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS família)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (ADJP 
+       (CD primeira)
+       (ADJP 
+        (CC e)
+        (ADJP 
+         (RB mais)
+         (JJ importante)
+        )
+       )
+      )
+      (NP 
+       (NNS forma)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS interacção)
+          (JJ social)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

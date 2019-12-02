@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Estava)
+   )
+   (ADJP 
+    (JJ vivo)
+   )
+   (NP 
+    (DT o)
+    (NN sentimento)
+    (ADJP 
+     (ADJP 
+      (JJ étnico)
+     )
+     e
+     (ADJP 
+      (JJ nativista)
+     )
+    )
+   )
+  )
+ )
+)

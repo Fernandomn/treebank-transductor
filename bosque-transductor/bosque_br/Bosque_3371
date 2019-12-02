@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NN bar)
+     )
+     e
+     (NP 
+      (NN restaurante)
+     )
+    )
+    (NP 
+     (NNP Lanterna)
+    )
+   )
+   (VP 
+    (VBP inaugurou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN terça-feira)
+    )
+   )
+   (NP 
+    (DT um)
+    (NN espaço)
+    (PP 
+     (IN para)
+     (VB dançar)
+    )
+   )
+  )
+ )
+)

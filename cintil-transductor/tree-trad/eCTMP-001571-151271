@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS maioria)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS cheques)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB levantada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS funcionários)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS autarquia)
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT outras)
+         (NNS pessoas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

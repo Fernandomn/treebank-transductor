@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Jogadores)
+   )
+  )
+  (PP 
+   (PP 
+    (IN em)
+    (IN vez)
+    (IN de_)
+   )
+   (NP 
+    (DT a)
+    (NNS crise)
+   )
+  )
+ )
+)

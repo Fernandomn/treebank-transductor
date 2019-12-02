@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Etnia)
+  )
+  (VP 
+   (VP 
+    (VB funde)
+    (NP 
+     (NNS culturas)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Conde)
+      (NNS Barão)
+     )
+    )
+   )
+  )
+ )
+)

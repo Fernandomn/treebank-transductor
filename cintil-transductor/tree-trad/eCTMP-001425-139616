@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS habitação)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS China)
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS forma)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS assistência)
+          (JJ social)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

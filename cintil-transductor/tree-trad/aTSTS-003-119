@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VP 
+     (VB havia)
+     (VP 
+      (VB visto)
+      (NP 
+       (NNS computadores)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT aquela)
+      (NNS loja)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Sampaio)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS cruzada)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NNS capitalidade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Sala)
+     (JJ esgotada)
+    )
+   )
+   (S 
+    (VP 
+     (VB anunciava)
+    )
+    (NP 
+     (DT a)
+     (NNS bilheteira)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS computador)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB apenas)
+     (ADJP 
+      (JJ melhor)
+      de_ o que
+      (NP 
+       (DT esse)
+      )
+     )
+    )
+   )
+  )
+ )
+)

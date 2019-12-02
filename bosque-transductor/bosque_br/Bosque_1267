@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Manoel_Carlos_Marques_Beato)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN restaurante)
+       (NP 
+        (NNP Fasano)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (NNP José_Sebastião_Figueiredo)
+     (NP 
+      (NP 
+       (NN sommelier)
+      )
+      e
+      (NP 
+       (NN proprietário)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP La_Bicocca)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP garantiram)
+   )
+   (NP 
+    (DT suas)
+    (NN vagas)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Concurso_Brasileiro_de_Sommeliers)
+    )
+   )
+  )
+ )
+)

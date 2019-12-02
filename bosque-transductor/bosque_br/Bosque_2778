@@ -1,0 +1,111 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN exemplos)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNP Simon)
+      )
+      e
+      (NP 
+       (NNP Brizola)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP revelam)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (NP 
+        (NP 
+         (DT a)
+         (NN precipitação)
+        )
+        e
+        (NP 
+         (DT a)
+         (NN busca)
+         (PP 
+          (IN de)
+          (NP 
+           (NN resultados)
+           (ADJP 
+            (JJ políticos)
+           )
+           (NP 
+            (NN imediatos)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VBP constróem)
+      )
+      (NP 
+       (DT o)
+       (JJ pior)
+       (NN caminho)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NN desenvolvimento)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP são)
+     )
+     (NP 
+      (NN vícios)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT o)
+        (NN curso)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN história)
+         )
+        )
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP tarda)
+       )
+       (PP 
+        (IN a)
+        (VP 
+         (VP 
+          (VB desnudar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

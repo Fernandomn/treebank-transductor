@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Depois)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD dez)
+        (NP 
+         (NP 
+          (NNS torneios)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Grand)
+             (NNS Slam)
+            )
+           )
+          )
+         )
+         (ADJP 
+          (VB disputados)
+          (PP 
+           (IN sem)
+           (NP 
+            (PRP ela)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

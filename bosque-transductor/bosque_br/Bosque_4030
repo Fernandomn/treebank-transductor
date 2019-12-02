@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP for)
+    )
+    (NP 
+     (DT uma)
+     (NN greve)
+     (PP 
+      (RB só)
+      (IN por)
+      (NP 
+       (NN grevismo)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (IN de+)
+    (RB aí)
+   )
+   (VP 
+    (VBP prejudica)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ favorável)
+      (PP 
+       (IN a)
+       (NP 
+        (PRP isso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

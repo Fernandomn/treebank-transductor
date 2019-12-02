@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (NP 
+     (DT o)
+     (NNP Concerto_para_Harpa,_Oboé_e_Orquestra_de_Câmara)
+     (NP 
+      (CD 1980)
+     )
+    )
+    e
+    (NP 
+     (RB sobretudo)
+     (DT sua)
+     (NNP Chaîne_2)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NN violino)
+       )
+       e
+       (NP 
+        (NN orquestra)
+       )
+      )
+     )
+     (ADJP 
+      (CD 1985)
+     )
+    )
+   )
+   (VP 
+    (VBP apontam)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT uma)
+     (NN escuta)
+     (ADJP 
+      (RB mais)
+      (JJ livre)
+     )
+     (ADJP 
+      (JJ hedonista)
+     )
+    )
+   )
+  )
+ )
+)

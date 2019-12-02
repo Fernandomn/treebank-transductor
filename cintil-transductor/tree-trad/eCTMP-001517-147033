@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ontem)
+   )
+   (S 
+    (S 
+     (NP 
+      (DT o)
+      (NNS Belenenses)
+     )
+     (VP 
+      (VP 
+       (VB jogou)
+       (RB mal)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD segunda)
+         (NNS parte)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VB perdeu)
+     )
+    )
+   )
+  )
+ )
+)

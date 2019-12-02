@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT O)
+      (NNS pai)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT a)
+       (NNS mãe)
+      )
+     )
+    )
+    (VP 
+     (VB tinham)
+     (NP 
+      (DT uma)
+      (NNS seringa)
+     )
+    )
+   )
+  )
+ )
+)

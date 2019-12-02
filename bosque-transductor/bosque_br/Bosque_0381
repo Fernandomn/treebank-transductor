@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN carta)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Champollion)
+     )
+    )
+    (PP 
+     (IN de)
+     (ADJP 
+      (CD 1822)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NNP Academia_de_Inscrições_e_Belas_Artes)
+     )
+    )
+    (VP 
+     (VP 
+      (VBG mostrando)
+     )
+     (NP 
+      (DT seus)
+      (NN resultados)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN nascimento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN egiptologia)
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Vercoutter)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN médico)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN caso)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP preocupa)
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Maria)
+      (NNS Anadon)
+     )
+    )
+    (VP 
+     (VB acaba)
+     (PP 
+      (IN de)
+      (VP 
+       (VB lançar)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NP 
+          (CD primeiro)
+          (NNS disco)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NP 
+       (NNS Ana)
+       (NNS Paula)
+      )
+     )
+     (VP 
+      (VB está)
+      (PP 
+       (IN a)
+       (VP 
+        (VB gravar)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS estreia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

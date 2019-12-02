@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VB vou)
+    (VP 
+     (VB tentar)
+     (VP 
+      (VB desenvolver)
+      (NP 
+       (DT outro)
+       (NP 
+        (NP 
+         (NNS sistema)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS defesa)
+          )
+         )
+        )
+        (JJ qualquer)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NP 
+       (NNS diplomata)
+       (JJ ocidental)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Luanda)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS declarações)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS agência)
+            (NNS Reuters)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB comentou)
+    (NP 
+     (DT a)
+     (NNS situação)
+    )
+   )
+  )
+ )
+)

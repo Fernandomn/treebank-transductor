@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NP 
+         (CD último)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (RB apenas)
+    (S 
+     (NP 
+      (CD 22)
+      (NP 
+       (NNS milhas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS distância)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

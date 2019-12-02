@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NN União)
+    (VP 
+     (PP 
+      (IN em+)
+      (NP 
+       (DT este)
+       (NN ato)
+      )
+     )
+     (VP 
+      (VBN representada)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN presidente)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN República)
+        )
+       )
+       (NP 
+        (NNP Itamar_Franco)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (NP 
+    (DT o)
+    (NN Estado)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Rio_de_Janeiro)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT seu)
+      (NN governador)
+      (NP 
+       (NNP Nilo_Batista)
+      )
+     )
+    )
+   )
+  )
+ )
+)

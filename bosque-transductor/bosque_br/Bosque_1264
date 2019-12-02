@@ -1,0 +1,91 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN coordenador)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Inteligência_Fiscal)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Receita)
+        (NP 
+         (NNP Marcos_Vinícius_Lima)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP foram)
+     (VBN encontrados)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 14)
+      (NN estabelecimentos)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (VBN conceituado)
+        (NN colégio)
+        (VBN privado)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT os)
+     (NN equipamentos)
+     (VP 
+      (VP 
+       (VBN importados)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (DT uma)
+        (NN fundação)
+        (ADJP 
+         (JJ educacional)
+        )
+        (VP 
+         (VP 
+          (VBN ligada)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (DT mesmo)
+           (NN grupo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

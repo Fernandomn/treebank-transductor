@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lisboa)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS prioridade)
+      (ADJP 
+       (ADJP 
+        (VB condicionada)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS calendário)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS EXPO-98)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VB vou)
+    (VP 
+     (VB estar)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS relva)
+      )
+     )
+    )
+   )
+  )
+ )
+)

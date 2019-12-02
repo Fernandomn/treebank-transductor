@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NP 
+       (NNS crise)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS definição)
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (JJ típica)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS final)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS mandato)
+              (JJ camarário)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (RB não)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB augura)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS futuro)
+       (ADJP 
+        (RB particularmente)
+        (JJ brilhante)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS Festas)
+         (NNS de)
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

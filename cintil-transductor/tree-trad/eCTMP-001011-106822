@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS Algarve)
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (CD 34)
+       (NP 
+        (NNS praias)
+        (PP 
+         (IN com)
+         (NP 
+          (DT esta)
+          (NNS bandeira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ano)
+         (JJ passado)
+        )
+       )
+      )
+      (VP 
+       (VB tinha)
+       (NP 
+        (CD 37)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP meu)
+     (NNS pai)
+    )
+   )
+   (VP 
+    (VB sabe)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP tu)
+      )
+      (VP 
+       (VB és)
+       (NP 
+        (DT um)
+        (NNS nabo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

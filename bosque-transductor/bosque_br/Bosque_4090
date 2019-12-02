@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP estima)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD dez)
+     (NN horas)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN tempo)
+    (ADJP 
+     (JJ necessário)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB classificar)
+      )
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NN áreas)
+        )
+        e
+        (NP 
+         (NN culturas)
+        )
+       )
+       (VP 
+        (VP 
+         (VBN plantadas)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (DT uma)
+          (NN extensão)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 180)
+            (NN quilômetros)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

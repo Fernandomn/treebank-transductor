@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP fosse)
+    )
+    (NP 
+     (PRP você)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP passava)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB andar)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN táxi)
+         (ADJP 
+          (JJ especial)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP apresentava)
+     )
+     (NP 
+      (DT a)
+      (NN conta)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN concessionária)
+      )
+     )
+    )
+   )
+  )
+ )
+)

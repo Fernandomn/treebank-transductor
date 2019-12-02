@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (CD Quinze)
+   (NP 
+    (NNS anos)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS abertura)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS mercado)
+          (JJ têxtil)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

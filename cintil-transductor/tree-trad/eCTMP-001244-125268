@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS caso)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS negativa)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS banco)
+             (JJ central)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (JJ única)
+      (NNS sanção)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS privação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS direitos)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS voto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

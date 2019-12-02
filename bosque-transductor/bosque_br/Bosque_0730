@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Nenhum)
+     (NN eleitor)
+     (ADJP 
+      (JJ evangélico)
+     )
+    )
+    (VP 
+     (VBP deve)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VB sentir)
+    )
+    (VP 
+     (VP 
+      (VBN culpado)
+     )
+     (PP 
+      (IN por)
+      (VP 
+       (VP 
+        (VB ter)
+       )
+       (NP 
+        (NN opinião)
+        (ADJP 
+         (JJ diferente)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (DT seu)
+            (NN pastor)
+           )
+           ou
+           (NP 
+            (NN líder)
+            (ADJP 
+             (JJ espiritual)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (DT a)
+    (NN cartilha)
+   )
+  )
+ )
+)

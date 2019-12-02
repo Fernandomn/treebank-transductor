@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NN figurinos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNP Tufi_Duek)
+        )
+        e
+        (NP 
+         (NNP Yamê_Reis)
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (NN festa)
+      (ADVP 
+       (RB doppo)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NN turma)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP ValDemente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

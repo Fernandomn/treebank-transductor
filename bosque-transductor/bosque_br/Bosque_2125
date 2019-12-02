@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Um_Mundo_Perfeito)
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NN tema)
+    )
+    e
+    (NP 
+     (DT seu)
+     (NN desenvolvimento)
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT uma)
+     (NN clareza)
+     (ADJP 
+      (JJ exemplar)
+     )
+    )
+   )
+  )
+ )
+)

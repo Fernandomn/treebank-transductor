@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Dias)
+     (NNS Loureiro)
+    )
+   )
+   (VP 
+    (VP 
+     (VB era)
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS altura)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS concessão)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT aquele)
+              (NNS empréstimo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS secretário-geral)
+       (NNS de_)
+       (NNS o)
+       (NNS PSD)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT uma)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (PRP poucas)
+           (NP 
+            (NNS pessoas)
+            (ADJP 
+             (JJ conhecedoras)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS processo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

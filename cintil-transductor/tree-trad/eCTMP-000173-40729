@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VP 
+          (RB Não)
+          (VB tenho)
+         )
+         (NP 
+          (NNS conhecimento)
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB quer)
+         )
+         (VP 
+          (VB dizer)
+          (CONJP 
+           (CC que)
+           (S 
+            (NP 
+             (DT o)
+             (NNS problema)
+            )
+            (VP 
+             (RB não)
+             (VB exista)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB adiantou)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS fonte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS gabinete)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

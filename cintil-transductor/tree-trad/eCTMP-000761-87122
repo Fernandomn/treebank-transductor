@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS gravuras)
+      (JJ rupestres)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Côa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB podem)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS polo)
+        (JJ importantíssimo)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS desenvolvimento)
+          (ADJP 
+           (JJ local)
+           (ADJP 
+            (CC e)
+            (JJ regional)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

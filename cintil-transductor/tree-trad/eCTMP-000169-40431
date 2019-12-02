@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (PRP qualquer)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (CD dois)
+         (NNS casos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS fogo)
+    )
+    (VP 
+     (VB consumiu)
+     (NP 
+      (NP 
+       (JJ pequenas)
+       (NNS áreas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

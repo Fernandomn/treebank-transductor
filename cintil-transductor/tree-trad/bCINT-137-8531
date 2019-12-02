@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADJP 
+     (ADJP 
+      (JJ Simples)
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NP 
+           (NNS canções)
+           (JJ fortes)
+          )
+         )
+         (NP 
+          (PRP muitos)
+          (NP 
+           (NNS singles)
+          )
+         )
+        )
+       )
+      )
+      (ADJP 
+       (JJ cru)
+       (ADJP 
+        (ADJP 
+         (JJ duro)
+         (ADJP 
+          (CC e)
+          (JJ rápido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

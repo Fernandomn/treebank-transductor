@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Obras)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS curso)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT as)
+    (NP 
+     (NNS auto-estradas)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS informação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

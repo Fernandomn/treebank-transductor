@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Samsung)
+   )
+   (VP 
+    (VP 
+     (VB adiantou)
+     (ADVP 
+      (RB também)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB vai)
+       (VP 
+        (VP 
+         (VB estabelecer)
+         (NP 
+          (DT a)
+          (NP 
+           (PP sua)
+           (NP 
+            (NNS sede)
+            (JJ europeia)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Londres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

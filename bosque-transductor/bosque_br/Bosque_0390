@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NN números)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP ONU)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN cartéis)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN crime)
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (DT a)
+       (NN Máfia)
+      )
+      (NP 
+       (DT a)
+       (NNP Yakuza)
+       (ADJP 
+        (JJ japonesa)
+       )
+      )
+      e
+      (NP 
+       (DT os)
+       (NN cartéis)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNP Cali)
+         )
+         e
+         (NP 
+          (NNP Medellín)
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Colômbia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP faturam)
+   )
+   (ADVP 
+    (RB anualmente)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 750)
+     (NN bilhões)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN atividades)
+     (ADJP 
+      (JJ ilícitas)
+     )
+    )
+   )
+  )
+ )
+)

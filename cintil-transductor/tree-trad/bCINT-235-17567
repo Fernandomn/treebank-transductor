@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Abril)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (CD 40)
+      (NN NN)
+     )
+    )
+    (VP 
+     (VB aprovava)
+     (NP 
+      (NP 
+       (NP 
+        (NNS acções)
+        (JJ violentas)
+       )
+       (PP 
+        (IN contra)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Estado)
+          (NNS hebreu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

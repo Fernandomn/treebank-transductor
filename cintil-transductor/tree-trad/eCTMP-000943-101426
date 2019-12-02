@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Nunca)
+     (VP 
+      (VB corri)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS procura)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS dinheiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB vai)
+      )
+      (VP 
+       (VB ser)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS dinheiro)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB vai)
+            (VP 
+             (VB condicionar)
+             (NP 
+              (DT as)
+              (NP 
+               (PP minhas)
+               (NNS opções)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

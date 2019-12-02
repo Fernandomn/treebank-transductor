@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Vilar)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS corrida)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS PSD-Porto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

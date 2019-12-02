@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NN atriz)
+     (NP 
+      (NNP Cássia_Kiss)
+     )
+    )
+    e
+    (NP 
+     (DT a)
+     (NN primeira-dama)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Estado)
+       (NP 
+        (NNP Maria_do_Carmo_Nascimento_Alves)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP visitaram)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT o)
+    (NN local)
+   )
+  )
+ )
+)

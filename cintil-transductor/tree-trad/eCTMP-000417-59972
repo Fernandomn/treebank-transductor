@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Pinto)
+     (NNS de_)
+     (NNS a)
+     (NNS Costa)
+    )
+   )
+   (VP 
+    (VB promete)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS relvado)
+       (JJ novo)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (JJ próxima)
+         (NNS época)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Centro)
+    (NNS de)
+    (NNS Estudos)
+    (NNS de_)
+    (NNS o)
+    (NNS Sono)
+   )
+  )
+  (VP 
+   (VP 
+    (VB inaugurado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Coimbra)
+    )
+   )
+  )
+ )
+)

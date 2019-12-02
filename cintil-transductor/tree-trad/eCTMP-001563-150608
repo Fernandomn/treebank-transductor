@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS ideia)
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB desenvolvida)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Mikhail)
+         (NNS Liontiev)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS analista)
+          (JJ económico)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS jornal)
+            (NP 
+             (NNS Segdonia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS faca)
+   )
+   (VP 
+    (VP 
+     (VB espetou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS parede)
+     )
+    )
+   )
+  )
+ )
+)

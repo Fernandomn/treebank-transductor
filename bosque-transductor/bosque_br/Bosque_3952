@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (RB pelo_menos)
+     (DT a)
+     (NN gravidez)
+     (NP 
+      (NN pós-menopausa)
+     )
+    )
+    (VP 
+     (VBP será)
+    )
+    (NP 
+     (NN objeto)
+     (PP 
+      (IN de)
+      (NP 
+       (JJ nova)
+       (NN resolução)
+      )
+     )
+    )
+   )
+  )
+ )
+)

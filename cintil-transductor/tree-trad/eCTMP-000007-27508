@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS ANC)
+  )
+  (VP 
+   (VB insiste)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS Governo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS transição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

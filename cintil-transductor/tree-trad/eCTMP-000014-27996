@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (NP 
+       (DT as)
+       (NP 
+        (NNS imagens)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Cobe)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB foram)
+       (VB publicadas)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP elas)
+    )
+    (VP 
+     (VB emocionaram)
+     (NP 
+      (PRP toda)
+      (NP 
+       (DT a)
+       (NNS gente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

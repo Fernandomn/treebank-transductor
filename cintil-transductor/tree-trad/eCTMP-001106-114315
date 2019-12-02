@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Trabalhei)
+      (PP 
+       (RB muito)
+       (PP 
+        (IN para)
+        (NP 
+         (NP 
+          (NNS catálogos)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NNS Alemanha)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (RB lá)
+      (S 
+       (NP 
+        (DT as)
+        (NNS coisas)
+       )
+       (VP 
+        (RB também)
+        (VP 
+         (RB já)
+         (VP 
+          (VB funcionam)
+          (PP 
+           (IN por)
+           (NP 
+            (NNS computador)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Está)
+    (PP 
+     (RB também)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS concurso)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (JJ novo)
+     (NP 
+      (NP 
+       (NNS bairro)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 12)
+         (NNS casas)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Barroselas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

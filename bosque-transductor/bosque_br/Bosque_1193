@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT os)
+    (RB cerca_de)
+    (NN mil)
+    (NN dormentes)
+    (ADJP 
+     (JJ podres)
+    )
+   )
+   (VP 
+    (VBP serão)
+    (VBN trocados)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ curto)
+     (NN prazo)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN solução)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (VP 
+    (VP 
+     (VB negociar)
+    )
+    (ADVP 
+     (RB diretamente)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NN jogadores)
+     )
+    )
+   )
+  )
+ )
+)

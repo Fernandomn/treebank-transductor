@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN público)
+    (PP 
+     (IN de)
+     (RB lá)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (ADVP 
+     (RB extremamente)
+    )
+    (VP 
+     (VBN treinado)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN música)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN século)
+        (ADJP 
+         (CD 19)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

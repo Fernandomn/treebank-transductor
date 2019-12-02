@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS réplica)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (VB feita)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS cimento)
+       (ADJP 
+        (ADJP 
+         (VB suportado)
+         (PP 
+          (IN por)
+          (NP 
+           (NNS aço)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

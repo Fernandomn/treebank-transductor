@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (VB caíam)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB arrastavam)
+      (PP 
+       (IN com_)
+       (NP 
+        (PRP si)
+       )
+      )
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (JJ respectivos)
+       (NNS impérios)
+      )
+     )
+    )
+   )
+  )
+ )
+)

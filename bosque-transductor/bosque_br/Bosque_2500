@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Colosio)
+    (NP 
+     (NN candidato)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Partido_Revolucionário_Institucional)
+       (NP 
+        (NNP PRI)
+        (ADJP 
+         (JJ governista)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN morto)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN tiros)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Tijuana)
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT um)
+     (NN comício)
+    )
+   )
+  )
+ )
+)

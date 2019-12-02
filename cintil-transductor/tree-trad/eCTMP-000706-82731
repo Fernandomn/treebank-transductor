@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS América)
+   )
+   (VP 
+    (VB acabou)
+    (PP 
+     (IN por)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS concretização)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NNS sonho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

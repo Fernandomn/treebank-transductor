@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS resultado)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS mínimo)
+      )
+     )
+    )
+    (JJ brilhante)
+   )
+  )
+ )
+)

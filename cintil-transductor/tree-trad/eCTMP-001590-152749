@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Estrelas)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS rock)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NP 
+        (NNS disco)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS Chieftains)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

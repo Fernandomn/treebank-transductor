@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB está)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS causa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+    )
+    (NP 
+     (DT a)
+     (NNS autarquia)
+    )
+   )
+  )
+ )
+)

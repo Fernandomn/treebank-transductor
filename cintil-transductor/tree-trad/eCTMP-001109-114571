@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS causa)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS morte)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB foi)
+    )
+    (VB revelada)
+   )
+  )
+ )
+)

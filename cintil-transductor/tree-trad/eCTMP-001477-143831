@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Aliás)
+    )
+    (VP 
+     (VP 
+      (VB adianta)
+     )
+     (CONJP 
+      (S 
+       (VP 
+        (VB vivemos)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS época)
+           (PP 
+            (PP 
+             (IN de)
+             (NP 
+              (NNS réplicas)
+             )
+            )
+            (PP 
+             (CC e)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS falsos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

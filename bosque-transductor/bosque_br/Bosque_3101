@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NN direção)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Roberto_de_Oliveira)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Bandeirantes)
+   )
+   (VP 
+    (VBP prepara)
+   )
+   (NP 
+    (DT um)
+    (NN documentário)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NP 
+       (DT a)
+       (NNP Campanha_Contra_a_Fome)
+      )
+      e
+      (NP 
+       (DT o)
+       (NN trabalho)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN rapaz)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB divaga)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NNS morte)
+     )
+    )
+   )
+  )
+ )
+)

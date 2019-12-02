@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS ABB)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Noel)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS Maquisa)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS Dragados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS candidatos)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS fornecimento)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NP 
+             (NNS equipamento)
+             (JJ hidromecânico)
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS barragem)
+               (NNS de_)
+               (NNS o)
+               (NNS Alqueva)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS SIC)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS alterações)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS programação)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD três)
+        (NNS anos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (RB mais)
+      (JJ visíveis)
+     )
+    )
+   )
+  )
+ )
+)

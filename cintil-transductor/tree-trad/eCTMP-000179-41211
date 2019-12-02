@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS casamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS herdeiro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS trono)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB decidido)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NNS pai)
+      )
+     )
+    )
+   )
+  )
+ )
+)

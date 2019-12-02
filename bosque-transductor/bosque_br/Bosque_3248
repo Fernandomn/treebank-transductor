@@ -1,0 +1,119 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN desembargador)
+    (NP 
+     (NNP Doreste_Batista)
+    )
+    (VP 
+     (VP 
+      (VBN convidado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN governador)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Rio)
+         (NP 
+          (NNP Nilo_Batista)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB ser)
+       )
+       (NP 
+        (DT o)
+        (NN supersecretário)
+        (PP 
+         (IN de)
+         (NP 
+          (NN Segurança)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN Estado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (IN se)
+     (VBN confirmado)
+    )
+    (VP 
+     (VBP vai)
+     (VB pedir)
+    )
+    (NP 
+     (NN apoio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Exército)
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VP 
+         (VB subir)
+        )
+        (NP 
+         (NN morros)
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VB colocar)
+        )
+        (NP 
+         (NN policiamento)
+         (ADJP 
+          (JJ ostensivo)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT as)
+          (NN ruas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

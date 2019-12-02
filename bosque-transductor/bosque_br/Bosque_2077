@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN integrantes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN movimentos)
+      (NP 
+       (NP 
+        (NNP Pinheiros_Vivo)
+       )
+       e
+       (NP 
+        (NNP Vila_Olímpia_Viva)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP receberam)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN alegria)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN notícia)
+   )
+  )
+ )
+)

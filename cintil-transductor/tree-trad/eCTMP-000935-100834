@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estão)
+     (JJ caducos)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB cheiram)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS morte)
+        (JJ lenta)
+       )
+      )
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (JJ velhos)
+       (NP 
+        (NP 
+         (NNS centros)
+         (JJ comerciais)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS cidade)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Porto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

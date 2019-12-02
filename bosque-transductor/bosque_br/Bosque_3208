@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB De_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NNP Enciclopédia_Britânica)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN linchamento)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN prática)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP verifica)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN momentos)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NN instabilidade)
+         )
+        )
+        ou
+        (PP 
+         (IN de)
+         (NP 
+          (NN ameaça)
+          (PP 
+           (IN de)
+           (NP 
+            (NN anarquia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

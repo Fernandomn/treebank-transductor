@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP seu)
+     (NNS custo)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB chegará)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 30)
+       (NNS contos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

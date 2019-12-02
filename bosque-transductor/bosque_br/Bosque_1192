@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Gazeta_Filho)
+   )
+   (VP 
+    (VBP confirmou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN dormentes)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP deterioraram)
+    )
+    (ADVP 
+     (RB muito)
+     (RB antes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (VBN previsto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

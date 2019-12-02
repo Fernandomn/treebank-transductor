@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VP 
+      (NP 
+       (PRP te)
+      )
+      (VB disse)
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (PP meu)
+         (NNS cão)
+        )
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB toma)
+        )
+        (NP 
+         (NNS drogas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

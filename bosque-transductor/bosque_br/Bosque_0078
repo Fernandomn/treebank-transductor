@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Toda)
+    (DT a)
+    (NN comissão)
+    (ADJP 
+     (JJ técnica)
+    )
+   )
+   (VP 
+    (VBP sabe)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NNP Romário)
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB treinar)
+      )
+      (ADVP 
+       (RB pouco)
+      )
+      (ADVP 
+       (RB geralmente)
+      )
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBG poupando)
+       )
+       (PP 
+        (IN entre)
+        (NP 
+         (CD dois)
+         (NN jogos)
+         (ADJP 
+          (JJ difíceis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

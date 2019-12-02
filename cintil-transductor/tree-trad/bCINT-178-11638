@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Nem)
+    (NP 
+     (PRP todos)
+    )
+   )
+   (VP 
+    (VB aceitam)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS regra)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS silêncio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

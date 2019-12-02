@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS estudante)
+   )
+   (VP 
+    (VB ficou)
+    (PP 
+     (IN sem)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS fio)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS ouro)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS valor)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (CD 40)
+             (CD mil)
+            )
+            (NNS escudos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

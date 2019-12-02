@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (RB Normalmente)
+   (S 
+    (NP 
+     (DT as)
+     (NNS apostas)
+    )
+    (VP 
+     (VB são)
+     (VP 
+      (VB feitas)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (CD 65)
+         (NP 
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS população)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

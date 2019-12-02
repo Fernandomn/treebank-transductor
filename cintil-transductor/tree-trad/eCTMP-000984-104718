@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essa)
+    (NNS surpresa)
+   )
+   (VP 
+    (VB foi)
+    (ADJP 
+     (JJ agradável)
+     (ADJP 
+      (CC ou)
+      (JJ desagradável)
+     )
+    )
+   )
+  )
+ )
+)

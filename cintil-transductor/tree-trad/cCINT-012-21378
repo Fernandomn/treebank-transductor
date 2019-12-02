@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Dizem)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT os)
+           (NP 
+            (PP seus)
+            (NP 
+             (NNS tempos)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS moci)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VB era)
+         (NP 
+          (DT um)
+          (NNS boémio)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB percebes)
+    )
+   )
+  )
+ )
+)

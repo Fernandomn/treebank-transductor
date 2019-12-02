@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN Medicina)
+    )
+   )
+   (VP 
+    (VBP ganharam)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNP Richard_Dart)
+     )
+     e
+     (NP 
+      (NNP Richard_Gustafson)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Universidade_de_Arizona)
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB fracassarem)
+     )
+     (PP 
+      (IN a+)
+      (VP 
+       (DT o)
+       (VP 
+        (VB tratar)
+       )
+       (NP 
+        (DT um)
+        (NN paciente)
+        (VP 
+         (VP 
+          (VBN mordido)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (DT uma)
+           (NN cascavel)
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (NN choques)
+           (ADJP 
+            (JJ elétricos)
+           )
+           (VP 
+            (VP 
+             (VBN aplicados)
+            )
+            (PP 
+             (IN em+)
+             (NP 
+              (DT o)
+              (NN lábio)
+             )
+            )
+            (PP 
+             (IN durante)
+             (NP 
+              (CD cinco)
+              (NN minutos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

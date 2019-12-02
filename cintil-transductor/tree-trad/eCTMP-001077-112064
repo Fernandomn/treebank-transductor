@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (PRP todos)
+      (NP 
+       (DT estes)
+       (NNS espaços)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS destaque)
+    )
+    (VP 
+     (VB vai)
+     (PP 
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Basílica)
+         (NNS de)
+         (NNS la)
+         (NNS Macarena)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NP 
+           (NNS Virgen)
+           (NNS de)
+           (NNS la)
+           (NNS Esperanza)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

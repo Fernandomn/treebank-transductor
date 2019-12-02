@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS treino)
+    )
+    (VP 
+     (VB é)
+     (VP 
+      (VB dado)
+      (PP 
+       (IN por_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (PP meu)
+          (NNS médico)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Jesus)
+          (NNS Echevarrie)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

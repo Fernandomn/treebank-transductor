@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Hoje)
+    (VP 
+     (VB é)
+     (NP 
+      (NP 
+       (NP 
+        (NNS dia)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS novidades)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS RDP)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS TSF)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

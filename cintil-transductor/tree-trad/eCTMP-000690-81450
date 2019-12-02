@@ -1,0 +1,87 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (NP 
+       (NNS Noé)
+       (NNS Chipandze)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NNS doença)
+     )
+     (VP 
+      (VP 
+       (VB ataca)
+       (NP 
+        (DT as)
+        (NNS vítimas)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (JJ forte)
+         (NNS violência)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT as)
+       (NP 
+        (NNS pessoas)
+        (JJ atingidas)
+       )
+      )
+      (VP 
+       (VB morrem)
+       (PP 
+        (PP 
+         (RB quase)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (JJ mesmo)
+            (NNS dia)
+           )
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN após)
+          (NP 
+           (NP 
+            (NNS vómitos)
+            (NP 
+             (CC e)
+             (NNS diarreias)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS competição)
+       (ADJP 
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS porta)
+         )
+        )
+        (VB fechada)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (RB só)
+      (VP 
+       (VB podem)
+       (VB ir)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS membros)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS família)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

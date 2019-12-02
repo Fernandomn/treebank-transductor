@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN pescadores)
+    (VP 
+     (VP 
+      (VBN detidos)
+     )
+     (ADVP 
+      (RB em_flagrante)
+     )
+     (VP 
+      (VP 
+       (VBG usando)
+      )
+      (NP 
+       (NN tarrafas)
+       (NP 
+        (NN redes)
+        (PP 
+         (IN de)
+         (NP 
+          (NN pesca)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP serão)
+    (VBN acusados)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN crime)
+     (PP 
+      (IN contra)
+      (NP 
+       (NN fauna)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP prevê)
+        )
+        (ADVP 
+         (PP 
+          (IN de)
+          (ADJP 
+           (CD um)
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (CD três)
+           (NN anos)
+           (PP 
+            (IN de)
+            (NP 
+             (NN prisão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

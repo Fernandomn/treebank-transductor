@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS FC)
+     (NNS Porto)
+    )
+   )
+   (VP 
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ máxima)
+        (NNS força)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NNS Juv)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Filho)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Vicente_Rivera_Gonzalez)
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP foi)
+    (VBN condenado)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Holanda)
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (CD 14)
+     (NN anos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN prisão)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT a)
+     (NNP PF)
+    )
+   )
+  )
+ )
+)

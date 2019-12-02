@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP fala)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Real)
+     )
+    )
+   )
+   (VP 
+    (VBP fala-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN posições)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP traduzem)
+      )
+      (NP 
+       (PRP aquilo)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP deve)
+         (VB ser)
+        )
+        (NP 
+         (DT o)
+         (NN papel)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

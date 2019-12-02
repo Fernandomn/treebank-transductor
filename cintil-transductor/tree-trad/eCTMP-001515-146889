@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS sida)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VP 
+       (VB ser)
+       (VB combatida)
+      )
+      (PP 
+       (PP 
+        (IN através)
+        (IN de)
+       )
+       (NP 
+        (NNS contraceptivos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

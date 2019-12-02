@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Gente)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB nasceu)
+       (PP 
+        (IN em)
+        (NP 
+         (CD 1974)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

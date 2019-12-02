@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (IN Caso)
+     (NP 
+      (DT a)
+      (NN opção)
+     )
+     (VP 
+      (VBP seja)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN aparelho)
+       (ADJP 
+        (JJ multiuso)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN comprador)
+    )
+    (VP 
+     (VBP deve)
+     (VB checar)
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (DT o)
+      (NN produto)
+     )
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (NN assistência)
+      (ADJP 
+       (JJ técnica)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (PRP ela)
+   )
+  )
+ )
+)

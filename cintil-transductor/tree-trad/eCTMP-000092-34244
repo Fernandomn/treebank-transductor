@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NNS drama)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN a)
+     (VP 
+      (VB pedir)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS corte)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS estrada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

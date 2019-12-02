@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Profissional)
+    (ADJP 
+     (JJ experiente)
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB mostrar)
+   )
+   (NP 
+    (NN essência)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN carreira)
+     )
+    )
+   )
+  )
+ )
+)

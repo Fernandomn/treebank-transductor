@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Cada)
+    (RB vez)
+    (RB mais)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS identidade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS países)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS identidade)
+       (JJ global)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Figueiredo)
+      (NNS e)
+      (NNS Sousa)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ministro)
+       (NNS Azevedo)
+       (NNS Soares)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB comungam)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ mesmas)
+       (NP 
+        (NNS ideias)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB devem)
+              (VP 
+               (VB ser)
+              )
+             )
+             (NP 
+              (DT os)
+              (NNS portos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

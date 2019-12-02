@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD TRÊS)
+    (NNS JOVENS)
+   )
+   (NP 
+    (CC E)
+    (NP 
+     (DT UM)
+     (NNS ADULTO)
+    )
+   )
+  )
+  (VP 
+   (VB MORREM)
+   (PP 
+    (IN EM)
+    (NP 
+     (NNS TAVIRA)
+    )
+   )
+  )
+ )
+)

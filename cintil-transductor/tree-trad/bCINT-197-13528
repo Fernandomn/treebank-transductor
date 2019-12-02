@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (PP minha)
+      (NNS vida)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS batatas)
+        (PP 
+         (IN com)
+         (NP 
+          (NNS bacalhau)
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS azeitinho)
+         (JJ português)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

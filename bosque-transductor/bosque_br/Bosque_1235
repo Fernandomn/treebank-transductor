@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Adaptado)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN peça)
+      (ADJP 
+       (JJ homônima)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Naum_Alves_de_Souza)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN especial)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (PP 
+    (RB ainda)
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN elenco)
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Marisa_Orth)
+    )
+    (NP 
+     (NNP Pedro_Paulo_Rangel)
+    )
+    e
+    (NP 
+     (NNP Diogo_Vilela)
+    )
+   )
+  )
+ )
+)

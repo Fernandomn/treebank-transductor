@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB outro)
+     (RB lado)
+    )
+   )
+   (S 
+    (NP 
+     (DT aquele)
+     (NNS responsável)
+    )
+    (VP 
+     (VB admite)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (PP 
+         (IN por)
+         (NP 
+          (PRP cada)
+          (NP 
+           (NNS caso)
+           (JJ conhecido)
+          )
+         )
+        )
+        (VP 
+         (VB haja)
+         (NP 
+          (DT outro)
+          (NP 
+           (JJ desconhecido)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

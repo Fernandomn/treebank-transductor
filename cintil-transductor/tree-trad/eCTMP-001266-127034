@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Porém)
+   )
+   (S 
+    (NP 
+     (DT esta)
+     (NNS informação)
+    )
+    (VP 
+     (VB tem)
+     (VP 
+      (VB sido)
+      (VP 
+       (VB negada)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NP 
+          (PRP diferentes)
+          (NP 
+           (NNS intervenientes)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS processo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Coréia)
+     )
+    )
+    (NP 
+     (NNP Kim_Ho)
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (JJ primeiro)
+      (NN tempo)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN equipe)
+    )
+    (VP 
+     (VBP estava)
+    )
+    (VP 
+     (VP 
+      (VBN intimidada)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NNP Alemanha)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ natural)
+     )
+     (IN pois)
+     (NP 
+      (PRP eles)
+     )
+     (VP 
+      (VBP são)
+     )
+     (NP 
+      (NN campeões)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN mundo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

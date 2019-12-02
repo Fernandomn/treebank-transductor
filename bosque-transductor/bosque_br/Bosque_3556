@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN família)
+    )
+    (VP 
+     (VBP foi)
+     (VBN alertada)
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP chamou)
+    )
+    (NP 
+     (DT nenhum)
+     (NN médico)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP fez)
+    )
+    (NP 
+     (DT o)
+     (NN enterro)
+    )
+    (ADVP 
+     (RB depois)
+     (PP 
+      (IN de)
+      (NP 
+       (CD dez)
+       (NN horas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN velório)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

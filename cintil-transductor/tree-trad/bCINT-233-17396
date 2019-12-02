@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Comissão)
+    (NNS Nacional)
+    (NNS de)
+    (NNS Justiça)
+    (NNS e)
+    (NNS Paz)
+   )
+  )
+  (VP 
+   (VB discute)
+   (NP 
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS ética)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS relações)
+         (JJ sociais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

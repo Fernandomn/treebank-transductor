@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN hotel)
+    (NP 
+     (NNP Deville)
+    )
+   )
+   (PP 
+    (IN perto_de+)
+    (NP 
+     (DT o)
+     (NN aeroporto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Guarulhos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN além_de)
+     (NP 
+      (NN executivos)
+     )
+    )
+    (VP 
+     (VBP tem)
+     (VBN hospedado)
+    )
+    (NP 
+     (DT muitos)
+     (NN turistas)
+     (PP 
+      (RB principalmente)
+      (IN com)
+      (NP 
+       (NN destino)
+       (PP 
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NNP Caribe)
+         )
+        )
+        e
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NNP Disney)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

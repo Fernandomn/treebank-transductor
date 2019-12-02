@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN corpo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Camila)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN lançado)
+   )
+   (PP 
+    (IN para_fora_de+)
+    (NP 
+     (DT o)
+     (NN carro)
+    )
+   )
+  )
+ )
+)

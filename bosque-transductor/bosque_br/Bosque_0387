@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Seu)
+    (NN sucesso)
+   )
+   (VP 
+    (VBP estava)
+   )
+   (ADVP 
+    (RB essencialmente)
+   )
+   (VP 
+    (VP 
+     (VBN sustentado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN fracasso)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (ADVP 
+       (RB Quando)
+       (RB muito)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (JJ grande)
+         (NNS cautela)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB fala)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NP 
+         (NNS variedade)
+         (JJ transmontana)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS português)
+          (JJ setentrional)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

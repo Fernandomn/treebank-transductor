@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS questão)
+     (JJ fundamental)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN para)
+      (NP 
+       (PRP nós)
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS alteração)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS posição)
+           (JJ indonésia)
+          )
+          (PP 
+           (PP 
+            (IN em)
+            (IN relação)
+            (IN a)
+           )
+           (NP 
+            (NNS Timor)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

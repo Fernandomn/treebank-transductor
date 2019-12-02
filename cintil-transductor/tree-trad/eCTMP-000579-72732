@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS nomes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NP 
+        (NNS teia)
+        (JJ corrupta)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (ADVP 
+      (ADVP 
+       (RB para)
+       (RB já)
+      )
+     )
+    )
+    (PRP poucos)
+   )
+  )
+ )
+)

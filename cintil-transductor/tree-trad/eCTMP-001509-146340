@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Apenas)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS delegação)
+      (JJ croata)
+     )
+    )
+   )
+   (VP 
+    (VB assinou)
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS documentos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT uma)
+         (NP 
+          (JJ nova)
+          (NP 
+           (NNS proposta)
+           (ADJP 
+            (VB apresentada)
+            (PP 
+             (IN por_)
+             (NP 
+              (NP 
+               (DT os)
+               (NNS co-presidentes)
+              )
+              (NP 
+               (NP 
+                (NP 
+                 (NP 
+                  (NNS Cyrus)
+                  (NNS Vance)
+                 )
+                )
+                (NP 
+                 (CC e)
+                 (NP 
+                  (NP 
+                   (NNS David)
+                   (NNS Owen)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

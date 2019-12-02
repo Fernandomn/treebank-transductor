@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Departamento_de_Estado)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP Estados_Unidos)
+     )
+    )
+   )
+   (VP 
+    (VBP ordenou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NN reforços)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN segurança)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN representações)
+        (ADJP 
+         (JJ diplomáticas)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Israel)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN país)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB prevenir)
+      )
+      (NP 
+       (JJ eventuais)
+       (NN ataques)
+       (ADJP 
+        (JJ terroristas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

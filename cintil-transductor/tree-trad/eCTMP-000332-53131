@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Finalmente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS encontro)
+    )
+    (VP 
+     (VP 
+      (VB encerra)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS domingo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS manhã)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS visita)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Porto)
+           (JJ histórico)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

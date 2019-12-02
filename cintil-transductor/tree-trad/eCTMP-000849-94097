@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VB Resistiu)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB exigiu)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esta)
+          (NNS vez)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (DT um)
+        (NNS médico)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT um)
+         (NNS juiz)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

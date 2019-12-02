@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT os)
+     (CD 133)
+     (NP 
+      (NP 
+       (NN passageiros)
+      )
+      e
+      (NP 
+       (NN tripulantes)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP estavam)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN aeronave)
+       )
+      )
+     )
+    )
+   )
+   (ADJP 
+    (CD 55)
+   )
+   (VP 
+    (VBP morreram)
+   )
+  )
+ )
+)

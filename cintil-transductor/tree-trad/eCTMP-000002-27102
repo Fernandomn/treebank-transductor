@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NNS PP)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (JJ plena)
+     (NP 
+      (NP 
+       (NNS integração)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Espanha)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS NATO)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

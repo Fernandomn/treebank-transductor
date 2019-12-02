@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Jorge)
+     (NNS Vieira)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT outro)
+     (NP 
+      (NP 
+       (ADJP 
+        (RB também)
+        (ADJP 
+         (RB relativamente)
+         (ADJP 
+          (VB marginalizado)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NNS processo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS UNITA)
+   )
+   (VP 
+    (VB estará)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NP 
+        (NNS problemas)
+        (JJ logísticos)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS Huambo)
+          (CONJP 
+           (CONJP 
+            (RB onde)
+            (S 
+             (VP 
+              (VB chegaram)
+             )
+             (NP 
+              (NP 
+               (NNS reforços)
+               (JJ governamentais)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

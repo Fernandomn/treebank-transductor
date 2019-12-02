@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Também)
+     (VP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT aqueles)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB voam)
+            (PP 
+             (IN com)
+             (NP 
+              (DT um)
+              (NP 
+               (NNS bilhete)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT a)
+                 (NNS polícia)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,165 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Secretaria_da_Fazenda)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Estado_de_São_Paulo)
+     )
+    )
+   )
+   (VP 
+    (VBP determinou)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (NP 
+      (DT um)
+      (NN contribuinte)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VBP realizar)
+       )
+       (NP 
+        (NN venda)
+        (PP 
+         (IN de)
+         (NP 
+          (NN mercadorias)
+         )
+        )
+       )
+       (UCP 
+        (PP 
+         (IN em)
+         (NP 
+          (NN feiras)
+         )
+        )
+        (NP 
+         (NN exposições)
+        )
+        ou
+        (PP 
+         (IN em)
+         (NP 
+          (NN locais)
+          (VP 
+           (VP 
+            (VBN chamados)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NN outlets)
+             )
+             ou
+             (NP 
+              (NN feira)
+              (PP 
+               (IN de)
+               (NP 
+                (NN promoções)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VBP permanecer)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN área)
+         (VP 
+          (VP 
+           (VBN determinada)
+          )
+          (PP 
+           (IN por)
+           (NP 
+            (RB mais_de)
+            (CD 60)
+            (NN dias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP será)
+    )
+    (ADJP 
+     (JJ obrigatória)
+    )
+    (NP 
+     (DT a)
+     (NN inscrição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (VBN referido)
+       (NN local)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN cadastro)
+       (PP 
+        (IN de)
+        (NP 
+         (NN contribuintes)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP ICMS)
+           (NP 
+            (NNP Fund.)
+            (NP 
+             (NN portaria)
+             (NP 
+              (NNP CAT)
+              (ADJP 
+               (CD 116/93)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

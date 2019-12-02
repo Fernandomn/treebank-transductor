@@ -1,0 +1,108 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT um)
+     (NN campeonato)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (VP 
+       (VBP predominaram)
+      )
+      (NP 
+       (DT as)
+       (NN defesas)
+       (VBN fechadas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (VP 
+      (VBP fez)
+     )
+     (NP 
+      (DT a)
+      (NN diferença)
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NN imaginação)
+      (VP 
+       (VP 
+        (VBP ouso)
+       )
+       (VP 
+        (VP 
+         (VB dizer)
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (NN horror)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Parreira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NN magia)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN punhado)
+       (PP 
+        (IN de)
+        (NP 
+         (NN craques)
+         (NP 
+          (NP 
+           (NNP Romário)
+          )
+          (NP 
+           (NNP Baggio)
+          )
+          (NP 
+           (NNP Stoichkov)
+          )
+          (NP 
+           (NNP Hagi)
+          )
+          (NP 
+           (NNP Brolin)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

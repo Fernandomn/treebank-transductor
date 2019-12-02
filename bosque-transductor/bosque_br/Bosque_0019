@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN atacante)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP deveria)
+      (VB ter)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBN apresentado)
+     )
+     (ADVP 
+      (RB anteontem)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN noite)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pediu)
+   )
+   (NP 
+    (DT mais)
+    (CD um)
+    (NN dia)
+    (PP 
+     (IN de)
+     (NP 
+      (NN folga)
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN treinador)
+    )
+   )
+  )
+ )
+)

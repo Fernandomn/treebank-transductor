@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (NNS Toni)
+      )
+     )
+     (PP 
+      (CC ou)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS Artur)
+         (NNS Jorge)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

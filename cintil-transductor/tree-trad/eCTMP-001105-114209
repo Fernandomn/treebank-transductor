@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Carreira)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS tiro)
+      )
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Espinho)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB muda)
+   (PP 
+    (IN de)
+    (NP 
+     (NNS sítio)
+    )
+   )
+  )
+ )
+)

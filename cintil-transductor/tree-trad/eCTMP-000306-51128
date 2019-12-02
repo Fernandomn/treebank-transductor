@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Agostinho)
+    (NNS de_)
+    (NNS a)
+    (NNS Silva)
+   )
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS frente)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Nova)
+         (NNS Aquarius)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

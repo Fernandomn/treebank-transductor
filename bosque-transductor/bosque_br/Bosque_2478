@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN bom)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Fernando_Henrique)
+    )
+    (VP 
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP estava)
+      )
+      (ADJP 
+       (JJ presente)
+      )
+     )
+     e
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP comportou)
+      )
+      (ADVP 
+       (RB como)
+       (NP 
+        (DT o)
+        (NNP Maurício_Corrêa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

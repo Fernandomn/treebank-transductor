@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB compreendeu)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB veio)
+         (ADVP 
+          (RB a)
+          (RB seguir)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Agora)
+   )
+   (S 
+    (S 
+     (S 
+      (CC nem)
+      (S 
+       (NP 
+        (DT os)
+        (NNS moradores)
+       )
+       (VP 
+        (VB têm)
+        (NP 
+         (NP 
+          (NNS espaço)
+          (JJ verde)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC nem)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Assembleia)
+        (NNS Municipal)
+       )
+      )
+      (VP 
+       (VP 
+        (VB mudará)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS casa)
+         )
+        )
+       )
+       (ADVP 
+        (RB tão)
+        (RB cedo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

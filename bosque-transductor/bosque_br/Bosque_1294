@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP preferirem)
+     )
+     (NP 
+      (NN carne)
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB optar)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT um)
+     (NN nhoque)
+     (VP 
+      (VP 
+       (VBN preparado)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN base)
+        (PP 
+         (IN de)
+         (NP 
+          (NN vitela)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN crítico)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+    )
+    $/
+    (VP 
+     (VP 
+      (VBP deve)
+      (VB ser)
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NN insolente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN razão)
+     )
+    )
+   )
+  )
+ )
+)

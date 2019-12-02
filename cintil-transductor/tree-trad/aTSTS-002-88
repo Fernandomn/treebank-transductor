@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB mora)
+    (ADVP 
+     (ADVP 
+      (RB mais)
+      (RB perto)
+     )
+     de_ o que
+     (NP 
+      (DT A)
+      (NNS Maria)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS escudo)
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VP 
+      (VP 
+       (VB perder)
+       (NP 
+        (NNS valor)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS interior)
+       )
+      )
+     )
+     (VP 
+      (CC e)
+      (VP 
+       (VP 
+        (VB mantê)
+        (NP 
+         (PRP -lo)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS exterior)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

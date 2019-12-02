@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN novela)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (NNP Janete_Clair)
+     )
+     (VP 
+      (VBP assinou)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NN junho)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 70)
+         )
+        )
+       )
+       e
+       (NP 
+        (NN julho)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 71)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ganhará)
+   )
+   (NP 
+    (JJ nova)
+    (NN versão)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN Globo)
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 95)
+    )
+   )
+  )
+ )
+)

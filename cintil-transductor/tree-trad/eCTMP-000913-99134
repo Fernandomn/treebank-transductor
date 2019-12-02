@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS acções)
+     (ADJP 
+      (RB assim)
+      (VB alienadas)
+     )
+    )
+   )
+   (VP 
+    (VB serão)
+    (VP 
+     (VB cotadas)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Bolsa)
+        (NNS de)
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

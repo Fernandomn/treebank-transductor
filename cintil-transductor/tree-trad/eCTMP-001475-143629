@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (CD primeira)
+      )
+     )
+     (VP 
+      (VB assinou)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS contrato)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (CD 25)
+            (CD mil)
+           )
+           (NNS contos)
+          )
+         )
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS grupo)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB detém)
+              (NP 
+               (DT o)
+               (NP 
+                (NP 
+                 (NNS Daily)
+                 (NNS Mirror)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (CD segunda)
+      )
+     )
+     (VP 
+      (VP 
+       (VB recebeu)
+       (NP 
+        (NP 
+         (CD cinco)
+         (CD mil)
+        )
+        (NNS contos)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Sun)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

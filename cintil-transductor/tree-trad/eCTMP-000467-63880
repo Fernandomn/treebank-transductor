@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS reino)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Algarve)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB nunca)
+     (VB existiu)
+    )
+   )
+  )
+ )
+)

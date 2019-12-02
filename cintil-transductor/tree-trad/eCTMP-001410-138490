@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Chegarei)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS classe)
+         (JJ mundial)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 30)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

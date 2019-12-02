@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alberto)
+     (NNS Berasategui)
+    )
+   )
+   (VP 
+    (VP 
+     (VB fê)
+     (NP 
+      (PRP -lo)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ano)
+       (JJ passado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

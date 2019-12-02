@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS António)
+       (NNS Ramalho)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS director)
+       (NNS de_)
+       (NNS o)
+       (NNS Bingo)
+      )
+     )
+    )
+    (VP 
+     (VB desmente)
+     (NP 
+      (DT as)
+      (NNS acusações)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB salienta)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT os)
+         (NP 
+          (NNS postos)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS trabalho)
+           )
+          )
+         )
+        )
+        (VP 
+         (RB nunca)
+         (VP 
+          (VB estiveram)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS causa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

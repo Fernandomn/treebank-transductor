@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Agora)
+     (VP 
+      (VP 
+       (VB atacou)
+       (RB mesmo)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (PRP todas)
+        (NP 
+         (DT as)
+         (NNS frentes)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS resultado)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB poderia)
+      )
+      (VP 
+       (VB ser)
+       (ADJP 
+        (RB mais)
+        (JJ redundante)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

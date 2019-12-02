@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP várias)
+      (NNS empresas)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ano)
+      (PP 
+       (IN de)
+       (NP 
+        (CD 2003)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS crise)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (CD quatro)
+       (NNS dias)
+      )
+     )
+    )
+    (VP 
+     (RB nunca)
+     (VP 
+      (VB ouviu)
+      (NP 
+       (DT um)
+       (NNS telemóvel)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Japão)
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (VP 
+      (VB desobedecido)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS proibição)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB caçando)
+       (PP 
+        (IN sob)
+        (NP 
+         (NP 
+          (NNS pretextos)
+          (ADJP 
+           (RB supostamente)
+           (JJ científicos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS projecto)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (PRP toda)
+          (NP 
+           (DT a)
+           (NNS gente)
+          )
+         )
+         (VP 
+          (VB quer)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

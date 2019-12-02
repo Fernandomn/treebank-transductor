@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN atacante)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Barcelona)
+     )
+    )
+   )
+   (VP 
+    (VBP obteve)
+   )
+   (NP 
+    (DT o)
+    (NNP Onze_de_Ouro)
+    (NP 
+     (NN distinção)
+     (VP 
+      (VP 
+       (VBN outorgada)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN leitores)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN revista)
+          (ADJP 
+           (JJ francesa)
+          )
+          (NP 
+           (NNP Onze_Mundial)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN recepção)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN torcedores)
+   )
+   (VP 
+    (VBP exibiam)
+   )
+   (NP 
+    (DT um)
+    (NN cartaz)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP dizia)
+     )
+    )
+   )
+  )
+ )
+)

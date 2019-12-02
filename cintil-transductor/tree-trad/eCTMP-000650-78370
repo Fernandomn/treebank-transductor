@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (PRP Quem)
+     )
+     (S 
+      (VB perde)
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB sempre)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NNS Nazaré)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT os)
+        (NNS nazarenos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

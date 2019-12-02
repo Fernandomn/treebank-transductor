@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS declaração)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS PÚBLICO)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS líder)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PSD)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (JJ peremptório)
+    )
+   )
+  )
+ )
+)

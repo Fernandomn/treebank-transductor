@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (NP 
+        (DT a)
+        (NNS guerra)
+       )
+       (VB rebentou)
+      )
+     )
+    )
+    (VP 
+     (VB ocupava)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS cargo)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS director-geral)
+          (NNS de)
+          (NNS Ensino)
+          (NNS Básico)
+          (NNS e)
+          (NNS Alfabetização)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

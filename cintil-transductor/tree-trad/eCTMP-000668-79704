@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De)
+    (NP 
+     (PRP qualquer)
+     (NNS modo)
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNS autarquia)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT esta)
+      (NNS redução)
+     )
+     (VP 
+      (VB significará)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS prejuízo)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB poderá)
+           (VP 
+            (VB atingir)
+            (NP 
+             (DT os)
+             (NP 
+              (NP 
+               (CD 50)
+               (CD mil)
+              )
+              (NNS contos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

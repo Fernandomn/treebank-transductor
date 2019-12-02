@@ -1,0 +1,89 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NN lançamento)
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NN CD)
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NN coletânea)
+       (PP 
+        (IN de)
+        (NP 
+         (NN músicas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Zappa)
+          )
+         )
+         (VP 
+          (VP 
+           (VBN interpretadas)
+          )
+          (PP 
+           (IN por)
+           (NP 
+            (NN bandas)
+            (ADJP 
+             (JJ cover)
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (NP 
+               (DT os)
+               (NNP Estados_Unidos)
+              )
+              (NP 
+               (NNP Alemanha)
+              )
+              (NP 
+               (NNP Bélgica)
+              )
+              (NP 
+               (NNP Inglaterra)
+              )
+              (NP 
+               (NNP Holanda)
+              )
+              (NP 
+               (NNP Itália)
+              )
+              (NP 
+               (NNP Suécia)
+              )
+              e
+              (NP 
+               (NNP Brasil)
+               (PP 
+                (IN com)
+                (NP 
+                 (DT a)
+                 (NN banda)
+                 (NP 
+                  (NNP The_Central_Scrutinize)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

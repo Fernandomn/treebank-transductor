@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN praça)
+   )
+   (VP 
+    (VBP deveria)
+    (VB ser)
+    (VBN reconstruída)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (DT a)
+     (NN construção)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Piscinão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

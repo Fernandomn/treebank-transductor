@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (ADVP 
+     (RB Como)
+    )
+    (VP 
+     (VBP vai)
+     (VB atuar)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN jogo)
+      (PP 
+       (IN contra)
+       (NP 
+        (DT o)
+        (NNP Palmeiras)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

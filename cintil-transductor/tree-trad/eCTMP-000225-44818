@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS florista)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS marcas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS presença)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT estes)
+           (NNS animais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (JJ visíveis)
+    )
+   )
+  )
+ )
+)

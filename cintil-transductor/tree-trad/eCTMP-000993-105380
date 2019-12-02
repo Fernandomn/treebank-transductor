@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS professor)
+     (JJ catedrático)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB ganha)
+      (RB hoje)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (CD 230)
+     )
+     (NP 
+      (NNS contos)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS vencimento)
+          (JJ líquido)
+         )
+         (JJ mensal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

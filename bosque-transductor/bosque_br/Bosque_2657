@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN restante)
+   )
+   (VP 
+    (VBP será)
+    (VBN comercializado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NP 
+       (NN supermercados)
+      )
+      (NP 
+       (NN feiras)
+      )
+      e
+      (NP 
+       (NN indústrias)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN sorvetes)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Paraná)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VB Comedido)
+   (S 
+    (VP 
+     (VP 
+      (VP 
+       (VB é)
+       (RB ainda)
+      )
+      (CONJP 
+       (CC quando)
+       (S 
+        (VP 
+         (VB relata)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NNS saltos)
+            (JJ qualitativos)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS países)
+              (JJ africanos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

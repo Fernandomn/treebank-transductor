@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Além)
+       (IN de_)
+      )
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB adoptou)
+       (PP 
+        (IN por)
+        (NP 
+         (CD 12)
+        )
+       )
+      )
+      (PP 
+       (IN contra)
+       (NP 
+        (CD 5)
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ seguinte)
+       (NNS proposição)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (ADJP 
+     (CD duas)
+     (PP 
+      (IN de+)
+      (NP 
+       (PRP elas)
+       (NP 
+        (NP 
+         (NNP Moonriver)
+        )
+        e
+        (NP 
+         (NNP Days_of_Wine_and_Roses)
+        )
+       )
+       (NP 
+        (DT ambas)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN letra)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Johnny_Mercer)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ganhou)
+   )
+   (NP 
+    (DT o)
+    (NN Oscar)
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Aqui)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS BMW)
+    )
+    (VP 
+     (VB joga)
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (PP seus)
+          (NP 
+           (JJ principais)
+           (NNS trunfos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

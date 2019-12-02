@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (JJ 22ª)
+     (NN posição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN ranking)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Halard)
+   )
+   (VP 
+    (VBP foi)
+    (VBN empurrada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN público)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Madison_Square_Garden)
+    )
+   )
+  )
+ )
+)

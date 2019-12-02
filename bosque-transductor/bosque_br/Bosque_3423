@@ -1,0 +1,128 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP comporta)
+    )
+    (NP 
+     (DT qualquer)
+     (NN reserva)
+    )
+   )
+   (CC e)
+   (VP 
+    (ADJP 
+     (JJ bendito)
+    )
+    (NP 
+     (DT o)
+     (NN país)
+     (PP 
+      (PP 
+       (IN em)
+      )
+      (NP 
+       (PRP que)
+      )
+     )
+     (NP 
+      (DT os)
+      (NN homens)
+      (ADJP 
+       (JJ públicos)
+      )
+     )
+     (VP 
+      (VBP exigem)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN candidatos)
+      )
+     )
+     (NP 
+      (DT a)
+      (NN solução)
+      (PP 
+       (IN de)
+       (NP 
+        (NN problemas)
+        (ADJP 
+         (JJ nacionais)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB minorar)
+       )
+       (NP 
+        (DT a)
+        (NN fome)
+       )
+      )
+      (, 
+       (VP 
+        (VP 
+         (VBG dando)
+        )
+        (NP 
+         (NP 
+          (NN leite)
+          (PP 
+           (IN a+)
+           (NP 
+            (DT as)
+            (NN crianças)
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (NP 
+              (PRP se)
+             )
+             (VP 
+              (VBP alimentam)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NN lixo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (CC 
+         (NP 
+          (NN estradas)
+          (PP 
+           (IN para)
+           (VP 
+            (VP 
+             (VB desenvolver)
+            )
+            (NP 
+             (DT o)
+             (NN país)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

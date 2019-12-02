@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS PORTUGAL)
+  )
+  (VP 
+   (RB AINDA)
+   (VP 
+    (VB PODE)
+    (VP 
+     (VB CHEGAR)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS BRONZE)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Beckenbauer)
+   )
+   (VP 
+    (VBP aconselha)
+   )
+   (NP 
+    (DT o)
+    (NN lateral)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB conversar)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NN treinador)
+      )
+     )
+     (VP 
+      (VP 
+       (VBG procurando)
+      )
+      (VP 
+       (VP 
+        (VB reverter)
+       )
+       (NP 
+        (DT a)
+        (NN situação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

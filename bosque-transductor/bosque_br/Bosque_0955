@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Calliari)
+   )
+   (VP 
+    (VBP explicou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN posição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN embalagens)
+      )
+     )
+    )
+    (VP 
+     (VBP permitiu)
+    )
+    (NP 
+     (DT a)
+     (NN queda)
+     (PP 
+      (IN de)
+      (NP 
+       (CD dois)
+       (NN sacos)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (ADVP 
+         (RB depois)
+        )
+        (VP 
+         (VBP foram)
+         (VB parar)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN lata)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN lixo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

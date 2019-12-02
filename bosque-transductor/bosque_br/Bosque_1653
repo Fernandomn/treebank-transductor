@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN Museu)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP OEA)
+       (NP 
+        (NNP Organização_dos_Estados_Americanos)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP tem)
+     (VBN agendada)
+    )
+    (NP 
+     (DT uma)
+     (NN exposição)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Amélia)
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (PRP ela)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP sabe)
+    )
+    (VP 
+     (IN se)
+     (VP 
+      (VBP instala)
+     )
+     (ADVP 
+      (RB lá)
+     )
+     (NP 
+      (DT suas)
+      (NNP Sete_Ondas)
+     )
+    )
+   )
+  )
+ )
+)

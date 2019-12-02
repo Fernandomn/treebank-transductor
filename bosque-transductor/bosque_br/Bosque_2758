@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Temos)
+    )
+    (NP 
+     (NN problemas)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NP 
+         (NN clientes)
+        )
+        e
+        (NP 
+         (NN fornecedores)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBP conseguem)
+        )
+        (VP 
+         (VP 
+          (VB encontrar)
+         )
+         (NP 
+          (DT a)
+          (NN empresa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (NP 
+    (NNP Sérgio_Ueta)
+    (NP 
+     (NN gerente)
+     (ADJP 
+      (JJ administrativo)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Ueta_Indústria_e_Comércio_de_Aparelhos_Eletrônicos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

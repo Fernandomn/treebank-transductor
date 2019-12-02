@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Enfim)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Brasil)
+    )
+    (VP 
+     (VB apostou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS seguro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

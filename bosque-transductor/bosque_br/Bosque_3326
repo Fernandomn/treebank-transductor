@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Considerando)
+    )
+    (VP 
+     (VP 
+      (VB ser)
+     )
+     (NP 
+      (NN competência)
+      (ADJP 
+       (JJ comum)
+      )
+      (PP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN União)
+        )
+        (CC e)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN Estados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB velar)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN guarda)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Constituição)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN Leis)
+       )
+      )
+      e
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN instituições)
+        (ADJP 
+         (JJ democráticas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

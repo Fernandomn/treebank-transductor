@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essas)
+    (NN dificuldades)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP surgiram)
+     )
+     (PP 
+      (IN desde)
+      (NP 
+       (DT o)
+       (NN lançamento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN idéia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estimularam)
+   )
+   (NP 
+    (NP 
+     (NN economistas)
+    )
+    e
+    (NP 
+     (NN governo)
+    )
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB buscar)
+     )
+     (NP 
+      (NN caminhos)
+      (ADJP 
+       (RB mais)
+       (JJ rápidos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

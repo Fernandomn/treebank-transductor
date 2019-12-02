@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP há)
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (NP 
+     (NN bossa_nova)
+     (ADJP 
+      (RB realmente)
+      (JJ nova)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN melhor)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB mimetizar)
+    )
+    (NP 
+     (DT o)
+     (NN criador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN estilo)
+      )
+     )
+     (NP 
+      (DT o)
+      (NN cantor)
+      (NP 
+       (NNP João_Gilberto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

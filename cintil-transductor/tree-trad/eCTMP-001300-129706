@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS pedido)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS encerramento)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB poderá)
+    (VP 
+     (VB surgir)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS sequência)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (NNS conclusões)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NP 
+                (NNS investigação)
+                (JJ realizada)
+               )
+               (PP 
+                (IN por_)
+                (NP 
+                 (DT a)
+                 (NP 
+                  (NNS autoridade)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT o)
+                    (NNS mercado)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+           (CONJP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB deverão)
+               (VP 
+                (VP 
+                 (VB ser)
+                 (VB anunciadas)
+                )
+                (ADVP 
+                 (RB muito)
+                 (ADVP 
+                  (RB em)
+                  (RB breve)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

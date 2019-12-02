@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN casos)
+    (ADJP 
+     (JJ positivos)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN dengue)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP Monte_Aprazível)
+      (NP 
+       (CD 38)
+       (NN km)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Rio_Preto-SP)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN divulgados)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NNP Ersa)
+     (NP 
+      (NNP Escritório_Regional_de_Saúde)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Rio_Preto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

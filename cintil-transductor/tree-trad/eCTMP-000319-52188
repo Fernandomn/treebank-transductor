@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Londres)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS Paris)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ritmo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS eleições)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

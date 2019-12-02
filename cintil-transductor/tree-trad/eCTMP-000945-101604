@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Fort)
+         (NNS Campbell)
+        )
+       )
+       (NP 
+        (NNS Kentucky)
+       )
+      )
+      (NP 
+       (DT uma)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS bases)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VP 
+               (VB enviaram)
+               (NP 
+                (NNS tropas)
+               )
+              )
+              (PP 
+               (IN para)
+               (NP 
+                (DT o)
+                (NNS Golfo)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS taxa)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS natalidade)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB deverá)
+     (VP 
+      (VB triplicar)
+      (PP 
+       (PP 
+        (IN até)
+        (IN a_)
+       )
+       (NP 
+        (DT a)
+        (NNS Primavera)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

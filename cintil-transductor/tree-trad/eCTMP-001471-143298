@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (NNS Orlando)
+       (NNS Gonçalves)
+      )
+     )
+     (VP 
+      (VP 
+       (VB aludiu)
+       (RB ainda)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ possível)
+         (NP 
+          (NP 
+           (NNS bloqueio)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT a)
+             (NNS Câmara)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB salientou)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB há)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS traçado)
+           (ADJP 
+            (RB legalmente)
+            (VB aprovado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

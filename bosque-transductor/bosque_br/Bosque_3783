@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A_partir_de+)
+    (NP 
+     (DT esta)
+     (NN edição)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN tabela)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN levantamento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN indicadores)
+        (NP 
+         (NNP Folha-Sebrae)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP passa)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB incluir)
+     )
+     (NP 
+      (DT a)
+      (NN comparação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN capacidade)
+        (VP 
+         (VP 
+          (VBN ocupada)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN mês)
+           (VBN pesquisado)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (DT mesmo)
+        (NN mês)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN ano)
+       (ADJP 
+        (JJ anterior)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

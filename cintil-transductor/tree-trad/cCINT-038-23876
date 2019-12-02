@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP minha)
+     (NNS avó)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB deve)
+     (VP 
+      (VB estar)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP minha)
+         (NNS espera)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (NNS Benny)
+    )
+   )
+   (NP 
+    (NP 
+     (PRP quem)
+    )
+    (S 
+     (VP 
+      (VB fala)
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS manha)
+          (PP 
+           (IN de)
+           (NP 
+            (CD quinze)
+            (NP 
+             (NNS anos)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT o)
+               (NNS ramo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

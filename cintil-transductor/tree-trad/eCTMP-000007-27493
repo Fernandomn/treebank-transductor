@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS treinador)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS sorriso)
+         (JJ rasgado)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB abraça)
+    (NP 
+     (PRP -o)
+    )
+   )
+  )
+ )
+)

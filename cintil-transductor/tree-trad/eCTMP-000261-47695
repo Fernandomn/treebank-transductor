@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS orfandade)
+       (JJ ideológica)
+      )
+     )
+     (VB dói)
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (NP 
+       (NNS Fidel)
+       (NNS Castro)
+       (NNS Ruz)
+      )
+     )
+     (VP 
+      (VB sabe)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT aquilo)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VB conta)
+           )
+          )
+         )
+        )
+        (VP 
+         (VB é)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS petróleo)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VP 
+               (VB trocava)
+               (PP 
+                (IN com)
+                (NP 
+                 (DT o)
+                 (NP 
+                  (NP 
+                   (NNS irmão)
+                   (JJ soviético)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

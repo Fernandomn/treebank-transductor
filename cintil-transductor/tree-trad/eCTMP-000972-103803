@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Jaime)
+      (NNS Salvado)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS o)
+      (NNS Estrela)
+      (NNS de_)
+      (NNS a)
+      (NNS Amadora)
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS homem)
+      (JJ contente)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Gelaguela)
+    (NP 
+     (JJ maior)
+     (NN fabricante)
+     (ADJP 
+      (JJ nacional)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN sobremesas)
+       (ADJP 
+        (JJ individuais)
+       )
+       (VBN geladas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG investindo)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 200)
+     (NN mil)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN sistema)
+     (PP 
+      (IN de)
+      (NP 
+       (NN franquias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS golo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Zahovic)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS injustiça)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS tamanho)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Mundo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

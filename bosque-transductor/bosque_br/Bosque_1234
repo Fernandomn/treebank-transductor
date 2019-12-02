@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN comédia)
+    (ADJP 
+     (JJ romântica)
+    )
+    (NP 
+     (NNP Suburbano_Coração)
+    )
+   )
+   (VP 
+    (VBP conta)
+   )
+   (NP 
+    (DT a)
+    (NN história)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Lovemar)
+      (NP 
+       (NNP Andréa_Beltrão)
+      )
+      (NP 
+       (DT uma)
+       (JJ sonhadora)
+       (NN costureira)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN subúrbio)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP idolatra)
+        )
+        (NP 
+         (DT o)
+         (NN locutor)
+         (PP 
+          (IN de)
+          (NP 
+           (NN rádio)
+           (NP 
+            (NNP Rogério)
+           )
+           (NP 
+            (NNP Marco_Nanini)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

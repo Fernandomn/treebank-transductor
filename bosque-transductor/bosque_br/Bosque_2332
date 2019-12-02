@@ -1,0 +1,136 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB viabilizar)
+     )
+     (NP 
+      (DT a)
+      (NN viagem)
+      (PP 
+       (IN de)
+       (NP 
+        (RB pelo_menos)
+        (NN parte)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (CD 20)
+          (NN integrantes)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN coral)
+            (NP 
+             (NP 
+              (NN advogados)
+             )
+             (NP 
+              (NN bancários)
+             )
+             (NP 
+              (NN secretárias)
+             )
+             (NP 
+              (NN estudantes)
+             )
+             (NP 
+              (NN aposentados)
+             )
+             e
+             (NP 
+              (ADJP 
+               (RB apenas)
+               (ADJP 
+                (CD um)
+               )
+              )
+              (NN padre)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN diretora)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (IN se)
+     (NP 
+      (DT uma)
+      (NN empresa)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP dispuser)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB cobrir)
+       )
+       (NP 
+        (DT os)
+        (NN custos)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN viagem)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN coral)
+    )
+    (VP 
+     (VBP oferece)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN troca)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN gravação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN disco)
+       (ADJP 
+        (JJ promocional)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

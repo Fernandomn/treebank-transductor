@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS África)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS equipa)
+       (JJ tunisina)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Estrela)
+         (NNS de)
+         (NNS Sahel)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB venceu)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS marroquinos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS FAR)
+            (NNS Rabat)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNS 2-0)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (CD primeira)
+        (NP 
+         (NNS mão)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Taça)
+            (NNS de_)
+            (NNS as)
+            (NNS Taças)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

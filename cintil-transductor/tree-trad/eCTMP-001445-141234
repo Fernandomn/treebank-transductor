@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Federação)
+     (NNS de_)
+     (NNS os)
+     (NNS Sindicatos)
+     (NNS Têxteis)
+    )
+   )
+   (VP 
+    (VB afirma)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (NP 
+        (CD 27)
+        (CD mil)
+       )
+       (NP 
+        (NNS trabalhadores)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS sector)
+         )
+        )
+       )
+      )
+      (VP 
+       (RB já)
+       (VP 
+        (VB perderam)
+        (NP 
+         (DT o)
+         (NNS emprego)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS operação)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS desembarque)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB desenrolava)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS noite)
+     )
+    )
+   )
+  )
+ )
+)

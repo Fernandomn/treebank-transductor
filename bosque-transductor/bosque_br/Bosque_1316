@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (JJ melhor)
+     (NN cantor)
+    )
+   )
+   (VP 
+    (VBP figuram)
+   )
+   (NP 
+    (NP 
+     (NNP José_Carreras)
+    )
+    (NP 
+     (NNP Thomas_Hampson)
+    )
+    (NP 
+     (NNP Ben_Heppner)
+    )
+    (NP 
+     (NNP Sergei_Leiferkus)
+    )
+    e
+    (NP 
+     (NNP Bryn_Terfei)
+    )
+   )
+  )
+ )
+)

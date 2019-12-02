@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Acho)
+   )
+   (ADJP 
+    (JJ importante)
+   )
+   (VP 
+    (VP 
+     (VB notar)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT a)
+      (NN Bienal)
+     )
+     (VP 
+      (VBP mudou)
+     )
+     (NP 
+      (DT a)
+      (NN maneira)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB conseguir)
+        )
+        (NP 
+         (NN patrocínio)
+         (ADJP 
+          (JJ cultural)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN país)
+          )
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (ADVP 
+           (RB antes)
+          )
+          (VP 
+           (VBP era)
+          )
+          (VP 
+           (VP 
+            (VBN feito)
+           )
+           (PP 
+            (IN a+)
+            (NP 
+             (DT a)
+             (NN base)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NN me_dá_um_dinheiro_aí)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

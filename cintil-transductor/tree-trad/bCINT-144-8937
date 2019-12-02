@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS espécie)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS imponderabilidade)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VB rasteja)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS música)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB convoca)
+          (NP 
+           (NP 
+            (NNS anjos)
+            (NP 
+             (CC e)
+             (NNS demónios)
+            )
+           )
+          )
+         )
+         (ADVP 
+          (RB em)
+          (RB simultâneo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

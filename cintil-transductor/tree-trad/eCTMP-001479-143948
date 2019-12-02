@@ -1,0 +1,61 @@
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Não)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS caso)
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (NP 
+       (NP 
+        (DT uma)
+        (NNS criança)
+       )
+       (NP 
+        (NP 
+         (NNS Victoire)
+         (NNS Thivisol)
+        )
+       )
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS protagonista)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Ponette)
+           )
+           (PP 
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Jacques)
+               (NNS Doillon)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

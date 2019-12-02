@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN companhia)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP pede)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT os)
+       (NN bancos)
+      )
+      (VP 
+       (VBP aumentem)
+      )
+      (NP 
+       (DT suas)
+       (NN linhas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN crédito)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD 500)
+        (NN milhões)
+        (PP 
+         (IN de)
+         (NP 
+          (NN marcos)
+          (NP 
+           (NN US$)
+           (NP 
+            (CD 287.1)
+            (NN milhões)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP concedam)
+     )
+     (NP 
+      (DT uma)
+      (NN moratória)
+      (PP 
+       (IN de)
+       (NP 
+        (CD três)
+        (NN meses)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN pagamento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN dívidas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Centro)
+     (NNS Regional)
+     (NNS de)
+     (NNS Segurança)
+     (NNS Social)
+     (NNS de_)
+     (NNS o)
+     (NNS Norte)
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN a)
+     (VP 
+      (VB proceder)
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS reestruturação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS Estabelecimentos)
+            (NNS de)
+            (NNS Educação)
+            (NNS Especial)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

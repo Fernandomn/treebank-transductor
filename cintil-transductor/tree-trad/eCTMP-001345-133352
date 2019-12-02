@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS ambiguidade)
+   )
+   (VP 
+    (VB faz)
+    (NP 
+     (NP 
+      (NNS parte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS natureza)
+         (JJ humana)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

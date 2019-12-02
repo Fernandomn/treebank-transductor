@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Benfica)
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NP 
+        (NNS défice)
+        (JJ mensal)
+       )
+       (JJ ordinário)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS casa)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (CD 70)
+             (CD mil)
+            )
+            (NNS contos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

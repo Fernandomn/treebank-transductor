@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Tem)
+     (VP 
+      (VB estado)
+      (ADJP 
+       (VB detido)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Estabelecimento)
+       (NNS Prisional)
+       (NNS de)
+       (NNS Lisboa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

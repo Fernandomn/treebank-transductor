@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS pormenores)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NP 
+         (NNS motivo)
+         (JJ imediato)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VP 
+      (VB contados)
+      (VP 
+       (CC e)
+       (VB recontados)
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NNS biógrafos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

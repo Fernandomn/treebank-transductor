@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Mais)
+      (RB tarde)
+     )
+    )
+    (VP 
+     (VP 
+      (VB frequentou)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS Universidade)
+         (NNS Kopta)
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Egipto)
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB licenciando)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Egiptologia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

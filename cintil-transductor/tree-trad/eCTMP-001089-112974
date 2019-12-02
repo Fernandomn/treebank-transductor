@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS carreira)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Malaquias)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB prolonga)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Primavera)
+       (RB adiante)
+      )
+     )
+    )
+   )
+  )
+ )
+)

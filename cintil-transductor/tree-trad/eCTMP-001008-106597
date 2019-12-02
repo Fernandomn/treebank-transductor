@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (NP 
+       (DT os)
+       (NP 
+        (JJ próximos)
+        (NNS anos)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (RB talvez)
+         (CD cinco)
+        )
+       )
+      )
+     )
+    )
+    (VB surgirá)
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NP 
+       (NNS actor)
+       (JJ sintético)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS personagem)
+       (ADJP 
+        (VB accionado)
+        (PP 
+         (IN por)
+         (NP 
+          (NNS computador)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

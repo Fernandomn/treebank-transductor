@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS turismo)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB hoje)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS sectores)
+       (ADJP 
+        (RB mais)
+        (JJ promissores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

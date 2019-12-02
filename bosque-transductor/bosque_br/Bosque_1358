@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP MONIQUE_EVANS)
+   )
+   (NP 
+    (PRP SE)
+   )
+   (VP 
+    (VBP Submeterá)
+   )
+   (PP 
+    (IN A)
+    (NP 
+     (NN Exames)
+    )
+   )
+   (PP 
+    (IN De+)
+    (NP 
+     (DT a)
+     (NN Sucursal)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Rio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

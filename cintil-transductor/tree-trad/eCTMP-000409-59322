@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Diziam)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT o)
+        (NNS CER)
+       )
+       (VP 
+        (VB era)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS representação)
+          (PP 
+           (IN de_)
+           (NP 
+            (NP 
+             (NP 
+              (DT a)
+              (NNS CIA)
+             )
+            )
+            (NP 
+             (NP 
+              (DT os)
+              (NP 
+               (NP 
+                (NNS serviços)
+                (JJ secretos)
+               )
+               (JJ americanos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN conjunto)
+   )
+   (VP 
+    (VBP fica)
+   )
+   (PP 
+    (IN próximo_a+)
+    (NP 
+     (DT a)
+     (NN estrada)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Madureira)
+      )
+     )
+     (NP 
+      (DT uma)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (JJ principais)
+        (NN vias)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Nova_Iguaçu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

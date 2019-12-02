@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Pocock)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP publicou)
+     )
+     (NP 
+      (DT os)
+      (NN resultados)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (JJ último)
+       (NN número)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN revista)
+         (NP 
+          (NNP British_Medical_Journal)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Reino_Unido)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estudou)
+   )
+   (NP 
+    (DT a)
+    (NN influência)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN chumbo)
+     )
+    )
+    (PP 
+     (IN desde)
+     (NP 
+      (DT a)
+      (NN gestação)
+     )
+    )
+   )
+  )
+ )
+)

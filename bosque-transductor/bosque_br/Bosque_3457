@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (NP 
+     (DT o)
+     (NN sr.)
+    )
+    (VP 
+     (VBP pode)
+     (VB dizer)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (PRP ele)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN termos)
+      (ADJP 
+       (JJ pessoais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

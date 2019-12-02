@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS aceleração)
+      (JJ drástica)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS tratamento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS pedidos)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS asilo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB teve)
+    (NP 
+     (NP 
+      (NNS consequências)
+      (JJ inesperadas)
+     )
+    )
+   )
+  )
+ )
+)

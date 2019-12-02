@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VBP tento)
+   )
+   (VP 
+    (VP 
+     (VB usar)
+    )
+    (NP 
+     (DT o)
+     (NN processo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN edição)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP trabalha)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT uma)
+      (NN mesa)
+      (PP 
+       (IN de)
+       (NP 
+        (NN edição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

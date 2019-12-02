@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB É)
+       (ADJP 
+        (RB demasiado)
+        (JJ óbvio)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB é)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ grande)
+         (NNS álbum)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

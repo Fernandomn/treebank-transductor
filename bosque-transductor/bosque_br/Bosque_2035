@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Folha)
+   )
+   (VP 
+    (VBP realizou)
+   )
+   (NP 
+    (DT um)
+    (NN teste)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN ônibus)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP integram)
+        )
+        (NP 
+         (DT a)
+         (JJ nova)
+         (NN linha)
+         (NP 
+          (NNP Penha-Lapa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG acompanhando)
+    )
+    (NP 
+     (DT a)
+     (JJ décima)
+     (NN viagem)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+  )
+ )
+)

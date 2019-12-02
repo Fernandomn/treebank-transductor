@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Desta_feita)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT uma)
+      (NN aventura)
+      (ADJP 
+       (JJ castrista)
+      )
+     )
+     ou
+     (NP 
+      (DT uma)
+      (NN injunção)
+      (ADJP 
+       (JJ política)
+      )
+      (NP 
+       (DT qualquer)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP levou)
+     )
+     (NP 
+      (DT o)
+      (NN governo)
+      (ADJP 
+       (JJ venezuelano)
+      )
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT este)
+       (NN ato)
+       (ADJP 
+        (JJ extremo)
+       )
+      )
+     )
+     (CC mas)
+     (ADVP 
+      (RB sim)
+     )
+     (NP 
+      (DT a)
+      (NN conjuntura)
+      (ADJP 
+       (JJ econômica)
+      )
+     )
+    )
+   )
+  )
+ )
+)

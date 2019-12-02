@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Reúne)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB mais)
+       (RB de)
+      )
+      (NP 
+       (CD seis)
+       (CD mil)
+      )
+     )
+     (NP 
+      (NNS jovens)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (CD cinco)
+         (NNS continentes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

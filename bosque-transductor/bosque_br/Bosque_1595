@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB É)
+   )
+   (ADVP 
+    (RB um_pouco)
+    (PP 
+     (IN em_função_de+)
+     (NP 
+      (PRP isso)
+     )
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (NP 
+    (NNP Anjos_da_Noite)
+   )
+   (VP 
+    (VBP decepciona)
+   )
+  )
+ )
+)

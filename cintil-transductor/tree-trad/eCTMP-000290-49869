@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fibra)
+     (JJ óptica)
+    )
+   )
+  )
+  (PP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS velocidade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS luz)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

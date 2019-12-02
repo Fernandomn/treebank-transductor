@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (CD Trinta)
+      (CD e)
+      (CD dois)
+     )
+     (NP 
+      (NNS homens)
+      (NP 
+       (CC e)
+       (NNS mulheres)
+      )
+     )
+    )
+    (VP 
+     (VB formam)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Comissão)
+       (NNS de)
+       (NNS Gestão)
+       (NNS de_)
+       (NNS os)
+       (NNS Fundos)
+       (NNS Estruturais)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB administram)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NNS programas)
+         (JJ operacionais)
+        )
+        (ADJP 
+         (VB financiados)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS União)
+            (NNS Europeia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

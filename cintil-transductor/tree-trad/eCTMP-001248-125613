@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (RB Muito)
+    (PP 
+     (PP 
+      (IN antes)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NNS jazz)
+     )
+    )
+   )
+   (S 
+    (ADVP 
+     (RB porém)
+    )
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (NNS vozes)
+       (JJ negras)
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB faziam)
+       (NP 
+        (NNS história)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

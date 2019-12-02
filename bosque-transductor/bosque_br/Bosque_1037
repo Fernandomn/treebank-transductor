@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (PP 
+     (IN de)
+     (NP 
+      (JJ maior)
+      (NN porte)
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NNP TREs)
+      (NP 
+       (NNP Tribunais_Regionais_Eleitorais)
+      )
+     )
+    )
+    e
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP TSE)
+     )
+    )
+   )
+  )
+ )
+)

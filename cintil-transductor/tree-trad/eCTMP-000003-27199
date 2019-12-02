@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS prédios)
+       (PP 
+        (IN com)
+        (NP 
+         (PRP muitos)
+         (NNS andares)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB haverá)
+     (NP 
+      (DT um)
+      (NNS ecoponto)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP todos)
+      (NP 
+       (DT os)
+       (NNS moradores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

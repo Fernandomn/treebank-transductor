@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fundos)
+    (JJ comunitários)
+   )
+  )
+  (VP 
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NNS empresas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS presidente)
+         (NNS de_)
+         (NNS a)
+         (NNS Câmara)
+         (NNS de)
+         (NNS Esposende)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Rádio)
+    (NNS Nacional)
+   )
+  )
+  (VP 
+   (VB começou)
+   (PP 
+    (IN a)
+    (VP 
+     (VB emitir)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS onda)
+        (JJ média)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

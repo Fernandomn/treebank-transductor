@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB São)
+     (NP 
+      (NP 
+       (DT as)
+       (NP 
+        (NNS trocas)
+        (JJ comerciais)
+       )
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (JJ novo)
+         (NP 
+          (NNS aeroporto)
+          (JJ internacional)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN entre)
+      (NP 
+       (DT outros)
+       (NNS aspectos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS cidades)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB talvez)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (PP seus)
+      (NP 
+       (ADJP 
+        (RB mais)
+        (JJ poderosos)
+       )
+       (NNS símbolos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

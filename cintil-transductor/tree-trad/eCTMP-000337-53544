@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS opinião)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS especialistas)
+       (ADJP 
+        (VB ouvidos)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT o)
+          (NNS PÚBLICO)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

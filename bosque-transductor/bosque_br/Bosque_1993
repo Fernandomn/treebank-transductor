@@ -1,0 +1,21 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (NN Minutos)
+    (RB antes)
+   )
+   (VP 
+    (VBP tinha)
+    (VBN pulverizado)
+   )
+   (NP 
+    (DT a)
+    (NN espanhola)
+    (NP 
+     (NNP Arantxa_Sanchez)
+    )
+   )
+  )
+ )
+)

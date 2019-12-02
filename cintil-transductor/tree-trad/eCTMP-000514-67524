@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Gordura)
+    (PP 
+     (IN sem)
+     (NP 
+      (NNS calorias)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB aprovada)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NNS EUA)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Diariamente)
+   )
+   (VP 
+    (VBP está)
+    (VBG promovendo)
+   )
+   (NP 
+    (NN desfiles)
+    (PP 
+     (IN de)
+     (NP 
+      (NN moda)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT seus)
+     (NN consumidores)
+    )
+   )
+  )
+ )
+)

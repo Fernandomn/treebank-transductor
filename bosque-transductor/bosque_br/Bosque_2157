@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Secretaria_Estadual_da_Saúde)
+   )
+   (VP 
+    (VBP investiu)
+   )
+   (NP 
+    (NN R$)
+    (NP 
+     (CD 11)
+     (NN milhões)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN campanha)
+    )
+   )
+   (ADVP 
+    (RB de_acordo)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN diretor)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Centro_de_Vigilância_Epidemiológica)
+        (NP 
+         (NNP Wagner_Costa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Pegam)
+    )
+    (NP 
+     (DT os)
+     (CD dois)
+     (NN pimpolhos)
+     (NP 
+      (NP 
+       (NNP Joana)
+      )
+      e
+      (NP 
+       (NNP Luca)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP mandam)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NNP Lake_Powell)
+      (NP 
+       (NNP Arizona)
+      )
+     )
+    )
+   )
+  )
+ )
+)

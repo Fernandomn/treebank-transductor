@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (NNS Manville)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT o)
+        (NNS cartel)
+       )
+      )
+     )
+     (VP 
+      (VB estão)
+      (PP 
+       (IN a)
+       (VP 
+        (VB discutir)
+        (NP 
+         (DT a)
+         (NNS proposta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB tomaram)
+       )
+       (NP 
+        (PRP nenhuma)
+        (NNS decisão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

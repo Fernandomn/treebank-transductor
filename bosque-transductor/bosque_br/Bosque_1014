@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (UCP 
+    (ADVP 
+     (RB Não)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN âmbito)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN empresa)
+        )
+       )
+      )
+     )
+    )
+    mas
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN país)
+      (ADJP 
+       (JJ inteiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

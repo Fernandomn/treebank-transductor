@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (VP 
+     (VB pretender)
+    )
+    (VP 
+     (VP 
+      (VB inaugurar)
+     )
+     (NP 
+      (DT uma)
+      (NN câmara)
+      (ADJP 
+       (JJ setorial)
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB discutir)
+       )
+       (NP 
+        (DT as)
+        (NN questões)
+        (ADJP 
+         (JJ específicas)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN economia)
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NN Estado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

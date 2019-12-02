@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS teatro)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Carlos)
+       (NNS Avilez)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Eunice)
+         (NNS Muñoz)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS Fernanda)
+           (NNS Lapa)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Luís)
+            (NNS Miguel)
+            (NNS Cintra)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB elaborar)
+     )
+     (NP 
+      (DT a)
+      (NN lista)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN grupo)
+   )
+   (VP 
+    (VBP mede)
+   )
+   (NP 
+    (DT o)
+    (NN custo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN vida)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (ADJP 
+      (RB quase)
+      (CD 200)
+     )
+     (NN lugares)
+    )
+   )
+  )
+ )
+)

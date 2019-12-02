@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Estados)
+    (NNS Unidos)
+   )
+  )
+  (VP 
+   (VP 
+    (VB distanciam)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NNS UNITA)
+    )
+   )
+  )
+ )
+)

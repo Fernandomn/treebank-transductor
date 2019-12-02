@@ -1,0 +1,43 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS COMUNIDADE)
+    (JJ INTERNACIONAL)
+   )
+  )
+  (VP 
+   (VB APLAUDE)
+   (NP 
+    (NP 
+     (NNS DEMISSÃO)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS LÍDER)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS SÉRVIOS)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS BÓSNIA)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

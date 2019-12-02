@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Trata)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS trabalho)
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS encenação)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS José)
+             (NNS Peixoto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS montagem)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS textos)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Gil)
+               (NNS Vicente)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

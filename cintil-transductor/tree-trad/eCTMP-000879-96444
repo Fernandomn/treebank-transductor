@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS Desemprego)
+  )
+  (VP 
+   (VB cresce)
+   (PP 
+    (IN entre)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS futebolistas)
+      (JJ portugueses)
+     )
+    )
+   )
+  )
+ )
+)

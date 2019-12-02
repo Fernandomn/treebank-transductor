@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NP 
+             (NP 
+              (NNS Steve)
+              (NNS Ben)
+              (NNS Israel)
+             )
+            )
+            (NP 
+             (NP 
+              (NP 
+               (NNS Hanon)
+               (NNS Reznikov)
+              )
+             )
+            )
+           )
+          )
+          (NP 
+           (NP 
+            (NNS Joanie)
+            (NNS Fritz)
+           )
+          )
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Caterina)
+          (NNS Vanelli)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NNS Jerry)
+        (NNS Joralnick)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Gary)
+      (NNS Brackett)
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (PRP alguns)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS actores)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS Mysteries)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

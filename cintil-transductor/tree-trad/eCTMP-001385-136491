@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (VP 
+       (VB estiver)
+       (ADVP 
+        (RB dentro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS concelho)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Paredes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS bicicleta)
+    )
+    (VP 
+     (VB poderá)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ boa)
+        (NNS opção)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

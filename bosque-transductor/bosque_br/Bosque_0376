@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A_partir_de+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 17)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Playtronic)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP terá)
+   )
+   (NP 
+    (DT um)
+    (NN estande)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Iguatemi)
+    )
+   )
+  )
+ )
+)

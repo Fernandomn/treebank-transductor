@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS dias)
+     (JJ seguintes)
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB caracterizados)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (JJ fortes)
+        (NP 
+         (NNS perdas)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS índice)
+            (NNS Geral)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

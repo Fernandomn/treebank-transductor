@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VBP está)
+    (VBG alertando)
+   )
+   (NP 
+    (DT os)
+    (NN motoristas)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP saem)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Manaus)
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN rodovia)
+       (NP 
+        (NNP AM-10)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

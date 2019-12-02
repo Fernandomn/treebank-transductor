@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (ADVP 
+      (RB Cerca)
+      (RB de)
+     )
+     (CD 4,300)
+    )
+    (NNS instituições)
+   )
+   (VP 
+    (VB fazem)
+    (NP 
+     (NP 
+      (NNS parte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS fundo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS pensões)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

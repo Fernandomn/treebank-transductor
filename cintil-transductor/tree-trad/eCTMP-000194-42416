@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS guerra)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (NP 
+       (DT a)
+       (NNS Finantia)
+      )
+      (VP 
+       (VB parece)
+       (VP 
+        (RB agora)
+        (VP 
+         (VB ter)
+         (VP 
+          (VB vencido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

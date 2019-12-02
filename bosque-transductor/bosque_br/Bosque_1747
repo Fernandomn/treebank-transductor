@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN largo)
+     (NP 
+      (NNP Santa_Cecília)
+     )
+    )
+   )
+   (NP 
+    (NN funcionários)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Administração_Regional)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP recolheram)
+     )
+     (NP 
+      (NN material)
+      (VP 
+       (VP 
+        (VBN acumulado)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT os)
+         (NN indigentes)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP desinfetaram)
+     )
+     (NP 
+      (NN bueiros)
+     )
+    )
+   )
+  )
+ )
+)

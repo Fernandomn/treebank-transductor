@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS ministro)
+     )
+     (VP 
+      (VB acalmou)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS deputado)
+     )
+     (VP 
+      (VB terminou)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NNS intervenção)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

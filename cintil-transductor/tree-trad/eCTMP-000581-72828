@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (NNS resto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS bandeiras)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB erigiu)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB tiveram)
+      (NP 
+       (NNS êxito)
+      )
+     )
+    )
+   )
+  )
+ )
+)

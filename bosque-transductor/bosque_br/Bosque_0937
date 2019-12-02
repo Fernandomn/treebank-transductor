@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Está)
+   )
+   (ADJP 
+    (RB bem)
+    (JJ cientes)
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (VP 
+       (VBP vive)
+      )
+      (NP 
+       (DT a)
+       (NN era)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN implantação)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP SUS)
+           (NP 
+            (NNP Sistema_Unificado_de_Saúde)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

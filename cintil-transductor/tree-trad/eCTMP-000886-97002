@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS primária)
+      )
+     )
+     (VP 
+      (VB dizia)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VB apreciava)
+              (PP 
+               (RB mais)
+               (PP 
+                (IN em_)
+                (NP 
+                 (DT a)
+                 (NNS escola)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (S 
+         (VP 
+          (VB eram)
+         )
+         (NP 
+          (DT os)
+          (NNS intervalos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

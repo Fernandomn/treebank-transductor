@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT esse)
+     (NN caso)
+    )
+   )
+   (VP 
+    (IN embora)
+    (NP 
+     (DT o)
+     (NN valor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN aluguel)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN imóvel)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP fique)
+    )
+    (VBN fixo)
+    (PP 
+     (IN por)
+     (NP 
+      (CD 12)
+      (NN meses)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN garagem)
+      )
+     )
+     e
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN telefone)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB ser)
+    (VBN reajustados)
+   )
+   (ADVP 
+    (RB até_mesmo)
+    (RB mensalmente)
+   )
+  )
+ )
+)

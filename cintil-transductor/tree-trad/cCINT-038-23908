@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Nem)
+     (RB sequer)
+    )
+    (VP 
+     (VB têm)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS açucareiro)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS prata)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

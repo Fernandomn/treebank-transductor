@@ -1,0 +1,111 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB haver)
+      (VBN anunciado)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NN treino)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Bulgária)
+        )
+       )
+      )
+      (VP 
+       (VBP seria)
+       (VBN aberto)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN público)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN dirigentes)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP mudaram)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN idéia)
+      )
+     )
+     (ADVP 
+      (RB pouco)
+      (RB antes)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN início)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN treinamento)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP proibiram)
+     )
+     (NP 
+      (DT a)
+      (NN presença)
+      (PP 
+       (IN de)
+       (NP 
+        (NN torcedores)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN campo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Southern_Methodist_University)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Dallas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS jornal)
+       (NP 
+        (NP 
+         (NNS Independent)
+         (NNS Financial)
+         (NNS Gazette)
+         (NNS Newspaper)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (RB apenas)
+    (S 
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Estádio)
+          (NNS Nacional)
+         )
+         (PP 
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Harare)
+           )
+          )
+         )
+        )
+        (CONJP 
+         (RB onde)
+         (S 
+          (VP 
+           (VB decorrerá)
+          )
+          (NP 
+           (DT a)
+           (NP 
+            (NNS cerimónia)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS abertura)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB apresenta)
+      (NP 
+       (PRP algumas)
+       (NNS condições)
+      )
+     )
+    )
+   )
+  )
+ )
+)

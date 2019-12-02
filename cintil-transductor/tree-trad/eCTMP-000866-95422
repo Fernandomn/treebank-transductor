@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mostra)
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ dividida)
+     (PP 
+      (IN em)
+      (NP 
+       (CD três)
+       (NNS partes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

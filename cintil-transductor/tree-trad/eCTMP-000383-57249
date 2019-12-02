@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Modelos)
+    (JJ internacionais)
+   )
+  )
+  (VP 
+   (VB participarão)
+   (PP 
+    (RB apenas)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS gala)
+       (JJ final)
+      )
+     )
+    )
+   )
+  )
+ )
+)

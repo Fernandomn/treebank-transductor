@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Supremo)
+     (NNS Tribunal)
+    )
+   )
+   (VP 
+    (VP 
+     (VB decidiu)
+     (RB finalmente)
+    )
+    (NP 
+     (NP 
+      (PRP quem)
+     )
+     (S 
+      (VP 
+       (VB fica)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Universidade)
+          (NNS Livre)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

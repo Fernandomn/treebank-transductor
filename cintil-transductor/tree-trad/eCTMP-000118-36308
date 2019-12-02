@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS carta)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (NP 
+        (NP 
+         (NNS Silva)
+         (NNS Carvalho)
+        )
+       )
+       (VP 
+        (VP 
+         (VB vai)
+         (RB hoje)
+        )
+        (VP 
+         (VP 
+          (VB entregar)
+         )
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS secretária-geral)
+            (NP 
+             (NNS Helena)
+             (NNS Santo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (JJ seca)
+   )
+  )
+ )
+)

@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (VB Terminou)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Porto)
+    )
+   )
+  )
+  (NP 
+   (DT o)
+   (NP 
+    (NNS Fórum)
+    (NNS Europeu)
+    (NNS de)
+    (NNS Segurança)
+    (NNS Urbana)
+   )
+  )
+ )
+)

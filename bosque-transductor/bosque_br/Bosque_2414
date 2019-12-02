@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP paga)
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VB ser)
+   )
+   (NP 
+    (DT um)
+    (JJ grande)
+    (NN negócio)
+   )
+   (VP 
+    (VP 
+     (VB ter)
+     (IN de)
+     (VB pagar)
+    )
+    (NP 
+     (DT mais)
+     (NN dinheiro)
+    )
+    (ADVP 
+     (RB todos_os_dias)
+    )
+   )
+  )
+ )
+)

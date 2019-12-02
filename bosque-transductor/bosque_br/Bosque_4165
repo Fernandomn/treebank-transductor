@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN derrota)
+    (NP 
+     (CD 1)
+     (PP 
+      (IN a)
+      (ADJP 
+       (CD 0)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (JJ fraca)
+      (NN seleção)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NNP Estados_Unidos)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP conturbou)
+   )
+   (NP 
+    (DT o)
+    (NN ambiente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN seleção)
+      (ADJP 
+       (JJ mexicana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

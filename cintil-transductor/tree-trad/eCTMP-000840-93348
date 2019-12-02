@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS estudo)
+   )
+   (VP 
+    (VB incidiu)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NP 
+       (CD três)
+       (CD mil)
+      )
+      (NP 
+       (NP 
+        (NNS homens)
+        (NP 
+         (CC e)
+         (NNS mulheres)
+        )
+       )
+       (PP 
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS idades)
+           (PP 
+            (IN entre)
+            (NP 
+             (NP 
+              (DT os)
+              (NP 
+               (CD 24)
+              )
+             )
+             (NP 
+              (CC e)
+              (NP 
+               (DT os)
+               (NP 
+                (CD 64)
+                (NNS anos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

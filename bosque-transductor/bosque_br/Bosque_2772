@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN senador)
+    )
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN decisão)
+     (PP 
+      (IN quanto_a+)
+      (NP 
+       (DT o)
+       (NN corte)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN salários)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN deputados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (IN a)
+     (NP 
+      (NN decisão)
+     )
+    )
+   )
+   (VP 
+    (VBP cabe)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Câmara)
+      )
+     )
+     (NP 
+      (NN deputado)
+      (NP 
+       (NNP Inocêncio_de_Oliveira)
+      )
+      (NP 
+       (NNP PMDB-PE)
+      )
+     )
+    )
+   )
+  )
+ )
+)

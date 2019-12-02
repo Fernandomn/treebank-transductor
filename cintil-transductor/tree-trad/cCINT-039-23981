@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB é)
+        )
+        (NP 
+         (NNS ofensa)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB fica)
+     (PP 
+      (IN para)
+      (NP 
+       (DT outra)
+       (NNS vez)
+      )
+     )
+    )
+   )
+  )
+ )
+)

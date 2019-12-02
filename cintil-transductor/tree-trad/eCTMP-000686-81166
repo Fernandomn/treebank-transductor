@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NNS reatamento)
+    )
+   )
+   (S 
+    (VP 
+     (VB assistiu)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NP 
+         (NNS obra)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS arte)
+          )
+         )
+        )
+        (JJ defensiva)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Karpov)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

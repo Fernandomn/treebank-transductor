@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Porém)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS desvio)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB estabelece)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

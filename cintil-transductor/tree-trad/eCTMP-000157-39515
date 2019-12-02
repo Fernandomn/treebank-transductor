@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Nobre)
+     (NNS Guedes)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (VP 
+       (VB convidado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS presidente)
+          (NNS de_)
+          (NNS os)
+          (NNS populares)
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (S 
+       (VP 
+        (VB há)
+        (NP 
+         (NP 
+          (RB quase)
+          (CD dois)
+         )
+         (NNS meses)
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (NNS Monteiro)
+       )
+       (VP 
+        (VB decidiu)
+        (VP 
+         (VB avançar)
+         (PP 
+          (IN por)
+          (NP 
+           (NNS Braga)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

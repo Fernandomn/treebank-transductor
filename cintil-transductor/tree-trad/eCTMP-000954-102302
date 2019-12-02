@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NNS artigo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS problema)
+      (JJ abordado)
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB só)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS propinas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

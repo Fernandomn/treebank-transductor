@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Nós)
+   )
+   (VP 
+    (VB queríamos)
+    (VP 
+     (VB dar)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS mensagem)
+       (PP 
+        (IN para)
+        (NP 
+         (PRP toda)
+         (NP 
+          (DT a)
+          (NNS gente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

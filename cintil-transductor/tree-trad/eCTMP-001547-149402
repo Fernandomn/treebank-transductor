@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB houve)
+    )
+    (NP 
+     (PRP qualquer)
+     (NP 
+      (NNS tipo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS troca)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS informações)
+             (PP 
+              (IN sobre)
+              (NP 
+               (DT o)
+               (NNS assunto)
+              )
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS autoridades)
+            (JJ japonesas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

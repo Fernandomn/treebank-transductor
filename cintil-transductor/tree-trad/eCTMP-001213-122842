@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (JJ intensa)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NP 
+       (NNS presença)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (ADVP 
+           (RB menos)
+           (RB de)
+          )
+          (CD 24)
+         )
+         (NNS horas)
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Bill)
+         (NNS Clinton)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Bósnia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

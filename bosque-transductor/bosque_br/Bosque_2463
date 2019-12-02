@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN anúncio)
+   )
+   (VP 
+    (VBP foi)
+    (VBN feito)
+   )
+   (NP 
+    (NN segunda-feira)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NNP Instituto_da_Califórnia_para_Tecnologia_Avançada)
+     (NP 
+      (NNP Pasadena)
+     )
+     (VP 
+      (ADVP 
+       (RB onde)
+      )
+      (NP 
+       (NNP Sperry)
+      )
+      (VP 
+       (VBP trabalhou)
+      )
+      (PP 
+       (IN até)
+       (ADJP 
+        (CD 1984)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

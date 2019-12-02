@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS BESCL)
+  )
+  (VP 
+   (VB entra)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (CD segunda)
+      (NNS fase)
+     )
+    )
+   )
+  )
+ )
+)

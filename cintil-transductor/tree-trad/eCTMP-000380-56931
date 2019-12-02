@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS PS)
+  )
+  (VP 
+   (VB recusa)
+   (NP 
+    (NP 
+     (NNS acesso)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS MDP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

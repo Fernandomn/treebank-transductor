@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS capela-mor)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS igreja)
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB teve)
+      (NP 
+       (NNS obras)
+      )
+     )
+     (PP 
+      (PP 
+       (IN graças)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS família)
+        (NP 
+         (NNS Tavares)
+         (NNS e)
+         (NNS Távora)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

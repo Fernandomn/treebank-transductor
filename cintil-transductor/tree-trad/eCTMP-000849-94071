@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Quanto)
+       (IN a_)
+      )
+      (NP 
+       (DT o)
+       (NNS encenador)
+      )
+     )
+    )
+    (VP 
+     (VB volta)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS inglês)
+         (NP 
+          (NNS Steve)
+          (NNS Johnstone)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

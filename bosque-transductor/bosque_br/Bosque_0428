@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN palco)
+   )
+   (PP 
+    (IN além_de)
+    (VP 
+     (VP 
+      (VB revelar)
+     )
+     (NP 
+      (JJ inúmeros)
+      (NN talentos)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB depois)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBP refugiaram)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Europa)
+        )
+       )
+      )
+      (NP 
+       (RB como)
+       (NP 
+        (NNP Sonia_Motta)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP serviu)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (NP 
+      (NNP Marilena)
+     )
+     (VP 
+      (VB inaugurar)
+     )
+     (NP 
+      (DT a)
+      (NN fase)
+      (ADJP 
+       (RB mais)
+       (JJ fértil)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN carreira)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

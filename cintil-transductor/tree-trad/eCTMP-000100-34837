@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esta)
+       (NP 
+        (CD primeira)
+        (NP 
+         (NNS fase)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS projecto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (VP 
+      (RB também)
+      (VB construído)
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (JJ pequeno)
+     (NNS anfiteatro)
+    )
+   )
+  )
+ )
+)

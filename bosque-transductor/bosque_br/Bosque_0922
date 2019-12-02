@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN polícia)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Mato_Grosso_do_Sul)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB combater)
+   )
+   (NP 
+    (DT a)
+    (NN pesca)
+    (ADJP 
+     (JJ predatória)
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT a)
+     (NN piracema)
+     (NP 
+      (NN época)
+      (PP 
+       (IN de)
+       (NP 
+        (NN reprodução)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN peixes)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP termina)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+         (CD 31)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN janeiro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

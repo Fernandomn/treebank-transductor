@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Senna)
+   )
+   (VP 
+    (NP 
+     (DT todo)
+     (NN mundo)
+    )
+    (VP 
+     (VBP viu)
+    )
+   )
+   (VP 
+    (VBP rodou)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (VP 
+     (VBP estava)
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (JJ segundo)
+       (NN lugar)
+      )
+     )
+     e
+     (PP 
+      (IN com)
+      (NP 
+       (DT poucas)
+       (NN chances)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB recuperar)
+         )
+         (NP 
+          (DT o)
+          (JJ primeiro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

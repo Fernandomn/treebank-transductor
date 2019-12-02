@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN número)
+    (ADJP 
+     (JJ final)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN total)
+      (PP 
+       (IN de)
+       (NP 
+        (NN declarações)
+        (VBN entregues)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+    (VBN divulgado)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN semana)
+    )
+   )
+  )
+ )
+)

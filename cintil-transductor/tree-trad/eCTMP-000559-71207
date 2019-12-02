@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (RB trás)
+   )
+   (S 
+    (VP 
+     (VB fica)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS história)
+       (JJ insólita)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS compra)
+           (NP 
+            (CC e)
+            (NNS venda)
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NNS quotas)
+           )
+          )
+         )
+         (PP 
+          (IN entre)
+          (NP 
+           (NP 
+            (DT os)
+            (NNS accionistas)
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (DT a)
+             (NNS empresa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (PP 
+      (PP 
+       (IN Em_)
+       (NP 
+        (DT a)
+        (NNS TVI)
+       )
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (PP 
+        (PP 
+         (IN a)
+         (IN partir)
+         (IN de)
+        )
+        (NP 
+         (NNS domingo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NNS jogos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS selecção)
+         (NNS de_)
+         (NNS o)
+         (NNS Brasil)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Copa)
+        (NNS América)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

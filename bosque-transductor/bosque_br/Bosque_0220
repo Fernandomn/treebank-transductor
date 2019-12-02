@@ -1,0 +1,122 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NN medo)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB perder)
+       )
+       (NP 
+        (NN poderes)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Modiano)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP chamou)
+     )
+     (NP 
+      (NNP Mourão)
+     )
+    )
+    e
+    (VP 
+     (PP 
+      (IN em+)
+      (NP 
+       (DT uma)
+       (NN atitude)
+       (ADJP 
+        (JJ mesquinha)
+       )
+      )
+     )
+     (VP 
+      (VBP comunicou-)
+     )
+     (NP 
+      (PRP lhe)
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (ADVP 
+        (RB como)
+       )
+       (NP 
+        (DT o)
+        (NN financiamento)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN projeto)
+         )
+        )
+       )
+       (VP 
+        (VBP seria)
+        (VBN bancado)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NNP BNDES)
+        )
+       )
+      )
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VBP iria)
+        )
+        (PP 
+         (IN para)
+         (RB lá)
+        )
+       )
+       mas
+       (VP 
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN qualidade)
+          (PP 
+           (IN de)
+           (NP 
+            (NN representante)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN banco)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

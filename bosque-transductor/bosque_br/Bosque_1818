@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT esse)
+     (NN total)
+    )
+   )
+   (NP 
+    (NN CR$)
+    (NP 
+     (CD 127)
+     (NN milhões)
+    )
+   )
+   (VP 
+    (VBP serão)
+    (VBN destinados)
+   )
+   (PP 
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN campanha)
+      (PP 
+       (IN de)
+       (NP 
+        (NN combate)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN dengue)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN pagamento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (CD 200)
+        (NN agentes)
+        (PP 
+         (IN de)
+         (NP 
+          (NN saúde)
+          (VP 
+           (VP 
+            (VBN contratados)
+           )
+           (PP 
+            (IN para)
+            (NP 
+             (DT a)
+             (NN campanha)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

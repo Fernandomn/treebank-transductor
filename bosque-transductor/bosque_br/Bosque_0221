@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN tela)
+    (PP 
+     (IN de)
+     (NP 
+      (NN abertura)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN programa)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ simpática)
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tribunal)
+   )
+   (VP 
+    (VBP anulou)
+   )
+   (NP 
+    (NP 
+     (CD 108)
+     (NN votos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Nilton_Cerqueira)
+       (ADJP 
+        (JJ federal)
+       )
+       (ADJP 
+        (NN PP)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (CD 93)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Emir_Larangeira)
+       (ADJP 
+        (JJ estadual)
+       )
+       (NP 
+        (NNP PFL)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ 113ª)
+     (NN zona)
+     (NP 
+      (NNP Niterói)
+     )
+    )
+   )
+  )
+ )
+)

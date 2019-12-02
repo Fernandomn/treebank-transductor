@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Entretanto)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Conselho)
+      (NNS de_)
+      (NNS a)
+      (NNS Europa)
+     )
+    )
+    (VP 
+     (VP 
+      (VB aprovou)
+      (RB ontem)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS protocolo)
+       (CONJP 
+        (RB onde)
+        (S 
+         (S 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB proíbe)
+          )
+          (NP 
+           (DT a)
+           (NP 
+            (NNS clonagem)
+            (JJ humana)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

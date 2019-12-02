@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN deputado)
+    (NP 
+     (NNP Aloizio_Mercadante)
+    )
+    (NP 
+     (NNP PT/SP)
+    )
+   )
+   (VP 
+    (VBP divulgou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NN números)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Tesouro)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN execução)
+      (ADJP 
+       (JJ orçamentária)
+      )
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (NN janeiro)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (NN novembro)
+         (PP 
+          (IN de)
+          (ADJP 
+           (CD 1993)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG demonstrando)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+     (VP 
+      (VBP conseguiu)
+     )
+     (NP 
+      (DT um)
+      (NN superávit)
+      (ADJP 
+       (JJ operacional)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN US$)
+        (NP 
+         (CD 9.2)
+         (NN bilhões)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT este)
+       (NN período)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estas)
+    (NP 
+     (NNS águas)
+     (ADJP 
+      (RB normalmente)
+      (VB geladas)
+     )
+    )
+   )
+   (VP 
+    (VB acabaram)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB atingir)
+       (NP 
+        (DT os)
+        (NP 
+         (CD 25)
+         (NNS graus)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS costa)
+          (JJ oriental)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS ilha)
+            (NNS de)
+            (NNS Ruegen)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

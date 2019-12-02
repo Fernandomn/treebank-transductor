@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Vou)
+      (VP 
+       (VB tentar)
+       (NP 
+        (PRP tudo)
+       )
+      )
+     )
+     para que
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (PP meu)
+        (NNS casamento)
+       )
+      )
+      (VP 
+       (VB seja)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS jogo)
+         (ADJP 
+          (RB muito)
+          (VB conseguido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

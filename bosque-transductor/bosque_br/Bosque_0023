@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN preço)
+    (PP 
+     (IN de)
+     (NP 
+      (NN lista)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN revendas)
+      (ADJP 
+       (JJ brasileiras)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 422)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS alternativa)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS juiz)
+    )
+    (VP 
+     (VB defende)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS criação)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS tribunais)
+          (JJ permanentes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

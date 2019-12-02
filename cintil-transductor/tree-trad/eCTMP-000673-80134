@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Todo)
+     (NP 
+      (DT este)
+      (NNS processo)
+     )
+    )
+    (VP 
+     (VB é)
+     (JJ nebuloso)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (DT um)
+        (NP 
+         (NNS universo)
+         (PP 
+          (RB quase)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS ficção)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (DT um)
+         (NNS melodrama)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

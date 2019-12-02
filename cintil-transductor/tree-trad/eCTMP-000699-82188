@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS ETAR)
+   )
+   (VP 
+    (VB ficará)
+    (VP 
+     (VP 
+      (VP 
+       (VB localizada)
+       (ADVP 
+        (RB junto)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS rio)
+           (NNS Ovil)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS margem)
+         (JJ esquerda)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS estrada)
+           (NNS Baião-Santa)
+           (NNS Marinha)
+           (NNS de_)
+           (NNS o)
+           (NNS Zêzere)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

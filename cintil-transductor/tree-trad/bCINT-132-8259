@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (RB Agora)
+    (S 
+     (VP 
+      (VB está)
+      (NP 
+       (PRP tudo)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS mãos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS autoridades)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

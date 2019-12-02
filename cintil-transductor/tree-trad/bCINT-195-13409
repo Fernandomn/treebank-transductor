@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS jogadores)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS futebol)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ascenderam)
+    (PP 
+     (IN a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS níveis)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS vencimento)
+         )
+        )
+       )
+       (ADJP 
+        (JJ iguais)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT os)
+          (NP 
+           (ADJP 
+            (VB praticados)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS resto)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT a)
+                 (NNS Europa)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Moreira_Alves)
+    )
+    (ADVP 
+     (RB também)
+    )
+    (VP 
+     (VBP votou)
+    )
+    (PP 
+     (IN a_favor_de)
+     (NP 
+      (NNP Collor)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT outros)
+      (CD dois)
+      (NN mandatos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN segurança)
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP foi)
+     (VBN vencido)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (CD dois)
+      (NN julgamentos)
+     )
+    )
+   )
+  )
+ )
+)

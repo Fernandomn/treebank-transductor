@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS polícia)
+   )
+   (VP 
+    (VP 
+     (VB virou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (DT os)
+      (NNS manifestantes)
+     )
+    )
+   )
+  )
+ )
+)

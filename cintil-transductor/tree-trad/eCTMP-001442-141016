@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Portugal)
+    (NNS Telecom)
+   )
+  )
+  (VP 
+   (VB avança)
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS facturação)
+      (JJ detalhada)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,136 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje_em_dia)
+   )
+   (NP 
+    (DT qualquer)
+    (NN americano)
+    (VP 
+     (ADVP 
+      (RB medianamente)
+     )
+     (VP 
+      (VBN equipado)
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB fazer)
+   )
+   (PP 
+    (IN diante_de+)
+    (NP 
+     (DT o)
+     (NN teclado)
+    )
+   )
+   (NP 
+    (NN tarefas)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB antes)
+     )
+     (VP 
+      (VBP exigiam)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VBP tirasse)
+      )
+      (NP 
+       (DT o)
+       (NN bumbum)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN cadeira)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB mandar)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB receber)
+      )
+      (NP 
+       (NP 
+        (NN fax)
+       )
+       e
+       (NP 
+        (NN mensagens)
+        (ADJP 
+         (JJ eletrônicas)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB reservar)
+      )
+      (NP 
+       (NN passagens)
+       (ADJP 
+        (JJ aéreas)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB controlar)
+      )
+      (NP 
+       (DT a)
+       (NN conta)
+       (ADJP 
+        (JJ bancária)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB acessar)
+      )
+      (NP 
+       (NP 
+        (NN bancos)
+        (PP 
+         (IN de)
+         (NP 
+          (NN dados)
+         )
+        )
+       )
+       e
+       (NP 
+        (DT dezenas_de)
+        (DT outros)
+        (NN serviços)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

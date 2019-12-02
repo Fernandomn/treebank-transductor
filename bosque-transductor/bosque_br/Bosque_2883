@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 93)
+    )
+   )
+   (VP 
+    (VBP vendeu)
+   )
+   (NP 
+    (CD 83)
+    (NN milhões)
+    (PP 
+     (IN de)
+     (NP 
+      (NN litros)
+     )
+    )
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 128)
+      (NN milhões)
+     )
+    )
+   )
+  )
+ )
+)

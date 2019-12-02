@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS data)
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB foi)
+          (VB assinada)
+         )
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS lei)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB legitima)
+             (NP 
+              (DT a)
+              (NP 
+               (PP sua)
+               (NNS prisão)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Será)
+    (VB simulado)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS salvamento)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NP 
+         (NNS barcos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS pesca)
+          )
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB estejam)
+           (PP 
+            (IN em)
+            (NP 
+             (NNS perigo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

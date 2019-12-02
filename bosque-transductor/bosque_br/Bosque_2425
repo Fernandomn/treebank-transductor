@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB Quando)
+    )
+    (ADJP 
+     (JJ jovem)
+    )
+   )
+   (VP 
+    (VBP esteve)
+   )
+   (VP 
+    (VP 
+     (VBN engajado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Marinha)
+      (ADJP 
+       (JJ grega)
+      )
+     )
+    )
+   )
+  )
+ )
+)

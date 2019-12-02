@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Finalmente)
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS jovens)
+       (JJ socialistas)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Coimbra)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB sugerem)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (JJ rápida)
+        (NP 
+         (NP 
+          (NP 
+           (NNS nomeação)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (DT um)
+            (NP 
+             (JJ novo)
+             (NP 
+              (NNS júri)
+              (JJ nacional)
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS provas)
+            (JJ específicas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

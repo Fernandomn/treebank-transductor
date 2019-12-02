@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS estrategos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS campanha)
+            (ADJP 
+             (JJ serena)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

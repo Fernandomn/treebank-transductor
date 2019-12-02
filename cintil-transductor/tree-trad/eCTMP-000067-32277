@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS José)
+     (NNS Pedro)
+     (NNS Croft)
+    )
+   )
+   (VP 
+    (VB fez)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (JJ enorme)
+       (NP 
+        (NP 
+         (NNS caixa)
+         (JJ oca)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS pedra)
+         )
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (PP 
+         (PP 
+          (IN dentro)
+          (IN de_)
+         )
+         (NP 
+          (DT a)
+          (PRP qual)
+         )
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB dispôs)
+           (NP 
+            (NP 
+             (NNS bolas)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NP 
+                (JJ mesmo)
+                (NNS material)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

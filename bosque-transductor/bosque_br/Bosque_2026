@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Sinicesp)
+   )
+   (VP 
+    (VBP impugnou)
+   )
+   (NP 
+    (NN concorrência)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Prefeitura)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Santana_de_Parnaíba)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG argumentando)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN edital)
+      (PP 
+       (IN para)
+       (NP 
+        (NN obra)
+        (PP 
+         (IN de)
+         (NP 
+          (NN infra-estrutura)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VBP contraria)
+     )
+     (NP 
+      (DT a)
+      (NNP Lei_8.666)
+     )
+    )
+   )
+  )
+ )
+)

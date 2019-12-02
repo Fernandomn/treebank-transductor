@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB anualmente)
+    (VP 
+     (VP 
+      (JJ seleccionados)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS melhores)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS região)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

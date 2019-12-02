@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN metalúrgicos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN base)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Força_Sindical)
+        (NP 
+         (NN data-base)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN novembro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP romperam)
+     )
+     (NP 
+      (NN negociação)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NN setores)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NN autopeças)
+         )
+         (NP 
+          (NN forjaria)
+         )
+         e
+         (NP 
+          (NN parafusos)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP preparam)
+     )
+     (NP 
+      (NN greve)
+     )
+    )
+   )
+  )
+ )
+)

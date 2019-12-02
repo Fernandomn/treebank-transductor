@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB É)
+      (VB inaugurado)
+     )
+     (RB amanhã)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (JJ novo)
+      (NP 
+       (NNS equipamento)
+       (JJ social)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS bairro)
+       (NP 
+        (NNS Vale)
+        (NNS de_)
+        (NNS o)
+        (NNS Fundão)
+       )
+      )
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Marvila)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

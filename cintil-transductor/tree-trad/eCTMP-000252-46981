@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (CD últimas)
+     (NP 
+      (NP 
+       (NNS decisões)
+       (ADJP 
+        (JJ políticas)
+        (ADJP 
+         (CC e)
+         (JJ técnicas)
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NNS UEM)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB constituem)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS prato)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS substância)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS cimeira)
+         (NNS de)
+         (NNS Madrid)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

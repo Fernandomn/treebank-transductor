@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN grupo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN miul)
+      (NN policiais)
+      (ADJP 
+       (JJ militares)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NNP EUA)
+       )
+      )
+      (PP 
+       (IN sob)
+       (NP 
+        (DT o)
+        (NN comando)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NP ex-chefe)
+          (PP 
+           (IN de)
+           (NP 
+            (NN polícia)
+            (PP 
+             (IN de)
+             (NP 
+              (NNP Nova_York)
+              (NP 
+               (NNP Raymond_Kelly)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP comeu)
+    (IN a)
+    (VB trabalhar)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Porto_Príncipe)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN objetivo)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ajudar)
+       )
+       (PP 
+        (IN a)
+        (VP 
+         (VP 
+          (VB manter)
+         )
+         (NP 
+          (DT a)
+          (NN ordem)
+          (ADJP 
+           (JJ pública)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

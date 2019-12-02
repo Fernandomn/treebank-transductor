@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Custódio)
+      (NNS Ferreira)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS Junta)
+      (NNS de)
+      (NNS Freguesia)
+      (NNS de)
+      (NNS Paialvo)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS autarca)
+      (ADJP 
+       (RB mais)
+       (ADJP 
+        (JJ inconformado)
+        (PP 
+         (IN com)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (JJ novas)
+            (NNS taxas)
+           )
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB vão)
+              (VP 
+               (VB ser)
+               (VP 
+                (VB apreciadas)
+                (PP 
+                 (IN por_)
+                 (NP 
+                  (DT a)
+                  (NNS assembleia)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

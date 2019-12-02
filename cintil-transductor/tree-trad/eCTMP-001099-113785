@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Conselho)
+    (NNS para)
+    (NNS os)
+    (NNS Refugiados)
+   )
+  )
+  (VP 
+   (VB critica)
+   (NP 
+    (NP 
+     (NNS inexistência)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS auxílio)
+        (JJ estatal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

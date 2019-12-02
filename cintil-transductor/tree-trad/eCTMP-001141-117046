@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS princípio)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Joaquim)
+      (NNS de)
+      (NNS Almeida)
+     )
+    )
+    (VP 
+     (VB dobrará)
+     (NP 
+      (DT o)
+      (NNS Brasseur.)
+     )
+    )
+   )
+  )
+ )
+)

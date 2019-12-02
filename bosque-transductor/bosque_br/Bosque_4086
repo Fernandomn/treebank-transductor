@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP explicou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN índice)
+    )
+    (VP 
+     (VBP foi)
+     (VBN calculado)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN dia)
+      (ADJP 
+       (CD 16)
+      )
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (NN junho)
+         (PP 
+          (RB ainda)
+          (IN sobre)
+          (NP 
+           (NN cruzeiros)
+           (ADJP 
+            (JJ reais)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN dia)
+         (ADJP 
+          (CD 14)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT este)
+           (NN mês)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

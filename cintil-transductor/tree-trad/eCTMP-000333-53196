@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS momento)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS forma)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB está)
+    )
+    (NP 
+     (RB também)
+     (NP 
+      (DT o)
+      (NNS Esmoriz)
+     )
+    )
+   )
+  )
+ )
+)

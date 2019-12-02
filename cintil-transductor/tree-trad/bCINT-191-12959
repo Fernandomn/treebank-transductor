@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (ADVP 
+      (RB ainda)
+     )
+    )
+    (VB aprovada)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS realização)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ novo)
+         (NNS Congresso)
+        )
+       )
+      )
+     )
+     (ADVP 
+      (ADVP 
+       (RB dentro)
+       (PP 
+        (IN de)
+        (NP 
+         (CD cinco)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

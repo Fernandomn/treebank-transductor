@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (CD duas)
+      (NP 
+       (JJ portuguesas)
+      )
+     )
+    )
+    (VP 
+     (VB defrontam)
+     (NP 
+      (CD duas)
+      (NP 
+       (JJ alemãs)
+      )
+     )
+    )
+   )
+  )
+ )
+)

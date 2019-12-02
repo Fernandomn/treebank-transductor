@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS mundo)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB aplaudia)
+      (NP 
+       (PRP -o)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS pé)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC enquanto)
+      (S 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NNS país)
+         )
+        )
+       )
+       (S 
+        (NP 
+         (DT os)
+         (NNS críticos)
+        )
+        (VP 
+         (NP 
+          (PRP o)
+         )
+         (VB destruíam)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

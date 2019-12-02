@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NP ex-ministro)
+     )
+     e
+     (NP 
+      (NN candidato)
+      (ADJP 
+       (JJ presidencial)
+      )
+     )
+    )
+    (NP 
+     (NNP Fernando_Henrique_Cardoso)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Folha)
+    )
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP frequentava)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN passado)
+     )
+    )
+    (NP 
+     (DT os)
+     (NN sebos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN centro)
+      )
+     )
+    )
+    (PP 
+     (IN perto_de+)
+     (NP 
+      (DT a)
+      (NNP Faculdade_de_Direito)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP USP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

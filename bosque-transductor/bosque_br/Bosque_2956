@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB No_entanto)
+   )
+   (NP 
+    (DT o)
+    (JJ primeiro)
+    (NN parágrafo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT este)
+      (NN artigo)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (VP 
+     (VBG continuando)
+    )
+    (NP 
+     (DT o)
+     (NN cruzeiro)
+     (ADJP 
+      (JJ real)
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB ser)
+       (VBN utilizado)
+      )
+      (VP 
+       (RB como)
+       (NP 
+        (NN meio)
+        (PP 
+         (IN de)
+         (NP 
+          (NN pagamento)
+          (VP 
+           (VP 
+            (VBN dotado)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NN poder)
+             (ADJP 
+              (JJ liberatório)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

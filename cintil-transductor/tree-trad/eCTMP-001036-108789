@@ -1,0 +1,46 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Distrital)
+    (NNS de)
+    (NNS Lisboa)
+   )
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (NP 
+     (NNS balanço)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 16)
+        (NP 
+         (NP 
+          (NNS dias)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Soares)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS AML)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

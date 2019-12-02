@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Causou)
+   )
+   (NP 
+    (JJ má)
+    (NN impressão)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN quarta)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN participação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN ministro)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Justiça)
+       )
+      )
+      (NP 
+       (NNP Alexandre_Dupeyrat)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN reunião)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tratou)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN projeto)
+         (PP 
+          (IN sobre)
+          (NP 
+           (NN abuso)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN poder)
+             (ADJP 
+              (JJ econômico)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

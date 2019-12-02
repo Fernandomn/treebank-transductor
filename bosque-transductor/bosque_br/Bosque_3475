@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NN Bancos)
+    )
+    e
+    (NP 
+     (NN financeiras)
+    )
+   )
+   (VP 
+    (VBP receberam)
+   )
+   (ADVP 
+    (RB bem)
+   )
+   (NP 
+    (DT a)
+    (NN resolução)
+    (ADJP 
+     (CD 2.071)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Conselho_Monetário_Nacional)
+     )
+    )
+   )
+  )
+ )
+)

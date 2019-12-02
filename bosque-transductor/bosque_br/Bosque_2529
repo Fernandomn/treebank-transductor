@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT as)
+     (NN 21h15)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN tucano)
+    (NP 
+     (NNP José_Serra)
+     (NP 
+      (VBN recém-eleito)
+      (NN senador)
+     )
+    )
+   )
+   (VP 
+    (VBP juntou-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN casal)
+     (ADJP 
+      (JJ presidencial)
+     )
+    )
+   )
+  )
+ )
+)

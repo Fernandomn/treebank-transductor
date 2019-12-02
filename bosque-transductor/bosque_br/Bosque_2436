@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Seu)
+    (NN editor)
+    (NP 
+     (NNP Claude_Durand)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Folha)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN telefone)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Paris)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NNP Soljenitsin)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN intenção)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB fazer)
+       )
+       (NP 
+        (DT qualquer)
+        (NN despedida)
+        (ADJP 
+         (JJ pública)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NNP Estados_Unidos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

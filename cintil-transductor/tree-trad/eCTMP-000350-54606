@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS iniciativa)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS princípio)
+      )
+     )
+    )
+    (VP 
+     (VB era)
+     (ADJP 
+      (ADVP 
+       (RB muito)
+       (RB mais)
+      )
+      (JJ arrojada)
+     )
+    )
+   )
+  )
+ )
+)

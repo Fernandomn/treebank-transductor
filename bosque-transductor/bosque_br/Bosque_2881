@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (VP 
+    (VBP deve)
+   )
+   (UCP 
+    (VP 
+     (VB lançar)
+     (NP 
+      (DT mais)
+      (CD cinco)
+      (NN novidades)
+     )
+     (ADVP 
+      (RB até)
+      (NP 
+       (DT o)
+       (NN final)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN ano)
+        )
+       )
+      )
+     )
+    )
+    (IN além_de)
+    (VP 
+     (VB aumentar)
+     (NP 
+      (DT sua)
+      (NN distribuição)
+     )
+    )
+   )
+  )
+ )
+)

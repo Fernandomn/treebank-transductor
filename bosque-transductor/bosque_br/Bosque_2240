@@ -1,0 +1,104 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Laerte_Leite_Cordeiro)
+     (NP 
+      (NN consultor)
+      (VP 
+       (VP 
+        (VBN especializado)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN recolocação)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN currículo)
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+    (VBN dividido)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD três)
+     (NN partes)
+     (NP 
+      (NP 
+       (NN área)
+       (ADJP 
+        (JJ geral)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN interesse)
+        )
+       )
+       (UCP 
+        (ADJP 
+         (JJ administrativa)
+        )
+        (ADJP 
+         (JJ contábil)
+        )
+        (ADJP 
+         (JJ financeira)
+        )
+        (ADVP 
+         (RB etc.)
+        )
+       )
+      )
+      (NP 
+       (NN qualificações)
+       (ADJP 
+        (JJ profissionais)
+       )
+      )
+      e
+      (NP 
+       (NN descrição)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN trajetória)
+         (PP 
+          (IN de)
+          (NP 
+           (NN empregos)
+          )
+         )
+         (NP 
+          (NP 
+           (NN empresas)
+          )
+          (NP 
+           (NN cargos)
+          )
+          (NP 
+           (NN períodos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

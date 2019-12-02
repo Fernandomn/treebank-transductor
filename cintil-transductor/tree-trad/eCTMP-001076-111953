@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (PP seus)
+      (NP 
+       (NNS amigos)
+       (NP 
+        (CC e)
+        (NNS colegas)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB tratavam)
+      (NP 
+       (PRP -no)
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS Arquitecto)
+         (NNS de_)
+         (NNS os)
+         (NNS Calções)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

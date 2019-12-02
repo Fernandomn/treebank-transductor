@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NNS Blueberry)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS elo)
+        (JJ comum)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB terminam)
+      (RB aí)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NNS afinidades)
+       (PP 
+        (IN com)
+        (NP 
+         (DT os)
+         (NP 
+          (JJ restantes)
+          (NP 
+           (NNS álbuns)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS série)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

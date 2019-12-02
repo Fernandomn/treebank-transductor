@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT outros)
+       (NNS casos)
+      )
+     )
+    )
+    (VP 
+     (VB roubavam)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (NNS clientes)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS prostitutas)
+         )
+        )
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB frequentam)
+          (NP 
+           (DT aquela)
+           (NNS mata)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

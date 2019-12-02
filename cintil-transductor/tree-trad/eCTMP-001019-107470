@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD dois)
+       (NP 
+        (NNS séculos)
+        (JJ seguintes)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP muitos)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (ADJP 
+          (RB mais)
+          (JJ proeminentes)
+         )
+         (NNS cientistas)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foram)
+     (VP 
+      (VB atraídos)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS mistério)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Saturno)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS povo)
+     )
+     (VP 
+      (VB quer)
+      (NP 
+       (DT a)
+       (NNS diferença)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT a)
+       (NNS diferença)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS riqueza)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS humanidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

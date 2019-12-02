@@ -1,0 +1,117 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (DT sua)
+     (NN defesa)
+     (VP 
+      (VP 
+       (VBN encaminhada)
+      )
+      (ADVP 
+       (RB ontem)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NNP TSE)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP admitiu)
+   )
+   (VP 
+    (VP 
+     (VB ter)
+     (VBN cometido)
+    )
+    (NP 
+     (DT um)
+     (NN erro)
+     (PP 
+      (IN de)
+      (NP 
+       (NN interpretação)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN produção)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN reportagem)
+        (VP 
+         (PP 
+          (IN em+)
+          (NP 
+           (PRP a_qual)
+          )
+         )
+         (NP 
+          (NNP Franco)
+         )
+         (VP 
+          (VBP afirma)
+         )
+         (VP 
+          (IN que)
+          (NP 
+           (DT o)
+           (NNP PT)
+          )
+          (VP 
+           (IN caso)
+           (VP 
+            (VBP ganhe)
+           )
+           (NP 
+            (DT as)
+            (NN eleições)
+            (ADJP 
+             (JJ presidenciais)
+            )
+           )
+          )
+          (VP 
+           (VBP pode)
+           (VB dar)
+          )
+          (NP 
+           (DT um)
+           (NN calote)
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT a)
+            (NN dívida)
+            (ADJP 
+             (JJ interna)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS assaltantes)
+   )
+   (VP 
+    (VP 
+     (VB fugiram)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS imediato)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS carro)
+         (JJ vermelho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

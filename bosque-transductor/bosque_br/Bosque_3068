@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (CD Quatro)
+     (NN vereadores)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN cidade)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NP vice-prefeito)
+    )
+   )
+   (VP 
+    (VBP afirmaram)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP votarão)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP Fernando_Henrique_Cardoso)
+     )
+    )
+   )
+   (VP 
+    (IN embora)
+    (NP 
+     (DT seus)
+     (NN partidos)
+    )
+    (NP 
+     (NP 
+      (NNP PMDB)
+     )
+     e
+     (NP 
+      (NNP PPR)
+     )
+    )
+    (VP 
+     (VBP tenham)
+    )
+    (NP 
+     (NN candidatos)
+     (ADJP 
+      (JJ próprios)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NN presidente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

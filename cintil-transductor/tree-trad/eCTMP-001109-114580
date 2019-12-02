@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS Neo-nazis)
+  )
+  (VP 
+   (VB insistem)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS acções)
+      (JJ racistas)
+     )
+    )
+   )
+  )
+ )
+)

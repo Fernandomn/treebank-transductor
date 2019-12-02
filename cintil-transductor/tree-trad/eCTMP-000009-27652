@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS actriz)
+   )
+   (VP 
+    (VB esteve)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS Festival)
+        (NNS Internacional)
+        (NNS de)
+        (NNS Teatro)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Almada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

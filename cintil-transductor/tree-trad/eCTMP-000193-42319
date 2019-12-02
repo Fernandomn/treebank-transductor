@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Wet)
+     (NNS Wet)
+     (NNS Wet)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS quinteto)
+       (JJ escocês)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (RB nunca)
+         (VP 
+          (VP 
+           (VB mereceu)
+           (NP 
+            (NP 
+             (NNS atenção)
+             (JJ especial)
+            )
+           )
+          )
+          (PP 
+           (IN por_)
+           (NP 
+            (DT a)
+            (NP 
+             (PP sua)
+             (NNS produção)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

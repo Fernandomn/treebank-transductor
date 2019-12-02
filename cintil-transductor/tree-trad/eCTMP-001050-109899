@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB aderiram)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT este)
+       (NNS movimento)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Reino)
+       (NNS Unido)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT a)
+        (NNS Itália)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT a)
+         (NNS Holanda)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS motivos)
+       (JJ nacionais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

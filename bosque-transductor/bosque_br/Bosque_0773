@@ -1,0 +1,224 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (NP 
+      (DT O)
+      (NNP Brasil)
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (DT um)
+      (NN país)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Terceiro_Mundo)
+        (PP 
+         (RB ainda)
+         (PP 
+          (PP 
+           (IN sem)
+           (NP 
+            (NN cara)
+           )
+          )
+          e
+          (PP 
+           (IN sem)
+           (NP 
+            (NN personalidade)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (NP 
+      (NN metade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (DT seu)
+        (NN território)
+       )
+      )
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (DT a)
+      (NNP Hiléia)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tem)
+        (VBN fascinado)
+       )
+       (NP 
+        (DT os)
+        (VBN iluminados)
+        (NP 
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Humboldt)
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (NNP Euclides_da_Cunha)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP acontece)
+    )
+    (VP 
+     (IN que)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN passo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Jeca_Tatu)
+        )
+       )
+       (VP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (VP 
+         (VBP caminha)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+     (VP 
+      (VBP ameaça)
+     )
+     (VP 
+      (VP 
+       (VB transformar)
+      )
+      (NP 
+       (DT a)
+       (NNP Hiléia)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN século)
+        (ADJP 
+         (CD 21)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (ADVP 
+         (RB já)
+        )
+        (NP 
+         (PRP nos)
+        )
+        (VP 
+         (VBP olha)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NN cara)
+          (ADJP 
+           (JJ feia)
+          )
+         )
+        )
+        (PP 
+         (IN por_cima_de+)
+         (NP 
+          (DT o)
+          (NN muro)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT um)
+          (JJ gigantesco)
+          (NN cinzeiro)
+          (ADJP 
+           (JJ cheio)
+           (PP 
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NN cinza)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT as)
+                (NN árvores)
+               )
+              )
+             )
+            )
+            e
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NN cinza)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT os)
+                (NN índios)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (NN empresários)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP mantiveram)
+      )
+      (NP 
+       (DT suas)
+       (NN críticas)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN política)
+         (PP 
+          (IN de)
+          (NP 
+           (NN abertura)
+           (ADJP 
+            (JJ comercial)
+           )
+           (ADJP 
+            (JJ indiscriminada)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+    (VP 
+     (VBP pode)
+     (VB aumentar)
+    )
+    (ADVP 
+     (RB de_novo)
+    )
+    (NP 
+     (DT as)
+     (NN alíquotas)
+     (PP 
+      (IN de)
+      (NP 
+       (NN importação)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT todos)
+      (DT os)
+      (NN setores)
+     )
+    )
+   )
+  )
+ )
+)

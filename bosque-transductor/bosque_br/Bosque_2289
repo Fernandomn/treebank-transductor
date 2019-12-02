@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN time)
+   )
+   (VP 
+    (VBP anunciou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT a)
+    (NN contratação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN craque)
+      (ADJP 
+       (JJ argentino)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS PP)
+  )
+  (VP 
+   (VB avança)
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS debate)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS urgência)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS AR)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

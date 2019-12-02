@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Rúbio)
+   )
+   (VP 
+    (VBP era)
+    (VBN acusado)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Claudirene)
+    )
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB tê-)
+     )
+     (NP 
+      (PRP la)
+     )
+     (VP 
+      (VBN estuprado)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN ano)
+       (VBN passado)
+       (NP 
+        (NN época)
+        (VP 
+         (PP 
+          (IN em)
+          (NP 
+           (PRP que)
+          )
+         )
+         (VP 
+          (VBP era)
+         )
+         (NP 
+          (DT o)
+          (NN líder)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Assembléia_de_Deus)
+           )
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN usina)
+           (NP 
+            (NNP São_Luiz)
+            (VP 
+             (ADVP 
+              (RB onde)
+             )
+             (NP 
+              (DT a)
+              (NN estudante)
+             )
+             (VP 
+              (VBP morava)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

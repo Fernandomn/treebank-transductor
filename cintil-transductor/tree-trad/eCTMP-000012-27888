@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS projecto)
+       (JJ paisagístico)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS dúvidas)
+    )
+    (VB persistem)
+   )
+  )
+ )
+)

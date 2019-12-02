@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN presidente)
+    )
+    (VP 
+     (VBP articulou)
+    )
+    (ADVP 
+     (RB então)
+    )
+    (NP 
+     (NN lobby)
+     (ADJP 
+      (JJ certeiro)
+     )
+     (PP 
+      (IN em_direção_a+)
+      (NP 
+       (DT o)
+       (NNP Sebrae)
+       (NP 
+        (NNP Serviço_de_Apoio_à_Pequena_e_Média_Empresa)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB ainda)
+    )
+    (VP 
+     (VBP pediu)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NNP FHC)
+     )
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (PRP o)
+     )
+     (VP 
+      (VBP ajudasse)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB pôr)
+       )
+       (NP 
+        (NNP Durante)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN presidência)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN entidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

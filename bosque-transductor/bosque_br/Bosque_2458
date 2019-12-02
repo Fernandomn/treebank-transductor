@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Isto)
+   )
+   (VP 
+    (VBP começou)
+    (IN a)
+    (VB acontecer)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN governo)
+     (ADJP 
+      (JJ anterior)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN presidente)
+          (NP 
+           (NNP Itamar_Franco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

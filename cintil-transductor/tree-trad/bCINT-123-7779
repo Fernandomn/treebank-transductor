@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (CD Quinze)
+      (NP 
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS volume)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS negócios)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS criminalidade)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vai)
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NNS advogados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

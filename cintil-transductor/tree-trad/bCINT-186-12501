@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS MONCASSIN)
+  )
+  (VP 
+   (VP 
+    (VB VENCE)
+    (NP 
+     (NNS ETAPA)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS SPRINT)
+     )
+    )
+   )
+  )
+ )
+)

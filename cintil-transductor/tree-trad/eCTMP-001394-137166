@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Poucos)
+   )
+   (VP 
+    (VB sabem)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB gosta)
+       (PP 
+        (IN de)
+        (NP 
+         (PRP tudo)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB tenha)
+             (NP 
+              (NNS motor)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

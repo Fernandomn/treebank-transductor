@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Papa)
+  )
+  (VP 
+   (VP 
+    (VB recebe)
+    (RB amanhã)
+   )
+   (NP 
+    (NP 
+     (NNS chefe)
+     (NNS de_)
+     (NNS a)
+     (NNS Igreja)
+     (NNS Anglicana)
+    )
+   )
+  )
+ )
+)

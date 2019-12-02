@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Ainda)
+     (VP 
+      (VB podemos)
+      (VP 
+       (VB esperar)
+       (NP 
+        (NP 
+         (NP 
+          (NNS mudanças)
+          (JJ positivas)
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS orientação)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS Executivo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

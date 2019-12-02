@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Requião)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (CD um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (ADJP 
+       (RB mais)
+       (JJ ferrenhos)
+      )
+      (NN adversários)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Orestes_Quércia)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP disputa)
+         )
+         (NP 
+          (DT a)
+          (NN Presidência)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN República)
+           )
+          )
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN partido)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

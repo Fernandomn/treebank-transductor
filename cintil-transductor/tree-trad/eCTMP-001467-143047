@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Hoje)
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB são)
+       (NP 
+        (CD três)
+        (NNS ramos)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT a)
+       (NNS árvore)
+      )
+      (VP 
+       (VB continua)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS pé)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

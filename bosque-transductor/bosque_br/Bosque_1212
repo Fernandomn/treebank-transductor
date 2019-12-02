@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN cálculo)
+   )
+   (VP 
+    (VBP baseia-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN comparação)
+     (NP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN preços)
+        (ADJP 
+         (JJ brasileiros)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NN americano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

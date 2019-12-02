@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN listas)
+   )
+   (VP 
+    (VBP apontam)
+   )
+   (NP 
+    (RB quase)
+    (DT todas)
+    (DT as)
+    (NP 
+     (NP 
+      (NN divisões)
+     )
+     e
+     (NP 
+      (NN departamentos)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Polícia_Civil)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Rio)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (NN recebedoras)
+     (PP 
+      (IN de)
+      (NP 
+       (NN quantias)
+       (ADJP 
+        (JJ mensais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

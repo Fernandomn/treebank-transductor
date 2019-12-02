@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP PDT)
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (VP 
+     (VB reduzir)
+    )
+    (NP 
+     (DT os)
+     (NN impostos)
+     (ADJP 
+      (JJ federais)
+     )
+    )
+   )
+   (PP 
+    (IN a)
+    (ADJP 
+     (CD quatro)
+    )
+   )
+  )
+ )
+)

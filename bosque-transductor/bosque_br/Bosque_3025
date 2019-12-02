@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de)
+    (ADJP 
+     (RB muito)
+     (JJ ruim)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN filme)
+    (NP 
+     (NNP O_Magnata_Grego)
+    )
+    (NP 
+     (NNP The_Greek_Tycoon)
+    )
+   )
+   (VP 
+    (VBP dedicava)
+   )
+   (NP 
+    (DT mais)
+    (NN atenção)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (DT seu)
+     (JJ segundo)
+     (NN marido)
+     (VP 
+      (VP 
+       (VBN interpretado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNP Anthony_Quinn)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (ADVP 
+          (RB aliás)
+         )
+         (VP 
+          (VBP faria)
+         )
+         (NP 
+          (DT o)
+          (NN papel)
+          (PP 
+           (IN de)
+           (NP 
+            (NNP Sócrates_Onassis)
+            (NP 
+             (NN sogro)
+             (PP 
+              (IN de)
+              (NP 
+               (NNP Jackie)
+              )
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN telefilme)
+           (NP 
+            (NNP Onassis:_The_Richest_Man_in_the_World)
+           )
+           (VP 
+            (VP 
+             (VBN produzido)
+            )
+            (PP 
+             (IN em)
+             (ADJP 
+              (CD 1988)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

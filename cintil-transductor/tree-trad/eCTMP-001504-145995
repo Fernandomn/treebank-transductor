@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (RB Finalmente)
+    (S 
+     (NP 
+      (DT a)
+      (NNS sobremesa)
+     )
+     (VP 
+      (VB foi)
+      (VB servida)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (IN com)
+       (NP 
+        (PRP ela)
+       )
+      )
+      (VB vieram)
+     )
+     (NP 
+      (DT as)
+      (NNS intervenções)
+     )
+    )
+   )
+  )
+ )
+)

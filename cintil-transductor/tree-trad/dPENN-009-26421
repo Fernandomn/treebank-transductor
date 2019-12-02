@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Tribunal)
+     (NNS Fiscal)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB deverá)
+    )
+    (VP 
+     (VB decidir)
+     (PP 
+      (PP 
+       (IN antes)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (CD próximo)
+        (NNS ano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

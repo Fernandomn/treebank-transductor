@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essas)
+    (NN condições)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB renegociar)
+     )
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 35)
+       (NN bilhões)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN aprovadas)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN Senado)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 93)
+      )
+     )
+    )
+   )
+  )
+ )
+)

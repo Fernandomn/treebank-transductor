@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS moda)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Ana)
+       (NNS Isabel)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Ana)
+         (NNS Salazar)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NNS Nuno)
+           (NNS Gama)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Sofia)
+            (NNS Aparício)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

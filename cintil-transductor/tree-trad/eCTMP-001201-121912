@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Bolsas)
+  )
+  (VP 
+   (VB influenciam)
+   (NP 
+    (NP 
+     (NNS cotação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS dólar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

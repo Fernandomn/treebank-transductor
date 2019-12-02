@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (RB Cerca_de)
+    (CD 30)
+    (VBN feridos)
+    (ADJP 
+     (JJ leves)
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN atendidos)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Santa_Casa)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN cidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

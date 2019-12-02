@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS frio)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS contra-relógio)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Ávila)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB complicou)
+     (NP 
+      (DT as)
+      (NNS coisas)
+     )
+    )
+   )
+  )
+ )
+)

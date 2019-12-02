@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Indústrias)
+    (JJ conserveiras)
+   )
+  )
+  (VP 
+   (VB lucram)
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS ausência)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS acordo)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT as)
+           (NNS pescas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN assessoria)
+     (PP 
+      (IN de)
+      (NP 
+       (NN imprensa)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN governador)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Fleury)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP pediu)
+   )
+   (NP 
+    (DT um)
+    (NN levantamento)
+    (PP 
+     (IN de)
+     (NP 
+      (NN preço)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN ações)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB junto)
+    (PP 
+     (IN a)
+     (NP 
+      (NN consultores)
+      (VBN especializados)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB estabelecer)
+     )
+     (NP 
+      (DT o)
+      (NN valor)
+      (NP 
+       (NN mínimo)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN ações)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP vão)
+          (VB ser)
+          (VBN levadas)
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (NN leilão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

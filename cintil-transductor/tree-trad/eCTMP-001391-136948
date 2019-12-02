@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS Finantial)
+        (NNS Times)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB está)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN perante)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS corrida)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS obstáculos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

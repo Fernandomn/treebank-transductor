@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS jornalistas)
+   )
+   (VP 
+    (VP 
+     (VB quiseram)
+     (RB então)
+    )
+    (VP 
+     (VB saber)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (NNS diferença)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB havia)
+          (PP 
+           (IN com)
+           (NP 
+            (DT os)
+            (NP 
+             (NP 
+              (NNS dissidentes)
+              (JJ chineses)
+             )
+             (ADJP 
+              (VB encarcerados)
+              (PP 
+               (IN por)
+               (NP 
+                (NP 
+                 (NNS razões)
+                 (JJ políticas)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

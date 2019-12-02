@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NNS Lisboa)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS Clube)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS cidades)
+          (PP 
+           (IN sem)
+           (NP 
+            (NNS carros)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

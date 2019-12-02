@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (NP 
+    (DT os)
+    (CD quatro)
+    (NN leilões)
+    (VP 
+     (VP 
+      (VBN realizados)
+     )
+     (PP 
+      (IN durante)
+      (NP 
+       (DT a)
+       (NNP Expomilk)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP venderam)
+   )
+   (NP 
+    (CD 124)
+    (NN cabeças)
+    (PP 
+     (IN de)
+     (NP 
+      (NN raças)
+      (ADJP 
+       (ADJP 
+        (JJ holandes)
+       )
+       (ADJP 
+        (JJ jersei)
+       )
+       (ADJP 
+        (JJ pardo-suíço)
+       )
+       e
+       (ADJP 
+        (JJ girolanda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

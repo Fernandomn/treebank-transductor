@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS internacionalização)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS empresa)
+      )
+     )
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (PRP todas)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS razões)
+         (JJ adiantadas)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB fará)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS CE)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

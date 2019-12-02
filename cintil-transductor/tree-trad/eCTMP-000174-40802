@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS pintura)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS José)
+        (NNS Alves)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ exposta)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Galeria)
+        (NNS Municipal)
+        (NNS de_)
+        (NNS a)
+        (NNS Amadora)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

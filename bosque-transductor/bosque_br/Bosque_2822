@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Declaração)
+   )
+   (VP 
+    (VBP Desagradou)
+   )
+   (ADVP 
+    (RB Até)
+    (PP 
+     (IN A+)
+     (NP 
+      (DT o)
+      (NNP PSDB)
+     )
+    )
+   )
+   (PP 
+    (IN De+)
+    (NP 
+     (DT a)
+     (NN Sucursal)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Brasília)
+      )
+     )
+    )
+   )
+  )
+ )
+)

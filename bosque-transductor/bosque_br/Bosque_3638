@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VB Conhecer)
+     )
+     (NP 
+      (DT as)
+      (NN normas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN etiqueta)
+        (ADJP 
+         (JJ empresarial)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB ser)
+     )
+     (ADJP 
+      (RB mais)
+      (JJ cordial)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN requisitos)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN sucesso)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN executivos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

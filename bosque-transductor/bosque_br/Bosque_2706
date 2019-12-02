@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN diferença)
+    (ADJP 
+     (JJ essencial)
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (DT as)
+       (NN armas)
+       (ADJP 
+        (JJ individuais)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN tráfico)
+        )
+       )
+      )
+      e
+      (NP 
+       (DT as)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Exército)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

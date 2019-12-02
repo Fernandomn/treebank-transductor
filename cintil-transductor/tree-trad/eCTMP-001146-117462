@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Muitos)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS mestres)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (NP 
+            (PRP os)
+           )
+           (VB escreveram)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB vivem)
+     (RB agora)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Ocidente)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Seis)
+       (NNS anos)
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS União)
+      (NNS Europeia)
+     )
+    )
+    (VP 
+     (VB reclamou)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS devolução)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS dinheiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

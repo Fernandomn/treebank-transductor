@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VB parece)
+    (VP 
+     (VP 
+      (VB ser)
+      (RB agora)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS objectivo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Ministério)
+          (NNS de_)
+          (NNS a)
+          (NNS Agricultura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

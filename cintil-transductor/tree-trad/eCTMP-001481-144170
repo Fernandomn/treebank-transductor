@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS montante)
+     (JJ apresentado)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB integralmente)
+    )
+    (VP 
+     (VB tomado)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NP 
+          (NNS taxa)
+          (JJ média)
+         )
+         (JJ ponderada)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (CD 13,1)
+           (NP 
+            (NN por)
+            (NN cento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

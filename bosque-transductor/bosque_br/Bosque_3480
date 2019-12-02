@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN intervenção)
+    (ADJP 
+     (JJ diplomática)
+    )
+    (ADJP 
+     (JJ russa)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADJP 
+    (JJ decisiva)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB evitar)
+     )
+     (NP 
+      (DT o)
+      (NN envolvimento)
+      (ADJP 
+       (JJ ocidental)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN guerra)
+       (ADJP 
+        (JJ civil)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NNP Bósnia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

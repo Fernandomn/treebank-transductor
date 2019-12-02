@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Ambos)
+   )
+   (VP 
+    (VBP partem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT uma)
+     (NN fuga)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN norte)
+       (PP 
+        (IN rumo_a+)
+        (NP 
+         (DT o)
+         (NN pai)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Haynes)
+          )
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP mora)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT o)
+             (NNP Alasca)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

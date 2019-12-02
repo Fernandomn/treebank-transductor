@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS pessoa)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (JJ saudável)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NNS natureza)
+     )
+    )
+   )
+  )
+ )
+)

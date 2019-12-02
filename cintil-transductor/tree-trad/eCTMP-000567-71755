@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Wayne)
+   )
+   (VP 
+    (VP 
+     (VB fica)
+     (JJ desbaratinado)
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (VB sabe)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (NNS Tick)
+         )
+         (VP 
+          (RB afinal)
+          (VP 
+           (VP 
+            (RB não)
+            (VB é)
+           )
+           (NP 
+            (PP seu)
+            (NNS filho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

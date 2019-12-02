@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (JJ primeira)
+    (NN vez)
+   )
+   (VP 
+    (CC e)
+    (VP 
+     (VBP espero)
+    )
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB ser)
+     )
+     (NP 
+      (DT a)
+      (JJ última)
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NP 
+      (NNP Fernando_Henrique)
+     )
+     e
+     (NP 
+      (DT esta)
+      (NN coluna)
+     )
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP atritam)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (DT mesmo)
+      (NN motivo)
+     )
+    )
+   )
+  )
+ )
+)

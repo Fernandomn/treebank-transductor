@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A_partir_de+)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN semana)
+    )
+   )
+   (VP 
+    (VBP vão)
+    (VB viajar)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT os)
+     (NN Estados)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN membros)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN coordenação)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP pertenceram)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN núcleo)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP passa)
+         (IN a)
+         (VB deter)
+        )
+        (NP 
+         (DT as)
+         (NN decisões)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

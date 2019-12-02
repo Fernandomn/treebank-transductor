@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (CD Quatro)
+   (NNS equipas)
+  )
+  (VP 
+   (VP 
+    (VB discutem)
+    (NP 
+     (CD dois)
+     (NNS lugares)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Jamor)
+    )
+   )
+  )
+ )
+)

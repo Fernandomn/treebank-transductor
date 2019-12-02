@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Câmara)
+     (NNS de)
+     (NNS Esposende)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB iniciar)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS processo)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS construção)
+          (PP 
+           (IN de)
+           (NP 
+            (DT uma)
+            (NP 
+             (PP 
+              (IN de_)
+              (NP 
+               (DT as)
+               (NP 
+                (CD três)
+                (NP 
+                 (JJ futuras)
+                 (NP 
+                  (NP 
+                   (NNS zonas)
+                   (JJ industriais)
+                  )
+                  (JJ municipais)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

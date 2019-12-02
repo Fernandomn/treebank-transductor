@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS secretário)
+      (NNS de)
+      (NNS Imprensa)
+      (NNS de_)
+      (NNS a)
+      (NNS Casa)
+      (NNS Branca)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Mike)
+      (NNS McCurry)
+     )
+    )
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP qualquer)
+       (NP 
+        (NNS agressão)
+        (JJ iraquiana)
+       )
+      )
+      (VP 
+       (VB seria)
+       (NP 
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS questão)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (JJ grave)
+             (NNS preocupação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

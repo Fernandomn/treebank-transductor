@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ministério)
+       (NNS de_)
+       (NNS a)
+       (NNS Educação)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS interpretação)
+      )
+     )
+     (VP 
+      (VB é)
+      (ADJP 
+       (RB mais)
+       (JJ ampla)
+      )
+     )
+    )
+   )
+  )
+ )
+)

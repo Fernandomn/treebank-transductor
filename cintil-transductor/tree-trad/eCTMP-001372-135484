@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Ainda)
+      (RB hoje)
+     )
+     (VP 
+      (VB continuo)
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB perguntar)
+         (NP 
+          (PRP -me)
+         )
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (JJ mesma)
+          (NNS coisa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

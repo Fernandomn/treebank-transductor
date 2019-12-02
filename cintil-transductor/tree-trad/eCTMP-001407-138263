@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS preservação)
+     )
+     (VP 
+      (VB foi)
+      (VP 
+       (VB assegurada)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS município)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NNS promessa)
+     )
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB foi)
+       )
+       (VB cumprida)
+      )
+     )
+    )
+   )
+  )
+ )
+)

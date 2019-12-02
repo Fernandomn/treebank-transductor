@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Discotecas)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS concertos)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Queima)
+        (NNS de_)
+        (NNS as)
+        (NNS Fitas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,97 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN secretário-geral)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Conselho_de_Segurança)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP ONU)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Boutros_Boutros-Ghali)
+    )
+   )
+   (VP 
+    (VBP pediu)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN potências)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP negociam)
+      )
+      (NP 
+       (DT um)
+       (NN tratado)
+       (PP 
+        (IN de)
+        (NP 
+         (NN paz)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT as)
+        (NN facções)
+        (PP 
+         (IN em)
+         (NP 
+          (NN luta)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP Bósnia)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP formem)
+    )
+    (NP 
+     (DT uma)
+     (NN força-tarefa)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB agir)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN região)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

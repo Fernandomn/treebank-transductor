@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Franz-Josef)
+      (NNS Feiter)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS secretário)
+       (NNS de)
+       (NNS Estado)
+       (NNS de_)
+       (NNS a)
+       (NNS Agricultura)
+      )
+      (JJ alemão)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB assumiu)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS posição)
+       (ADJP 
+        (RB mais)
+        (JJ irredutível)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB exigindo)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NP 
+           (NNS limite)
+           (JJ máximo)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (CD oito)
+            (NNS horas)
+           )
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (DT os)
+           (NNS trajectos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

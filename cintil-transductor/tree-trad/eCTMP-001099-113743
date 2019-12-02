@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Aluimento)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Cais)
+       (NNS de_)
+       (NNS o)
+       (NNS Sodré)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB era)
+   (JJ previsível)
+  )
+ )
+)

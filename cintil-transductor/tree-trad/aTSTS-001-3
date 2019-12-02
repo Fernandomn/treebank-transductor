@@ -1,0 +1,17 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS cliente)
+   )
+   (VP 
+    (VB encomendou)
+    (NP 
+     (DT um)
+     (NNS computador)
+    )
+   )
+  )
+ )
+)

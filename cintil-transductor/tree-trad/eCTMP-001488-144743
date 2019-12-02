@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (PRP Quem)
+   )
+   (S 
+    (VP 
+     (VB subscreveu)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS dívidas)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS banco)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

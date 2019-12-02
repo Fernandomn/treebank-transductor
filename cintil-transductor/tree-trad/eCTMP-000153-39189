@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Temos)
+      (NP 
+       (NP 
+        (NNS casos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS estudantes)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (RB não)
+              (VB regressam)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS problema)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB atinja)
+           (NP 
+            (NP 
+             (JJ grandes)
+             (NNS dimensões)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

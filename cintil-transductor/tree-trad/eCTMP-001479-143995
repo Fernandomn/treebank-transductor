@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Há)
+      (NP 
+       (NP 
+        (NP 
+         (NNS influências)
+         (JJ tremendas)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS estrutura)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS corpo)
+              (JJ humano)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT as)
+       (NNS pessoas)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB tomam)
+       )
+       (NP 
+        (NNS atenção)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

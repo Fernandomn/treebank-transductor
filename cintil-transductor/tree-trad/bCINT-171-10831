@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS ficha)
+     (JJ técnica)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ontem)
+    )
+    (VB publicada)
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS bergantim)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB depois)
+    )
+    (VP 
+     (VP 
+      (VB doado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NNS rainha)
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS museu)
+        (NNS de)
+        (NNS Southampton)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

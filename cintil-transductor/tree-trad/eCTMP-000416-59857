@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Há)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS discussão)
+       (ADJP 
+        (RB muito)
+        (JJ cerrada)
+       )
+      )
+      (PP 
+       (PP 
+        (IN quanto)
+        (IN a_)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS atribuição)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS dinheiro)
+           )
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (PRP cada)
+           (NNS país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

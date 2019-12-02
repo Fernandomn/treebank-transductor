@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS magistrados)
+   )
+   (VP 
+    (VP 
+     (VB ratificaram)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (NNS unanimidade)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS deliberação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Conselho)
+          (NNS Geral)
+          (NNS de_)
+          (NNS a)
+          (NNS ASPJ)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Maio)
+         (JJ passado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

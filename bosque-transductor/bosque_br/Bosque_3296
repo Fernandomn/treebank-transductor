@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN deputado)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VB ser)
+    )
+    (NP 
+     (DT um)
+     (NN homem)
+     (ADJP 
+      (JJ rico)
+     )
+    )
+   )
+  )
+ )
+)

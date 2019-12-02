@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Mato_Grosso)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN paralisação)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN prevista)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB começar)
+      )
+      (ADVP 
+       (RB hoje)
+      )
+     )
+    )
+   )
+  )
+ )
+)

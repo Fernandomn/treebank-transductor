@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN imagem)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Ayrton)
+     )
+    )
+   )
+   (VP 
+    (VBP aparece)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN fotos)
+     (VBN digitalizadas)
+    )
+   )
+  )
+ )
+)

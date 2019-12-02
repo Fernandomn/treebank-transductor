@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Tal)
+    (NN cobertura)
+    (UCP 
+     (NP 
+      (NN assistemática)
+     )
+     e
+     (VP 
+      (VP 
+       (VBN voltada)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB buscar)
+        )
+        (NP 
+         (NN escândalos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP leva-)
+   )
+   (NP 
+    (PRP os)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB trabalhar)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (NN fatos)
+       (VBN consumados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

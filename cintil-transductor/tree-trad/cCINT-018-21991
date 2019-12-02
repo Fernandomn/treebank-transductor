@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ela)
+    )
+    (VB sorriu)
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB puxou)
+        (NP 
+         (PRP -o)
+        )
+       )
+       (PP 
+        (RB mais)
+        (PP 
+         (IN para)
+         (NP 
+          (PRP si)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VP 
+         (VB deu)
+         (NP 
+          (PRP -lhe)
+         )
+        )
+        (NP 
+         (DT um)
+         (NP 
+          (NNS beijo)
+          (JJ ternurento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

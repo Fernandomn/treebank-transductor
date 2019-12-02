@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Comissão)
+    (NNS Europeia)
+   )
+  )
+  (VP 
+   (VB aprova)
+   (NP 
+    (NP 
+     (NNS abertura)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS negociações)
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NNS Suécia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

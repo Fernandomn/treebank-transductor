@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fazem)
+     (NP 
+      (NNS cursos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB têm)
+      (NP 
+       (NP 
+        (NNS regras)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS comportamento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

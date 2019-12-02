@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (RB Depois)
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (DT as)
+        (NNS previsões)
+       )
+       (VB surgem)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (PRP tudo)
+     )
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB cala)
+     )
+    )
+   )
+  )
+ )
+)

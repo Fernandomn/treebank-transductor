@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Funcionários)
+    (ADJP 
+     (VB pagos)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NNS Estado)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS causa)
+    )
+   )
+  )
+ )
+)

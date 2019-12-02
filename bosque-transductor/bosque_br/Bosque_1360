@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Não)
+     )
+     (VP 
+      (VBP acho)
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (VBP seja)
+      )
+      (NP 
+       (NN câncer)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP pode)
+      (VB ser)
+     )
+     (NP 
+      (DT algo)
+      (VP 
+       (VP 
+        (VBN relacionado)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (NP 
+          (DT os)
+          (DT meus)
+          (NN medos)
+         )
+         e
+         (NP 
+          (NN angústias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+  )
+ )
+)

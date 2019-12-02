@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+    (NP 
+     (DT estes)
+     (NNS projectos)
+    )
+   )
+   (VP 
+    (VB terão)
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS mínimo)
+       (PP 
+        (IN de)
+        (NP 
+         (CD seis)
+         (NNS salas)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS máximo)
+        (PP 
+         (IN de)
+         (NP 
+          (CD doze)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

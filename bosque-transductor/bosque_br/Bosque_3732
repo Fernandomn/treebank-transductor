@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB ter)
+      (VBN conseguido)
+     )
+     (NP 
+      (DT a)
+      (NN guarda)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Natasha)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Conceição)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VBN aflita)
+  )
+ )
+)

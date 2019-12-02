@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN descrição)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Eliezer_Batista)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN entrevista)
+    )
+   )
+   (ADVP 
+    (RB ao_vivo)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Rede_Manchete)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT outro)
+     (NN evento)
+     (ADJP 
+      (JJ político)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Associação_Comercial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

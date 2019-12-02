@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT Os)
+      (NNS quadros)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS membros)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS família)
+           (NP 
+            (NNS Pinto)
+            (NNS Basto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB ficam)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (CD 60)
+        (NP 
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS empresa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB sendo)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ restante)
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS Portugália)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Banco)
+          (NNS Mello)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

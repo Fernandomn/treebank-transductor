@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Em_)
+       (NP 
+        (DT os)
+        (NP 
+         (CD primeiros)
+         (NP 
+          (CD seis)
+          (NNS meses)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS festa)
+         (NNS de)
+         (NNS Natal)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT esta)
+     (NP 
+      (NNS estrutura)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS trabalhadores)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB obteve)
+     (NP 
+      (CD 34.996)
+      (NNS contos)
+     )
+    )
+   )
+  )
+ )
+)

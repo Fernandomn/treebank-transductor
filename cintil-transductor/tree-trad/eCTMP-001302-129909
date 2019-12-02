@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Pedro)
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (CD 27)
+        (NNS anos)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB estava)
+       (JJ sozinho)
+      )
+      (ADVP 
+       (RB junto)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS cais)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Ribeira)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB teve)
+       (NP 
+        (DT um)
+        (NNS sobressalto)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS aproximação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS reportagem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

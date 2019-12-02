@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB poderemos)
+       (VP 
+        (VB ter)
+        (NP 
+         (NP 
+          (DT um)
+          (NP 
+           (NNS Fred)
+           (NNS Astaire)
+          )
+         )
+         (NP 
+          (CC ou)
+          (NP 
+           (DT um)
+           (NP 
+            (NP 
+             (NNS Tom)
+             (NNS Cruise)
+            )
+            (ADJP 
+             (JJ sintético)
+             (ADJP 
+              (CC ou)
+              (JJ virtual)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

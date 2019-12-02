@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (PRP muita)
+     (NP 
+      (NP 
+       (NNS oficina)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB adquire)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS integração)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS equipa)
+           (ADJP 
+            (RB altamente)
+            (JJ profissionalizada)
+           )
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (DT um)
+        (NP 
+         (NNS trabalho)
+         (CONJP 
+          (PP 
+           (IN em)
+           (NP 
+            (PRP que)
+           )
+          )
+          (S 
+           (VP 
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VB aperfeiçoam)
+            )
+           )
+           (NP 
+            (DT as)
+            (NP 
+             (NP 
+              (NNS características)
+              (JJ pessoais)
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT os)
+               (NNS cozinheiros)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

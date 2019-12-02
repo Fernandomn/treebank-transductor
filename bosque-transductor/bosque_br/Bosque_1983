@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Espero)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP possa)
+    )
+    (VP 
+     (VP 
+      (VB voltar)
+      (ADVP 
+       (RB lá)
+      )
+     )
+     e
+     (VP 
+      (VB dizer)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (NN crianças)
+       )
+      )
+      (VP 
+       (VP 
+        (IN que)
+        (NP 
+         (PRP elas)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBP precisam)
+        )
+        (VP 
+         (VP 
+          (VB ficar)
+         )
+         (VP 
+          (VP 
+           (VBN presas)
+          )
+          (ADVP 
+           (RB lá)
+          )
+         )
+        )
+       )
+       (VP 
+        (IN que)
+        (VP 
+         (VBP existe)
+        )
+        (NP 
+         (DT todo)
+         (DT um)
+         (DT outro)
+         (NN mundo)
+        )
+        (ADVP 
+         (RB fora)
+         (PP 
+          (IN de+)
+          (RB ali)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

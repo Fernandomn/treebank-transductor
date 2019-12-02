@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (NNS fim)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS bombeiros)
+    )
+    (VP 
+     (VB chegaram)
+     (CONJP 
+      (CONJP 
+       (CC quando)
+       (S 
+        (NP 
+         (DT as)
+         (NNS chamas)
+        )
+        (VP 
+         (RB já)
+         (VP 
+          (VB lambiam)
+          (NP 
+           (NNS habitações)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

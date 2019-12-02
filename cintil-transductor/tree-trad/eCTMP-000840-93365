@@ -1,0 +1,119 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Determinou)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (DT isso)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS realização)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (JJ novo)
+          (NNS julgamento)
+         )
+         (CONJP 
+          (CONJP 
+           (PP 
+            (IN em)
+            (NP 
+             (PRP que)
+            )
+           )
+           (S 
+            (VP 
+             (VP 
+              (RB não)
+              (VB intervirá)
+             )
+            )
+            (NP 
+             (DT o)
+             (NP 
+              (NP 
+               (NNS magistrado)
+               (JJ judicial)
+              )
+              (CONJP 
+               (CONJP 
+                (NP 
+                 (PRP que)
+                )
+                (S 
+                 (VP 
+                  (VB integrou)
+                  (NP 
+                   (DT o)
+                   (NNS colectivo)
+                  )
+                 )
+                )
+               )
+               (CONJP 
+                (CC e)
+                (CONJP 
+                 (NP 
+                  (PRP que)
+                 )
+                 (S 
+                  (VP 
+                   (VP 
+                    (VB tinha)
+                    (VP 
+                     (VB participado)
+                     (PP 
+                      (IN em)
+                      (NP 
+                       (PRP várias)
+                       (NNS diligências)
+                      )
+                     )
+                    )
+                   )
+                   (PP 
+                    (IN em_)
+                    (NP 
+                     (DT a)
+                     (NP 
+                      (NNS fase)
+                      (PP 
+                       (IN de)
+                       (NP 
+                        (NNS inquérito)
+                       )
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

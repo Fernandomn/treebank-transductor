@@ -1,0 +1,43 @@
+(
+ (S 
+  (NP 
+   (NNS PSD)
+  )
+  (VP 
+   (VB avança)
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS auditoria)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS TC)
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS viagens)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS deputados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

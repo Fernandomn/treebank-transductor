@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (RB Apenas)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS presidente)
+       (NNS de_)
+       (NNS o)
+       (NNS soviete)
+       (NNS regional)
+       (NNS Oleg)
+       (NNS Diatchkin)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB manteve)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NNS lugar)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS inerência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

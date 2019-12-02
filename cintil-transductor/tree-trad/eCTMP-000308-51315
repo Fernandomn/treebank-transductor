@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VB viram)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS trapalhadas)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT o)
+          (NNS PS)
+         )
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB meteu)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

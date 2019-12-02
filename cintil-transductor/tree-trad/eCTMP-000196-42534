@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Whitewater)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB apenas)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS ponta)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS iceberg)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

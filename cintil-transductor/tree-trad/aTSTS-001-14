@@ -1,0 +1,17 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS encomenda)
+   )
+   (VP 
+    (VB acabou)
+    (PP 
+     (IN por)
+     (VB chegar)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN jornalista)
+    (NP 
+     (NNP LUÍS_ANTÔNIO_GIRON)
+    )
+   )
+   (VP 
+    (VBP viaja)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Áustria)
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN convite)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN agência)
+        (NP 
+         (NNP Austríaca_de_Turismo)
+        )
+       )
+      )
+      e
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Lufthansa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

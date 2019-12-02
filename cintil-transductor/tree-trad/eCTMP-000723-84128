@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Assim)
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS António)
+      (NNS Guterres)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (VB vai)
+        (VP 
+         (VB estar)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT um)
+           (NNS comício)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Coimbra)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ próxima)
+          (NNS sexta-feira)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS vésperas)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (NNS reuniões)
+            (JJ finais)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS Estados)
+              (NNS Gerais)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

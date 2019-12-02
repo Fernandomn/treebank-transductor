@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB tem)
+     )
+     (NP 
+      (PRP qualquer)
+      (NNS sinalização)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS caminho)
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NNS Cerdeira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

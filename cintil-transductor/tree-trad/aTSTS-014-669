@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB espumou)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS boca)
+     )
+    )
+   )
+  )
+ )
+)

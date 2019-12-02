@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS número)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS pessoas)
+         (JJ necessitadas)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (PP 
+       (IN a)
+       (VB aumentar)
+      )
+     )
+     (RB assustadoramente)
+    )
+   )
+  )
+ )
+)

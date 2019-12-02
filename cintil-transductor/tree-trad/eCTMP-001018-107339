@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Os)
+     (NNS óculos)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS lentes)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS contacto)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (VP 
+      (CC ou)
+      (VP 
+       (RB não)
+       (VB são)
+      )
+     )
+    )
+    (NP 
+     (NNS próteses)
+    )
+   )
+  )
+ )
+)

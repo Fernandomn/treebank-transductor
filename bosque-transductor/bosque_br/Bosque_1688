@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ator)
+   )
+   (VP 
+    (VBP vive)
+   )
+   (NP 
+    (DT um)
+    (NN sem-teto)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT o)
+      (NN acaso)
+     )
+     (VP 
+      (VBP coloca)
+     )
+     (PP 
+      (IN diante_de+)
+      (NP 
+       (DT o)
+       (NN estudante)
+      )
+     )
+    )
+   )
+  )
+ )
+)

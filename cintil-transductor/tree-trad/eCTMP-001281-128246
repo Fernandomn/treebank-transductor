@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 42)
+        (NNS anos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB disseram)
+      (NP 
+       (PRP -lhe)
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB tinha)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS tumor)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT o)
+            (NNS cérebro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

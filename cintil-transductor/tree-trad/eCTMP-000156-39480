@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Bolsa)
+     (NNS de)
+     (NNS Londres)
+    )
+   )
+   (VP 
+    (VP 
+     (VB evoluiu)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (JJ forte)
+        (NNS baixa)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (PRP toda)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS semana)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VB passou)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Seria)
+    (JJ absurdo)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS instituto)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB dirige)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS política)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS arquivos)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB definisse)
+       (NP 
+        (DT uma)
+        (NNS política)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Torre)
+         (NNS de_)
+         (NNS o)
+         (NNS Tombo)
+        )
+       )
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP a)
+         )
+         (VB cumprisse)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

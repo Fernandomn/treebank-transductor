@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS sorte)
+  )
+  (VP 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS lado)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (JJ grandes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

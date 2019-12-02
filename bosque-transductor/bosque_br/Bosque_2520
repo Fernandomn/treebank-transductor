@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNP Maria_Mole)
+   (NP 
+    (NN mistura)
+    (PP 
+     (IN de)
+     (NP 
+      (NN bebidas)
+     )
+    )
+    (NP 
+     (NN conhaque)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NN martini)
+       )
+       e/ou
+       (NP 
+        (NN vodka)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

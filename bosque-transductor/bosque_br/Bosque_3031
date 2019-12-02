@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Miranda)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN legislação)
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (VP 
+    (VBP proíbe)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT um)
+     (NN seguro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT esta)
+       (NN natureza)
+      )
+     )
+    )
+    (VP 
+     (VBP tenha)
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NN beneficiário)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NN empresa)
+      )
+      ou
+      (NP 
+       (NN associação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

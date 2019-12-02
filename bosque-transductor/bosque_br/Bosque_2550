@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Banespa)
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP esclareceu)
+   )
+   (NP 
+    (DT as)
+    (VBN supostas)
+    (NN dificuldades)
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NN agência)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN exterior)
+       )
+      )
+      (PP 
+       (IN por)
+       (VP 
+        (VP 
+         (VB haver)
+         (VBN pago)
+        )
+        (NP 
+         (NN parte)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (NN importações)
+          )
+         )
+        )
+        (PP 
+         (IN sem)
+         (NP 
+          (NN licitação)
+          (PP 
+           (IN de)
+           (NP 
+            (NN equipamentos)
+            (ADJP 
+             (JJ israelenses)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN governo)
+          (NP 
+           (NNP Quércia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

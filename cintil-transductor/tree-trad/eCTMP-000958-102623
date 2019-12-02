@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS protecção)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (PP nossa)
+        (NNS privacidade)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS tarefa)
+       (JJ meritória)
+      )
+     )
+    )
+    (ADVP 
+     (RB indiscutivelmente)
+    )
+   )
+  )
+ )
+)

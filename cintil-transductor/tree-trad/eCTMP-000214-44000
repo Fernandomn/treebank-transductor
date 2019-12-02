@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS informação)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB foi)
+    )
+    (VP 
+     (VB certificada)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS autoridades)
+        (JJ alemãs)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

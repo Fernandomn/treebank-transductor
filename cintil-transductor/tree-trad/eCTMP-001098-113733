@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS empresa)
+    )
+    (VP 
+     (VB é)
+     (ADJP 
+      (JJ proprietária)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD 62)
+         (CD mil)
+        )
+        (NP 
+         (NNS hectares)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS floresta)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB explora)
+       (RB ainda)
+      )
+      (NP 
+       (NP 
+        (CD 41)
+        (CD mil)
+       )
+       (NP 
+        (NNS hectares)
+        (JJ arrendados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

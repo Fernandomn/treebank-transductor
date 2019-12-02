@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (CD 19)
+    (PP 
+     (IN de)
+     (NP 
+      (NN junho)
+     )
+    )
+   )
+   (NP 
+    (NNP Médici)
+   )
+   (VP 
+    (VBP anuncia)
+   )
+   (NP 
+    (DT a)
+    (NN construção)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN rodovia)
+      (NP 
+       (NNP Transamazônica)
+      )
+     )
+    )
+   )
+  )
+ )
+)

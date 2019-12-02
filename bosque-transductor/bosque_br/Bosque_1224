@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Vera_Lucia_Vassouras)
+    (VP 
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP é)
+      )
+      (ADJP 
+       (JJ negra)
+      )
+     )
+     e
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP diz)
+      )
+      (NP 
+       (NN militante)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP PDT)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP sustenta)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN autores)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN livro)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT nenhum)
+      (NN momento)
+     )
+    )
+    (VP 
+     (VBP afirmaram)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN negros)
+     )
+     (VP 
+      (VBP são)
+     )
+     (ADJP 
+      (RB geneticamente)
+      (JJ inferiores)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN brancos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

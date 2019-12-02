@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN lançamento)
+   )
+   (VP 
+    (VBP ocorreu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN base)
+     (ADJP 
+      (JJ aérea)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Vanderberg)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Califórnia)
+     (NP 
+      (NN costa)
+      (ADJP 
+       (JJ oeste)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN país)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 8h30)
+     (ADJP 
+      (JJ locais)
+     )
+     (NP 
+      (NN 14h30)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Brasília)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Schumacher)
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT a)
+    (NN esperança)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB conferir)
+      )
+      (NP 
+       (DT alguma)
+       (NN emoção)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT um)
+        (NN Mundial)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (ADVP 
+          (RB já)
+         )
+         (VP 
+          (VBP parecia)
+          (VB ter)
+         )
+         (NP 
+          (NN dono)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

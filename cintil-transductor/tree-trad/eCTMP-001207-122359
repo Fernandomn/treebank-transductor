@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VB Aumentam)
+   (NP 
+    (NP 
+     (NNS despesas)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS pessoal)
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (S 
+    (VB desce)
+    (NP 
+     (DT o)
+     (NNS investimento)
+    )
+   )
+  )
+ )
+)

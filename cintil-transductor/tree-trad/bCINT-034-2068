@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS títulos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB registaram)
+         (NP 
+          (NP 
+           (JJ maior)
+           (NNS animação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS destaque)
+    )
+    (VP 
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Thyssen)
+          )
+         )
+        )
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB averbaram)
+            (NP 
+             (DT uma)
+             (NP 
+              (NP 
+               (NNS subida)
+               (JJ significativa)
+              )
+              (PP 
+               (IN em_)
+               (NP 
+                (DT as)
+                (NNS cotações)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

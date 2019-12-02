@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Obviamente)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS leitura)
+       (ADJP 
+        (RB mais)
+        (JJ fácil)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS filme)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS padre-que-se-mete-na-droga)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

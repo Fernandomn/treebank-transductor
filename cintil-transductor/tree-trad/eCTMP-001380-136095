@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Hamas)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NNS perigo)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS povo)
+        (JJ palestiniano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

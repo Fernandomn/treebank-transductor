@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Tour)
+   )
+   (VP 
+    (VB passeou)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Holanda)
+     )
+    )
+   )
+  )
+ )
+)

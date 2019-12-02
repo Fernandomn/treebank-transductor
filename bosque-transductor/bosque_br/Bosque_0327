@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Como)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT aquela)
+      (NN época)
+     )
+    )
+    (ADVP 
+     (RB ainda)
+     (RB não)
+    )
+    (VP 
+     (VBP existia)
+    )
+    (NP 
+     (DT a)
+     (NN fotografia)
+    )
+   )
+   (ADVP 
+    (RB eram)
+   )
+   (NP 
+    (DT os)
+    (NN pintores)
+   )
+   (ADVP 
+    (RB que)
+   )
+   (VP 
+    (VBP faziam)
+   )
+   (NP 
+    (DT os)
+    (NN retratos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN famílias)
+     )
+    )
+   )
+  )
+ )
+)

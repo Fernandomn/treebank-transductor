@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS CDS)
+  )
+  (VP 
+   (VB propõe)
+   (NP 
+    (NP 
+     (NNS adiamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS IVA)
+      )
+     )
+    )
+   )
+  )
+ )
+)

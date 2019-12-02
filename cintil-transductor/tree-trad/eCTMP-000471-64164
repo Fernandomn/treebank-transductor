@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN A)
+      (IN partir)
+      (IN de_)
+     )
+     (NP 
+      (DT aquela)
+      (NP 
+       (NNS fase)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS competição)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Manuela)
+    )
+    (VP 
+     (VP 
+      (VB assumia)
+      (RB claramente)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS papel)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ maior)
+          (NNS candidata)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

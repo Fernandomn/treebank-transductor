@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Nenhuma)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT estas)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB efectivamente)
+    (VP 
+     (VB pode)
+     (VP 
+      (VB declinar)
+      (NP 
+       (DT essa)
+       (NNS obrigação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

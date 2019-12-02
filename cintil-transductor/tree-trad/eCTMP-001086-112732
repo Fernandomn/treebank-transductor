@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NP 
+      (NP 
+       (NNS actividade)
+       (JJ pedagógica)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS UE)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB interrompida)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ano)
+       (JJ seguinte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP abordo)
+    )
+    (NP 
+     (DT este)
+     (NN tema)
+    )
+    (ADVP 
+     (RB aqui)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB arriscar-)
+     )
+     (NP 
+      (PRP me)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN análise)
+       (ADJP 
+        (JJ política)
+       )
+       (NP 
+        (NN coisa)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (DT outros)
+         )
+         (VP 
+          (VBP farão)
+         )
+         (ADVP 
+          (RB melhor)
+          (SBAR do_que
+           (S 
+            (PRP eu)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

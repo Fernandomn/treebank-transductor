@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (PP seu)
+      (NNS lado)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Luís)
+       (NNS Magalhães)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS treinador)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Ovarense)
+        )
+       )
+      )
+     )
+    )
+    (VB declarou)
+   )
+  )
+ )
+)

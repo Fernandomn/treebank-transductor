@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP CompUSA)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Los_Angeles)
+     )
+    )
+   )
+   (VP 
+    (VBP vendia)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN semana)
+     (VBN passada)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN impressora)
+    (NP 
+     (NN jato)
+     (PP 
+      (IN de)
+      (NP 
+       (NN tinta)
+      )
+     )
+    )
+    (NP 
+     (NNP Epson_Stylus_800)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 199)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (NP 
+   (PRP Algo)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (VB colocaria)
+         (RB também)
+        )
+        (NP 
+         (DT os)
+         (NP 
+          (NNS Jogos)
+          (NNS de)
+          (NNS Atlanta)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS história)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS olimpismo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

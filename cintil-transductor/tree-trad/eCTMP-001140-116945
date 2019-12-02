@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Tourada)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ espanhola)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB quer)
+   (VP 
+    (VB deixar)
+    (NP 
+     (NNS clandestinidade)
+    )
+   )
+  )
+ )
+)

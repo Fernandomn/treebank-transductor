@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (VP 
+     (VBP pensa)
+    )
+    (NP 
+     (DT o)
+     (NN contrário)
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (VP 
+    (VBP trate)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB comprovar)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NN raciocínio)
+      )
+      (VP 
+       (VBP está)
+      )
+      (VBN furado)
+     )
+    )
+   )
+  )
+ )
+)

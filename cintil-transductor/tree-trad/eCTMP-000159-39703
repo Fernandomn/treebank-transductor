@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS libelo)
+      (JJ acusatório)
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS jornalismo)
+        (ADJP 
+         (JJ sensacionalista)
+         (ADJP 
+          (CC e)
+          (JJ fácil)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB socorre)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS exemplos)
+       (JJ recentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

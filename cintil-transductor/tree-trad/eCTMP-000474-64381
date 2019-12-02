@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB É)
+       (JJ evidente)
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB há)
+         (NP 
+          (DT uma)
+          (NNS disparidade)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB é)
+       (JJ provável)
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB haja)
+         (NP 
+          (NP 
+           (NNS distorções)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT os)
+             (NP 
+              (CD dois)
+              (NNS lados)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

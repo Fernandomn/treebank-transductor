@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (DT O)
+      (NNS leopardo)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT o)
+        (NNS padrinho)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Arábia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS tamanho)
+       (ADJP 
+        (JJ gigante)
+        (ADJP 
+         (ADJP 
+          (JJ integral)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

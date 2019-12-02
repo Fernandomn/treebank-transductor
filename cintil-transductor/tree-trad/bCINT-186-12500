@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS TOUR)
+  )
+  (VP 
+   (VB PASSEOU)
+   (PP 
+    (IN POR_)
+    (NP 
+     (DT A)
+     (NP 
+      (NNS PLANÍCIE)
+      (JJ HOLANDESA)
+     )
+    )
+   )
+  )
+ )
+)

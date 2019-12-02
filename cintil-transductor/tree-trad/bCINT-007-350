@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Posso)
+     (VP 
+      (VB ver)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS concerto)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS Deep)
+            (NNS Purple)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (PRP todos)
+         (NP 
+          (DT os)
+          (NP 
+           (JJ outros)
+           (NP 
+            (NNS eventos)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT as)
+              (NP 
+               (NNS festas)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT a)
+                 (NNS cidade)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

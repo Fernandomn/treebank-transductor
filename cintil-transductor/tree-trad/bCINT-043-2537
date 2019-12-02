@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (VB identificada)
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS zona)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB podia)
+        (VP 
+         (VB ser)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS vala)
+           (JJ comum)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Comentário)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS mesa)
+       (JJ presidencial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

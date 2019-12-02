@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Dentro)
+     (IN de)
+    )
+    (NP 
+     (CD dois)
+     (NP 
+      (NNS anos)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NNS torneiras)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,96 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS imprensa)
+       (JJ brasileira)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Telé)
+      (NNS Santana)
+     )
+    )
+    (VP 
+     (VB pode)
+     (VP 
+      (VP 
+       (VP 
+        (VB substituir)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS final)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS época)
+            )
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Johan)
+         (NNS Cruyff)
+        )
+       )
+      )
+      (VP 
+       (CC e)
+       (VP 
+        (VB interromper)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (JJ profícuo)
+           (NNS trabalho)
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (NP 
+             (DT o)
+             (NNS holandês)
+            )
+            (VP 
+             (VP 
+              (VB desenvolveu)
+              (PP 
+               (IN em)
+               (NP 
+                (CD oito)
+                (NNS anos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

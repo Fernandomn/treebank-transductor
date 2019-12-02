@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pesquisa)
+    (NP 
+     (NNP Update)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Câmara_Americana)
+     )
+    )
+   )
+   (VP 
+    (VBP revela)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN empresários)
+    )
+    (VP 
+     (VBP esperam)
+    )
+    (NP 
+     (NN queda)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN inflação)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN real)
+     )
+    )
+   )
+  )
+ )
+)

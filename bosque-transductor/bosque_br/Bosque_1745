@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (NP 
+    (DT uma)
+    (NN busca)
+    (ADJP 
+     (JJ frenética)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN eletrônicos)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP facilitem)
+       )
+       (NP 
+        (DT o)
+        (NN dia-a-dia)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN cidadão)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NN casa)
+         )
+        )
+        e
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN escritório)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (NP 
+    (NNP Quintana)
+   )
+  )
+ )
+)

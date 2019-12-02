@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN proliferação)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT essa)
+      (NN área)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ maior)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN fato)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (NP 
+         (DT os)
+         (NN indígenas)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB pagarem)
+        )
+        (NP 
+         (NN impostos)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NN atividade)
+         )
+        )
+       )
+       mas
+       (VP 
+        (NP 
+         (RB apenas)
+         (NN taxas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

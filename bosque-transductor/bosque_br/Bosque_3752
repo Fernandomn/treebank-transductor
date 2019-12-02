@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ segundo)
+    (NN lugar)
+   )
+   (VP 
+    (VBP foi)
+    (VBN conquistado)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NNP Ericsson)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN agosto)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 93)
+         )
+        )
+       )
+      )
+      (VP 
+       (VBP ocupava)
+      )
+      (NP 
+       (DT a)
+       (JJ quarta)
+       (NN posição)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN contratos)
+        (VP 
+         (VP 
+          (VBN assinados)
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (NN fornecimento)
+           (PP 
+            (IN de)
+            (NP 
+             (NN equipamentos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

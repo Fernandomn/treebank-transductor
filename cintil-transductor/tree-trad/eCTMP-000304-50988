@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS doutrina)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VB continuou)
+     (PP 
+      (IN a)
+      (VP 
+       (VB expandir)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

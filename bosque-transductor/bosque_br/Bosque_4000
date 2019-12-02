@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sem)
+    (VP 
+     (VP 
+      (VB dizer)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (DT seu)
+       (NN clube)
+      )
+      (VP 
+       (VBP dispensou)
+      )
+      (ADVP 
+       (RB humilhantemente)
+      )
+      (NP 
+       (DT o)
+       (DT seu)
+       (NN arqueiro)
+       (NP 
+        (NNP Zubizarreta)
+       )
+      )
+      (ADVP 
+       (RB depois)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN derrota)
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NNP Milan)
+          )
+         )
+         (NP 
+          (CD 0)
+          (PP 
+           (IN a)
+           (ADJP 
+            (CD 4)
+           )
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN decisão)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN Copa)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NNP Europa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

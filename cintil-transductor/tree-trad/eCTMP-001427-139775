@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (PRP poucos)
+        (NNS meses)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS jovem)
+      (JJ russa)
+     )
+    )
+    (VP 
+     (VP 
+      (VB começou)
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB ter)
+         (NP 
+          (NNS aulas)
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS ginásio)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Jerusalém)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (VB praticando)
+         (RB sobretudo)
+        )
+        (NP 
+         (NNS musculação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

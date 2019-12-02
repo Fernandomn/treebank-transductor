@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN A)
+    (NP 
+     (DT esses)
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB estimulava)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS auto-aprendizagem)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS participação)
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (NNS programas)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS pesquisa)
+                (JJ laboratorial)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

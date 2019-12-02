@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Metade)
+    (PP 
+     (IN de+)
+     (NP 
+      (NP 
+       (DT os)
+       (NN Estados)
+      )
+      e
+      (NP 
+       (NN municípios)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN país)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (ADJP 
+     (JJ federativa)
+    )
+    e
+    (ADJP 
+     (RB economicamente)
+     (JJ inviável)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Aspásia_Camargo)
+    )
+   )
+  )
+ )
+)

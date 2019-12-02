@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (DT O)
+       (NP 
+        (NNS Hotel)
+        (NNS Belgrado)
+       )
+      )
+      (NP 
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS fábrica)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS tabaco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS estação)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS tratamento)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS águas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (VB atingidos)
+   )
+  )
+ )
+)

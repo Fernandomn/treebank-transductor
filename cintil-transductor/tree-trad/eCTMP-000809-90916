@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS In)
+     (NNS the)
+     (NNS Company)
+     (NNS of)
+     (NNS Men)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS La)
+      (NNS Femme)
+      (NNS Défendue)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Cannes)
+    )
+   )
+  )
+ )
+)

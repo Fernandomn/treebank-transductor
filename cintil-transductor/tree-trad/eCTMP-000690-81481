@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS Praça)
+      (NNS de_)
+      (NNS o)
+      (NNS Museu)
+      (NNS de_)
+      (NNS o)
+      (NNS Centro)
+      (NNS Cultural)
+      (NNS de)
+      (NNS Belém)
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB será)
+      (RB hoje)
+     )
+     (VB animada)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (PRP várias)
+      (NNS actividades)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN irmãos)
+    (NP 
+     (NNP Gershwin)
+    )
+   )
+   (VP 
+    (VBP eram)
+   )
+   (ADJP 
+    (RB tão)
+    (JJ diferentes)
+    (VP 
+     (IN que)
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP completavam)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN maravilhas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VB Canta)
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB toca)
+       (NP 
+        (NNS guitarra)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS bares)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Durante)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS entrevista)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Herald)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS telefone)
+    )
+    (VB toca)
+   )
+  )
+ )
+)

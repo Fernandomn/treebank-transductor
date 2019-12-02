@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS achado)
+     (ADJP 
+      (ADJP 
+       (VB realizado)
+       (PP 
+        (IN por)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS criança)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (RB ali)
+             (VB brincava)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ocorrera)
+    (CONJP 
+     (S 
+      (VP 
+       (VP 
+        (VB há)
+        (RB já)
+       )
+       (NP 
+        (PRP alguns)
+        (NNS dias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

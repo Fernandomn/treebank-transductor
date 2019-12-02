@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Fenasoft)
+   )
+   (VP 
+    (VBP deixou)
+    (IN de)
+    (VB ser)
+   )
+   (NP 
+    (DT um)
+    (NN reduto)
+    (PP 
+     (IN de)
+     (NP 
+      (NN especialistas)
+      (PP 
+       (IN em)
+       (NP 
+        (NN informática)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB atrair)
+     )
+     (ADVP 
+      (RB também)
+     )
+     (VP 
+      (NP 
+       (PRP quem)
+      )
+      (VP 
+       (VBP pretendia)
+      )
+      (VP 
+       (VP 
+        (VB comprar)
+       )
+       (NP 
+        (DT o)
+        (JJ primeiro)
+        (NN computador)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NNP Instituto_Médico_Legal)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Taboão_da_Serra)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT todas)
+    (DT as)
+    (NN vítimas)
+   )
+   (VP 
+    (VBP levaram)
+   )
+   (NP 
+    (RB mais_de)
+    (CD um)
+    (NN 
+     (NP 
+      (DT a)
+      (NN maioria)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN cabeça)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN hora)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN invasão)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN delegacia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP havia)
+   )
+   (NP 
+    (DT um)
+    (NN motorista)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN plantão)
+    )
+   )
+  )
+ )
+)

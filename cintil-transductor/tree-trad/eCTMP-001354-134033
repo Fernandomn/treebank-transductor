@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB exibe)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS programa)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS acção)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS SEC)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

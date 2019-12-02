@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Primeiro)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS consulta)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (JJ vinculativa)
+    )
+   )
+  )
+ )
+)

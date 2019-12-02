@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS relação)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB encontrámos)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB foi)
+      )
+      (JJ significativa)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS caso)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS mulheres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (ADJP 
+     (JJ argentino)
+    )
+    (NP 
+     (NNP Carlos_Menem)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP lançará)
+    )
+    (NP 
+     (DT sua)
+     (NN candidatura)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN eleição)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 2003)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN se)
+    (VP 
+     (VBP for)
+     (VBN eleito)
+    )
+    (PP 
+     (IN em)
+     (ADJP 
+      (CD 1995)
+     )
+    )
+   )
+  )
+ )
+)

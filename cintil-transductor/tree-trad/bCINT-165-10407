@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS caso)
+   )
+   (VP 
+    (VP 
+     (VB começou)
+     (PP 
+      (IN em)
+      (NP 
+       (CD 19)
+       (NP 
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Junho)
+           (PP 
+            (IN de)
+            (NP 
+             (CD 1978)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS secretário)
+         (NNS de)
+         (NNS Estado)
+         (NNS de_)
+         (NNS as)
+         (NNS Obras)
+         (NNS Públicas)
+        )
+       )
+       (VP 
+        (VB despachou)
+        (NP 
+         (DT a)
+         (NNS expropriação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

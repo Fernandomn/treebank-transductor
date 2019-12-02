@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN realidade)
+    )
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP aumenta)
+   )
+   (VP 
+    (ADVP 
+     (RB à_medida_que)
+    )
+    (NP 
+     (DT as)
+     (NN pessoas)
+    )
+    (VP 
+     (VBP ascendem)
+    )
+    (NP 
+     (DT a)
+     (NN escada)
+     (ADJP 
+      (JJ socioeconômica)
+     )
+    )
+   )
+  )
+ )
+)

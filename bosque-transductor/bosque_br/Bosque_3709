@@ -1,0 +1,120 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN escolha)
+    (ADJP 
+     (RB tão)
+     (JJ particular)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Sobral)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (PP 
+        (IN por)
+        (VP 
+         (VP 
+          (VB ser)
+         )
+         (ADJP 
+          (CD uma)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT as)
+            (JJ principais)
+            (NN cidades)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NNP Ceará)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VBP é)
+       )
+       (ADVP 
+        (RB também)
+       )
+       (NP 
+        (DT uma)
+        (JJ grande)
+        (NN concentração)
+        (ADJP 
+         (JJ eleitoral)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN Estado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP coincide)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT sua)
+     (NN escolha)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN ação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN campanha)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (ADVP 
+           (RB lá)
+          )
+          (VP 
+           (VBP fez)
+          )
+          (NP 
+           (DT o)
+           (NN candidato)
+           (NP 
+            (NNP Fernando_Henrique)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NN fim-de-semana)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

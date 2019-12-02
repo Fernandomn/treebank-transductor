@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS aeronave)
+   )
+   (VP 
+    (VB seria)
+    (ADJP 
+     (JJ proveniente)
+     (PP 
+      (IN de_)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS vila)
+         (NNS de)
+         (NNS Damba)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS município)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Uíge)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

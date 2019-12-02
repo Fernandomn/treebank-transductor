@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esse)
+       (NNS aspecto)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS FC)
+       (NNS Porto)
+      )
+     )
+     (VP 
+      (VB tem)
+      (VP 
+       (VB sido)
+       (JJ cuidadoso)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB mantém)
+       (RB sempre)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS elos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS ligação)
+           (PP 
+            (IN com)
+            (NP 
+             (DT o)
+             (NNS passado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

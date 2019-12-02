@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN família)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Christiane)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP gastou)
+   )
+   (ADVP 
+    (RB aproximadamente)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 1)
+     (NN milhão)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB tentar)
+     )
+     (NP 
+      (DT a)
+      (DT sua)
+      (NN libertação)
+     )
+    )
+   )
+  )
+ )
+)

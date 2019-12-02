@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS encontro)
+   )
+   (VP 
+    (VP 
+     (VB teria)
+     (PP 
+      (IN por)
+      (NP 
+       (NNS objectivo)
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS análise)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS soluções)
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS futuro)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NNS trabalhadores)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

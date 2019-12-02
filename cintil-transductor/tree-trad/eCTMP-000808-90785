@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS volume)
+      (JJ negociado)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS segmento)
+      )
+     )
+    )
+   )
+   (VB diminuiu)
+  )
+ )
+)

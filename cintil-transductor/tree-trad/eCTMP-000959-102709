@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Everton)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ mero)
+       (NNS espectador)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+       (NNS parte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

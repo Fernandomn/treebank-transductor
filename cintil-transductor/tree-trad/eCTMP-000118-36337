@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (ADVP 
+      (RB Finalmente)
+     )
+     (S 
+      (S 
+       (VP 
+        (VB foram)
+        (VB instaladas)
+       )
+       (NP 
+        (NNS luzes)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS interior)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT os)
+      (NNS fios)
+     )
+     (VP 
+      (VB ficaram)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS vista)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

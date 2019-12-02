@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Mesmo)
+    )
+    (VP 
+     (VBN indexado)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN salário)
+    (VP 
+     (VP 
+      (VBN convertido)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN cruzeiros)
+       (ADJP 
+        (JJ reais)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP continua)
+    (IN a)
+    (VB ser)
+    (VBN corroído)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN inflação)
+    )
+   )
+  )
+ )
+)

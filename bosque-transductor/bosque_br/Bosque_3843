@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN bombeiros)
+   )
+   (VP 
+    (VBP pediram)
+   )
+   (NP 
+    (NN ajuda)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Cebimar)
+     (NP 
+      (NNP Centro_de_Biologia_Marinha)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP USP)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB apurar)
+     )
+     (NP 
+      (DT as)
+      (NN causas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN morte)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN golfinho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

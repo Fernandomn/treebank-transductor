@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS plano)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS ataque)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB parece)
+    (VP 
+     (VP 
+      (VB ser)
+      (RB sempre)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

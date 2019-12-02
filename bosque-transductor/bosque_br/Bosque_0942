@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN proposta)
+    (ADJP 
+     (JJ plausível)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (PP 
+     (IN de)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VB fixar)
+      )
+      (NP 
+       (DT um)
+       (NN prazo)
+       (VBN determinado)
+       (NP 
+        (ADJP 
+         (ADJP 
+          (CD três)
+         )
+         ou
+         (ADJP 
+          (CD quatro)
+         )
+        )
+        (NN meses)
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (IN que)
+         (NP 
+          (DT a)
+          (NN sociedade)
+         )
+         (NP 
+          (PRP se)
+         )
+         (VP 
+          (VBP adapte)
+         )
+         (ADVP 
+          (RB voluntariamente)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT a)
+           (NN URV)
+          )
+         )
+         (VP 
+          (VP 
+           (VBG estabelecendo)
+          )
+          (NP 
+           (NN regras)
+           (VBN privadas)
+           (PP 
+            (IN de)
+            (NP 
+             (NN conversão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

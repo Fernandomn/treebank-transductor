@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS posição)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VP 
+      (VB anunciada)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD última)
+         (NNS segunda-feira)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS embaixador)
+         (NP 
+          (NNS Richard)
+          (NNS Schifter)
+         )
+        )
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB chefia)
+            (NP 
+             (DT a)
+             (NP 
+              (NP 
+               (NNS delegação)
+               (JJ norte-americana)
+              )
+              (PP 
+               (IN em)
+               (NP 
+                (NNS Genebra)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

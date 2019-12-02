@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Folha)
+   )
+   (VP 
+    (VBP chegou)
+    (IN a)
+    (VB escrever)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (JJ melhor)
+     (NN piloto)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mundo)
+      )
+     )
+     (NP 
+      (NNP Senna)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN direção)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (JJ melhor)
+        (NN carro)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN mundo)
+         )
+        )
+        (NP 
+         (DT a)
+         (NNP Williams)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP teria)
+    )
+    (NP 
+     (DT sua)
+     (NN consagração)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN autódromo)
+     )
+    )
+   )
+  )
+ )
+)

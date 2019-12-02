@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS semana)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB duplamente)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS semana)
+      (PP 
+       (IN sem)
+       (NP 
+        (NNS leis)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

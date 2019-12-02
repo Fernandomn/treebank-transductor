@@ -1,0 +1,106 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Sindicato_dos_Metalúrgicos)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Rio)
+      )
+     )
+     e
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Grande_Rio)
+       (NP 
+        (NN data-base)
+        (PP 
+         (IN em)
+         (NP 
+          (NN outubro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP reúne)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN representantes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Firjan)
+       (NP 
+        (NN federação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (NN indústrias)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NNP Rio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB pela_primeira_vez)
+   )
+   (PP 
+    (IN desde)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN greve)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN categoria)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN terça-feira)
+    )
+   )
+  )
+ )
+)

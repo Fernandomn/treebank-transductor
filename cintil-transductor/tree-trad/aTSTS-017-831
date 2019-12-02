@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS João)
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (RB diariamente)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT uma)
+      (NNS manifestação)
+     )
+    )
+   )
+  )
+ )
+)

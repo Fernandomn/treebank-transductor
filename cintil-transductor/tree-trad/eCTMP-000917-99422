@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS cenário)
+   )
+   (VP 
+    (ADVP 
+     (RB contudo)
+    )
+    (VP 
+     (VB acabaria)
+     (PP 
+      (IN por)
+      (VP 
+       (VP 
+        (VB ser)
+        (VB recompensado)
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS passagem)
+           (PP 
+            (IN por_)
+            (NP 
+             (DT as)
+             (NP 
+              (NNS Caldas)
+              (NNS de_)
+              (NNS a)
+              (NNS Rainha)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS pista)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Alpiarça)
+               (CONJP 
+                (CONJP 
+                 (RB onde)
+                 (S 
+                  (NP 
+                   (DT a)
+                   (NNS etapa)
+                  )
+                  (VP 
+                   (VB acabou)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

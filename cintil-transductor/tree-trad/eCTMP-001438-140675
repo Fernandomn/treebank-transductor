@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NNS Algarve)
+     (JJ estranho)
+    )
+    (ADJP 
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ real)
+      )
+      de_ o que
+      (NP 
+       (DT o)
+       (NP 
+        (JJ real)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

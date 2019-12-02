@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS conflito)
+     (JJ israelo-árabe)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB pode)
+    )
+    (VP 
+     (VP 
+      (VB ser)
+      (VB solucionado)
+     )
+     (S 
+      (VP 
+       (VB excluindo)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (JJ principal)
+          (NP 
+           (NNS porta-voz)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS povo)
+              (JJ palestiniano)
+             )
+            )
+           )
+          )
+         )
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB é)
+             (NP 
+              (DT a)
+              (NNS OLP)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

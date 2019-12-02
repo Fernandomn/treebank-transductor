@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tinha)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS buraco)
+       (JJ redondo)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS parte)
+          (JJ superior)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS crânio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

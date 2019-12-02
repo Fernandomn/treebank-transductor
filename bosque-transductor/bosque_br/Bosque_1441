@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (ADJP 
+     (RB mais)
+     (VBN cotado)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN senador)
+    (NP 
+     (NNP Esperidião_Amin)
+    )
+    (NP 
+     (NNP SC)
+    )
+   )
+  )
+ )
+)

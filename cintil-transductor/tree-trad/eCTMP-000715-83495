@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Eliminou)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Cunha)
+         (NNS e)
+         (NNS Silva)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Nuno)
+          (NNS Marques)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB cedeu)
+       )
+       (NP 
+        (DT um)
+        (NP 
+         (JJ único)
+         (NP 
+          (NNS set)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT a)
+     (NNS competição)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Portas)
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PÚBLICO)
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (NP 
+        (DT o)
+        (NNS Governo)
+       )
+       (VP 
+        (VB está)
+        (ADJP 
+         (JJ debilitado)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS doença)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS ministro)
+               (JJ inútil)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB no_entanto)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN lei)
+     (NP 
+      (NN antitruste)
+     )
+     (VP 
+      (VP 
+       (VBN aprovada)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN Congresso)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP reflete)
+    )
+    (NP 
+     (DT o)
+     (NN clima)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT o)
+       (NN país)
+      )
+      (VP 
+       (VBP está)
+       (VBG vivendo)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT essa)
+        (NN fase)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP antecede)
+         )
+         (NP 
+          (DT o)
+          (NN lançamento)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN real)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

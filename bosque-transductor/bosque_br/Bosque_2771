@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lucena)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP declarou)
+   )
+   (VP 
+    (VP 
+     (VBN pressionado)
+    )
+    (PP 
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN imprensa)
+      )
+     )
+     e
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN necessidade)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB buscar)
+         )
+         (NP 
+          (DT o)
+          (NN quórum)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT as)
+           (NN sessões)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN revisão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

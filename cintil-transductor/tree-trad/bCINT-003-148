@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Médio)
+       (NNS Oriente)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (RB apenas)
+     (NP 
+      (NNS Israel)
+     )
+    )
+    (VP 
+     (VB saudou)
+     (NP 
+      (DT a)
+      (NNS operação)
+     )
+    )
+   )
+  )
+ )
+)

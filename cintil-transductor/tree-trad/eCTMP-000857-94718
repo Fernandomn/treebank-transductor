@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (PRP cada)
+      (NNS vez)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS cenário)
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT este)
+     )
+    )
+   )
+  )
+ )
+)

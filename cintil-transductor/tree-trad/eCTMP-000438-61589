@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS princípio)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ novo)
+         (NNS secretário-geral)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB será)
+      (VB divulgado)
+     )
+     (PP 
+      (PP 
+       (IN até)
+       (IN a_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS fim)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Outubro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

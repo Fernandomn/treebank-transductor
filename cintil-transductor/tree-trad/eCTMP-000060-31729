@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB conheço)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS fotografia)
+       (PP sua)
+      )
+      (CONJP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (PRP qual)
+        )
+       )
+       (S 
+        (NP 
+         (NP 
+          (DT a)
+          (NNS dor)
+         )
+         (NP 
+          (NP 
+           (NP 
+            (DT o)
+            (NNS desespero)
+           )
+           (NP 
+            (NP 
+             (NP 
+              (DT a)
+              (NNS cólera)
+             )
+             (NP 
+              (NP 
+               (NP 
+                (DT a)
+                (NNS volúpia)
+               )
+               (NP 
+                (CC ou)
+                (NP 
+                 (DT a)
+                 (NNS intimidade)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VB sejam)
+          (VB explorados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

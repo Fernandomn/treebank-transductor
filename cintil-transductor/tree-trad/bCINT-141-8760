@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Absent)
+     (NNS Friends)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS título)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ novo)
+         (NNS disco)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

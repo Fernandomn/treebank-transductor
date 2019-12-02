@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN A_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS contrário)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VB é)
+              (JJ habitual)
+             )
+             (CONJP 
+              (CC quando)
+              (S 
+               (VB acontecem)
+               (NP 
+                (NP 
+                 (JJ grandes)
+                 (NNS desaires)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS vozes)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB viraram)
+      )
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS equipa)
+         (JJ técnica)
+        )
+        (NP 
+         (CC e)
+         (NNS jogadores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

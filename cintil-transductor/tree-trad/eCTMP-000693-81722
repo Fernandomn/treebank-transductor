@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS corpo)
+   )
+   (VP 
+    (VB apresentava)
+    (NP 
+     (NP 
+      (NNS escoriações)
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS feridas)
+         (ADJP 
+          (RB mais)
+          (JJ profundas)
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NP 
+            (NNS parte)
+            (JJ esquerda)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS rosto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

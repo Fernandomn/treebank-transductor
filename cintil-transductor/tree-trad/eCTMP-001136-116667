@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS mãos)
+   )
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB de)
+      (RB novo)
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN a)
+       (VP 
+        (VB preparar)
+        (NP 
+         (DT as)
+         (NNS tábuas)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a)
+        (VP 
+         (VB cortá)
+         (NP 
+          (PRP -las)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

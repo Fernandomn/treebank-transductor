@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN assessoria)
+    (PP 
+     (IN de)
+     (NP 
+      (NN imprensa)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Secretaria_de_Vias_Públicas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN prefeitura)
+    )
+    (ADVP 
+     (RB só)
+    )
+    (VP 
+     (VBP vai)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VB manifestar)
+    )
+    (PP 
+     (IN depois)
+     (VP 
+      (IN que)
+      (VP 
+       (VBP for)
+       (VBN notificada)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT a)
+        (NN Justiça)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

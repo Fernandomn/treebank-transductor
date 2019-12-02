@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Amanhã)
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS franceses)
+    )
+    (VP 
+     (VB terão)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ novo)
+       (NNS presidente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

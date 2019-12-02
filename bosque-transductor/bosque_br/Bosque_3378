@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN apelo)
+    (ADJP 
+     (JJ pop)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN evento)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP está)
+    (VBG causando)
+   )
+   (NP 
+    (NN reações)
+   )
+  )
+ )
+)

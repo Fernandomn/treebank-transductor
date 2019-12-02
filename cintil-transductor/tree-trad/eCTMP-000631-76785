@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vamos)
+     (VP 
+      (VB assistir)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT as)
+        (NP 
+         (ADJP 
+          (RB mais)
+          (JJ espectaculares)
+         )
+         (NNS cambalhotas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

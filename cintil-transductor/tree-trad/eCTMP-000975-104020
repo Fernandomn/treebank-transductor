@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Cunhal)
+  )
+  (VP 
+   (VB viaja)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Barreiro)
+      (ADJP 
+       (JJ profundo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

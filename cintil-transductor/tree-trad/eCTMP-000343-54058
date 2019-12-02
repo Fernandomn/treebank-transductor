@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Anteriormente)
+   )
+   (S 
+    (NP 
+     (DT este)
+     (NNS executivo)
+    )
+    (VP 
+     (VP 
+      (VB desempenhava)
+      (NP 
+       (NNS funções)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Hewlett-Packard)
+      )
+     )
+    )
+   )
+  )
+ )
+)

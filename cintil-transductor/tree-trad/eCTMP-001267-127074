@@ -1,0 +1,55 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Programa)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS comemorações)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD 450)
+          (NP 
+           (NNS anos)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (NP 
+               (NNS chegada)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT os)
+                 (NNS portugueses)
+                )
+               )
+              )
+              (PP 
+               (IN a_)
+               (NP 
+                (DT o)
+                (NNS Japão)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

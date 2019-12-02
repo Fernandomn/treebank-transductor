@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabia)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (DT outros)
+        (NNS países)
+       )
+      )
+     )
+     (S 
+      (NP 
+       (DT isso)
+      )
+      (VB aconteceu)
+     )
+    )
+   )
+  )
+ )
+)

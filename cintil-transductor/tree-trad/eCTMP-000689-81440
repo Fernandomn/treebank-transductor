@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS ONU)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB denunciou)
+      (NP 
+       (DT o)
+       (NNS facto)
+      )
+     )
+     (PP 
+      (IN durante)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS reunião)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Comissão)
+           (NNS de_)
+           (NNS os)
+           (NNS Direitos)
+           (NNS Humanos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (NP 
+        (DT esta)
+        (NNS semana)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Geneve)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

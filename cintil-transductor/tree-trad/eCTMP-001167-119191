@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NNS erupção)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB sempre)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS calamidade)
+      (CONJP 
+       (NP 
+        (DT cuja)
+        (NNS ameaça)
+       )
+       (S 
+        (VP 
+         (VB pesa)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS vida)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS ilha)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

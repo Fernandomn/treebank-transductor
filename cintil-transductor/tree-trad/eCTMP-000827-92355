@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabemos)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (S 
+         (VP 
+          (VB representou)
+         )
+         (NP 
+          (DT o)
+          (NP 
+           (NNS exacerbamento)
+           (JJ nacionalista)
+          )
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS termos)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS guerras)
+              (JJ europeias)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Um)
+    (NN dia)
+   )
+   (NP 
+    (NNP Juscelino)
+   )
+   (VP 
+    (VBP comunicou)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Alkimin)
+    )
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP estava)
+     (VBG namorando)
+    )
+    (NP 
+     (DT a)
+     (NN moça)
+     (NP 
+      (NNP Sara_Lemos)
+     )
+     (NP 
+      (NN filha)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN político)
+        (NP 
+         (NNP Jayme_Lemos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

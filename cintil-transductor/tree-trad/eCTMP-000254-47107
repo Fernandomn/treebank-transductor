@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Recuperados)
+   )
+   (NP 
+    (NNS cadáveres)
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (NP 
+     (DT a)
+     (NNS Murtosa)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Tomar)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS Funchal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

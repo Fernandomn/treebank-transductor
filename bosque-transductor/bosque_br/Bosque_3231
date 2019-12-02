@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Levantamento)
+    (VP 
+     (VP 
+      (VBN realizado)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (NN pacientes)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP ingeriram)
+        )
+        (NP 
+         (NN cápsulas)
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NN substância)
+          )
+         )
+        )
+        (PP 
+         (IN entre)
+         (UCP 
+          (NP 
+           (CD 1969)
+          )
+          e
+          (ADJP 
+           (CD 1992)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP indicou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (CD 16)
+     (NN pessoas)
+    )
+    (VP 
+     (VBP podem)
+     (VB ter)
+     (VBN morrido)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN consequência)
+      (PP 
+       (IN de)
+       (NP 
+        (NP contra-indicações)
+        (VP 
+         (VP 
+          (VBN causadas)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN sulfato)
+           (PP 
+            (IN de)
+            (NP 
+             (NN quinino)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

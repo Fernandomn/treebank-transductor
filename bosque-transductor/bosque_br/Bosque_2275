@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP levanta)
+      )
+      (NP 
+       (DT a)
+       (NN discussão)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP deixa)
+      )
+      (NP 
+       (DT o)
+       (NN conflito)
+       (PP 
+        (IN de)
+        (NP 
+         (NN idéias)
+        )
+       )
+      )
+      (VP 
+       (VB rolar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Manoela_Nicoletti)
+    (ADJP 
+     (CD 15)
+    )
+   )
+  )
+ )
+)

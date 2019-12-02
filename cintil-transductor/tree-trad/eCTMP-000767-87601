@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Para)
+      (IN além)
+      (IN de_)
+     )
+     (NP 
+      (DT essa)
+      (NP 
+       (NNS ilha)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS matéria)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB existiriam)
+     (NP 
+      (PRP muitas)
+      (NP 
+       (JJ outras)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB constituindo)
+        (RB assim)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NP 
+          (NP 
+           (NNS universo)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS ilhas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

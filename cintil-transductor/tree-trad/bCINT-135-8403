@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foram)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (CD primeiras)
+       (NP 
+        (NNS bandas)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB vimos)
+            (ADVP 
+             (RB a_)
+             (RB o)
+             (RB vivo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

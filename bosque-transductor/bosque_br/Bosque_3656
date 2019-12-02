@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lula)
+   )
+   (VP 
+    (VBP tem)
+    (VBN repetido)
+   )
+   (NP 
+    (DT uma)
+    (NN frase)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (NN conversas)
+     (PP 
+      (IN com)
+      (NP 
+       (NN amigos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

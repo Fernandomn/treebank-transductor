@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outras)
+    (NP 
+     (NNS ajudas)
+     (JJ portuguesas)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB têm)
+      (VP 
+       (VB sido)
+       (VB desenvolvidas)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Angola)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS domínio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS investigação)
+          (JJ científica)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Pode)
+    (VB ser)
+    (VBN condenado)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN açoite)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT seu)
+     (NN compatriota)
+     (NP 
+      (NNP Michael_Fay)
+     )
+     (ADJP 
+      (CD 18)
+     )
+     (VP 
+      (VP 
+       (VBN preso)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (DT mesma)
+        (NN ocasião)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

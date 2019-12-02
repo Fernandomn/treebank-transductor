@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Para)
+     (RB já)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS lançamento)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (ADJP 
+          (JJ novas)
+          (ADJP 
+           (CC e)
+           (JJ espectaculares)
+          )
+         )
+         (NP 
+          (NNS versões)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (PP seus)
+             (NNS programas-chave)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

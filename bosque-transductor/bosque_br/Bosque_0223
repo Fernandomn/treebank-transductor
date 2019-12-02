@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Trata-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (JJ segundo)
+     (NN volume)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN exploração)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN pop)
+         (ADJP 
+          (JJ asiático)
+         )
+        )
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNP David_Byrne)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

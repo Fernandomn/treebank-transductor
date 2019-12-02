@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NNP Boniperti)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP despede)
+   )
+   (NP 
+    (DT o)
+    (NN técnico)
+    (NP 
+     (NNP Giovanni_Trapattoni)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP cederá)
+      )
+      (NP 
+       (DT o)
+       (VBN posto)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NNP Marcello_Lippi)
+       )
+      )
+      (ADVP 
+       (RB hoje)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Napoli)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

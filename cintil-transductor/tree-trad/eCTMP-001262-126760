@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT os)
+      (NNS militares)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS forças)
+      (JJ turcas)
+     )
+    )
+    (VP 
+     (VP 
+      (VB perderam)
+      (NP 
+       (CD 40)
+       (NNS homens)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS operação)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS Iraque)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

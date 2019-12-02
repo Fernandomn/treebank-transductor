@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Disaster_Movie)
+    (PP 
+     (IN de)
+     (ADJP 
+      (CD 1979)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT uma)
+    (NN revelação)
+   )
+   (VP 
+    (PP 
+     (IN apesar_de+)
+     (NP 
+      (DT a)
+      (NN produção)
+      (VBN apertada)
+     )
+    )
+    (NP 
+     (DT esse)
+     (NN curta-metragem)
+    )
+    (VP 
+     (VBP revelava)
+    )
+    (NP 
+     (DT um)
+     (NN talento)
+     (ADVP 
+      (RB 
+       (SBAR que
+        (S 
+         (JJ incontestável)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

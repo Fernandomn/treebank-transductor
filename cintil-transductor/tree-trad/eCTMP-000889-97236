@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS região)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS temperatura)
+    )
+    (VP 
+     (VP 
+      (VB rondava)
+      (RB ontem)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS grau)
+       (JJ positivo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

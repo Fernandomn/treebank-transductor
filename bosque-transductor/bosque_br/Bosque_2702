@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP PRN)
+   )
+   (VP 
+    (VBP decide)
+   )
+   (VP 
+    (VP 
+     (VB expulsar)
+    )
+    (NP 
+     (NN candidato)
+     (PP 
+      (IN a)
+      (NP 
+       (NN presidente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

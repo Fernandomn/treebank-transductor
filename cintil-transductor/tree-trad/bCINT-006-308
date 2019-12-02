@@ -1,0 +1,101 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Passou)
+    (PP 
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VP 
+         (VP 
+          (VB arrumar)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NP 
+            (NNS lugares)
+            (JJ certos)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (DT a)
+         (NNS roupa)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS objectos)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS uso)
+              (JJ pessoal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB dar)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS atenção)
+           (JJ rigorosa)
+          )
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS espaços)
+           (CONJP 
+            (PP 
+             (IN em)
+             (NP 
+              (PRP que)
+             )
+            )
+            (S 
+             (VP 
+              (VP 
+               (NP 
+                (PRP se)
+               )
+               (VB movimenta)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

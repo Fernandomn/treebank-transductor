@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS filme)
+    )
+    (VB perturbou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (ADVP 
+      (RB ontem)
+     )
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS atribuição)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS prémio)
+          )
+         )
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (NNS Victoire)
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB foi)
+        (PP 
+         (PP 
+          (IN para)
+          (NP 
+           (PRP alguns)
+          )
+         )
+        )
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS cúmulo)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS monstruosidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

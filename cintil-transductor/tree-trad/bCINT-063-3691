@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS Universidade)
+     )
+     (VP 
+      (PP 
+       (PP 
+        (IN durante)
+        (NP 
+         (PRP muitos)
+         (NNS anos)
+        )
+       )
+      )
+      (VP 
+       (VB esqueceu)
+       (NP 
+        (DT a)
+        (NNS cidade)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (RB só)
+      (S 
+       (RB agora)
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB está)
+        )
+        (PP 
+         (IN a)
+         (VP 
+          (VB recuperar)
+          (NP 
+           (DT esse)
+           (NNS diálogo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

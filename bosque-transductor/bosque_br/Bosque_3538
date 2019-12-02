@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN diretor-presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Yashica)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Brasil)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Kazuo_Tamura)
+    )
+    (ADJP 
+     (CD 56)
+    )
+   )
+   (VP 
+    (VBP morreu)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT um)
+     (NN acidente)
+     (PP 
+      (IN de)
+      (NP 
+       (NN carro)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB ontem_de_manhã)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+  )
+ )
+)

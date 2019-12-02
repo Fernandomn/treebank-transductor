@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS David)
+     (NNS Lopes)
+     (NNS Ramos)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS José)
+       (NNS Manuel)
+       (NNS Fernandes)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Maria)
+        (NNS Augusta)
+        (NNS Gonçalves)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

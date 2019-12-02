@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS imigrantes)
+      (JJ africanos)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NNS bairros)
+         (JJ degradados)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS núcleos)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS habitação)
+             (JJ social)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

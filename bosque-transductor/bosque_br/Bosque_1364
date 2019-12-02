@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP sei)
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP vai)
+      (VB querer)
+     )
+     (NP 
+      (DT meu)
+      (NN apoio)
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP farei)
+    )
+    (NP 
+     (PRP tudo)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP puder)
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (PRP ele)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Até)
+    (NP 
+     (DT o)
+     (NN meio-dia)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN desembargador)
+   )
+   (VP 
+    (VBP estava)
+    (VBG tentando)
+   )
+   (NP 
+    (DT um)
+    (NN contato)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NN governador)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB definir)
+      )
+      (VP 
+       (IN se)
+       (VP 
+        (VP 
+         (VP 
+          (VBP aceitava)
+         )
+        )
+        ou
+        (VP 
+         (ADVP 
+          (RB não)
+         )
+         (NP 
+          (DT o)
+          (NN cargo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

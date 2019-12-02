@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Aguilera)
+   )
+   (VP 
+    (VP 
+     (VB chegou)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD sétimo)
+        (NP 
+         (NNS lugar)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS ranking)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS Setembro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esse)
+          (NNS ano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

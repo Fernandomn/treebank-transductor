@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NN contracultura)
+    )
+    (NP 
+     (DT o)
+     (NN movimento)
+     (PP 
+      (IN por+)
+      (NP 
+       (DT os)
+       (NN direitos)
+       (ADJP 
+        (JJ civis)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (JJ terceira)
+     (NN onda)
+     (ADJP 
+      (JJ gay)
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (RB 
+      (NN correto)
+     )
+    )
+   )
+   (VP 
+    (VBP nasceram)
+   )
+   (ADVP 
+    (RB aqui)
+   )
+  )
+ )
+)

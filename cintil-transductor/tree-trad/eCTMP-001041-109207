@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Talvez)
+    (VP 
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ caro)
+      )
+      (ADJP 
+       (CC e)
+       (ADJP 
+        (RB mais)
+        (JJ inseguro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

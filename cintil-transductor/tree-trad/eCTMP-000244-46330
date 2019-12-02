@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS comunidades)
+   )
+   (VP 
+    (VP 
+     (VB estavam)
+     (JJ confinadas)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS ponto)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS vista)
+         )
+        )
+       )
+       (JJ geográfico)
+      )
+     )
+    )
+   )
+  )
+ )
+)

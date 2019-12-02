@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Dois)
+    (NNS batedores)
+   )
+   (VP 
+    (VB vão)
+    (VP 
+     (VB ocupar)
+     (NP 
+      (NP 
+       (NNS posições)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS defesa)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (JJ respectivos)
+             (NP 
+              (NNS triângulos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

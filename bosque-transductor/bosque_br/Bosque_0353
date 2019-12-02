@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (NNP José_Sarney)
+    )
+    (VP 
+     (VBP começou)
+     (IN a)
+     (VB escrever)
+    )
+    (ADVP 
+     (RB semanalmente)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN Folha)
+     )
+    )
+   )
+   (VP 
+    (VBP chegaram)
+   )
+   (NP 
+    (NN protestos)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN redação)
+    )
+   )
+  )
+ )
+)

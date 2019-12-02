@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NP 
+       (NNS contactos)
+       (PP 
+        (IN entre)
+        (NP 
+         (NP 
+          (NNS Belém)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Largo)
+            (NNS de_)
+            (NNS o)
+            (NNS Rato)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB são)
+      (JJ frequentes)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NP 
+          (NNS linha)
+          (JJ directa)
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB funciona)
+           (PP 
+            (IN com)
+            (NP 
+             (NNS regularidade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

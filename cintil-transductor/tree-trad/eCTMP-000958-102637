@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ela)
+    )
+    (VP 
+     (VB disse)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (NNS Portas)
+       )
+       (VP 
+        (VB perdia)
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Rato)
+           (NNS Mickey)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

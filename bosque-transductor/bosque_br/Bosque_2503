@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN percurso)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP será)
+      (VBN divulgado)
+     )
+     (NP 
+      (NN momentos)
+      (ADVP 
+       (RB antes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN prova)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB incluir)
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN avenida)
+     (NP 
+      (NNP Bandeirantes)
+     )
+    )
+    (NP 
+     (NN via)
+     (NP 
+      (NNP Anchieta)
+     )
+    )
+    (NP 
+     (NN represa)
+     (NP 
+      (NNP Billings)
+     )
+    )
+    e
+    (NP 
+     (NN chegada)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NNP av._Nove_de_Julho)
+       (ADVP 
+        (RB em_frente)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NNP Banana_Banana)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

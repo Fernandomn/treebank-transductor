@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (IN Por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS estrada)
+         (JJ nacional)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB são)
+        (NP 
+         (CD 20)
+         (NNS quilómetros)
+        )
+       )
+       (PP 
+        (IN entre)
+        (NP 
+         (NP 
+          (NNS Aveiras)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT o)
+           (NNS Carregado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NNS auto-estrada)
+        )
+       )
+       (VP 
+        (VB são)
+        (NP 
+         (CD 16)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN país)
+   )
+   (VP 
+    (VBP vive)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT este)
+     (NN momento)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN parte)
+    (ADJP 
+     (RB mais)
+     (JJ crucial)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ grande)
+      (NN luta)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT a)
+        (NN implantação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN cidadania)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

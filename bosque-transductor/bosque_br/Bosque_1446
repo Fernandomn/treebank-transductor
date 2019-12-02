@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT o)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT a)
+       (NN Folha)
+      )
+      (VP 
+       (VBP apurou)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN equipe)
+    (ADJP 
+     (JJ econômica)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VP 
+    (VP 
+     (VBN disposta)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB aceitar)
+      )
+      (NP 
+       (NN modificações)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT os)
+         (NN dispositivos)
+         (PP 
+          (IN sobre)
+          (NP 
+           (NN salários)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN medida)
+             (ADJP 
+              (JJ provisória)
+             )
+             (VP 
+              (NP 
+               (PRP que)
+              )
+              (VP 
+               (VBP instituiu)
+              )
+              (NP 
+               (DT a)
+               (NN URV)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

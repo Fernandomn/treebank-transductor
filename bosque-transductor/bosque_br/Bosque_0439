@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN rebeldia)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT um)
+     (NN ato)
+     (ADJP 
+      (JJ pessoal)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT a)
+     (NN revolução)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT uma)
+     (NN manifestação)
+     (ADJP 
+      (JJ coletiva)
+     )
+    )
+   )
+  )
+ )
+)

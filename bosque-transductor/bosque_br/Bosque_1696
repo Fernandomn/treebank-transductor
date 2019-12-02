@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Parque_São_Carlos)
+   )
+   (VP 
+    (VBP é)
+    (VBN habitado)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN moradores)
+     (PP 
+      (IN de)
+      (NP 
+       (NN renda)
+       (ADJP 
+        (JJ baixa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

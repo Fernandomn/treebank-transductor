@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN escolas)
+   )
+   (VP 
+    (VBP limitam)
+   )
+   (NP 
+    (DT os)
+    (NN vestibulinhos)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT algumas)
+     (NN séries)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP têm)
+      )
+      (NP 
+       (JJ maior)
+       (NN procura)
+       (PP 
+        (IN por)
+        (NP 
+         (NN vagas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (VP 
+     (VBP vai)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP limita)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB comprar)
+     )
+     (NP 
+      (NN blazers)
+      (ADJP 
+       (JJ caros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

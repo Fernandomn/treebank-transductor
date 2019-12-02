@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Estudo)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS investigação)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Economia)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Portugal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

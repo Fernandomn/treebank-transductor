@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Aumento)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN número)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NN passes)
+        )
+        e
+        (NP 
+         (NN lançamentos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP aproxima)
+   )
+   (NP 
+    (NN futebol)
+    (ADJP 
+     (JJ brasileiro)
+    )
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VBN praticado)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN Mundial)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NNP EUA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

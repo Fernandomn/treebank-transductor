@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT o)
+     (NN correio)
+     (ADJP 
+      (JJ expresso)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN frete)
+   )
+   (VP 
+    (VBP custa)
+   )
+   (PP 
+    (IN próximo_de)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 50)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Várias)
+    (NN empresas)
+    (VP 
+     (VP 
+      (VBN ligadas)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT este)
+       (NN Ministério)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP converteram)
+   )
+   (NP 
+    (DT os)
+    (NN salários)
+   )
+   (PP 
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN pico)
+     )
+    )
+    e
+    (PP 
+     (RB não)
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN média)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (JJ últimos)
+        (CD quatro)
+        (NN meses)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

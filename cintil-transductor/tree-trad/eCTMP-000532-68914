@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+    )
+   )
+   (VP 
+    (VB afirmou)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NNS profissionalismo)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (NP 
+        (NP 
+         (NNS panaceia)
+         (PP 
+          (IN para)
+          (NP 
+           (PRP tudo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

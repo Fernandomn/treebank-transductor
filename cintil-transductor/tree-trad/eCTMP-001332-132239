@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS dinheiro)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS bilhetes)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (VB devolvido)
+    )
+   )
+  )
+ )
+)

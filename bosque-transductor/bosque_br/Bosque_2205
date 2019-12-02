@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Propaganda_-_O_Poder_da_Imagem)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN tipo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN série)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP poderia)
+        (VB ser)
+        (VBN adotada)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN proveito)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT os)
+         (NN currículos)
+         (ADJP 
+          (JJ escolares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

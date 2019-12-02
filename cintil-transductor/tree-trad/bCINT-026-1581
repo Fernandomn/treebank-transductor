@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS comissão)
+   )
+   (VP 
+    (VP 
+     (VB apreciará)
+     (RB também)
+    )
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (NP 
+       (CD quatro)
+       (CD mil)
+      )
+     )
+     (NP 
+      (NNS processos)
+      (ADJP 
+       (VB herdados)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Governo)
+          (JJ anterior)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Cuíto)
+      (CONJP 
+       (CONJP 
+        (RB onde)
+        (S 
+         (NP 
+          (DT o)
+          (NNS CICV)
+         )
+         (VP 
+          (VP 
+           (VB é)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ única)
+             (NP 
+              (NP 
+               (NNS estrutura)
+               (JJ humanitária)
+              )
+              (JJ presente)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (JJ numerosos)
+      (NP 
+       (NNS feridos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS guerra)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB recebem)
+     )
+     (NP 
+      (PRP qualquer)
+      (NNS auxílio)
+     )
+    )
+   )
+  )
+ )
+)

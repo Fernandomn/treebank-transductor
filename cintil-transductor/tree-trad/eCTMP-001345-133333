@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS terra)
+   )
+   (VP 
+    (VP 
+     (VB voltou)
+     (RB ontem)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB tremer)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NNS Açores)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (CD vigésima)
+          (NP 
+           (NNS vez)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT os)
+             (NP 
+              (CD últimos)
+              (NP 
+               (CD oito)
+               (NNS dias)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

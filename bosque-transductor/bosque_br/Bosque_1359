@@ -1,0 +1,99 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN modelo)
+    (NP 
+     (NNP Monique_Evans)
+    )
+    (ADJP 
+     (CD um)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN destaques)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Carnaval)
+        (ADJP 
+         (JJ carioca)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT este)
+          (NN ano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB submeter-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT uma)
+     (NN tomografia)
+     (ADJP 
+      (JJ computadorizada)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN semana)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB verificar)
+     )
+     (NP 
+      (DT a)
+      (NN origem)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NN pontinho)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP apareceu)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (DT seu)
+           (NN rim)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

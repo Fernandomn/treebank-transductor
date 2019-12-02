@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN veto)
+   )
+   (VP 
+    (VBP impediu)
+   )
+   (NP 
+    (DT a)
+    (NN declaração)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP pedia)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN sérvios)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Bósnia)
+        )
+       )
+      )
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (VBP parassem)
+      )
+      (NP 
+       (NN ataques)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN encrave)
+        (ADJP 
+         (JJ muçulmano)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Bihac)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

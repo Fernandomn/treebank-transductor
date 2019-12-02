@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN equipe)
+   )
+   (VP 
+    (VBP vem)
+    (VBG treinando)
+   )
+   (ADJP 
+    (JJ junta)
+   )
+   (PP 
+    (IN há)
+    (NP 
+     (DT pouco)
+     (NN tempo)
+    )
+   )
+  )
+ )
+)

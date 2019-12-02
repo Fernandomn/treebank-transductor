@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Mais_uma_vez)
+   )
+   (NP 
+    (DT o)
+    (NN pivô)
+    (NP 
+     (NNP Hakeem_Olajuwon)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (NN fator)
+    (PP 
+     (IN de)
+     (NP 
+      (NN desequilíbrio)
+      (PP 
+       (IN a_favor_de+)
+       (NP 
+        (DT o)
+        (NNP Houston)
+        (NP 
+         (DT um)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (ADJP 
+            (RB mais)
+            (VBN destacados)
+           )
+           (NN times)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN campeonato)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

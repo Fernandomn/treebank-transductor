@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Abram_Szajman)
+    (ADJP 
+     (CD 58)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN presidente)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Federação_do_Comércio)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Estado)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+      )
+     )
+     e
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Conselho_Deliberatico)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Sebrae-SP)
+         (NP 
+          (NNP Serviço_Brasileiro_de_Apoio_às_Micro_e_Pequenas_Empresas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

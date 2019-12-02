@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN delegado)
+    (NP 
+     (NNP Celso_Antonio_Borlina)
+    )
+    (ADJP 
+     (CD 38)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NNP Rúbio)
+    )
+    (VP 
+     (VBP confessou)
+    )
+    (NP 
+     (DT o)
+     (NN crime)
+    )
+   )
+  )
+ )
+)

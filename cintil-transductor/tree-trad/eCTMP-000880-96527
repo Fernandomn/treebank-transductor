@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT as)
+      (NNS crianças)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB será)
+      (VB instalada)
+     )
+     (NP 
+      (DT uma)
+      (NNS tenda)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fundo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Rua)
+          (NNS Anchieta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

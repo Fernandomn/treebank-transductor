@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS satélites)
+     (NP 
+      (NP 
+       (NNS Spot)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS Landsat)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB transmitiram)
+    (NP 
+     (NP 
+      (JJ excelentes)
+      (NP 
+       (NNS imagens)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS desastres)
+           (JJ ambientais)
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB fizeram)
+             (NP 
+              (NNS história)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

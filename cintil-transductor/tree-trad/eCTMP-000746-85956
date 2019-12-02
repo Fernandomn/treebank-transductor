@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB derrotou)
+        (NP 
+         (DT o)
+         (NNS Benfica)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB essencialmente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS inconsistência)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ritmo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS jogo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

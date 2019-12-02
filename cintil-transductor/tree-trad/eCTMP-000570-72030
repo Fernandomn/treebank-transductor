@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS militantes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS partido)
+         (ADJP 
+          (JJ laranja)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB registaram)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB aplaudiram)
+    )
+   )
+  )
+ )
+)

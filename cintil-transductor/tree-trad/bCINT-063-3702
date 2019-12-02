@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Cada)
+     (NNS cidade)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NNS identidade)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB há)
+      )
+      (NP 
+       (NP 
+        (NNS modelos)
+        (ADJP 
+         (RB arquitectonicamente)
+         (VB acabados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (CD dois)
+      (NNS dias)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS PÚBLICO)
+    )
+    (VP 
+     (VP 
+      (VB tentou)
+      (VP 
+       (VB entrar)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS contacto)
+          (PP 
+           (IN com)
+           (NP 
+            (NP 
+             (DT o)
+             (NP 
+              (NNS reitor)
+              (NNS de_)
+              (NNS a)
+              (NNS Universidade)
+              (NNS de_)
+              (NNS o)
+              (NNS Porto)
+             )
+            )
+            (NP 
+             (NP 
+              (NNS Alberto)
+              (NNS Amaral)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS sucesso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

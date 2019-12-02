@@ -1,0 +1,106 @@
+(
+ (S 
+  (PP 
+   (IN Por)
+   (NP 
+    (CD dois)
+    (NN motivos)
+    (UCP 
+     (NP 
+      (RB primeiro)
+      (DT a)
+      (NN indisponibilidade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN escritor)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (ADVP 
+          (RB simplesmente)
+         )
+         (ADVP 
+          (RB não)
+         )
+         (VP 
+          (VBP estava)
+         )
+         (VP 
+          (VP 
+           (VBN interessado)
+          )
+          (PP 
+           (IN em)
+           (VP 
+            (VP 
+             (VP 
+              (VB percorrer)
+             )
+             (NP 
+              (DT os)
+              (NNP Estados_Unidos)
+             )
+            )
+            ou
+            (VP 
+             (VP 
+              (VB debater)
+             )
+             (NP 
+              (DT suas)
+              (NN idéias)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB segundo)
+      )
+      (NP 
+       (DT seus)
+       (NN comentários)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NN decadência)
+         (ADJP 
+          (JJ moral)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN Ocidente)
+          )
+         )
+        )
+       )
+      )
+      (ADVP 
+       (RB logo)
+      )
+      (NP 
+       (PRP o)
+      )
+      (VP 
+       (VBP tornaram)
+      )
+      (NP 
+       (NN inconveniente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

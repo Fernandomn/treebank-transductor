@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (JJ principais)
+        (NNS fornecedores)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB é)
+     )
+     (NP 
+      (DT a)
+      (NNS França)
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN através)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NP 
+         (NNS satélite)
+         (NNS Spot)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

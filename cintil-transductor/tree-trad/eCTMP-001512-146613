@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Teresa)
+     (NNS Calçada)
+    )
+   )
+   (VP 
+    (VP 
+     (VB defendeu)
+     (RB igualmente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS procura)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (JJ novos)
+         (NP 
+          (NNS mecanismos)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS promoção)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS livro)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

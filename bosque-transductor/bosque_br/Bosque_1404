@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ciclista)
+    (ADJP 
+     (JJ espanhol)
+    )
+    (ADJP 
+     (CD 48)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP suicidou)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Caupenne_d'Armagnac)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN sul)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP França)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (CD um)
+     (NN tiro)
+    )
+   )
+  )
+ )
+)

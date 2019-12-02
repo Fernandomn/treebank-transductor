@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fúria_Metal)
+   )
+   (VP 
+    (VBP entrevista)
+   )
+   (NP 
+    (DT os)
+    (NN integrantes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Ramones)
+      (NP 
+       (NN banda)
+       (VP 
+        (VP 
+         (VBN surgida)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNP Nova_York)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN década)
+          (PP 
+           (IN de)
+           (ADJP 
+            (CD 70)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

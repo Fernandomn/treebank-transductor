@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Morando)
+    )
+    (PP 
+     (IN há)
+     (NP 
+      (CD seis)
+      (NN anos)
+     )
+    )
+   )
+   (ADVP 
+    (RB ali)
+   )
+   (NP 
+    (NNP Tatiana)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB nunca)
+    )
+    (VP 
+     (VBP viu)
+    )
+    (NP 
+     (DT um)
+     (NN período)
+     (ADJP 
+      (RB tão)
+      (JJ violento)
+     )
+    )
+   )
+  )
+ )
+)

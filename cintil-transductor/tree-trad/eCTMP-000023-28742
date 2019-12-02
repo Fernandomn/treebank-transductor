@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministérios)
+    (NNS de_)
+    (NNS a)
+    (NNS Cultura)
+    (NNS e)
+    (NNS Educação)
+   )
+  )
+  (VP 
+   (VB criam)
+   (NP 
+    (NP 
+     (NNS grupo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS trabalho)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS polis)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS centro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP nossa)
+          (NNS História)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB simboliza)
+      (NP 
+       (DT o)
+       (NNS progresso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

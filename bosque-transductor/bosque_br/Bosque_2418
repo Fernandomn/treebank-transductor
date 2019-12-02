@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NN itens)
+     (VBN importados)
+    )
+   )
+   (VP 
+    (VBP devem)
+    (VB chamar)
+   )
+   (NP 
+    (NN atenção)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Feicon)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN revestimentos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN cerâmica)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN piso)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN trazidos)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Itália)
+      )
+     )
+    )
+   )
+  )
+ )
+)

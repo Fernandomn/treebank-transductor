@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mirko)
+    (NNS Jozic)
+   )
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (DT o)
+    (NP 
+     (JJ novo)
+     (NP 
+      (NNS treinador)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Sporting)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

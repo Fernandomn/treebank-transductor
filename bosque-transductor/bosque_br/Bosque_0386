@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ Fácil)
+   )
+   (VP 
+    (VP 
+     (VB subir)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NN palanques)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG defendendo)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ necessário)
+     )
+     (VP 
+      (VP 
+       (VB mudar)
+      )
+      (VP 
+       (NP 
+        (DT tudo)
+        (DT o)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP está)
+         )
+         (ADVP 
+          (RB aí)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

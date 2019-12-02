@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN fanfarra)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (PP 
+      (IN a)
+      (VB seguir)
+     )
+     (VP 
+      (VBP compôs)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NNP Dizem_que_É_Amor)
+       (NP 
+        (NNP High_Time)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP ficou)
+    (ADJP 
+     (RB também)
+     (VBN gravada)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN memória)
+     (PP 
+      (IN de)
+      (NP 
+       (DT todo)
+       (NN mundo)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN porque)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT aquela)
+      (NN vez)
+     )
+    )
+    (NP 
+     (NNP Edwards)
+    )
+    (ADVP 
+     (RB nem_sequer)
+    )
+    (VP 
+     (VBP chutou)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN trave)
+     )
+    )
+   )
+  )
+ )
+)

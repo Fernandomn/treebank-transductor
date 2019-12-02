@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS prazo)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS entrega)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS candidaturas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB terminou)
+    (RB ontem)
+   )
+  )
+ )
+)

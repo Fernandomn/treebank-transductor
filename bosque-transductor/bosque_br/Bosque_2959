@@ -1,0 +1,121 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (JJ Quinto)
+    (VBN colocado)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Mundial_de_F-Indy)
+      (PP 
+       (IN com)
+       (NP 
+        (CD 46)
+        (NN pontos)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Mansell)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP pretende)
+    )
+    (VP 
+     (VP 
+      (VB continuar)
+      (IN a)
+      (VB correr)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN categoria)
+      )
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (DT o)
+       (NN final)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN temporada)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NN condição)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP impôs)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NNP Frank_Williams)
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB voltar)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN equipe)
+         (VP 
+          (PP 
+           (IN por+)
+           (PRP a_qual)
+          )
+          (VP 
+           (VBP ganhou)
+          )
+          (NP 
+           (DT o)
+           (NN título)
+           (ADJP 
+            (JJ mundial)
+           )
+           (PP 
+            (IN de)
+            (ADJP 
+             (CD 1992)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

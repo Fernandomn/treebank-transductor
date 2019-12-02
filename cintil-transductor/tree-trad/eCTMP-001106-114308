@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (RB Agora)
+   (S 
+    (NP 
+     (DT estas)
+     (NNS campanhas)
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (VB proibidas)
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS América)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS França)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

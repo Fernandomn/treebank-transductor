@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN cliente)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP passará)
+     )
+     (NP 
+      (DT seu)
+      (NN cartão)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NN débito)
+        )
+       )
+       ou
+       (PP 
+        (IN de)
+        (NP 
+         (NN crédito)
+        )
+       )
+      )
+      (NP 
+       (NNP Bradesco_Visa)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN terminal)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN empresa)
+         (VBN conveniada)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP fixará)
+     )
+     (NP 
+      (DT as)
+      (NN datas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN pagamento)
+        (PP 
+         (IN de)
+         (NP 
+          (DT suas)
+          (NN compras)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

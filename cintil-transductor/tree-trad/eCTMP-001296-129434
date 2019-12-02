@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (CD Quatro)
+     (NP 
+      (NNS coreografias)
+      (ADJP 
+       (VB assinadas)
+       (PP 
+        (IN por)
+        (NP 
+         (NNS Larrieu)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (CD duas)
+      (NP 
+       (NP 
+        (ADJP 
+         (JJ brevíssimas)
+        )
+       )
+       (ADJP 
+        (VB assinadas)
+        (PP 
+         (IN por)
+         (NP 
+          (CD dois)
+          (NP 
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (PP seus)
+              (NNS bailarinos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foram)
+      (RB anteontem)
+     )
+     (VB apresentadas)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Grande)
+       (NNS Auditório)
+       (NNS de_)
+       (NNS a)
+       (NNS Fundação)
+       (NNS Calouste)
+       (NNS Gulbenkian)
+      )
+     )
+    )
+   )
+  )
+ )
+)

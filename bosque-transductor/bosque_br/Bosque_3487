@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todos)
+    (ADVP 
+     (ADVP 
+      (RB contra)
+     )
+     ou
+     (ADVP 
+      (RB a_favor)
+     )
+    )
+   )
+   (VP 
+    (VBP partem)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN princípio)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (DT aquele)
+       )
+       (VP 
+        (VBP foi)
+       )
+       (NP 
+        (DT um)
+        (NN gesto)
+        (PP 
+         (IN de)
+         (NP 
+          (NN protesto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

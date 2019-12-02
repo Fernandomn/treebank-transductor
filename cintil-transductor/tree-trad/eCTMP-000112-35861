@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS resposta)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (NNS Marcelo)
+        )
+        (VP 
+         (VB preferia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VB estuda)
+   (NP 
+    (NP 
+     (NNS crédito)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NNS prejuízos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mau)
+           (NNS tempo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

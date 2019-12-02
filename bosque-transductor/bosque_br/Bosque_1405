@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 1973)
+    )
+   )
+   (NP 
+    (NNP Ocaña)
+   )
+   (VP 
+    (VBP venceu)
+   )
+   (NP 
+    (DT a)
+    (NNP Volta_da_França)
+    (NP 
+     (DT a)
+     (JJ maior)
+     (NN competição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN gênero)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mundo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

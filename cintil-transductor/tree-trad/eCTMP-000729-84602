@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB É)
+      (RB sempre)
+     )
+     (RB assim)
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Volta)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS líderes)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB dava)
+      (NP 
+       (DT um)
+       (NNS filme)
+      )
+     )
+    )
+   )
+  )
+ )
+)

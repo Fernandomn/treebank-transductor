@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Sistemas)
+     (NNS Digitais)
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB precisamente)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT essas)
+        (NNS provas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

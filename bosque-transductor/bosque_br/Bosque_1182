@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Dois)
+    (NN dias)
+    (RB depois)
+   )
+   (NP 
+    (DT o)
+    (NNP Salute_Milk)
+   )
+   (VP 
+    (VBP baixou)
+   )
+   (NP 
+    (DT a)
+    (NN média)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN R$)
+     (ADJP 
+      (CD 3.000)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN venda)
+     (PP 
+      (IN de)
+      (NP 
+       (NN metade)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (CD 30)
+         (NN vacas)
+         (ADJP 
+          (JJ holandesas)
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP foram)
+           (VBN apresentadas)
+          )
+          (PP 
+           (IN para)
+           (NP 
+            (NN negócio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

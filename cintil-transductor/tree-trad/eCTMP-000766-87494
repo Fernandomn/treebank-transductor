@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Muitos)
+     (NNS intelectuais)
+    )
+    (NP 
+     (NP 
+      (JJ potenciais)
+      (NNS vítimas)
+     )
+    )
+   )
+   (VP 
+    (VB continuam)
+    (PP 
+     (IN a)
+     (VP 
+      (VB pedir)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS intervenção)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Governo)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS cultura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

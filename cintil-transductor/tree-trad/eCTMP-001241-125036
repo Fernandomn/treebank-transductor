@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Cédras)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NP 
+       (PRP quem)
+      )
+      (S 
+       (VB pensa)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (NNS Biamby)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (PRP quem)
+       )
+       (S 
+        (VB age)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

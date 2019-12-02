@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP seu)
+     (NNS cabelo)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB foi)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS questão)
+       (ADJP 
+        (VB levantada)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS imprensa)
+           (JJ transalpina)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

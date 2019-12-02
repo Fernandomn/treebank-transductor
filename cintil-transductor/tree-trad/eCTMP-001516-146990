@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (RB Ora)
+   (S 
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+    (S 
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (CD dez)
+         (CD mil)
+        )
+        (NP 
+         (NNS escolas)
+         (ADJP 
+          (JJ básicas)
+          (ADJP 
+           (CC e)
+           (JJ secundárias)
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (NP 
+       (NP 
+        (RB apenas)
+        (CD 500)
+       )
+      )
+      (VP 
+       (VB têm)
+       (NP 
+        (NP 
+         (NP 
+          (NNS instalações)
+          (JJ desportivas)
+         )
+         (JJ dignas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

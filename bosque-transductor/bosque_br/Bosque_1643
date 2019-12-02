@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADJP 
+    (JJ notável)
+   )
+   (NP 
+    (DT o)
+    (NN baixo)
+    (ADJP 
+     (JJ astral)
+    )
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN militância)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN quadros)
+       (ADJP 
+        (JJ dirigentes)
+       )
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN simpatizantes)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB em_geral)
+   )
+  )
+ )
+)

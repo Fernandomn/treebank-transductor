@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Prevê)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (PRP isso)
+    )
+    (VP 
+     (VBP aconteça)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD dez)
+      (NN dias)
+      (VP 
+       (ADVP 
+        (RB quando)
+       )
+       (NP 
+        (DT seu)
+        (NN pai)
+       )
+       (VP 
+        (VBP voltar)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (NNP São_Paulo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

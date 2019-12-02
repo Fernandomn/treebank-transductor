@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Londres)
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS contrário)
+       )
+      )
+     )
+     (VB fazia)
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS calor)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS ananases)
+      )
+     )
+    )
+   )
+  )
+ )
+)

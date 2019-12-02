@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isso)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB muito)
+      (JJ comovente)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VB significa)
+        (CONJP 
+         (CC que)
+         (S 
+          (NP 
+           (DT o)
+           (NP 
+            (NNS esforço)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (NP 
+                (PRP se)
+               )
+               (VB está)
+              )
+              (PP 
+               (IN a)
+               (VP 
+                (VP 
+                 (VB fazer)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT este)
+                   (NNS lado)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+          (VP 
+           (VB tem)
+           (NP 
+            (DT um)
+            (NNS eco)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CD últimos)
+     (NP 
+      (CD dez)
+      (NNS anos)
+     )
+    )
+   )
+   (VP 
+    (VB ficaram)
+    (VP 
+     (VB marcados)
+     (PP 
+      (IN por)
+      (NP 
+       (CD 13)
+       (NP 
+        (NNS sismos)
+        (JJ graves)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS partidos)
+       (JJ políticos)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS assento)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Assembleia)
+            (NNS Municipal)
+            (NNS de)
+            (NNS Leiria)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB contestam)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Plano)
+      (NNS Estratégico)
+      (NNS de_)
+      (NNS o)
+      (NNS Eixo)
+      (NNS de)
+      (NNS Leiria-Marinha)
+      (NNS Grande)
+      (NNS e)
+      (NNS de_)
+      (NNS o)
+      (NNS Sistema)
+      (NNS Urbano)
+      (NNS de_)
+      (NNS a)
+      (NNS Alta)
+      (NNS Estremadura)
+     )
+    )
+   )
+  )
+ )
+)

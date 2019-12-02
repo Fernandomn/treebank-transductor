@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Vera_Lúcia_Barbosa)
+    (ADJP 
+     (CD 40)
+    )
+   )
+   (VP 
+    (VBP morreu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ última)
+     (NN quarta)
+    )
+   )
+   (VP 
+    (VP 
+     (VBN presa)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN cinto)
+      (PP 
+       (IN de)
+       (NP 
+        (NN segurança)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN carro)
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (VP 
+        (VBP estava)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP caiu)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN rio)
+         (NP 
+          (NNP Tietê)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

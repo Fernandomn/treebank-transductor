@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cores)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NN campos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NNP EUA)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBN conseguidas)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN corte)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN grama)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ajudam)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB esconder)
+     )
+     (NP 
+      (NN marcas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN futebol)
+        (ADJP 
+         (JJ americano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (NP 
+      (NP 
+       (NN 20h)
+      )
+      e
+      (NP 
+       (NN 20h30)
+      )
+     )
+     (NP 
+      (NN horário)
+      (VP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (NP 
+        (DT o)
+        (NN cartoon)
+       )
+       (VP 
+        (VBP costuma)
+        (VB ir)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN ar)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN emissora)
+   )
+   (VP 
+    (VBP transmitiu)
+   )
+   (NP 
+    (DT uma)
+    (NN sequência)
+    (PP 
+     (IN de)
+     (NP 
+      (NN videoclipes)
+     )
+    )
+   )
+  )
+ )
+)

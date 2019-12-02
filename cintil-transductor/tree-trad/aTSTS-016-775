@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS pregação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS homem)
+        )
+       )
+      )
+      (PP 
+       (IN contra)
+       (NP 
+        (DT o)
+        (NNS sucedido)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

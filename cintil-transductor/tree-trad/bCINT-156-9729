@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Houve)
+      (NP 
+       (NP 
+        (NNS jogadores)
+        (ADJP 
+         (JJ melhores)
+         (CONJP 
+          (CC que)
+          (NP 
+           (DT outros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT isso)
+      )
+      (VP 
+       (VB acontece)
+       (PP 
+        (IN com)
+        (NP 
+         (PRP todas)
+         (NP 
+          (DT as)
+          (NNS equipas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

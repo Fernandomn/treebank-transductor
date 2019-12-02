@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+    (NNS casos)
+   )
+   (VP 
+    (VB têm)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS efeito)
+       (ADJP 
+        (RB muito)
+        (JJ forte)
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NNS famílias)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT os)
+          (NNS paroquianos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

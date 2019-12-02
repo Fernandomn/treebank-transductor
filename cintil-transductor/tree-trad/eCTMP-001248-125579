@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS taxa)
+      (JJ média)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS overnight)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB fixou)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (CD 5,193)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (CD 5,267)
+      (NP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS sexta-feira)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

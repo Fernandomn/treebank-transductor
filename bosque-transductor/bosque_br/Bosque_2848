@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (PRP Isto)
+     )
+     (VP 
+      (VBP foi)
+     )
+     (ADJP 
+      (JJ fundamental)
+     )
+     (VP 
+      (IN pois)
+      (VP 
+       (VBP conseguimos)
+      )
+      (VP 
+       (VP 
+        (VB aumentar)
+       )
+       (NP 
+        (DT nossos)
+        (NN criatórios)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB agora)
+     )
+     (VP 
+      (VBP usamos)
+     )
+     (ADVP 
+      (RB como)
+      (NP 
+       (NN garanhões)
+       (ADJP 
+        (JJ selecionadores)
+       )
+      )
+     )
+     (NP 
+      (RB apenas)
+      (DT aqueles)
+      (ADVP 
+       (RB realmente)
+       (PP 
+        (IN de)
+        (NP 
+         (NN ponta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

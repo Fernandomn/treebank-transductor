@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN vendas)
+    (ADJP 
+     (JJ brutas)
+    )
+   )
+   (VP 
+    (VBP caíram)
+   )
+   (ADVP 
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 3.78)
+       (NN bilhões)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 3.57)
+       (NN bilhões)
+      )
+     )
+    )
+   )
+   (NP 
+    (NN consequência)
+    (PP 
+     (IN de)
+     (NP 
+      (NN reduções)
+      (UCP 
+       (ADVP 
+        (RB tanto)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN mercado)
+         (ADJP 
+          (JJ interno)
+         )
+        )
+       )
+       (ADVP 
+        (RB como)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN externo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

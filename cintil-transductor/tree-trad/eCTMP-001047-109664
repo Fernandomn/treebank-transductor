@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS jornal)
+       (NP 
+        (NP 
+         (NNS World)
+         (NNS Cup)
+         (NNS USA)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS FIFA)
+    )
+    (VP 
+     (VB deverá)
+     (VP 
+      (VP 
+       (VB estudar)
+       (NP 
+        (DT este)
+        (NNS pedido)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS Dezembro)
+         (PP 
+          (PP 
+           (IN durante)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ próxima)
+             (NP 
+              (NNS reunião)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS comité)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT o)
+                   (NP 
+                    (NNS Mundial)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

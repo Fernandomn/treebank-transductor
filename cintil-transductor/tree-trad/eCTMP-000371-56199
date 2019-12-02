@@ -1,0 +1,19 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Pedro)
+     (NNS Rosa)
+     (NNS Mendes)
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Harare)
+   )
+  )
+ )
+)

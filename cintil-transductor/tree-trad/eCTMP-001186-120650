@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS Estado-Providência)
+  )
+  (VP 
+   (RB ainda)
+   (VP 
+    (VP 
+     (RB não)
+     (VB está)
+    )
+    (ADJP 
+     (VB condenado)
+    )
+   )
+  )
+ )
+)

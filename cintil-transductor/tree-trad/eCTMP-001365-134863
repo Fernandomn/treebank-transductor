@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (PP seu)
+      (NNS turno)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB verifica)
+         )
+         (PP 
+          (IN por_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS lado)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS oferta)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (ADJP 
+        (RB mais)
+        (JJ agigantado)
+       )
+       (NNS crescimento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

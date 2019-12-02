@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Contratou)
+   )
+   (NP 
+    (DT a)
+    (NN empresa)
+    (NP 
+     (NNP Winfreys)
+    )
+    (NP 
+     (DT a)
+     (JJ maior)
+     (NN especialista)
+     (PP 
+      (IN em)
+      (NP 
+       (NN atividades)
+       (PP 
+        (IN de)
+        (NP 
+         (NN lobby)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT todo)
+     (DT o)
+     (NNP Canadá)
+    )
+   )
+  )
+ )
+)

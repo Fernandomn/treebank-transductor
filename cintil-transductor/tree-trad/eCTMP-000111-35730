@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Artur)
+     (NNS e)
+     (NNS Jardel)
+    )
+   )
+   (VP 
+    (VB acabaram)
+    (PP 
+     (IN por)
+     (VP 
+      (VP 
+       (VP 
+        (VB desperdiçar)
+        (RB também)
+       )
+       (NP 
+        (PRP algumas)
+        (NP 
+         (NNS oportunidades)
+         (JJ incríveis)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS parte)
+         (JJ final)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

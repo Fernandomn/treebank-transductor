@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP ele)
+     )
+    )
+    (VP 
+     (VP 
+      (VB era)
+      (RB apenas)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS retaliação)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS ordem)
+           (JJ psicológica)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN contra)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS mãe)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS ex-namorada)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

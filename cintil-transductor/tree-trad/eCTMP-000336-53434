@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS viticultura)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB assegura)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS sobrevivência)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ grande)
+             (NP 
+              (NNS maioria)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT a)
+                (NP 
+                 (NP 
+                  (NNS população)
+                  (JJ rural)
+                 )
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT o)
+                   (NNS concelho)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB atravessa)
+    (NP 
+     (NP 
+      (NNS momentos)
+      (JJ difíceis)
+     )
+    )
+   )
+  )
+ )
+)

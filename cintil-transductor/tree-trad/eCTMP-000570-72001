@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Comissão)
+    (NNS de)
+    (NNS Inquérito)
+    (NNS Parlamentar)
+   )
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB apresenta)
+     (NP 
+      (NNS relatório)
+     )
+    )
+    (ADVP 
+     (RB amanhã)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Brasília)
+    )
+   )
+  )
+ )
+)

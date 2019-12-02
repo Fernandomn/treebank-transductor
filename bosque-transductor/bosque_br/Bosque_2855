@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Atuando)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN conjunto)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN franqueados)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP ganham)
+     )
+     (NP 
+      (NN força)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP passam)
+      (IN a)
+      (VB ter)
+     )
+     (NP 
+      (NN voz)
+      (ADJP 
+       (JJ ativa)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN questões)
+       (ADJP 
+        (JJ vitais)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NN negócio)
+        )
+       )
+       (NP 
+        (RB como)
+        (NP 
+         (NP 
+          (NN definicão)
+          (PP 
+           (IN de)
+           (NP 
+            (NN produtos)
+           )
+          )
+         )
+         (NP 
+          (NN prazos)
+          (PP 
+           (IN de)
+           (NP 
+            (NN pagamento)
+           )
+          )
+         )
+         e
+         (NP 
+          (NN estratégias)
+          (PP 
+           (IN de)
+           (NP 
+            (NN propaganda)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

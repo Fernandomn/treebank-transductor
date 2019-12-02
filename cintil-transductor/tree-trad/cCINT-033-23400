@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NNS princípio)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Terra)
+    )
+    (VP 
+     (VP 
+      (VB era)
+      (RB assim)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS espécie)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS bola)
+          (ADJP 
+           (JJ cheia)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS gases)
+              (NP 
+               (CC e)
+               (NP 
+                (NNS líquidos)
+                (JJ ardentes)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS homem)
+   )
+   (VP 
+    (VP 
+     (VB deveria)
+     (PP 
+      (PP 
+       (IN segundo)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS ordem)
+          (JJ natural)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS coisas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB ser)
+      (RB hoje)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS primeiro-ministro)
+       (NNS de_)
+       (NNS o)
+       (NNS Japão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS classificação)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (RB apenas)
+      (CD 20)
+     )
+    )
+    (VP 
+     (VB somam)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS agregado)
+       (ADVP 
+        (RB acima)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Par)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

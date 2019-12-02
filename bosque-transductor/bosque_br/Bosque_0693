@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VBP foi)
+    (VBN construída)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Marília)
+     (NP 
+      (NN cidade)
+      (VP 
+       (ADVP 
+        (RB onde)
+       )
+       (VP 
+        (VBP foi)
+        (VBN fundada)
+       )
+       (NP 
+        (DT o)
+        (NN banco)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN capacidade)
+     (PP 
+      (IN para)
+      (NP 
+       (NN mil)
+       (NN alunos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

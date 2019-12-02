@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Debate)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NP 
+           (NNS bairros)
+           (JJ problemáticos)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Porto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

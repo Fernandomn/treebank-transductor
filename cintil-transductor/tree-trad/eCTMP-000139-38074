@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Líder)
+     (JJ conservador)
+    )
+    (JJ canadiano)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VP 
+     (VB chefiar)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Partido)
+       (NNS Liberal)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS província)
+       (JJ francófona)
+      )
+     )
+    )
+   )
+  )
+ )
+)

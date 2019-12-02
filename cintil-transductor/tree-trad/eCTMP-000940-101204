@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN a_)
+      (IN o)
+      (IN longo)
+      (IN de_)
+     )
+     (NP 
+      (DT estes)
+      (NP 
+       (CD cinco)
+       (NP 
+        (NNS anos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS liderança)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Manuel)
+      (NNS Monteiro)
+     )
+    )
+    (VP 
+     (VB cultivou)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS forma)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS expressão)
+           (JJ própria)
+          )
+          (ADJP 
+           (ADJP 
+            (RB verdadeiramente)
+            (JJ populista)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

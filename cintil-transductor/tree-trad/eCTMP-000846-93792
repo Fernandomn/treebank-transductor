@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Luís)
+     (NNS Gomes)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS alfarrabista)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS livraria)
+        (NP 
+         (NNS Artes)
+         (NNS e)
+         (NNS Letras)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

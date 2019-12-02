@@ -1,0 +1,125 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Seria)
+   )
+   (ADJP 
+    (JJ inviável)
+   )
+   (VP 
+    (VP 
+     (VB estimar)
+    )
+    (ADVP 
+     (RB por_exemplo)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN acuidade)
+      (ADJP 
+       (JJ necessária)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NN concessão)
+        (PP 
+         (IN de)
+         (NP 
+          (NN crédito)
+          (ADJP 
+           (JJ fiscal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (NP 
+      (DT qual)
+     )
+     (NP 
+      (DT a)
+      (NN incidência)
+      (ADJP 
+       (JJ efetiva)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNP PIS)
+        )
+        e
+        (NP 
+         (NNP Cofins)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT cada)
+       (NN etapa)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN processo)
+         (ADJP 
+          (JJ produtivo)
+         )
+         (ADJP 
+          (JJ anterior)
+          (PP 
+           (IN a+)
+           (NP 
+            (DT a)
+            (NN produção)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT os)
+              (NN insumos)
+              (VP 
+               (VP 
+                (VBN usados)
+               )
+               (ADVP 
+                (RB diretamente)
+               )
+               (PP 
+                (IN em+)
+                (NP 
+                 (DT a)
+                 (NN produção)
+                 (PP 
+                  (IN para)
+                  (NP 
+                   (NN exportações)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

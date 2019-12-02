@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (RB Só)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NP 
+         (NNS ministros)
+         (JJ novos)
+        )
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS economia)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT as)
+            (NNS finanças)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

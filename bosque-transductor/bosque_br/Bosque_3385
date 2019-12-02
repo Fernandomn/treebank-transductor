@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP reagir)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ interessante)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VBP mostrará)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP está)
+     )
+     (ADJP 
+      (JJ vivo)
+     )
+    )
+   )
+  )
+ )
+)

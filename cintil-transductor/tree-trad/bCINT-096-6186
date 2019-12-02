@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Itália)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Rui)
+       (NNS Costa)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NNS Dimas)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB jogaram)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS sábado)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS sortes)
+         (JJ diferentes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN obra)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+      (ADJP 
+       (JJ transformadora)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN estrutura)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

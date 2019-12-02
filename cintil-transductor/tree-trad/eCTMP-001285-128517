@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Esse)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS argumento)
+        (JJ xenófobo)
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC quando)
+       (S 
+        (VP 
+         (VP 
+          (VB há)
+          (NP 
+           (NP 
+            (NNS autarcas)
+            (JJ portugueses)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Luxemburgo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

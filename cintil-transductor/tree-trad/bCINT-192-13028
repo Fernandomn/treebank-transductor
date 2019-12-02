@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isso)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VB efectuado)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Maio)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (CD nove)
+      (NNS entidades)
+     )
+     (VP 
+      (RB já)
+      (VB responderam)
+     )
+    )
+   )
+  )
+ )
+)

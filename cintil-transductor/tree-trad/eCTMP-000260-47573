@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS escola)
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VP 
+      (VB receber)
+      (PP 
+       (NP 
+        (DT este)
+        (NNS ano)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (CD 400)
+      )
+      (NNS alunos)
+     )
+    )
+   )
+  )
+ )
+)

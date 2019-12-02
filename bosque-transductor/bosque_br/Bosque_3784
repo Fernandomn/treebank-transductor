@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN uso)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN comparação)
+      (ADJP 
+       (JJ anualizada)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP permite)
+   )
+   (VP 
+    (VP 
+     (VB verificar)
+    )
+    (NP 
+     (DT a)
+     (NN variação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN atividade)
+       (ADJP 
+        (JJ industrial)
+       )
+      )
+     )
+     (PP 
+      (IN sem)
+      (NP 
+       (DT a)
+       (NN influência)
+       (PP 
+        (IN de)
+        (NP 
+         (NN fatores)
+         (ADJP 
+          (JJ sazonais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

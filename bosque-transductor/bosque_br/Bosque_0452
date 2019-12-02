@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN jogador)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB antes)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB voltar)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NNP Espanha)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP visitará)
+    )
+    (NP 
+     (DT o)
+     (NN Estado)
+     (VP 
+      (ADVP 
+       (RB onde)
+      )
+      (VP 
+       (VBP nasceu)
+      )
+      (NP 
+       (DT a)
+       (NNP Bahia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

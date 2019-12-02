@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ministro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Fazenda)
+     )
+    )
+    (NP 
+     (NNP Rubens_Ricupero)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN resultado)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP IPC-r)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT uma)
+     (NN surpresa)
+    )
+   )
+  )
+ )
+)

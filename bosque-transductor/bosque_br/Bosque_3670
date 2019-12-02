@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN vídeo)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT uma)
+     (NN experiência)
+     (ADJP 
+      (JJ física)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (DT um)
+     (NN efeito)
+     (ADJP 
+      (JJ direto)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NN corpos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN pessoas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

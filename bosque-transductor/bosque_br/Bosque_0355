@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN tom)
+    (ADJP 
+     (ADJP 
+      (JJ familiar)
+     )
+     (ADJP 
+      (JJ coloquial)
+     )
+     (ADJP 
+      (JJ benigno)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT suas)
+      (NN crônicas)
+      (VP 
+       (ADVP 
+        (RB agora)
+       )
+       (VP 
+        (VBN reunidas)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Sexta-feira,_Folha)
+         (NP 
+          (NN ed.)
+          (NP 
+           (NNP Siciliano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADVP 
+    (RB pouco_a_pouco)
+   )
+   (VP 
+    (VBG vencendo)
+   )
+   (NP 
+    (DT as)
+    (NN resistências)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN público)
+     )
+    )
+   )
+  )
+ )
+)

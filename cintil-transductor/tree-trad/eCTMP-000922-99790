@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Feridas)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (S 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB abrem)
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VB fecham)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT um)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT as)
+       (NNS aspirações)
+      )
+      (VB aumentaram)
+     )
+     (S 
+      (CC e)
+      (S 
+       (NP 
+        (DT os)
+        (NP 
+         (NNS resultados)
+         (ADJP 
+          (RB finalmente)
+          (VB obtidos)
+         )
+        )
+       )
+       (VP 
+        (VB ficaram)
+        (PP 
+         (RB bastante)
+         (PP 
+          (PP 
+           (IN aquém)
+           (IN de_)
+          )
+          (NP 
+           (DT as)
+           (NP 
+            (NNS expectativas)
+            (JJ criadas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

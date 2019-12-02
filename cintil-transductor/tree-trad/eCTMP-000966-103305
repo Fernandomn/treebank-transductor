@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (NP 
+     (DT Este)
+     (NNS ano)
+    )
+   )
+   (S 
+    (ADVP 
+     (RB previsivelmente)
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS presença)
+       (JJ portuguesa)
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB será)
+      )
+      (ADJP 
+       (RB tão)
+       (JJ vincada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

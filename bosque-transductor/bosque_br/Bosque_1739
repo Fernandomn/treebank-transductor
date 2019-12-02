@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Encontramos)
+   )
+   (NP 
+    (DT um)
+    (NN homem-gol)
+    (VP 
+     (NP 
+      (IN de)
+      (NP 
+       (PRP que)
+      )
+     )
+     (VP 
+      (VBP sentíamos)
+     )
+     (NP 
+      (NN falta)
+     )
+     (PP 
+      (IN há)
+      (NP 
+       (DT muitos)
+       (NN anos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Van_Himst)
+    (NP 
+     (PRP ele)
+     (NP 
+      (DT próprio)
+     )
+    )
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (JJ maiores)
+       (NN jogadores)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (DT a)
+         (NNP Bélgica)
+        )
+        (ADVP 
+         (RB já)
+        )
+        (VP 
+         (VBP teve)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

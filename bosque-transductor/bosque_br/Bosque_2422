@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (ADJP 
+     (DT os)
+     (CD dois)
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP foram)
+    (VBN condenados)
+   )
+   (NP 
+    (DT outros)
+    (CD 12)
+    (NN diretores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP CEF)
+     )
+    )
+   )
+  )
+ )
+)

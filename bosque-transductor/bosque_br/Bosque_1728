@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Confira)
+   )
+   (NP 
+    (DT algumas)
+    (NP 
+     (NN preços)
+     (RB por_pessoa)
+     (VP 
+      (VP 
+       (VBN pesquisados)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN semana)
+        (VBN passada)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

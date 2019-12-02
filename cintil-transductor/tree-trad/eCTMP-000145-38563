@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Abie)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS personagem)
+       (JJ feminina)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB interpretada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Evelyne)
+        (NNS Didi)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

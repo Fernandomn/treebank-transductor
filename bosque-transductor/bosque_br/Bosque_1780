@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Parte)
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (DT o)
+     (NNP Palmeiras)
+    )
+    (VP 
+     (VBP jogou)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (JJ extremo)
+       (NN empenho)
+      )
+      e
+      (NP 
+       (JJ raro)
+       (NN talento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (VB Haverá)
+   (NP 
+    (NP 
+     (NNS futebol)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB resista)
+        (PP 
+         (IN a)
+         (NP 
+          (DT isto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

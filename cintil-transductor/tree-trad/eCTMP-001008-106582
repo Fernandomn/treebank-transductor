@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vieram)
+     (RB então)
+    )
+    (NP 
+     (DT os)
+     (NNS sábios)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB sentaram)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NNS penedos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

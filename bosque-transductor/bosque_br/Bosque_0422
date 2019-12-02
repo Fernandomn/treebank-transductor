@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (PP 
+    (IN com)
+    (NP 
+     (DT essa)
+     (NN medida)
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB matar)
+   )
+   (NP 
+    (CD dois)
+    (NN coelhos)
+   )
+  )
+ )
+)

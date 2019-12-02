@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Tribunal)
+    (NNS de)
+    (NNS Coimbra)
+   )
+  )
+  (VP 
+   (VP 
+    (VB puniu)
+    (NP 
+     (NNS patrões)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NP 
+      (NNS violação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS regras)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS construção)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

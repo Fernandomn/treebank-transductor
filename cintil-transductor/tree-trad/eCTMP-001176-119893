@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT este)
+      (NNS andar)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS portugueses)
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VB acordarão)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS monumentos)
+         (ADJP 
+          (ADJP 
+           (ADJP 
+            (RB impecavelmente)
+            (VB higienizados)
+           )
+          )
+          (ADJP 
+           (CC mas)
+           (JJ nus)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Obstáculos)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB têm)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ser)
+         (NP 
+          (NNS vencidos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

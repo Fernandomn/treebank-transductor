@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NNP Rússia)
+    )
+   )
+   (VP 
+    (VBP serei)
+    (VBN dilacerado)
+   )
+   (PP 
+    (PP 
+     (IN por+)
+     (NP 
+      (DT os)
+      (NN acontecimentos)
+     )
+    )
+    e
+    (PP 
+     (IN por+)
+     (NP 
+      (DT as)
+      (NN tragédias)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN pessoas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

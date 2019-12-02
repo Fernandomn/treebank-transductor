@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Guterres)
+  )
+  (VP 
+   (VP 
+    (VB almoça)
+    (RB hoje)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS pessoas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS cinema)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

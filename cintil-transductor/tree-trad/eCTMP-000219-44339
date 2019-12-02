@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS série)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NP 
+              (NNS transportes)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS peças)
+               )
+              )
+             )
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VB deverão)
+                (VP 
+                 (VB fazer)
+                 (NP 
+                  (DT o)
+                  (NP 
+                   (JJ mesmo)
+                   (NNS trajecto)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

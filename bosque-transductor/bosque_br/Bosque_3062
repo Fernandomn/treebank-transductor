@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT o)
+     (NN grupo)
+     (ADJP 
+      (JJ brazuca)
+     )
+    )
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (VBP estarão)
+   )
+   (ADJP 
+    (JJ presentes)
+   )
+   (NP 
+    (NP 
+     (NNP Tyes)
+    )
+    e
+    (NP 
+     (NNP Caio)
+     (NP 
+      (NNP Rio_de_Janeiro)
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN especialista)
+     (PP 
+      (IN em)
+      (NP 
+       (NN body_piercing)
+      )
+     )
+     (NP 
+      (NNP André_Meyer)
+     )
+     (NP 
+      (NNP São_Paulo)
+     )
+    )
+   )
+  )
+ )
+)

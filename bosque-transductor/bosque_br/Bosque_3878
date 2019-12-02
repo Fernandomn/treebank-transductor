@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Forças)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN norte)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Iêmen)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP anunciaram)
+   )
+   (NP 
+    (DT a)
+    (NN tomada)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN base)
+      (ADJP 
+       (JJ aérea)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Al_Anad)
+       )
+      )
+      (NP 
+       (DT a)
+       (JJ principal)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN sul-iemenitas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

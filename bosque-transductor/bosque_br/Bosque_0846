@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Deve-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB usar)
+   )
+   (NP 
+    (NP 
+     (NN pedras)
+     (NP 
+      (NP 
+       (NN pedra)
+       (NP 
+        (NN goiás)
+       )
+      )
+      e
+      (NP 
+       (NN ardósias)
+      )
+     )
+    )
+    (NP 
+     (NN madeiras)
+     (ADJP 
+      (JJ não-brilhantes)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP riscam)
+      )
+      (ADVP 
+       (RB facilmente)
+      )
+     )
+     (CC e)
+     (NP 
+      (NN cerâmicas)
+      (VBN não-esmaltadas)
+     )
+    )
+   )
+  )
+ )
+)

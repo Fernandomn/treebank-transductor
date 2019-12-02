@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (VBN pré-datado)
+     (ADJP 
+      (JJ eletrônico)
+     )
+    )
+   )
+   (NP 
+    (NN US$)
+    (ADJP 
+     (CD 0.15)
+    )
+   )
+  )
+ )
+)

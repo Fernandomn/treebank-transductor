@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+    (NN permissão)
+    (PP 
+     (IN de)
+     (NP 
+      (NN entrada)
+      (PP 
+       (IN de)
+       (NP 
+        (NN brasileiros)
+        (PP 
+         (IN sem)
+         (NP 
+          (DT o)
+          (NN visto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP partiu)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT uma)
+     (NN negociação)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NNP Portugal)
+       )
+       e
+       (NP 
+        (DT a)
+        (NNP União_Européia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

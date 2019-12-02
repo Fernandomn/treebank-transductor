@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS Vila)
+      (NNS Nova)
+      (NNS de_)
+      (NNS o)
+      (NNS Corvo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS coligação)
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS CDU)
+      )
+     )
+    )
+   )
+  )
+ )
+)

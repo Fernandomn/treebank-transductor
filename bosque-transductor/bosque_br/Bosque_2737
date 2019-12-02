@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Caciques)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PFL)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP preparam)
+   )
+   (NP 
+    (DT o)
+    (NN discurso)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB rebater)
+     )
+     (NP 
+      (DT uma)
+      (JJ possível)
+      (NN tentativa)
+      (ADJP 
+       (JJ tucana)
+      )
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB atrair)
+        )
+        (NP 
+         (NN apoios)
+         (PP 
+          (IN de)
+          (NP 
+           (DT outros)
+           (NN partidos)
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (VP 
+          (VP 
+           (VB diluir)
+          )
+          (NP 
+           (DT a)
+           (NN influência)
+           (ADJP 
+            (JJ pefelista)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT um)
+            (JJ eventual)
+            (NN governo)
+            (NP 
+             (NNP FHC)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

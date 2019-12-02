@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Steven)
+   )
+   (VP 
+    (VBP quer)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB aproveitar)
+     )
+     (NP 
+      (DT a)
+      (NN viagem)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NNP Brasil)
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB completar)
+       )
+       (NP 
+        (DT sua)
+        (NN discografia)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NNP Mutantes)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB conhecer)
+     )
+     (NP 
+      (NNP Arnaldo_Baptista)
+     )
+    )
+   )
+  )
+ )
+)

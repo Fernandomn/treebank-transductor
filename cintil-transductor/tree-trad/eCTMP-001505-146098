@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS liberdade)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS PSD)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS igualdade)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNS PCP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

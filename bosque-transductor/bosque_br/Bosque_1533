@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN piloto)
+    (ADJP 
+     (JJ holandês)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT sua)
+     (JJ primeira)
+     (NN volta)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP perdeu)
+     )
+     (NP 
+      (DT o)
+      (NN controle)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Benetton)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP foi)
+      (VB parar)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN brita)
+      )
+     )
+    )
+   )
+  )
+ )
+)

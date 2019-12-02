@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Grande)
+    (NP 
+     (NNS ataque)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS escudo)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS preparação)
+    )
+   )
+  )
+ )
+)

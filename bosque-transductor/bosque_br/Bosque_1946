@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Mercadante)
+   )
+   (VP 
+    (VBP foi)
+    (VBN escalado)
+   )
+   (PP 
+    (IN para)
+    (VB responder)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT o)
+     (NN tema)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (NN aposentadoria)
+    )
+   )
+  )
+ )
+)

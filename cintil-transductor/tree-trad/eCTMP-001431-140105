@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todo)
+    (NP 
+     (DT o)
+     (NNS trabalho)
+    )
+   )
+   (VP 
+    (VP 
+     (VB estará)
+     (ADJP 
+      (VB terminado)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS Dezembro)
+       (JJ próximo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+     (NP 
+      (NNS grupo)
+      (CONJP 
+       (ADVP 
+        (RB junto)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (PRP qual)
+         )
+        )
+       )
+       (S 
+        (NP 
+         (NP 
+          (NNS Adelino)
+          (NNS Antunes)
+         )
+        )
+        (VP 
+         (VP 
+          (VB iniciou)
+          (NP 
+           (DT a)
+           (NP 
+            (PP sua)
+            (NNS intervenção)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (VP 
+     (VB constituído)
+     (PP 
+      (IN por)
+      (NP 
+       (CD nove)
+       (NP 
+        (NNS crianças)
+        (PP 
+         (IN de)
+         (NP 
+          (CD quatro)
+          (NP 
+           (NNS famílias)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS etnia)
+              (JJ cigana)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

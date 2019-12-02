@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Será)
+   )
+   (NP 
+    (DT um)
+    (NN programa)
+    (ADJP 
+     (JJ capaz)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB unir)
+       )
+       (NP 
+        (DT todas)
+        (NN forças)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP querem)
+         )
+         (VP 
+          (VP 
+           (VB levar)
+          )
+          (NP 
+           (DT o)
+           (NNP Brasil)
+          )
+          (PP 
+           (IN para)
+           (NP 
+            (DT o)
+            (NNP Primeiro_Mundo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

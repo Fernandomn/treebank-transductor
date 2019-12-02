@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Salvaram)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS naufrágio)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS de_)
+      (NNS a)
+      (NNS Câmara)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS fadista)
+        (JJ magrinha)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT um)
+        (NP 
+         (ADJP 
+          (RB mais)
+          (JJ velho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

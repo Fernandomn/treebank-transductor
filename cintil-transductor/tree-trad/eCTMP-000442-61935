@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Instituto)
+    (NNS de)
+    (NNS Meteorologia)
+   )
+  )
+  (VP 
+   (VP 
+    (VB instala)
+    (NP 
+     (NP 
+      (NNS rede)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS sismógrafos)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS serra)
+    )
+   )
+  )
+ )
+)

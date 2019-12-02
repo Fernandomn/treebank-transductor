@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (PRP muitos)
+      (NNS anos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Billy)
+      (NNS Eckstine)
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS nome)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (NP 
+           (PRP me)
+          )
+          (VB cansava)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

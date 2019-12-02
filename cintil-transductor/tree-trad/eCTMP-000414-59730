@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS publicidade)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (VB concebida)
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (IN acordo)
+      (IN com)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS visão)
+       (ADJP 
+        (RB mais)
+        (JJ futurista)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

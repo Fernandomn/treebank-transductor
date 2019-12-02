@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Por_que)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VB ousar)
+   )
+   (VP 
+    (IN ainda_que)
+    (ADVP 
+     (RB ingenuamente)
+    )
+    (VP 
+     (VB esperar)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT as)
+      (NN coisas)
+     )
+     (ADVP 
+      (RB desta_vez)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP ajeitem)
+     )
+    )
+   )
+  )
+ )
+)

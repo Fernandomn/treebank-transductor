@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Jânio_Quadros)
+    )
+    (ADVP 
+     (RB também)
+    )
+    (VP 
+     (VBP gastou)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN obras)
+      (ADJP 
+       (JJ viárias)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (NNP Mario_Covas)
+    )
+    (VP 
+     (VBP marcou)
+    )
+    (NP 
+     (DT sua)
+     (NN gestão)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN construção)
+      (PP 
+       (IN de)
+       (NP 
+        (NN corredores)
+        (PP 
+         (IN de)
+         (NP 
+          (NN ônibus)
+          (ADJP 
+           (JJ exclusivos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB como)
+     (NP 
+      (DT o)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN avenida)
+        (NP 
+         (NNP Nove_de_Julho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

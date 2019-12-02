@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (RB Nem)
+   (S 
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS polémica)
+      (JJ arrebatada)
+     )
+    )
+    (S 
+     (VP 
+      (VB conseguiram)
+      (VP 
+       (VP 
+        (VB sustentar)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Comité)
+           (NNS Central)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

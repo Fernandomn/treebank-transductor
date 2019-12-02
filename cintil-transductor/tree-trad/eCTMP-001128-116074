@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PRP todo)
+      (NP 
+       (DT este)
+       (NNS processo)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS bancos)
+    )
+    (VP 
+     (VB acabam)
+     (PP 
+      (IN por)
+      (VP 
+       (VB ganhar)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS comissões)
+          (NP 
+           (CC e)
+           (NNS juros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

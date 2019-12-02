@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS empresa)
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB possui)
+      (NP 
+       (NP 
+        (NNS instalações)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Maia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB emprega)
+      (NP 
+       (CD 160)
+       (NNS pessoas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

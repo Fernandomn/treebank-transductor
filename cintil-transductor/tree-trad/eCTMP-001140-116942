@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Roterdão)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (NNS Domingos)
+     )
+     (VB desistiu)
+    )
+    (S 
+     (S 
+      (S 
+       (NP 
+        (NNS Dionísio)
+       )
+       (VB desiludiu)
+      )
+      (S 
+       (CC e)
+       (S 
+        (NP 
+         (NP 
+          (NNS Albertina)
+          (NNS Machado)
+         )
+        )
+        (VP 
+         (VB prometeu)
+         (PP 
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (PP sua)
+             (NP 
+              (NNS estreia)
+              (PP 
+               (IN em_)
+               (NP 
+                (DT a)
+                (NNS maratona)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

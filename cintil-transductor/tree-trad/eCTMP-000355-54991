@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Ossos)
+  )
+  (VP 
+   (VP 
+    (VB roubados)
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS cemitério)
+      (NNS de_)
+      (NNS o)
+      (NNS Lavradio)
+     )
+    )
+   )
+  )
+ )
+)

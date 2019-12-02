@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Itamar)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN até)
+     (RB agora)
+    )
+    (NP 
+     (DT poucas)
+     (NN demissões)
+    )
+    (VP 
+     (VBP foram)
+     (VBN efetivadas)
+    )
+    (VP 
+     (IN porque)
+     (VP 
+      (VBP há)
+     )
+     (ADVP 
+      (RB sempre)
+     )
+     (NP 
+      (DT um)
+      (NN processo)
+      (ADJP 
+       (ADJP 
+        (JJ legal)
+       )
+       e
+       (ADJP 
+        (JJ burocrático)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP precisar)
+       )
+       (VP 
+        (VP 
+         (VB ser)
+         (VBN cumprido)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

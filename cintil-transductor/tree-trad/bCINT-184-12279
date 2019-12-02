@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS estilo)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NNS homem)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS homem)
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS estilo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS instituição)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

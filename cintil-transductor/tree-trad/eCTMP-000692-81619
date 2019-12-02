@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabia)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB estava)
+       (ADJP 
+        (JJ minado)
+        (PP 
+         (IN por)
+         (NP 
+          (DT um)
+          (NNS cancro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

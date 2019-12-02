@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Tesouraria)
+    (NNS de_)
+    (NNS a)
+    (NNS Fazenda)
+    (NNS Pública)
+   )
+  )
+  (VP 
+   (VP 
+    (VB voltou)
+    (PP 
+     (IN a)
+     (VB fechar)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Ermesinde)
+    )
+   )
+  )
+ )
+)

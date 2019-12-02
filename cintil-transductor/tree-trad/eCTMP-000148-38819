@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS silêncio)
+     )
+     (VP 
+      (VB pode)
+      (VP 
+       (VB ser)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ouro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (NP 
+        (NNS momentos)
+        (CONJP 
+         (PP 
+          (IN em)
+          (NP 
+           (PRP que)
+          )
+         )
+         (S 
+          (VP 
+           (VP 
+            (VP 
+             (RB não)
+             (VB paga)
+            )
+            (NP 
+             (NNS dividendos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

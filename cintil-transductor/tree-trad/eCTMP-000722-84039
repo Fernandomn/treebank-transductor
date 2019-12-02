@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Rastreio)
+     (JJ móvel)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS doenças)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS olhos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

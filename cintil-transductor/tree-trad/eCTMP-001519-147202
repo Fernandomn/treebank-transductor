@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Iniciativa)
+    (JJ inédita)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Tapada)
+      (NNS de_)
+      (NNS a)
+      (NNS Ajuda)
+     )
+    )
+   )
+  )
+ )
+)

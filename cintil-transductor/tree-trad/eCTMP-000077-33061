@@ -1,0 +1,99 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (DT os)
+      (NNS argumentos)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS autarquia)
+    )
+    (VP 
+     (VB apresenta)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS exemplo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS Freguesia)
+           (NNS de)
+           (NNS Santa)
+           (NNS Maria)
+           (NNS de_)
+           (NNS os)
+           (NNS Olivais)
+          )
+          (CONJP 
+           (CONJP 
+            (RB onde)
+            (S 
+             (NP 
+              (DT a)
+              (NP 
+               (NNS recolha)
+               (JJ periódica)
+              )
+             )
+             (VP 
+              (RB já)
+              (VP 
+               (VP 
+                (VP 
+                 (VB funciona)
+                 (CONJP 
+                  (S 
+                   (VP 
+                    (VB há)
+                    (NP 
+                     (NP 
+                      (RB quase)
+                      (CD dois)
+                     )
+                     (NNS anos)
+                    )
+                   )
+                  )
+                 )
+                )
+                (PP 
+                 (PP 
+                  (IN com)
+                  (NP 
+                   (NP 
+                    (NNS resultados)
+                    (ADJP 
+                     (RB muito)
+                     (JJ positivos)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

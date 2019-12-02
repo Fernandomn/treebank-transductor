@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT o)
+       (NNS bem)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS mal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

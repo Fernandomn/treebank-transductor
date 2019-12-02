@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN time)
+   )
+   (PP 
+    (RB antes)
+    (ADJP 
+     (RB bastante)
+     (UCP 
+      (VBN aguerrido)
+      e
+      (ADJP 
+       (JJ solidário)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP passou)
+    (IN a)
+    (VB discutir)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN campo)
+    )
+   )
+  )
+ )
+)

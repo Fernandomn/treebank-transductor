@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (ADVP 
+    (RB é)
+   )
+   (PP 
+    (RB justamente)
+    (IN por)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP deve)
+    (VB parar)
+   )
+   (VP 
+    (VP 
+     (VBG preparando)
+    )
+    (NP 
+     (NN terreno)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (JJ futuro)
+      (NN presidente)
+     )
+    )
+   )
+  )
+ )
+)

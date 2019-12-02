@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Cada)
+    (DT um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN produtos)
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB custar)
+   )
+   (NP 
+    (NN US$)
+    (ADJP 
+     (CD 329)
+    )
+   )
+  )
+ )
+)

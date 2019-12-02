@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Diz)
+   )
+   (NP 
+    (DT o)
+    (NN artigo)
+    (ADJP 
+     (JJ primeiro)
+    )
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP fica)
+    )
+    (VP 
+     (VP 
+      (VBN instituída)
+     )
+     (NP 
+      (DT a)
+      (NN URV)
+      (VP 
+       (VP 
+        (VBN dotada)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN curso)
+         (ADJP 
+          (JJ legal)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB servir)
+           )
+           (ADVP 
+            (RB exclusivamente)
+           )
+           (VP 
+            (RB como)
+            (NP 
+             (NN padrão)
+             (PP 
+              (IN de)
+              (NP 
+               (NN valor)
+               (ADJP 
+                (JJ monetário)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

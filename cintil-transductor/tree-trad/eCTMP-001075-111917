@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS abate)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS avião)
+         (JJ norte-americano)
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB sobrevoava)
+           (NP 
+            (NNS Cuba)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS medida)
+       (JJ útil)
+      )
+     )
+    )
+    (CONJP 
+     (CC porque)
+     (S 
+      (NP 
+       (DT esta)
+       (NNS operação)
+      )
+      (VP 
+       (VB terminou)
+       (PP 
+        (IN sem)
+        (NP 
+         (NNS complicações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

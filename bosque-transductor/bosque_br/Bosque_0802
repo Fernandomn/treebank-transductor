@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN grupo)
+    (ADJP 
+     (JJ suíço)
+    )
+   )
+   (VP 
+    (VBP baseia)
+   )
+   (NP 
+    (DT sua)
+    (NN música)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN combinação)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (JJ barulhentas)
+        (NN guitarras)
+        (VBN sampleadas)
+       )
+       (NP 
+        (NN vocais)
+        (ADJP 
+         (JJ guturais)
+        )
+       )
+       e
+       (NP 
+        (VBN pesadas)
+        (NN batidas)
+        (ADJP 
+         (JJ dançantes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS caso)
+   )
+   (VP 
+    (VB entrou)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS segredo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Justiça)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

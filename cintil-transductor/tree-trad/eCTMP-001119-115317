@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Cadete)
+     )
+     (NP 
+      (NP 
+       (DT esse)
+      )
+     )
+    )
+    (VP 
+     (VB esteve)
+     (ADJP 
+      (VB apagado)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB saiu)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS intervalo)
+        )
+       )
+      )
+      (PP 
+       (RB também)
+       (PP 
+        (PP 
+         (IN por)
+         (IN causa)
+         (IN de)
+        )
+        (NP 
+         (DT uma)
+         (NP 
+          (JJ pequena)
+          (NNS lesão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

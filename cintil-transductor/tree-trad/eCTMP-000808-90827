@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Para)
+      (NP 
+       (NP 
+        (DT as)
+        (NP 
+         (NNS casas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS romagem)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS ala)
+          (JJ norte)
+         )
+         (PP 
+          (RB só)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS 1856)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB foram)
+      (VB arrancadas)
+     )
+    )
+    (NP 
+     (CD 95)
+     (NP 
+      (NNS carradas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS pedra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

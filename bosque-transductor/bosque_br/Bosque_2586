@@ -1,0 +1,21 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN pesquisa)
+   )
+   (VP 
+    (VBP é)
+    (VBN feita)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NNP Hubert_Imóveis_e_Administração)
+    )
+   )
+  )
+ )
+)

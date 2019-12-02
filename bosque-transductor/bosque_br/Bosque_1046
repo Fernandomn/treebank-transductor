@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP dão)
+   )
+   (NP 
+    (NN comida)
+   )
+   (PP 
+    (IN para+)
+    (NP 
+     (DT a)
+     (NN gente)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT esse)
+     (NN lugar)
+    )
+   )
+  )
+ )
+)

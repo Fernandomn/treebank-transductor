@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS artistas)
+     (ADJP 
+      (ADJP 
+       (RB muito)
+       (JJ jovens)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB demonstraram)
+    (NP 
+     (NP 
+      (NNS falta)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS profissionalismo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

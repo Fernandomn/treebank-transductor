@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Sua)
+     (NN popularidade)
+    )
+    (VP 
+     (VBP está)
+    )
+    (ADJP 
+     (RB mais)
+     (JJ baixa)
+     (VP 
+      (IN do_que)
+      (ADVP 
+       (RB nunca)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de)
+      (NP 
+       (DT seus)
+       (JJ possíveis)
+       (NN oponentes)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN filho)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP George_Bush)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (NP 
+     (NNP Eddy)
+    )
+    (VP 
+     (VBP ama)
+    )
+    (NP 
+     (NNP Stuart)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP eles)
+    )
+    (VP 
+     (VBP acabam)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBG desencontrando)
+    )
+   )
+  )
+ )
+)

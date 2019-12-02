@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Ele)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP está)
+     (VBG abraçando)
+    )
+    (NP 
+     (DT a)
+     (NN candidatura)
+     (NP 
+      (NNP Quércia)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Itamar_Borges)
+    (NP 
+     (NNP PMDB)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Santa_Fé_do_Sul)
+     )
+    )
+   )
+  )
+ )
+)

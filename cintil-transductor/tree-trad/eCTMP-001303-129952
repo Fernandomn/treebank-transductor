@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Mais)
+     (RB tarde)
+    )
+    (VP 
+     (ADVP 
+      (ADVP 
+       (RB por)
+       (RB acaso)
+      )
+     )
+     (VP 
+      (VB encontrará)
+      (NP 
+       (NP 
+        (NNS Jean)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VP 
+             (VB vive)
+             (RB agora)
+            )
+            (PP 
+             (IN em)
+             (NP 
+              (NNS Paris)
+             )
+            )
+           )
+           (PP 
+            (PP 
+             (IN com)
+             (NP 
+              (DT a)
+              (NP 
+               (PP sua)
+               (NP 
+                (JJ terrível)
+                (NNS mãe)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

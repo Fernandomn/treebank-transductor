@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ feliz)
+       (NNS coincidência)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Reino)
+      (NNS Unido)
+     )
+    )
+    (VP 
+     (VP 
+      (VB assume)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS presidência)
+        (NNS de_)
+        (NNS a)
+        (NNS Comunidade)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN dentro)
+       (IN de)
+      )
+      (NP 
+       (DT uma)
+       (NNS semana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

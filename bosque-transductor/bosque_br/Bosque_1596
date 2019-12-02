@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN incursão)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Wilson_Barros)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN universo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN seres)
+        (ADJP 
+         (JJ noturnos)
+        )
+        (ADJP 
+         (JJ paulistanos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP revela)
+   )
+   (NP 
+    (DT um)
+    (NN traço)
+    (ADJP 
+     (RB tipicamente)
+     (JJ brasileiro)
+    )
+    (NP 
+     (DT uma)
+     (NN espécie)
+     (PP 
+      (IN de)
+      (NP 
+       (NN vergonha)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB ser)
+         )
+         (ADJP 
+          (JJ brasileiro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

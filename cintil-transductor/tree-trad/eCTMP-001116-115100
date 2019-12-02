@@ -1,0 +1,40 @@
+(
+ (S 
+  (NP 
+   (DT Outro)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB preocupe)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS recursos)
+          (ADJP 
+           (JJ económicos)
+           (ADJP 
+            (CC e)
+            (JJ financeiros)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

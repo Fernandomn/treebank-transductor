@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS comissão)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS fiscalização)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB composta)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (DT um)
+        (NNS presidente)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (CD dois)
+         (NNS vogais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

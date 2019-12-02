@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (CD segunda)
+        (NNS candidatura)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Damásio)
+    )
+    (VP 
+     (VB reconduziu)
+     (NP 
+      (NP 
+       (PRP quase)
+       (PRP todos)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS dirigentes)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VB restavam)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

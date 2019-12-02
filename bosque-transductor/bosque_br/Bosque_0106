@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (ADVP 
+    (RB assim)
+   )
+   (NP 
+    (DT tudo)
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT os)
+      (NN afro-americanos)
+     )
+     (VP 
+      (VBP faziam)
+     )
+     (ADVP 
+      (RB bem)
+     )
+    )
+   )
+   (VP 
+    (VBP teve)
+    (IN de)
+    (VB ser)
+    (VBN colocado)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN termos)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP menosprezassem)
+      )
+      (NP 
+       (DT a)
+       (NN qualidade)
+       (ADJP 
+        (JJ em_questão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

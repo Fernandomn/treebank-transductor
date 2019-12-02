@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (JJ novos)
+    (NN proprietários)
+   )
+   (VP 
+    (VBP serão)
+    (VBN integrados)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN rede)
+     (PP 
+      (IN de)
+      (NP 
+       (NN franquia)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Pakalolo)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP conta)
+        )
+        (ADVP 
+         (RB atualmente)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (CD 76)
+          (NN pontos)
+          (PP 
+           (IN de)
+           (NP 
+            (NN venda)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS músicos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Orquestra)
+         (NNS de_)
+         (NNS o)
+         (NNS Teatro)
+         (NNS de)
+         (NNS São)
+         (NNS Carlos)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB disseram)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB traziam)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS pomba)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS paz)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

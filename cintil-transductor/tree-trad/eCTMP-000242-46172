@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NNS Maia)
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB houve)
+      )
+      (NP 
+       (NNS surpresas)
+      )
+     )
+    )
+   )
+   (S 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Nazaré)
+     )
+    )
+    (S 
+     (VP 
+      (VP 
+       (VB registaram)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+     (NP 
+      (PRP alguns)
+      (NNS incidentes)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Só)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Espanha)
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN graças)
+       (IN a)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS calendário)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB é)
+           (JJ superpreenchido)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB haverá)
+     (NP 
+      (NNS Liga)
+     )
+    )
+   )
+  )
+ )
+)

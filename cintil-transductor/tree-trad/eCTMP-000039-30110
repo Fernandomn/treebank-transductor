@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (RB Aqui)
+   (S 
+    (VP 
+     (VB reside)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ principal)
+      (NP 
+       (NNS curiosidade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS prova)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

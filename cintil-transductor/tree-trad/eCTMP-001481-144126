@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Piazzolla)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB dedicou)
+      (RB também)
+     )
+     (NP 
+      (NP 
+       (NNS Nuevo)
+       (NNS Tango)
+       (NNS Suite)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS grupo)
+        (JJ luso-argentino)
+       )
+       (NP 
+        (NP 
+         (NNS Opus)
+         (NNS Ensemble)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Embora)
+     (S 
+      (VP 
+       (RB ainda)
+       (VP 
+        (VB possa)
+        (VP 
+         (VB atemorizar)
+         (NP 
+          (NP 
+           (ADJP 
+            (RB muito)
+            (JJ boa)
+           )
+           (NNS gente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Milan)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB era)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

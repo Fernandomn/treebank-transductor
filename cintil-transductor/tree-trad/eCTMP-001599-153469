@@ -1,0 +1,48 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS propósito)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS comemorações)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS centenário)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS nascimento)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS José)
+                (NNS de)
+                (NNS Azeredo)
+                (NNS Perdigão)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

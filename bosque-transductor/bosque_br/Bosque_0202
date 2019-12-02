@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Aquele)
+    (NN pensamento)
+   )
+   (VP 
+    (VBP provocou-)
+   )
+   (NP 
+    (PRP me)
+   )
+   (NP 
+    (DT um)
+    (NN arrepio)
+    (ADJP 
+     (ADJP 
+      (JJ estranho)
+     )
+     e
+     (ADJP 
+      (JJ delicioso)
+     )
+    )
+   )
+  )
+ )
+)

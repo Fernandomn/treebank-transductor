@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS princípio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS álbum)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS identidade)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS XIII)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (RB finalmente)
+     )
+     (JJ estabelecida)
+    )
+   )
+  )
+ )
+)

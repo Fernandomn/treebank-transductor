@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Por_fim)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (JJ inexpressiva)
+     (NN atuação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (CD duas)
+       (JJ maiores)
+       (NN estrelas)
+       (ADJP 
+        (JJ tricolores)
+       )
+       (NP 
+        (NP 
+         (NNP Leonardo)
+        )
+        e
+        (NP 
+         (NNP Cafu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

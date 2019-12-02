@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Monteiro)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (NNS municípios)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS CES)
+      )
+     )
+    )
+   )
+  )
+ )
+)

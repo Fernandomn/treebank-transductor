@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Em)
+       (IN vez)
+       (IN de_)
+      )
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+    (VP 
+     (VB falou)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS integração)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS tecnologias)
+           (CONJP 
+            (NP 
+             (NP 
+              (PRP que)
+             )
+            )
+            (S 
+             (VP 
+              (VP 
+               (VB disse)
+              )
+              (CONJP 
+               (S 
+                (VP 
+                 (VB mudarão)
+                 (NP 
+                  (DT a)
+                  (NP 
+                   (JJ própria)
+                   (NP 
+                    (NNS essência)
+                    (PP 
+                     (IN de_)
+                     (NP 
+                      (DT a)
+                      (NNS televisão)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

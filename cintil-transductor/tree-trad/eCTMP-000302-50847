@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Bramma)
+      (NNS Duck)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS The)
+        (NNS Fires)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS Jesus)
+         (NNS Blood)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS bandas)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB participam)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Festival)
+            (NNS Rock)
+            (NNS de)
+            (NNS Portimão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

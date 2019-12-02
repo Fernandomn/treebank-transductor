@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Magrini)
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (PP 
+      (NP 
+       (DT esta)
+       (NNS semana)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB apresentar)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS instrumento)
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS presidente)
+         (NNS haitiano)
+         (NNS Jean-Baptiste)
+         (NNS Aristide)
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT uma)
+        (NP 
+         (NP 
+          (NNS visita)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS jovens)
+             (JJ canadianos)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (NNS Port-au-Prince)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

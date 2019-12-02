@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN esculturas)
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP faz)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD seis)
+      (NN meses)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,95 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS papel)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NP 
+          (NNS serviços)
+          (JJ aéreos)
+         )
+         (JJ regionais)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS fornecimento)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS ligações)
+              (JJ periféricas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (VB é)
+        (JJ vital)
+       )
+      )
+     )
+     já que
+     (S 
+      (VB ajudará)
+     )
+    )
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS sucesso)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS viabilidade)
+           (JJ económica)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS regiões)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

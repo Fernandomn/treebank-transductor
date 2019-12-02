@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS PCP)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS expectativas)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS reunião)
+         (PP 
+          (IN a)
+          (NP 
+           (CD quatro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB são)
+       )
+       (RB muito)
+      )
+      (VB elevadas)
+     )
+    )
+   )
+  )
+ )
+)

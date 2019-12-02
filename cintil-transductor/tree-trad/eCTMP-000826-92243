@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (ADVP 
+      (RB Cerca)
+      (RB de)
+     )
+     (NP 
+      (CD 60)
+      (NP 
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS vítimas)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Sergipe)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (ADJP 
+     (JJ negras)
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS sexo)
+         (JJ masculino)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

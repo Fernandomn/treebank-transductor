@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Francisco_Lafayette)
+    (NP 
+     (NN administrador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Banco_Banorte)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (VP 
+     (NP 
+      (DT as)
+      (NN cadernetas)
+     )
+     (VP 
+      (VBP estão)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN rendimento)
+       (ADJP 
+        (JJ atraente)
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN fundos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN commodities)
+       )
+      )
+     )
+     (VP 
+      (VBP dão)
+     )
+     (NP 
+      (DT a)
+      (NN vantagem)
+      (ADJP 
+       (JJ adicional)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN resgate)
+        (ADJP 
+         (JJ diário)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NN rentabilidade)
+          (PP 
+           (IN a_partir_de+)
+           (NP 
+            (DT a)
+            (NN carência)
+            (PP 
+             (IN de)
+             (NP 
+              (CD 30)
+              (NN dias)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

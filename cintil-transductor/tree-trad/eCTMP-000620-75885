@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS tarde)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NP 
+          (JJ mesmo)
+          (NNS dia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS parecer)
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      (VB enviado)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS ministra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

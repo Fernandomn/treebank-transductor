@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cavaco)
+    (NNS Silva)
+   )
+  )
+  (VP 
+   (VB ganha)
+   (NP 
+    (NP 
+     (ADVP 
+      (RB mais)
+      (RB de)
+     )
+     (CD mil)
+    )
+    (NNS contos)
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS participantes)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT este)
+       (NP 
+        (CD segundo)
+        (NP 
+         (NNS dia)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS leilão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB chegaram)
+    (ADVP 
+     (RB mais)
+     (RB tarde)
+    )
+   )
+  )
+ )
+)

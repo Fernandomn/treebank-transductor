@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN sequestradores)
+   )
+   (VP 
+    (VBP estariam)
+    (VBG exigindo)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 7)
+     (NN milhões)
+    )
+    (NP 
+     (RB cerca_de)
+     (NN CR$)
+     (NP 
+      (CD 9.6)
+      (NN bilhões)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB libertá-)
+     )
+     (NP 
+      (PRP lo)
+     )
+    )
+   )
+  )
+ )
+)

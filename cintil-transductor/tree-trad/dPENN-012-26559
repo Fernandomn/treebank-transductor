@@ -1,0 +1,47 @@
+(
+ (S 
+  (PP 
+   (PP 
+    (IN Por)
+    (NP 
+     (NNS exemplo)
+    )
+   )
+  )
+  (S 
+   (NP 
+    (DT o)
+    (NNS documento)
+   )
+   (VP 
+    (VB poderia)
+    (VP 
+     (VB envolver)
+     (NP 
+      (NP 
+       (NP 
+        (NNS relações)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS negócios)
+           (JJ estrangeiros)
+          )
+         )
+        )
+       )
+       (NP 
+        (CC ou)
+        (NP 
+         (NNS contas)
+         (JJ bancárias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

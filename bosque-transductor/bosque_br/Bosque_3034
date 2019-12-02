@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADJP 
+    (JJ certo)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB desta_vez)
+    )
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP está)
+      )
+      (ADJP 
+       (RB mais)
+       (JJ atento)
+       (VP 
+        (IN do_que)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NNP Plano_Cruzado)
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP vai)
+       (VB usar)
+      )
+      (PP 
+       (IN segundo)
+       (NP 
+        (DT o)
+        (NN ministro)
+        (NP 
+         (NNP Rubens_Ricupero)
+        )
+       )
+      )
+      (NP 
+       (DT todos)
+       (DT os)
+       (NN artifícios)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB evitar)
+        )
+        (NP 
+         (DT uma)
+         (NN febre)
+         (PP 
+          (IN de)
+          (NP 
+           (NN consumo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

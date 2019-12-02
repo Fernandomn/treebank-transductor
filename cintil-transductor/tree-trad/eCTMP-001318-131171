@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Após)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ pesada)
+        (NP 
+         (NNS derrota)
+         (ADJP 
+          (ADJP 
+           (VB infligida)
+           (PP 
+            (IN por_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS polícia)
+              (JJ sérvia)
+             )
+            )
+           )
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (NP 
+              (NNS grupo)
+              (JJ separatista)
+             )
+             (JJ armado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB regressam)
+   )
+   (NP 
+    (DT as)
+    (NP 
+     (NNS condições)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS recomeço)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS diálogo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

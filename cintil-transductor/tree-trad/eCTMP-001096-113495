@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB pedia)
+      (RB inicialmente)
+     )
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (CD 570)
+      )
+      (NNS contos)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (PRP cada)
+       (PRP uma)
+      )
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS peças)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

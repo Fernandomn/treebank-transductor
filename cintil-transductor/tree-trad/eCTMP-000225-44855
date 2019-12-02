@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB houvesse)
+        )
+        (NP 
+         (NNS concorrentes)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB tinha)
+     (VP 
+      (VB sido)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ boa)
+        (NNS operação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

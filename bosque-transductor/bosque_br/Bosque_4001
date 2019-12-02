@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (DT os)
+     (NN jogadores)
+    )
+    (VP 
+     (VBP souberam)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN investida)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Clemente)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN ala)
+    (NP 
+     (NNP Goicoechea)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP aprestou)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB defender)
+     )
+     (NP 
+      (DT o)
+      (DT seu)
+      (NN patrono)
+     )
+    )
+   )
+  )
+ )
+)

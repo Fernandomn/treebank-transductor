@@ -1,0 +1,99 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (RB Como)
+    (NP 
+     (NN exemplo)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN combate)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN violência)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN prefeito)
+    (ADJP 
+     (JJ carioca)
+    )
+   )
+   (VP 
+    (VBP cita)
+   )
+   (NP 
+    (DT a)
+    (NN criação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Guarda_Municipal)
+      (NP 
+       (DT um)
+       (NN grupo)
+       (PP 
+        (IN de)
+        (NP 
+         (NN atividades)
+         (ADJP 
+          (JJ especiais)
+         )
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP tem)
+         (VBN atuado)
+        )
+        (ADVP 
+         (RB mais)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN liberação)
+          (PP 
+           (IN de)
+           (NP 
+            (NN áreas)
+            (VP 
+             (ADVP 
+              (RB tradicionalmente)
+             )
+             (VP 
+              (VBN ocupadas)
+             )
+             (PP 
+              (IN por)
+              (NP 
+               (NN camelôs)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

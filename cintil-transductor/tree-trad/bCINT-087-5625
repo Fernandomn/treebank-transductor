@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS silêncio)
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB foi)
+      (VP 
+       (VB contestado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS líder)
+           (JJ parlamentar)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS PS)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Assembleia)
+        (NNS Regional)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

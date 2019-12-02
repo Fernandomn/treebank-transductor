@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VB viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS junção)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS líquido)
+         )
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NNS pó)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS cientista)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

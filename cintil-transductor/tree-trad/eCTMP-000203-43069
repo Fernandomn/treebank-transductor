@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ polémico)
+     (NP 
+      (NNS concurso)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS concepção)
+          (NP 
+           (NP 
+            (NNS construção)
+            (NP 
+             (CC e)
+             (NNS exploração)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Lipor)
+            (NNS II)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB teve)
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS final)
+       (JJ feliz)
+      )
+     )
+    )
+   )
+  )
+ )
+)

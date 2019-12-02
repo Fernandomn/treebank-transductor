@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Alfredo)
+      (NNS e)
+      (NNS Barny)
+     )
+    )
+    (VP 
+     (VB estão)
+     (JJ curados)
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (S 
+       (VP 
+        (RB ontem)
+        (VP 
+         (RB já)
+         (VP 
+          (VB realizaram)
+          (NP 
+           (NP 
+            (NNS treino)
+            (JJ condicionado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC mas)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB foram)
+        )
+        (VB convocados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

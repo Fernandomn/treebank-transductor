@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS confederação)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NNS caça)
+     )
+     (VP 
+      (VB deverá)
+      (VP 
+       (VP 
+        (VB ser)
+        (RB profundamente)
+       )
+       (VB encurtada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

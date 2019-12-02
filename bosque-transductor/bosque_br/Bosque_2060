@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP ex-deputado)
+    (NP 
+     (NNP Ibsen_Pinheiro)
+    )
+    (NP 
+     (NNP PMDB-RS)
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP quis)
+   )
+   (VP 
+    (VP 
+     (VB falar)
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN absolvição)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NP ex-presidente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS chamas)
+   )
+   (VP 
+    (VP 
+     (VB continuaram)
+     (RB ontem)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB consumir)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS floresta)
+        (PP 
+         (IN de_)
+         (NP 
+          (NP 
+           (NP 
+            (DT o)
+            (NNS Norte)
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (NNS Centro)
+            )
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS país)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (ADVP 
+       (RB Agora)
+      )
+      (S 
+       (NP 
+        (PRP tudo)
+       )
+       (VP 
+        (VB será)
+        (JJ diferente)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB adiantou)
+    )
+   )
+  )
+ )
+)

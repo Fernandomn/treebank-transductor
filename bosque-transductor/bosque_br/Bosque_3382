@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Toda)
+    (NN platéia)
+    (PP 
+     (IN de)
+     (NP 
+      (NN música)
+      (ADJP 
+       (JJ erudita)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ tradicionalista)
+   )
+   (VP 
+    (VBP explica)
+   )
+  )
+ )
+)

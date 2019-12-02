@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Contru)
+    (NP 
+     (NNP Departamento_de_Controle_e_Uso_de_Imóveis)
+    )
+   )
+   (VP 
+    (VBP desinterditou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (CD dez)
+    (NN salas)
+    (PP 
+     (IN de)
+     (NP 
+      (NN cinema)
+     )
+    )
+   )
+  )
+ )
+)

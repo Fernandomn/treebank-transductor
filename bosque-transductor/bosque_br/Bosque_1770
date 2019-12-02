@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN vantagem)
+   )
+   (VP 
+    (VP 
+     (VB deixar)
+    )
+    (NP 
+     (DT todos)
+     (DT os)
+     (NN passos)
+    )
+    (VBN definidos)
+    (PP 
+     (IN desde)
+     (NP 
+      (DT o)
+      (NN momento)
+      (PP 
+       (IN de)
+       (NP 
+        (NN lançamento)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN plano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

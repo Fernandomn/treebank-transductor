@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Adelaide)
+    )
+    (VP 
+     (VBP critica)
+    )
+    (NP 
+     (NNP Emília)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT esta)
+     )
+    )
+    (VP 
+     (VP 
+      (VB sair)
+     )
+     (ADVP 
+      (RB pouco)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN casa)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB em_seguida)
+    )
+    (VP 
+     (VBP deixa)
+    )
+    (NP 
+     (DT a)
+     (NN sala)
+    )
+    (VP 
+     (VP 
+      (VBN irritada)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (DT pouca)
+       (NN atenção)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP lhe)
+        )
+        (VP 
+         (VBP é)
+         (VBN dispensada)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT a)
+          (NN mãe)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

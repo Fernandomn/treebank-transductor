@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS sucata)
+  )
+  (VP 
+   (PP 
+    (IN de)
+    (NP 
+     (CD 30)
+     (NP 
+      (NNS anos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS guerra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

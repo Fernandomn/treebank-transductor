@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VB chegou)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS cozinha)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB havia)
+     (PP 
+      (IN por)
+      (RB lá)
+     )
+    )
+    (NP 
+     (NP 
+      (JJ grande)
+      (NNS discussão)
+     )
+    )
+   )
+  )
+ )
+)

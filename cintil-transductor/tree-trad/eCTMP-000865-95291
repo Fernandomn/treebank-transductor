@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS eleições)
+      (JJ jordanas)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Novembro)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (RB não)
+      (VB são)
+     )
+     (VB adiadas)
+    )
+   )
+  )
+ )
+)

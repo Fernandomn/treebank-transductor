@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT os)
+     (NN menores)
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (ADJP 
+    (JJ disponíveis)
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NNP Pense_Bem)
+    )
+    (NP 
+     (DT o)
+     (NNP PC_1.000)
+    )
+    (NP 
+     (DT o)
+     (NNP Telepapo)
+    )
+    e
+    (NP 
+     (DT o)
+     (NNP Tá_Na_Hora)
+    )
+   )
+  )
+ )
+)

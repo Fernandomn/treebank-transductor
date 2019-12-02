@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Philadelphia)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (RB apenas)
+     (CD 12)
+     (NN vitórias)
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP perdeu)
+    )
+    (NP 
+     (CD 19)
+     (NN vezes)
+    )
+   )
+  )
+ )
+)

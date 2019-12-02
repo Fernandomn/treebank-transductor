@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (PRP elas)
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (DT as)
+    (NP 
+     (NP 
+      (NN reformas)
+     )
+     e
+     (NP 
+      (NN ampliações)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN hospitais)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNP Tatuapé)
+          (NP 
+           (NN US$)
+           (NP 
+            (CD 7.4)
+            (NN milhões)
+           )
+          )
+         )
+         (NP 
+          (NNP Vila_Nova_Cachoeirinha)
+          (NP 
+           (NN US$)
+           (NP 
+            (CD 17)
+            (NN milhões)
+           )
+          )
+         )
+         e
+         (NP 
+          (NNP Tide_Setubal)
+          (NP 
+           (NN US$)
+           (NP 
+            (CD 9.4)
+            (NN milhões)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

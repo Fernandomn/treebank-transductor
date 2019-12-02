@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Também)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP lhe)
+   )
+   (VP 
+    (VBP pede)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP cometa)
+    )
+    (NP 
+     (DT o)
+     (JJ maior)
+     (NN pecado)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN governante)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP é)
+      )
+      (VP 
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB governar)
+        )
+       )
+       e
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB servir)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN público)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

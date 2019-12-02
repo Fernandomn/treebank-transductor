@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Isto)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NNS crime)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB há)
+     (NP 
+      (NP 
+       (NNS roubo)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS parte)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (PRP quem)
+            )
+            (S 
+             (VP 
+              (VB executa)
+              (NP 
+               (DT a)
+               (NNS cobrança)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

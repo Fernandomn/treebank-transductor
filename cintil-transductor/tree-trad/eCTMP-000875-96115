@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ayrton)
+     (NNS Senna)
+    )
+   )
+   (VP 
+    (VB anunciou)
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (NP 
+        (DT a)
+        (NP 
+         (JJ verdadeira)
+         (NP 
+          (NNS batalha)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Campeonato)
+             (NNS de_)
+             (NNS o)
+             (NNS Mundo)
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VB começa)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Imola)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

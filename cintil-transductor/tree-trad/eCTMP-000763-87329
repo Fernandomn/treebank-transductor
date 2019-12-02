@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS incógnita)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS facturas)
+       (JJ falsas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS réu)
+   )
+   (VP 
+    (VP 
+     (VB terá)
+     (ADVP 
+      (RB ainda)
+     )
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB pagar)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS indemnização)
+         (PP 
+          (IN de)
+          (NP 
+           (CD 3108)
+           (NNS contos)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS vítima)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

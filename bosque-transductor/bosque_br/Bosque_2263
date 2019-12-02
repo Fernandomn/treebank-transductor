@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Mogi_Mirim)
+    )
+    (VP 
+     (VBP venceu)
+    )
+    (ADVP 
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NNP União_São_João)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Araras)
+      )
+     )
+    )
+    (ADVP 
+     (PP 
+      (IN por)
+      (NP 
+       (CD 2)
+      )
+     )
+     (PP 
+      (IN a)
+      (ADJP 
+       (CD 0)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP Mogi)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP deu)
+    )
+    (NP 
+     (DT mais)
+     (CD um)
+     (NN passo)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB conquistar)
+       )
+       (NP 
+        (DT uma)
+        (NN vaga)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Copa_Bandeirantes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

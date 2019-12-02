@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Roma)
+   )
+   (VP 
+    (VBP venceu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT a)
+    (NNP Lazio)
+   )
+   (PP 
+    (RB também)
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN capital)
+     (ADJP 
+      (JJ italiana)
+     )
+    )
+   )
+   (ADVP 
+    (PP 
+     (IN por)
+     (NP 
+      (CD 3)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (CD 0)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN partida)
+     (ADJP 
+      (RB mais)
+      (ADJP 
+       (ADJP 
+        (JJ importante)
+       )
+       e
+       (ADJP 
+        (JJ empolgante)
+       )
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (JJ décima)
+       (NN primeira)
+       (NN rodada)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Campeonato_Italiano)
+         (PP 
+          (IN de)
+          (ADJP 
+           (CD 1994/95)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

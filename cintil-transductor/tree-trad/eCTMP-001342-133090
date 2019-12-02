@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS cotações)
+     (ADJP 
+      (RB ontem)
+      (ADJP 
+       (ADJP 
+        (VB alcançadas)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Lisboa)
+         )
+        )
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT as)
+         (NP 
+          (JJ principais)
+          (NP 
+           (NNS divisas)
+           (JJ internacionais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB causaram)
+    )
+    (NP 
+     (PRP qualquer)
+     (NNS surpresa)
+    )
+   )
+  )
+ )
+)

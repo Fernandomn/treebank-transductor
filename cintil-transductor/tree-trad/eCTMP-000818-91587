@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Londres)
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB anunciou)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT as)
+        (NP 
+         (NNS negociações)
+         (PP 
+          (IN com)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS candidatos)
+            (JJ escolhidos)
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VB começarão)
+        (PP 
+         (IN a)
+         (NP 
+          (CD 31)
+          (NP 
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Março)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

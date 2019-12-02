@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS significado)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS data)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (NNS coisa)
+       (JJ difusa)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP alguns)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (S 
+           (S 
+            (VP 
+             (RB mesmo)
+             (VB querendo)
+            )
+           )
+          )
+          (VP 
+           (VP 
+            (RB não)
+            (VB poderiam)
+           )
+           (VB festejar)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

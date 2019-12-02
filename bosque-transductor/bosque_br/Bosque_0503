@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN candidato)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN Presidência)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NNP PT)
+        (NP 
+         (NNP Partido_dos_Trabalhadores)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Luis_Inácio_Lula_da_Silva)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN convidado)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Marília_Gabriela)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Cara_Cara)
+    )
+   )
+  )
+ )
+)

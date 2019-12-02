@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Barbara)
+     (NNS Grizzuti)
+     (NNS Harrison)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS jornalista)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB entrevistou)
+         (NP 
+          (NP 
+           (NNS Spike)
+           (NNS Lee)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

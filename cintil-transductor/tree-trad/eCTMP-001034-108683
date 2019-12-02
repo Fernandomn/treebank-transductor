@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS catolicismo)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB hoje)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ principal)
+      (NP 
+       (NNS religião)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NP 
+            (NNS cantão)
+            (JJ suíço)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Genebra)
+            )
+           )
+          )
+          (PP 
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (JJ forte)
+              (NP 
+               (NNS tradições)
+               (JJ protestantes)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

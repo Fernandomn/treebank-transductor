@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Santini)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT as)
+     (NN bicicletas)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN trabalho)
+   )
+   (VP 
+    (VBP será)
+   )
+   (ADJP 
+    (RB mais)
+    (ADJP 
+     (ADJP 
+      (JJ rápido)
+     )
+     e
+     (ADJP 
+      (JJ eficiente)
+     )
+    )
+   )
+  )
+ )
+)

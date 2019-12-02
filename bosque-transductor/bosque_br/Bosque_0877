@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Estou)
+   )
+   (ADJP 
+    (JJ certo)
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (NP 
+       (PRP isso)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (PP 
+       (RB muito)
+       (IN a)
+       (VP 
+        (VP 
+         (VB ver)
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NN preponderância)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN eleição)
+            (ADJP 
+             (JJ presidencial)
+            )
+            (PP 
+             (IN sobre)
+             (NP 
+              (DT as)
+              (DT demais)
+              (PP 
+               (RB sobretudo)
+               (IN com)
+               (NP 
+                (DT a)
+                (NN despolitização)
+                (PP 
+                 (IN de+)
+                 (NP 
+                  (DT a)
+                  (NN campanha)
+                  (VP 
+                   (VP 
+                    (VBN provocada)
+                   )
+                   (PP 
+                    (IN por+)
+                    (NP 
+                     (DT a)
+                     (NN força)
+                     (ADJP 
+                      (JJ arrebatadora)
+                     )
+                     (PP 
+                      (IN de+)
+                      (NP 
+                       (DT o)
+                       (NNP Plano_Real)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

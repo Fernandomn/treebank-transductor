@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Sabe)
+   )
+   (VP 
+    (ADVP 
+     (RB por_que)
+    )
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP amo)
+    )
+    (ADVP 
+     (RB tanto)
+    )
+    (NP 
+     (PRP você)
+    )
+   )
+   (NP 
+    (NN querido)
+   )
+  )
+ )
+)

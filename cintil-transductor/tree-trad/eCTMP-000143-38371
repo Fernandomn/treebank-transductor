@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS CNA)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (NP 
+      (NNS sindicância)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS técnicos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS CAP)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

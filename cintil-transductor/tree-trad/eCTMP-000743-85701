@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS parte)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP nosso)
+        (NP 
+         (NNS trabalho)
+         (JJ semanal)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB precisamente)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS procura)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ determinado)
+         (NNS som)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

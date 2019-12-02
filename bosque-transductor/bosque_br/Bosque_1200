@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN serviços)
+    (PP 
+     (IN de)
+     (NP 
+      (NN inteligência)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Argentina)
+       )
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP trabalham)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN ajuda)
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Mossad)
+          (NP 
+           (NN serviço)
+           (ADJP 
+            (JJ secreto)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNP Israel)
+            )
+           )
+          )
+         )
+        )
+        e
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP FBI)
+          (NP 
+           (NNP Polícia_Federal)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT os)
+             (NNP EUA)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP atribuem)
+   )
+   (NP 
+    (DT o)
+    (NN atentado)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Hizbollah)
+     (NP 
+      (NN grupo)
+      (ADJP 
+       (JJ muçulmano)
+      )
+      (ADJP 
+       (JJ xiita)
+      )
+      (ADJP 
+       (JJ pró-Irã)
+      )
+     )
+    )
+   )
+  )
+ )
+)

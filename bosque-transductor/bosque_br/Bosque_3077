@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN coreografia)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Susan_Marshall)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT o)
+      (NNP Ballet_de_Lyon)
+     )
+     (VP 
+      (VBP dança)
+     )
+     (ADVP 
+      (RB hoje)
+     )
+    )
+   )
+   (VP 
+    (VBP chama-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (NP 
+    (NNP Central_Figure)
+    (PP 
+     (IN com)
+     (NP 
+      (NN música)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Philip_Glass)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

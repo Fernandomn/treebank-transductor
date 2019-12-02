@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (VP 
+     (VP 
+      (VB acompanhado)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS visita)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS primeiro-ministro)
+          (NNS israelita)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Benjamin)
+          (NNS Netanyahu)
+         )
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN por_)
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS chefe)
+           (NNS de_)
+           (NNS a)
+           (NNS diplomacia)
+          )
+         )
+         (NP 
+          (NP 
+           (NNS David)
+           (NNS Levy)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

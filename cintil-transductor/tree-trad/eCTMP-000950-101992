@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Zenha)
+    )
+    (VP 
+     (VB abandonou)
+     (NP 
+      (DT o)
+      (NNS PS)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB já)
+      (VP 
+       (PP 
+        (IN por)
+        (NP 
+         (PRP diversas)
+         (NNS vezes)
+        )
+       )
+       (VP 
+        (VB fez)
+        (NP 
+         (NP 
+          (NNS críticas)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (NP 
+              (NNS consulado)
+              (JJ presidencial)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS Mário)
+                (NNS Soares)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

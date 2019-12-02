@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNS Internet)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NNS escolas)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (CD próximo)
+      (NP 
+       (NNS ano)
+       (JJ lectivo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

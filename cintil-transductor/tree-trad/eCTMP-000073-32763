@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS área)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS terreno)
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB comprou)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB está)
+    )
+    (ADJP 
+     (VB desanexada)
+    )
+   )
+  )
+ )
+)

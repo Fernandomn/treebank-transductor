@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS estudo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS WEF)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB representa)
+    (NP 
+     (CD 49)
+     (NNS países)
+    )
+   )
+  )
+ )
+)

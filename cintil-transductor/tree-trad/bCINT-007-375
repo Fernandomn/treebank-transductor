@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS termos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS audiência)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS aposta)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB podia)
+     )
+     (VP 
+      (VP 
+       (VB ter)
+       (VP 
+        (VB sido)
+        (JJ melhor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

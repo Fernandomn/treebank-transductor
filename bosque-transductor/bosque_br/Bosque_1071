@@ -1,0 +1,119 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Montoro)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT esses)
+      (NN US$)
+      (NP 
+       (CD 15)
+       (NN bilhões)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+    (VP 
+     (VBP deixa)
+     (IN de)
+     (VB pagar)
+    )
+    (NP 
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 1.5)
+       (NN bilhão)
+      )
+      (PP 
+       (IN $/)
+       (NP 
+        (NN ano)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN juros)
+        (ADJP 
+         (JJ anuais)
+        )
+       )
+      )
+     )
+     mais
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 1.5)
+       (NN bilhão)
+      )
+      (PP 
+       (IN $/)
+       (NP 
+        (NN ano)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN amortizações)
+        (PP 
+         (IN de)
+         (NP 
+          (NN dívidas)
+         )
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (DT mais)
+      (NN US$)
+      (NP 
+       (CD 2)
+       (NN bilhões)
+      )
+      (PP 
+       (IN $/)
+       (NP 
+        (NN ano)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN aportes)
+        (PP 
+         (IN de)
+         (NP 
+          (NN capitais)
+          (PP 
+           (IN a+)
+           (NP 
+            (DT as)
+            (NN empresas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

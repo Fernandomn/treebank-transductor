@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Não)
+     )
+     (VP 
+      (VBP tínhamos)
+     )
+     (NP 
+      (DT uma)
+      (NN segurança)
+      (ADJP 
+       (JJ exemplar)
+      )
+     )
+    )
+    mas
+    (VP 
+     (NP 
+      (PRP ela)
+     )
+     (VP 
+      (VBP era)
+     )
+     (ADJP 
+      (JJ suficiente)
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB permitir)
+        )
+        (NP 
+         (DT o)
+         (NN alvará)
+         (PP 
+          (IN de)
+          (NP 
+           (NN licença)
+          )
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN bombeiros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+  )
+ )
+)

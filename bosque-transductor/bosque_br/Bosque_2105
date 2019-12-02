@@ -1,0 +1,117 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN aquecimento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN vendas)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (JJ últimos)
+        (CD dois)
+        (NN meses)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP fez)
+   )
+   (VP 
+    (PP 
+     (IN com)
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NN empresário)
+       (ADJP 
+        (JJ carioca)
+       )
+       (NP 
+        (NNP Arthur_Sendas)
+       )
+      )
+      (VP 
+       (VBP desengavetasse)
+      )
+      (NP 
+       (JJ antigo)
+       (NN projeto)
+       (PP 
+        (IN de)
+        (NP 
+         (NN construção)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NN shopping_center)
+           )
+           (NP 
+            (NN hipermercado)
+           )
+           e
+           (NP 
+            (NN conjunto)
+            (ADJP 
+             (JJ residencial)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NN área)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN grupo)
+            )
+           )
+           (VP 
+            (VP 
+             (VBN localizada)
+            )
+            (PP 
+             (IN em+)
+             (NP 
+              (DT a)
+              (NNP Via_Dutra)
+             )
+            )
+            (PP 
+             (IN em+)
+             (NP 
+              (DT o)
+              (NN final)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NNP Linha_Vermelha)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

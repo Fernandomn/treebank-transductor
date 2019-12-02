@@ -1,0 +1,44 @@
+(
+ (S 
+  (NP 
+   (NNP Folha)
+   (NP 
+    (DT O)
+    (NNP Banco_Central)
+   )
+   (VP 
+    (VBP está)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBG espelhando)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN experiência)
+     (PP 
+      (IN de)
+      (NP 
+       (DT algum)
+       (DT outro)
+       (NN país)
+       (PP 
+        (IN em)
+        (NP 
+         (NN operação)
+         (ADJP 
+          (JJ semelhante)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS hora)
+       (JJ fatídica)
+      )
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (RB ritualmente)
+        (S 
+         (S 
+          (VP 
+           (VB começaram)
+           (PP 
+            (IN a)
+            (VB chegar)
+           )
+          )
+          (NP 
+           (DT as)
+           (NNS visitas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

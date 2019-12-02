@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Economista)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS chefia)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

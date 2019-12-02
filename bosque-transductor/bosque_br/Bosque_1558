@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Feira)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (JJ boa)
+    (NN oportunidade)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB comparar)
+      )
+      (NP 
+       (NN qualidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NN impressão)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN modelos)
+         (PP 
+          (IN de)
+          (NP 
+           (JJ baixo)
+           (NN preço)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP veja)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (NP 
+    (DT os)
+    (JJ novos)
+    (NN monitores)
+   )
+  )
+ )
+)

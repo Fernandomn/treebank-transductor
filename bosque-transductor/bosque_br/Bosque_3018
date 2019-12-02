@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN delegação)
+    (ADJP 
+     (JJ britânica)
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT a)
+    (ADJP 
+     (RB mais)
+     (JJ forte)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN termos)
+     (ADJP 
+      (JJ intelectuais)
+     )
+    )
+   )
+   (VP 
+    (IN embora)
+    (NP 
+     (DT outros)
+     (NN participantes)
+    )
+    (VP 
+     (VBP tivessem)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (PRP ela)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NN opinião)
+     (ADJP 
+      (RB algo)
+      (VBN debochada)
+     )
+    )
+   )
+  )
+ )
+)

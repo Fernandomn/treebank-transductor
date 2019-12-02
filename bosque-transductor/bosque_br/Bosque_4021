@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN senhor)
+    )
+    (VP 
+     (VBP acha)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN usuário)
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (NN questão)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NN saúde)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN educação)
+        )
+       )
+       ou
+       (PP 
+        (IN de)
+        (NP 
+         (NN polícia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

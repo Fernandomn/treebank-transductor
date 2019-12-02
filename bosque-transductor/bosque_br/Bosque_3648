@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (ADJP 
+     (DT os)
+     (CD cinco)
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Baselitz)
+    )
+    (NP 
+     (NNP Immendorff)
+    )
+    e
+    (NP 
+     (NNP Kirkeby)
+    )
+   )
+   (VP 
+    (VBP fizeram)
+   )
+   (ADVP 
+    (RB melhor)
+   )
+  )
+ )
+)

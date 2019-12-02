@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Ele)
+     )
+     (VP 
+      (VB é)
+      (VP 
+       (VB procurado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Autoridade)
+          (NNS Palestiniana)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (PP nossos)
+        (NP 
+         (NNS serviços)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS segurança)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB continuam)
+       (PP 
+        (IN a)
+        (VP 
+         (VB persegui)
+         (NP 
+          (PRP -lo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

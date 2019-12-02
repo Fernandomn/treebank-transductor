@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Pediram)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ nova)
+        (NP 
+         (NNS direcção)
+         (ADJP 
+          (VB nomeada)
+          (PP 
+           (IN entre)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS professores)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS casa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB obtiveram)
+       )
+       (NP 
+        (NNS resposta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS CEE)
+  )
+  (VP 
+   (VP 
+    (VB pressiona)
+    (NP 
+     (NNS Bélgica)
+    )
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (NP 
+      (NNS publicidade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS TF1)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

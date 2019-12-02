@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (PP seu)
+      (NP 
+       (CD último)
+       (NNS livro)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS One)
+       (NNS of)
+       (NNS the)
+       (NNS Family)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB publicado)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Maio)
+     )
+    )
+   )
+  )
+ )
+)

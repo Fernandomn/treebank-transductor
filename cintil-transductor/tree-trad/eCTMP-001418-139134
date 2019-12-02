@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cinema)
+    )
+    (ADVP 
+     (RB também)
+    )
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS Videoteca)
+        (NNS de)
+        (NNS Lisboa)
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Largo)
+           (NNS de_)
+           (NNS o)
+           (NNS Calvário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

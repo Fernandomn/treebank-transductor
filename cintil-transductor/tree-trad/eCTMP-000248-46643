@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Azerbaijão)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Hungria)
+       (NNS e)
+       (NNS Liechtenstein)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB extremaram)
+     (NP 
+      (DT as)
+      (NP 
+       (PP suas)
+       (NNS posições)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB impedindo)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (DT o)
+          (NNS encontro)
+         )
+         (VP 
+          (VB terminasse)
+          (PP 
+           (IN com)
+           (NP 
+            (NP 
+             (NNS fumo)
+             (JJ branco)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

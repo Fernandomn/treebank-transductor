@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT As)
+     (NP 
+      (NNS notícias)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS comunicação)
+         (JJ social)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (JJ raras)
+   )
+  )
+ )
+)

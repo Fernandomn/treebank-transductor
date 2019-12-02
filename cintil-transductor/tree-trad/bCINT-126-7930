@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isto)
+    )
+    (VP 
+     (CONJP 
+      (CC se)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB fosse)
+        )
+        (ADJP 
+         (RB tão)
+         (JJ grave)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB era)
+      (NP 
+       (DT uma)
+       (NNS anedota)
+      )
+     )
+    )
+   )
+  )
+ )
+)

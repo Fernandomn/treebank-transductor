@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN domingo)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Campos)
+     (NP 
+      (CD 280)
+      (NN km)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN norte)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Rio)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Brizola)
+   )
+   (VP 
+    (VBP concentrou)
+   )
+   (NP 
+    (DT as)
+    (NN críticas)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNP Cardoso)
+     )
+     e
+     (NP 
+      (NNP Lula)
+     )
+    )
+   )
+  )
+ )
+)

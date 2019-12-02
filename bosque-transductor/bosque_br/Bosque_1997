@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Chegaram)
+   )
+   (UCP 
+    (ADJP 
+     (JJ famintos)
+    )
+    e
+    (VBN esfarrapados)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN cabeceiras)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Purus)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (CD quatro)
+     (NN meses)
+     (PP 
+      (IN de)
+      (NP 
+       (NN viagem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS chamas)
+    )
+    (VP 
+     (VP 
+      (VB foram)
+      (RB rapidamente)
+     )
+     (VP 
+      (VB extintas)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT os)
+        (NNS bombeiros)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB tendo)
+      )
+     )
+     (VP 
+      (VB registado)
+      (NP 
+       (PRP quaisquer)
+       (NP 
+        (NNS ferimentos)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS ocupantes)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS avioneta)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

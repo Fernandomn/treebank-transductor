@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NP 
+       (NNS lençol)
+       (JJ freático)
+      )
+     )
+     (VP 
+      (VP 
+       (VB está)
+       (PP 
+        (IN a)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS metro)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS profundidade)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT aquele)
+        (NNS local)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB diz)
+     (NP 
+      (NP 
+       (NNS Dario)
+       (NNS Cardador)
+      )
+     )
+    )
+   )
+  )
+ )
+)

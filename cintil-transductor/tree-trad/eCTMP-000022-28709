@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Governo)
+     (NNS Civil)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB autorizou)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS funcionamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS bar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

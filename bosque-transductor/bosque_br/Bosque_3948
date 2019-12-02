@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Determinadas)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NNP Conselho_Federal_de_Medicina)
+      (NP 
+       (NNP CFM)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NN normas)
+    (ADJP 
+     (JJ éticas)
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN inspiradas)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (PP 
+      (IN de)
+      (NP 
+       (DT outros)
+       (NN países)
+       (UCP 
+        (NP 
+         (NNP Estados_Unidos)
+        )
+        (NP 
+         (NNP França)
+        )
+        e
+        (NP 
+         (NNP Itália)
+        )
+        (ADVP 
+         (RB por_exemplo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

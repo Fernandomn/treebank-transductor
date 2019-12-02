@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS resultados)
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (JJ decepcionantes)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS oposição)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB conquistou)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS total)
+            )
+           )
+          )
+          (NP 
+           (CD 59)
+           (NNS lugares)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

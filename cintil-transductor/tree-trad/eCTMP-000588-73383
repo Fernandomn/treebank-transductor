@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (PRP muitos)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (RB ainda)
+        (VP 
+         (RB não)
+         (VB vão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

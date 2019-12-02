@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Preços)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS pescado)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VB subiram)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Algarve)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN galpão)
+    )
+   )
+   (VP 
+    (VBP serão)
+    (VBN mostradas)
+   )
+   (NP 
+    (NN fotos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN bastidores)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN lançamentos)
+        (PP 
+         (IN de)
+         (NP 
+          (NN moda)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN registros)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Claudia_Guimarães)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Folha_Imagem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

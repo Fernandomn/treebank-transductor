@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP Ex-pastor)
+    (VP 
+     (VP 
+      (VBN acusado)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN estupro)
+       )
+       e
+       (NP 
+        (NN morte)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN preso)
+   )
+  )
+ )
+)

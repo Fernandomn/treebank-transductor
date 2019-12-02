@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NNP Fifa)
+    )
+    e
+    (NP 
+     (DT a)
+     (NNP CBF)
+    )
+   )
+   (VP 
+    (VBP deveriam)
+    (VB entrar)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN sola)
+    )
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT esse)
+      (NN caso)
+     )
+    )
+    e
+    (PP 
+     (IN em)
+     (NP 
+      (DT todas)
+      (DT as)
+      (DT outras)
+      (NN federações)
+     )
+    )
+   )
+  )
+ )
+)

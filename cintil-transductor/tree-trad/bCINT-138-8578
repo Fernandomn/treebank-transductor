@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Gosto)
+    (PP 
+     (IN de_)
+     (NP 
+      (NP 
+       (DT estas)
+       (NP 
+        (NNS vozes)
+        (JJ cruas)
+       )
+      )
+      (NP 
+       (NP 
+        (DT aquela)
+        (NP 
+         (NNS onda)
+         (PP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Johny)
+             (NNS Rotten)
+            )
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (RB até)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS Bowie)
+               (CONJP 
+                (CONJP 
+                 (NP 
+                  (PRP que)
+                 )
+                 (S 
+                  (S 
+                   (VP 
+                    (VP 
+                     (RB não)
+                     (VB canta)
+                    )
+                    (PP 
+                     (RB bem)
+                     (PP 
+                      (IN em)
+                      (NP 
+                       (NNS falsete)
+                      )
+                     )
+                    )
+                   )
+                  )
+                  (S 
+                   (CC mas)
+                   (S 
+                    (VP 
+                     (VB tem)
+                     (NP 
+                      (DT a)
+                      (NP 
+                       (NNS voz)
+                       (JJ puxada)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

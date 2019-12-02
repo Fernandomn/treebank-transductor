@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN junho)
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN pedidas)
+   )
+   (NP 
+    (CD 145)
+    (NN ações)
+    (ADJP 
+     (JJ revisionais)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN aluguel)
+     )
+    )
+   )
+  )
+ )
+)

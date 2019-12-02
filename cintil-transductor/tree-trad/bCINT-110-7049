@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NNS imagens)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS países)
+          )
+         )
+        )
+        (ADJP 
+         (ADVP 
+          (RB mais)
+          (RB facilmente)
+         )
+         (JJ exportáveis)
+        )
+       )
+      )
+      (VP 
+       (VB são)
+       (NP 
+        (DT as)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS estereótipos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

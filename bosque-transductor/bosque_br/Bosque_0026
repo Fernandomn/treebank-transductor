@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN época)
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ então)
+    (NN ministro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Fazenda)
+     )
+    )
+    (NP 
+     (NNP Fernando_Henrique_Cardoso)
+    )
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (DT um)
+    (NN pronunciamento)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN cadeia)
+     (ADJP 
+      (JJ nacional)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB anunciar)
+     )
+     (NP 
+      (DT a)
+      (NN intenção)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN governo)
+       )
+      )
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB destinar)
+        )
+        (NP 
+         (DT o)
+         (NNP FSE)
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (NN investimentos)
+          (ADJP 
+           (JJ sociais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

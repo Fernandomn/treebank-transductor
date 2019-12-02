@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD três)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (NN presos)
+   )
+   (PP 
+    (IN desde)
+    (NP 
+     (CD 30)
+     (PP 
+      (IN de)
+      (NP 
+       (NN julho)
+       (PP 
+        (IN de)
+        (ADJP 
+         (CD 93)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

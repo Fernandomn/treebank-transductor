@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP TVA)
+   )
+   (VP 
+    (VBP apresenta)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN VT)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN partida)
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (NNP Detroit)
+      )
+      e
+      (NP 
+       (NNP Dallas)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 7h)
+    )
+   )
+  )
+ )
+)

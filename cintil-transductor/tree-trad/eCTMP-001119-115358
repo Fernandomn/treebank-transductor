@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS inculturação)
+    )
+    (VP 
+     (VB deve)
+     (VP 
+      (VP 
+       (VB ser)
+       (RB sempre)
+      )
+      (ADJP 
+       (JJ particular)
+       (ADJP 
+        (CC e)
+        (JJ concreta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

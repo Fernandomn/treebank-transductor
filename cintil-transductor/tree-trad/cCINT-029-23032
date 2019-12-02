@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Elas)
+    )
+    (VP 
+     (VP 
+      (VB passam)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS dia)
+        (JJ inteirinho)
+       )
+      )
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB espiolhar)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (DT os)
+            (NP 
+             (JJ outros)
+            )
+           )
+           (VP 
+            (VB fazem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB é)
+      (JJ irritante)
+     )
+    )
+   )
+  )
+ )
+)

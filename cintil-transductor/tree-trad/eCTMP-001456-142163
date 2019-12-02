@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS acessibilidades)
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (ADVP 
+       (ADVP 
+        (RB de)
+        (RB facto)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS nó)
+        (JJ górdio)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP nossa)
+          (NNS região)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

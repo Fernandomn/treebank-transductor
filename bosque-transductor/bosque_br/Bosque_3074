@@ -1,0 +1,91 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (PP 
+    (IN além_de)
+    (VP 
+     (VP 
+      (VB dirigir)
+     )
+     (NP 
+      (DT seu)
+      (NN grupo)
+      (VP 
+       (VP 
+        (VBN sediado)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Nova_York)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP vai)
+    (VB atuar)
+   )
+   (ADVP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (NN coreógrafo-residente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Ballet_da_Ópera_de_Lyon)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP acaba)
+         (IN de)
+         (VB nomear-)
+        )
+        (NP 
+         (PRP lo)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NN cargo)
+          (VP 
+           (ADVP 
+            (RB antes)
+           )
+           (VP 
+            (VBN ocupado)
+           )
+           (PP 
+            (IN por)
+            (NP 
+             (NNP Maguy_Marin)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS culpa)
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS chuva)
+     )
+    )
+   )
+  )
+ )
+)

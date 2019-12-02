@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN desfiles)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP realizam)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (JJ segundo)
+     (NN ano)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NP 
+       (NN tendas)
+      )
+      ou
+      (NP 
+       (NN pavilhões)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN localizados)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Bryant_Park)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP fica)
+         )
+         (PP 
+          (IN atrás_de+)
+          (NP 
+           (DT a)
+           (NNP Biblioteca_Nacional)
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN rua)
+           (ADJP 
+            (CD 40)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

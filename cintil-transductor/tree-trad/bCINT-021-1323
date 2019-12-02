@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Nós)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB impomos)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Constituição)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS princípio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS simultaneidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

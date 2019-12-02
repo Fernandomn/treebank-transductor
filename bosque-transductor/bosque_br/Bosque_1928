@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN produtos)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ profissionais)
+   )
+   (PP 
+    (PP 
+     (IN para)
+     (NP 
+      (NN institutos)
+     )
+    )
+    e
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN consumidor)
+     )
+    )
+   )
+  )
+ )
+)

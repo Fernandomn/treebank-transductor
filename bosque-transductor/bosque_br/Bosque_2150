@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (DT mesmo)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP ocorre)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN mistura)
+     (PP 
+      (IN de)
+      (NP 
+       (NN tinta)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NN parede)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS texto)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS causa)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (VB referido)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS nome)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS porta-voz)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS presidente)
+           (NNS de_)
+           (NNS a)
+           (NNS CML)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

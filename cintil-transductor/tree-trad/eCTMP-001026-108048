@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB Liderávamos)
+        (NP 
+         (DT o)
+         (NNS campeonato)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (CD oito)
+         (NP 
+          (NNS pontos)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS vantagem)
+             (PP 
+              (IN sobre)
+              (NP 
+               (DT o)
+               (NNS Mónaco)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (RB pouco)
+       (PP 
+        (PP 
+         (IN antes)
+         (IN de_)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS interrupção)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB acabámos)
+       (PP 
+        (IN por)
+        (VP 
+         (VB perder)
+         (NP 
+          (DT o)
+          (NNS comando)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VB era)
+     (JJ republicano)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB tinha)
+      (NP 
+       (NP 
+        (NNS filhos)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB eram)
+           (VP 
+            (VB tratados)
+            (PP 
+             (IN por)
+             (NP 
+              (NNS afilhados)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

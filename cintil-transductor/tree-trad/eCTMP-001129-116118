@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gião)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NP 
+        (NNS povoação)
+        (JJ pequena)
+       )
+       (ADJP 
+        (ADJP 
+         (RB maioritariamente)
+         (JJ social-democrata)
+        )
+       )
+      )
+      (CONJP 
+       (RB onde)
+       (S 
+        (NP 
+         (PRP toda)
+         (NP 
+          (DT a)
+          (NNS gente)
+         )
+        )
+        (VP 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB conhece)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

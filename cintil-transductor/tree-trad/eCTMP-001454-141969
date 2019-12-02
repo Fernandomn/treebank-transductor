@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Soares)
+    )
+    (VP 
+     (VB fez)
+     (NP 
+      (NNS comparações)
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB apontou)
+       (NP 
+        (NNS diferenças)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB identificou)
+        (NP 
+         (NNS semelhanças)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

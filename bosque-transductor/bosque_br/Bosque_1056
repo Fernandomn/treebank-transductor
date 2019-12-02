@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (VP 
+     (VBP gosta)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN comida)
+      (ADJP 
+       (JJ italiana)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB experimentar)
+   )
+   (NP 
+    (DT o)
+    (NNP Christo's)
+    (NP 
+     (NNP Lexington)
+     (PP 
+      (RB quase)
+      (NN esquina)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNP rua_49)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

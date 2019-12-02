@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS etiquetas)
+   )
+   (VP 
+    (VB terão)
+    (PP 
+     (IN de)
+     (VP 
+      (VB conter)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ seguinte)
+        (NNS informação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

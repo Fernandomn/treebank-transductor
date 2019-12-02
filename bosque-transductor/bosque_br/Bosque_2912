@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Instituto)
+    (PP 
+     (IN com)
+     (NP 
+      (NN nome)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Ulysses)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP atrai)
+   )
+   (NP 
+    (NNP PMDB)
+   )
+  )
+ )
+)

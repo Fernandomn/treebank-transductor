@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS júri)
+   )
+   (VP 
+    (VP 
+     (VB atribuirá)
+     (NP 
+      (NNS prémios)
+     )
+    )
+    (S 
+     (VP 
+      (VB contrariando)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS tempos)
+        (ADJP 
+         (VB estipulados)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS regulamento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

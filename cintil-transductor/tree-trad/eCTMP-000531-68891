@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VP 
+    (VB paga)
+    (NP 
+     (NNS compensação)
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNS empreiteiro)
+    )
+   )
+  )
+ )
+)

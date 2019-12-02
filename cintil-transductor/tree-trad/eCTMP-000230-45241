@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS fim)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS lista)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB ficaram)
+    )
+    (NP 
+     (NP 
+      (DT os)
+      (NNS Sagitários)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NNS Gémeos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

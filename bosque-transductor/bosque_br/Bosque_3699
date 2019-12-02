@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN acidente)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 21h50)
+    )
+   )
+   (PP 
+    (IN perto_de+)
+    (NP 
+     (DT a)
+     (NNP Ponte_Cruzeiro_do_Sul)
+     (NP 
+      (NN zona)
+      (ADJP 
+       (JJ norte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

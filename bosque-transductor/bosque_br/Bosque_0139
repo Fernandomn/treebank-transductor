@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN Mercado)
+    (ADJP 
+     (JJ Americano)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN desenhistas)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN tema)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN oficina)
+      (PP 
+       (IN com)
+       (NP 
+        (NNP David_Campitti)
+        (VP 
+         (VP 
+          (VBP veja)
+         )
+         (NP 
+          (NN trabalho)
+          (PP 
+           (IN de+)
+           (NP 
+            (PRP ele)
+           )
+          )
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (NN lado)
+          )
+         )
+         (NP 
+          (NP 
+           (NN roteirista)
+           (PP 
+            (IN de)
+            (NP 
+             (NN histórias)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NNP Super-Homem)
+              )
+             )
+            )
+           )
+          )
+          e
+          (NP 
+           (NN criador)
+           (PP 
+            (IN de)
+            (NP 
+             (DT vários)
+             (NN personagens)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Antes)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS discurso)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Cavaco)
+          (NNS Silva)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS ranchos)
+       (JJ folclóricos)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS bandas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS música)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB animarão)
+     (NP 
+      (DT a)
+      (NNS assistência)
+     )
+    )
+   )
+  )
+ )
+)

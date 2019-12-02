@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP aceita)
+   )
+   (NP 
+    (NN cartão)
+    (PP 
+     (IN de)
+     (NP 
+      (NN crédito)
+     )
+    )
+    (ADJP 
+     (JJ internacional)
+    )
+   )
+  )
+ )
+)

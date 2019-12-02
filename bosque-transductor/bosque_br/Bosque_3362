@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (NN Pesquisas)
+    )
+    (VP 
+     (VBP comprovam)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (NP 
+       (DT o)
+       (NN motorista)
+      )
+      (VP 
+       (VBP vê)
+      )
+      (NP 
+       (DT a)
+       (NN fiscalização)
+      )
+     )
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP reduz)
+     )
+     (NP 
+      (DT a)
+      (NN velocidade)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (RB pelo_menos)
+       (CD três)
+       (NN quilômetros)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Lehfeld)
+   )
+  )
+ )
+)

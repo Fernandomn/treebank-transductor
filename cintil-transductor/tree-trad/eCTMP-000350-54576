@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (JJ pequenos)
+     (NNS animais)
+    )
+   )
+   (VP 
+    (VP 
+     (VB desenvolvem)
+     (PP 
+      (PP 
+       (IN durante)
+       (NP 
+        (PRP vários)
+        (NNS meses)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (JJ novas)
+       (NP 
+        (NNS células)
+        (JJ sexuais)
+       )
+      )
+      (CONJP 
+       (RB onde)
+       (S 
+        (VP 
+         (VP 
+          (VB fabricam)
+          (NP 
+           (DT os)
+           (NP 
+            (JJ pequenos)
+            (NNS ovos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

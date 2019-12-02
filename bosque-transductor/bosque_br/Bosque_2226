@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP É)
+    )
+    (ADJP 
+     (JJ bonito)
+    )
+    (NP 
+     (PRP isto)
+     (PP 
+      (IN de+)
+      (RB aqui)
+     )
+    )
+   )
+   (VP 
+    (VBP dizia)
+   )
+   (VBN admirado)
+   (NP 
+    (DT um)
+    (NN pescador)
+    (ADJP 
+     (JJ nativo)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP participava)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN gravação)
+      )
+     )
+     (ADVP 
+      (ADVP 
+       (RB como)
+      )
+      (NP 
+       (NN figurante)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (JJ último)
+       (NN dia)
+       (ADJP 
+        (CD 30)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

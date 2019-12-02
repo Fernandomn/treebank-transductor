@@ -1,0 +1,58 @@
+(
+ (S 
+  (NP 
+   (CC E)
+   (NN faturamento)
+   (PP 
+    (IN em)
+    (NP 
+     (NN dobro)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN compositor)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP perdia)
+      )
+      (NP 
+       (DT uma)
+       (NN chance)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB estourar)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN hit_parade)
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT uma)
+           (NN canção)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

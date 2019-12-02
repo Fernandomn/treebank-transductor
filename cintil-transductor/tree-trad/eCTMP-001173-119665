@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Artur)
+     (NNS Gomes)
+    )
+   )
+   (VP 
+    (VB confessou)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS versão)
+       (ADJP 
+        (VB dada)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS acusação)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS factos)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB ocorreram)
+            (PP 
+             (IN durante)
+             (NP 
+              (DT o)
+              (NNS assalto)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

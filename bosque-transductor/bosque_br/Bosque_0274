@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Deve)
+     (VB haver)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN mínimo)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NN linha)
+     (ADJP 
+      (JJ digital)
+     )
+     (VP 
+      (VP 
+       (VBG chegando)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT cada)
+        (NN casa)
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP acho)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (NN serviço)
+      (ADJP 
+       (JJ universal)
+      )
+     )
+     (VP 
+      (VBP deveria)
+      (VB significar)
+     )
+     (ADVP 
+      (RB muito)
+      (RB mais)
+      (SBAR do_que
+       (S 
+        (PRP isso)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (IN do_que)
+    (NP 
+     (DT o)
+     (NN fio)
+    )
+   )
+  )
+ )
+)

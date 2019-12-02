@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (VP 
+    (VBP imagina)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP é)
+     (VBN chegado)
+    )
+    (NP 
+     (DT o)
+     (NN momento)
+    )
+   )
+  )
+ )
+)

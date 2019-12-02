@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Novo)
+    (NP 
+     (NNS impasse)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NNS laboratórios)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS análises)
+            (JJ clínicas)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Algarve)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

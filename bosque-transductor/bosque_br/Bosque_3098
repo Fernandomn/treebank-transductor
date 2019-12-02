@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Dividido)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD seis)
+      (NN partes)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN livro)
+   )
+   (VP 
+    (VBP traz)
+   )
+   (NP 
+    (CD 32)
+    (NN capítulos)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP procuram)
+     )
+     (VP 
+      (VP 
+       (VB abranger)
+      )
+      (NP 
+       (DT todos)
+       (DT os)
+       (NN recursos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN programa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

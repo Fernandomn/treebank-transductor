@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB De)
+    (RB novo)
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT o)
+      (NNS organizador)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS fotógrafo)
+        (NP 
+         (NNS Miguel)
+         (NNS Carvalho)
+         (NNS e)
+         (NNS Silva)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (PP 
+      (IN a)
+      (VP 
+       (VB protagonizar)
+       (NP 
+        (DT uma)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (ADJP 
+             (RB já)
+             (JJ clássicas)
+            )
+            (NP 
+             (NNS noites)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS Sintra)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (CONJP 
+       (CONJP 
+        (CC Quando)
+        (S 
+         (NP 
+          (DT as)
+          (NNS pessoas)
+         )
+         (VP 
+          (VB chegam)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NNS Porto)
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (NP 
+        (DT este)
+       )
+       (VP 
+        (VB é)
+        (NP 
+         (DT o)
+         (NP 
+          (CD primeiro)
+          (NP 
+           (NNS lugar)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB visitam)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NNS Manuel)
+    )
+   )
+  )
+ )
+)

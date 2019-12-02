@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (NP 
+     (CD 205)
+     (NN pacientes)
+     (PP 
+      (IN com)
+      (NP 
+       (NN suspeitas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN doença)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CD 47)
+   )
+   (VP 
+    (VBP revelaram-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (NP 
+    (JJ positivas)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT este)
+     (NN ano)
+    )
+   )
+  )
+ )
+)

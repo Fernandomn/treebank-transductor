@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+   )
+   (VP 
+    (VB são)
+    (VP 
+     (VB influenciados)
+     (PP 
+      (IN por)
+      (NP 
+       (DT aquilo)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB ouviram)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

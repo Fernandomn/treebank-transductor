@@ -1,0 +1,19 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS livro)
+    )
+    (VP 
+     (RB nunca)
+     (VP 
+      (VB foi)
+      (VB publicado)
+     )
+    )
+   )
+  )
+ )
+)

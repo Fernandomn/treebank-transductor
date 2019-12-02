@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS jogo)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB será)
+    )
+    (VP 
+     (VB transmitido)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS televisão)
+        (JJ portuguesa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

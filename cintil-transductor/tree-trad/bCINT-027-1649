@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS alteração)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS estatutos)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB está)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS marcha)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS PSD)
+      )
+     )
+    )
+   )
+  )
+ )
+)

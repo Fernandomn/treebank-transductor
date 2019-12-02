@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN relatório)
+    (ADJP 
+     (JJ sigiloso)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP traz)
+   )
+   (NP 
+    (DT qualquer)
+    (NN lista)
+    (PP 
+     (IN de)
+     (NP 
+      (NN preços)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS ADMINISTRADOR)
+    (JJ JUDICIAL)
+   )
+  )
+  (VP 
+   (VP 
+    (RB NÃO)
+    (VB PAGAVA)
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS FISCO)
+    )
+   )
+  )
+ )
+)

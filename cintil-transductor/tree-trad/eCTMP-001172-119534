@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por)
+    (NP 
+     (NNS contraste)
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (PP 
+       (PP 
+        (IN depois)
+        (IN de_)
+       )
+       (NP 
+        (DT a)
+        (NNS Revolução)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Império)
+          (NNS Napoleónico)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS integração)
+        (ADJP 
+         (JJ social)
+         (ADJP 
+          (CC e)
+          (JJ política)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS judeus)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB ocorria)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS França)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

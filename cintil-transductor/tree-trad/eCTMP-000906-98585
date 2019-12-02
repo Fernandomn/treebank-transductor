@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS público)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Viana)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB pode)
+      (RB assim)
+     )
+     (VP 
+      (VB participar)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS acto)
+          (JJ cultural)
+         )
+         (JJ importante)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (CD um)
+      )
+      (NNS título)
+     )
+    )
+   )
+  )
+ )
+)

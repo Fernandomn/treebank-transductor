@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Começou)
+     (PP 
+      (PP 
+       (IN a)
+       (VB andar)
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a)
+        (VB falar)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (CD 13)
+      )
+      (NNS meses)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isto)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB apenas)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS poeira)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS montanhas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (PP meu)
+             (NNS país)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

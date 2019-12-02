@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Tecnologia)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP usa)
+     )
+     (NP 
+      (NN microorganismos)
+      (ADJP 
+       (JJ devoradores)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN material)
+        (ADJP 
+         (JJ orgânico)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG sendo)
+    (VBN testada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NNP Petrobrás)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isto)
+    )
+   )
+   (CONJP 
+    (CC porque)
+    (S 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS anos)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 89)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (CD 90)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (RB já)
+      (VB prescreveram)
+     )
+    )
+   )
+  )
+ )
+)

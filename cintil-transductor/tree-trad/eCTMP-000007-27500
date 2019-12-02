@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS presidente)
+       (NNS Carlos)
+       (NNS de)
+       (NNS Sousa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB trata)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS orçamento)
+       (ADJP 
+        (ADJP 
+         (JJ típico)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NP 
+            (NP 
+             (NNS concelho)
+             (ADJP 
+              (JJ rural)
+              (ADJP 
+               (CC e)
+               (JJ pobre)
+              )
+             )
+            )
+            (PP 
+             (IN com)
+             (NP 
+              (PRP poucas)
+              (NNS receitas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

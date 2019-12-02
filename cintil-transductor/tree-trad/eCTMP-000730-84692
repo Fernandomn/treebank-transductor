@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Fala)
+      (ADVP 
+       (ADVP 
+        (RB então)
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (CD primeira)
+           (NNS vez)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (JJ pequenos)
+       (NNS partidos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

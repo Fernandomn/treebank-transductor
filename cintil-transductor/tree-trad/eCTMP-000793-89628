@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS From)
+      (NNS Atlantis-Mir)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB podia)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (VP 
+      (VB ler)
+     )
+    )
+    (RB agora)
+   )
+  )
+ )
+)

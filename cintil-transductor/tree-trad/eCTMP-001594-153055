@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB De)
+    (RB um)
+    (RB momento)
+    (RB para)
+    (RB o)
+    (RB outro)
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS casas)
+    )
+    (VP 
+     (VB estavam)
+     (PP 
+      (IN a)
+      (VB cair)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,93 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Teremos)
+     (RB ainda)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Paulo)
+       (NNS Gonzo)
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB cantará)
+           (NP 
+            (NP 
+             (DT Um)
+             (NP 
+              (NNS Abraço)
+              (NNS de)
+              (NNS Natal)
+             )
+            )
+           )
+          )
+          (PP 
+           (IN com)
+           (NP 
+            (NP 
+             (NP 
+              (NNS Nucha)
+             )
+             (NP 
+              (NP 
+               (NP 
+                (NP 
+                 (NNS Carla)
+                 (NNS Caldeira)
+                )
+               )
+               (NP 
+                (NP 
+                 (NP 
+                  (NP 
+                   (NNS Júlio)
+                   (NNS Isidro)
+                  )
+                 )
+                 (NP 
+                  (CC e)
+                  (NP 
+                   (NP 
+                    (NNS Maria)
+                    (NNS de_)
+                    (NNS a)
+                    (NNS Fé)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+            (PP 
+             (PP 
+              (IN entre)
+              (NP 
+               (DT outros)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

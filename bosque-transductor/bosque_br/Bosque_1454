@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN Opala)
+    )
+    (VP 
+     (VBP durou)
+    )
+    (NP 
+     (CD 23)
+     (NN anos)
+    )
+   )
+   (VP 
+    (NP 
+     (DT o)
+     (NNP Chevette)
+    )
+    (NP 
+     (CD 20)
+    )
+   )
+   (VP 
+    (NP 
+     (DT a)
+     (NNP Kombi)
+    )
+    (VP 
+     (VBP segue)
+    )
+    (ADJP 
+     (JJ firme)
+    )
+    (PP 
+     (IN desde)
+     (ADJP 
+      (CD 1957)
+     )
+    )
+   )
+  )
+ )
+)

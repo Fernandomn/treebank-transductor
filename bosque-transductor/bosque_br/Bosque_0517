@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 92)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN Olimpíada)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Barcelona)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NN chinesas)
+   )
+   (VP 
+    (VBP terminaram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ sétimo)
+     (NN lugar)
+     (NP 
+      (NN colocação)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP provocou)
+       )
+       (NP 
+        (JJ grandes)
+        (NN mudanças)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN equipe)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

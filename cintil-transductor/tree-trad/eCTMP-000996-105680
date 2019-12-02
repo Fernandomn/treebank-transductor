@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS fenómeno)
+      (PP 
+       (IN em)
+       (NP 
+        (PRP si)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB era)
+      (VB conhecido)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB conhecia)
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NP 
+        (NNS forma)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS actuação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

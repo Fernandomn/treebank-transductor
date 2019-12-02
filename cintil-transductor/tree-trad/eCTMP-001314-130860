@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS Sunday)
+      (NNS Express)
+     )
+    )
+   )
+   (VP 
+    (VB citou)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS ministro)
+      (CONJP 
+       (NP 
+        (DT cuja)
+        (NNS pasta)
+       )
+       (S 
+        (VP 
+         (VB envolve)
+         (NP 
+          (NP 
+           (NNS negociações)
+           (JJ comerciais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

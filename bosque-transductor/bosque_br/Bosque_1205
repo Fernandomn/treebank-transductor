@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN corrida)
+    (ADJP 
+     (JJ sucessória)
+    )
+   )
+   (VP 
+    (VBP começa)
+   )
+   (NP 
+    (DT esta)
+    (NN semana)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT um)
+     (NN quadro)
+     (ADJP 
+      (RB mais)
+      (UCP 
+       (ADJP 
+        (JJ claro)
+       )
+       e
+       (VBN definido)
+      )
+      (SBAR do_que
+       (S 
+        (DT o)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN semana)
+          (VBN passada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

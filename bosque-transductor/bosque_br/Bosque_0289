@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN intervenção)
+    (ADJP 
+     (JJ militar)
+    )
+    (VBN localizada)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP pode)
+     )
+     (ADVP 
+      (RB imediatamente)
+     )
+     (VP 
+      (VB oferecer)
+     )
+     (NP 
+      (DT algum)
+      (NN alívio)
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (NN efeito)
+     (ADJP 
+      (JJ principal)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN seguinte)
+    (VP 
+     (NP 
+      (DT o)
+      (NN crime)
+     )
+     (ADVP 
+      (RB só)
+     )
+     (VP 
+      (VBP muda)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN lugar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

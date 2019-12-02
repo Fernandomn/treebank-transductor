@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS forma)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS concessão)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VP 
+       (RB não)
+       (VB está)
+      )
+      (ADJP 
+       (VB definida)
+      )
+     )
+    )
+   )
+  )
+ )
+)

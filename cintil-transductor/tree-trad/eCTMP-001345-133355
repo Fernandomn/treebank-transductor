@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Relativamente)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NNS UEO)
+      )
+     )
+    )
+    (VP 
+     (VB tem)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+        (ADVP 
+         (ADVP 
+          (RB de)
+          (RB facto)
+         )
+        )
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NP 
+          (NNS organização)
+          (JJ europeia)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS segurança)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

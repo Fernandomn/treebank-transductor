@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CD primeiro)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (ADJP 
+         (RB menos)
+         (JJ maus)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

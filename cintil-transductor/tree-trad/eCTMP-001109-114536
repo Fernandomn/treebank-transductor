@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Monteiro)
+     (NNS Coelho)
+    )
+   )
+   (VP 
+    (VB exibe)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ longa)
+      (NP 
+       (NP 
+        (NNS série)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS desenhos)
+           (PP 
+            (IN sobre)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS nau)
+              (ADJP 
+               (VB lançada)
+               (PP 
+                (IN a_)
+                (NP 
+                 (DT as)
+                 (NP 
+                  (NNS águas)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT a)
+                    (NNS Índia)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (CD 1843)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

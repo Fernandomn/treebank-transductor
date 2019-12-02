@@ -1,0 +1,161 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT as)
+     (NN razões)
+     (VBN alinhadas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP refletem)
+      )
+      (NP 
+       (NP 
+        (RB apenas)
+        (NN conjeturas)
+        (ADJP 
+         (JJ teóricas)
+        )
+       )
+      )
+      (CC mas)
+      (NP 
+       (DT a)
+       (NN experiência)
+       (VP 
+        (ADVP 
+         (RB duramente)
+        )
+        (VP 
+         (VBN vivida)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT a)
+          (NN nação)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT as)
+          (JJ últimas)
+          (CD duas)
+          (NN décadas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP impõe)
+   )
+   (VP 
+    (VP 
+     (VB dar)
+    )
+    (NP 
+     (DT um)
+     (NN basta)
+     (ADJP 
+      (JJ definitivo)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT todos)
+      (DT os)
+      (NN remanescentes)
+      (PP 
+       (IN de)
+       (NP 
+        (NN indexação)
+        (ADJP 
+         (JJ formal)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VBP sejam)
+       )
+       (NP 
+        (PRP eles)
+       )
+       (PP 
+        (PP 
+         (IN em+)
+         (NP 
+          (DT as)
+          (NN taxas)
+          (PP 
+           (IN de)
+           (NP 
+            (NN juros)
+            (ADJP 
+             (JJ nominais)
+            )
+           )
+          )
+         )
+         (NP 
+          (NNP TR)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN recolhimento)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NN tributos)
+            (NP 
+             (NP 
+              (NNP Ufir)
+             )
+             e
+             (NP 
+              (NN correlatos)
+             )
+            )
+           )
+          )
+         )
+        )
+        e
+        (PP 
+         (IN em+)
+         (NP 
+          (DT os)
+          (NN salários)
+          (NP 
+           (NNP IPC-r)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

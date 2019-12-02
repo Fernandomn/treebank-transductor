@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Oliveira)
+     (NNS de_)
+     (NNS a)
+     (NNS Silva)
+    )
+   )
+   (VP 
+    (VP 
+     (VB liquidou)
+     (NP 
+      (DT as)
+      (NP 
+       (PP suas)
+       (NP 
+        (NNS dívidas)
+        (PP 
+         (IN desde)
+         (NP 
+          (CD 1991)
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT os)
+        (NP 
+         (CD dois)
+         (NP 
+          (NNS anos)
+          (JJ anteriores)
+         )
+        )
+       )
+       (VP 
+        (RB já)
+        (VB prescreveram)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

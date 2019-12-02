@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Álvaro)
+     (NNS de)
+     (NNS Castro)
+    )
+   )
+   (VP 
+    (VB sublinhou)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (JJ nova)
+        (NP 
+         (NNS lei)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS mecenato)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB tem)
+        )
+        (NP 
+         (NNS equiparação)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Europa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

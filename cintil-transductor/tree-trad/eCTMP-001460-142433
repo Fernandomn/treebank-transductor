@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ora)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB é)
+         (JJ necessário)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS medida)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS fundo)
+         )
+        )
+        (ADJP 
+         (CC e)
+         (JJ permanente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

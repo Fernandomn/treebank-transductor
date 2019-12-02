@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Mal)
+     (VP 
+      (VB acabara)
+      (PP 
+       (IN de)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB pronunciar)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT o)
+      (NNS imã)
+     )
+     (VP 
+      (VB provocava)
+      (NP 
+       (NP 
+        (NP 
+         (NNS reacções)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS descontentamento)
+          )
+         )
+        )
+        (ADVP 
+         (RB dentro)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (JJ própria)
+            (NP 
+             (NNS mesquita)
+             (NNS Al-Azhar)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

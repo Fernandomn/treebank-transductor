@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB sou)
+      )
+      (NP 
+       (NP 
+        (NNS parte)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS problema)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB posso)
+       (VP 
+        (VB ser)
+        (NP 
+         (NP 
+          (NNS parte)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS solução)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

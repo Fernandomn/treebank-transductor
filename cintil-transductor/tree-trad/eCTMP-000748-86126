@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS coligação)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (RB só)
+       (VP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS aparência)
+         )
+        )
+        (VB funcionava)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

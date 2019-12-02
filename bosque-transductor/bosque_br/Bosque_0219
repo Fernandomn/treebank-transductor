@@ -1,0 +1,110 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Só)
+    )
+    (NP 
+     (PRP o)
+    )
+    (VP 
+     (VBP procurou)
+    )
+    (NP 
+     (NN tempos)
+    )
+    (ADVP 
+     (RB depois)
+    )
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (NP 
+      (DT o)
+      (NN secretário)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Assuntos_Especiais)
+        (NP 
+         (NNP Eliezer_Baptista)
+        )
+       )
+      )
+     )
+     (VP 
+      (VBP resolveu)
+     )
+     (VP 
+      (VP 
+       (VB preparar)
+      )
+      (NP 
+       (DT o)
+       (NN macroplanejamento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN país)
+        )
+       )
+      )
+      (NP 
+       (DT uma)
+       (NN idéia)
+       (ADJP 
+        (JJ esplendorosa)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (ADVP 
+         (RB infelizmente)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBP resistiu)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN impeachment)
+          (PP 
+           (IN de)
+           (NP 
+            (NNP Collor)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP convocou)
+    )
+    (NP 
+     (NNP Mourão)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT sua)
+      (NN equipe)
+     )
+    )
+   )
+  )
+ )
+)

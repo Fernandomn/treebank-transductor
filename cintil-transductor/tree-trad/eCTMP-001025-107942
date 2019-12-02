@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Ficou)
+    (VP 
+     (VB internado)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (NNS serviços)
+         (NNS de)
+         (NNS Ortopedia)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT aquele)
+          (NP 
+           (NNS centro)
+           (JJ hospitalar)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

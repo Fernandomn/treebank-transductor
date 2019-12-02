@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Ulysses)
+   )
+   (VP 
+    (VBP morreu)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1992)
+    )
+   )
+   (ADVP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (NN presidente)
+     (ADJP 
+      (JJ nacional)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN partido)
+      )
+     )
+    )
+   )
+  )
+ )
+)

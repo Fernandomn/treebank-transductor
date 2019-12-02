@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Em)
+    (RB seguida)
+   )
+   (S 
+    (S 
+     (VP 
+      (VB foram)
+      (VB disparadas)
+     )
+     (NP 
+      (PRP várias)
+      (NP 
+       (NNS salvas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS canhão)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS rio)
+       (NNS Neva)
+      )
+     )
+    )
+   )
+  )
+ )
+)

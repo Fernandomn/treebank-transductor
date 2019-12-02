@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Origem)
+     (JJ criminosa)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS fogo)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB ganha)
+   (NP 
+    (PRP alguma)
+    (NNS consistência)
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Cestos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS rosas)
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NNS palmeiras)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS vasos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB adornavam)
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NNS bancada)
+     )
+    )
+   )
+  )
+ )
+)

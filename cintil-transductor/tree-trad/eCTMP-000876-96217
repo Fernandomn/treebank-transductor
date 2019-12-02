@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Philippe)
+     (NNS Starck)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS imagem)
+       (JJ invertida)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Alberto)
+         (NNS Costa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

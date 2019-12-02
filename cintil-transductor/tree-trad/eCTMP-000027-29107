@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NNS PR)
+  )
+  (VP 
+   (VP 
+    (VB visitará)
+    (NP 
+     (NNS PJ)
+    )
+   )
+   (ADVP 
+    (RB em)
+    (RB breve)
+   )
+  )
+ )
+)

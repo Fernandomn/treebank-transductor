@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS voz)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS mar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP nossa)
+         (NNS inquietação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

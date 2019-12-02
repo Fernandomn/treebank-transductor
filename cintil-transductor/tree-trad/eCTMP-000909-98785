@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS PCP)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (NP 
+      (NP 
+       (NNS computador)
+       (JJ próprio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

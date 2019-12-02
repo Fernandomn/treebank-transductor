@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT outra)
+    (JJ má)
+    (NN notícia)
+    (VP 
+     (NP 
+      (NN empresários)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP declararam)
+     )
+     (ADJP 
+      (JJ contrários)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NNP CIP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

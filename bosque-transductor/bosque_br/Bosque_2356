@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN filósofo)
+    (NP 
+     (NNP José_Arthur_Giannotti)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP sente)
+      )
+      (VBN angustiado)
+      (PP 
+       (IN em)
+       (NP 
+        (NN livrarias)
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP prefere)
+      )
+      (VP 
+       (VP 
+        (VB comprar)
+       )
+       (NP 
+        (DT seus)
+        (NN livros)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NN catálogos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

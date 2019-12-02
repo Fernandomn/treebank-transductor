@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Empresas)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS serviço)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB crescem)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+  )
+ )
+)

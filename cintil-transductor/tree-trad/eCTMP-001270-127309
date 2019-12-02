@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Momentos)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS glória)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS ruas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS cidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

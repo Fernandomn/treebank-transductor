@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Secretaria_das_Finanças)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Prefeitura_de_São_Paulo)
+     )
+    )
+   )
+   (VP 
+    (VBP informou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN a_partir_de)
+     (NP 
+      (NN segunda-feira)
+      (NP 
+       (NN dia)
+       (ADJP 
+        (CD 8)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NNP UFM)
+     (NP 
+      (NNP Unidade_Fiscal_do_Município)
+     )
+    )
+    (VP 
+     (VBP valerá)
+    )
+    (NP 
+     (NN R$)
+     (ADJP 
+      (CD 28.15)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Desde)
+     (RB aí)
+    )
+    (VP 
+     (ADVP 
+      (RB porém)
+     )
+     (VP 
+      (VB parece)
+      (VP 
+       (RB não)
+       (VB existir)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS vontade)
+      (NP 
+       (CC ou)
+       (NP 
+        (NNS capacidade)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS reacção)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS autoridades)
+      )
+     )
+    )
+   )
+  )
+ )
+)

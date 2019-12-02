@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB parar)
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB fumar)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP acabei)
+    (VBG perdendo)
+   )
+   (NP 
+    (DT a)
+    (NN estribeira)
+   )
+   (NP 
+    (DT algumas)
+    (NN vezes)
+   )
+  )
+ )
+)

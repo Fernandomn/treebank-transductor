@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS comunidade)
+      (JJ internacional)
+     )
+    )
+    (VP 
+     (VP 
+      (VB enviou)
+      (NP 
+       (NNS tropas)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NNS zona)
+      )
+     )
+    )
+   )
+  )
+ )
+)

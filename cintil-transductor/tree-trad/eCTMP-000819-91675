@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP nossa)
+     (NNS posição)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+       (NP 
+        (PP 
+         (IN de)
+         (NP 
+          (DT outros)
+          (NNS países)
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (PRP nós)
+       )
+       (VP 
+        (VB somos)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS nação)
+          (JJ diferente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS propósitos)
+     (ADJP 
+      (ADJP 
+       (RB mesmo)
+       (JJ correctos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB podem)
+    (VP 
+     (VB perverter)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+  )
+ )
+)

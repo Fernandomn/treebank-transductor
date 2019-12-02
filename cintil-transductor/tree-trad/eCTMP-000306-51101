@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS país)
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (NP 
+      (NP 
+       (NP 
+        (NNS cientistas)
+        (NP 
+         (CC e)
+         (NP 
+          (NNS unidades)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS investigação)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ alto)
+          (NNS nível)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS campo)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS bioquímica)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS ciência)
+            (JJ farmacêutica)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

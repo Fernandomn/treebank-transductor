@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP São)
+    )
+    (ADJP 
+     (RB mais)
+     (JJ cool)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP falam)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN amor)
+      )
+      (NP 
+       (NN crescimento)
+      )
+      e
+      (NP 
+       (NN amizade)
+      )
+     )
+    )
+    (ADVP 
+     (RB sempre)
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NN viés)
+       (VBN engajado)
+      )
+     )
+    )
+    (ADVP 
+     (RB porém)
+    )
+   )
+  )
+ )
+)

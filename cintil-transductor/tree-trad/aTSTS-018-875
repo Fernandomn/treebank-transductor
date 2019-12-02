@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS João)
+   )
+   (VP 
+    (VB jurava)
+    (CONJP 
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB ser)
+       )
+       (NP 
+        (DT isso)
+       )
+      )
+      (JJ aceitável)
+     )
+    )
+   )
+  )
+ )
+)

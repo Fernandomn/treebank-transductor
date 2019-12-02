@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS alemães)
+      (JJ ocidentais)
+     )
+    )
+    (VP 
+     (VB assumiram)
+     (NP 
+      (DT o)
+      (NNS controlo)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB finalmente)
+      (VP 
+       (VB encontraram)
+       (NP 
+        (NP 
+         (NNS Markus)
+         (NNS Hess)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

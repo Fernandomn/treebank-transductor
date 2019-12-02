@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS corretores)
+   )
+   (VP 
+    (VP 
+     (VB afirmam)
+     (RB agora)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT as)
+       (NNS cotações)
+      )
+      (VP 
+       (VB poderão)
+       (VP 
+        (VP 
+         (VB começar)
+         (PP 
+          (IN a)
+          (VB cair)
+         )
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (PRP qualquer)
+          (NNS momento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS programa)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB é)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS elogio)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS inteligência)
+             (JJ musical)
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS público)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

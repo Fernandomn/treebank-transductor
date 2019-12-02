@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN reunião)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN premiê)
+    (ADJP 
+     (JJ italiano)
+    )
+    (NP 
+     (NNP Silvio_Berlusconi)
+    )
+   )
+   (VP 
+    (VBP leu)
+   )
+   (NP 
+    (DT um)
+    (NN documento)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 45)
+      (NN parágrafos)
+      (VP 
+       (PP 
+        (IN por+)
+        (NP 
+         (PRP o_qual)
+        )
+       )
+       (NP 
+        (CD 140)
+        (NN países)
+       )
+       (VP 
+        (VBP consideram)
+       )
+       (VP 
+        (IN que)
+        (NP 
+         (DT o)
+         (NN crime)
+         (VBN organizado)
+        )
+        (VP 
+         (VBP é)
+        )
+        (NP 
+         (DT o)
+         (JJ maior)
+         (NN inimigo)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (NN democracias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

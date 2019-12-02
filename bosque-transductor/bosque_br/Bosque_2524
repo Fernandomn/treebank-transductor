@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN postura)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP prevalece)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN maioria)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN jogadores)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN seleção)
+           (ADJP 
+            (JJ brasileira)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NN futebol)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

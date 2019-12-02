@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Tentou)
+     (ADVP 
+      (RB mais)
+      (RB tarde)
+     )
+    )
+    (VP 
+     (VB introduzir)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS interrogação)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS ausência)
+          (PP 
+           (IN de)
+           (NP 
+            (DT um)
+            (NP 
+             (NNS projecto)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS estratégia)
+                (JJ nacional)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

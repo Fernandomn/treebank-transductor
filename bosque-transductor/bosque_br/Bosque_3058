@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Gianetti_da_Fonseca)
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN avaliação)
+    )
+    (VP 
+     (VBP tem)
+     (IN que)
+     (VB ser)
+     (VBN feita)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN pares)
+      (NP 
+       (NN pesquisadores)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (DT mesma)
+         (NN área)
+        )
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP façam)
+       )
+       (NP 
+        (NN parte)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN grupo)
+          (VBN analisado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

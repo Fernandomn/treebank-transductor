@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT As)
+       (NP 
+        (NNS famílias)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB vão)
+           (VP 
+            (VB ser)
+            (VB realojadas)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB têm)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT este)
+          (NNS momento)
+         )
+        )
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS intervenção)
+         (ADJP 
+          (ADVP 
+           (RB cada)
+           (RB vez)
+          )
+          (JJ maior)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirma)
+    )
+    (NP 
+     (NP 
+      (NNS Vasco)
+      (NNS Franco)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS Dandy)
+    (CONJP 
+     (NP 
+      (PRP Que)
+     )
+     (S 
+      (VP 
+       (VB Foi)
+       (NP 
+        (NNS Escritor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN alta)
+    (PP 
+     (IN de)
+     (NP 
+      (NN preços)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN fase)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (JJ nova)
+        (NN moeda)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP deverá)
+    (VB ser)
+    (VBN impulsionada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT os)
+     (NN setores)
+     (ADJP 
+      (JJ competitivos)
+     )
+     (NP 
+      (RB como)
+      (NP 
+       (NP 
+        (DT o)
+        (NN agrícola)
+       )
+       e
+       (NP 
+        (DT o)
+        (PP 
+         (IN de)
+         (NP 
+          (NN serviços)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

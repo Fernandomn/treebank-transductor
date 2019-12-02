@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB de)
+    (RB novo)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS polémica)
+    )
+    (VP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS ribalta)
+      )
+     )
+    )
+   )
+  )
+ )
+)

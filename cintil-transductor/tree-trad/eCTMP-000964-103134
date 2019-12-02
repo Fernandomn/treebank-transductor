@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS O)
+     (NNS Varzim)
+    )
+   )
+   (VP 
+    (VB constitui)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS casos)
+          (JJ estranhos)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT este)
+           (NNS campeonato)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS boavisteiros)
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (RB actualmente)
+         (VP 
+          (VB ocupam)
+          (NP 
+           (DT o)
+           (NP 
+            (CD 3º)
+            (NNS lugar)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB baixavam)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD 4ª)
+       (NNS posição)
+      )
+     )
+    )
+   )
+  )
+ )
+)

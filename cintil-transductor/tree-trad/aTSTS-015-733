@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS candidato)
+   )
+   (VP 
+    (VP 
+     (VB destaca)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS liderança)
+     )
+    )
+   )
+  )
+ )
+)

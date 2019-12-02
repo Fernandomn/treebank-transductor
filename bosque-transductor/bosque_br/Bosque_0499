@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN episódio)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (JJ emblemático)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN tipo)
+        (PP 
+         (IN de)
+         (NP 
+          (NN política)
+          (ADJP 
+           (JJ externa)
+          )
+          (VP 
+           (VP 
+            (VBN exercitada)
+           )
+           (PP 
+            (IN por+)
+            (NP 
+             (DT o)
+             (NN governo)
+             (NP 
+              (NNP Clinton)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP ajuda)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB explicar)
+       )
+       (VP 
+        (ADVP 
+         (RB por_que)
+        )
+        (NP 
+         (PRP ela)
+        )
+        (VP 
+         (VBP é)
+        )
+        (ADVP 
+         (RB tão)
+         (RB mal)
+        )
+        (VP 
+         (VBN avaliada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

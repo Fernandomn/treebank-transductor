@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Operadores)
+     (ADJP 
+      (VB contactados)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS PÚBLICO)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB salientam)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP muitos)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esses)
+          (NNS processos)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB puderam)
+       (VP 
+        (VP 
+         (VB ser)
+         (JJ alterados)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS forma)
+           (JJ rápida)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

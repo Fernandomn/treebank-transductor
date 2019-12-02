@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS peça)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VP 
+      (VB representada)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS época)
+       )
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS Comédie-Française)
+       )
+       (NP 
+        (NNS Paris)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

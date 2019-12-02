@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN objetivo)
+   )
+   (VP 
+    (VBP çe)
+   )
+   (VP 
+    (VP 
+     (VB melhorar)
+    )
+    (NP 
+     (DT a)
+     (NN rentabilidade)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN setor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Chiles)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP pertence)
+     )
+     (PP 
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NNP Partido_Democrata)
+       )
+      )
+      e
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (DT mesmo)
+        (NN grupo)
+        (ADJP 
+         (JJ neoconservador)
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP ajudou)
+         )
+         (NP 
+          (NNP Bill_Clinton)
+         )
+         (PP 
+          (IN a)
+          (VP 
+           (VP 
+            (VB chegar)
+           )
+           (PP 
+            (IN a+)
+            (NP 
+             (DT a)
+             (NNP Casa_Branca)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB tentar)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB reeleger)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN novembro)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT este)
+         (NN ano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

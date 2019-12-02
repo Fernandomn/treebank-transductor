@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS jogo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS corda)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Abidjan)
+   )
+  )
+ )
+)

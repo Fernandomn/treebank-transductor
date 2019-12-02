@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Salvo)
+    (NP 
+     (PRP tu)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS clientes)
+    )
+    (VP 
+     (VB estavam)
+     (JJ satisfeitos)
+    )
+   )
+  )
+ )
+)

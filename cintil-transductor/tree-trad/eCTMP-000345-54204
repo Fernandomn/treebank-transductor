@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS mercado)
+       (JJ europeu)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Inglaterra)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS Suécia)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS Alemanha)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (DT os)
+      (NP 
+       (JJ principais)
+       (NNS compradores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

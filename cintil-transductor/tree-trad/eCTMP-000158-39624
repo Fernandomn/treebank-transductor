@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Trata)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (ADVP 
+     (RB efectivamente)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS devaneios)
+          (JJ filosóficos)
+         )
+         (CONJP 
+          (PP 
+           (IN com)
+           (NP 
+            (PRP que)
+           )
+          )
+          (S 
+           (RB ocasionalmente)
+           (S 
+            (NP 
+             (DT o)
+             (NP 
+              (NNS Presidente)
+              (NNS de_)
+              (NNS a)
+              (NNS República)
+             )
+            )
+            (VP 
+             (VP 
+              (VB brinda)
+              (NP 
+               (DT os)
+               (NNS portugueses)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

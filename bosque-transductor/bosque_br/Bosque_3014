@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Este)
+    )
+    (ADVP 
+     (RB sim)
+    )
+    (VP 
+     (VBP seria)
+    )
+    (NP 
+     (NN modelo)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN certeza)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

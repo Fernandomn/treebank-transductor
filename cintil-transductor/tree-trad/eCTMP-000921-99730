@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Powell)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT um)
+      (NNS músico)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS pianista)
+        (JJ genial)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

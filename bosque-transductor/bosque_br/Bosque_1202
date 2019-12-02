@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (NP 
+    (DT o)
+    (NN juiz)
+    (NP 
+     (NNP Juan_Jose_Galeano)
+    )
+    (ADJP 
+     (JJ responsável)
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN caso)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP viajou)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NNP Venezuela)
+    )
+   )
+  )
+ )
+)

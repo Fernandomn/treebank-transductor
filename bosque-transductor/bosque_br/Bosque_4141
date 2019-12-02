@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN energia)
+    (ADJP 
+     (JJ nuclear)
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN usada)
+   )
+   (PP 
+    (RB só)
+    (IN para)
+    (VP 
+     (VP 
+      (VB movimentar)
+     )
+     (NP 
+      (DT a)
+      (NN embarcação)
+     )
+    )
+   )
+  )
+ )
+)

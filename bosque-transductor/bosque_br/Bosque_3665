@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN banheiro)
+    )
+   )
+   (NP 
+    (DT um)
+    (NN funcionário)
+   )
+   (VP 
+    (VBP vende)
+   )
+   (UCP 
+    (NP 
+     (NN balas)
+    )
+    (NP 
+     (NN cigarros)
+    )
+    (NP 
+     (NN chocolates)
+    )
+    (NP 
+     (NN água)
+     (ADJP 
+      (JJ mineral)
+     )
+    )
+    (NP 
+     (NN remédios)
+     (NP 
+      (NNP Engov)
+     )
+    )
+    e
+    (ADJP 
+     (JJ claro)
+    )
+    (NP 
+     (NN camisinhas)
+    )
+   )
+  )
+ )
+)

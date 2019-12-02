@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Uma)
+     (NP 
+      (NP 
+       (NNS Bohème)
+      )
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (VP 
+         (VP 
+          (VP 
+           (RB não)
+           (VB há)
+          )
+          (NP 
+           (NP 
+            (NNS empatia)
+            (PP 
+             (IN entre)
+             (NP 
+              (NP 
+               (DT a)
+               (NNS plateia)
+              )
+              (NP 
+               (CC e)
+               (NP 
+                (DT o)
+                (NNS palco)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS Bohème)
+     )
+    )
+   )
+  )
+ )
+)

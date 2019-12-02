@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Castelo)
+    (NNS de_)
+    (NNS a)
+    (NNS Maia)
+   )
+  )
+  (VP 
+   (VB vence)
+   (NP 
+    (NP 
+     (NNS Taça)
+     (NNS de)
+     (NNS Portugal)
+    )
+   )
+  )
+ )
+)

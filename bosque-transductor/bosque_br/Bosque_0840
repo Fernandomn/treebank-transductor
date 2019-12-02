@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB melhorar)
+     )
+     (NP 
+      (DT a)
+      (NN ventilação)
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB ser)
+    (VBN criadas)
+   )
+   (NP 
+    (NP 
+     (NN janelas)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN telhados)
+      )
+     )
+    )
+    ou
+    (NP 
+     (JJ pequenos)
+     (NN vãos)
+     (PP 
+      (IN com)
+      (NP 
+       (NN telas)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB evitar)
+        )
+        (NP 
+         (DT a)
+         (NN entrada)
+         (PP 
+          (IN de)
+          (NP 
+           (NN insetos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Tropas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN presidente)
+      (NP 
+       (NNP Burhanuddin_Rabbani)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP enfrentam)
+   )
+   (NP 
+    (NN soldados)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN primeiro-ministro)
+      (NP 
+       (NNP Gulbuddin_Hekmatyar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

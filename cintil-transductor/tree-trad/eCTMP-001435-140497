@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Custou)
+      (RB apenas)
+     )
+     (NP 
+      (NP 
+       (CD 50)
+       (CD mil)
+      )
+      (NNS dólares)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NNS filmes)
+            (ADJP 
+             (RB mais)
+             (JJ desarmantes)
+            )
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Festróia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

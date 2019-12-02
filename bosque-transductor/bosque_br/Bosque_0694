@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB Como)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (DT outras)
+      (NN escolas)
+     )
+    )
+   )
+   (ADVP 
+    (RB ali)
+   )
+   (NP 
+    (DT os)
+    (NN alunos)
+   )
+   (VP 
+    (VBP recebem)
+   )
+   (ADVP 
+    (RB gratuitamente)
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NN ensino)
+    )
+    (NP 
+     (DT o)
+     (NN material)
+     (ADJP 
+      (JJ didático)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN uniforme)
+    )
+    (NP 
+     (DT a)
+     (NN alimentação)
+    )
+    e
+    (NP 
+     (NN tratamento)
+     (ADJP 
+      (ADJP 
+       (JJ médico)
+      )
+      e
+      (ADJP 
+       (JJ odontológico)
+      )
+     )
+    )
+   )
+  )
+ )
+)

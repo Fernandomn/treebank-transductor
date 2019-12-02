@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Tem)
+     (NP 
+      (NP 
+       (NNS opinião)
+       (PP 
+        (IN sobre)
+        (NP 
+         (PRP tudo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (PP 
+      (PP 
+       (PP 
+        (IN para)
+        (IN além)
+        (IN de_)
+       )
+       (NP 
+        (DT isso)
+       )
+      )
+     )
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB faz)
+         (NP 
+          (NNS perguntas)
+         )
+        )
+       )
+       (S 
+        (CC e)
+        (S 
+         (VP 
+          (VB dá)
+          (NP 
+           (NNS respostas)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS velocidade)
+         (JJ torrencial)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

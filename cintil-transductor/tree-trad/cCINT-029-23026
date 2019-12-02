@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS bairro)
+       (JJ pequeno)
+      )
+      (CONJP 
+       (CONJP 
+        (RB onde)
+        (S 
+         (NP 
+          (PRP toda)
+          (NP 
+           (DT a)
+           (NNS gente)
+          )
+         )
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB conhece)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Zaragozano)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS participação)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS amigos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

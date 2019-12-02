@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Monique)
+    (ADJP 
+     (CD 37)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP descobriu)
+    )
+    (NP 
+     (DT a)
+     (NN marquinha)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (NN pedra)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN rim)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP separou)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN marido)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN junho)
+       (VBN passado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

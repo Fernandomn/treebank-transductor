@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Miami)
+    )
+   )
+   (NP 
+    (CD duas)
+    (NN bombas)
+    (ADJP 
+     (JJ caseiras)
+    )
+    (NP 
+     (NN coquetéis)
+     (ADJP 
+      (JJ Molotov)
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN encontradas)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (ADVP 
+    (RB em_frente)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN revista)
+      (ADJP 
+       (JJ cubana)
+      )
+      (NP 
+       (NNP Replica)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP apóia)
+        )
+        (NP 
+         (DT as)
+         (NN negociações)
+         (PP 
+          (IN entre)
+          (NP 
+           (NP 
+            (NNP Cuba)
+           )
+           e
+           (NP 
+            (NNP EUA)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (VP 
+          (VP 
+           (VB tentar)
+          )
+          (VP 
+           (VP 
+            (VB resolver)
+           )
+           (NP 
+            (DT a)
+            (NN crise)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

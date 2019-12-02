@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NNS passado)
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB falou)
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (NNS exemplo)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS professor)
+       (NNS de_)
+       (NNS a)
+       (NNS Universidade)
+       (NNS de)
+       (NNS Coimbra)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Carlos)
+       (NNS Reis)
+      )
+     )
+    )
+   )
+  )
+ )
+)

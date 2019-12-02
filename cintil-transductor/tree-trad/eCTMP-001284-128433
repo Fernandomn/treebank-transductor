@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS questão)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS retenção)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS sedimentos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB também)
+     (JJ importante)
+    )
+   )
+  )
+ )
+)

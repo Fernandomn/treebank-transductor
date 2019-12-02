@@ -1,0 +1,104 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VB saber)
+      )
+      (VP 
+       (IN que)
+       (NP 
+        (DT os)
+        (NN militares)
+       )
+       (VP 
+        (VBP pretendiam)
+       )
+       (NP 
+        (NP 
+         (DT a)
+         (NN democracia)
+        )
+        e
+        (NP 
+         (DT o)
+         (NN fim)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN guerra)
+           (ADJP 
+            (JJ colonial)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN portugueses)
+   )
+   (VP 
+    (VBP começaram)
+    (IN a)
+    (VB dar)
+   )
+   (NP 
+    (NN cravos)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (NN soldados)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (PRP os)
+      )
+      (VP 
+       (VBP colocavam)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN ponta)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (DT seus)
+          (NN fuzis)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de+)
+      (RB aí)
+     )
+     (NP 
+      (DT o)
+      (NN nome)
+      (NP 
+       (NNP Revolução_dos_Cravos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

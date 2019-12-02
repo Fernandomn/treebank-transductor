@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Orestes_Quércia)
+    )
+    e
+    (NP 
+     (NNP Luiz_Antonio_Fleury_Filho)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP estiveram)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN sede)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN entidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

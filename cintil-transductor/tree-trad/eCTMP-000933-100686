@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN a)
+     (VP 
+      (VB ficar)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS piada)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADJP 
+    (JJ gratificante)
+   )
+   (VP 
+    (VP 
+     (VB exibir)
+    )
+    (NP 
+     (NN opiniões)
+     (ADJP 
+      (JJ progressistas)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT essas)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP fazem)
+        )
+        (VP 
+         (VP 
+          (VB chover)
+         )
+         (NP 
+          (NN cartas)
+          (PP 
+           (IN de)
+           (NP 
+            (NN apoio)
+           )
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NNP Painel_do_Leitor)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

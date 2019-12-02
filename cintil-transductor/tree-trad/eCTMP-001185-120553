@@ -1,0 +1,97 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS segredo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS deuses)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB estão)
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (NNS nomes)
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB irão)
+         (VP 
+          (VB integrar)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS elenco)
+            (JJ directivo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CC já)
+    (CC que)
+    (S 
+     (NP 
+      (NP 
+       (NNS Diniz)
+       (NNS de)
+       (NNS Abreu)
+      )
+     )
+     (VP 
+      (VP 
+       (VB está)
+       (ADVP 
+        (RB ainda)
+       )
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VB convidar)
+        (NP 
+         (NP 
+          (NNS pessoas)
+          (PP 
+           (PP 
+            (IN com)
+            (NP 
+             (NP 
+              (JJ reconhecidos)
+              (NP 
+               (NNS méritos)
+               (JJ profissionais)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

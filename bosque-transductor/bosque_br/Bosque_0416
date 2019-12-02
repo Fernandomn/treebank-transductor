@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Nós)
+    (NP 
+     (NP 
+      (NN motoristas)
+     )
+     (NP 
+      (NN pais)
+     )
+     e
+     (NP 
+      (JJ jovens)
+      (NN brasileiros)
+     )
+    )
+   )
+   (VP 
+    (VBP somos)
+   )
+   (NP 
+    (DT os)
+    (JJ piores)
+    (NN inimigos)
+    (PP 
+     (IN de)
+     (NP 
+      (PRP nós)
+      (NP 
+       (DT mesmos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

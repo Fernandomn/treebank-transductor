@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN plano)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN costumes)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN reviravolta)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP apresenta)
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (NN aspecto)
+     (ADJP 
+      (JJ viral)
+     )
+     (ADJP 
+      (JJ epidêmico)
+     )
+    )
+   )
+  )
+ )
+)

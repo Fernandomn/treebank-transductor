@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Reuters_Holdings)
+    (VP 
+     (VP 
+      (VBN baseada)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Londres)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (VP 
+     (VB lançar)
+    )
+    (NP 
+     (DT um)
+     (NN serviço)
+     (ADJP 
+      (JJ financeiro)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN TV)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN meados)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN ano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

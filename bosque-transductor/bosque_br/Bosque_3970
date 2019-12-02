@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (NNP Spinelli)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN espaço)
+   )
+   (VP 
+    (VBP representa)
+   )
+   (NP 
+    (DT uma)
+    (JJ nova)
+    (NN tendência)
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN áreas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN conveniência)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN shoppings)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

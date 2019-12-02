@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Fui)
+    (VP 
+     (VB atraído)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS manchete)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NP 
+           (NP 
+            (NNS diário)
+            (JJ nortenho)
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NP 
+              (PP sua)
+              (NP 
+               (NNS edição)
+               (PP 
+                (IN de)
+                (NP 
+                 (NP 
+                  (NNS domingo)
+                  (JJ passado)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

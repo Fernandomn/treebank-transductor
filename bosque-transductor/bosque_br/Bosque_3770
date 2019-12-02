@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN problema)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ político)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VBP envolve)
+    )
+    (ADVP 
+     (RB por_exemplo)
+    )
+    (NP 
+     (DT a)
+     (NN gratuidade)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN educação)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN saúde)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN previdência)
+        (ADJP 
+         (JJ mínima)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS social-democratas)
+   )
+   (VP 
+    (VP 
+     (VB criticaram)
+     (ADVP 
+      (RB fundamentalmente)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (ADJP 
+        (VB previsto)
+       )
+       (NP 
+        (NNS aumento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS despesas)
+           (JJ correntes)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS redução)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS apoios)
+           (PP 
+            (IN a)
+            (NP 
+             (NP 
+              (NNS associações)
+              (ADJP 
+               (JJ culturais)
+               (ADJP 
+                (CC e)
+                (JJ desportivas)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT O)
+       (NNS tiro)
+      )
+      (VP 
+       (VB foi)
+       (NP 
+        (DT um)
+        (NNS acidente)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB contou)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS tribunal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

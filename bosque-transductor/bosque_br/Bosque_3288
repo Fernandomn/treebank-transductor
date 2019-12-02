@@ -1,0 +1,115 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Gloria_Attanasio)
+    (NP 
+     (NN magistrada)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN capital)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB meramente)
+     )
+     (VP 
+      (VBP decidiu)
+     )
+     (VP 
+      (NP 
+       (PRP o_que)
+      )
+      (NP 
+       (DT a)
+       (DT sua)
+       (NN função)
+      )
+      (NP 
+       (PRP lhe)
+      )
+      (VP 
+       (VBP exigia)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP enviou)
+     )
+     (NP 
+      (CD 250)
+      (NN detetives)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN sedes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (DT tais)
+         (CD 34)
+         (NN clubes)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+     )
+     (ADVP 
+      (RB lá)
+     )
+     (PP 
+      (VP 
+       (VP 
+        (VB coletarem)
+       )
+       (NP 
+        (NP 
+         (DT os)
+         (NN livros)
+         (ADJP 
+          (JJ contábeis)
+         )
+        )
+       )
+       (CC e)
+       (NP 
+        (DT os)
+        (NN recibos)
+        (ADJP 
+         (JJ correspondentes)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (NN versamento)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT os)
+             (NN impostos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

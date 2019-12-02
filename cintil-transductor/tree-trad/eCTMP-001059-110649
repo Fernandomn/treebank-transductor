@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB Vamos)
+        (VP 
+         (VB começar)
+         (PP 
+          (IN a)
+          (VP 
+           (VB retirar)
+           (NP 
+            (DT os)
+            (NNS resíduos)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (NP 
+         (DT este)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+   )
+  )
+ )
+)

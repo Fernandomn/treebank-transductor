@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Grava)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (ADJP 
+     (DT os)
+     (CD dois)
+    )
+    (VP 
+     (VBP sofreram)
+    )
+    (NP 
+     (NN rompimentos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN feixes)
+       (ADJP 
+        (JJ musculares)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN músculos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN coxa)
+         (ADJP 
+          (JJ direita)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

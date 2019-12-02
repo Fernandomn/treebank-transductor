@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN vãos)
+   )
+   (VP 
+    (VBP permitem)
+   )
+   (NP 
+    (DT a)
+    (NN saída)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN ar)
+      (ADJP 
+       (JJ quente)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP fica)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN parte)
+         (ADJP 
+          (JJ superior)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN ambiente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

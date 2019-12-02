@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NNS mais)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS mulher)
+    )
+    (VP 
+     (VP 
+      (VB começa)
+      (RB assim)
+     )
+     (NP 
+      (DT o)
+      (NNS anúncio)
+     )
+    )
+   )
+  )
+ )
+)

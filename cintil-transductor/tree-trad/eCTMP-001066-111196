@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD último)
+     (NNS incidente)
+    )
+   )
+   (VP 
+    (VP 
+     (VB ocorreu)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Sardenha)
+      )
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (CD cinco)
+       (NP 
+        (NNS veraneantes)
+        (JJ italianos)
+       )
+      )
+      (VP 
+       (VP 
+        (VB atacaram)
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS vendedor)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS praia)
+            )
+           )
+          )
+          (JJ senegalês)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS garrafas)
+           (JJ partidas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

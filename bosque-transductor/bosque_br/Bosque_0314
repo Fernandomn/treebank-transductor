@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por_causa_de)
+    (NP 
+     (DT um)
+     (NN acidente)
+     (VP 
+      (VP 
+       (VBG envolvendo)
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NN finlandês)
+        (NP 
+         (NNP J.J._Letho)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Benetton)
+         )
+        )
+       )
+       e
+       (NP 
+        (DT o)
+        (NN português)
+        (NP 
+         (NNP Pedro_Lamy)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Lotus)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN safety_car)
+   )
+   (VP 
+    (VBP entrou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN pista)
+    )
+   )
+  )
+ )
+)

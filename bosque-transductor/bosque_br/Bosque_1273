@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (IN Embora)
+     (VP 
+      (VBP seja)
+     )
+     (NP 
+      (NN concorrente)
+      (VBN respeitado)
+     )
+    )
+    (NP 
+     (DT a)
+     (NNP Nielsen)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP representa)
+    )
+    (NP 
+     (DT uma)
+     (NN ameaça)
+     (ADJP 
+      (JJ real)
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Flávio_Ferrari)
+    (NP 
+     (NN diretor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Ibope_Mídia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Porque)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP escala)
+    )
+    (NP 
+     (DT aquele)
+     (NN goleiro)
+     (ADJP 
+      (JJ júnior)
+     )
+     (NP 
+      (DT o)
+      (NNP Pitarelli)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Secretaria)
+   )
+   (VP 
+    (VBP admite)
+   )
+   (VP 
+    (VP 
+     (VB rever)
+    )
+    (NP 
+     (NN decreto)
+     (PP 
+      (IN sobre)
+      (NP 
+       (NN contratação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN funcionários)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

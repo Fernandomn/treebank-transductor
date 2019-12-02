@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ministro)
+    (NP 
+     (NNP Ricupero)
+    )
+   )
+   (VP 
+    (VBP ficou)
+   )
+   (VP 
+    (VP 
+     (VBN satisfeito)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN aprovação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP MP)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN URV)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN comissão)
+        (VBN mista)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN Congresso)
+         )
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP examinou)
+         )
+         (NP 
+          (DT a)
+          (NN medida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

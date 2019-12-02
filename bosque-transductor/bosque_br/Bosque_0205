@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN escritor)
+    (VP 
+     (VP 
+      (VBN identificado)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN cultura)
+       (NP 
+        (NN beatnik)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP admitia)
+   )
+   (ADVP 
+    (RB somente)
+   )
+   (VP 
+    (VP 
+     (VB ter)
+     (VBN sido)
+     (VBN inspirado)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT um)
+      (DT outro)
+      (NN autor)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Califórnia)
+       )
+      )
+      (NP 
+       (NNP John_Fante)
+       (NP 
+        (NNP Pergunte_ao_Pó)
+       )
+       (PP 
+        (IN entre)
+        (NP 
+         (DT outros)
+        )
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (NNP Bukowski)
+       )
+       (VP 
+        (VBP descobriu)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT as)
+         (DT suas)
+         (NN leituras)
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN bibliotecas)
+         (ADJP 
+          (JJ públicas)
+         )
+        )
+       )
+       (ADVP 
+        (ADVP 
+         (RB quando)
+        )
+        (ADJP 
+         (JJ jovem)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

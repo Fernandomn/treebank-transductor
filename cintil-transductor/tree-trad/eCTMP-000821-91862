@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS desfile)
+   )
+   (VP 
+    (VP 
+     (VB fugiu)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS pé)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS acelerador)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS estádio)
+        (NNS de_)
+        (NNS o)
+        (NNS Parque)
+        (NNS de_)
+        (NNS os)
+        (NNS Príncipes)
+       )
+       (CONJP 
+        (CONJP 
+         (RB onde)
+         (S 
+          (S 
+           (VP 
+            (VB estava)
+            (JJ prevista)
+           )
+           (NP 
+            (DT uma)
+            (NP 
+             (NP 
+              (NNS festa)
+              (JJ gratuita)
+             )
+             (PP 
+              (IN para)
+              (NP 
+               (DT os)
+               (NP 
+                (JJ parisienses)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

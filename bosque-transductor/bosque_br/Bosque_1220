@@ -1,0 +1,88 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN acantonamento)
+     (NP 
+      (NNP Itereí)
+     )
+    )
+    (VP 
+     (VBP oferece)
+    )
+    (NP 
+     (NP 
+      (NN futebol)
+     )
+     (NP 
+      (NN vôlei)
+     )
+     (NP 
+      (NN caminhadas)
+     )
+     (NP 
+      (NN brincadeiras)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP está)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN vagas)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN temporadas)
+      (VP 
+       (VP 
+        (PP 
+         (IN de)
+         (NP 
+          (CD 17)
+         )
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (CD 23)
+         )
+        )
+       )
+       e
+       (VP 
+        (PP 
+         (IN de)
+         (NP 
+          (CD 24)
+         )
+        )
+        (PP 
+         (IN a)
+         (ADJP 
+          (CD 30)
+          (PP 
+           (IN de)
+           (NP 
+            (NN julho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

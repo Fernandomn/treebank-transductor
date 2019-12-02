@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS regresso)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS Europa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB trouxe)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS Django)
+      (ADJP 
+       (RB mais)
+       (JJ amargo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB refere)
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS determinação)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT os)
+               (NNS balancetes)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS actas)
+    )
+    (VP 
+     (VB referem)
+     (NP 
+      (CD dois)
+      (NP 
+       (NNS números)
+       (JJ diferentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

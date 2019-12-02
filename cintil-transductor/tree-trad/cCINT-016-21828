@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Queres)
+     (VP 
+      (VB dizer)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB tens)
+         )
+         (NP 
+          (DT a)
+          (NNS certeza)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

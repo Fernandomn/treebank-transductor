@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Seguem)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS sessões)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS autógrafos)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS grupos)
+        (JJ participantes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

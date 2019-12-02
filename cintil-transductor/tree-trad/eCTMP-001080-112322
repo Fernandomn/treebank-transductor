@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS resultado)
+     )
+     (VP 
+      (VB podia)
+      (VP 
+       (VB ser)
+       (NP 
+        (DT um)
+        (NNS empate)
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT o)
+       (NNS autogolo)
+      )
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP o)
+        )
+        (VB permitiu)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

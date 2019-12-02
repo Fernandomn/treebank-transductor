@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS dança)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT outro)
+     (NP 
+      (NP 
+       (NNS prato)
+       (ADJP 
+        (JJ forte)
+        (ADJP 
+         (CC e)
+         (JJ habitual)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS programação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Serviço)
+            (NNS de)
+            (NNS Animação)
+            (NNS Criação)
+            (NNS Artística)
+            (NNS e)
+            (NNS Educação)
+            (NNS por_)
+            (NNS a)
+            (NNS Arte)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

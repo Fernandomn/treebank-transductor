@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Técnicos)
+      (JJ superiores)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS CTT)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN a)
+     (VP 
+      (VB fazer)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS levantamento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS valores)
+           (JJ furtados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

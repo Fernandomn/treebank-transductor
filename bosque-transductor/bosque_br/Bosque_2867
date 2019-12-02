@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (NP 
+      (PRP Nada_do_que)
+     )
+     (NP 
+      (PRP eu)
+     )
+     (VP 
+      (VBP havia)
+     )
+     (VP 
+      (VP 
+       (VBN lido)
+      )
+      ou
+      (VP 
+       (VBN ouvido)
+       (ADVP 
+        (RB antes)
+        (PP 
+         (IN de)
+         (VP 
+          (VP 
+           (VB vir)
+          )
+          (PP 
+           (IN para)
+           (RB cá)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (PRP me)
+    )
+    (VP 
+     (VBP preparara)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN emoções)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP eu)
+       )
+       (VP 
+        (VBP iria)
+        (VB viver)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT várias)
+     (NN vezes)
+    )
+    (NP 
+     (PRP me)
+    )
+    (VP 
+     (VBP senti)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT uma)
+      (NN montanha-russa)
+      (ADJP 
+       (JJ emocional)
+      )
+     )
+    )
+   )
+  )
+ )
+)

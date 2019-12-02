@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Isaltino)
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB é)
+        )
+        (NP 
+         (NNS oportuna)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

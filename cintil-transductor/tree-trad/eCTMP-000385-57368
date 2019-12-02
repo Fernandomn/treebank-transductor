@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS ambiente)
+   )
+   (VP 
+    (VP 
+     (VB era)
+     (RB obviamente)
+    )
+    (ADJP 
+     (JJ descontraído)
+     (PP 
+      (CC e)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (JJ grande)
+         (NNS contentamento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (NP 
+       (DT o)
+       (NNS tempo)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS banalização)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS enfermidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP algumas)
+     (NNS ideias)
+    )
+    (VP 
+     (VB foram)
+     (S 
+      (VP 
+       (VB ficando)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS papel)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

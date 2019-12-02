@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Ambas)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP apresentavam)
+   )
+   (NP 
+    (NN preços)
+    (PP 
+     (IN de)
+     (NP 
+      (NN produtos)
+      (VP 
+       (VP 
+        (VBN expostos)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT as)
+         (NN vitrines)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

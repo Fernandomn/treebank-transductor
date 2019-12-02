@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Alfarim)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NP 
+       (NNS fins)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS semana)
+        )
+       )
+      )
+      (ADJP 
+       (RB mais)
+       (JJ curtos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

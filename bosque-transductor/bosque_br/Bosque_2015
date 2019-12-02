@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VBP sou)
+   )
+   (NP 
+    (DT aquele)
+    (UCP 
+     (VBN oculto)
+     e
+     (ADJP 
+      (JJ grande)
+     )
+    )
+    (NN cabo)
+    (PP 
+     (IN A)
+     (VP 
+      (NP 
+       (PRP quem)
+      )
+      (VP 
+       (VBP chamais)
+      )
+      (NP 
+       (PRP vós)
+      )
+      (NP 
+       (DT outro)
+       (NNP Tormentório)
+       (VP 
+        (NP 
+         (PRP Que)
+        )
+        (ADVP 
+         (RB nunca)
+        )
+        (PP 
+         (IN a)
+         (UCP 
+          (NP 
+           (NNP Ptolomeu)
+          )
+          (NP 
+           (NNP Pompônio)
+          )
+          (NP 
+           (NNP Estrabo)
+          )
+          (NP 
+           (NNP Plínio)
+          )
+          e
+          (VP 
+           (NP 
+            (DT quantos)
+           )
+           (VP 
+            (VBP passaram)
+           )
+          )
+         )
+        )
+        (VP 
+         (VBP fui)
+        )
+        (ADJP 
+         (JJ notório)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

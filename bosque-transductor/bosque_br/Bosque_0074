@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Afirmou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN conjunto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN fatos)
+      )
+     )
+    )
+    (ADVP 
+     (RB em_princípio)
+    )
+    (VP 
+     (VBP aponta)
+    )
+    (NP 
+     (DT o)
+     (NN envolvimento)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Quércia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

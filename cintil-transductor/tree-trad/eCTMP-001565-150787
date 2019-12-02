@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (NNS equipa)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS operadores)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS RTP)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB está)
+     )
+     (ADJP 
+      (JJ satisfeita)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNS situação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

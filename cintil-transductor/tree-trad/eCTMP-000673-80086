@@ -1,0 +1,88 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS excepções)
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Portugal)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT a)
+        (NNS Grécia)
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CONJP 
+        (RB onde)
+        (S 
+         (NP 
+          (NP 
+           (RB apenas)
+           (NP 
+            (CD 24)
+            (NP 
+             (NP 
+              (NN por)
+              (NN cento)
+             )
+             (PP 
+              (IN de_)
+              (NP 
+               (DT os)
+               (NNS alunos)
+              )
+             )
+            )
+           )
+          )
+         )
+         (VP 
+          (VP 
+           (VB frequentam)
+           (NP 
+            (NP 
+             (NNS escolas)
+             (PP 
+              (IN com)
+              (NP 
+               (NP 
+                (NNS índices)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NP 
+                   (NNS estabilidade)
+                   (ADJP 
+                    (ADJP 
+                     (JJ aceitável)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

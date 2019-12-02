@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (VP 
+     (VBP garantiram)
+    )
+    (NP 
+     (NP 
+      (NN casa)
+     )
+     (NP 
+      (NN carro)
+     )
+     (NP 
+      (NN assistência)
+      (ADJP 
+       (JJ médica)
+      )
+     )
+     e
+     (NP 
+      (NN passe)
+      (ADJP 
+       (JJ livre)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB depois)
+    (PP 
+     (IN de)
+     (NP 
+      (CD quatro)
+      (NN anos)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN diretor)
+    (NP 
+     (NNP Kalef_João_Francisco)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP falou)
+      )
+      (ADVP 
+       (RB ontem)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NNP Muller)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

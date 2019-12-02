@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT a)
+     (NN tarde)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP vai)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NNP Belo_Horizonte)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP visita)
+     )
+     (NP 
+      (DT o)
+      (NN jornal)
+      (NP 
+       (NNP O_Estado_de_Minas)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN companhia)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Hélio_Costa)
+         (NP 
+          (NN candidato)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NNP PP)
+           )
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (DT o)
+            (NN governo)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NN Estado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

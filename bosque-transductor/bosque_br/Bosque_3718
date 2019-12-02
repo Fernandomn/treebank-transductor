@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN dados)
+   )
+   (VP 
+    (VBP são)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NNP SCI)
+     (NP 
+      (NNP Serviço_de_Segurança_ao_Crédito_e_Informações)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP armazena)
+      )
+      (NP 
+       (NN informações)
+       (ADJP 
+        (JJ comerciais)
+       )
+       (PP 
+        (IN sobre)
+        (NP 
+         (CD 1.6)
+         (NN milhão)
+         (PP 
+          (IN de)
+          (NP 
+           (NN empresas)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Brasil)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

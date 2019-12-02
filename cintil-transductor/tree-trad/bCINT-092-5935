@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Benfica)
+    )
+    (VP 
+     (VP 
+      (VB fez)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NP 
+         (CD primeiro)
+         (NNS golo)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 14)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

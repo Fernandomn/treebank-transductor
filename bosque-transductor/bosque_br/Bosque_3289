@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT a)
+     (NN construção)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN palco)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN utilizadas)
+   )
+   (NP 
+    (CD 170)
+    (NN toneladas)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN ferro)
+      )
+      e
+      (NP 
+       (NN alumínio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

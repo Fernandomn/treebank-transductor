@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Catroga)
+     (NNS e)
+     (NNS Mira)
+     (NNS Amaral)
+    )
+   )
+   (VP 
+    (VB zurziram)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS falta)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS coragem)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Governo)
+            (NNS PS)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

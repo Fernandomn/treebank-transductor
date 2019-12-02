@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Foi)
+      (NP 
+       (DT o)
+       (NP 
+        (CD último)
+        (NP 
+         (NNS ensaio)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (PRP ele)
+           )
+           (VP 
+            (VB escreveu)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB tem)
+       (NP 
+        (PRP vários)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS bibliografia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

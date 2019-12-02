@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS facto)
+    )
+    (VP 
+     (VB é)
+     (JJ indesmentível)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB sabendo)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (VB há)
+         (RB sempre)
+        )
+        (NP 
+         (NP 
+          (DT a)
+          (NP 
+           (CD primeira)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT a)
+           (NP 
+            (CD segunda)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

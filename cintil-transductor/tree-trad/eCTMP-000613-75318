@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Apareceu)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS casa)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS caixote)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS óleo)
+          (NNS Johnson)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

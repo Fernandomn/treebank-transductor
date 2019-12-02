@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS secretário)
+     (NNS de_)
+     (NNS as)
+     (NNS Obras)
+     (NNS Públicas)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB disse)
+       (ADVP 
+        (ADVP 
+         (RB em_)
+         (RB o)
+         (RB entanto)
+        )
+       )
+      )
+      (RB anteontem)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NNS Governo)
+      )
+      (VP 
+       (RB ainda)
+       (VP 
+        (VP 
+         (RB não)
+         (VB tomou)
+        )
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS decisão)
+          (JJ final)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

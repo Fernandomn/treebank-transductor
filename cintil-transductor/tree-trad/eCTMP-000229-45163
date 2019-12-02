@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Já)
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB havia)
+       )
+       (NP 
+        (NNS soldados)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NNS redondezas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (RB portanto)
+    (S 
+     (RB só)
+     (S 
+      (RB lá)
+      (S 
+       (VP 
+        (VB estavam)
+       )
+       (NP 
+        (DT os)
+        (NP 
+         (CD cinco)
+         (NNS soldados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

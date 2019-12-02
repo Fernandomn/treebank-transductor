@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (NP 
+      (DT um)
+      (NNS palco)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ginásio)
+       (CONJP 
+        (CONJP 
+         (RB onde)
+         (S 
+          (VP 
+           (PP 
+            (IN a_)
+            (NP 
+             (DT as)
+             (NNS sextas)
+            )
+           )
+           (VP 
+            (VB funciona)
+           )
+          )
+          (NP 
+           (DT a)
+           (NNS discoteca)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

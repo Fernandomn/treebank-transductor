@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS desporto)
+  )
+  (VP 
+   (ADVP 
+    (RB acima)
+    (PP 
+     (CC e)
+     (PP 
+      (PP 
+       (IN abaixo)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NNS solo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

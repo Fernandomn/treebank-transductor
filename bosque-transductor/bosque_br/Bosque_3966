@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (DT a)
+     (NN fazenda)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN Sabiá)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP participaram)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN leilão)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT a)
+      (NNP Terra_Boa)
+     )
+     e
+     (NP 
+      (DT a)
+      (NNP Mata_Velha)
+     )
+    )
+    (NP 
+     (JJ tradicionais)
+     (NN criadoras)
+     (PP 
+      (IN de)
+      (NP 
+       (NN nelore)
+      )
+     )
+    )
+   )
+  )
+ )
+)

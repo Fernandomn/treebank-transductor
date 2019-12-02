@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS pai)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Dom)
+        (NNS Pedro)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB matou)
+    (NP 
+     (PRP -a)
+    )
+   )
+  )
+ )
+)

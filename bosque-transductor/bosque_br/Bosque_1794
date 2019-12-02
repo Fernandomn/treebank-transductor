@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Voltado)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN usuários)
+      (UCP 
+       (ADJP 
+        (JJ leigos)
+       )
+       e
+       (VBN avançados)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (CD 13)
+    (NN capítulos)
+   )
+   (VP 
+    (VBP dão)
+   )
+   (NP 
+    (NN dicas)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB aproveitar)
+      )
+      (ADVP 
+       (RB melhor)
+      )
+      (NP 
+       (DT os)
+       (NN recursos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN sistema)
+         (ADJP 
+          (JJ operacional)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Microsoft)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

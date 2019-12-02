@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Encarregado)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN caso)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN marfinense)
+    (NP 
+     (NNP Rene_Degni-Segui)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADJP 
+    (JJ favorável)
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NN tribunal)
+      (ADJP 
+       (JJ internacional)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB julgar)
+      )
+      (NP 
+       (DT os)
+       (NN acusados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Estado)
+     (NNS Novo)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NP 
+         (NNS ideologia)
+         (ADJP 
+          (RB já)
+          (VB consolidada)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB dobrou)
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+       (NP 
+        (NNS geração)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS arquitectos)
+           (JJ modernos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

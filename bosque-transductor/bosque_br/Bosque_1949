@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NN Apartamento)
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN rambla)
+     (NP 
+      (NNP Armenia)
+     )
+     (NP 
+      (NNP Montevidéu)
+     )
+    )
+   )
+  )
+ )
+)

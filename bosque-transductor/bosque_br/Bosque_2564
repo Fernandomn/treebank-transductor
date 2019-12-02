@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN atacante)
+    (NP 
+     (NNP Casagrande)
+    )
+   )
+   (VP 
+    (VBP aponta)
+   )
+   (NP 
+    (DT a)
+    (NN falta)
+    (PP 
+     (IN de)
+     (NP 
+      (NN entrosamento)
+     )
+    )
+   )
+   (NP 
+    (RB como)
+    (ADJP 
+     (CD uma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN causas)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (DT seu)
+         (JJ baixo)
+         (NN desempenho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

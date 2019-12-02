@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS cheiro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS chumbo)
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS barulho)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS rotativa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

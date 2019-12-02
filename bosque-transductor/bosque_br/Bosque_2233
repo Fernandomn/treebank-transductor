@@ -1,0 +1,85 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (NN astronautas)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP embarcarem)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT uma)
+        (NN estação)
+        (ADJP 
+         (JJ orbital)
+        )
+       )
+      )
+     )
+     ou
+     (VP 
+      (ADVP 
+       (RB eventualmente)
+      )
+      (VP 
+       (VBP estiverem)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NN caminho)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Marte)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP terão)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (NN companhia)
+     (ADJP 
+      (JJ necessária)
+     )
+    )
+   )
+   (NP 
+    (DT alguns)
+    (NP 
+     (NP 
+      (NN bilhões)
+     )
+     ou
+     (NP 
+      (NN trilhões)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN micróbios)
+      (ADJP 
+       (JJ comilões)
+      )
+     )
+    )
+   )
+  )
+ )
+)

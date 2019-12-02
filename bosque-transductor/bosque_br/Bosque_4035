@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN pessoas)
+    (PP 
+     (IN com)
+     (NP 
+      (NNP PMD)
+     )
+    )
+   )
+   (VP 
+    (VBP oscilam)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (CD dois)
+     (NN pólos)
+    )
+   )
+  )
+ )
+)

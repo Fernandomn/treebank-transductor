@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Greve)
+   )
+   (VP 
+    (VB foi)
+    (VB interrompida)
+   )
+  )
+  (S 
+   (CC mas)
+   (S 
+    (NP 
+     (NNS problemas)
+    )
+    (VB persistem)
+   )
+  )
+ )
+)

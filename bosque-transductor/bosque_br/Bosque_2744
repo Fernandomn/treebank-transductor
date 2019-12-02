@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todos)
+    (DT os)
+    (NN fax/modem)
+   )
+   (VP 
+    (VBP saem)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN fábrica)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (CD dois)
+     (NN programas)
+     (UCP 
+      (ADJP 
+       (CD um)
+       (PP 
+        (IN para)
+        (NP 
+         (NN gerenciamento)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (NN transmissões)
+           (NP 
+            (NN dfa)
+           )
+          )
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (DT outro)
+       (PP 
+        (IN para)
+        (NP 
+         (NN gerenciamento)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (NN transmissões)
+           (PP 
+            (IN de)
+            (NP 
+             (NN dados)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

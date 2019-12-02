@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NNS professor)
+      (JJ universitário)
+     )
+     (JJ norte-americano)
+    )
+   )
+   (VP 
+    (VP 
+     (VB encomendou)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NP 
+          (NNS importador)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS livros)
+           )
+          )
+         )
+         (NP 
+          (NNS Richard)
+          (NNS Ramer)
+         )
+        )
+        (ADJP 
+         (ADJP 
+          (RB também)
+          (JJ norte-americano)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS obra)
+       (NP 
+        (NP 
+         (NNS História)
+         (NNS de)
+         (NNS Japan)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS edição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Biblioteca)
+          (NNS Nacional)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

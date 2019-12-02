@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Gestão)
+     (JJ informatizada)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS semáforos)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Junho)
+    )
+   )
+  )
+ )
+)

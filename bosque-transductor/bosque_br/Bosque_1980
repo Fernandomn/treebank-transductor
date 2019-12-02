@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP está)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT um)
+      (NN ambiente)
+      (NP 
+       (RB como)
+       (NP 
+        (DT o)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (PRP eu)
+         )
+         (VP 
+          (VBP vivia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP você)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP sabe)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP existe)
+    )
+    (NP 
+     (DT todo)
+     (DT um)
+     (NN mundo)
+     (ADJP 
+      (JJ diferente)
+     )
+    )
+    (ADVP 
+     (RB fora)
+     (PP 
+      (IN de+)
+      (RB ali)
+     )
+    )
+   )
+  )
+ )
+)

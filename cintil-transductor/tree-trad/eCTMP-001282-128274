@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Querem)
+     (PP 
+      (PP 
+       (IN por)
+       (NP 
+        (NNS exemplo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB saber)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB é)
+         )
+         (NP 
+          (DT a)
+          (NNS morte)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

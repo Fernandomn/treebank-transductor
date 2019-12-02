@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Foi)
+     )
+     (ADJP 
+      (JJ barra_pesada)
+     )
+    )
+    (VP 
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN som)
+      )
+     )
+     (VP 
+      (VBP pareciam)
+     )
+     (NP 
+      (NN armas)
+      (ADJP 
+       (JJ superpotentes)
+      )
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP foi)
+     )
+     (NP 
+      (DT um)
+      (NN tiroteio)
+      (NP 
+       (DT qualquer)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (NNP Tatiana_Marques_Pedrosa)
+    (ADJP 
+     (CD 24)
+    )
+    (NP 
+     (NN estudante)
+     (PP 
+      (IN de)
+      (NP 
+       (NN psicologia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

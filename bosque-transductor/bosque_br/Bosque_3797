@@ -1,0 +1,14 @@
+(
+ (S 
+  (NP 
+   (NN Preço)
+   (NP 
+    (CD 18)
+    (NNP URVs)
+    (ADVP 
+     (RB por_pessoa)
+    )
+   )
+  )
+ )
+)

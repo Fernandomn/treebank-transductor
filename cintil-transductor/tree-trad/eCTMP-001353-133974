@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VP 
+      (VB faz)
+      (NP 
+       (NNS contabilidade)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ pequena)
+        (NNS empresa)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS noite)
+        )
+       )
+      )
+      (VB estuda)
+     )
+    )
+   )
+  )
+ )
+)

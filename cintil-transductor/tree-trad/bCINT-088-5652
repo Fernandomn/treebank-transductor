@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB por_)
+       (RB o)
+       (RB menos)
+      )
+      (CD duas)
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NP 
+     (NNS reticências)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS juízes)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Palácio)
+           (NNS Ratton)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

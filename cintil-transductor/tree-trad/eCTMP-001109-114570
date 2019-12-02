@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Morreu)
+     (RB ontem)
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Brasília)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS mulher)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS empresário)
+         (NP 
+          (NNS Paulo)
+          (NNS César)
+          (NNS Farias)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Elma)
+      (NNS Bezerra)
+      (NNS Farias)
+     )
+    )
+   )
+  )
+ )
+)

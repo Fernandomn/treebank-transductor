@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Lucília)
+     (NNS Salgado)
+    )
+   )
+   (VP 
+    (VP 
+     (VB atribui)
+     (NP 
+      (PRP -as)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS Estado)
+     )
+    )
+   )
+  )
+ )
+)

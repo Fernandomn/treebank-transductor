@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Avião)
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS UNITA)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB cai)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Angola)
+    )
+   )
+  )
+ )
+)

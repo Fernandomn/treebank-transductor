@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS proposta)
+     (JJ indonésia)
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VP 
+      (VP 
+       (VB apresentada)
+       (RB pessoalmente)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS secretário-geral)
+          (NNS de_)
+          (NNS a)
+          (NNS ONU)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Kofi)
+          (NNS Annan)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ministro)
+         (NNS indonésio)
+         (NNS de_)
+         (NNS os)
+         (NNS Negócios)
+         (NNS Estrangeiros)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Ali)
+         (NNS Alatas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

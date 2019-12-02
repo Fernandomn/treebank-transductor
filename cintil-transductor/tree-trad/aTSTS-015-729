@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB orienta)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT as)
+      (NNS estrelas)
+     )
+    )
+   )
+  )
+ )
+)

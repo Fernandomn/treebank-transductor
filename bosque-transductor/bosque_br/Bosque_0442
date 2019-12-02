@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP intitulavam)
+   )
+   (NP 
+    (NN filiais)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP MIT_Dealing_Management_Inc.)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NNP Estados_Unidos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

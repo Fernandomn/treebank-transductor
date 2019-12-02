@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Paris)
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (RB então)
+     )
+     (VB feitas)
+    )
+   )
+   (NP 
+    (DT outras)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (ADJP 
+         (RB mais)
+         (JJ significativas)
+        )
+        (NP 
+         (NNS obras)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS aventura)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NP 
+               (NNS Ballets)
+               (NNS Russes)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

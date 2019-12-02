@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS linhas)
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (ADJP 
+       (ADJP 
+        (RB predominantemente)
+        (JJ cintadas)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS cortes)
+         (PP 
+          (IN de)
+          (NP 
+           (CD três)
+           (NNS quartos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (NNS peças)
+       (JJ interiores)
+      )
+     )
+     (VP 
+      (VP 
+       (VB são)
+       (RB profusamente)
+      )
+      (JJ longilíneas)
+     )
+    )
+   )
+  )
+ )
+)

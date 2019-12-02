@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Aristides)
+   )
+   (VP 
+    (VBP está)
+    (VBG esperando)
+   )
+   (NP 
+    (DT a)
+    (NN publicação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN texto)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP FSE)
+        (VP 
+         (VP 
+          (VBN aprovado)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NN Congresso)
+          )
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB concluir)
+           )
+           (VP 
+            (IN se)
+            (NP 
+             (DT a)
+             (NN desvinculação)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT essas)
+               (NN verbas)
+              )
+             )
+            )
+            (VP 
+             (VP 
+              (VP 
+               (VBP atinge)
+              )
+             )
+             ou
+             (VP 
+              (ADVP 
+               (RB não)
+              )
+              (NP 
+               (NN direitos)
+               (ADJP 
+                (JJ individuais)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

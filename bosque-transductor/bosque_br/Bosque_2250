@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Contra)
+    (NP 
+     (DT o)
+     (NNP Houston)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN cestinha)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN equipe)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (NNP Jeff_Honaceck)
+    (PP 
+     (IN com)
+     (NP 
+      (CD 20)
+      (NN pontos)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN seguido)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNP Clarence_Whiterspoon)
+       (PP 
+        (IN com)
+        (ADJP 
+         (CD 16)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

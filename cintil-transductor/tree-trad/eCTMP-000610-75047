@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB distingue)
+        (NP 
+         (DT esta)
+         (NNS iniciativa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NP 
+       (NNS abordagem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS problema)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

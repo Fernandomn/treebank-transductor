@@ -1,0 +1,94 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Alain)
+      (NNS Besançon)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Richard)
+        (NNS Cooper)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Marc)
+          (NNS Fumarolli)
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS Jan)
+            (NNS Blonski)
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (NP 
+             (NNS Henri)
+             (NNS Mendras)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (PRP alguns)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS participantes)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT este)
+           (NP 
+            (NNS colóquio)
+            (ADJP 
+             (ADJP 
+              (VB promovido)
+              (PP 
+               (IN por_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS Instituto)
+                 (NNS Europeu)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

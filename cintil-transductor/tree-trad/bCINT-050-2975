@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS Comércio)
+  )
+  (VP 
+   (VP 
+    (VB dá)
+    (NP 
+     (DT a)
+     (NNS mão)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS turismo)
+    )
+   )
+  )
+ )
+)

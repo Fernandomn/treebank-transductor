@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (NP 
+     (DT todo)
+     (NN modo)
+    )
+   )
+   (NP 
+    (DT uma)
+    (ADJP 
+     (ADJP 
+      (JJ sólida)
+     )
+     e
+     (ADJP 
+      (JJ longa)
+     )
+    )
+    (NN parceria)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP configurava)
+   )
+   (VP 
+    (VP 
+     (VBG alternando)
+    )
+    (NP 
+     (NP 
+      (NN comédias)
+     )
+     e
+     (NP 
+      (NN dramas)
+      (VP 
+       (NP 
+        (DT cuja)
+        (NN qualidade)
+        (ADJP 
+         (JJ cinematográfica)
+        )
+       )
+       (VP 
+        (VBP variava)
+       )
+       (ADVP 
+        (RB infinitamente)
+       )
+       (ADVP 
+        (RB mais)
+        (SBAR que
+         (S 
+          (DT as)
+          (NN virtudes)
+          (PP 
+           (IN de)
+           (NP 
+            (DT suas)
+            (NN trilhas)
+            (ADJP 
+             (JJ sonoras)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,21 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Manchete)
+    )
+    (NP 
+     (NNP Gazeta)
+    )
+    e
+    (NP 
+     (NNP Bandeirantes)
+    )
+   )
+   (VP 
+    (VBP empataram)
+   )
+  )
+ )
+)

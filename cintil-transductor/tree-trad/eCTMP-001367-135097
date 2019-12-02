@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Nunca)
+     (VP 
+      (VP 
+       (VB faço)
+       (NP 
+        (DT as)
+        (NNS coisas)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT essa)
+        (NP 
+         (JJ óptica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

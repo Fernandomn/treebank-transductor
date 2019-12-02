@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS senhor)
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      (VB demitido)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esse)
+        (NNS emprego)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Cartaz)
+      (JJ musical)
+     )
+     (JJ pobre)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS Festas)
+       (NNS de_)
+       (NNS o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

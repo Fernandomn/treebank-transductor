@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Vladimir)
+      (NNS Chumeiko)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Boris)
+        (NNS Saltikov)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Anatoli)
+          (NNS Chubais)
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS Serguei)
+            (NNS Chakhrai)
+           )
+          )
+          (NP 
+           (NP 
+            (NP 
+             (NP 
+              (NNS Alexandre)
+              (NNS Khija)
+             )
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (NP 
+               (NNS Alexandre)
+               (NNS Chokhine)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB conservam)
+    (NP 
+     (DT os)
+     (NP 
+      (PP seus)
+      (NP 
+       (NNS cargos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS vice-primeiros-ministros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

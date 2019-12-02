@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Diz)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS negócio)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS século)
+           (NNS XXI)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

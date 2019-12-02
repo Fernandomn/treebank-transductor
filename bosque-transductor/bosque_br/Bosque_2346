@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN objetivo)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB divulgar)
+    )
+    (NP 
+     (DT as)
+     (NN técnicas)
+     (ADJP 
+      (RB mais)
+      (JJ modernas)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN tratamento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN deformidades)
+         (ADJP 
+          (JJ congênitas)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (JJ diversas)
+      (NN regiões)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN país)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

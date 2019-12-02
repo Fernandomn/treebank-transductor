@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Primeiro)
+   )
+   (S 
+    (S 
+     (VB veio)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS sinal)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS confiança)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS entrada)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS escudo)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS SME)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

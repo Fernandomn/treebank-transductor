@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Oprah)
+     (NNS Winfrey)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS vacas)
+       (JJ loucas)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS tribunal)
+    )
+   )
+  )
+ )
+)

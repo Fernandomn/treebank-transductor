@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Agostinho)
+     (NNS Rosário)
+    )
+   )
+   (VP 
+    (VB justificou)
+    (NP 
+     (PRP algumas)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS dificuldades)
+         (CONJP 
+          (PP 
+           (IN com)
+           (NP 
+            (PRP que)
+           )
+          )
+          (S 
+           (VP 
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VB confrontaram)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

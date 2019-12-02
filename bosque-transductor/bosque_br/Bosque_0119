@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN valor)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADVP 
+     (RB mais)
+     (SBAR que
+      (S 
+       (DT o)
+       (NN dobro)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (VP 
+          (VP 
+           (VBN estimado)
+          )
+          (PP 
+           (IN por+)
+           (NP 
+            (DT a)
+            (NNP Exxon)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADJP 
+     (JJ menor)
+     (SBAR que
+      (S 
+       (DT o)
+       (JJ original)
+       (VBN pedido)
+       (PP 
+        (IN de)
+        (NP 
+         (NN US$)
+         (NP 
+          (CD 895)
+          (NN milhões)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

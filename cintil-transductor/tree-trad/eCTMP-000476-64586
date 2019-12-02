@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS televisão)
+    )
+    (VP 
+     (VB investiu)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (NP 
+        (CD 500)
+        (CD mil)
+       )
+      )
+      (NP 
+       (NNS contos)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS apoio)
+          (PP 
+           (IN a)
+           (NP 
+            (NP 
+             (NP 
+              (NNS produções)
+              (JJ nacionais)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NNS ficção)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

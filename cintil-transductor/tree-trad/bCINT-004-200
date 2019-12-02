@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS professora)
+    )
+    (VP 
+     (VB sossegava)
+     (NP 
+      (PRP -a)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB dizia)
+       (NP 
+        (PRP -lhe)
+       )
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (NNS Tiago)
+        )
+        (VP 
+         (VB era)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS miúdo)
+           (ADJP 
+            (ADJP 
+             (RB muito)
+             (JJ esperto)
+            )
+            (CONJP 
+             (CONJP 
+              (CC mas)
+              (CONJP 
+               (NP 
+                (PRP que)
+               )
+               (S 
+                (VP 
+                 (VB tinha)
+                 (NP 
+                  (DT o)
+                  (NP 
+                   (PP seu)
+                   (NNS ritmo)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

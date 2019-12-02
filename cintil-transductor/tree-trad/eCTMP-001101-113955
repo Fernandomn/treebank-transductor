@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Athletic)
+    (NNS Bilbau)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Liga)
+      (NNS de_)
+      (NNS os)
+      (NNS Campeões)
+     )
+    )
+   )
+  )
+ )
+)

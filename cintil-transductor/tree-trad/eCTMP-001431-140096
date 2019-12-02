@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Igreja)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB entrou)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS cabeça)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS campanha)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN a)
+       (IN favor)
+       (IN de)
+      )
+      (NP 
+       (NNS Walesa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

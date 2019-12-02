@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Eis)
+     (RB senão)
+     (RB quando)
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS seguranças)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB teve)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS ideia)
+       (JJ genial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

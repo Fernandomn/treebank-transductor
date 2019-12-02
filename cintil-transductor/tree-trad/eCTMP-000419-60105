@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (JJ novos)
+     (NP 
+      (NNS estatutos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Benfica)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (RB finalmente)
+    )
+    (VB aprovados)
+   )
+  )
+ )
+)

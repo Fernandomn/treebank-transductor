@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Vicentico)
+   )
+   (VP 
+    (VBP havia)
+    (VBN escapado)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN cerco)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP PF)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN domingo)
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (VP 
+       (VBP foram)
+       (VBN apreendidas)
+      )
+      (NP 
+       (CD 7.5)
+       (NN toneladas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN cocaína)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Guaraí)
+        (NP 
+         (NNP TO)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

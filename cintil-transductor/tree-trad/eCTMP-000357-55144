@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Arrumou)
+     (NP 
+      (PRP -os)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS carrinho)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS compras)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

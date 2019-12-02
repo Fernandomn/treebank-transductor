@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ hipotético)
+     (NNS MBO)
+    )
+   )
+   (VP 
+    (VP 
+     (VB voltou)
+     (PP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT este)
+        (NNS modo)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB ganhar)
+      (NP 
+       (NNS actualidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

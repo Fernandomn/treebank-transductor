@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (CD 50)
+   (NP 
+    (NNS anos)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS homem)
+       (PP 
+        (IN de)
+        (NP 
+         (CD sete)
+         (NNS ofícios)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

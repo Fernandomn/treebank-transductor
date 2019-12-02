@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Senhor)
+        (NNS Aurélio)
+       )
+      )
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Luís)
+          (NNS Filipe)
+          (NNS Costa)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (CD segundo)
+       (NP 
+        (NNS episódio)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Terra)
+            (NNS Instável)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS série)
+            (ADJP 
+             (VB produzida)
+             (PP 
+              (IN por_)
+              (NP 
+               (DT a)
+               (NNS RTP)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

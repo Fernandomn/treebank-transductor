@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS coisas)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB vão)
+    )
+    (ADVP 
+     (RB lá)
+     (ADVP 
+      (RB muito)
+      (RB bem)
+     )
+    )
+   )
+  )
+ )
+)

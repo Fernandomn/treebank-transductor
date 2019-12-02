@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT o)
+     (NN preço)
+     (ADJP 
+      (JJ simbólico)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN CR$)
+       (ADJP 
+        (CD 1.000)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Conceição)
+    )
+   )
+   (VP 
+    (VBP tem)
+    (VBN existido)
+   )
+   (NP 
+    (DT certa)
+    (NN indiferença)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN polícia)
+      (ADJP 
+       (JJ local)
+      )
+     )
+    )
+    (PP 
+     (IN em_relação_a+)
+     (NP 
+      (DT o)
+      (NN caso)
+     )
+    )
+   )
+  )
+ )
+)

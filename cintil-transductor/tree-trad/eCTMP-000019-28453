@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS América)
+   )
+   (VP 
+    (VB tem)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB preparar)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS futuro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

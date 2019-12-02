@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Vou)
+      (VP 
+       (VB continuar)
+       (PP 
+        (IN a)
+        (VB lutar)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB vou)
+       (VP 
+        (VB tentar)
+        (VP 
+         (VP 
+          (VB surpreendê)
+          (NP 
+           (PRP -lo)
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS montanha)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

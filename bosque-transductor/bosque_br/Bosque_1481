@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN sindicato)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN arquitetos)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN projeto)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN prefeitura)
+     )
+    )
+   )
+   (VP 
+    (VBP modifica)
+   )
+   (NP 
+    (DT o)
+    (NN desenho)
+    (ADJP 
+     (JJ original)
+    )
+   )
+  )
+ )
+)

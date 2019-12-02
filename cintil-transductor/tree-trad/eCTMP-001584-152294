@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+       (NNS dia)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS estudantes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Faculdade)
+         (NNS de)
+         (NNS Ciências)
+         (NNS Sociais)
+         (NNS e)
+         (NNS Humanas)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB tentaram)
+      (PP 
+       (PP 
+        (IN sem)
+        (NP 
+         (NNS êxito)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS invasão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS reitoria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

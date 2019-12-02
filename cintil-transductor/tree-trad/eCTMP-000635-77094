@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NP 
+      (CD terceira)
+      (NNS longa-metragem)
+     )
+    )
+   )
+   (VP 
+    (VB compete)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Berlim)
+     )
+    )
+   )
+  )
+ )
+)

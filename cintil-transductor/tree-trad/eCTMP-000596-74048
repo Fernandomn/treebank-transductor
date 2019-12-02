@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Polícia)
+     (NNS Judiciária)
+    )
+   )
+   (VP 
+    (VB esteve)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS local)
+     )
+    )
+   )
+  )
+ )
+)

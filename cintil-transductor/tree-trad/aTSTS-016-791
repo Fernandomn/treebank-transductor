@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS solidariedade)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS rapaz)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN para)
+        (IN com)
+       )
+       (NP 
+        (DT a)
+        (NNS amiga)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

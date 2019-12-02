@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Outra)
+     (NP 
+      (NNS troca)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS pilotos)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT esta)
+      (NP 
+       (ADJP 
+        (RB já)
+        (ADJP 
+         (ADVP 
+          (RB mais)
+          (RB ou)
+          (RB menos)
+         )
+         (JJ prevista)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB acontece)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Ligier)
+       (CONJP 
+        (CONJP 
+         (RB onde)
+         (S 
+          (NP 
+           (NP 
+            (NNS Aguri)
+            (NNS Suzuki)
+           )
+          )
+          (VP 
+           (VP 
+            (VB toma)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS lugar)
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (NNS Martin)
+                 (NNS Brundle)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

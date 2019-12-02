@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Ele)
+     )
+     (VP 
+      (VP 
+       (VB veio)
+       (RB hoje)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS inauguração)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS sinagoga)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB gostámos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS discurso)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB fez)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

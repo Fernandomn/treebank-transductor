@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Marcou)
+     (NP 
+      (DT os)
+      (NP 
+       (CD dois)
+       (NNS golos)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB passou)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NP 
+          (ADJP 
+           (RB mais)
+           (JJ bonito)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS noite)
+          )
+         )
+        )
+        (ADJP 
+         (ADJP 
+          (VB apontado)
+          (PP 
+           (IN por)
+           (NP 
+            (NNS Drulovic)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

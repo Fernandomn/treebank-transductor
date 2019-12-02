@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB esperava)
+      )
+      (NP 
+       (DT esta)
+       (NP 
+        (NP 
+         (NNS posição)
+         (JJ oficiosa)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS diocese)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS padre)
+      (NNS Miranda)
+     )
+    )
+   )
+  )
+ )
+)

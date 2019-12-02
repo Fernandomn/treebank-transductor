@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS sérvios)
+   )
+   (VP 
+    (VP 
+     (VB fazem)
+     (NP 
+      (PRP -na)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS nome)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS conquista)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS territórios)
+             (PP 
+              (IN para)
+              (NP 
+               (DT a)
+               (NP 
+                (PP sua)
+                (NP 
+                 (NNS nação)
+                 (ADJP 
+                  (RB bem)
+                  (VB amada)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

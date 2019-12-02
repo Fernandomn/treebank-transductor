@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN atacante)
+    (NP 
+     (NNP Ana_Moser)
+    )
+    (NP 
+     (NP 
+      (CD 26)
+      (NN anos)
+     )
+     (NP 
+      (CD 1.85)
+      (NN m)
+     )
+     e
+     (NP 
+      (CD 70)
+      (NN kg)
+     )
+    )
+   )
+   (VP 
+    (VBP revelou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB depois)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN vôlei)
+      )
+     )
+    )
+    (NP 
+     (DT sua)
+     (JJ segunda)
+     (NN paixão)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT o)
+     (NN futebol)
+    )
+   )
+  )
+ )
+)

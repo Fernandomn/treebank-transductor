@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (JJ novo)
+    (NP 
+     (NNS passo)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS modernização)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS regimento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

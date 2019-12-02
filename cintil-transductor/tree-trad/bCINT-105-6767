@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Tem)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS fémures)
+       (JJ partidos)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (CD dois)
+         (NP 
+          (NNS meses)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS vida)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB pesa)
+       (NP 
+        (NP 
+         (CD dois)
+         (NNS quilos)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (CD seiscentos)
+           (CD e)
+           (CD cinquenta)
+          )
+          (NNS gramas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

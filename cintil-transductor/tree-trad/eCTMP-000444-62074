@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de)
+     )
+     (NP 
+      (PRP tudo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (CD três)
+      (NP 
+       (JJ grandes)
+       (NP 
+        (NNS clubes)
+        (JJ portugueses)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VB investiram)
+      (NP 
+       (PRP alguma)
+       (NNS coisa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

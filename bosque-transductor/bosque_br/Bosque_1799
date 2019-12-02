@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em+)
+     (NP 
+      (DT a)
+      (NN delegacia)
+      (PP 
+       (IN de)
+       (NP 
+        (NN polícia)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (JJ nova)
+     (NN bandeira)
+     (PP 
+      (IN de)
+      (NP 
+       (CD seis)
+       (NN cores)
+      )
+     )
+    )
+    (VP 
+     (VBP está)
+    )
+    (VP 
+     (VP 
+      (VBN hasteada)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mastro)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN juiz)
+     (NP 
+      (NNP David_Postman)
+     )
+    )
+    (VP 
+     (VBP acabou)
+     (IN de)
+     (VB concluir)
+    )
+    (NP 
+     (DT a)
+     (NN contagem)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN votos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

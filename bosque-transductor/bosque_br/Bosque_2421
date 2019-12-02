@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP terão)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB pagar)
+     )
+     (NP 
+      (NN multa)
+      (ADJP 
+       (JJ equivalente)
+       (PP 
+        (IN a)
+        (NP 
+         (NN R$)
+         (ADJP 
+          (CD 647.90)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

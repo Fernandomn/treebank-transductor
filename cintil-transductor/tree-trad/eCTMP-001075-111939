@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS península)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (CD 70)
+      (NP 
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS população)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (JJ russófona)
+    )
+   )
+  )
+ )
+)

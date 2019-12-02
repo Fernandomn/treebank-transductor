@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB está)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS causa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS competitividade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS indústria)
+         (JJ europeia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

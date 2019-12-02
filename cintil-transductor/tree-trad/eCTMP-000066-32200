@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS direcção)
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB mostrou)
+       (NP 
+        (NP 
+         (JJ boa)
+         (NNS vontade)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NNS greve)
+     )
+     (VP 
+      (VB prossegue)
+      (PP 
+       (IN em)
+       (NP 
+        (PRP todas)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS delegações)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS país)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

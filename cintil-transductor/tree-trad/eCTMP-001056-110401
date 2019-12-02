@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Ontem)
+    (VP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS fim)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS manhã)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB estavam)
+       (RB apenas)
+      )
+      (JJ vendidos)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (ADVP 
+      (RB cerca)
+      (RB de)
+     )
+     (NP 
+      (CD 11)
+      (CD mil)
+     )
+    )
+    (NP 
+     (NNS bilhetes)
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS preços)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB oscilam)
+            (PP 
+             (IN entre)
+             (NP 
+              (NP 
+               (DT os)
+               (NP 
+                (CD 1500)
+                (NNS escudos)
+               )
+              )
+              (NP 
+               (CC e)
+               (NP 
+                (DT os)
+                (NP 
+                 (CD dez)
+                 (NNS contos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS verdade)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS regime)
+    )
+    (VP 
+     (RB apenas)
+     (VP 
+      (VB está)
+      (PP 
+       (IN a)
+       (VP 
+        (VB legalizar)
+        (NP 
+         (DT aquilo)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (NP 
+             (DT as)
+             (NNS pessoas)
+            )
+            (VP 
+             (RB já)
+             (VP 
+              (VB fazem)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

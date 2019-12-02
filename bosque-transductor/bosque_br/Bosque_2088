@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Teremos)
+   )
+   (NP 
+    (DT o)
+    (NN balanço)
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (NN defesa)
+      )
+      e
+      (NP 
+       (NN ataque)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       tanto
+       (NP 
+        (NNP Zagalo)
+       )
+       e
+       (NP 
+        (NNP Parreira)
+       )
+      )
+      (VP 
+       (VBP defendem)
+      )
+     )
+     mas
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT o)
+       (NN time)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP revela)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN campo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

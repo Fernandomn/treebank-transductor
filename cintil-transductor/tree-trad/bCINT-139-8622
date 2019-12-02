@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Dão)
+     (NP 
+      (DT um)
+      (NNS nome)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (PP vosso)
+       (NNS som)
+      )
+     )
+    )
+   )
+  )
+ )
+)

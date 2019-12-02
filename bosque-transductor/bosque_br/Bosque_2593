@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Raia)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (NP 
+      (DT sua)
+      (NN equipe)
+     )
+     (VP 
+      (VBP levantou)
+     )
+     (NP 
+      (DT as)
+      (NN necessidades)
+      (PP 
+       (IN de)
+       (NP 
+        (NN material)
+        (PP 
+         (IN de)
+         (NP 
+          (NN consumo)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN rede)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (IN que)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 3)
+       (NN milhões)
+      )
+     )
+     (VP 
+      (VBP estão)
+      (VBG sendo)
+      (VBN liberados)
+     )
+     (ADVP 
+      (RB agora)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN gastos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (JJ primeiro)
+         (NN trimestre)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (DT próprio)
+    (NN nome)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN banda)
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Ann_Marie)
+    )
+   )
+   (VP 
+    (VBP vem)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN leituras)
+     (ADJP 
+      (JJ sistemáticas)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNP Sartre)
+       )
+       (NP 
+        (NNP Marx)
+       )
+       (NP 
+        (NNP Kafka)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

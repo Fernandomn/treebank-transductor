@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mercado)
+    (NNS Municipal)
+    (NNS de_)
+    (NNS a)
+    (NNS Reboleira)
+   )
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB tem)
+   )
+   (NP 
+    (NNS segurança)
+   )
+  )
+ )
+)

@@ -1,0 +1,117 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (CD Um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN responsáveis)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT a)
+        (NN seleção)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (NN moças)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Ford)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP quis)
+       )
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VB identificar)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP aponta)
+   )
+   (NP 
+    (DT o)
+    (NN italiano)
+    (NP 
+     (NNP Maldini)
+    )
+    (VP 
+     (VP 
+      (VBN considerado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN imprensa)
+       (ADJP 
+        (JJ européia)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NN bumbum)
+      (ADJP 
+       (RB mais)
+       (JJ bonito)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Copa)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP que)
+    )
+    (VP 
+     (VBP recebeu)
+    )
+    (NP 
+     (RB apenas)
+     (CD um)
+     (NN voto)
+    )
+    (ADVP 
+     (RB como)
+     (NP 
+      (DT o)
+      (RB mais)
+      (JJ bonito)
+     )
+    )
+   )
+  )
+ )
+)

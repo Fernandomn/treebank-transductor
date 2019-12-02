@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS era)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS informática)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (NNS computador)
+      (PP 
+       (IN por)
+       (NP 
+        (NNS secção)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VP 
+       (RB não)
+       (VB ajuda)
+      )
+      (RB muito)
+     )
+    )
+   )
+  )
+ )
+)

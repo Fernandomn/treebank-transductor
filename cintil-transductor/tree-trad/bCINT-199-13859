@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Moniz)
+     (NNS Pereira)
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS sabonete)
+        (JJ normal)
+       )
+      )
+      (VP 
+       (VP 
+        (VB é)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS produto)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS saponificação)
+             (PP 
+              (IN de)
+              (NP 
+               (DT um)
+               (NP 
+                (NP 
+                 (NNS ácido)
+                 (JJ gordo)
+                )
+                (ADJP 
+                 (ADJP 
+                  (JJ vegetal)
+                  (ADJP 
+                   (CC ou)
+                   (JJ normal)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

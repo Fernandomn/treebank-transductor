@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS Guarda)
+     )
+     (VP 
+      (VB está)
+      (ADVP 
+       (RB longe)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB está)
+       (ADVP 
+        (RB perto)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Espanha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

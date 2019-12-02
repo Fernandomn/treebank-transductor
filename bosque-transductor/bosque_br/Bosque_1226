@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT a)
+    (NN magnitude)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN diferença)
+      (PP 
+       (IN entre)
+       (NP negros e
+        (NN brancos)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NN desvios)
+        (NP 
+         (NN padrões)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP reduz)
+   )
+  )
+ )
+)

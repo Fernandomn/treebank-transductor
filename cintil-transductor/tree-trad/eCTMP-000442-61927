@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS maioria)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS automóveis)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (VB adquirida)
+     )
+     (PP 
+      (NP 
+       (DT este)
+       (NNS ano)
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS motivos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS serviço)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

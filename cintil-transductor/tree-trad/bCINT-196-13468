@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS casa)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS Cabrais)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB queriam)
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB cantássemos)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Maria)
+           (NNS de_)
+           (NNS a)
+           (NNS Fonte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

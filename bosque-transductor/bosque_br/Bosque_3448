@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN deputado)
+    (NP 
+     (NNP Adroaldo_Streck)
+    )
+    (NP 
+     (NNP PSDB-RS)
+    )
+   )
+   (VP 
+    (VBP ficou)
+   )
+   (VP 
+    (VP 
+     (VBN encarregado)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB confirmar)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NNP Britto)
+       )
+      )
+      (NP 
+       (DT o)
+       (NN encontro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

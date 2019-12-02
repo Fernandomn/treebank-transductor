@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS catástrofe)
+   )
+   (VP 
+    (VP 
+     (VB seguiu)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NNS maremoto)
+     )
+    )
+   )
+  )
+ )
+)

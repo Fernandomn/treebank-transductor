@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Folha_Informações)
+   )
+   (VP 
+    (VBP atendeu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (JJ último)
+     (NN fim-de-semana)
+    )
+   )
+   (NP 
+    (CD 3.978)
+    (NN pessoas)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP acionaram)
+     )
+     (NP 
+      (DT o)
+      (NN serviço)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB saber)
+       )
+       (NP 
+        (DT o)
+        (NN resultado)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNP Guarani)
+          )
+          e
+          (NP 
+           (NNP Palmeiras)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS bancada)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS CDU)
+       )
+      )
+     )
+    )
+    (VB concordou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB reforçou)
+       (RB politicamente)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS teor)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS documento)
+           (JJ socialista)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

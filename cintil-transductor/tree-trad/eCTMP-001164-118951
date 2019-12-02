@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pais)
+    (PP 
+     (IN contra)
+     (NP 
+      (NNS professora)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB boicotam)
+   (NP 
+    (NNS aulas)
+   )
+  )
+ )
+)

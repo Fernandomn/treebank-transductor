@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Rio_De_Janeiro)
+   )
+   (VP 
+    (ADVP 
+     (RB Aos_trancos_e_barrancos)
+    )
+    (ADVP 
+     (RB eis_que)
+    )
+    (ADVP 
+     (RB mais_uma_vez)
+    )
+    (NP 
+     (DT o)
+     (NN país)
+    )
+    (VP 
+     (VBP tenta)
+    )
+    (VP 
+     (VP 
+      (VB dar)
+     )
+     (NP 
+      (DT um)
+      (NN passo)
+      (PP 
+       (IN em_direção_a)
+       (NP 
+        (DT um)
+        (NN futuro)
+        (ADJP 
+         (RB mais)
+         (JJ feliz)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

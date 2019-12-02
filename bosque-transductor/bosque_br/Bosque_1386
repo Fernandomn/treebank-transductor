@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN excursão)
+   )
+   (VP 
+    (VBP está)
+    (VBG sendo)
+    (VBN organizada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN clube)
+     (NP 
+      (NNP More_Fun)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP promove)
+       )
+       (NP 
+        (DT a)
+        (NN troca)
+        (PP 
+         (IN de)
+         (NP 
+          (NN correspondências)
+          (PP 
+           (IN entre)
+           (NP 
+            (NN gays)
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (ADVP 
+              (RB não)
+             )
+             (VP 
+              (VBP querem)
+             )
+             (VP 
+              (VP 
+               (VB expor)
+              )
+              (ADVP 
+               (RB publicamente)
+              )
+              (NP 
+               (DT suas)
+               (NN preferências)
+               (ADJP 
+                (JJ sexuais)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

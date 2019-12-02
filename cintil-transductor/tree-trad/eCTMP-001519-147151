@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Alguns)
+      (NNS socialistas)
+     )
+     (VP 
+      (VB alegavam)
+      (CONJP 
+       (CC que)
+       (S 
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT este)
+           (NNS caso)
+          )
+         )
+        )
+        (S 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS presidente)
+           (NNS de_)
+           (NNS a)
+           (NNS Assembleia)
+          )
+         )
+         (VP 
+          (VB poderia)
+          (VB desempatar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NNS PSD)
+     )
+     (VP 
+      (VB contesta)
+      (NP 
+       (DT esta)
+       (NP 
+        (NNS possibilidade)
+        (JJ regimental)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

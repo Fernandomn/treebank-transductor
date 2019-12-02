@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Orquestra)
+     (NNS de_)
+     (NNS o)
+     (NNS Concertgebow)
+    )
+   )
+   (VP 
+    (VP 
+     (VB figurava)
+     (RB já)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT outra)
+      (NP 
+       (JJ importante)
+       (NP 
+        (NNS gravação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS obra)
+           (ADJP 
+            (ADJP 
+             (VB dirigida)
+             (PP 
+              (IN por)
+              (NP 
+               (NP 
+                (NNS Bernard)
+                (NNS Haitink)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

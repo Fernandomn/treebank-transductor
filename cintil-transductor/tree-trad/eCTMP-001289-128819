@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS A)
+     (NNS Bela)
+     (NNS Memphis)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ pequena)
+       (NNS surpresa)
+      )
+     )
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS filme)
+         (ADJP 
+          (JJ estranho)
+         )
+        )
+        (PP 
+         (PP 
+          (IN dentro)
+          (IN de_)
+         )
+         (NP 
+          (DT a)
+          (NP 
+           (NNS moda)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS nostalgia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

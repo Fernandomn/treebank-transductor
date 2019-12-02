@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS Portucel)
+      (NNS Industrial)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS título)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (CONJP 
+          (S 
+           (VP 
+            (VP 
+             (VB há)
+             (RB já)
+            )
+            (NP 
+             (PRP algum)
+             (NNS tempo)
+            )
+           )
+          )
+         )
+         (VP 
+          (RB não)
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB destacava)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB teve)
+     (RB ontem)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NNS oportunidade)
+     )
+    )
+   )
+  )
+ )
+)

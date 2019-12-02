@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN suspensão)
+    (ADJP 
+     (JJ frontal)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN garfo)
+     (ADJP 
+      (JJ telescópico)
+     )
+     (VBN invertido)
+     (NP 
+      (NN marca)
+      (NP 
+       (NNP Marzochi)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN curso)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 200)
+         (NN mm)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

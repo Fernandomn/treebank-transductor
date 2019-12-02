@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS escândalos)
+   )
+   (VP 
+    (VB parecem)
+    (VP 
+     (VP 
+      (RB não)
+      (VB querer)
+     )
+     (VP 
+      (VP 
+       (VB dar)
+       (NP 
+        (NNS tréguas)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS família)
+          (JJ real)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Mónaco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

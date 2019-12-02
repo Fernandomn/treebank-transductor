@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD 38)
+    (NN nomes)
+   )
+   (VP 
+    (VBP fazem)
+   )
+   (NP 
+    (NN parte)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN aditamento)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (JJ primeira)
+        (NN denúncia)
+        (VP 
+         (VP 
+          (VBN feita)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NNP Ministério_Público)
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN escândalo)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN bicho)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NN junho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Lílian)
+    (PP 
+     (IN sem)
+     (NP 
+      (NN calcinha)
+     )
+    )
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (DT mais)
+    (NN estrago)
+    (SBAR do_que
+     (S 
+      (DT um)
+      (NN bando)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Comando_Vermelho)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NN revólver)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

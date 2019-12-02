@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NNS Clinton)
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS vantagem)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 5,2)
+         (NNS pontos)
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (NNS Dole)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

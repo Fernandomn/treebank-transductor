@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+   )
+   (S 
+    (S 
+     (NP 
+      (NNS Aristides)
+     )
+     (VP 
+      (PP 
+       (PP 
+        (PP 
+         (IN apesar)
+         (IN de_)
+        )
+        (NP 
+         (DT os)
+         (NP 
+          (PP seus)
+          (NP 
+           (NP 
+            (RB quase)
+            (CD 80)
+           )
+           (NNS anos)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB acocorou)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (RB agilmente)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (S 
+        (S 
+         (VP 
+          (VB fitando)
+          (NP 
+           (DT o)
+           (NNS Pedro)
+          )
+         )
+        )
+       )
+       (VP 
+        (VB interpelou)
+        (NP 
+         (PRP -o)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

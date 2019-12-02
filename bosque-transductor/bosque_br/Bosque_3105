@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Notamos)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (NP 
+      (DT um)
+      (NN passageiro)
+      (ADJP 
+       (JJ brasileiro)
+      )
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP inscreve)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT um)
+       (NN programa)
+       (PP 
+        (IN de)
+        (NP 
+         (NN milhagem)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NN companhia)
+         (ADJP 
+          (JJ aérea)
+         )
+         (ADJP 
+          (JJ internacional)
+         )
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP serve)
+          )
+          (NP 
+           (DT o)
+           (NNP Brasil)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (VBN passados)
+     (CD 30)
+     (NN dias)
+    )
+    (VP 
+     (VBP recebe)
+    )
+    (NP 
+     (DT a)
+     (NN proposta)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Iapa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Era)
+      (RB mesmo)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Pierre-Jean)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ outra)
+        (NNS vez)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

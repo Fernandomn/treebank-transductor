@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN Banco)
+   )
+   (VP 
+    (VBP apresentou)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1993)
+    )
+   )
+   (NP 
+    (CD um)
+    (NN nível)
+    (PP 
+     (IN de)
+     (NP 
+      (NN alavancagem)
+      (ADJP 
+       (JJ alto)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG demonstrando)
+    )
+    (NP 
+     (JJ maior)
+     (NN agressividade)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (DT suas)
+       (NN operações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

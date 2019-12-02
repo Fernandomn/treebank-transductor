@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS altura)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT os)
+          (NP 
+           (NNS agricultores)
+           (JJ portugueses)
+          )
+         )
+         (VP 
+          (VP 
+           (VB enfrentam)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS desafio)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS PAC)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS A)
+      (NNS Nossa)
+      (NNS Terra)
+     )
+    )
+    (VP 
+     (VB adquire)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS sentido)
+       (JJ especial)
+      )
+     )
+    )
+   )
+  )
+ )
+)

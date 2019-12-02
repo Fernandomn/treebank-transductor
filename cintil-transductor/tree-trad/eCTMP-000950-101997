@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS FC)
+     (NNS Porto)
+    )
+   )
+   (VP 
+    (VB vence)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Braga)
+     )
+    )
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (NP 
+     (NNS Robson)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB receber)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS equipa)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (CD primeiro)
+           (NNS lugar)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

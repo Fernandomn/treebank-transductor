@@ -1,0 +1,102 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB chegar)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT suas)
+       (NN conclusões)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Rosa)
+   )
+   (VP 
+    (VBP entrevistou)
+   )
+   (NP 
+    (DT um)
+    (NN grupo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN funcionários)
+      (ADJP 
+       (JJ públicos)
+      )
+      (NP 
+       (NN técnicos)
+       (ADJP 
+        (JJ administrativos)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VP 
+         (VP 
+          (VBP trabalham)
+         )
+        )
+        e
+        (VP 
+         (VP 
+          (VBP comem)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN centro)
+           (ADJP 
+            (JJ velho)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN cidade)
+             (PP 
+              (IN de)
+              (NP 
+               (NNP São_Paulo)
+              )
+             )
+            )
+           )
+           (NP 
+            (NN ruas)
+            (NP 
+             (NP 
+              (NNP Líbero_Badaró)
+             )
+             (NP 
+              (NNP São_Bento)
+             )
+             e
+             (NP 
+              (NN adjacências)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

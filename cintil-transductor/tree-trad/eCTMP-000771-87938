@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Haiti)
+   )
+   (VP 
+    (VP 
+     (VB precisa)
+     (RB ainda)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS escritores)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (NP 
+           (PRP o)
+          )
+          (VB insurreccionem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

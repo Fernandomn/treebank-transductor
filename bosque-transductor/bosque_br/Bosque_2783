@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN segurança)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP teria)
+      (VBN sido)
+      (VBN avisada)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN dilomatas)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBN desviado)
+     )
+     (NP 
+      (DT a)
+      (NN rota)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN avião)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

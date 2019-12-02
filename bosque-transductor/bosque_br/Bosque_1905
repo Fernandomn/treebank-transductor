@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN aparências)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT as)
+    (JJ principais)
+    (NN vítimas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN sarcasmo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Altman)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (PP 
+     (IN desde)
+     (NP 
+      (DT as)
+      (NN peruas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP discutem)
+       )
+       (NP 
+        (DT a)
+        (NN cor)
+        (PP 
+         (IN de)
+         (NP 
+          (DT seus)
+          (NN cabelos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (DT a)
+      (NN noiva)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP usa)
+       )
+       (NP 
+        (NN aparelho)
+       )
+       (VP 
+        (VP 
+         (VBG escovando)
+        )
+        (NP 
+         (DT os)
+         (NN dentes)
+        )
+        (ADJP 
+         (JJ alegre)
+        )
+        (PP 
+         (IN diante_de+)
+         (NP 
+          (DT o)
+          (NN espelho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

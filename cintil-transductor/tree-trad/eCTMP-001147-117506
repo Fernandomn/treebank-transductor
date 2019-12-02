@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Foi)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS estágio)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (NP 
+           (DT o)
+           (NNS Ministério)
+          )
+          (VP 
+           (VB impôs)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (RB não)
+      (VB havia)
+     )
+     (NP 
+      (DT outra)
+      (NNS oferta)
+     )
+    )
+   )
+  )
+ )
+)

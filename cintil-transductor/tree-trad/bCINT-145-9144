@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ mesmo)
+     (NNS realizador)
+    )
+   )
+   (VP 
+    (VP 
+     (VB recriou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS cinema)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Ghost)
+       (NNS world)
+      )
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS BD)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Daniel)
+            (NNS Clowes)
+           )
+          )
+          (NP 
+           (NP 
+            (DT outro)
+            (NP 
+             (NNS autor)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS culto)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

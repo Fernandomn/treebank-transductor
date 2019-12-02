@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+   )
+   (VP 
+    (VBP promete)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN sociedade)
+    )
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB de_agora_em_diante)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP vai)
+       (VB mudar)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN vida)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBP vai)
+       (VB garantir)
+      )
+      (NP 
+       (DT o)
+       (NN equilíbrio)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN contas)
+         (ADJP 
+          (JJ públicas)
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP vai)
+       (VB parar)
+       (IN de)
+       (VB abusar)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (DT seu)
+        (NN monopólio)
+        (PP 
+         (IN de)
+         (NP 
+          (NN criação)
+          (PP 
+           (IN de)
+           (NP 
+            (NN moeda)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

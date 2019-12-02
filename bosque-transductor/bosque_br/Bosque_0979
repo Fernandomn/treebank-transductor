@@ -1,0 +1,105 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT nenhuma)
+    (PP 
+     (IN de+)
+     (NP 
+      (PRP elas)
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN medo)
+    (PP 
+     (PP 
+      (IN de)
+      (VP 
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VB encontrar)
+       )
+       (NP 
+        (DT o)
+        (NN carro)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN saída)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN cinema)
+          )
+         )
+        )
+       )
+      )
+     )
+     ou
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+        (VBN agredida)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NN guardador)
+        )
+       )
+      )
+     )
+     ou
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB parar)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN sinal)
+         (PP 
+          (IN de)
+          (NP 
+           (NN trânsito)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN volta)
+         (PP 
+          (IN para)
+          (NP 
+           (NN casa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

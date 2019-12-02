@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT esse)
+     (NN total)
+    )
+   )
+   (ADJP 
+    (CD 40)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (UCP 
+     (NP 
+      (NN parentes)
+     )
+     e
+     (NN amigos)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NP ex-jogador)
+     )
+    )
+   )
+  )
+ )
+)

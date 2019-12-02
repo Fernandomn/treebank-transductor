@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Isto)
+   )
+   (VP 
+    (VBP restringe)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT a)
+     (NNP URV)
+    )
+   )
+   (NP 
+    (DT todos)
+    (DT os)
+    (NN poderes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN moeda)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN país)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

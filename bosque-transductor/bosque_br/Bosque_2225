@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Perto_de)
+    (ADJP 
+     (DT qualquer)
+     (CD uma)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN cenário)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Tropicaliente)
+     )
+    )
+   )
+   (VP 
+    (VBP parece)
+   )
+   (NP 
+    (DT uma)
+    (JJ grande)
+    (NN aldeia)
+    (PP 
+     (IN de)
+     (NP 
+      (NN milionários)
+     )
+    )
+   )
+  )
+ )
+)

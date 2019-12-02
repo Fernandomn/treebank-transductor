@@ -1,0 +1,16 @@
+(
+ (S 
+  (NP 
+   (NNS MOSTAR)
+  )
+  (VP 
+   (VB VOTA)
+   (PP 
+    (IN SEM)
+    (NP 
+     (NNS INCIDENTES)
+    )
+   )
+  )
+ )
+)

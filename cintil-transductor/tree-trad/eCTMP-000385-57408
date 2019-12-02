@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Vozes)
+     (JJ graves)
+    )
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB recordam)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS cantares)
+         (JJ alentejanos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

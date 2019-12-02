@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (PP 
+       (PP 
+        (IN Para)
+        (NP 
+         (DT os)
+         (NNS espanhóis)
+        )
+       )
+      )
+      (S 
+       (NP 
+        (DT o)
+        (NNS futebol)
+       )
+       (VP 
+        (VB é)
+        (JJ sagrado)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirma)
+    )
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS Alves)
+     )
+    )
+   )
+  )
+ )
+)

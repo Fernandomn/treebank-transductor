@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS terra)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS expoente)
+        (JJ máximo)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS automobilismo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

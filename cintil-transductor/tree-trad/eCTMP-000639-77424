@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS corrida)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS título)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB continua)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS trio)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS jogadores)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB partilham)
+            (NP 
+             (DT o)
+             (NP 
+              (CD quarto)
+              (NNS lugar)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

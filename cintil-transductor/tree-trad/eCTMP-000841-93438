@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS equipamento)
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VB servir)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS população)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (ADVP 
+           (RB cerca)
+           (RB de)
+          )
+          (NP 
+           (CD 15)
+           (CD mil)
+          )
+         )
+         (NNS habitantes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

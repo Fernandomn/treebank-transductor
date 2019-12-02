@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Borges)
+    )
+    (VP 
+     (VB fez)
+     (NP 
+      (NP 
+       (JJ novo)
+       (NNS testamento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

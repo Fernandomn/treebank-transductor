@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vandalizaram)
+     (NP 
+      (NP 
+       (CD 16)
+       (NNS cubatas)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (CD três)
+        (NNS carros)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB feriram)
+      (NP 
+       (CD 14)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS ocupantes)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS terra)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

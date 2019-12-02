@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Gostam)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Simone)
+         (NNS Signoret)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB esquecem)
+      (NP 
+       (NP 
+        (NNS Fanny)
+        (NNS Ardant)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

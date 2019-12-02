@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS semana)
+       (JJ seguinte)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Nagasáqui)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS tema)
+       (JJ abordado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

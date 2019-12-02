@@ -1,0 +1,21 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Menem)
+   )
+   (VP 
+    (VBP seria)
+   )
+   (NP 
+    (NN alvo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN míssil)
+     )
+    )
+   )
+  )
+ )
+)

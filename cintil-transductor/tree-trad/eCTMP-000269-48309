@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS provedor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Santa)
+         (NNS Casa)
+         (NNS de)
+         (NNS Misericórdia)
+         (NNS de)
+         (NNS São)
+         (NNS Brás)
+         (NNS de)
+         (NNS Alportel)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Abílio)
+      (NNS Barros)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+       (NNS opinião)
+      )
+     )
+    )
+   )
+  )
+ )
+)

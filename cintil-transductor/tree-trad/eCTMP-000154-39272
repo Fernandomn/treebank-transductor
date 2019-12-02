@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Furto)
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS Palácio)
+     (NNS de_)
+     (NNS a)
+     (NNS Ajuda)
+    )
+   )
+  )
+ )
+)

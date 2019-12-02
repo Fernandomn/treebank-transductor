@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PMDB)
+      (NP 
+       (NNP Djalma_Falcão)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vê)
+   )
+   (NP 
+    (DT a)
+    (NN possibilidade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN aliança)
+      (PP 
+       (IN de+)
+       (NP 
+        (NP 
+         (DT os)
+         (NN colloridos)
+        )
+        e
+        (NP 
+         (NNP Lessa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN pragmatismo)
+    )
+   )
+  )
+ )
+)

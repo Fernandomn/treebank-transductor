@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Escritores)
+    (JJ portugueses)
+   )
+  )
+  (VP 
+   (VB falam)
+   (PP 
+    (IN de)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+  )
+ )
+)

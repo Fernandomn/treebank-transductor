@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministra)
+    (NNS para)
+    (NNS a)
+    (NNS Qualificação)
+    (NNS e)
+    (NNS Emprego)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB encomendar)
+    (NP 
+     (CD 24)
+     (NP 
+      (NNS estudos)
+      (PP 
+       (IN sobre)
+       (NP 
+        (NP 
+         (NNS formação)
+         (JJ profissional)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

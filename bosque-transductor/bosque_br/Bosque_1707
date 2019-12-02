@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Diabolismo)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP falta)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN solista)
+     (NP 
+      (NNP Robert_McDuffie)
+     )
+     (VP 
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (DT um)
+       (NN violinista)
+       (UCP 
+        (PP 
+         (IN de)
+         (NP 
+          (NN mil)
+          (NN dedos)
+         )
+        )
+        (ADJP 
+         (JJ afinadíssimo)
+        )
+        e
+        (PP 
+         (IN sem)
+         (NP 
+          (NN medo)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN música)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

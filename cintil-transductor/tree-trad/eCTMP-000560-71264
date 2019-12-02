@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Provavelmente)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS medo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS estreias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

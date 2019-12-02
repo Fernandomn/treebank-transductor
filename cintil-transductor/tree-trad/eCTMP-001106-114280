@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB São)
+     (NP 
+      (CD dez)
+      (NNS maquetes)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+      )
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS cópia)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS cenário)
+            (JJ construído)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD 1886)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

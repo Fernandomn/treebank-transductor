@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS maioria)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS analistas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (ADVP 
+      (RB contudo)
+     )
+    )
+    (JJ indecisa)
+   )
+  )
+ )
+)

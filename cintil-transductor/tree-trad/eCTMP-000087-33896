@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (PRP elas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB aconteceu)
+      (RB ainda)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Paris)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (DT os)
+        (NNS resultados)
+       )
+       (VP 
+        (VB acabavam)
+        (PP 
+         (IN de)
+         (VP 
+          (VB ser)
+          (VB conhecidos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

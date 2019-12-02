@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Funcionários)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN escritório)
+      (ADJP 
+       (JJ cubano)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tentaram)
+   )
+   (VP 
+    (VP 
+     (VB abafar)
+    )
+    (NP 
+     (DT os)
+     (NN protestos)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN rua)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG colocando)
+     )
+     (NP 
+      (NN caixas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN som)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN janelas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN prédio)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN música)
+       (ADJP 
+        (JJ alta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

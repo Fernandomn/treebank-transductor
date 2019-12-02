@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS problema)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS aborto)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VP 
+        (VB será)
+        (ADVP 
+         (ADVP 
+          (RB de)
+          (RB novo)
+         )
+        )
+       )
+       (VB analisado)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NNS referendo)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Novembro)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT outras)
+      (NNS batalhas)
+     )
+     (VP 
+      (VP 
+       (VB aguardam)
+       (NP 
+        (NNS Dublin)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Comunidade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

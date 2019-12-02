@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (PRP nós)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NNS assunto)
+     )
+     (VP 
+      (VB está)
+      (JJ encerrado)
+     )
+    )
+   )
+  )
+ )
+)

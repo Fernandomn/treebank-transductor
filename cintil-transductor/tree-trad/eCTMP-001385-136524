@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB digo)
+       (ADVP 
+        (RB agora)
+       )
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB sou)
+         (NP 
+          (NNS escritor)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

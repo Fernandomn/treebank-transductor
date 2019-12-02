@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Queima)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Coimbra)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VB tem)
+    (NP 
+     (NNS programa)
+    )
+   )
+  )
+ )
+)

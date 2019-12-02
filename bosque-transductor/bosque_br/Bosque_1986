@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP era)
+    )
+    (NP 
+     (NN criança)
+    )
+   )
+   (VP 
+    (VBP tinha)
+   )
+   (NP 
+    (NN vergonha)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB ser)
+      )
+      (ADJP 
+       (JJ latina)
+      )
+     )
+    )
+   )
+  )
+ )
+)

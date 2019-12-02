@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN emoção)
+   )
+   (VP 
+    (VBP cresce)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (VP 
+      (VBP atravesso)
+     )
+     (NP 
+      (DT o)
+      (NN salão)
+      (PP 
+       (IN de)
+       (NP 
+        (NN festas)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP chego)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN salas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN museu)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Memorial_de_Menininha_do_Gantois)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS fenómeno)
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VP 
+      (VB perturba)
+      (NP 
+       (NP 
+        (DT a)
+        (NNS navegação)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (DT as)
+          (NNS comunicações)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS sistemas)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS distribuição)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS electricidade)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Terra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

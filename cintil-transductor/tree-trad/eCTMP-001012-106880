@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Mark)
+      (NNS Harmon)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Wes)
+        (NNS Craven)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Robert)
+          (NNS Carradine)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS Twiggy)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB fazem)
+    (NP 
+     (NP 
+      (NNS parte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS elenco)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

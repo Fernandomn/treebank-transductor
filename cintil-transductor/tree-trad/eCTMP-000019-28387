@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pinto)
+    (NNS de)
+    (NNS Sousa)
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (NP 
+      (NNS candidato)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS presidência)
+         (NNS de_)
+         (NNS a)
+         (NNS Liga)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ novo)
+     (NNS número)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ontem)
+    )
+    (VP 
+     (VB avançado)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NNS SIC)
+      )
+     )
+    )
+   )
+  )
+ )
+)

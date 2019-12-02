@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS votação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS inquérito)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB está)
+     )
+     (JJ marcada)
+    )
+   )
+  )
+ )
+)

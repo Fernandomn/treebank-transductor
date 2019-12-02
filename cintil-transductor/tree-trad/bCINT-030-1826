@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Elas)
+     )
+     (VP 
+      (VB manobram)
+      (NP 
+       (PRP tudo)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB pairam)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS cenário)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS desenhos)
+             (JJ animados)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Chantal)
+    )
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB veio)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Fevereiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

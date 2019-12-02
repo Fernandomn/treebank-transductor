@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT este)
+      (NP 
+       (NNS estado)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS coisas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB iniciou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ forte)
+      (NP 
+       (NP 
+        (NNS pressão)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS mercados)
+         )
+        )
+       )
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NNS peseta)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

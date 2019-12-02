@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lebed)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB propôs)
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ nova)
+           (NP 
+            (NNS abordagem)
+            (PP 
+             (IN para)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS resolução)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NNS conflito)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (DT um)
+           (NP 
+            (NNS cessar-fogo)
+            (JJ bilateral)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS retirada)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS combatentes)
+             (JJ independentistas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN segundo)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS porta-voz)
+        (JJ russo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

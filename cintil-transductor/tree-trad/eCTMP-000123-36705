@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS susto)
+     (JJ grande)
+    )
+   )
+   (VP 
+    (VB aconteceu)
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS frente)
+         )
+        )
+       )
+       (VB surgiu)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (JJ grande)
+        (NNS limpa-neves)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

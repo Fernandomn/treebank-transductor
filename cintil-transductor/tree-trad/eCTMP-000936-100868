@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (JJ grande)
+      (NNS jogador)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB é)
+       )
+       (NP 
+        (NNS Figo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB pode)
+    )
+    (VP 
+     (VB dizer)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS palavra)
+        )
+       )
+       (VP 
+        (VB vale)
+        (NP 
+         (CD zero)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

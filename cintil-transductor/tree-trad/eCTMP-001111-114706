@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Embaixadora)
+    (NNS de_)
+    (NNS a)
+    (NNS WNBA)
+   )
+  )
+  (VP 
+   (VB joga)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Portugal)
+    )
+   )
+  )
+ )
+)

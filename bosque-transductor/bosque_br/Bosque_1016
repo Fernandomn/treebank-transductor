@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (CD duas)
+    (NN palavras)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP chegaram)
+      (IN a)
+      (VB ser)
+      (VBN ditas)
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP resumem)
+     )
+     (NP 
+      (DT o)
+      (NN consenso)
+      (VP 
+       (VP 
+        (VP 
+         (VB investir)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN treinamento)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT as)
+          (NN empresas)
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (VP 
+          (VBP é)
+         )
+         (ADJP 
+          (JJ bom)
+         )
+        )
+        mas
+        (VP 
+         (ADVP 
+          (RB não)
+         )
+         (VP 
+          (VBP basta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

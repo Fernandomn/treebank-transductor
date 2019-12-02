@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Foi)
+     )
+     (ADJP 
+      (JJ ótimo)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP você)
+     )
+     (VP 
+      (VBP fez)
+     )
+     (NP 
+      (CD um)
+      (NN minuto)
+      (ADJP 
+       (JJ melhor)
+       (SBAR do_que
+        (S 
+         (DT o)
+         (VP 
+          (VP 
+           (VBN esperado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Medeiros)
+    )
+   )
+   (PP 
+    (IN a+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB cruzar)
+     )
+     (NP 
+      (DT a)
+      (NN linha)
+      (PP 
+       (IN de)
+       (NP 
+        (NN chegada)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

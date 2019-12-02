@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (ADJP 
+      (RB Bem)
+      (JJ visível)
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS alvo)
+       )
+      )
+      (S 
+       (VP 
+        (VB são)
+       )
+       (NP 
+        (DT os)
+        (NP 
+         (NNS investidores)
+         (JJ estrangeiros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (JJ grande)
+      (NNS modelo)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB tenho)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS Ulisses)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS António)
+         (NNS Houaiss)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

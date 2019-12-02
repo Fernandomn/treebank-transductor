@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Convidada)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB participar)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN passarela)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Rita_Lee)
+   )
+   (VP 
+    (VBP declinou)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB ter)
+      (VBN sido)
+      (VBN convocada)
+     )
+     (PP 
+      (RB apenas)
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN véspera)
+      )
+     )
+    )
+   )
+  )
+ )
+)

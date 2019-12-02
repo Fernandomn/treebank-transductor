@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Aristides)
+    )
+    (VP 
+     (VB conteve)
+     (NP 
+      (DT outra)
+      (NNS gargalhada)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB quis)
+      (VB ajudar)
+     )
+    )
+   )
+  )
+ )
+)

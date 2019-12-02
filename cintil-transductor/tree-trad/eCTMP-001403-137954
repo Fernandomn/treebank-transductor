@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fernando)
+     (NNS Fontes)
+    )
+   )
+   (VP 
+    (VB será)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS pianista)
+      (ADJP 
+       (VB convidado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

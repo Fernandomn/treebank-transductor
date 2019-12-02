@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Câmara)
+    (NNS de_)
+    (NNS o)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VB reforça)
+   (NP 
+    (NP 
+     (NNS fiscalização)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS estacionamento)
+         (JJ ilegal)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS cidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

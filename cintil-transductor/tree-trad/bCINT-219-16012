@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pavia)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NP 
+        (NNS curso)
+        (JJ irregular)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS água)
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB nasce)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (NP 
+              (NNS freguesia)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS Mundão)
+               )
+              )
+             )
+             (ADVP 
+              (ADVP 
+               (RB junto)
+               (PP 
+                (IN a_)
+                (NP 
+                 (DT a)
+                 (NP 
+                  (NNS Póvoa)
+                  (NNS de_)
+                  (NNS o)
+                  (NNS Confulco)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

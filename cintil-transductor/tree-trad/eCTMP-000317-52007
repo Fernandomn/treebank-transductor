@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VB resolver)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS diferendo)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS questão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS horas)
+             (JJ curriculares)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

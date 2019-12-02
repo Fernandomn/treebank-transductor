@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Primeiro)
+    )
+    (VP 
+     (VP 
+      (PP 
+       (PP 
+        (IN a_)
+        (IN o)
+        (IN lado)
+        (IN de)
+       )
+       (NP 
+        (NNS Tito)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS armas)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS mão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

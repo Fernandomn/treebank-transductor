@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS súbditos)
+   )
+   (VP 
+    (VP 
+     (VB começaram)
+     (RB então)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB perguntar)
+      (NP 
+       (NP 
+        (PRP quem)
+       )
+       (S 
+        (VP 
+         (VB era)
+        )
+        (NP 
+         (DT a)
+         (NNS vizir-que-queria-ser-grão-vizir)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

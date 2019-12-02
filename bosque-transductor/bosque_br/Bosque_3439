@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (NP 
+    (NP 
+     (DT algumas)
+     (NN brigas)
+     (VBN engraçadas)
+     (PP 
+      (IN entre)
+      (NP 
+       (NN irmãos)
+      )
+     )
+    )
+    (NP 
+     (NN cenas)
+     (PP 
+      (IN de)
+      (NP 
+       (NN separação)
+       (ADJP 
+        (JJ conjugal)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (DT uma)
+     (NN morte)
+    )
+   )
+  )
+ )
+)

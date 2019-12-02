@@ -1,0 +1,78 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (ADVP 
+    (RB a_bordo)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN cadillac)
+      (ADJP 
+       (JJ preto)
+      )
+      (ADJP 
+       (JJ conversível)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN presidente)
+    (NP 
+     (NNP Menem)
+    )
+   )
+   (VP 
+    (VBP atravessou)
+   )
+   (NP 
+    (DT a)
+    (NN pista)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN parque)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Sociedade_Rural_Argentina)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (DT os)
+     (NN aplausos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN platéia)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (ADJP 
+           (RB cerca_de)
+           (CD 10)
+          )
+          (NN mil)
+         )
+         (NN agricultores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

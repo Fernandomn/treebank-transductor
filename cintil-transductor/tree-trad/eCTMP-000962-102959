@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Em_)
+       (NP 
+        (DT a)
+        (NNS Suíça)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS Japão)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB sofreram)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ ligeiro)
+       (NNS aumento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

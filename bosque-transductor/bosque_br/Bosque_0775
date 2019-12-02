@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (ADVP 
+    (RB jamais)
+   )
+   (VP 
+    (VBP chegará)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (PRP isto)
+    )
+   )
+   (VP 
+    (IN se)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tiver)
+    )
+    (NP 
+     (DT a)
+     (JJ total)
+     (NN dedicação)
+     (PP 
+      (IN de)
+      (NP 
+       (PRP alguém)
+      )
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (NNP Ricupero)
+      (NP 
+       (DT um)
+       (JJ excepcional)
+       (NN cadre)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (DT pouco)
+         (NN tempo)
+        )
+       )
+       (VP 
+        (VBP convenceu)
+       )
+       (NP 
+        (DT os)
+        (NN brasileiros)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (DT sua)
+         (NP 
+          (NP 
+           (NN inteligência)
+          )
+          e
+          (NP 
+           (NN competência)
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN vida)
+           (ADJP 
+            (JJ pública)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

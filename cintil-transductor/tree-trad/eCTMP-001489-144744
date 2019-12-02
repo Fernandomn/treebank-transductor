@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (PRP Quem)
+   )
+   (S 
+    (VP 
+     (VB pagou)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS obras)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS renovação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS estádio)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

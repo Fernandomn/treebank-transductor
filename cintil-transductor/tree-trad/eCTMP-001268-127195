@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS concorrência)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ enorme)
+     (PP 
+      (CC e)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (JJ grande)
+         (NNS qualidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

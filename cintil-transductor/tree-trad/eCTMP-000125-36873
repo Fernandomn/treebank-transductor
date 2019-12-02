@@ -1,0 +1,47 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS contenção)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS custos)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS avaliação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS controlo)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS receitas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

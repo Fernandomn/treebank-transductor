@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (VP 
+        (RB Ainda)
+        (VP 
+         (VP 
+          (VB sou)
+          (RB muito)
+         )
+         (JJ nova)
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (VP 
+          (VB estou)
+          (ADJP 
+           (VB aleijada)
+          )
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (NP 
+            (DT a)
+            (NNS vida)
+           )
+           (PRP toda)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB diz)
+     )
+     (NP 
+      (NNS Cândida)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS revolta)
+       (ADJP 
+        (VB estampada)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS rosto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

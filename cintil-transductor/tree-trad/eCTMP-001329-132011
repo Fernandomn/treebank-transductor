@@ -1,0 +1,40 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Relatório)
+    (JJ britânico)
+   )
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (NP 
+     (NP 
+      (NNS retrato)
+      (JJ negro)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS satisfação)
+         (JJ profissional)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS professores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

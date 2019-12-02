@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Houve)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ grande)
+      (NNS querela)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS bastidores)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS política)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

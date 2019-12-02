@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cientistas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Universidade_da_Califórnia)
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Irvine)
+        (NP 
+         (NNP EUA)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP publicaram)
+   )
+   (NP 
+    (DT a)
+    (NN pesquisa)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ última)
+     (NN edição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN revista)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Associação_Médica_Norte-americana)
+         (NP 
+          (NNP Jama)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

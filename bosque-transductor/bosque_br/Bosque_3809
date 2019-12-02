@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN clubes)
+    (PP 
+     (IN de)
+     (NP 
+      (NN futebol)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+    (VBG valorizando)
+   )
+   (ADVP 
+    (RB cada_vez_mais)
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN posse)
+     (PP 
+      (IN de)
+      (NP 
+       (NN bola)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT a)
+     (NN utilização)
+     (PP 
+      (IN de)
+      (NP 
+       (NN lançamentos)
+       (NP 
+        (RB como)
+        (NP 
+         (NN armas)
+         (PP 
+          (IN para)
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VP 
+            (VB chegar)
+           )
+           (PP 
+            (IN a+)
+            (NP 
+             (DT o)
+             (NN ataque)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

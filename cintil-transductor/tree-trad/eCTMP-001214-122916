@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Ontem)
+    (VP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS discurso)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS tomada)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS posse)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB frisou)
+       (NP 
+        (DT isso)
+       )
+      )
+      (RB mesmo)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS entrada)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Fernando)
+          (NNS Mendes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS modelo)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS jogo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB alterou)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+  )
+ )
+)

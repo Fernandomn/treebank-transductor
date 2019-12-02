@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Há)
+   )
+   (NP 
+    (NN pontos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN concentração)
+      (PP 
+       (IN de)
+       (NP 
+        (NN lojas)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP facilitam)
+         )
+         (NP 
+          (DT a)
+          (NN pesquisa)
+          (PP 
+           (IN de)
+           (NP 
+            (NN preços)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

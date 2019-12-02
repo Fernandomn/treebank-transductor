@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (JJ nova)
+    (NNS taxa)
+   )
+  )
+  (VP 
+   (VP 
+    (VB entra)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS vigor)
+     )
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (CD 15)
+     (NP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Fevereiro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Ieltsin)
+  )
+  (VP 
+   (VB promete)
+   (NP 
+    (NP 
+     (NNS eleições)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Outono)
+      )
+     )
+    )
+   )
+  )
+ )
+)

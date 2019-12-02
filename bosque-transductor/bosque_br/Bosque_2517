@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP José_Genoino)
+    (VP 
+     (VBN entrevistado)
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP falava)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (JJ novo)
+     (NN centro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN poder)
+      )
+     )
+    )
+   )
+  )
+ )
+)

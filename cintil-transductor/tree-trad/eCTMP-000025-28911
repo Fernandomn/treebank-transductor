@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Tchernomirdin)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (PP 
+      (IN a)
+      (VP 
+       (VB cozinhar)
+       (NP 
+        (DT um)
+        (NNS Governo)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NNS Parlamento)
+     )
+    )
+   )
+  )
+ )
+)

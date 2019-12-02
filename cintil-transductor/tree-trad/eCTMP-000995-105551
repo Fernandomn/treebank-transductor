@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Não)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB gosta)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ grandes)
+       (NNS cidades)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (RB também)
+     (S 
+      (RB já)
+      (S 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB gosta)
+        )
+       )
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS aldeias)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (PP suas)
+            (NNS limitações)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

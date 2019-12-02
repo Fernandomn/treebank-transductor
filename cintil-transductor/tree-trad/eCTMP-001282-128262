@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS Cidade)
+         (NNS de_)
+         (NNS a)
+         (NNS Carne)
+        )
+       )
+      )
+      (VP 
+       (VB fosse)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS livro)
+         (JJ único)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT isto)
+    )
+    (VP 
+     (VB seria)
+     (NP 
+      (DT um)
+      (NNS defeito)
+     )
+    )
+   )
+  )
+ )
+)

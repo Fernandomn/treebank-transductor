@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN torneio)
+   )
+   (VP 
+    (VBP reunirá)
+   )
+   (NP 
+    (NP 
+     (DT os)
+     (CD seis)
+     (NN primeiros)
+     (VBN colocados)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Série_A-1)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN campeão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP A-2)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Campeonato_Paulista)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

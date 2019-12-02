@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foram)
+    (VB apreendidos)
+   )
+   (NP 
+    (CD 690)
+    (NP 
+     (NNS contos)
+     (ADJP 
+      (JJ provenientes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS venda)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS bilhetes)
+            (JJ falsos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

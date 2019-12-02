@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Trata)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS fado)
+      (ADJP 
+       (ADJP 
+        (VB cantado)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ tal)
+           (NP 
+            (NNS Alberto)
+            (NNS Ribeiro)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS filme)
+          (NP 
+           (NNS Capas)
+           (NNS Negras)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

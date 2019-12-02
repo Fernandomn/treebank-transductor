@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS empréstimo)
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB fez)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NP 
+          (NNS taxa)
+          (JJ média)
+         )
+         (JJ ponderada)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (CD 13,4)
+           (NP 
+            (NN por)
+            (NN cento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

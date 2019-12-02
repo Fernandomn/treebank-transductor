@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB percebe)
+      )
+     )
+    )
+   )
+   (S 
+    (CC ou)
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB percebe)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (RB mal)
+      )
+     )
+     (NP 
+      (DT esse)
+      (NP 
+       (JJ formidável)
+       (NNS vexame)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (DT o)
+    (NN resultado)
+   )
+   (ADVP 
+    (RB surpreendentemente)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (DT mesmo)
+   )
+   (ADVP 
+    (RB no_que_se_refere)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN reconstituição)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN princípio)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN autoridade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

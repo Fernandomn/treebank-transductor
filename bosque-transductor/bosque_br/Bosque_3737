@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Sou)
+    )
+    (NP 
+     (DT uma)
+     (NN estrangeira)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP França)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP você)
+    )
+    (VP 
+     (VBP sabe)
+    )
+    (VP 
+     (ADVP 
+      (RB como)
+     )
+     (VP 
+      (VBP são)
+     )
+     (NP 
+      (DT as)
+      (NN coisas)
+     )
+     (ADVP 
+      (RB aqui)
+     )
+    )
+   )
+  )
+ )
+)

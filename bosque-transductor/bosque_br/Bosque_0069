@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN panorama)
+   )
+   (VP 
+    (VBP sofre)
+   )
+   (NP 
+    (NN prejuízos)
+    (NP 
+     (DT demais)
+    )
+   )
+   (PP 
+    (IN em_favor_de+)
+    (NP 
+     (DT a)
+     (NN tese)
+    )
+   )
+  )
+ )
+)

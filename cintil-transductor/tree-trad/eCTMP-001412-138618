@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Cada)
+    (NP 
+     (NNS episódio)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Catwalk)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB fala)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS quotidiano)
+        (JJ tumultuoso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

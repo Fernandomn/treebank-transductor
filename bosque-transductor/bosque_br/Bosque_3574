@@ -1,0 +1,50 @@
+(
+ (S 
+  (NP 
+   (PRP Isto)
+   (VP 
+    (IN porque)
+    (NP 
+     (DT os)
+     (NN índices)
+     (PP 
+      (IN de)
+      (NP 
+       (NN inflação)
+      )
+     )
+    )
+    (ADVP 
+     (RB só)
+    )
+    (VP 
+     (VBP captam)
+    )
+    (ADVP 
+     (RB totalmente)
+    )
+    (NP 
+     (DT as)
+     (NN mudanças)
+     (PP 
+      (IN de)
+      (NP 
+       (NN preços)
+      )
+     )
+    )
+    (NP 
+     (CD 30)
+     (NN dias)
+     (PP 
+      (IN após)
+      (NP 
+       (DT o)
+       (NN aumento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (PP 
+    (IN em+)
+    (NP 
+     (DT esta)
+     (NN sociedade)
+    )
+   )
+   (VP 
+    (VBP cabe)
+   )
+   (NP 
+    (NN papel)
+    (ADJP 
+     (JJ relevante)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN conforto)
+    )
+   )
+  )
+ )
+)

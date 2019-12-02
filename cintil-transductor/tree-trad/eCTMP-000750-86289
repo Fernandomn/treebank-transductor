@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS rua)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS empregados)
+    )
+    (VB esperam)
+   )
+  )
+ )
+)

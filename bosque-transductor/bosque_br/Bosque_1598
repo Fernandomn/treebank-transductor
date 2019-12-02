@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN talento)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Barros)
+     )
+    )
+   )
+   (VP 
+    (VBP continua)
+   )
+   (ADVP 
+    (RB lá)
+   )
+   (PP 
+    (IN apesar_de)
+    (VP 
+     (NP 
+      (NNP Marilia_Pêra)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB empenhar)
+     )
+     (PP 
+      (IN em)
+      (VP 
+       (VP 
+        (VB tomar)
+       )
+       (NP 
+        (NN conta)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN filme)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NN histrionismo)
+       (PP 
+        (IN fora_de)
+        (NP 
+         (NN lugar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+     )
+    )
+   )
+   (VP 
+    (VBP realizará)
+   )
+   (NP 
+    (DT um)
+    (NN concurso)
+    (ADJP 
+     (JJ público)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB preencher)
+     )
+     (NP 
+      (CD 200)
+      (NN vagas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN agente)
+        (ADJP 
+         (JJ fiscal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

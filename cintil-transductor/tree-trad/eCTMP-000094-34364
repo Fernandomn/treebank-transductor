@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Droga)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (CD 5000)
+     (NNS contos)
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB apreendidos)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Curraleira)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Dia)
+     (NNS de_)
+     (NNS a)
+     (NNS Raça)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS terra)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS guerra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

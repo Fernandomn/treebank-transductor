@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (VP 
+       (VB fossem)
+       (VB publicados)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB podiam)
+      (ADVP 
+       (ADVP 
+        (RB por)
+        (RB um)
+        (RB lado)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB prejudicar)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS país)
+        )
+       )
+      )
+      (VP 
+       (CC mas)
+       (VP 
+        (ADVP 
+         (ADVP 
+          (RB por)
+          (RB outro)
+          (RB lado)
+         )
+        )
+        (VP 
+         (VB derrubar)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Governo)
+           (CONJP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB é)
+               (JJ impopular)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

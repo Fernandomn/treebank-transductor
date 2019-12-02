@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Qual)
+   )
+   (NP 
+    (DT o)
+    (JJ maior)
+    (NN vexame)
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBP deu)
+     )
+    )
+   )
+  )
+ )
+)

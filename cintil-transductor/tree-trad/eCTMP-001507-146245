@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS pagamento)
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB efectuado)
+    )
+    (PP 
+     (PP 
+      (IN através)
+      (IN de)
+     )
+     (NP 
+      (NNS carimbagem)
+     )
+    )
+   )
+  )
+ )
+)

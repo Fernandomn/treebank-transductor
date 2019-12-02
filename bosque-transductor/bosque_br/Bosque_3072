@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP É)
+    )
+    (NP 
+     (DT uma)
+     (NN obra)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP fala)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN fé)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP espero)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP possibilite)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN público)
+      )
+     )
+     (NP 
+      (DT uma)
+      (NN compreensão)
+      (ADJP 
+       (JJ direta)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN gospel)
+        (NP 
+         (DT uma)
+         (NN música)
+         (PP 
+          (IN de)
+          (NP 
+           (NN palavras)
+           (ADJP 
+            (ADJP 
+             (JJ simples)
+            )
+            e
+            (ADJP 
+             (JJ profundas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

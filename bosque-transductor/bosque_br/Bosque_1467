@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (NP 
+     (DT seu)
+     (NN discurso)
+     (ADJP 
+      (JJ duro)
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (JJ eventuais)
+       (NN aumentos)
+       (PP 
+        (IN de)
+        (NP 
+         (NN preços)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Ciro)
+   )
+   (VP 
+    (VBP admitiu)
+   )
+   (ADVP 
+    (RB pela_primeira_vez)
+   )
+   (VP 
+    (VP 
+     (VB rever)
+    )
+    (NP 
+     (DT a)
+     (NN estratégia)
+     (PP 
+      (IN de)
+      (NP 
+       (NN redução)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN alíquotas)
+         (PP 
+          (IN de)
+          (NP 
+           (NN importação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

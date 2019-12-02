@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS Xutos)
+     (NNS e)
+     (NNS Pontapés)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN depois)
+       (IN de_)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (JJ recente)
+        (NP 
+         (NNS saída)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Polygram)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB andam)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS procura)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ nova)
+           (NNS editora)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

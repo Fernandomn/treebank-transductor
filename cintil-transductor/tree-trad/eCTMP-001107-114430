@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Indosuez)
+   )
+   (VP 
+    (VB avança)
+    (PP 
+     (IN com)
+     (NP 
+      (CD 178)
+      (NP 
+       (NNS escudos)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (CD 1995)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (CD 204)
+           (NP 
+            (NNS escudos)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS ano)
+               (JJ seguinte)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

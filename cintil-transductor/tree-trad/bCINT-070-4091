@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (RB Também)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS piso)
+        (JJ rápido)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (VB realizada)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS eliminatória)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NNS franceses)
+        (NP 
+         (CC e)
+         (NNS italianos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

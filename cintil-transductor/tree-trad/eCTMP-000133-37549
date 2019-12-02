@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Tudo)
+     (NP 
+      (DT isso)
+     )
+    )
+    (VP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS nome)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS interesses)
+           (ADJP 
+            (JJ pessoais)
+            (PP 
+             (CC ou)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS grupo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

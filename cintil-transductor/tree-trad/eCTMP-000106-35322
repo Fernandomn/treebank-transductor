@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Caso)
+    (NNS Pinheiro)
+   )
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (NP 
+     (NNS vitória)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS OA)
+      )
+     )
+    )
+   )
+  )
+ )
+)

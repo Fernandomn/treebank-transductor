@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS paranóia)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS directo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (JJ total)
+   )
+  )
+ )
+)

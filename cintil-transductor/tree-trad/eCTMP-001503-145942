@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS OEM)
+   )
+   (VP 
+    (VP 
+     (VB fica)
+     (PP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esta)
+        (NNS forma)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS clientes)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS problemas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS crédito)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

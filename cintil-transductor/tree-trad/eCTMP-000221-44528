@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS carnes)
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS prato)
+       (JJ forte)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS cozinha)
+         (JJ húngara)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

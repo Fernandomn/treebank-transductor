@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS Câmara)
+     )
+    )
+    (VP 
+     (VB salta)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (JJ próximas)
+        (NNS eleições)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS arquitecto)
+       (NNS Graça)
+       (NNS Dias)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Manuel)
+      (NNS Mendes)
+     )
+    )
+    (VP 
+     (VB encontra)
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ certa)
+       (NP 
+        (NP 
+         (NNS euforia)
+         (JJ expressionista)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN organização)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP iniciou)
+   )
+   (NP 
+    (DT um)
+    (NN inquérito)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB averiguar)
+      )
+      (NP 
+       (DT o)
+       (NN massacre)
+       (PP 
+        (IN de)
+        (NP 
+         (RB cerca_de)
+         (NP 
+          (CD 500)
+          (NN mil)
+         )
+         (NN pessoas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

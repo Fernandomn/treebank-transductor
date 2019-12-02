@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Secretaria_da_Saúde)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Goiânia)
+     )
+    )
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NN CR$)
+    (NP 
+     (CD 163.7)
+     (NN milhões)
+    )
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de)
+     (NP 
+      (NN convênio)
+      (VP 
+       (VP 
+        (VBN assinado)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NNP Fundação_Nacional_de_Saúde)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

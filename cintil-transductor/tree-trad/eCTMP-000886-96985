@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ única)
+     (NP 
+      (NP 
+       (NNS diferença)
+       (JJ visível)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS ecrã)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ ligeira)
+       (NP 
+        (NNS diferença)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS cor)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS símbolos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (PRP alguns)
+       (NP 
+        (JJ novos)
+        (NP 
+         (NNS ícones)
+         (ADJP 
+          (VB espalhados)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS espaço)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS trabalho)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

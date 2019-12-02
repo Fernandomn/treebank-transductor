@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+    (NP 
+     (NNP Sacchi)
+    )
+   )
+   (VP 
+    (VBP elogiou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT a)
+    (NN bravura)
+    (PP 
+     (IN de)
+     (NP 
+      (DT seus)
+      (NN jogadores)
+     )
+    )
+   )
+   (ADVP 
+    (RB especialmente)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Baggio)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT seu)
+     (NN toque)
+     (ADJP 
+      (JJ mágico)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB ganhar)
+       )
+       (NP 
+        (NN partidas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

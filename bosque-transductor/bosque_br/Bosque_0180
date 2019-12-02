@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Passarinho)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP descarta)
+   )
+   (ADVP 
+    (RB claramente)
+   )
+   (NP 
+    (DT a)
+    (NN candidatura)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN Planalto)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Crianças)
+    (ADJP 
+     (RB mais)
+     (JJ velhas)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB nunca)
+     )
+     (VP 
+      (VBP seguiram)
+     )
+     (NP 
+      (DT a)
+      (NN dieta)
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB ter)
+   )
+   (NP 
+    (NP 
+     (NN retardo)
+     (ADJP 
+      (JJ mental)
+     )
+    )
+    (NP 
+     (NN desenvolvimento)
+     (ADJP 
+      (JJ motor)
+     )
+     (VBN prejudicado)
+    )
+    e
+    (NP 
+     (NN alterações)
+     (ADJP 
+      (JJ significativas)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN comportamento)
+       (NP 
+        (NP 
+         (NN isolamento)
+        )
+        e
+        (NP 
+         (NN agressividade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

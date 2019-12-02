@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VB Começaram)
+   (NP 
+    (DT as)
+    (NP 
+     (NP 
+      (NNS reuniões)
+      (JJ preparatórias)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS feitura)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS programas)
+           (JJ eleitorais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

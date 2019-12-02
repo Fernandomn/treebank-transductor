@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (RB Só)
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VP 
+         (VB sentiu)
+         (NP 
+          (DT uma)
+          (NNS mão)
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS ombro)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB levantou)
+      (NP 
+       (DT os)
+       (NNS olhos)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS chão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

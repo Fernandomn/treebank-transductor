@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Mesmo)
+    (VP 
+     (VP 
+      (VBG entendendo)
+     )
+     (NP 
+      (DT suas)
+      (NN explicações)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NN programa)
+        (PP 
+         (IN de)
+         (NP 
+          (NN governo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP entendo)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP tinha)
+     (IN que)
+     (VB ter)
+    )
+    (NP 
+     (DT um)
+     (NN programa)
+     (PP 
+      (IN de)
+      (NP 
+       (NN governo)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP vai)
+       (VB dar)
+      )
+      (NP 
+       (DT um)
+       (NN meio)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB cobrar)
+         )
+         (ADVP 
+          (RB depois)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

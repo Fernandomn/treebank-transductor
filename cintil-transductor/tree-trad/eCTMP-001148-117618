@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Polícia)
+     (NNS Judiciária)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (RB já)
+     (VP 
+      (VB está)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS terreno)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

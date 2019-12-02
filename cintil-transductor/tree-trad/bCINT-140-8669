@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (RB sempre)
+   )
+   (NP 
+    (DT aquelas)
+    (NP 
+     (NNS pessoas)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (S 
+        (VP 
+         (VP 
+          (VB gostam)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS bandas)
+           )
+          )
+         )
+         (CONJP 
+          (CC quando)
+          (S 
+           (VP 
+            (VP 
+             (RB não)
+             (VB são)
+            )
+            (VB conhecidas)
+           )
+          )
+         )
+        )
+       )
+       (S 
+        (CC e)
+        (S 
+         (VP 
+          (RB depois)
+          (VP 
+           (CONJP 
+            (CC quando)
+            (S 
+             (NP 
+              (PRP elas)
+             )
+             (VP 
+              (VB passam)
+              (PP 
+               (IN a)
+               (VP 
+                (VB ser)
+                (VB conhecidas)
+               )
+              )
+             )
+            )
+           )
+           (VP 
+            (RB já)
+            (VP 
+             (RB não)
+             (VB gostam)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

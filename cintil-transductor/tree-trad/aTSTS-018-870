@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB serem)
+      (JJ fracos)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB dispensou)
+     (NP 
+      (PRP -os)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS guerra)
+     )
+    )
+   )
+  )
+ )
+)

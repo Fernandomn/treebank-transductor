@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (JJ novas)
+     (NNS acções)
+    )
+   )
+   (VP 
+    (VP 
+     (VB serão)
+     (VB emitidas)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS preço)
+        (JJ unitário)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (CD 1520)
+         (NNS escudos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

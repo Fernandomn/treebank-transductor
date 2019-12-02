@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Ganhou)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NN abraço)
+     )
+     (NP 
+      (DT um)
+      (NN beijo)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN rosto)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP foi)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNP Mooca)
+     )
+    )
+    (VP 
+     (VP 
+      (VB estourar)
+     )
+     (NP 
+      (DT uma)
+      (NN champanhe)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN meia-noite)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,131 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Israel)
+   )
+   (VP 
+    (VP 
+     (VB concordou)
+     (PP 
+      (IN com)
+      (NP 
+       (CD quatro)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (CD cinco)
+           (NP 
+            (NNS condições)
+            (ADJP 
+             (RB ontem)
+             (ADJP 
+              (VB avançadas)
+              (PP 
+               (IN por_)
+               (NP 
+                (DT o)
+                (NNS Egipto)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS executivo)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Shimon)
+            (NNS Peres)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS antecessor)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Bibi)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB assinou)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS acordos)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VB referem)
+            )
+            (PP 
+             (IN a_)
+             (NP 
+              (DT o)
+              (NP 
+               (NP 
+                (NNS período)
+                (JJ interino)
+               )
+               (PP 
+                (IN de)
+                (NP 
+                 (NP 
+                  (NNS autonomia)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT os)
+                    (NNS palestinianos)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

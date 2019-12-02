@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ pequena)
+      )
+     )
+    )
+    (VB chorava)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB dava)
+       (NP 
+        (NNS trabalho)
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT os)
+        (NNS progenitores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

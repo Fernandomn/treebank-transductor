@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Dentro)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NNS ano)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Hong)
+      (NNS Kong)
+     )
+    )
+    (VP 
+     (VB voltará)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (VP 
+        (VB administrada)
+        (PP 
+         (IN por)
+         (NP 
+          (NNS Pequim)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS transacção)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 557.611)
+       (NP 
+        (NNS acções)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Construtora)
+           (NNS de_)
+           (NNS o)
+           (NNS Tâmega)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB animou)
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS mercado)
+       (PP 
+        (IN sem)
+        (NP 
+         (NP 
+          (NNS cotações)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Bolsa)
+             (NNS de_)
+             (NNS o)
+             (NNS Porto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (RB onde)
+        (S 
+         (NP 
+          (DT a)
+          (NNS empresa)
+         )
+         (VP 
+          (VP 
+           (VB está)
+           (JJ cotada)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

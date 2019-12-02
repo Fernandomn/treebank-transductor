@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Marco_Antonio_Nahum)
+    (NP 
+     (NN advogado)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN canadenses)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP nega)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN premiê)
+    )
+    (VP 
+     (VBP venha)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+    (VP 
+     (VP 
+      (VB tratar)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN expulsão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VB sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (VB foi)
+         (RB sempre)
+        )
+        (ADJP 
+         (RB muito)
+         (JJ boa)
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (PRP mim)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

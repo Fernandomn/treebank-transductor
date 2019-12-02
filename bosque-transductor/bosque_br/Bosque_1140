@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN direção)
+    (ADJP 
+     (JJ geral)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Paulo_Borges)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT a)
+    (JJ primeira)
+    (NN vez)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NNP EUA)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT um)
+      (NN tribunal)
+      (VP 
+       (VBP considera)
+      )
+      (NP 
+       (DT o)
+       (NN vírus)
+       (NP 
+        (NNP HIV)
+       )
+      )
+      (NP 
+       (RB como)
+       (NP 
+        (DT uma)
+        (NN arma)
+        (ADJP 
+         (JJ letal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (PP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS candidatura)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Sónia)
+          (NNS Gandhi)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS eleições)
+         (JJ indianas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (NP 
+    (DT o)
+    (NNS Congresso)
+   )
+   (VP 
+    (VB espera)
+    (NP 
+     (DT o)
+     (NNS milagre)
+    )
+   )
+  )
+ )
+)

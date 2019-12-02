@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NNS Portas)
+  )
+  (VP 
+   (VP 
+    (VB convence)
+    (NP 
+     (NP 
+      (NNS autarca)
+      (NNS Estarreja)
+     )
+    )
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VB aceitar)
+     (NP 
+      (NP 
+       (NNS referendo)
+       (PP 
+        (IN sobre)
+        (NP 
+         (NNS incineradora)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

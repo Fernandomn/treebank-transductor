@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Paixão)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NN irmão)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP José_Tavares_da_Graça)
+      (VP 
+       (VP 
+        (VBN preso)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN agosto)
+         (PP 
+          (IN de)
+          (ADJP 
+           (CD 93)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Belém)
+         (NP 
+          (NNP PA)
+         )
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (CD 435)
+         (NN quilos)
+         (PP 
+          (IN de)
+          (NP 
+           (NN cocaína)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

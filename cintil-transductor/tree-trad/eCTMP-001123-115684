@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS conflito)
+     )
+    )
+    (VP 
+     (VB morreram)
+     (PP 
+      (PP 
+       (IN até)
+       (IN a_)
+      )
+      (NP 
+       (DT o)
+       (NNS momento)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (CD 23)
+     (CD mil)
+    )
+    (NP 
+     (NNS militares)
+     (NP 
+      (NP 
+       (NNS polícias)
+       (NP 
+        (NP 
+         (NNS rebeldes)
+         (NP 
+          (CC e)
+          (NNS civis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

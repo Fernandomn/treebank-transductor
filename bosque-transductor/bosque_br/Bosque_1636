@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Isto_é)
+   )
+   (NP 
+    (DT os)
+    (JJ diversos)
+    (NN tipos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN refeições)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN investidos)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN símbolos)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP alteram)
+      )
+      (NP 
+       (DT o)
+       (NN valor)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (DT as)
+         (NN pessoas)
+        )
+        (VP 
+         (VBP atribuem)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP comem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

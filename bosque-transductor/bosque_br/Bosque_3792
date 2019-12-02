@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Depois)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NN tempo)
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NN vozes)
+    )
+    (VP 
+     (VBP aumentam)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP acabo)
+     (VBG ficando)
+    )
+    (VBN atordoada)
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP consigo)
+    )
+    (VP 
+     (VP 
+      (VB terminar)
+     )
+     (VP 
+      (NP 
+       (PRP o_que)
+      )
+      (VP 
+       (VBP comecei)
+      )
+     )
+    )
+   )
+  )
+ )
+)

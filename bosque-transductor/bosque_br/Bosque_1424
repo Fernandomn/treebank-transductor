@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Moradora)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Mooca)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (JJ últimos)
+     (CD cinco)
+     (NN anos)
+    )
+   )
+   (NP 
+    (NNP Regina)
+   )
+   (VP 
+    (VBP virou)
+   )
+   (NP 
+    (DT o)
+    (NN ano)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NNP Hilton)
+     (NP 
+      (DT o)
+      (NN namorado)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Recanto_da_Cachoeira)
+     (NP 
+      (DT uma)
+      (NN estãncia)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN município)
+        (PP 
+         (IN de)
+         (NP 
+          (NN Socorro)
+          (NP 
+           (NNP SP)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

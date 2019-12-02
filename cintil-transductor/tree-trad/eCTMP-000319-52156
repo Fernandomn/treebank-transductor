@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS grupos)
+   )
+   (VP 
+    (VB têm)
+    (NP 
+     (NP 
+      (NNS personalidades)
+      (PP 
+       (IN consoante)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS elementos)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (NP 
+             (PRP os)
+            )
+            (VB compõem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

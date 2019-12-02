@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Aquilo)
+     )
+     (VP 
+      (VB faz)
+      (NP 
+       (DT um)
+       (NP 
+        (JJ certo)
+        (NNS barulho)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB incomoda)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS pessoas)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB estão)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT a)
+              (NNS sala)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

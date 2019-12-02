@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN estrela)
+    (NP 
+     (NN símbolo)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB emoldurar)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN destaque)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN cenário)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN programas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN candidato)
+        (NP 
+         (NNP Luiz_Inácio_Lula_da_Silva)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

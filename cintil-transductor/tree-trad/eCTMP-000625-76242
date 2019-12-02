@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS pílula)
+      (JJ milagrosa)
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (S 
+        (VP 
+         (VB poupa)
+         (NP 
+          (NNS vergonhas)
+         )
+        )
+       )
+       (S 
+        (CC e)
+        (S 
+         (VP 
+          (VB permite)
+          (NP 
+           (NNS recordes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

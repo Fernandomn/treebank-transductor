@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS ministro)
+      (NNS de_)
+      (NNS a)
+      (NNS Cultura)
+      (NNS português)
+      (NNS Manuel)
+      (NNS Maria)
+      (NNS Carrilho)
+     )
+    )
+   )
+   (VP 
+    (VB encerra)
+    (NP 
+     (DT o)
+     (NNS debate)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS lista)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 18)
+        (NP 
+         (NNS jogadores)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS selecção)
+             (JJ olímpica)
+            )
+            (JJ portuguesa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (JJ seguinte)
+     )
+    )
+   )
+  )
+ )
+)

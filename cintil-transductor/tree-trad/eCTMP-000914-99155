@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP me)
+         )
+         (VB aumenta)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (PRP eu)
+     )
+     (VP 
+      (VB mato)
+      (NP 
+       (PRP -o)
+      )
+     )
+    )
+   )
+  )
+ )
+)

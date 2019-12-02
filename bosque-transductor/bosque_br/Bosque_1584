@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Caio_Gorentzvaig)
+    (NP 
+     (NN cotista)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Petroplastic)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN arresto)
+    )
+    (VP 
+     (VBP cairá)
+    )
+    (ADVP 
+     (RB automaticamente)
+    )
+    (VP 
+     (ADVP 
+      (RB quando)
+     )
+     (NP 
+      (DT seu)
+      (NN pai)
+      (NP 
+       (NNP Boris)
+      )
+      (VP 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VBP der)
+        )
+        (PP 
+         (IN por)
+         (VBN citado)
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VBP oferecer)
+        )
+        (NP 
+         (NN bens)
+         (ADJP 
+          (JJ imóveis)
+         )
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN penhora)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

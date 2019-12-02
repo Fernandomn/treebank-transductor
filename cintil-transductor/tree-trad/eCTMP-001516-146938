@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Até)
+     (RB aqui)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS fundos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS investimento)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB recorriam)
+      (RB exclusivamente)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NP 
+         (NNS capitais)
+         (JJ próprios)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (DT todo)
+     (DT o)
+     (NN shopping)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP está)
+      )
+      (VBN decorado)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NN lanternas)
+        )
+        (NP 
+         (NN leques)
+        )
+        e
+        (NP 
+         (RB até)
+         (DT um)
+         (NN portal)
+         (ADJP 
+          (JJ japonês)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN exposições)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN iquebana)
+       (NP 
+        (NN arranjos)
+        (ADJP 
+         (JJ florais)
+        )
+       )
+      )
+      (NP 
+       (NN bonecas)
+      )
+      (NP 
+       (NN cerâmicas)
+      )
+      (NP 
+       (NN armaduras)
+      )
+      (NP 
+       (NN máscaras)
+      )
+      (NP 
+       (NN quimonos)
+      )
+      e
+      (NP 
+       (NN espadas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

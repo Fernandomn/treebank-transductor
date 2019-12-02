@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ainda)
+    (RB hoje)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Partido)
+        (NNS Democrata)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB há)
+      (RB informalmente)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS espécie)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS ala)
+          (NP 
+           (NNS Robert)
+           (NNS Kennedy)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

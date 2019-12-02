@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (ADJP 
+      (ADJP 
+       (JJ Pequenas)
+      )
+      e
+      (ADJP 
+       (JJ médias)
+      )
+     )
+     (NN empresas)
+    )
+    (NP 
+     (NNP Forças_Armadas)
+    )
+    (NP 
+     (NN deficientes)
+     (ADJP 
+      (JJ físicos)
+     )
+    )
+    e
+    (NP 
+     (NN artistas)
+    )
+   )
+   (VP 
+    (VBP terão)
+   )
+   (NP 
+    (NP 
+     (NN apoio)
+    )
+    e
+    (NP 
+     (NN recursos)
+    )
+   )
+  )
+ )
+)

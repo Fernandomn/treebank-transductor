@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Este)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (NP 
+     (DT meu)
+     (JJ primeiro)
+     (NN filme)
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP sei)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP posso)
+      (VB ser)
+     )
+     (NP 
+      (DT uma)
+      (JJ grande)
+      (NN atriz)
+     )
+    )
+   )
+  )
+ )
+)

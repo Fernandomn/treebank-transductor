@@ -1,0 +1,87 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ex-ministro)
+     (NNS de_)
+     (NNS o)
+     (NNS Trabalho)
+     (NNS de_)
+     (NNS o)
+     (NNS Bloco)
+     (NNS Central)
+    )
+   )
+   (VP 
+    (VP 
+     (VB substitui)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS cargo)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Vasco)
+       (NNS de_)
+       (NNS a)
+       (NNS Graça)
+       (NNS Moura)
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB demitiu)
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS sequência)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS saída)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NP 
+                   (NNS Cardoso)
+                   (NNS e)
+                   (NNS Cunha)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

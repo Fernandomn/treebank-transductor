@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (NP 
+       (NNS John)
+       (NNS Rother)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS pacote)
+       (JJ económico)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Clinton)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB afectará)
+       (RB negativamente)
+      )
+      (NP 
+       (DT os)
+       (NNS idosos)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (CD três)
+       (NNS maneiras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

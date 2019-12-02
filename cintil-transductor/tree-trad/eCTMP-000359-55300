@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Trata)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS formação)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (S 
+          (S 
+           (VB defende)
+          )
+          (S 
+           (CC e)
+           (S 
+            (VB ataca)
+           )
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNS bloco)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

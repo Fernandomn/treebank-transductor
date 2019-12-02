@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP São_Paulo)
+   )
+   (NP 
+    (DT A)
+    (NN eleição)
+    (ADJP 
+     (JJ presidencial)
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (DT sua)
+     (JJ pior)
+     (NN fase)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (DT aquela)
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (NN articulações)
+          (ADJP 
+           (JJ políticas)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN bastidores)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN costura)
+          (ADJP 
+           (JJ sigilosa)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN alianças)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (NN rasteiras)
+           )
+           e
+           (NP 
+            (NN baixarias)
+           )
+          )
+          (PP 
+           (IN entre)
+           (NP 
+            (NP 
+             (NN adversários)
+            )
+            e
+            (NP 
+             (NN correligionários)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

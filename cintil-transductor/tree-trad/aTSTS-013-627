@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB pagou)
+     (NP 
+      (DT o)
+      (NNS livro)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS dinheiro)
+     )
+    )
+   )
+  )
+ )
+)

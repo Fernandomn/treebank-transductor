@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS economia)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NNS desemprego)
+     )
+    )
+   )
+   (VP 
+    (VB vão)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS palavras-chave)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS eleições)
+          (JJ australianas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

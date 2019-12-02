@@ -1,0 +1,57 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Antiguidades)
+     (NNS Pintura)
+     (NNS e)
+     (NNS Objectos)
+     (NNS de)
+     (NNS Arte)
+    )
+   )
+   (NP 
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS exposição)
+       (PP 
+        (IN com)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS Recheio)
+          (PP 
+           (IN de)
+           (NP 
+            (DT uma)
+            (NNS Casa)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS Lisboa)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT outras)
+          (NNS Proveniências)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS catálogo)
+     (ADJP 
+      (ADJP 
+       (RB sempre)
+       (VB actualizado)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (PP 
+      (IN a_)
+      (IN a)
+      (IN disposição)
+      (IN de_)
+     )
+     (NP 
+      (DT os)
+      (NNS investigadores)
+     )
+    )
+   )
+  )
+ )
+)

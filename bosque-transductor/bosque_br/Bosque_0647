@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN fazenda)
+    (PP 
+     (IN de)
+     (NP 
+      (NN renas)
+      (NP 
+       (NNP Napapiiri)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT as)
+     (NN proximidades)
+     (NP 
+      (NN tel._38-4048)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP promove)
+     )
+     (NP 
+      (NN jantares)
+      (PP 
+       (IN com)
+       (NP 
+        (NN carne)
+        (PP 
+         (IN de)
+         (NP 
+          (NN rena)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP faz)
+     )
+     (NP 
+      (NN exibições)
+      (ADJP 
+       (JJ folclóricas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

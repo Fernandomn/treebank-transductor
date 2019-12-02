@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ evidente)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (NP 
+       (DT um)
+       (NNS homem)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT uma)
+        (NNS mulher)
+       )
+      )
+     )
+     (VP 
+      (RB nunca)
+      (VP 
+       (VB têm)
+       (NP 
+        (DT as)
+        (NP 
+         (JJ mesmas)
+         (NNS habilitações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

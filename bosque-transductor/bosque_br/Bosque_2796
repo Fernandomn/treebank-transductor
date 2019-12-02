@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (JJ constantes)
+    (NN desavenças)
+    (PP 
+     (IN com)
+     (NP 
+      (DT seu)
+      (NN pai)
+      (NP 
+       (NNP John_Paul_Getty)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP fizeram)
+   )
+   (VP 
+    (NP 
+     (NNP John_Paul_Getty_2º)
+    )
+    (VP 
+     (VB entrar)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN affaire)
+     )
+    )
+   )
+  )
+ )
+)

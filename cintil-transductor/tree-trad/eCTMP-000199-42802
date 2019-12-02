@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS miniconcurso)
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (RB mais)
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (PRP quem)
+        )
+        (S 
+         (S 
+          (VP 
+           (VP 
+            (RB não)
+            (VB tem)
+           )
+           (NP 
+            (NP 
+             (NNS tempo)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS serviço)
+              )
+             )
+            )
+           )
+          )
+         )
+         (S 
+          (CC ou)
+          (S 
+           (VP 
+            (VP 
+             (RB não)
+             (VB concluiu)
+            )
+            (NP 
+             (DT a)
+             (NNS licenciatura)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

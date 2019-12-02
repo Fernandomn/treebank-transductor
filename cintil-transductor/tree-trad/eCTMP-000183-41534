@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS delegada)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Ministério)
+        (NNS Público)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB falou)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS voz)
+        (JJ apertada)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS limites)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS razão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outro)
+    (NP 
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS aspectos)
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB confere)
+         (PP 
+          (IN a)
+          (NP 
+           (NP 
+            (NNS Few)
+            (NNS of)
+            (NNS Us)
+           )
+          )
+         )
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NNS especificidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS ausência)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS diálogos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

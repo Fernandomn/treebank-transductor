@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP Os_Lusíadas)
+    )
+   )
+   (NP 
+    (NNP Luís_de_Camões)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP cantou)
+     )
+     (NP 
+      (DT a)
+      (JJ maior)
+      (NN epopéia)
+      (ADJP 
+       (JJ portuguesa)
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP a)
+     )
+     (VP 
+      (VBP registrou)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN versos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

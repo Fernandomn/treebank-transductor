@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (NNS urbanistas)
+        (NP 
+         (CC e)
+         (NNS arquitectos)
+        )
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB dão)
+           (NP 
+            (NNS forma)
+           )
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT as)
+            (NP 
+             (PP suas)
+             (NNS ambições)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

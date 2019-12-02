@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Tour)
+   )
+   (VP 
+    (VB passeou)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS nível)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS mar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

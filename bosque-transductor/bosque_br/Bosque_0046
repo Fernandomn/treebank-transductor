@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Charade)
+    )
+    (VP 
+     (VBP vai)
+     (VB concorrer)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN faixa)
+      (PP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Suzuki_Swift)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Twingo)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Renault)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (NP 
+    (NNP Caparelli)
+   )
+  )
+ )
+)

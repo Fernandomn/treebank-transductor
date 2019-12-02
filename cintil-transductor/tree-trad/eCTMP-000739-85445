@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Federação)
+     (NNS de_)
+     (NNS os)
+     (NNS Têxteis)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VP 
+      (VB prosseguir)
+      (PP 
+       (PP 
+        (IN durante)
+        (NP 
+         (DT este)
+         (NNS mês)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS divulgação)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS trabalho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

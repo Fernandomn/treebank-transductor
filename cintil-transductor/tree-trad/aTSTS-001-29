@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NP 
+     (NNS cliente)
+     (ADJP 
+      (JJ contentíssimo)
+      (PP 
+       (IN com)
+       (NP 
+        (DT A)
+        (NNS compra)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB acabou)
+    (PP 
+     (IN de)
+     (VB sair)
+    )
+   )
+  )
+ )
+)

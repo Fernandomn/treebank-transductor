@@ -1,0 +1,93 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Pesquisa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Cia._City_de_Desenvolvimento)
+     )
+    )
+   )
+   (VP 
+    (VBP mostra)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN empresários)
+    )
+    (VP 
+     (VBP procuram)
+    )
+    (NP 
+     (NN locais)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NN infra-estrutura)
+       )
+       (NP 
+        (NN facilidade)
+        (PP 
+         (IN de)
+         (NP 
+          (NN acesso)
+         )
+        )
+       )
+       (NP 
+        (JJ boa)
+        (NN oferta)
+        (PP 
+         (IN de)
+         (NP 
+          (NN mão-de-obra)
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (ADVP 
+      (RB próximos)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNP São_Paulo)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN rodovias)
+        )
+       )
+      )
+     )
+     e
+     (ADVP 
+      (RB longe)
+      (PP 
+       (IN de)
+       (NP 
+        (NN movimentos)
+        (ADJP 
+         (JJ sindicais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

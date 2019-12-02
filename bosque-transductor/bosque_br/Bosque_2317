@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB É)
+   )
+   (ADVP 
+    (RB particularmente)
+   )
+   (UCP 
+    (PP 
+     (IN a)
+     (NP 
+      (DT estes)
+     )
+    )
+    (ADVP 
+     (RB bem_como)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT toda)
+      (DT a)
+      (NN sociedade)
+     )
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (VP 
+    (VBP interessa)
+   )
+   (NP 
+    (DT a)
+    (NN apuração)
+    (ADJP 
+     (ADJP 
+      (JJ completa)
+     )
+     e
+     (ADJP 
+      (JJ rigorosa)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN massacres)
+     )
+    )
+   )
+  )
+ )
+)

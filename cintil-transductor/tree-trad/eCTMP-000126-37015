@@ -1,0 +1,44 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS THE)
+      (NNS STEEL)
+      (NNS BAYONET)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Michael)
+        (NNS Carreras)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Leo)
+        (NNS Glenn)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS Kieron)
+         (NNS Moore)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

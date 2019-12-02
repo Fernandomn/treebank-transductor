@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Agora)
+    (VP 
+     (VB segue)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS La)
+        (NNS Caixa)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Barcelona)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (CD 6,5)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

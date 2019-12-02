@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outra)
+    (NNS coisa)
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS procedimento)
+      (ADJP 
+       (RB agora)
+       (ADJP 
+        (VB adoptado)
+        (PP 
+         (IN para)
+         (NP 
+          (DT tais)
+          (NNS verificações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

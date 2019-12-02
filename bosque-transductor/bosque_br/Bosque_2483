@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fato)
+    (PP 
+     (IN de+)
+     (VP 
+      (NP 
+       (DT o)
+       (NN presidente)
+      )
+      (VP 
+       (VB ter)
+       (VBN posado)
+      )
+      (PP 
+       (IN ao_lado_de+)
+       (NP 
+        (DT aquela)
+        (NN atriz)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT um)
+    (NN vexame)
+    (PP 
+     (IN para)
+     (NP 
+      (DT toda)
+      (DT a)
+      (NN nação)
+      (ADJP 
+       (JJ brasileira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

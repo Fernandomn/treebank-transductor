@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Actualmente)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Comunidade)
+    )
+    (VP 
+     (VB absorve)
+     (NP 
+      (NP 
+       (CD 80)
+       (NP 
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS produção)
+           (JJ norte-americana)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

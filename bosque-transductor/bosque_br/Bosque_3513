@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN sensação)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP tem)
+     )
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP está)
+       (VBG andando)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT um)
+        (NN trenó)
+        (VP 
+         (VP 
+          (VBN puxado)
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (NN cães)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ semelhante)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN esqui)
+        (ADJP 
+         (JJ aquático)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

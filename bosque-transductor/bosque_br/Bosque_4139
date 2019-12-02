@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (PRP ele)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN tubo)
+    )
+    (VP 
+     (VBP era)
+    )
+    (ADJP 
+     (JJ independente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN sistema)
+       (PP 
+        (IN de)
+        (NP 
+         (NN propulsão)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN submarino)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN vapor)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP escapou)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ radiativo)
+    )
+   )
+  )
+ )
+)

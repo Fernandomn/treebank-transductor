@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN aula)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ boa)
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (DT o)
+     (NN professor)
+    )
+    (ADVP 
+     (RB jamais)
+    )
+    (VP 
+     (VBP impõe)
+    )
+    (NP 
+     (DT a)
+     (NN opinião)
+     (PP 
+      (IN de+)
+      (NP 
+       (PRP ele)
+      )
+     )
+    )
+   )
+  )
+ )
+)

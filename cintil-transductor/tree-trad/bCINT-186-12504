@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS chuva)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NNS vento)
+     )
+    )
+   )
+   (VP 
+    (VB provocaram)
+    (NP 
+     (PRP numerosas)
+     (NNS quedas)
+    )
+   )
+  )
+ )
+)

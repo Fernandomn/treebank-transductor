@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (NP 
+     (CD Uma)
+     (NN semana)
+    )
+    (RB depois)
+   )
+   (NP 
+    (CD três)
+    (NN organizações)
+    (ADJP 
+     (JJ paulistas)
+    )
+   )
+   (VP 
+    (VBP resolveram)
+   )
+   (VP 
+    (VP 
+     (VB contestar)
+    )
+    (NP 
+     (DT a)
+     (NN informação)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Justiça_Federal)
+     )
+    )
+   )
+  )
+ )
+)

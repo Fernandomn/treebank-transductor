@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NNS gente)
+     )
+     (VP 
+      (RB só)
+      (VP 
+       (VB ouve)
+       (NP 
+        (DT o)
+        (NNS barulho)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB sente)
+         (NP 
+          (DT o)
+          (NNS sangue)
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (VP 
+         (RB não)
+         (VB dói)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

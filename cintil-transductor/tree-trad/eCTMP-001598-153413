@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS PREC)
+      )
+     )
+    )
+    (VP 
+     (VB militou)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS extrema-esquerda)
+      )
+     )
+    )
+   )
+  )
+ )
+)

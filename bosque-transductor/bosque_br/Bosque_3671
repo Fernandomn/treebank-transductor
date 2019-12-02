@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN vídeo)
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+   )
+   (NP 
+    (DT um)
+    (NN instrumento)
+    (ADJP 
+     (JJ poderoso)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB tocar)
+      )
+      (NP 
+       (DT as)
+       (NN pessoas)
+      )
+      (ADVP 
+       (RB diretamente)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN percepção)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN áreas)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (DT a)
+          (NN cultura)
+          (ADJP 
+           (JJ ocidental)
+          )
+         )
+         (ADVP 
+          (RB não)
+         )
+         (VP 
+          (VBP leva)
+         )
+         (ADVP 
+          (RB em_conta)
+         )
+         (ADVP 
+          (RB como)
+          (NP 
+           (DT um)
+           (NN caminho)
+           (PP 
+            (IN para)
+            (NP 
+             (DT o)
+             (NN conhecimento)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

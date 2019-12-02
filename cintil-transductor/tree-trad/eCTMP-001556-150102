@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Há)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP minha)
+         (NNS opinião)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NP 
+        (NNS compra)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS votos)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS dinheiros)
+         (JJ comunitários)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

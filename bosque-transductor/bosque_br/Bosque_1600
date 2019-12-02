@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de)
+    (NP 
+     (NP 
+      (NNP Serpa)
+     )
+     e
+     (NP 
+      (NNP Teixeira)
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP estavam)
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (NN investigação)
+     (ADJP 
+      (JJ judicial)
+     )
+     (ADJP 
+      (JJ eleitoral)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN candidatos)
+    (NP 
+     (NP 
+      (NNP Márcia_Cibilis_Viana)
+      (ADJP 
+       (JJ federal)
+      )
+      (NP 
+       (NNP PDT)
+      )
+     )
+     (NP 
+      (NNP Paulo_de_Almeida)
+      (ADJP 
+       (JJ federal)
+      )
+      (NP 
+       (NNP PSD)
+      )
+     )
+     e
+     (NP 
+      (NNP Aluizio_de_Castro)
+      (ADJP 
+       (JJ estadual)
+      )
+      (NP 
+       (NNP PPR)
+      )
+     )
+    )
+   )
+  )
+ )
+)

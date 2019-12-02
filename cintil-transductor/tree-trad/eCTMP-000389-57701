@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Projecto)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NP 
+        (NNS edifício-sede)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Parque)
+           (NNS Expo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VB escolhido)
+   )
+  )
+ )
+)

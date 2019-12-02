@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS jovens)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS MPLA)
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB aparentemente)
+    )
+    (VP 
+     (VB constituem)
+     (NP 
+      (DT uma)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NNS representações)
+           (ADJP 
+            (RB mais)
+            (JJ politizadas)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT este)
+            (NNS encontro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

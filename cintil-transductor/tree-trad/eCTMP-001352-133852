@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS questão)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS dívidas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Ministério)
+          (NNS de_)
+          (NNS a)
+          (NNS Saúde)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

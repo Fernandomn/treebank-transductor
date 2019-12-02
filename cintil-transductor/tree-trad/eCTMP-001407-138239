@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mãe)
+   )
+   (VP 
+    (VB começou)
+    (PP 
+     (IN a)
+     (VP 
+      (VB desempenhar)
+      (NP 
+       (PRP todas)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS funções)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS marido)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

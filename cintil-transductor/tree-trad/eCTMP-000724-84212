@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Foi)
+      (NP 
+       (NP 
+        (NP 
+         (NNS docente)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS sociologia)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Universidade)
+           (NNS de)
+           (NNS Nanterre)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (VB era)
+        (CONJP 
+         (S 
+          (VP 
+           (RB até)
+           (VP 
+            (VB há)
+            (NP 
+             (PRP poucos)
+             (NNS meses)
+            )
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS editorialista)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Figaro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

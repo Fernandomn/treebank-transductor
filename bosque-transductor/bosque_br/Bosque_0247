@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Acabou)
+    (VBG assinando)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NNP Interscope)
+     (VP 
+      (VP 
+       (VBN ligado)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NNP Warner)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 1)
+      (NN milhão)
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (CD três)
+     (NN discos)
+    )
+   )
+  )
+ )
+)

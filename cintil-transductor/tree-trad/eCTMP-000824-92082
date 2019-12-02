@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS razões)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NNS medida)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB enunciadas)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Presidente)
+        (NNS russo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

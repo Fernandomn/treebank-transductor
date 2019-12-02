@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NNS angústia)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS pais)
+      )
+     )
+    )
+    (PP 
+     (IN perante)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS lobos)
+       (JJ maus)
+      )
+     )
+    )
+   )
+  )
+ )
+)

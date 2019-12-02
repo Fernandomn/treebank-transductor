@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Encontra)
+     (ADVP 
+      (ADVP 
+       (RB por)
+       (RB acaso)
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS pasta)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS documentos)
+         (ADJP 
+          (RB muitíssimo)
+          (JJ secretos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

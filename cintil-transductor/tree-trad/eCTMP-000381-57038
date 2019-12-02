@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS Presidência)
+    (NNS de_)
+    (NNS a)
+    (NNS República)
+   )
+  )
+  (VP 
+   (VB surge)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS horizonte)
+    )
+   )
+  )
+ )
+)

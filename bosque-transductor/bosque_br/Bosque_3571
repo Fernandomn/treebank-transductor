@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN empresa)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP faturou)
+     )
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 1)
+       (NN milhão)
+      )
+     )
+     (PP 
+      (IN em)
+      (ADJP 
+       (CD 93)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB inaugurar)
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (NN setembro)
+    )
+   )
+   (NP 
+    (DT mais)
+    (CD quatro)
+    (NN unidades)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Gelaguela_Sobremesas)
+     )
+    )
+   )
+  )
+ )
+)

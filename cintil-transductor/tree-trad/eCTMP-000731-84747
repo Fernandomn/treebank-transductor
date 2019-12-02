@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS termos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS profissionalismo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS filme)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Jonathan)
+         (NNS Demme)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS oposto)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Turturro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

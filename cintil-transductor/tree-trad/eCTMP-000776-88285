@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Será)
+     (JJ facultativa)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VP 
+        (RB não)
+        (VB tem)
+       )
+       (NP 
+        (NP 
+         (NNS data)
+         (JJ marcada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

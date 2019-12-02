@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS paragem)
+     (JJ seguinte)
+    )
+   )
+   (VP 
+    (VB será)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS Santuário)
+        (NNS de_)
+        (NNS a)
+        (NNS Senhora)
+        (NNS de_)
+        (NNS o)
+        (NNS Almortão)
+       )
+       (CONJP 
+        (CONJP 
+         (RB onde)
+         (S 
+          (NP 
+           (NP 
+            (DT a)
+            (NNS fé)
+           )
+           (NP 
+            (CC e)
+            (NP 
+             (DT a)
+             (NNS festa)
+            )
+           )
+          )
+          (VP 
+           (VB coexistem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS elemento)
+     (JJ feminino)
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (JJ favorecido)
+    )
+    (PP 
+     (NP 
+      (DT esta)
+      (NNS semana)
+     )
+    )
+   )
+  )
+ )
+)

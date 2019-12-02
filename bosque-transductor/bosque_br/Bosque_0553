@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (PP 
+     (IN Em_torno_de+)
+     (NP 
+      (PRP ele)
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP estavam)
+    )
+    (NP 
+     (NN pessoas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB hoje)
+      )
+      (VP 
+       (VBP estão)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (DT sua)
+        (NN candidatura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

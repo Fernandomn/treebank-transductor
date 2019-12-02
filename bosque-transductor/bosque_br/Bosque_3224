@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Welles)
+   )
+   (VP 
+    (VBP foi)
+    (VBN mandado)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT uma)
+     (NN espécie)
+     (PP 
+      (IN de)
+      (NP 
+       (NN embaixador)
+       (ADJP 
+        (JJ cultural)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

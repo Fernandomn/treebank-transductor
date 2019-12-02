@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Houve)
+    (NP 
+     (CD duas)
+     (NP 
+      (NNS corridas)
+      (JJ eleitorais)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS domingo)
+    )
+   )
+  )
+ )
+)

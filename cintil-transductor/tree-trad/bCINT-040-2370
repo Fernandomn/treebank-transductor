@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (PRP quase)
+      (PRP todas)
+     )
+     (NP 
+      (DT as)
+      (NNS praças)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB esperava)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (PRP alguma)
+       (NNS ansiedade)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (S 
+         (VP 
+          (VB diria)
+         )
+         (NP 
+          (NP 
+           (DT o)
+           (NP 
+            (NNS presidente)
+            (NNS de_)
+            (NNS a)
+            (NNS Reserva)
+            (NNS Federal)
+            (NNS norte-americana)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS Alain)
+            (NNS Greenspan)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN perante)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Congresso)
+           (NNS de_)
+           (NNS os)
+           (NNS Estados)
+           (NNS Unidos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

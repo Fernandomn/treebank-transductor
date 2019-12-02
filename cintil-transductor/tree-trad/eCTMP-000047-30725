@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jipe)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS Comandos)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB emprestado)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS negócios)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS Pinochet)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

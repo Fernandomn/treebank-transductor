@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS fins-de-semana)
+     )
+    )
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC quando)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB saio)
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NP 
+            (PP minha)
+            (NP 
+             (NNS prima)
+             (NNS Bé)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB fico)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS casa)
+        )
+       )
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VB ver)
+        (NP 
+         (NNS televisão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

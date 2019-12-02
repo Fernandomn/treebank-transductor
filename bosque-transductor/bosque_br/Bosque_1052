@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (IN Se)
+     (NP 
+      (DT o)
+      (NN inquilino)
+     )
+     (VP 
+      (VBP conseguir)
+     )
+     (NP 
+      (DT um)
+      (JJ bom)
+      (NN desconto)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN hora)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN mudança)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN aluguel)
+          )
+         )
+         (NP 
+          (PP 
+           (IN de)
+           (NP 
+            (NN cruzeiros)
+            (ADJP 
+             (JJ reais)
+            )
+           )
+          )
+          (PP 
+           (IN para)
+           (NP 
+            (NN URV)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NN negócio)
+     (PP 
+      (IN para)
+      (NP 
+       (PRP ele)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

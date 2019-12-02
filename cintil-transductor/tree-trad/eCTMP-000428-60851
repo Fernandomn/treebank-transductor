@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Comissão)
+    (NNS de)
+    (NNS Coordenação)
+    (NNS de_)
+    (NNS a)
+    (NNS Região)
+    (NNS Norte)
+   )
+  )
+  (VP 
+   (VB traça)
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS quadro)
+      (JJ negro)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS região)
+      )
+     )
+    )
+   )
+  )
+ )
+)

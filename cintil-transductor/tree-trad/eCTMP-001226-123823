@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Abbé)
+     (NNS Pierre)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS fundador)
+     (NNS de_)
+     (NNS os)
+     (NNS Companheiros)
+     (NNS de)
+     (NNS Emaús)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Portugal)
+    )
+   )
+  )
+ )
+)

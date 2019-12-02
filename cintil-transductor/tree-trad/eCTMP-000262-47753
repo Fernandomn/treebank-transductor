@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT estes)
+       (NNS casos)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB há)
+       )
+       (NP 
+        (NNS risco)
+       )
+      )
+     )
+     (S 
+      (CC mas)
+      (S 
+       (VP 
+        (VB há)
+        (NP 
+         (NP 
+          (NNS imobilização)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS capital)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

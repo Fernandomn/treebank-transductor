@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS convicção)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS Partido)
+          (NNS Socialista)
+         )
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (RB ontem)
+             (VP 
+              (VP 
+               (VB reuniu)
+               (NP 
+                (DT a)
+                (NP 
+                 (NNS Comissão)
+                 (NNS Permanente)
+                )
+               )
+              )
+              (PP 
+               (IN para)
+               (NP 
+                (DT um)
+                (NP 
+                 (NNS balanço)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT a)
+                   (NP 
+                    (NNS actividade)
+                    (JJ política)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

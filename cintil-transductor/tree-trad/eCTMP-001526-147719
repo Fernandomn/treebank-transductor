@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS presidente)
+        (NNS de_)
+        (NNS a)
+        (NNS Junta)
+        (NNS de)
+        (NNS Freguesia)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS Guilherme)
+        (NNS Dias)
+       )
+      )
+     )
+    )
+    (VB acabou)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS época)
+     (PP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS patos)
+         (JJ bravos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

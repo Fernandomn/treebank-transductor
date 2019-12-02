@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS atentado)
+   )
+   (VP 
+    (VP 
+     (VB seguiu)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS explosão)
+     )
+    )
+   )
+  )
+ )
+)

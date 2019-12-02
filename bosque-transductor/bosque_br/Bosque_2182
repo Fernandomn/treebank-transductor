@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Apenas)
+    (IN para)
+    (NP 
+     (NN estadas)
+     (ADJP 
+      (RB mais)
+      (JJ breves)
+     )
+     (NP 
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD um)
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (CD dois)
+        (NN dias)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN preparador)
+   )
+   (VP 
+    (VBP teria)
+    (VBN optado)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB manter)
+     )
+     (NP 
+      (DT o)
+      (NN fuso)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Los_Gatos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

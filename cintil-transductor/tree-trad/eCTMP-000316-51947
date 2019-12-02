@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS encontro)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB disputado)
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS pavilhão)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Esmoriz)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN perante)
+       (NP 
+        (NP 
+         (ADVP 
+          (RB cerca)
+          (RB de)
+         )
+         (CD 1500)
+        )
+        (NNS espectadores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB faço)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (ADJP 
+         (RB mais)
+         (JJ pequena)
+        )
+        (NP 
+         (NNS ideia)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS situação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB desconheço)
+       (NP 
+        (PRP -a)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

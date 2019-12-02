@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Astrónomos)
+  )
+  (VP 
+   (VB detectam)
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS radiação)
+       (JJ infravermelha)
+      )
+      (JJ omnipresente)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Universo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

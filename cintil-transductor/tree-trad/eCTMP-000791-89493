@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Ainda)
+     (VP 
+      (VP 
+       (RB não)
+       (VB tinha)
+      )
+      (VB começado)
+     )
+    )
+    (NP 
+     (DT o)
+     (NNS jogo)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS relvado)
+      )
+     )
+     (S 
+      (RB já)
+      (S 
+       (S 
+        (NP 
+         (PRP se)
+        )
+        (VB cantava)
+       )
+       (S 
+        (CC e)
+        (S 
+         (VB dançava)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

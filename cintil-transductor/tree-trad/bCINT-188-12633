@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (RB Também)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS área)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS legislação)
+      (JJ actual)
+     )
+    )
+    (VP 
+     (VP 
+      (VB apresenta)
+      (PP 
+       (PP 
+        (IN segundo)
+        (NP 
+         (DT o)
+         (NNS psiquiatra)
+        )
+       )
+      )
+     )
+     (NP 
+      (PRP algumas)
+      (NNS lacunas)
+     )
+    )
+   )
+  )
+ )
+)

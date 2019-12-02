@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Uefa)
+      (NP 
+       (NNP Lennart_Johansson)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP negou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN entidade)
+     (ADJP 
+      (JJ européia)
+     )
+    )
+    (VP 
+     (VBP vá)
+     (VB apresentar)
+    )
+    (NP 
+     (NN oposição)
+     (PP 
+      (IN a)
+      (NP 
+       (NNP Havelange)
+      )
+     )
+    )
+   )
+  )
+ )
+)

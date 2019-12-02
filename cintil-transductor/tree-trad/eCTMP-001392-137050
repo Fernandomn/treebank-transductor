@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS futebol)
+     (JJ profissional)
+    )
+   )
+   (VP 
+    (VB tem)
+    (PP 
+     (IN de)
+     (VP 
+      (VB encontrar)
+      (NP 
+       (NP 
+        (JJ novos)
+        (NP 
+         (NNS pontos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS referência)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

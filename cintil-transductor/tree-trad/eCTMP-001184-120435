@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NNS pedido)
+      (JJ anterior)
+     )
+     (PP 
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS abate)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 5440)
+            (NNS árvores)
+           )
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (CD 120)
+           (NNS hectares)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB havia)
+    (VP 
+     (VB sido)
+     (VB indeferido)
+    )
+   )
+  )
+ )
+)

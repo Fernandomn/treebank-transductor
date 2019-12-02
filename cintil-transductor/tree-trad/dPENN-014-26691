@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS James)
+      (NNS Linsey)
+     )
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS advogado)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Air)
+          (NNS Line)
+          (NNS Pilots)
+          (NNS Association)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NNS pilotos)
+      )
+      (VP 
+       (VB estavam)
+       (ADJP 
+        (RB extremamente)
+        (JJ satisfeitos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

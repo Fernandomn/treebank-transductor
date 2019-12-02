@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN receios)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Durante)
+     )
+    )
+    (PP 
+     (IN quanto_a+)
+     (NP 
+      (DT a)
+      (NN reação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN platéia)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP eram)
+   )
+   (VP 
+    (VP 
+     (VBN compartilhados)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN restante)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN comitiva)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

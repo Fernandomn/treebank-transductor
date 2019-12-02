@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (ADJP 
+     (RB mais)
+     (NN perigoso)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN região)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Serra_das_Concha)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (NP 
+      (DT o)
+      (NN km)
+      (ADJP 
+       (CD 129)
+      )
+     )
+     e
+     (NP 
+      (DT o)
+      (NN km)
+      (ADJP 
+       (CD 162)
+      )
+     )
+    )
+   )
+   (PP 
+    (RB logo)
+    (IN após)
+    (NP 
+     (NNP Tatuí)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VBP vai)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN interior)
+      )
+     )
+    )
+   )
+  )
+ )
+)

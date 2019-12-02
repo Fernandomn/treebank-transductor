@@ -1,0 +1,96 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS Assembleia)
+      (NNS de_)
+      (NNS a)
+      (NNS República)
+     )
+    )
+    (VP 
+     (VP 
+      (VB debateu)
+      (NP 
+       (DT o)
+       (NNS decreto-lei)
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC porque)
+       (S 
+        (NP 
+         (DT a)
+         (NNS ratificação)
+        )
+        (VP 
+         (VB foi)
+         (VB requerida)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (PRP tudo)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB ficou)
+        (RB exactamente)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (JJ mesma)
+         )
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (CC porque)
+        (S 
+         (NP 
+          (DT a)
+          (NNS maioria)
+         )
+         (VP 
+          (VP 
+           (VB é)
+           (JJ surda)
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (ADJP 
+              (RB mais)
+              (JJ elementar)
+             )
+             (NNS lógica)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

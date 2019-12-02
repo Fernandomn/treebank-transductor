@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Querem)
+    (NP 
+     (NP 
+      (NP 
+       (NNS apoio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS EUA)
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT os)
+        (NP 
+         (PP seus)
+         (NNS regimes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

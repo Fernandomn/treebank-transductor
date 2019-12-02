@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VBP tolerei)
+    )
+    (VP 
+     (ADVP 
+      (RB pois)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP quis)
+     )
+     (VP 
+      (NP 
+       (PRP me)
+      )
+      (VP 
+       (VB intrometer)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN vida)
+        (ADJP 
+         (JJ privada)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (DT meus)
+          (NN funcionários)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Antinori)
+    (VP 
+     (PP 
+      (IN para)
+      (NP 
+       (PRP quem)
+      )
+     )
+     (NP 
+      (NNP Fishel)
+     )
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (DT um)
+      (JJ excelente)
+      (NN técnico)
+     )
+    )
+   )
+  )
+ )
+)

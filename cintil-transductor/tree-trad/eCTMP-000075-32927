@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (CD primeira)
+       (NNS audição)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT esta)
+     (NP 
+      (NNS invasão)
+     )
+    )
+    (VP 
+     (VB provoca)
+     (NP 
+      (PRP algum)
+      (NNS desconforto)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS Sporting)
+     )
+     (VB reagiu)
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB cresceu)
+       (RB ofensivamente)
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN ante)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS cedência)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS domínio)
+         )
+        )
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS Marítimo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

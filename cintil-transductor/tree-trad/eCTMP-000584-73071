@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Stuck)
+     (NNS In)
+     (NNS Traffic)
+     (NNS From)
+     (NNS Paradise)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (ADVP 
+      (RB todavia)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS disco)
+      (ADJP 
+       (JJ amargo)
+       (ADJP 
+        (CC ou)
+        (JJ depressivo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

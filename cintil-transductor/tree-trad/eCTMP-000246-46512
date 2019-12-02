@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Agora)
+     )
+     (VP 
+      (VP 
+       (VB querem)
+       (VP 
+        (VP 
+         (VB suspendê)
+         (NP 
+          (PRP -lo)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS pressa)
+         )
+        )
+       )
+      )
+      para que
+      (S 
+       (NP 
+        (DT o)
+        (NNS processo)
+       )
+       (VP 
+        (VB fique)
+        (PP 
+         (IN com)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS aparência)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS cobertura)
+              (JJ legal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

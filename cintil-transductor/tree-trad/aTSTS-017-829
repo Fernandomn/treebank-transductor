@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS governo)
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+      )
+     )
+    )
+   )
+  )
+ )
+)

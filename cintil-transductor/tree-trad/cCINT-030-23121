@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS arara)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ originária)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS América)
+        (NNS de_)
+        (NNS o)
+        (NNS Sul)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

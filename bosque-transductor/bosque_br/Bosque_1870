@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN clubes)
+   )
+   (VP 
+    (VBP precisam)
+   )
+   (VP 
+    (VP 
+     (VB encontrar)
+    )
+    (NP 
+     (DT uma)
+     (NN fórmula)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP concilie)
+      )
+      (NP 
+       (DT os)
+       (CD dois)
+       (NN aspectos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

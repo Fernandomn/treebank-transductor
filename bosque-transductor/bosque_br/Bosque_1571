@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Folha)
+   )
+   (VP 
+    (NP 
+     (DT O)
+     (NN sr.)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP fez)
+    )
+    (NP 
+     (DT algum)
+     (NN discurso)
+     (PP 
+      (IN contra)
+      (NP 
+       (DT a)
+       (NN monarquia)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN Parlamento)
+     )
+    )
+   )
+  )
+ )
+)

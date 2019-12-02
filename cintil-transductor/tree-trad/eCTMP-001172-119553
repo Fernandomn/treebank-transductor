@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (NP 
+       (CD duas)
+       (CD mil)
+      )
+     )
+     (NP 
+      (NNS chamadas)
+      (PP 
+       (IN por)
+       (NP 
+        (NNS hora)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB atestam)
+      (RB certamente)
+     )
+     (NP 
+      (DT a)
+      (NNS curiosidade)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS leitores)
+     )
+    )
+   )
+  )
+ )
+)

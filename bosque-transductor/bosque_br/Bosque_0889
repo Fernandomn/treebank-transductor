@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ primeira)
+    (NN etapa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP M2.000_Summer_Concerts)
+     )
+    )
+   )
+   (ADVP 
+    (ADVP 
+     (RB amanhã)
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Santos)
+      )
+     )
+    )
+    e
+    (ADVP 
+     (RB domingo)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Rio)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP inaugura)
+   )
+   (NP 
+    (DT a)
+    (NN temporada)
+    (ADJP 
+     (CD 94)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN caça)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT os)
+        (NN shows)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

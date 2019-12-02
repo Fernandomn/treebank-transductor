@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Destruição)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS monumento)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN por)
+    (NP 
+     (NP 
+      (NNS ódio)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT os)
+        (NNS turcos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

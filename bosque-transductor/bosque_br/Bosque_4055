@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Mesmo)
+    )
+    (VP 
+     (VBN criticado)
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP defende)
+   )
+   (NP 
+    (DT sua)
+    (NN posição)
+   )
+   (ADVP 
+    (RB claramente)
+   )
+   (PP 
+    (PP 
+     (IN em_favor_de+)
+     (NP 
+      (DT os)
+      (NN evangélicos)
+     )
+    )
+    e
+    (PP 
+     (IN de)
+     (NP 
+      (DT seu)
+      (NN ponto)
+      (PP 
+       (IN de)
+       (NP 
+        (NN vista)
+       )
+      )
+      (ADJP 
+       (JJ religioso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

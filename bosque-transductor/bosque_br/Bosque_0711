@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Jônice_Tristão)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP acompanha)
+    )
+    (NP 
+     (DT a)
+     (NN vida)
+     (ADJP 
+      (JJ política)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Elcio_Álvares)
+      )
+     )
+    )
+    (PP 
+     (IN há)
+     (NP 
+      (CD duas)
+      (NN décadas)
+     )
+    )
+   )
+  )
+ )
+)

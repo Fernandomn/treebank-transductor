@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Kim)
+   )
+   (VP 
+    (VP 
+     (VB governa)
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NP 
+           (NNS países)
+           (ADJP 
+            (RB mais)
+            (JJ fechados)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS mundo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN desde)
+     (NP 
+      (CD 1948)
+     )
+    )
+   )
+  )
+ )
+)

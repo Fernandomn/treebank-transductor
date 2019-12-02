@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS José)
+     (NNS Armando)
+     (NNS Queirós)
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ inconformado)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS decisão)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB irá)
+           (VP 
+            (VB ser)
+            (VP 
+             (VB contestada)
+             (PP 
+              (IN por_)
+              (NP 
+               (DT o)
+               (NP 
+                (NNS advogado)
+                (NP 
+                 (NNS João)
+                 (NNS Peres)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

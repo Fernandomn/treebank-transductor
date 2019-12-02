@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Festa)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS vinho)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS capital)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS cultura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

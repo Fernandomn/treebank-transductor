@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De_)
+     (NP 
+      (DT esta)
+      (NNS vez)
+     )
+    )
+   )
+   (S 
+    (S 
+     (VB arderam)
+     (NP 
+      (CD duas)
+      (NNS viaturas)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Praça)
+       (NNS Fernando)
+       (NNS Amado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

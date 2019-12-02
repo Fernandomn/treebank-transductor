@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NNS andamentos)
+     )
+     (VP 
+      (VP 
+       (VB estão)
+       (RB agora)
+      )
+      (ADJP 
+       (RB muito)
+       (JJ idênticos)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (PP 
+        (PP 
+         (IN por)
+         (NP 
+          (DT essa)
+          (NNS razão)
+         )
+        )
+       )
+       (VP 
+        (VB poderemos)
+        (VP 
+         (VB ter)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS corrida)
+           (ADJP 
+            (RB muito)
+            (JJ interessante)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

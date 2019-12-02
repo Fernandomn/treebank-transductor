@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT as)
+       (NP 
+        (CD últimas)
+        (NP 
+         (NNS eleições)
+         (JJ presidenciais)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB fez)
+     (NP 
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Comissão)
+          (NNS de)
+          (NNS Honra)
+          (NNS de_)
+          (NNS a)
+          (NNS candidatura)
+          (NNS de)
+          (NNS Jorge)
+          (NNS Sampaio)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VBG Exercendo)
+     )
+     (NP 
+      (DT o)
+      (NN direito)
+      (PP 
+       (IN de)
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB estar)
+        )
+        (ADVP 
+         (RB a_favor_ou_contra)
+        )
+        (NP 
+         (PRP ninguém)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP gostaria)
+    )
+    (ADVP 
+     (RB aqui)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VP 
+        (VB remar)
+       )
+       (PP 
+        (IN contra)
+        (NP 
+         (DT a)
+         (NN maré)
+        )
+       )
+      )
+      e
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP pasmem)
+    )
+   )
+   (VP 
+    (PP 
+     (VP 
+      (VP 
+       (VP 
+        (VB manifestar)
+       )
+       (NP 
+        (DT meu)
+        (NN otimismo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

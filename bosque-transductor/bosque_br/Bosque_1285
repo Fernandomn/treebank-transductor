@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD 24)
+    (PP 
+     (IN de)
+     (NP 
+      (NN novembro)
+      (PP 
+       (IN de)
+       (ADJP 
+        (CD 92)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT Um)
+    (NNP Boeing_737)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP China_Southern_Airlines)
+     )
+    )
+   )
+   (VP 
+    (VBP bate)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT um)
+     (NN morro)
+    )
+   )
+   (ADVP 
+    (RB pouco)
+    (RB antes)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB aterrissar)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN cidade)
+        (ADJP 
+         (JJ turística)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Guilin)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG causando)
+    )
+    (NP 
+     (DT a)
+     (NN morte)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 141)
+       (NN pessoas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

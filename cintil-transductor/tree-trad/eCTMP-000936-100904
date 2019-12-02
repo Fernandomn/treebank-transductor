@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS Liga)
+    )
+    (VP 
+     (VB apresentou)
+     (NP 
+      (CD duas)
+      (NP 
+       (NNS hipóteses)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS nomeações)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT uma)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (PRP elas)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB foi)
+       (RB liminarmente)
+      )
+      (VB rejeitada)
+     )
+    )
+   )
+  )
+ )
+)

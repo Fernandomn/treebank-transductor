@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT Os)
+     (NN franceses)
+     (NP 
+      (NP 
+       (NNP Le_Monde)
+      )
+      e
+      (NP 
+       (NNP Le_Figaro)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN alemão)
+     (NP 
+      (NNP Frankfurter_Allgemeine)
+     )
+    )
+   )
+   (VP 
+    (VBP recusaram)
+   )
+   (NP 
+    (DT o)
+    (NN anúncio)
+   )
+  )
+ )
+)

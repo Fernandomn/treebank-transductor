@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fernando)
+    (NNS Henrique)
+    (NNS Cardoso)
+   )
+  )
+  (VP 
+   (VP 
+    (VB fala)
+    (RB hoje)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Brasília)
+    )
+   )
+  )
+ )
+)

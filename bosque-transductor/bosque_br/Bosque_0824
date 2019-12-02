@@ -1,0 +1,102 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Após)
+    (NP 
+     (DT a)
+     (NN negociação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN dívidas)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN reabertura)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN hospital)
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBN condicionada)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN destombamento)
+    )
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NNP Condephaat)
+     (NP 
+      (NN órgão)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP cuida)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN patrimônio)
+         (ADJP 
+          (JJ histórico)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN cidade)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN área)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 10)
+         (NN mil)
+         (NN m2)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP deverá)
+           (VB ser)
+           (VBN comercializada)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

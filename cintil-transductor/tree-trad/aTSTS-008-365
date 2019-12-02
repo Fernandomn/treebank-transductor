@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (RB hoje)
+    (VP 
+     (VP 
+      (VB comprou)
+      (NP 
+       (DT um)
+       (NNS livro)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS Maria)
+      )
+     )
+    )
+   )
+  )
+ )
+)

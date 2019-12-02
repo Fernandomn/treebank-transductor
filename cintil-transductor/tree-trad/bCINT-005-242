@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Há)
+     (NP 
+      (NP 
+       (PRP muitas)
+       (NP 
+        (NNS notas)
+        (JJ inflacionadas)
+       )
+      )
+      (NP 
+       (NP 
+        (PRP muitos)
+        (NP 
+         (NNS nivelamentos)
+         (PP 
+          (IN por)
+          (NP 
+           (NNS baixo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (PP 
+        (PP 
+         (IN a_)
+         (NP 
+          (DT as)
+          (NNS vezes)
+         )
+        )
+       )
+       (S 
+        (NP 
+         (NP 
+          (PRP quem)
+         )
+         (S 
+          (VP 
+           (VB tem)
+           (NP 
+            (DT um)
+            (NNS olho)
+           )
+          )
+         )
+        )
+        (VP 
+         (VB é)
+         (NP 
+          (NNS rei)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

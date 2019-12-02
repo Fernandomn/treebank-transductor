@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN imprensa)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP esqueceu)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (IN que)
+     (NP 
+      (DT os)
+      (NN oligopólios)
+     )
+     (VP 
+      (VBP são)
+     )
+     (NP 
+      (DT o)
+      (NN vilão)
+      (PP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN URV)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN plano)
+         (NP 
+          (NNP FHC)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

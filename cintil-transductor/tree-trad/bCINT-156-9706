@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Artur)
+     (NNS Jorge)
+    )
+   )
+   (VP 
+    (VP 
+     (VB despediu)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS Euro-96)
+     )
+    )
+   )
+  )
+ )
+)

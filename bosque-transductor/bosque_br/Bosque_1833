@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (UH Alô)
+   )
+   (NP 
+    (NN vítimas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN abuso)
+      (ADJP 
+       (JJ oscular)
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Livros)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS divulgação)
+       (JJ científica)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB vendem)
+    (RB bem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Portugal)
+    )
+   )
+  )
+ )
+)

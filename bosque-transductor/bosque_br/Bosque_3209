@@ -1,0 +1,147 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NN sensação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN insegurança)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT a)
+     (NN debilidade)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN poder)
+       (ADJP 
+        (JJ público)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP eram)
+   )
+   (PP 
+    (IN sem)
+    (NP 
+     (NN dúvida)
+    )
+   )
+   (NP 
+    (NN características)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP Estados_Unidos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN final)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN século)
+          (ADJP 
+           (CD 18)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (ADVP 
+     (RB quando)
+    )
+    (PP 
+     (IN segundo)
+     (NP 
+      (DT a)
+      (NN versão)
+      (ADJP 
+       (RB mais)
+       (VBN aceita)
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NN palavra)
+    )
+    (VP 
+     (VBP teria)
+     (VBN sido)
+     (VBN inventada)
+    )
+    (PP 
+     (IN a_partir_de+)
+     (NP 
+      (DT a)
+      (NN prática)
+      (VP 
+       (VP 
+        (VBN adotada)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (DT um)
+         (NN juiz)
+         (NP 
+          (NNP Lynch)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VP 
+          (VB condenar)
+         )
+        )
+        e
+        (VP 
+         (VP 
+          (VB executar)
+         )
+         (NP 
+          (DT seus)
+          (NN adversários)
+         )
+         (PP 
+          (IN sem)
+          (NP 
+           (DT o)
+           (JJ devido)
+           (NN processo)
+           (ADJP 
+            (JJ legal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

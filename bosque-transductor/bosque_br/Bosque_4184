@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (JJ terceira)
+     (NN colocação)
+     (NP 
+      (CD 34)
+      (NN pontos)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Juventus)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Turim)
+     )
+    )
+   )
+   (VP 
+    (VBP visita)
+   )
+   (NP 
+    (DT o)
+    (NNP Genoa)
+    (ADJP 
+     (CD 22)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN limiar)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN rebaixamento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

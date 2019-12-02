@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Vai)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS regresso)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS jogos)
+            (JJ internacionais)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS cidade)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Braga)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS selecções)
+           (JJ principais)
+          )
+         )
+        )
+        (VP 
+         (CONJP 
+          (S 
+           (VP 
+            (RB já)
+            (VP 
+             (VB há)
+             (NP 
+              (PRP alguns)
+              (NNS anos)
+             )
+            )
+           )
+          )
+         )
+         (VP 
+          (RB não)
+          (VB acontecia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

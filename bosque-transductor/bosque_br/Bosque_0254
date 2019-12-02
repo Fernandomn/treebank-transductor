@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP Helmet)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT uma)
+     (JJ grande)
+     (NN seção)
+     (ADJP 
+      (JJ rítmica)
+     )
+    )
+   )
+   (VP 
+    (VBP definiu)
+   )
+   (NP 
+    (DT o)
+    (NN baixista)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN banda)
+      (NP 
+       (NNP Henry_Bogdan)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT uma)
+     (NN entrevista)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NNP Spin)
+      )
+     )
+    )
+   )
+  )
+ )
+)

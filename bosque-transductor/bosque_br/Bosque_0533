@@ -1,0 +1,98 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN defesa)
+   )
+   (VP 
+    (VBP apresentará)
+   )
+   (NP 
+    (DT o)
+    (NN recurso)
+    (ADJP 
+     (JJ extraordinário)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (JJ último)
+     (NN dia)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN prazo)
+       (NP 
+        (CD três)
+        (NN dias)
+        (ADJP 
+         (JJ úteis)
+        )
+        (PP 
+         (IN após)
+         (NP 
+          (DT a)
+          (NN publicação)
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NNP Diário_da_Justiça)
+           )
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN decisão)
+            (PP 
+             (IN de+)
+             (NP 
+              (DT o)
+              (NNP TSE)
+             )
+            )
+            (PP 
+             (IN sobre)
+             (NP 
+              (DT o)
+              (NN embargo)
+              (ADJP 
+               (JJ declaratório)
+              )
+              (VP 
+               (VP 
+                (VBN pedido)
+               )
+               (PP 
+                (IN por+)
+                (NP 
+                 (DT os)
+                 (NN advogados)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NNP Lucena)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

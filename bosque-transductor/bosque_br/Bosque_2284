@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN gente)
+   )
+   (VP 
+    (VBP pode)
+    (VB trabalhar)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NN atores)
+      (PP 
+       (IN de)
+       (NP 
+        (NN teatro)
+       )
+      )
+     )
+     (NP 
+      (NN crianças)
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN prevenção)
+      (PP 
+       (IN de)
+       (NP 
+        (NN doenças)
+       )
+      )
+     )
+    )
+    ou
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN exame)
+      (PP 
+       (IN de)
+       (NP 
+        (NN trabalhadores)
+        (VP 
+         (VP 
+          (VBN expostos)
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (NN ruídos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

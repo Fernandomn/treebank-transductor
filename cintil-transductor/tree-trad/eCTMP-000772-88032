@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NP 
+        (NNS termos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Cencal)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB procuramos)
+     (VP 
+      (VP 
+       (VB abranger)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS máximo)
+         (JJ possível)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esses)
+        (NNS conhecimentos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

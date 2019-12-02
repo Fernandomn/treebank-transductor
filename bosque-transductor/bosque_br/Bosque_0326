@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (CD 40)
+     (DT outras)
+     (NN idéias)
+    )
+   )
+   (NP 
+    (NNP Brasil_dos_Viajantes)
+   )
+   (VP 
+    (VBP foi)
+    (VBN selecionado)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB comemorar)
+     )
+     (NP 
+      (DT os)
+      (CD 75)
+      (NN anos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN atividade)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN grupo)
+          (ADJP 
+           (JJ empresarial)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

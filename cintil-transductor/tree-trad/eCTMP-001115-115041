@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS oferta)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS trabalho)
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Mesquita)
+        (NNS Machado)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB sensibilizou)
+    (NP 
+     (PRP -a)
+    )
+   )
+  )
+ )
+)

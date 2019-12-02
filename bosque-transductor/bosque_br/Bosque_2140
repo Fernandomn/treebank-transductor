@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Congresso_Internacional_de_Direitos_Autorais)
+   )
+   (VP 
+    (VBP enviou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ última)
+     (NN sexta)
+    )
+   )
+   (NP 
+    (DT uma)
+    (NN recomendação)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN ministro)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Cultura)
+       )
+      )
+      (NP 
+       (NNP Luiz_Roberto_Nascimento_Silva)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB reativar)
+      )
+      (NP 
+       (DT o)
+       (NN órgão)
+       (ADJP 
+        (JJ governamental)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP cuidava)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN área)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN propriedade)
+            (ADJP 
+             (JJ intelectual)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

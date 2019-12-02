@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+    (NP 
+     (DT isso)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VB ocorria)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NP 
+        (JJ ocultas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

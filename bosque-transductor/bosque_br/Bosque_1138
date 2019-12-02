@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (CD Vinte)
+    (NN marcas)
+   )
+   (VP 
+    (VBP criaram)
+   )
+   (NP 
+    (NN t-shirts)
+   )
+   (ADVP 
+    (RB especialmente)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN evento)
+     )
+    )
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (DT o)
+     (NN tema)
+     (NP 
+      (NN Atitude)
+     )
+     (NP 
+      (NP 
+       (NNP Forum)
+      )
+      (NP 
+       (NNP Zoomp)
+      )
+      (NP 
+       (NNP Zapping)
+      )
+      (NP 
+       (NNP Reinaldo_Lourenço)
+      )
+      (NP 
+       (NNP Walter_Rodrigues)
+      )
+      (NP 
+       (NNP Der_Haten)
+      )
+      (NP 
+       (NNP Viva_Viva)
+      )
+      (NP 
+       (NNP Armadilha)
+      )
+      (NP 
+       (NNP Ellus)
+      )
+      (NP 
+       (NNP Iódice)
+      )
+      (NP 
+       (NNP Sucumbe_a_Cólera)
+      )
+      (NP 
+       (NNP Cia._do_Linho)
+      )
+      (NP 
+       (NNP Special_K)
+      )
+      (NP 
+       (NNP Lorenzo_Merlino)
+      )
+      e
+      (NP 
+       (NNP Herchcovitch)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Portanto)
+   )
+   (S 
+    (S 
+     (NP 
+      (DT esse)
+      (NP 
+       (NNS senhor)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (S 
+          (VP 
+           (VB reside)
+           (PP 
+            (IN em)
+            (NP 
+             (NNS Lisboa)
+            )
+           )
+          )
+         )
+         (S 
+          (CC e)
+          (S 
+           (VP 
+            (VB dirige)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS ataque)
+              (PP 
+               (IN a_)
+               (NP 
+                (DT os)
+                (NNS incêndios)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB desconhece)
+      (NP 
+       (DT este)
+       (NNS facto)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB está)
+       (PP 
+        (IN a)
+        (VP 
+         (VB fazer)
+         (NP 
+          (NP 
+           (NNS acusações)
+           (JJ infundadas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

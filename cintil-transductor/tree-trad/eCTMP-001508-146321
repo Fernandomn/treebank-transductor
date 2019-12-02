@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Contra)
+     (NP 
+      (NP 
+       (PRP tudo)
+       (NP 
+        (DT isto)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS autarcas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PSD)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB querem)
+      (RB agora)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS justiça)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS reposição)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS normalidade)
+             (JJ democrática)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

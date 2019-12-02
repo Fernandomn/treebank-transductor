@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN A_)
+    (NP 
+     (DT o)
+     (NNS meio-dia)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS índice)
+      (NNS Dow)
+      (NNS Jones)
+     )
+    )
+    (S 
+     (VP 
+      (VP 
+       (VB cotava)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 5655,73)
+        (NNS pontos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

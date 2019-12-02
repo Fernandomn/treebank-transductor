@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS televisão)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS imagens)
+        (JJ tridimensionais)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VP 
+       (VB estará)
+       (JJ disponível)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS mercado)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD próximo)
+        (NNS século)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

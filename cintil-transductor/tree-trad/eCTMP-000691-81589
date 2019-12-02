@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS empresa)
+   )
+   (VP 
+    (VB acabou)
+    (PP 
+     (IN por)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT a)
+       (NNS alternativa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

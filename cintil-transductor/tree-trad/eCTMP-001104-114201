@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NNS realidade)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB requeri)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Universidade)
+         (NNS de)
+         (NNS Coimbra)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS equivalência)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS habilitações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

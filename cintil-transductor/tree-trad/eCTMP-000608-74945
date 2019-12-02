@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Ano)
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS sismos)
+      (PP 
+       (IN em_)
+       (NP 
+        (NP 
+         (DT a)
+         (NNS Indonésia)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS Rússia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

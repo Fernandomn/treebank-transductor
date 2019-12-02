@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NNS jogo)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (NNS Seabra)
+     )
+     (VP 
+      (VP 
+       (VB esteve)
+       (RB sempre)
+      )
+      (PP 
+       (IN a)
+       (VB dominar)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB tendo)
+      (VP 
+       (VP 
+        (VB chegado)
+        (RB facilmente)
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS 7-4)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

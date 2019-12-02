@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Essas)
+     (NN empresas)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NN Arruda)
+   )
+   (VP 
+    (VP 
+     (VBP reconheceram)
+    )
+    (VP 
+     (VP 
+      (VB ter)
+      (VBN emitido)
+     )
+     (NP 
+      (NN notas)
+      (ADJP 
+       (JJ frias)
+      )
+      (PP 
+       (IN sem)
+       (NP 
+        (DT o)
+        (NN recebimento)
+        (PP 
+         (IN de)
+         (NP 
+          (DT nenhum)
+          (NN serviço)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN empresa)
+            (PP 
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NN pianista)
+               (NP 
+                (NNP João_Carlos_Martins)
+               )
+              )
+             )
+             e
+             (PP 
+              (IN de)
+              (NP 
+               (DT seu)
+               (NN sócio)
+               (NP 
+                (NNP Ettore_Gagliardi)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

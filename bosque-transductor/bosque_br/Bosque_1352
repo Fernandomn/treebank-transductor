@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Será)
+    (VBN lançado)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (JJ próximo)
+     (NN dia)
+     (ADJP 
+      (CD 9)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN auditório)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Folha)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT as)
+     (NN 19h30)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN livro)
+    (NP 
+     (NNP Tributação_no_Brasil_e_o_Imposto_Único)
+    )
+    (VP 
+     (VP 
+      (VBN organizado)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN economista)
+       (NP 
+        (NNP Marcos_Cintra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

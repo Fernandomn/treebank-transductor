@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP PF)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB ainda)
+      (RB não)
+     )
+     (VP 
+      (VBP levantou)
+     )
+     (NP 
+      (DT os)
+      (NN números)
+      (ADJP 
+       (JJ exatos)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN golpe)
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP acredita)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (ADJP 
+        (RB pelo_menos)
+        (CD cem)
+       )
+       (NN pessoas)
+      )
+      (VP 
+       (VBP tenham)
+       (VBN perdido)
+      )
+      (NP 
+       (DT seu)
+       (NN dinheiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

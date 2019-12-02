@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS presidente)
+   )
+   (VP 
+    (VP 
+     (VB criou)
+     (NP 
+      (NNS condições)
+     )
+    )
+    para que
+    (S 
+     (NP 
+      (DT os)
+      (NNS sócios)
+     )
+     (VP 
+      (VB percebam)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB dão)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS noites)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Lisboa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vão)
+    (VP 
+     (VP 
+      (VB ter)
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Junho)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ nova)
+       (NNS atracção)
+      )
+     )
+    )
+   )
+  )
+ )
+)

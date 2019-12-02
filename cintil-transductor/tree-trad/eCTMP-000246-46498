@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS União)
+    (NNS Europeia)
+   )
+  )
+  (VP 
+   (VB estuda)
+   (NP 
+    (NP 
+     (NNS apoios)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS produção)
+        (NP 
+         (CC e)
+         (NNS abate)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

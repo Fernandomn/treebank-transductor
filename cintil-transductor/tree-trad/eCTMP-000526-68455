@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS país)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB sofreu)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (JJ mesmas)
+            (NNS dificuldades)
+           )
+           (CONJP 
+            (CC que)
+            (NP 
+             (DT o)
+             (NP 
+              (PP nosso)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

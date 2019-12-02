@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NN médico)
+      (NP 
+       (NNP Flávio_Pozzuto)
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NN funções)
+     (ADJP 
+      (JJ neurológicas)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN torcedor)
+      )
+     )
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP mantêm)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NN alteração)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP respira)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN ajuda)
+      (PP 
+       (IN de)
+       (NP 
+        (NN aparelhos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

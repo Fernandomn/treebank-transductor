@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ interessante)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS recurso)
+        (PP 
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS música)
+            (JJ tradicional)
+           )
+          )
+         )
+         (PP 
+          (PP 
+           (IN a_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS chulas)
+             (NP 
+              (NP 
+               (NNS corridinhos)
+               (NP 
+                (CC e)
+                (NNS malhões)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (CC embora)
+       (S 
+        (VP 
+         (RB depois)
+         (VP 
+          (VB diga)
+          (NP 
+           (NP 
+            (NNS coisas)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS estilo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (NP 
+    (NN horror)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN horrores)
+     )
+    )
+   )
+   (ADVP 
+    (RB são)
+   )
+   (NP 
+    (DT as)
+    (NN mulheres)
+   )
+   (ADVP 
+    (RB que)
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (DT o)
+    (NN paladar)
+    (ADJP 
+     (RB mais)
+     (VBN apurado)
+     (SBAR do_que
+      (S 
+       (DT os)
+       (NN homens)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP pare)
+     (IN de)
+     (VB dar)
+    )
+    (NP 
+     (DT essas)
+     (NN risadinhas)
+    )
+    (NP 
+     (PRP você)
+    )
+    (ADVP 
+     (RB aí)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN fundo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN classe)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS declaração)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Pedro)
+        )
+       )
+      )
+      (PP 
+       (IN contra)
+       (NP 
+        (DT a)
+        (NNS censura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

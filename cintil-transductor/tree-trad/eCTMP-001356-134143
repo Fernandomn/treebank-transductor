@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (JJ menor)
+       (NNS número)
+      )
+     )
+    )
+    (VB surgem)
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS associação)
+      (JJ criminosa)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT o)
+       (NNS terrorismo)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT o)
+         (NNS sequestro)
+        )
+        (NP 
+         (CC ou)
+         (NP 
+          (DT o)
+          (NNS rapto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

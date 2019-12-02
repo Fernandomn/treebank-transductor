@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN livro)
+   )
+   (VP 
+    (VBP chega)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN momento)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (NP 
+       (DT a)
+       (NN idéia)
+       (PP 
+        (IN de)
+        (NP 
+         (NN cinema)
+         (VBN engajado)
+        )
+       )
+      )
+      (VP 
+       (VBP está)
+      )
+      (ADVP 
+       (RB meio)
+       (RB por_baixo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fiske)
+   )
+   (VP 
+    (VBP começou)
+   )
+   (NP 
+    (DT seu)
+    (NN trabalho)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 20)
+     (PP 
+      (IN de)
+      (NP 
+       (NN janeiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

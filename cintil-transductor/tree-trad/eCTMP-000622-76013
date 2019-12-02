@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Banco)
+  )
+  (VP 
+   (VP 
+    (VB assaltado)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS barbas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS polícia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

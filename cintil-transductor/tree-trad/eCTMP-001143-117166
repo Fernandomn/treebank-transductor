@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS esvaziamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS doca)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Lisnave)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB dissipou)
+     (RB logo)
+    )
+    (NP 
+     (DT as)
+     (NNS dúvidas)
+    )
+   )
+  )
+ )
+)

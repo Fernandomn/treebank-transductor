@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (ADVP 
+    (RB depois)
+    (PP 
+     (IN de)
+     (NP 
+      (CD uma)
+      (NN semana)
+      (PP 
+       (IN com)
+       (NP 
+        (NN gripe)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP recupera)
+   )
+   (NP 
+    (DT a)
+    (DT sua)
+    (NN forma)
+   )
+   (NP 
+    (DT o)
+    (NN holandês)
+    (NP 
+     (NNP Ruud_Gullit)
+    )
+    (NP 
+     (NN artilheiro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN time)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (CD 14)
+       (NN tentos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

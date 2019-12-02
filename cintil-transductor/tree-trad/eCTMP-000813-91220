@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS eleições)
+   )
+   (VP 
+    (VP 
+     (VB estão)
+     (JJ previstas)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS Novembro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS ano)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

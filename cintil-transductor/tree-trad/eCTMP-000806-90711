@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Saída)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS ANMP)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB gera)
+   (NP 
+    (NP 
+     (NNS controvérsia)
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS eleitos)
+        (JJ sociais-democratas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

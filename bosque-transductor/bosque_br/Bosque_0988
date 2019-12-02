@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Nenhum)
+    (NN filme)
+    (ADJP 
+     (JJ brasileiro)
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN escolhido)
+   )
+   (VP 
+    (VP 
+     (VBG quebrando)
+    )
+    (ADVP 
+     (RB assim)
+    )
+    (NP 
+     (DT a)
+     (NN expectativa)
+     (VP 
+      (VP 
+       (VBN criada)
+      )
+      (PP 
+       (IN em_torno_de)
+       (NP 
+        (NP 
+         (NNP Alma_Corsária)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Carlos_Reichenbach)
+          )
+         )
+        )
+        e
+        (NP 
+         (NNP Mil_e_Uma)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP Suzana_de_Moraes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

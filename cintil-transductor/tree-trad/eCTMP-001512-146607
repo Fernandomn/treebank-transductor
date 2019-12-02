@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT A)
+      (NP 
+       (CD última)
+       (NNS etapa)
+      )
+     )
+     (VP 
+      (VB era)
+      (NP 
+       (NP 
+        (NNS Arcos)
+        (NNS de)
+        (NNS Valdevez)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (JJ evidentes)
+     (S 
+      (VP 
+       (VB eram)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS receios)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB pudesse)
+              (VB acontecer)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

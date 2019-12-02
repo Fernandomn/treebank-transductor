@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Santana)
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (NN morador)
+    (ADJP 
+     (JJ antigo)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Lambari_d'_Oeste)
+     )
+    )
+   )
+  )
+ )
+)

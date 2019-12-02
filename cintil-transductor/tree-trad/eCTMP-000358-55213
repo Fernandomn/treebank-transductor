@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Starr)
+  )
+  (VP 
+   (VP 
+    (VB compara)
+    (NP 
+     (NP 
+      (NNS investigação)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Clinton)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS Watergate)
+    )
+   )
+  )
+ )
+)

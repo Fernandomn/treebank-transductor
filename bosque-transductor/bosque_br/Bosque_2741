@@ -1,0 +1,93 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT a)
+    (JJ principal)
+    (NN questão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (JJ 1º)
+      (NN dia)
+      (PP 
+       (IN de)
+       (NP 
+        (NN debate)
+        (PP 
+         (IN de+)
+         (VP 
+          (PRP o_qual)
+          (VP 
+           (VBP participaram)
+          )
+          (NP 
+           (DT os)
+           (NN professores)
+           (NP 
+            (NP 
+             (NNP José_Arthur_Giannotti)
+             (NP 
+              (NNP Departamento_de_Filosofia)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NNP USP)
+               )
+              )
+             )
+            )
+            (NP 
+             (NNP José_Augusto_Guilhon_Albuquerque)
+             (NP 
+              (NNP Departamento_de_Ciência_Política)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NNP USP)
+               )
+              )
+             )
+            )
+            e
+            (NP 
+             (NNP Luiz_Pinguelli_Rosa)
+             (NP 
+              (NN diretor)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT a)
+                (NNP Coordenação_de_Programas_de_Pós-Graduação)
+                (PP 
+                 (IN de+)
+                 (NP 
+                  (DT a)
+                  (NNP Universidade_Federal_do_Rio_de_Janeiro)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

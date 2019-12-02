@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS FMCU)
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB abrange)
+         (NP 
+          (CD 76)
+          (NP 
+           (NNS países)
+           (PP 
+            (IN de)
+            (NP 
+             (PRP todos)
+             (NP 
+              (DT os)
+              (NNS continentes)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB criada)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 1957)
+     )
+    )
+   )
+  )
+ )
+)

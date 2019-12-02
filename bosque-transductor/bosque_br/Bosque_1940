@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Luiz_Estevão)
+    )
+   )
+   (NP 
+    (NNP Collor)
+    (VP 
+     (VP 
+      (VBN vestido)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (DT uma)
+        (NN calça)
+        (ADJP 
+         (JJ marinho)
+        )
+       )
+       e
+       (NP 
+        (NN camisa)
+        (PP 
+         (IN de)
+         (NP 
+          (NN algodão)
+          (ADJP 
+           (JJ branca)
+          )
+         )
+        )
+        (PP 
+         (IN sem)
+         (NP 
+          (NN mangas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estava)
+   )
+   (ADJP 
+    (JJ confiante)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN trabalho)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN advogados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

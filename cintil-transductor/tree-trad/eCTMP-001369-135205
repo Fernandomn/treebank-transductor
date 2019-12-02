@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (ADVP 
+       (RB Um)
+       (RB pouco)
+      )
+      (RB mais)
+     )
+     (RB adiante)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS situação)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB é)
+      (JJ diferente)
+     )
+    )
+   )
+  )
+ )
+)

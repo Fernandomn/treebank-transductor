@@ -1,0 +1,85 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Já)
+    )
+    (VP 
+     (VBG pensando)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN Mundial)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Grécia)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP será)
+          (VBN disputado)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NN setembro)
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNP Atenas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN técnico)
+    (ADJP 
+     (JJ brasileiro)
+    )
+   )
+   (VP 
+    (VBP retoma)
+   )
+   (NP 
+    (DT o)
+    (NN comando)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN treinos)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN equipe)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT a)
+     (JJ próxima)
+     (NN segunda-feira)
+    )
+   )
+  )
+ )
+)

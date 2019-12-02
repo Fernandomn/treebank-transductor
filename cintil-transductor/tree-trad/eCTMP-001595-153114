@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS sector)
+     (JJ industrial)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN apesar)
+       (IN de_)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS esforços)
+        (JJ feitos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB continua)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ter)
+       (NP 
+        (PRP pouca)
+        (NP 
+         (NNS expressão)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS economia)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Cabo)
+               (NNS Verde)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ segunda)
+     (NN fase)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN conversão)
+    (ADJP 
+     (JJ obrigatória)
+    )
+   )
+   (VP 
+    (VBP exige)
+   )
+   (NP 
+    (NP 
+     (NN regras)
+     (PP 
+      (IN de)
+      (NP 
+       (NN conversão)
+      )
+     )
+    )
+    (NP 
+     (NN tablita)
+    )
+    e
+    (NP 
+     (RB possivelmente)
+     (DT um)
+     (NN congelamento)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB impedir)
+       )
+       (NP 
+        (NN especulação)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (JJ nova)
+         (NN moeda)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VB disse)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB foi)
+        )
+        (NP 
+         (DT essa)
+        )
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (PP minha)
+         (NNS intenção)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

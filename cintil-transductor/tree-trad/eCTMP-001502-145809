@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outra)
+    (NP 
+     (NNS demonstração)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ mesma)
+        (NNS dimensão)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (ADVP 
+       (RB certamente)
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS papel)
+        (JJ omnipresente)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS religião)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN através)
+       (IN de_)
+      )
+      (NP 
+       (DT as)
+       (NP 
+        (JJ inúmeras)
+        (NP 
+         (NNS confissões)
+         (JJ protestantes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

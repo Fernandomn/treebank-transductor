@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS UGT)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB definiu)
+      (RB ontem)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS actuação)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT os)
+      (NP 
+       (CD próximos)
+       (NP 
+        (CD quatro)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

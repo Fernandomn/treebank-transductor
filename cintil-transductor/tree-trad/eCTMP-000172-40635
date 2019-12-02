@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS sorte)
+   )
+   (VP 
+    (VB estava)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS lado)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Portugal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

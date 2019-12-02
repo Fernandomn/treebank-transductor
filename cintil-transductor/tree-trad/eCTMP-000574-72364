@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT estes)
+      (NP 
+       (CD dois)
+       (NNS encontros)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS questões)
+      (JJ comunitárias)
+     )
+    )
+    (VP 
+     (VB vão)
+     (VP 
+      (VB estar)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD primeira)
+         (NNS linha)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

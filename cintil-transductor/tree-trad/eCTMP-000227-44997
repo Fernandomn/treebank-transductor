@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB Somos)
+       (JJ favoritos)
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT o)
+       (NNS Espinho)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB deve)
+       )
+       (VP 
+        (VB ser)
+        (VB desvalorizado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

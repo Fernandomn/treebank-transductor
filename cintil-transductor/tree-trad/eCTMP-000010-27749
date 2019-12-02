@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Lobos)
+  )
+  (VP 
+   (VP 
+    (VB leiloados)
+   )
+   (ADVP 
+    (RB junto)
+    (PP 
+     (IN a)
+     (NP 
+      (NNS Montesinho)
+     )
+    )
+   )
+  )
+ )
+)

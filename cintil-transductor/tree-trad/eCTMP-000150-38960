@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Francisco)
+     (NNS Carvalho)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB herdou)
+      )
+      (RB assim)
+     )
+     (NP 
+      (DT a)
+      (NNS liderança)
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB vencendo)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS frente)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Tomás)
+             (NNS Megre)
+             (NNS e)
+             (NNS de)
+             (NNS Sande)
+             (NNS e)
+             (NNS Castro)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Cavaco)
+  )
+  (VP 
+   (VP 
+    (VB nomeia)
+    (NP 
+     (NNS Peneda)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NNS Bruxelas)
+    )
+   )
+  )
+ )
+)

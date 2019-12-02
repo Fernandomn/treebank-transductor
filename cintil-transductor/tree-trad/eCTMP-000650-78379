@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Guerra)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NNS gasolinas)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB continua)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Braga)
+    )
+   )
+  )
+ )
+)

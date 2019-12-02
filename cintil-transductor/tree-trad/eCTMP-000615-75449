@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS substituição)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Kenny)
+         (NNS Clarke)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Connie)
+        (NNS Kay)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB conferiu)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS MJQ)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (PP seu)
+      (NP 
+       (NNS rosto)
+       (JJ definitivo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

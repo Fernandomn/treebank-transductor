@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Cinco)
+    (NNS pessoas)
+   )
+   (VP 
+    (VP 
+     (VB morreram)
+     (RB ontem)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NP 
+        (NNS acidentes)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS viação)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS estradas)
+          (JJ portuguesas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

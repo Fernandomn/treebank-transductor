@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS ASPP)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB reunirá)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NNS apoiantes)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS plenário)
+        (JJ nacional)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS discussão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS problemas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS polícia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

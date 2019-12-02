@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS entrada)
+     (JJ central)
+    )
+   )
+   (VP 
+    (VB será)
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS delegados)
+       (NP 
+        (CC e)
+        (NP 
+         (NNS elementos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS comunicação)
+            (JJ social)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

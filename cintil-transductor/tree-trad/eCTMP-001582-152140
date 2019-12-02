@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (PRP ela)
+    )
+   )
+   (S 
+    (VP 
+     (VB participaram)
+    )
+    (NP 
+     (NP 
+      (NNS representantes)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP todos)
+        (NP 
+         (DT os)
+         (NP 
+          (NP 
+           (NNS sindicatos)
+           (JJ policiais)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS União)
+             (NNS Europeia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

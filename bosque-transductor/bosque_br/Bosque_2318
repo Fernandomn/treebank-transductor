@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Toda_vez_que)
+    )
+    (NP 
+     (DT um)
+     (NN crime)
+     (VP 
+      (VP 
+       (VBN cometido)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN representantes)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN poder)
+          (ADJP 
+           (JJ público)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP fica)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NN punição)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN ônus)
+   )
+   (VP 
+    (VBP recai)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT a)
+     (NN corporação)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT um)
+     (DT todo)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG gerando)
+    )
+    (NP 
+     (DT um)
+     (NN turbilhão)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP indiferência)
+      )
+      (NP 
+       (DT os)
+       (NN bons)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (JJ maus)
+        (NN policiais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

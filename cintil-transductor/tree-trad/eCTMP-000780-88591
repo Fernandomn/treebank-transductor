@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NNS sonho)
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (JJ possível)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS homem)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB tinha)
+            (PP 
+             (PP 
+              (IN em_)
+              (NP 
+               (DT as)
+               (NP 
+                (NNS palavras)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NP 
+                   (NNS Jean)
+                   (NNS Cocteau)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+           (NP 
+            (NP 
+             (DT uma)
+             (NP 
+              (NNS alma)
+              (ADJP 
+               (JJ ambulante)
+               (ADJP 
+                (CC e)
+                (JJ santa)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

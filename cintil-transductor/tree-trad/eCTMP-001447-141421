@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Volvo)
+     (NNS ECC)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB já)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NP 
+        (JJ familiar)
+       )
+       (ADJP 
+        (JJ típico)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esta)
+          (NP 
+           (NNS marca)
+           (JJ sueca)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (CD quatro)
+         (NP 
+          (NNS lugares)
+          (ADJP 
+           (JJ confortáveis)
+           (ADJP 
+            (CC e)
+            (JJ espaçosos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

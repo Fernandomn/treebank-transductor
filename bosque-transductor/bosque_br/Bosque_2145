@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP FHC)
+    )
+    e
+    (NP 
+     (NNP Malan)
+    )
+   )
+   (VP 
+    (VBP deverão)
+    (VB defender)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN uso)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN reservas)
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (ADJP 
+     (JJ necessário)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB salvar)
+       )
+       (NP 
+        (DT o)
+        (NN acordo)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN dívida)
+         )
+        )
+        (PP 
+         (IN sem)
+         (VP 
+          (PRP o_qual)
+          (NP 
+           (DT o)
+           (NN país)
+          )
+          (ADVP 
+           (RB não)
+          )
+          (VP 
+           (VBP normalizará)
+          )
+          (NP 
+           (DT suas)
+           (NN relações)
+           (ADJP 
+            (JJ financeiras)
+           )
+           (ADJP 
+            (JJ internacionais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

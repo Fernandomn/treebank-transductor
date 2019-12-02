@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Broz)
+   )
+   (S 
+    (VP 
+     (ADVP 
+      (RB Não)
+     )
+     (VP 
+      (VBP tenho)
+     )
+     (NP 
+      (DT a)
+      (NN receita)
+      (ADJP 
+       (JJ exata)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP tenho)
+     )
+     (NP 
+      (DT a)
+      (NN certeza)
+      (PP 
+       (IN de)
+       (VP 
+        (IN que)
+        (NP 
+         (PRP algo)
+        )
+        (VP 
+         (VBP precisa)
+        )
+        (VP 
+         (VP 
+          (VB ser)
+          (VBN feito)
+         )
+         (PP 
+          (IN diante_de+)
+          (NP 
+           (DT o)
+           (NN confronto)
+           (PP 
+            (IN entre)
+            (NP 
+             (NN nacionalismo)
+             (ADJP 
+              (ADJP 
+               (JJ albanês)
+              )
+              e
+              (ADJP 
+               (JJ sérvio)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

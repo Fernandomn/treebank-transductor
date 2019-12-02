@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (NP 
+    (DT as)
+    (NN concessões)
+    (PP 
+     (IN de)
+     (NP 
+      (NN financiamento)
+      (ADJP 
+       (JJ bancário)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (ADJP 
+     (JJ restritas)
+    )
+    e
+    (ADJP 
+     (JJ elitistas)
+    )
+   )
+  )
+ )
+)

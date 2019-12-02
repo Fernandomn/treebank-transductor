@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS finalistas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS cursos)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Formação)
+           (NNS de)
+           (NNS Actores)
+           (NNS e)
+           (NNS Realização)
+           (NNS Plástica)
+           (NNS de_)
+           (NNS a)
+           (NNS Escola)
+           (NNS Superior)
+           (NNS de)
+           (NNS Teatro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB apresentaram)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS segunda-feira)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS exercício)
+       (JJ teatral)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS praxe)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

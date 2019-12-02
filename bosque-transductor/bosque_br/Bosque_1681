@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ quinta)
+    (NN rodada)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Superliga_Nacional_Masculina)
+      (PP 
+       (IN de)
+       (NP 
+        (NN Vôlei)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN temporada)
+          (ADJP 
+           (CD 94/95)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP prossegue)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT mais)
+     (CD quatro)
+     (NN jogos)
+    )
+   )
+  )
+ )
+)

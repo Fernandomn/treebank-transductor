@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB Será)
+        (NP 
+         (NNS Leandro)
+        )
+       )
+       (NP 
+        (DT o)
+        (NNS avançado)
+       )
+      )
+      (RB inicialmente)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS campo)
+      )
+     )
+    )
+   )
+   (S 
+    (CC ou)
+    (S 
+     (NP 
+      (NNS Octávio)
+     )
+     (VP 
+      (VB apostará)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Iordanov)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

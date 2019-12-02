@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS emergência)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS CE)
+    )
+    (VP 
+     (VB decidiu)
+     (VP 
+      (VB aceitar)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS oferta)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS tropas)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NP 
+               (NNS países)
+               (JJ islâmicos)
+              )
+              (ADJP 
+               (JJ moderados)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

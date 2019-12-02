@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT aquele)
+      (NNS crime)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS arguida)
+    )
+    (VP 
+     (VP 
+      (VB incorre)
+      (RB agora)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS pena)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB pode)
+           (VP 
+            (VB ir)
+            (PP 
+             (PP 
+              (IN até)
+              (IN a_)
+             )
+             (NP 
+              (DT os)
+              (NP 
+               (CD 10)
+               (NP 
+                (NNS anos)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS prisão)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

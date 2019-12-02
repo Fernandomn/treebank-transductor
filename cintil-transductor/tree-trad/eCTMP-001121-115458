@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS remodelação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS política)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS arquivos)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VP 
+      (VB ser)
+      (VB feita)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS forma)
+        (JJ reflectida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

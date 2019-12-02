@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Anafre)
+  )
+  (VP 
+   (VB recorre)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Provedor)
+      (NNS de)
+      (NNS Justiça)
+     )
+    )
+   )
+  )
+ )
+)

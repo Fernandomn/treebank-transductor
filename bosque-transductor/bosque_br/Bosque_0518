@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Rio_Branco)
+   )
+   (VP 
+    (VBP ganha)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NNP Santo_André)
+    )
+   )
+   (ADVP 
+    (PP 
+     (IN por)
+     (NP 
+      (CD 2)
+     )
+    )
+    (PP 
+     (IN a)
+     (ADJP 
+      (CD 0)
+     )
+    )
+   )
+  )
+ )
+)

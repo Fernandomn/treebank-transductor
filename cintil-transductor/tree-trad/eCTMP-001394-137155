@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS Sporting)
+  )
+  (VP 
+   (VP 
+    (VP 
+     (RB não)
+     (VB marca)
+    )
+    (NP 
+     (NNS golos)
+    )
+   )
+   (CONJP 
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (CD 49)
+       (NNS dias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

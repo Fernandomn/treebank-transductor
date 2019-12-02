@@ -1,0 +1,116 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN mesa)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB encostar)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN jacarandá)
+      (ADJP 
+       (JJ claro)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBN feita)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN mão)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Rio)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN século)
+       (ADJP 
+        (CD 18)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN leilão)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (JJ próximo)
+     (NN mês)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 15)
+      (NN mil)
+     )
+     (NP 
+      (NN preço)
+      (ADJP 
+       (JJ equivalente)
+       (PP 
+        (IN a)
+        (NP 
+         (CD dois)
+         (NN carros)
+         (ADJP 
+          (JJ populares)
+         )
+         (NP 
+          (CD zero)
+          (NN quilômetro)
+         )
+         (NP 
+          (RB como)
+          (NP 
+           (DT o)
+           (NN Fusca)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

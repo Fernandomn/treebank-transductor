@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS analistas)
+   )
+   (VP 
+    (VB previam)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS diminuição)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD cinco)
+         (CD mil)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

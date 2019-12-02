@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (NP 
+    (NN primo)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Curica)
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Floriano_Graça)
+      )
+     )
+    )
+   )
+  )
+ )
+)

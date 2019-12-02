@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS força)
+      (CONJP 
+       (PP 
+        (IN de)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB falava)
+          (ADVP 
+           (RB afinal)
+          )
+         )
+        )
+        (NP 
+         (NNS Mutimati)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

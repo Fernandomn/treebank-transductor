@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS opinião)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS alunos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT esta)
+     (NP 
+      (CD última)
+      (NNS deliberação)
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS mínimo)
+        )
+       )
+      )
+     )
+     (JJ insólita)
+    )
+   )
+  )
+ )
+)

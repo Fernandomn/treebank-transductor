@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (VB feita)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS actualização)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS cadernos)
+        (JJ eleitorais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

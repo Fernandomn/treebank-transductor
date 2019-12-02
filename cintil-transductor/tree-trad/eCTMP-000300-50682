@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS oferta)
+     (JJ hostil)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB obriga)
+       (ADVP 
+        (RB ainda)
+       )
+      )
+      (NP 
+       (NP 
+        (PRP quem)
+       )
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB está)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS acordo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB promover)
+      (NP 
+       (NP 
+        (NNS medidas)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS carácter)
+           (JJ defensivo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (RB sempre)
+    (VP 
+     (VB tive)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS opinião)
+        (ADJP 
+         (RB muito)
+         (JJ clara)
+        )
+       )
+       (PP 
+        (PP 
+         (IN a)
+         (IN respeito)
+         (IN de)
+        )
+        (NP 
+         (NNS Timor)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

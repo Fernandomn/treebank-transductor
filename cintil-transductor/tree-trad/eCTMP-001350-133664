@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT outro)
+      )
+     )
+    )
+    (VP 
+     (VB estamos)
+     (ADVP 
+      (RB diante)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (DT um)
+         (NP 
+          (NP 
+           (NNS projecto)
+           (ADJP 
+            (JJ coerente)
+            (ADJP 
+             (CC e)
+             (JJ global)
+            )
+           )
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS modernização)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS Portugal)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

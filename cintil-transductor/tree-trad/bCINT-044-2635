@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS herança)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB é)
+       )
+       (JJ boa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

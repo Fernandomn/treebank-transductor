@@ -1,0 +1,86 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (RB Apenas)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS questão)
+       (NNS 2.2)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB pareceu)
+       (VP 
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS ponto)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS vista)
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT os)
+                 (NNS alunos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VB ter)
+         (NP 
+          (DT um)
+          (NP 
+           (NP 
+            (NNS grau)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS dificuldade)
+             )
+            )
+           )
+           (ADJP 
+            (ADVP 
+             (RB um)
+             (RB pouco)
+            )
+            (JJ superior)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN segundo)
+       (NP 
+        (DT a)
+        (NNS SPF)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

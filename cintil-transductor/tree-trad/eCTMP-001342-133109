@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS produção)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Teatro)
+         (NNS Meridional)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS reflexão)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NNS teatro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

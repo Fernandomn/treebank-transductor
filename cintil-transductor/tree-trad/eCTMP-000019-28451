@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Clinton)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB mais)
+      (JJ novo)
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS idade)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NNS ideias)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,124 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Por_exemplo)
+   )
+   (NP 
+    (DT o)
+    (NN master-franqueado)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Arby's)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP México)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP enfrentará)
+   )
+   (NP 
+    (NP 
+     (DT menos)
+     (NN problemas)
+    )
+    e
+    (NP 
+     (DT menos)
+     (NN burocracia)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB importar)
+     )
+     (NP 
+      (NP 
+       (DT o)
+       (NN rosbife)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (PP 
+         (IN ao_contrário_de+)
+         (NP 
+          (DT o)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP ocorre)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NNP Arby's)
+             (NP 
+              (NNP Brasil)
+             )
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VBP vem)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NNP EUA)
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (DT as)
+       (NN batatinhas)
+       (ADJP 
+        (JJ canadenses)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP serve)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (DT seus)
+          (NN restaurantes)
+          (UCP 
+           (ADJP 
+            (JJ próprios)
+           )
+           e
+           (VBN franqueados)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN ação)
+   )
+   (VP 
+    (VBP alega)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NNP Petroplastic)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP considera)
+    )
+    (NP 
+     (DT a)
+     (NNP Dow)
+    )
+    (ADJP 
+     (JJ acionista)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Triunfo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

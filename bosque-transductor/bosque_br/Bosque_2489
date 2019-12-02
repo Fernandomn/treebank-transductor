@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN nome)
+   )
+   (VP 
+    (VBP seria)
+   )
+   (NP 
+    (DT uma)
+    (NN tentativa)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB passar)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT as)
+        (NN pessoas)
+       )
+      )
+      (NP 
+       (DT o)
+       (NN conceito)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NP auto-suficiência)
+          (VP 
+           (NP 
+            (DT cada)
+            (NN ser)
+           )
+           (VP 
+            (VBP é)
+           )
+           (NP 
+            (DT um)
+            (NN planeta)
+           )
+          )
+         )
+        )
+        mas
+        (PP 
+         (RB também)
+         (IN de)
+         (NP 
+          (NP inter-relação)
+          (PP 
+           (IN entre)
+           (NP 
+            (DT os)
+            (NN planetas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

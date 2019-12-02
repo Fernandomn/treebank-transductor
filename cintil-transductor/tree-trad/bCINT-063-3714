@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (NNS definição)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS cidade)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NNS utopia)
+     )
+    )
+   )
+  )
+ )
+)

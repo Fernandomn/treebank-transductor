@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NNS Legislação)
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VB foi)
+    (VP 
+     (VB promulgada)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Presidente)
+        (NNS de_)
+        (NNS a)
+        (NNS República)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

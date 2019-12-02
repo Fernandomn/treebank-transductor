@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cartas)
+   )
+   (VP 
+    (VBP devem)
+    (VB ser)
+   )
+   (VP 
+    (VP 
+     (VBN enviadas)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN al.)
+      (NP 
+       (NN Barão)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Limeira)
+        )
+       )
+      )
+      (ADJP 
+       (CD 425)
+      )
+      (NP 
+       (JJ 8º)
+       (NN andar)
+      )
+      (NP 
+       (NNP São_Paulo)
+       (NP 
+        (NNP SP)
+       )
+      )
+      (NP 
+       (NN CEP)
+       (ADJP 
+        (CD 01202-001)
+       )
+      )
+      (NP 
+       (NN a.c.)
+       (NP 
+        (NNP Junia_Nogueira_de_Sá/Ombudsman)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

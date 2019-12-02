@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS crítico)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT este)
+        (NNS jornal)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB há)
+     (NP 
+      (NP 
+       (PRP muita)
+       (NP 
+        (NNS falta)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS silêncio)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ nova)
+       (NP 
+        (NNS versão)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS filme)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

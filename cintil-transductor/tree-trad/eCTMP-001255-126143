@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS câmara)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS televisão)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB pesa)
+    (NP 
+     (NP 
+      (ADVP 
+       (RB cerca)
+       (RB de)
+      )
+      (CD dez)
+     )
+     (NNS quilos)
+    )
+   )
+  )
+ )
+)

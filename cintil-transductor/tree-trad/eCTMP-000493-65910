@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Sei)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB temos)
+         (PP 
+          (IN de)
+          (VP 
+           (VP 
+            (VB ter)
+            (NP 
+             (NNS sucesso)
+            )
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS mercado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB temos)
+      (NP 
+       (PRP algumas)
+       (NP 
+        (NNS obrigações)
+        (JJ suplementares)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

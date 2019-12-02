@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alfred)
+     (NNS Stepan)
+    )
+   )
+   (VP 
+    (VB teve)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS percurso)
+       (ADJP 
+        (JJ académico)
+        (ADJP 
+         (CC e)
+         (JJ profissional)
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (RB mais)
+        (JJ variado)
+       )
+       de_ o que
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB é)
+           (JJ típico)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

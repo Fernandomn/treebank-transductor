@@ -1,0 +1,86 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS FITCM)
+    )
+    (VP 
+     (VB poderá)
+     (VP 
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT essa)
+         (NNS altura)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB apresentar)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Maia)
+         )
+        )
+       )
+       (NP 
+        (DT um)
+        (NP 
+         (JJ vasto)
+         (NP 
+          (NNS número)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS companhias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS público)
+     )
+     (VP 
+      (VB beneficiará)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (JJ maior)
+         (NP 
+          (NNS periodicidade)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS iniciativas)
+             (JJ culturais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

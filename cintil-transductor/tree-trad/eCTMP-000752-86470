@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB É)
+      (NP 
+       (NP 
+        (NP 
+         (NNS membro)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Comissão)
+            (NNS Nacional)
+            (NNS de_)
+            (NNS o)
+            (NNS PS)
+           )
+          )
+         )
+        )
+        (ADJP 
+         (VB eleito)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS lista)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Jorge)
+               (NNS Sampaio)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB distanciou)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS sampaísmo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

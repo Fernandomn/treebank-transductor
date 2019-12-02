@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADJP 
+    (RB mais)
+    (JJ eficiente)
+    (SBAR do_que
+     (S 
+      (IN por)
+      (NP 
+       (RB apenas)
+       (CD quatro)
+       (NN anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

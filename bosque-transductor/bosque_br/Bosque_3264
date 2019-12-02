@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fernando_Henrique)
+   )
+   (VP 
+    (VBP apareceu)
+   )
+   (PP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN rádio)
+     )
+    )
+    e
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN televisão)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG dizendo)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP existe)
+     )
+     (NP 
+      (PRP nada)
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT o)
+       (DT seu)
+       (NN vice)
+      )
+     )
+    )
+   )
+  )
+ )
+)

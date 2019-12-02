@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN parte)
+    (ADJP 
+     (JJ econômica)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN programa)
+     )
+    )
+   )
+   (VP 
+    (VBP poderá)
+    (VB ser)
+    (VBN elaborada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NP ex-ministro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Fazenda)
+       (NP 
+        (NNP Gustavo_Krause)
+       )
+       (NP 
+        (NNP PFL-PE)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

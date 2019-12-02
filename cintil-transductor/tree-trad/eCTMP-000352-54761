@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS cama)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS cama)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP meu)
+          (NNS avô)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,105 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS técnica)
+      (JJ dominante)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT esta)
+       (NNS fase)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (RB essencialmente)
+     )
+     (JJ animalista)
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NP 
+         (JJ aparente)
+         (NP 
+          (NNS ausência)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS signos)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ única)
+           (NP 
+            (NNS representação)
+            (JJ humana)
+           )
+          )
+         )
+         (NP 
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NP 
+              (NNS Homem)
+              (NNS de)
+              (NNS Piscos)
+             )
+            )
+            (ADJP 
+             (ADJP 
+              (ADJP 
+               (VB descoberto)
+               (PP 
+                (IN em)
+                (NP 
+                 (NNS Fevereiro)
+                )
+               )
+              )
+              (PP 
+               (IN em_)
+               (NP 
+                (DT a)
+                (NP 
+                 (NNS ribeira)
+                 (NNS de)
+                 (NNS Piscos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

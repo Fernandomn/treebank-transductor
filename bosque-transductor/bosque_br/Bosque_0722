@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Vamos)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN calma)
+     )
+    )
+    (VP 
+     (VB achar)
+    )
+    (NP 
+     (DT o)
+     (NN substituto)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Éder)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

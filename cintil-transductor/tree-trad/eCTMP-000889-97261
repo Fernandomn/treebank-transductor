@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS colagens)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (ADJP 
+      (ADJP 
+       (JJ neo-pós-dadaístas)
+      )
+      (ADJP 
+       (CC mas)
+       (JJ concretas)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (JJ abstracto)
+        )
+       )
+       (VP 
+        (VB é)
+        (ADJP 
+         (RB demasiado)
+         (JJ aborrecido)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

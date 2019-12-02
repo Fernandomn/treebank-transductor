@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS argentinos)
+   )
+   (VP 
+    (VP 
+     (VB falharam)
+     (NP 
+      (DT o)
+      (NNS penalty)
+     )
+    )
+    (CC em_)
+    (CC a)
+    (CC medida)
+    (CC em)
+    (CC que)
+    (S 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS penalty)
+       (ADJP 
+        (RB bem)
+        (VB marcado)
+       )
+      )
+     )
+     (VP 
+      (VB é)
+      (JJ indefensável)
+     )
+    )
+   )
+  )
+ )
+)

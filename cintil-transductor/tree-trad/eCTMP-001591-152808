@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS secretário-geral)
+      (NNS de_)
+      (NNS as)
+      (NNS Nações)
+      (NNS Unidas)
+     )
+    )
+    (NP 
+     (NNS Butros-Ghali)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB condenou)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS ofensiva)
+        (JJ croata)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Krajina)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

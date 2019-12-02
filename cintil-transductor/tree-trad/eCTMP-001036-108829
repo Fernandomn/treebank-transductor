@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Finalmente)
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS tempos)
+    )
+    (VP 
+     (VB dão)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS noção)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS controlo)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS tabuleiro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

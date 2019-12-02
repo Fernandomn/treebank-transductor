@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NP 
+      (NNS equipas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS ex-colónias)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB podiam)
+     )
+     (VP 
+      (VB disputar)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS campeonatos)
+        (JJ nacionais)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (RB também)
+     (S 
+      (NP 
+       (DT as)
+       (NNS ilhas)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB tinham)
+       )
+       (NP 
+        (NNS representantes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NN músico)
+     )
+     e
+     (NP 
+      (NN humorista)
+     )
+    )
+    (NP 
+     (NNP Juca_Chaves)
+    )
+   )
+   (VP 
+    (VBP inaugura)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 5)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN outubro)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT as)
+     (NN 22h)
+    )
+   )
+   (NP 
+    (DT um)
+    (JJ novo)
+    (NN teatro)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+  )
+ )
+)

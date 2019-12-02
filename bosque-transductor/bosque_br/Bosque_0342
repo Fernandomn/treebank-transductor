@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cientistas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+   )
+   (VP 
+    (VBP confirmaram)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Quito)
+     (NP 
+      (NNP Equador)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN contaminação)
+    (VP 
+     (VP 
+      (VBN causada)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN atividades)
+       (ADJP 
+        (JJ petrolíferas)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Amazônia)
+     (ADJP 
+      (JJ equatoriana)
+     )
+    )
+   )
+  )
+ )
+)

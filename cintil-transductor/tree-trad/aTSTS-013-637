@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB subdividiu)
+     (NP 
+      (DT o)
+      (NNS dinheiro)
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS família)
+     )
+    )
+   )
+  )
+ )
+)

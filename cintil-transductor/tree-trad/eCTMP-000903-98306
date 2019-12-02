@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS gravação)
+       (CONJP 
+        (PP 
+         (IN a)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (VP 
+          (VB assistimos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT isso)
+    )
+    (S 
+     (RB nem)
+     (S 
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB verificou)
+      )
+     )
+    )
+   )
+  )
+ )
+)

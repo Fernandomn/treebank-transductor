@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (DT Este)
+      )
+      (VP 
+       (VP 
+        (VB é)
+        (ADVP 
+         (RB de)
+         (RB facto)
+        )
+       )
+       (NP 
+        (DT um)
+        (NP 
+         (NNS problema)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (RB já)
+            (VP 
+             (VB deveria)
+             (VP 
+              (VB estar)
+              (ADJP 
+               (VB resolvido)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS José)
+       (NNS Cabrita)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS director-geral)
+       (NNS de_)
+       (NNS o)
+       (NNS Planeamento)
+       (NNS de_)
+       (NNS o)
+       (NNS Ministério)
+       (NNS de_)
+       (NNS a)
+       (NNS Agricultura)
+      )
+     )
+    )
+   )
+  )
+ )
+)

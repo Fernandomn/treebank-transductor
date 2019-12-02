@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em)
+     (IN prol)
+     (IN de_)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS rede)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS bibliotecas)
+         (JJ escolares)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

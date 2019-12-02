@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Benfica)
+  )
+  (VP 
+   (VP 
+    (VB cedeu)
+    (NP 
+     (NNS ponto)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NNS Barreiros)
+    )
+   )
+  )
+ )
+)

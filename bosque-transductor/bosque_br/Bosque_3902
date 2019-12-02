@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Mercedes-Benz)
+   )
+   (VP 
+    (VBP deve)
+    (VB instalar)
+   )
+   (NP 
+    (DT a)
+    (NN linha)
+    (PP 
+     (IN de)
+     (NP 
+      (NN montagem)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Swatch)
+      (NP 
+       (NN carro)
+       (ADJP 
+        (JJ compacto)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN design)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN fabricante)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT os)
+             (NN relógios)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT a)
+               (NN marca)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Sarreguemines)
+     (NP 
+      (NN cidade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN norte)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP França)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

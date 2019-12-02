@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sem)
+    (VP 
+     (VP 
+      (VB revelar)
+     )
+     (NP 
+      (DT o)
+      (NN coração)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN plano)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Itamar)
+   )
+   (VP 
+    (VBP rebatizou)
+   )
+   (NP 
+    (DT o)
+    (NN conjunto)
+    (PP 
+     (IN de)
+     (NP 
+      (NN medidas)
+      (VP 
+       (VP 
+        (VBN elaboradas)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NN equipe)
+         (ADJP 
+          (JJ econômica)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN ex-ministro_da_Fazenda)
+           (NP 
+            (NNP Fernando_Henrique_Cardoso)
+            (PP 
+             (IN de)
+             (NP 
+              (NNP Plano_Real)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

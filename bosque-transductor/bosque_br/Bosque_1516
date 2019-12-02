@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN paulistanos)
+   )
+   (VP 
+    (VBP estão)
+    (VBG pagando)
+   )
+   (ADVP 
+    (RB menos)
+   )
+   (PP 
+    (RB também)
+    (IN por+)
+    (NP 
+     (DT os)
+     (NN produtos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN cesta)
+       (ADJP 
+        (JJ básica)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

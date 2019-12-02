@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Tivoli)
+      (PP 
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB houve)
+    (NP 
+     (NNS fado)
+    )
+   )
+  )
+ )
+)

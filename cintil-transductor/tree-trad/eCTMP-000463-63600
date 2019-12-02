@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS ambiente)
+   )
+   (VP 
+    (VB sugere)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS angústia)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS corredor)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN antes)
+        (IN de_)
+       )
+       (NP 
+        (DT a)
+        (NNS corrida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Posteriormente)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS dívida)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (JJ curto)
+         (NNS prazo)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (VB saldada)
+     )
+     (PP 
+      (PP 
+       (IN através)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS produto)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS venda)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS activos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

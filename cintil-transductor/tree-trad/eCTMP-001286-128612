@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ganda)
+    )
+    (NP 
+     (NP 
+      (NNS cidade)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD 40)
+         (CD mil)
+        )
+        (NNS habitantes)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (JJ único)
+       (NNS lugar)
+      )
+      (CONJP 
+       (RB onde)
+       (S 
+        (NP 
+         (DT o)
+         (NNS aprovisionamento)
+        )
+        (VP 
+         (RB ainda)
+         (VP 
+          (VP 
+           (VB é)
+           (JJ possível)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

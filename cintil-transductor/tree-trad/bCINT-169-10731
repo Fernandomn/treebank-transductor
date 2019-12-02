@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NNS Trabalhistas)
+  )
+  (VP 
+   (VP 
+    (VB solicitam)
+    (PP 
+     (IN a)
+     (NP 
+      (NNS tribunal)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNS anulação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS eleições)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Israel)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

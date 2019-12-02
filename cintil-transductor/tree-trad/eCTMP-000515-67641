@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS sucesso)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS privatização)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB houve)
+     )
+     (NP 
+      (NP 
+       (NNS leilão)
+       (JJ competitivo)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD duas)
+      (NNS voltas)
+     )
+    )
+   )
+  )
+ )
+)

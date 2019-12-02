@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Acrescenta)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (JJ cinquentenário)
+     (NN instituto)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB a_exemplo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Nielsen)
+        )
+       )
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (NN atuação)
+       (ADJP 
+        (JJ internacional)
+       )
+      )
+     )
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP dispõe)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB oferecer)
+      )
+      (NP 
+       (JJ eventuais)
+       (NN relatórios)
+       (VP 
+        (VP 
+         (VBN diferenciados)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN concorrente)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBG Tendo)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN mente)
+     )
+    )
+    (NP 
+     (DT o)
+     (NNP Japão)
+    )
+   )
+   (NP 
+    (DT os)
+    (NNP EUA)
+   )
+   (VP 
+    (VBP reinstalaram)
+   )
+   (ADVP 
+    (RB recentemente)
+   )
+   (NP 
+    (DT a)
+    (NN cláusula)
+    (VP 
+     (VP 
+      (VBN conhecida)
+     )
+     (ADVP 
+      (RB como)
+      (NP 
+       (NNP Super-301)
+       (NP 
+        (NN mecanismo)
+        (ADJP 
+         (JJ legal)
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP amplia)
+         )
+         (NP 
+          (DT os)
+          (NN poderes)
+          (PP 
+           (IN de)
+           (NP 
+            (NN retaliação)
+            (ADJP 
+             (JJ comercial)
+            )
+            (PP 
+             (IN de+)
+             (NP 
+              (DT a)
+              (NNP Casa_Branca)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

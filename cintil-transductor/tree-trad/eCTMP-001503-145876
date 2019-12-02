@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT esta)
+     (NNS vez)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS percentagem)
+    )
+    (VP 
+     (VB foi)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (CD 79)
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

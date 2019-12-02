@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS continente)
+       (JJ americano)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS EUA)
+    )
+    (VP 
+     (VP 
+      (VB estão)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ocupar)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS América)
+          (NNS Latina)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NP 
+       (NNS Major)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS George)
+         (NNS Carey)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS carta)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Isabel)
+         (NNS II)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (NP 
+      (NNS surpresa)
+     )
+    )
+   )
+  )
+ )
+)

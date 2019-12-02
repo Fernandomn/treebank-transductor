@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN No_caso_de)
+    (UCP 
+     (NP 
+      (NN impedimento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN presidente)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN República)
+         )
+        )
+       )
+      )
+     )
+     ou
+     (PP 
+      (IN de)
+      (NP 
+       (NN vacância)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN cargo)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT os)
+         (JJ primeiros)
+         (CD dois)
+         (NN anos)
+         (PP 
+          (IN de)
+          (NP 
+           (NN mandato)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN substituição)
+   )
+   (VP 
+    (VBP será)
+    (VBN feita)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de)
+     (NP 
+      (NN eleição)
+      (ADJP 
+       (JJ direta)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD 90)
+     (NN dias)
+    )
+   )
+  )
+ )
+)

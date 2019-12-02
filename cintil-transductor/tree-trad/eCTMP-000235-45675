@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS decisão)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB tomada)
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS assembleia)
+        (NNS geral)
+        (NNS de_)
+        (NNS a)
+        (NNS Associação)
+        (NNS Sócio-Profissional)
+        (NNS de_)
+        (NNS a)
+        (NNS Polícia)
+        (NNS Marítima)
+        (NNS e)
+        (NNS Cabos)
+        (NNS de_)
+        (NNS o)
+        (NNS Mar)
+       )
+       (ADJP 
+        (VB realizada)
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS sábado)
+          )
+         )
+         (PP 
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Lisboa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

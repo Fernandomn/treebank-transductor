@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS Rua)
+      (NNS Heróis)
+      (NNS de_)
+      (NNS a)
+      (NNS Grande)
+      (NNS Guerra)
+     )
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB atravessa)
+         (NP 
+          (DT a)
+          (NNS cidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB ficou)
+          (PP 
+           (RB mais)
+           (PP 
+            (IN a_)
+            (NP 
+             (DT as)
+             (NNS escuras)
+            )
+           )
+          )
+         )
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (DT um)
+            (NP 
+             (JJ grande)
+             (NP 
+              (NNS troço)
+              (ADJP 
+               (RB completamente)
+               (JJ apagado)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (DT Muito)
+   (NN N)
+   (NP 
+    (NP 
+     (NP 
+      (NN coisa)
+     )
+     ou
+     (NP 
+      (NN conversa)
+     )
+    )
+    (ADJP 
+     (JJ negativa)
+     (RB demais)
+    )
+   )
+  )
+ )
+)

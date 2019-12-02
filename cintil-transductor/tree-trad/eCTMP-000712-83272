@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Febre)
+    (NP 
+     (NNS Titanic)
+    )
+   )
+  )
+  (VP 
+   (RB também)
+   (VP 
+    (VB chegou)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS China)
+     )
+    )
+   )
+  )
+ )
+)

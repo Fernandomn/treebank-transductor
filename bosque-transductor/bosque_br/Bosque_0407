@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN jornal)
+     (NP 
+      (NNP USA_Today)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN revista)
+   )
+   (VP 
+    (VBP publicará)
+   )
+   (NP 
+    (NN fotos)
+    (PP 
+     (IN em+)
+     (NP 
+      (PRP as_quais)
+     )
+     (VP 
+      (NP 
+       (NNP Harding)
+      )
+      (VP 
+       (VBP aparece)
+      )
+      (VP 
+       (VP 
+        (VBG mantendo)
+       )
+       (NP 
+        (NN relações)
+        (ADJP 
+         (JJ sexuais)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT seu)
+         (NP ex-marido)
+         (NP 
+          (NNP Jeff_Gillooly)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

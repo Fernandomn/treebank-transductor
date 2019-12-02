@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Daria)
+   )
+   (NP 
+    (DT a)
+    (DT mesma)
+    (NN nota)
+   )
+   (PP 
+    (PP 
+     (IN para)
+     (NP 
+      (PRP ele)
+     )
+    )
+    e
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NNP Rossi)
+     )
+    )
+   )
+  )
+ )
+)

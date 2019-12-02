@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Atrás_de)
+    (NP 
+     (NNP Buenos_Aires)
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (NP 
+     (CD duas)
+     (NN cidades)
+     (ADJP 
+      (JJ asiáticas)
+     )
+     (NP 
+      (NP 
+       (NNP Hong_Kong)
+      )
+      e
+      (NP 
+       (NNP Taipé)
+      )
+     )
+    )
+    e
+    (NP 
+     (CD duas)
+     (NN européias)
+     (NP 
+      (NP 
+       (NP 
+        (NNP Zurique)
+       )
+       e
+       (NP 
+        (NNP Genebra)
+       )
+      )
+      (NP 
+       (DT ambas)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NNP Suíça)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

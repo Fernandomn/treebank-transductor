@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (ADJP 
+     (JJ inquestionável)
+     (PP 
+      (IN por)
+      (NP 
+       (PRP nós)
+      )
+     )
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT o)
+      (NNS governo)
+     )
+     (VP 
+      (VB publicou)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT isso)
+        )
+        (VP 
+         (VB seria)
+         (VB feito)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

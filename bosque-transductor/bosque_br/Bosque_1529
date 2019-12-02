@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN droga)
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+    (VBN inalada)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de)
+     (NP 
+      (NN bombinhas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN aerossol)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

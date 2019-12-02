@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT As)
+     (VBN chibatadas)
+    )
+    (VP 
+     (VBP rompem)
+    )
+    (NP 
+     (DT a)
+     (NN pele)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT as)
+     (NN cicatrizes)
+    )
+    (VP 
+     (VBP ficam)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT toda)
+      (DT a)
+      (NN vida)
+     )
+    )
+   )
+  )
+ )
+)

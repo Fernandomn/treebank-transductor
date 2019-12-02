@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB foi)
+    (PP 
+     (RB apenas)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS loja)
+      )
+     )
+    )
+   )
+  )
+ )
+)

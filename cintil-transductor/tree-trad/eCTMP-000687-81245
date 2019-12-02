@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Faculdade)
+     (NNS de)
+     (NNS Direito)
+     (NNS de)
+     (NNS Lisboa)
+    )
+   )
+   (VP 
+    (VB fez)
+    (NP 
+     (CD 85)
+     (NNS anos)
+    )
+   )
+  )
+ )
+)

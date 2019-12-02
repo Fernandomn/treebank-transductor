@@ -1,0 +1,124 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NP 
+      (NNP Lituânia)
+     )
+     e
+     (NP 
+      (NNP Ucrânia)
+     )
+    )
+    (VP 
+     (VBP elogiam)
+    )
+    (NP 
+     (DT a)
+     (NNP Otan)
+    )
+   )
+   (VP 
+    (NP 
+     (DT os)
+     (NN presidentes)
+     (PP 
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Lituânia)
+        (NP 
+         (NNP Algirdas_Zebrauskas)
+        )
+       )
+      )
+      e
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Ucrânia)
+        (NP 
+         (NNP Leonid_Kravtchuk)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP elogiaram)
+    )
+    (ADVP 
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NN programa)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Parceria_pela_Paz)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Otan)
+       (NP 
+        (NN aliança)
+        (ADJP 
+         (JJ militar)
+        )
+        (ADJP 
+         (JJ ocidental)
+        )
+        (VP 
+         (VP 
+          (VBN liderada)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT os)
+           (NNP EUA)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP prevê)
+      )
+      (NP 
+       (NN operações)
+       (ADJP 
+        (JJ conjuntas)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN países)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Leste_Europeu)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

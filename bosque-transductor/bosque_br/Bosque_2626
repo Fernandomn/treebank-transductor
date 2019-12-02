@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (PP 
+     (IN De)
+     (NP 
+      (DT uma)
+      (NN ponta)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (DT outra)
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NN variações)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP são)
+     )
+     (ADJP 
+      (JJ imensas)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP refletem)
+     )
+     (NP 
+      (DT a)
+      (NN instabilidade)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NN economia)
+        (PP 
+         (IN em)
+         (NN inflação)
+         (ADJP 
+          (ADJP 
+           (JJ crônica)
+          )
+          e
+          (ADJP 
+           (JJ alta)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT este)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS futuro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS música)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS câmara)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

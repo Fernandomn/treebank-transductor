@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS saúde)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS economia)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (JJ única)
+      (NNS certeza)
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NNS incerteza)
+     )
+    )
+   )
+  )
+ )
+)

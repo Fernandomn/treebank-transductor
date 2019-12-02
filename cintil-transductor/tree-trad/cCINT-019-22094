@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+        (NP 
+         (NNS turistas)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (PP nosso)
+           (PP próprio)
+          )
+          (NNS país)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS bem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS nação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

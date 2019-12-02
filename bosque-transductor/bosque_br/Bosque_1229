@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Uma)
+     (NN blusa)
+     (ADJP 
+      (JJ preta)
+     )
+    )
+    (VP 
+     (VBP pode)
+     (VB ser)
+     (VBN usada)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (CD um)
+      (NN sutiã)
+      (ADJP 
+       (JJ branco)
+      )
+     )
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (DT a)
+      (NN saia)
+     )
+     (VP 
+      (VBP for)
+     )
+     (ADJP 
+      (JJ branca)
+     )
+    )
+   )
+   (VP 
+    (VBP explica)
+   )
+  )
+ )
+)

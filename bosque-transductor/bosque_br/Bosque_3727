@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (RB Pelo_menos)
+     (CD dez)
+     (NN pessoas)
+    )
+    (VP 
+     (VBP morreram)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (CD 80)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP feriram)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (JJ terceiro)
+      (NN dia)
+      (ADJP 
+       (JJ consecutivo)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN luta)
+        (PP 
+         (IN entre)
+         (NP 
+          (NN facções)
+          (ADJP 
+           (JJ rivais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP Kabul)
+      (NP 
+       (NNP Afeganistão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Vai)
+    (VP 
+     (VB haver)
+     (NP 
+      (NP 
+       (NNS responsabilidade)
+       (JJ criminal)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS caso)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS hemodiálise)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Évora)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

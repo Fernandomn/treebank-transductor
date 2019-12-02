@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS organização)
+     (NP 
+      (CC e)
+      (NNS liderança)
+     )
+    )
+   )
+   (VP 
+    (VB pertenceu)
+    (PP 
+     (IN a_)
+     (NP 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Banco)
+        (NNS Espírito)
+        (NNS Santo)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Banco)
+          (NNS de)
+          (NNS Negócios)
+          (NNS Argentaria)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Banco)
+           (NNS Essi)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

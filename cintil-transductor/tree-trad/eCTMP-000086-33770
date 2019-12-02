@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS troca)
+      )
+     )
+    )
+    (VP 
+     (VB pediu)
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (JJ verdadeiro)
+        (NP 
+         (NP 
+          (NNS apoio)
+          (JJ financeiro)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS comunidade)
+            (JJ internacional)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS consumo)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS marijuana)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS cocaína)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Japão)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (VB aumentado)
+   )
+  )
+ )
+)

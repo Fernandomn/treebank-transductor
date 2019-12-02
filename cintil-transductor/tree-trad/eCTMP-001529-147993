@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS certidão)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS nascimento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS euro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB terá)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS dia)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS atraso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

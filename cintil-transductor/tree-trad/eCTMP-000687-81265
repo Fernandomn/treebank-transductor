@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Zao)
+     (NNS Wou-Ki)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS pintor)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Escola)
+        (NNS de)
+        (NNS Paris)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB expõe)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+  )
+ )
+)

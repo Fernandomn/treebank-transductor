@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Professor)
+    (JJ brasileiro)
+   )
+  )
+  (VP 
+   (VP 
+    (VB lança)
+    (NP 
+     (NNS sementes)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS comunidade)
+      (JJ iberófona)
+     )
+    )
+   )
+  )
+ )
+)

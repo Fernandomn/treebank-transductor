@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Confio)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (DT nossa)
+      (NN equipe)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP espero)
+    )
+    (VP 
+     (VP 
+      (VB sair)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Parque_Antarctica)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN vitória)
+      )
+     )
+    )
+   )
+  )
+ )
+)

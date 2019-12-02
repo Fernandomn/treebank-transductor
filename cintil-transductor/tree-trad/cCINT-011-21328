@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Essa)
+     (NNS Inês)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NNS Castro)
+     )
+    )
+   )
+   (S 
+    (S 
+     (RB então)
+     (S 
+      (NP 
+       (PRP tu)
+      )
+      (VP 
+       (RB não)
+       (VB sabias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

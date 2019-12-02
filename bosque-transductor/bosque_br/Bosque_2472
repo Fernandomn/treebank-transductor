@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP atuou)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN seleção)
+     (ADJP 
+      (JJ argentina)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN Copa)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Estados_Unidos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Agora)
+   )
+   (NP 
+    (DT as)
+    (NN negociações)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ internacionais)
+   )
+   (VP 
+    (NP 
+     (NNP Amélia)
+    )
+    (VP 
+     (VBP vai)
+     (VB conversar)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (DT a)
+       (NNP Krupp)
+       (ADJP 
+        (JJ alemã)
+       )
+      )
+      e
+      (NP 
+       (DT a)
+       (NNP Japan_Steel)
+      )
+     )
+    )
+   )
+  )
+ )
+)

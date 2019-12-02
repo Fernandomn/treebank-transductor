@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (DT outras)
+     (NP 
+      (NP 
+       (NNS cidades)
+       (JJ históricas)
+      )
+      (JJ italianas)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB choravam)
+     (RB ontem)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS danos)
+      (ADJP 
+       (VB causados)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NP 
+           (NNS património)
+           (JJ artístico)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

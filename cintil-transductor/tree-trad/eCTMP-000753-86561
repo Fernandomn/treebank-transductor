@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS documento)
+   )
+   (VP 
+    (VB será)
+    (VP 
+     (RB também)
+     (VP 
+      (VB enviado)
+      (PP 
+       (IN a_)
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS provedor)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Justiça)
+           )
+          )
+         )
+        )
+        (NP 
+         (NP 
+          (NNS Menéres)
+          (NNS Pimentel)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

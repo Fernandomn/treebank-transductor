@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de)
+    (NP 
+     (NP 
+      (NNP Maurício)
+     )
+     (NP 
+      (NNP Carlão)
+     )
+     e
+     (NP 
+      (NNP Paulão)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN seleção)
+   )
+   (VP 
+    (VBP deve)
+    (VB contar)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NNP Giovane)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Chico)
+   )
+   (VP 
+    (RB nunca)
+    (VP 
+     (VB esteve)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Equador.)
+      )
+     )
+    )
+   )
+  )
+ )
+)

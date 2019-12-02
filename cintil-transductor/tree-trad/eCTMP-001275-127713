@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Karen)
+     (NNS Wynn)
+    )
+   )
+   (VP 
+    (VP 
+     (VB demonstra)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NNS estudo)
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (ADVP 
+       (ADVP 
+        (RB de)
+        (RB facto)
+       )
+      )
+      (S 
+       (NP 
+        (DT as)
+        (NNS crianças)
+       )
+       (VB contam)
+      )
+     )
+    )
+   )
+  )
+ )
+)

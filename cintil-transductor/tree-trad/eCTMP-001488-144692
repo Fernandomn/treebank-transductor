@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (NP 
+        (NNS cartazes)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS paus)
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB entram)
+        )
+        (RB hoje)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Estádio)
+          (NNS de_)
+          (NNS a)
+          (NNS Luz)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS organização)
+   )
+   (VP 
+    (VB defende)
+    (NP 
+     (NP 
+      (NP 
+       (NNS aumentos)
+       (JJ salariais)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (CD 12)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

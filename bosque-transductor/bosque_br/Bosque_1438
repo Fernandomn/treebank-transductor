@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN discussão)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN bancada)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP FHC)
+   )
+   (VP 
+    (VBP deve)
+    (VB tratar)
+   )
+   (PP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN revisão)
+      (ADJP 
+       (JJ constitucional)
+      )
+     )
+    )
+    e
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN delegação)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP recebeu)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN partido)
+        )
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB negociar)
+         )
+         (NP 
+          (DT as)
+          (NN alianças)
+          (ADJP 
+           (JJ eleitorais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

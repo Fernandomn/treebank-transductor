@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN tucano)
+    )
+    (VP 
+     (VBP tem)
+     (VBN passado)
+    )
+    (NP 
+     (DT a)
+     (JJ maior)
+     (NN parte)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN tempo)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT seu)
+      (NN quarto)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (PP 
+     (IN ao_contrário_de+)
+     (NP 
+      (DT os)
+      (CD 60)
+      (NN hóspedes)
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tem)
+     (VBN feito)
+    )
+    (NP 
+     (NN exercícios)
+    )
+   )
+  )
+ )
+)

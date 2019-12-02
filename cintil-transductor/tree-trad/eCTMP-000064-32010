@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Renault)
+     (NNS Portuguesa)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB tem)
+      (RB actualmente)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS curso)
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS processo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS despedimento)
+          (JJ colectivo)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (CD 144)
+           (NNS trabalhadores)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

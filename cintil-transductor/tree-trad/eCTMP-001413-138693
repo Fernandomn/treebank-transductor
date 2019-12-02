@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Santana)
+      (NNS Lopes)
+     )
+    )
+    (VP 
+     (VB visitou)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS obras)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS ANIM)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB mostrou)
+      (NP 
+       (NNS peças)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NNS Ajuda)
+   )
+  )
+ )
+)

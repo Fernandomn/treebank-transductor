@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS acções)
+     (PP 
+      (IN de_)
+      (NP 
+       (NP 
+        (DT o)
+        (NNS Australian)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS New)
+          (NNS Zeland)
+          (NNS Bank)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estiveram)
+    (JJ equilibradas)
+   )
+  )
+ )
+)

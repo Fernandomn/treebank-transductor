@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS subida)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VP 
+       (VB atribuída)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NNS operadores)
+        )
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NNS operações)
+         (JJ selectivas)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN depois)
+      (IN de)
+     )
+     (NP 
+      (CD quatro)
+      (NP 
+       (NNS sessões)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS baixa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

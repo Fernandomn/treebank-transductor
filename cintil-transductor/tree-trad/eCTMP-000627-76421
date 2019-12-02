@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Corpo)
+     (JJ clínico)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Évora)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB distancia)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN de_)
+    (NP 
+     (DT a)
+     (NNS administração)
+    )
+   )
+  )
+ )
+)

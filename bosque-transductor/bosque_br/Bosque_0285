@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (IN mesmo_que)
+    (VP 
+     (VBP quisessem)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP conseguiriam)
+   )
+   (VP 
+    (VP 
+     (VB fazer)
+    )
+    (NP 
+     (PRP nada)
+     (ADJP 
+      (JJ menor)
+     )
+    )
+   )
+  )
+ )
+)

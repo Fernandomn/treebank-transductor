@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (VBP depende)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN capacidade)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT o)
+       (NN Parlamento)
+      )
+      (VP 
+       (VBP tiver)
+       (IN de)
+       (VB transmitir)
+      )
+      (NP 
+       (DT as)
+       (DT suas)
+       (NN idéias)
+      )
+      (PP 
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN imprensa)
+        )
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN rádio)
+        )
+       )
+       e
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN televisão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

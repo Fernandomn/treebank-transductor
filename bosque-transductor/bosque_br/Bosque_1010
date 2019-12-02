@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN custo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN processamento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN cheques)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 0.70)
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN folha)
+    )
+   )
+  )
+ )
+)

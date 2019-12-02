@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS OBRAS)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS EIXO)
+       (NNS NORTE-SUL)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB MUDAM)
+   (NP 
+    (NP 
+     (NNS TRÁFEGO)
+     (PP 
+      (IN EM_)
+      (NP 
+       (DT A)
+       (NP 
+        (NNS CALÇADA)
+        (NNS DE)
+        (NNS CARRICHE)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

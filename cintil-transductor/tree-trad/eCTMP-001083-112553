@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT este)
+      (NNS político)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP algumas)
+     (NNS coisas)
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (ADJP 
+       (RB completamente)
+       (JJ absurdas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

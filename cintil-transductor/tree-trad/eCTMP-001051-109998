@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB sei)
+    )
+    (CONJP 
+     (CC se)
+     (S 
+      (NP 
+       (DT estes)
+      )
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB candidatam)
+      )
+     )
+    )
+   )
+  )
+ )
+)

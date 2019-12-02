@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (RB Também)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS área)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS PS)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB detém)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS pelouro)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS promoção)
+           (JJ imobiliária)
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS reconversão)
+            (JJ urbana)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NNS Marcaplac)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (ADVP 
+       (RB mais)
+       (RB de)
+      )
+      (NP 
+       (CD 60)
+       (NP 
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS operários)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (NNS mulheres)
+     )
+    )
+   )
+  )
+ )
+)

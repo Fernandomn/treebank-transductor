@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN dificuldades)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (NN bancos)
+      (ADJP 
+       (ADJP 
+        (JJ federais)
+       )
+       e
+       (ADJP 
+        (JJ estaduais)
+       )
+      )
+     )
+     (ADVP 
+      (RB provavelmente)
+     )
+     (VP 
+      (VBP enfrentarão)
+     )
+    )
+   )
+   (VP 
+    (VBP reforçam)
+   )
+   (NP 
+    (DT as)
+    (NN dúvidas)
+    (PP 
+     (IN quanto_a+)
+     (NP 
+      (DT a)
+      (NN conveniência)
+      (PP 
+       (IN de)
+       (VP 
+        (NP 
+         (DT o)
+         (NN setor)
+         (ADJP 
+          (JJ público)
+         )
+        )
+        (VP 
+         (VB ser)
+        )
+        (NP 
+         (NN proprietário)
+         (PP 
+          (IN de)
+          (NP 
+           (DT tantas)
+           (NN instituições)
+           (ADJP 
+            (JJ financeiras)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

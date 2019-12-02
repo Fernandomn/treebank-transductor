@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NNS Ministro)
+  )
+  (VP 
+   (VB anuncia)
+   (NP 
+    (NP 
+     (NNS reforço)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS luta)
+        (PP 
+         (IN contra)
+         (NP 
+          (DT o)
+          (NNS cancro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

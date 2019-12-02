@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Concessão)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS terminais)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS porto)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Setúbal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

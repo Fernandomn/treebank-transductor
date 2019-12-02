@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB São)
+   )
+   (NP 
+    (DT os)
+    (NN garotos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Nabuco)
+     )
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (VP 
+    (VBP vão)
+    (VB administrar)
+   )
+   (NP 
+    (DT o)
+    (NN negócio)
+   )
+  )
+ )
+)

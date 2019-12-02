@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Concerto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS órgão)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Basílica)
+       (NNS de)
+       (NNS Mafra)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sobre)
+    (NP 
+     (NN reforma)
+     (ADJP 
+      (JJ agrária)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN projeto)
+   )
+   (VP 
+    (VBP prevê)
+   )
+   (NP 
+    (NN terra)
+    (PP 
+     (IN para)
+     (NP 
+      (CD 20)
+      (NN milhões)
+      (PP 
+       (IN de)
+       (NP 
+        (NN pessoas)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN assentamento)
+     (PP 
+      (IN de)
+      (NP 
+       (NN comunidades)
+       (PP 
+        (IN em)
+        (NP 
+         (NN áreas)
+         (ADJP 
+          (JJ vizinhas)
+          (PP 
+           (IN a)
+           (NP 
+            (NN estradas)
+            (ADJP 
+             (JJ vicinais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

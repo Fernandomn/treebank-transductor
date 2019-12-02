@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ninguém)
+    (PP 
+     (IN por)
+     (ADJP 
+      (RB mais)
+      (JJ criança)
+      (VP 
+       (IN que)
+       (VP 
+        (VBP seja)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB ir)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN estádio)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT uma)
+     (NN arma)
+    )
+   )
+  )
+ )
+)

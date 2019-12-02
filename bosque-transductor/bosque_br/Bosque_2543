@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (NN menino)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP gostava)
+     )
+     (PP 
+      (IN de)
+      (VB estudar)
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP queria)
+     )
+     (VP 
+      (VP 
+       (VB ser)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN circo)
+       )
+      )
+      (ADVP 
+       (RB como)
+       (NP 
+        (DT seus)
+        (NN pais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

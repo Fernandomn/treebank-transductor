@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS modelo)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB ficou)
+       (VB definido)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS ano)
+         (JJ passado)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS aposta)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS produção)
+           (JJ nacional)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

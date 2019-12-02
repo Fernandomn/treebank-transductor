@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Foi)
+   )
+   (ADVP 
+    (RB justamente)
+   )
+   (PP 
+    (IN graças_a+)
+    (NP 
+     (DT a)
+     (NN arte)
+     (PP 
+      (IN de)
+      (NP 
+       (DT alguns)
+       (PP 
+        (IN de)
+        (NP 
+         (DT seus)
+         (NN jogadores)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB que)
+   )
+   (NP 
+    (NN equipes)
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (DT a)
+       (NNP Bulgária)
+      )
+      (NP 
+       (DT a)
+       (NNP Romênia)
+      )
+      e
+      (NP 
+       (DT a)
+       (NNP Nigéria)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP chegaram)
+   )
+   (ADVP 
+    (ADVP 
+     (RB muito)
+     (RB mais)
+    )
+    (RB longe)
+    (VP 
+     (IN do_que)
+     (ADVP 
+      (RB jamais)
+     )
+     (VP 
+      (VBP tinham)
+      (VBN conseguido)
+     )
+    )
+   )
+  )
+ )
+)

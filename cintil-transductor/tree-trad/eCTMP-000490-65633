@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS resultado)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS disco)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS estreia)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB foi)
+         (NP 
+          (NNS platina)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

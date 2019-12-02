@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pedro)
+    (NNS Caldeira)
+    (NNS Rodrigues)
+   )
+  )
+  (VP 
+   (PP 
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS Stevan)
+       (NNS Niksic)
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Belgrado)
+     )
+    )
+   )
+  )
+ )
+)

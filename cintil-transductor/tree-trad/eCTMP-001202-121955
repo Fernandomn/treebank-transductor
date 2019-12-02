@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS mensagem)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Pedro)
+        (NNS Barroso)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB mais)
+     (JJ hiperbólica)
+    )
+   )
+  )
+ )
+)

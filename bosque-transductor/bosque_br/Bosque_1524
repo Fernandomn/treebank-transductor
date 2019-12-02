@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP está)
+   )
+   (VBN errado)
+   (PP 
+    (IN em)
+    (VP 
+     (VP 
+      (VB formular)
+     )
+     (NP 
+      (NN regras)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP possibilitem)
+       )
+       (NP 
+        (DT o)
+        (NN alongamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

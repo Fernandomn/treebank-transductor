@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (VP 
+    (IN Que)
+    (NP 
+     (DT a)
+     (NN organização)
+    )
+    (VP 
+     (VBP investiu)
+    )
+    (NP 
+     (NP 
+      (DT muito)
+      (NP 
+       (NP 
+        (NN tempo)
+       )
+       e
+       (NP 
+        (NN dinheiro)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN sensiblização)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NN programa)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB agora)
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (PRP eles)
+     )
+    )
+   )
+  )
+ )
+)

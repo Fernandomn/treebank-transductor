@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT o)
+     (NN ponto)
+     (PP 
+      (IN de)
+      (NP 
+       (NN vista)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN proteção)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN consumidor)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vou)
+    (VB reajustar)
+   )
+   (NP 
+    (DT o)
+    (NN preço)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN tarifa)
+      (ADJP 
+       (JJ pública)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+         (JJ normal)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN como_se)
+    (NP 
+     (PRP ela)
+    )
+    (VP 
+     (VBP fosse)
+    )
+    (NP 
+     (NNP URV)
+    )
+   )
+  )
+ )
+)

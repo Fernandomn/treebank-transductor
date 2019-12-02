@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN shopping)
+    (NP 
+     (NNP West_Plaza)
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP começou)
+   )
+   (NP 
+    (DT sua)
+    (NN promoção)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Dia_das_Mães)
+     )
+    )
+   )
+  )
+ )
+)

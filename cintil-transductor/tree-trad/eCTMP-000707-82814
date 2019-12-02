@@ -1,0 +1,21 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB evidentemente)
+     )
+    )
+    (ADJP 
+     (RB menos)
+     (JJ claro)
+    )
+   )
+  )
+ )
+)

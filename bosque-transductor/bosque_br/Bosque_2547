@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (JJ próxima)
+    (NN semana)
+   )
+   (VP 
+    (VBP será)
+   )
+   (ADJP 
+    (JJ decisiva)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT as)
+     (NNP MPs)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tratam)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN aumento)
+        (PP 
+         (IN de)
+         (NP 
+          (NN impostos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP terão)
+     (IN de)
+     (VB ser)
+    )
+    (ADVP 
+     (RB necessariamente)
+    )
+    (VP 
+     (VBN votadas)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS cartazes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS agência)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS viagens)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB atraíram)
+    (NP 
+     (PRP -no)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN caso)
+    (NP 
+     (NNP Lima)
+    )
+   )
+   (VP 
+    (VBP coincide)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN prisão)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 54)
+       (NN pessoas)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (NN parte)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN operação)
+       (NP 
+        (NN anti-Máfia)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN oeste)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN ilha)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

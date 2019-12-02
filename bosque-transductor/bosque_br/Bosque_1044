@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN frequência)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN entrega)
+      (PP 
+       (IN de)
+       (NP 
+        (NN mercadorias)
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NN clientes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP revela)
+   )
+   (NP 
+    (JJ grandes)
+    (NN diferenças)
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (DT as)
+       (NN empresas)
+       (NP 
+        (NN world_class)
+       )
+      )
+      e
+      (NP 
+       (DT as)
+       (NN concorrentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

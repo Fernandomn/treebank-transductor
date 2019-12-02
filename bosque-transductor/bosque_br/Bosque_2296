@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP ACM)
+    )
+   )
+   (VP 
+    (NP 
+     (PRP quem)
+    )
+    (VP 
+     (VBP disser)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP conhece)
+     )
+     (NP 
+      (DT o)
+      (NN plano)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN modo)
+      (ADJP 
+       (JJ geral)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+    (VBG mentindo)
+   )
+  )
+ )
+)

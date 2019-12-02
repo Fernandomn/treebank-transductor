@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN idéia)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN livro)
+     )
+    )
+   )
+   (VP 
+    (VBP surgiu)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (DT uma)
+     (NN entrevista)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (NNP Andréa)
+      )
+      (VP 
+       (VBP fez)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN meados)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 93)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNP Tokyo_Journal)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NN jogador)
+        (NP 
+         (NNP Zico)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN época)
+      )
+     )
+     (VP 
+      (VP 
+       (VBG atuando)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Kashima)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

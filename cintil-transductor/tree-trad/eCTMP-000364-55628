@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB Tinha)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ser)
+         (VB feito)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NNS Virgílio)
+      (NNS Pereira)
+     )
+    )
+   )
+  )
+ )
+)

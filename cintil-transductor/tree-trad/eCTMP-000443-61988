@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Ficou)
+     (ADJP 
+      (RB muito)
+      (JJ sério)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (S 
+      (VP 
+       (VB fez)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (NP 
+       (NNS silêncio)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS bairro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

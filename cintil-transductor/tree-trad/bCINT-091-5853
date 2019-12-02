@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VP 
+      (VB viram)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS importância)
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NNS regionalização)
+         )
+        )
+       )
+      )
+     )
+     (CONJP 
+      (CC se)
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS FC)
+         (NNS Porto)
+        )
+       )
+       (VP 
+        (VB for)
+        (NP 
+         (NNS campeão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

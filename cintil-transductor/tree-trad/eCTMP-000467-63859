@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (JJ presente)
+      (NNS edição)
+     )
+     (CONJP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (RB hoje)
+         (VP 
+          (VB iniciará)
+          (NP 
+           (DT a)
+           (NP 
+            (CD segunda)
+            (NNS metade)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB está)
+      (PP 
+       (IN a)
+       (VP 
+        (VB fazer)
+        (NP 
+         (NNS história)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS todo-o-terreno)
+      )
+     )
+    )
+   )
+  )
+ )
+)

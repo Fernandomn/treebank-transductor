@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (RB Ontem)
+   (S 
+    (NP 
+     (DT os)
+     (NNS índices)
+    )
+    (VP 
+     (VP 
+      (VB voltaram)
+      (PP 
+       (IN a)
+       (VB cair)
+      )
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS sessão)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VB ficou)
+             (RB também)
+            )
+            (VP 
+             (VB marcada)
+             (PP 
+              (IN por)
+              (NP 
+               (DT uma)
+               (NP 
+                (JJ ligeira)
+                (NP 
+                 (NNS recuperação)
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT o)
+                   (NP 
+                    (NNS volume)
+                    (PP 
+                     (IN de)
+                     (NP 
+                      (NNS negócios)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

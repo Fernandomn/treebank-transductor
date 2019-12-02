@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS complexidade)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB indiscutivelmente)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS factores)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS redução)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS capacidade)
+               (PP 
+                (IN de)
+                (NP 
+                 (NNS resposta)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

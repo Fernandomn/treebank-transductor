@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (NNS resto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS vila-realenses)
+    )
+    (VP 
+     (VB entraram)
+     (PP 
+      (IN sem)
+      (NP 
+       (NP 
+        (JJ grandes)
+        (NNS receios)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

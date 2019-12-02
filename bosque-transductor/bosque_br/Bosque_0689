@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Entendemos)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (NN palavras)
+     (NP 
+      (RB como)
+      (NP 
+       (NP 
+        (NN respeito)
+       )
+       (NP 
+        (NN atenção)
+       )
+       e
+       (NP 
+        (NN ética)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG incluindo)
+     )
+     (NP 
+      (DT a)
+      (NN eficiência)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN prestação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN serviços)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP devem)
+    )
+    (ADVP 
+     (RB mais)
+     (SBAR do_que
+      (S 
+       (RB nunca)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB nortear)
+     )
+     (NP 
+      (DT nossa)
+      (NN conduta)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN relações)
+      (PP 
+       (IN com)
+       (NP 
+        (DT nossos)
+        (NN clientes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS notícia)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB predomina)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS apresentação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS factos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

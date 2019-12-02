@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outro)
+    (NP 
+     (NNS lado)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS aprendizagem)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (DT o)
+      (NNS debate)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS contacto)
+        (PP 
+         (IN com)
+         (NP 
+          (DT outras)
+          (NNS experiências)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

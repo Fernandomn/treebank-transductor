@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Estamos)
+      (PP 
+       (IN a)
+       (VP 
+        (VB aguardar)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS publicação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (JJ nova)
+             (NNS legislação)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB vamos)
+       (VP 
+        (VP 
+         (VP 
+          (VP 
+           (VB procurar)
+           (ADVP 
+            (RB depois)
+           )
+          )
+          (PP 
+           (IN com)
+           (NP 
+            (PRP todos)
+            (NP 
+             (DT os)
+             (NNS empresários)
+            )
+           )
+          )
+         )
+        )
+        (VP 
+         (VB definir)
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (NP 
+               (PRP se)
+              )
+              (VB vai)
+             )
+             (VP 
+              (VB fazer)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

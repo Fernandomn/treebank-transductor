@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Terim)
+    )
+    (VP 
+     (VB percebeu)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mau)
+       (NP 
+        (NNS momento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (PP sua)
+           (NNS vedeta)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB perdeu)
+       (NP 
+        (DT os)
+        (NNS pruridos)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VP 
+         (VB tirou)
+         (NP 
+          (PRP -o)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NNS intervalo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

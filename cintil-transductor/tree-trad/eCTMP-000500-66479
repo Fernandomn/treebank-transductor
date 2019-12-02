@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Chapman)
+    )
+    (VP 
+     (VB adquiriu)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Alex)
+        (NNS James)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS David)
+         (NNS Jack)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NNS Arsenal)
+      )
+     )
+     (VP 
+      (VB começou)
+      (PP 
+       (IN a)
+       (VP 
+        (VB criar)
+        (NP 
+         (NNS raízes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

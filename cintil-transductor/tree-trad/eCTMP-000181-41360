@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS ausência)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS posição)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT a)
+       (NNS desmobilização)
+      )
+     )
+    )
+    (VP 
+     (VB tiveram)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS influência)
+        (JJ decisiva)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS resultado)
+          (JJ final)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

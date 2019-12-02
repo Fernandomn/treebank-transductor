@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Uma)
+      (NNS mulher)
+     )
+     (VB escreve)
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB dirige)
+       (NP 
+        (DT outras)
+        (NNS mulheres)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS peça)
+       (ADJP 
+        (VB protagonizada)
+        (PP 
+         (IN por)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS homem)
+           (JJ invisível)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

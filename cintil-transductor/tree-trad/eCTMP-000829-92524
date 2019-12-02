@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS piloto)
+     (ADJP 
+      (ADJP 
+       (VB atormentado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NNS acontecimentos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB não)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB conteve)
+    )
+   )
+  )
+ )
+)

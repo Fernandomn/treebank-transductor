@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Acesso)
+  )
+  (VP 
+   (VP 
+    (VB cortado)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS 2ª)
+      (NNS Circular)
+     )
+    )
+   )
+  )
+ )
+)

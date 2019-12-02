@@ -1,0 +1,84 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB Sabemos)
+       (ADVP 
+        (ADVP 
+         (RB em_)
+         (RB o)
+         (RB entanto)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS comparação)
+         (PP 
+          (IN com)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS níveis)
+            (PP 
+             (PP 
+              (IN de)
+              (NP 
+               (NNS educação)
+              )
+             )
+             (PP 
+              (CC e)
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (NNS formação)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (DT outros)
+                   (NNS países)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (NNS Portugal)
+      )
+      (VP 
+       (VB ocupa)
+       (NP 
+        (DT uma)
+        (NP 
+         (JJ modesta)
+         (NNS posição)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

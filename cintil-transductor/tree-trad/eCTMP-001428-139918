@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Hewlett-Packard)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB apresentou)
+      (RB recentemente)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS mercado)
+      )
+     )
+    )
+    (NP 
+     (CD três)
+     (NP 
+      (JJ novas)
+      (NP 
+       (NNS máquinas)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS topo)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS gama)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS peste)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS saque)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

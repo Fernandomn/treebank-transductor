@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (PP 
+    (IN para)
+    (NP 
+     (DT um)
+     (NN efeito)
+     (ADJP 
+      (JJ extra)
+     )
+    )
+   )
+   (VP 
+    (VBP cite)
+   )
+   (NP 
+    (NNP Special_Sauce)
+   )
+  )
+ )
+)

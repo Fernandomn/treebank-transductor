@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ principal)
+    (NN objetivo)
+    (ADJP 
+     (JJ norte-americano)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB evitar)
+    )
+    (NP 
+     (DT a)
+     (NN repetição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN fuga)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (ADJP 
+           (RB mais_de)
+           (CD 125)
+          )
+          (NN mil)
+         )
+         (NN cubanos)
+        )
+       )
+       (PP 
+        (IN em_direção_a+)
+        (NP 
+         (DT a)
+         (NNP Flórida)
+        )
+       )
+       (VP 
+        (VP 
+         (VBN ocorrida)
+        )
+        (PP 
+         (IN em)
+         (ADJP 
+          (CD 1980)
+         )
+        )
+        (PP 
+         (IN a_partir_de+)
+         (NP 
+          (DT o)
+          (NN porto)
+          (PP 
+           (IN de)
+           (NP 
+            (NNP Mariel)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

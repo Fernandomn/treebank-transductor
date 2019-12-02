@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB É)
+   )
+   (NP 
+    (DT o)
+    (NN cliente)
+   )
+   (ADVP 
+    (RB quem)
+   )
+   (VP 
+    (VBP define)
+   )
+   (NP 
+    (DT os)
+    (NN requisitos)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP teremos)
+      (IN de)
+     )
+     (VP 
+      (VP 
+       (VB cumprir)
+       (CC e)
+      )
+      (VP 
+       (ADVP 
+        (RB até_mesmo)
+       )
+       (VB superar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBG praticando)
+     )
+     (NP 
+      (NN qualidade)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT sua)
+       (NN plenitude)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBG obtendo)
+     )
+     (ADVP 
+      (RB assim)
+     )
+     (NP 
+      (DT seus)
+      (NN benefícios)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP são)
+       )
+       (NP 
+        (NP 
+         (NN competitividade)
+        )
+        (NP 
+         (NN lucratividade)
+        )
+        e
+        (NP 
+         (NN satisfação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

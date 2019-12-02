@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Com)
+     (NP 
+      (CD dois)
+      (NP 
+       (NNS irmãos)
+       (PP 
+        (PP 
+         (IN dentro)
+         (IN de)
+        )
+        (NP 
+         (DT uma)
+         (NNS direcção)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB há)
+     (NP 
+      (NNS confusão)
+     )
+    )
+   )
+  )
+ )
+)

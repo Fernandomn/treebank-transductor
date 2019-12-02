@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NN desclassificação)
+    )
+   )
+   (NP 
+    (NNP Jack_Girafa)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (DT o)
+    (NN comportamento)
+    (ADJP 
+     (JJ pacato)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP espera)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN gigante)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN savanas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

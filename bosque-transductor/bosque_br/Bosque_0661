@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP podemos)
+    (VB deixar)
+   )
+   (VP 
+    (VP 
+     (VB morrer)
+    )
+    (NP 
+     (DT o)
+     (NN espírito)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Iguaçu)
+      )
+     )
+    )
+   )
+  )
+ )
+)

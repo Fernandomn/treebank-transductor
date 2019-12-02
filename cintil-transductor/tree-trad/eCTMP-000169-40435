@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Marrazes)
+  )
+  (VP 
+   (VB ignora)
+   (NP 
+    (NP 
+     (NNS população)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS ex-colónias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NP 
+       (NNS empresário)
+       (JJ português)
+      )
+      (NP 
+       (NNS Pereira)
+       (NNS Coutinho)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB tentou)
+     (VP 
+      (VB fazer)
+      (NP 
+       (NNS negócio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

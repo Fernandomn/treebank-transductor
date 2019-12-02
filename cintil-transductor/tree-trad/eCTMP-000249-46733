@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Arquitectos)
+    (JJ portugueses)
+   )
+  )
+  (VP 
+   (VP 
+    (VB regidos)
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS leis)
+       (JJ medievais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

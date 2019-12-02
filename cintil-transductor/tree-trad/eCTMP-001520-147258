@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS exposição)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Ocidental)
+         (NNS Praias)
+         (NNS Lusitana)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB constitui)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS aproximação)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS perfil)
+           (JJ humano)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Vasco)
+             (NNS de_)
+             (NNS a)
+             (NNS Gama)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

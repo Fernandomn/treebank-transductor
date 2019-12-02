@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Apelo)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS defesa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS cultura)
+          (JJ francesa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

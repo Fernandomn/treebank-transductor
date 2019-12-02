@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estas)
+    (NNS situações)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS maioria)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB provocadas)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NNS desemprego)
+      )
+     )
+    )
+   )
+  )
+ )
+)

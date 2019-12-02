@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Os)
+      (NNS Ladrões)
+     )
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS André)
+        (NNS Téchiné)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS estreia)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN modelo)
+    (NP 
+     (NNP Lx_810)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Epson)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN vendido)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Miami)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN US$)
+     (ADJP 
+      (CD 178)
+     )
+    )
+   )
+  )
+ )
+)

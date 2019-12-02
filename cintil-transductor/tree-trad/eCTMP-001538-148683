@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS rádio)
+      (JJ local)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB começou)
+      (RB ontem)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB ser)
+        (VB emitida)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Lisboa)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB transmitindo)
+        (RB apenas)
+       )
+       (NP 
+        (NP 
+         (NNS música)
+         (JJ latina)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN governo)
+    (NP 
+     (RB como)
+     (NP 
+      (DT o)
+      (NN Estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP precisa)
+   )
+   (VP 
+    (VP 
+     (VB ter)
+    )
+    (NP 
+     (NN metas)
+     (UCP 
+      (ADJP 
+       (JJ claras)
+      )
+      e
+      (VBN definidas)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (DT os)
+      (NP 
+       (CD sete)
+       (NNS presos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (NP 
+      (NNS cidadãos)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS Estados)
+          (NNS Unidos)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS China)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Formosa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

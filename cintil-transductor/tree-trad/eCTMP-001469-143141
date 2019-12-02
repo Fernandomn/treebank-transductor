@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (PP 
+         (IN A)
+         (IN partir)
+         (IN de_)
+        )
+        (RB aí)
+       )
+      )
+      (VP 
+       (VB fizemos)
+       (NP 
+        (DT uma)
+        (NP 
+         (JJ grande)
+         (NNS recuperação)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB borrámos)
+       (NP 
+        (DT a)
+        (NNS pintura)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS jogo)
+          (PP 
+           (PP 
+            (IN em)
+            (NP 
+             (NNS casa)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS União)
+            (NNS Madeira)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

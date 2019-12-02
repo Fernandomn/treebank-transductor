@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (RB Também)
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Joaquim)
+       (NNS Magalhães)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS advogado)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Fátima)
+           (NNS Ximenez)
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (CD duas)
+           (NP 
+            (NNS filhas)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS casal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB pediu)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS absolvição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (CD três)
+          (NNS arguidas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

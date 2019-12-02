@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NNS história)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB foi)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB mutilada)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS convenções)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS sociedade)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB detestava)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

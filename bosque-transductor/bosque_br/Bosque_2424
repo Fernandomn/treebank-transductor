@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Damascene)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP viaja)
+     )
+     (ADVP 
+      (RB raramente)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN navio)
+      )
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (DT um)
+      (NN estranho)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN mar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

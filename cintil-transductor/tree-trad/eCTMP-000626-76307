@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS analistas)
+   )
+   (VP 
+    (VB esperam)
+    (NP 
+     (PRP algumas)
+     (NP 
+      (NNS irregularidades)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB poderão)
+          (VP 
+           (VB influenciar)
+           (NP 
+            (DT os)
+            (NNS resultados)
+           )
+          )
+         )
+         (CONJP 
+          (CONJP 
+           (CC se)
+           (S 
+            (NP 
+             (DT estes)
+            )
+            (VP 
+             (VB forem)
+             (ADJP 
+              (RB muito)
+              (JJ próximos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

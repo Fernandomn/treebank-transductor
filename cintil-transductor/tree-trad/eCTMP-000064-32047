@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB aconteceu)
+         )
+         (PP 
+          (PP 
+           (RB mesmo)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT estes)
+             (NP 
+              (CD últimos)
+              (NP 
+               (NNS tempos)
+               (PP 
+                (IN de)
+                (NP 
+                 (NP 
+                  (NP 
+                   (NNS obra)
+                   (JJ feita)
+                  )
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT o)
+                    (NNS cavaquismo)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

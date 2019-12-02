@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (NP 
+       (DT a)
+       (NNS Cinemateca)
+      )
+      (NP 
+       (NP 
+        (NNS Rua)
+        (NNS Barata)
+        (NNS Salgueiro)
+       )
+      )
+     )
+    )
+    (VB prossegue)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS ciclo)
+     (NP 
+      (NNS O)
+      (NNS Sagrado)
+      (NNS em_)
+      (NNS o)
+      (NNS Cinema)
+     )
+    )
+   )
+  )
+ )
+)

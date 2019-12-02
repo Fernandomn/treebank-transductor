@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NNS sexta-feira)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS índice)
+      (NNS Geral)
+     )
+    )
+    (VP 
+     (VB apresentou)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS revés)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (CD 1,66)
+           (NP 
+            (NN por)
+            (NN cento)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN face)
+         (IN a_)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NNS semana)
+          (JJ anterior)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

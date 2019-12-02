@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Área)
+           (NNS Metropolitana)
+           (NNS de)
+           (NNS Lisboa)
+          )
+         )
+        )
+        (VP 
+         (VB concordam)
+         (PP 
+          (IN com)
+          (NP 
+           (DT esse)
+           (NNS desenho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT isso)
+     )
+     (VP 
+      (VB é)
+      (PP 
+       (IN com)
+       (NP 
+        (PRP eles)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

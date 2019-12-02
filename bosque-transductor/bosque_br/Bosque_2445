@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN presidência)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP poderia)
+    (VB ficar)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN candidato)
+     (ADJP 
+      (JJ óbvio)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN época)
+      )
+     )
+     (NP 
+      (NNP Ulysses_Guimarães)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB supostamente)
+       )
+       (VP 
+        (VBP representava)
+       )
+       (NP 
+        (DT o)
+        (NN risco)
+        (PP 
+         (IN de)
+         (NP 
+          (NN confronto)
+          (PP 
+           (IN com)
+           (NP 
+            (DT os)
+            (NN militares)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

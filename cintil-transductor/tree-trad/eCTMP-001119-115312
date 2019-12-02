@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Benfica)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB esteve)
+     )
+     (RB bem)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (CD último)
+       (NP 
+        (NNS jogo)
+        (PP 
+         (PP 
+          (IN antes)
+          (IN de_)
+         )
+         (NP 
+          (DT o)
+          (NP 
+           (NNS início)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS campeonato)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

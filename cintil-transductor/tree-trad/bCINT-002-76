@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estou)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB falar)
+       (ADVP 
+        (RB obviamente)
+       )
+      )
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS actrizes)
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS prima-donas)
+          )
+         )
+         (PP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (CD primeiras)
+             (NNS bailarinas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

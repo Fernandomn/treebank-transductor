@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (NP 
+     (NNP Ricupero)
+    )
+    (VP 
+     (VBP foi)
+     (VBN pinçado)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (DT sua)
+      (NN missão)
+      (ADJP 
+       (JJ amazônica)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP lembrei)
+   )
+   (NP 
+    (NNP Osvaldo_Aranha)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP dizia)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT o)
+       (NNP Brasil)
+      )
+      (VP 
+       (VBP é)
+      )
+      (NP 
+       (DT um)
+       (NN deserto)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NN homens)
+         )
+        )
+        e
+        (PP 
+         (IN de)
+         (NP 
+          (NN idéias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

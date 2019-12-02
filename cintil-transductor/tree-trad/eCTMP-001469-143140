@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Estávamos)
+     (PP 
+      (IN com)
+      (NP 
+       (CD três)
+       (NNS pontos)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD 10ª)
+       (NNS jornada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT O)
+     (NP ex-presidente)
+     (NP 
+      (NNP Fernando_Collor)
+     )
+    )
+    (NP 
+     (DT sua)
+     (NN mulher)
+     (NP 
+      (NNP Rosane)
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN secretário)
+     (NP 
+      (NNP Luís_Carlos_Chaves)
+     )
+    )
+   )
+   (VP 
+    (VBP jantaram)
+   )
+   (ADVP 
+    (RB anteontem)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN noite)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN restaurante)
+     (NP 
+      (NNP Golden_Horn)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Aspen)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Colorado)
+     (NP 
+      (NNP EUA)
+     )
+    )
+   )
+  )
+ )
+)

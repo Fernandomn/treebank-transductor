@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN história)
+   )
+   (VP 
+    (VBP narra)
+   )
+   (NP 
+    (DT a)
+    (NN ida)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN agente)
+      (ADJP 
+       (JJ secreto)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (JJ desumana)
+     (NN cidade)
+     (ADJP 
+      (JJ futurista)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Alphaville)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN controlada)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (DT um)
+        (NN cérebro)
+        (ADJP 
+         (JJ eletrônico)
+        )
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP baniu)
+         )
+         (ADVP 
+          (RB totalmente)
+         )
+         (NP 
+          (DT os)
+          (NN conceitos)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NN amor)
+            )
+            e
+            (NP 
+             (NN solidariedade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

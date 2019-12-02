@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ provável)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Mercado)
+       (NNS Único)
+      )
+     )
+     (VP 
+      (VP 
+       (VB proporcione)
+       (RB também)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (JJ maior)
+        (NP 
+         (NNS impulso)
+         (PP 
+          (IN para)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS alargamento)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS acesso)
+               (PP 
+                (IN a_)
+                (NP 
+                 (DT as)
+                 (NP 
+                  (NP 
+                   (NNS redes)
+                   (JJ ferroviárias)
+                  )
+                  (JJ nacionais)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

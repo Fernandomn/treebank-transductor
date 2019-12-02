@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT os)
+      (NNS juízes)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS crimes)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Priebke)
+       )
+      )
+     )
+    )
+    (VB prescreveram)
+   )
+  )
+ )
+)

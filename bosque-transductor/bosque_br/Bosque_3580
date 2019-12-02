@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (DT próprio)
+    (NN presidente)
+    (NP 
+     (NNP Itamar_Franco)
+    )
+   )
+   (VP 
+    (VBP pedirá)
+   )
+   (NP 
+    (NN empenho)
+    (PP 
+     (IN de)
+     (NP 
+      (DT todos)
+      (DT os)
+      (NN ministros)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB mobilizar)
+     )
+     (NP 
+      (DT os)
+      (DT seus)
+      (NN partidos)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN votação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

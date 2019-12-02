@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (CD 56)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS mãe)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Maria)
+         (NNS Antónia)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB participou)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS festa)
+         (JJ comunitária)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Couto)
+            (NNS de)
+            (NNS Dornelas)
+           )
+          )
+          (NP 
+           (NNS Trás-os-Montes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

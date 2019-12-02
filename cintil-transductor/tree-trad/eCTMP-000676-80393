@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Para)
+     (RB já)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS bacalhau)
+    )
+    (VP 
+     (VB tem)
+     (NP 
+      (NP 
+       (NNS designação)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS origem)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

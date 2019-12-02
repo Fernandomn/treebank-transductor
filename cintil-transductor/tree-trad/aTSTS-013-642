@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB mentiu)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS Maria)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por+)
+    (NP 
+     (DT o)
+     (NN acordo)
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN reduzidas)
+   )
+   (ADVP 
+    (RB de_imediato)
+   )
+   (NP 
+    (DT todas)
+    (DT as)
+    (NN barreiras)
+    (ADJP 
+     (ADJP 
+      (JJ tributárias)
+     )
+     e
+     (ADJP 
+      (JJ alfandegárias)
+     )
+    )
+    (VP 
+     (VP 
+      (VBN relacionadas)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN importação)
+       (PP 
+        (IN por)
+        (NP 
+         (DT qualquer)
+         (NN país)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN acordo)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NN veículos)
+          (ADJP 
+           (JJ automotores)
+          )
+         )
+         (NP 
+          (NN autopeças)
+         )
+         e
+         (NP 
+          (NN acessórios)
+          (VP 
+           (VP 
+            (VBN fabricados)
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT os)
+             (DT demais)
+             (NN países)
+             (NP 
+              (NN membros)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Fábio_Igel)
+    )
+    (NP 
+     (NNP João_Herreras)
+    )
+    e
+    (NP 
+     (NNP Marcelo_Loureiro)
+    )
+   )
+   (VP 
+    (VBP pilotam)
+   )
+   (NP 
+    (NN festa)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Cabral)
+    )
+   )
+  )
+ )
+)

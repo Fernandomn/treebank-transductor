@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (PRP você)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (DT um)
+     (NN pai)
+     (ADJP 
+      (JJ pão_duro)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP tenha)
+     )
+     (NP 
+      (NN dúvidas)
+     )
+    )
+    (VP 
+     (VP 
+      (VBP peça)
+     )
+     (NP 
+      (DT a)
+      (NN URV)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (DT sua)
+       (NN mesada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

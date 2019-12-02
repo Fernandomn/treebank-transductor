@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Portugal)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB venceu)
+       (RB ontem)
+      )
+      (NP 
+       (DT o)
+       (NNS Brasil)
+      )
+     )
+     (PP 
+      (IN perante)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS multidão)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS apaixonados)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB conquistou)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (CD segunda)
+          (NP 
+           (NNS vez)
+           (JJ consecutiva)
+          )
+         )
+        )
+       )
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS título)
+         (JJ mundial)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNS júniores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

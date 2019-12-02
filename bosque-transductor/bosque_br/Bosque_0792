@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Inicialmente)
+   )
+   (NP 
+    (DT a)
+    (NN equipe)
+    (ADJP 
+     (JJ econômica)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP chegou)
+      (IN a)
+      (VB estudar)
+     )
+     (NP 
+      (DT a)
+      (NN privatização)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN empresas)
+        (PP 
+         (IN de+)
+         (UCP 
+          (NP 
+           (DT o)
+           (NN grupo)
+           (NP 
+            (NNP Nuclebrás)
+           )
+          )
+          (IN além_de)
+          (NP 
+           (NNP Angra)
+           (ADJP 
+            (ADJP 
+             (CD 1)
+            )
+            e
+            (ADJP 
+             (CD 2)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP chegou)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN fim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

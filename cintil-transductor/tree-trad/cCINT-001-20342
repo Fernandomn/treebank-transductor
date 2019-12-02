@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Pode)
+    (VP 
+     (VB perguntar)
+     (PP 
+      (IN a)
+      (NP 
+       (PRP qualquer)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (PP meus)
+           (NNS colegas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

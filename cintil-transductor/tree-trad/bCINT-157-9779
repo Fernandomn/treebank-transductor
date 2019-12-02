@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estamos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS rota)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 66)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

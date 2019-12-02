@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN multa)
+    (PP 
+     (IN para)
+     (NP 
+      (NN lojistas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP descumprirem)
+       )
+       (NP 
+        (DT a)
+        (NN determinação)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pode)
+    (VB chegar)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN R$)
+     (NP 
+      (CD 128)
+      (NN mil)
+     )
+    )
+   )
+  )
+ )
+)

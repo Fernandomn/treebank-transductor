@@ -1,0 +1,108 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN matéria-prima)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT esse)
+      (JJ primeiro)
+      (NN livro)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN período)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT o)
+      (NN autor)
+     )
+     (VP 
+      (VBP passou)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Paris)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN anos)
+       (ADJP 
+        (CD 20)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBG perambulando)
+      )
+      (VP 
+       (VP 
+        (PP 
+         (IN de)
+         (NP 
+          (NN prostíbulo)
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN bar)
+         )
+        )
+       )
+       (VP 
+        (PP 
+         (IN de)
+         (NP 
+          (NN quarto)
+          (VBN emprestado)
+         )
+        )
+        (PP 
+         (IN a)
+         (NP 
+          (NN banco)
+          (PP 
+           (IN de)
+           (NP 
+            (NN estação)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (ADVP 
+        (RB enquanto)
+       )
+       (VP 
+        (VBP tentava)
+       )
+       (VP 
+        (VP 
+         (VB escrever)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

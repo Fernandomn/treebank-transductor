@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Exige)
+     (NP 
+      (NP 
+       (NNS cuidados)
+       (JJ especiais)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS conta)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS farmácia)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB atinge)
+      (NP 
+       (NP 
+        (NNS valores)
+        (JJ elevados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

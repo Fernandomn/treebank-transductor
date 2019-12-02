@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN senador)
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+    (VBN lido)
+   )
+   (S 
+    (S 
+     (ADVP 
+      (RB não)
+      (RB como)
+     )
+     (NP 
+      (NN ex-presidente)
+     )
+    )
+    mas
+    (S 
+     (RB como)
+     (NP 
+      (DT uma)
+      (NN espécie)
+      (PP 
+       (IN de)
+       (NP 
+        (NN parente)
+        (ADJP 
+         (JJ distante)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN família)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

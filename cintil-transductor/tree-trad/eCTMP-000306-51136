@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS notícia)
+     (ADJP 
+      (VB divulgada)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Espanha)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB mereceu)
+     (NP 
+      (NP 
+       (NNS comentários)
+       (PP 
+        (IN de)
+        (NP 
+         (DT outros)
+         (NNS quadrantes)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

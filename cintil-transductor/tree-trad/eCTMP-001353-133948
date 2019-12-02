@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS caso)
+   )
+   (VP 
+    (VP 
+     (VB surpreendia)
+     (NP 
+      (PRP -o)
+     )
+    )
+    (CC tanto)
+    (CC mais)
+    (CC que)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS resto)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS arborização)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Parque)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB oferecia)
+      )
+      (NP 
+       (NNS problemas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+    )
+   )
+   (VP 
+    (VB ocorreu)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS meados)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ano)
+          (JJ passado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

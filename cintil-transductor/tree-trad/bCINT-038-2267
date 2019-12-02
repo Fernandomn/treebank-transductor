@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (NNS resto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS objectivos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Cena)
+         (NNS Lusófona)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (DT os)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB foram)
+           (VB enunciados)
+          )
+          (PP 
+           (PP 
+            (IN aquando)
+            (IN de_)
+           )
+           (NP 
+            (DT a)
+            (NP 
+             (NP 
+              (NNS criação)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NNS programa)
+               )
+              )
+             )
+             (PP 
+              (IN em)
+              (NP 
+               (CD 1995)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

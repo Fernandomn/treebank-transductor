@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Adoro)
+     (NP 
+      (DT essa)
+      (NNS sensação)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC porque)
+      (S 
+       (NP 
+        (DT o)
+        (NNS palco)
+       )
+       (VP 
+        (VB é)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS sítio)
+          (CONJP 
+           (PP 
+            (IN a)
+            (NP 
+             (PRP que)
+            )
+           )
+           (S 
+            (NP 
+             (DT a)
+             (NNS música)
+            )
+            (VP 
+             (RB realmente)
+             (VP 
+              (VB pertence)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

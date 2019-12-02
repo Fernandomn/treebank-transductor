@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD quatro)
+    (JJ grandes)
+    (NN jornais)
+   )
+   (VP 
+    (VBP deram)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN segunda-feira)
+    )
+   )
+   (NP 
+    (DT a)
+    (DT mesma)
+    (NN manchete)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB informar)
+     )
+     (VP 
+      (ADVP 
+       (RB como)
+      )
+      (VP 
+       (VBP acabou)
+      )
+      (NP 
+       (DT o)
+       (NNP Grande_Prêmio)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Brasil)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP aconteceu)
+        )
+        (NP 
+         (NN domingo)
+         (VBN passado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

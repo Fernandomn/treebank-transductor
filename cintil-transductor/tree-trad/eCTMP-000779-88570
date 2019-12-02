@@ -1,0 +1,34 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD Treze)
+    (NP 
+     (NNS cidades)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS língua)
+        (JJ portuguesa)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NP 
+       (NNS arte)
+       (JJ popular)
+      )
+     )
+    )
+   )
+  )
+ )
+)

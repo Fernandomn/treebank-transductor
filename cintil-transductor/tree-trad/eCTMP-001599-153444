@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Caroline)
+     (NNS Searle)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS porta-voz)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS equipa)
+         (JJ olímpica)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Grã-Bretanha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

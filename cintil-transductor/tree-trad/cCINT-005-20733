@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Depois)
+    )
+    (VP 
+     (VB disse)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (RB finalmente)
+          (VP 
+           (VB tinha)
+           (PP 
+            (IN de)
+            (VP 
+             (VB ser)
+             (VB dito)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

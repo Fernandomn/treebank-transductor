@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN nível)
+     (ADJP 
+      (JJ internacional)
+     )
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (DT um)
+    (NN processo)
+    (PP 
+     (IN de)
+     (NP 
+      (NN conglomerização)
+      (PP 
+       (IN de)
+       (NP 
+        (NN empresas)
+       )
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (IN ao)
+      (VP 
+       (VB permitir)
+      )
+      (NP 
+       (DT a)
+       (NN integração)
+       (PP 
+        (IN de)
+        (NP 
+         (NN softwares)
+        )
+       )
+      )
+     )
+     (VP 
+      (VBP conferiu)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (JJ grandes)
+       (NN grupos)
+      )
+     )
+     (NP 
+      (NN vantagens)
+      (ADJP 
+       (JJ expressivas)
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT os)
+        (NN independentes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS valor)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB representa)
+       (NP 
+        (NP 
+         (CD 36)
+         (NP 
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (PP seu)
+             (NP 
+              (NNS volume)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS negócios)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

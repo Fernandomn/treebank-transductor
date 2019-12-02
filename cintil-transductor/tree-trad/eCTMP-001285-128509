@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS cenas)
+   )
+   (VP 
+    (VB eram)
+    (VP 
+     (VB gravadas)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS vídeos)
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VB eram)
+             (RB depois)
+            )
+            (VB comercializados)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

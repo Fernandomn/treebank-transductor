@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN A_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS porta)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS casa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (ADVP 
+      (RB em_)
+      (RB a)
+      (RB mesma)
+     )
+    )
+   )
+  )
+ )
+)

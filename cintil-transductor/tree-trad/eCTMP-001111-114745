@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Pórtico)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS terminal)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS contentores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

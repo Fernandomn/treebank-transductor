@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Apesar)
+      (IN de_)
+     )
+     (NP 
+      (DT as)
+      (NNS divergências)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS Miguel)
+      (NNS Júdice)
+     )
+    )
+    (VP 
+     (VB está)
+     (JJ optimista)
+    )
+   )
+  )
+ )
+)

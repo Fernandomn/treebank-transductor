@@ -1,0 +1,112 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT essa)
+     (NN constatação)
+     (VBN enviesada)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (DT o)
+        (NN alemão)
+       )
+       (ADVP 
+        (RB só)
+       )
+       (VP 
+        (VBP chegou)
+       )
+       (PP 
+        (IN em)
+        (RB primeiro)
+       )
+       (VP 
+        (IN porque)
+        (NP 
+         (DT o)
+         (NN brasileiro)
+        )
+        (VP 
+         (VBP cometeu)
+        )
+        (NP 
+         (DT uma)
+         (NN bobagem)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN imprensa)
+   )
+   (VP 
+    (VBP coroou)
+   )
+   (NP 
+    (DT o)
+    (NN festival)
+    (ADJP 
+     (JJ sennista)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN semana)
+      (ADJP 
+       (JJ anterior)
+      )
+      (VP 
+       (ADVP 
+        (RB quando)
+       )
+       (NP 
+        (DT todas)
+        (PP 
+         (IN sem)
+         (NP 
+          (NN exceção)
+         )
+        )
+        (NP 
+         (DT todas)
+        )
+        (NP 
+         (DT as)
+         (NN coberturas)
+        )
+       )
+       (VP 
+        (VBP apontavam)
+       )
+       (NP 
+        (DT a)
+        (NN vitória)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Ayrton_Senna)
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNP Interlagos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

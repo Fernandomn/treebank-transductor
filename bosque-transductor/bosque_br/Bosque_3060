@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Freddy_Tatoo)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP vive)
+     )
+     (ADVP 
+      (RB atualmente)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Bolonha)
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VBP está)
+     )
+     (VP 
+      (VP 
+       (VBN acostumado)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN circuito)
+        (ADJP 
+         (JJ internacional)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN tatuagem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

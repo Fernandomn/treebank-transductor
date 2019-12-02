@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS chão)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT um)
+     (NP 
+      (NNS frasco)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS hidrato)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS cloral)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NNS vazio)
+    )
+   )
+  )
+ )
+)

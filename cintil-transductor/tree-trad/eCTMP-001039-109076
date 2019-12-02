@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isso)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (NP 
+        (PRP eu)
+       )
+       (VP 
+        (VB estive)
+        (PP 
+         (IN a)
+         (VP 
+          (VB dizer)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (NNS nada)
+    )
+   )
+  )
+ )
+)

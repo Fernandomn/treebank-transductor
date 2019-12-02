@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Esse)
+      (NNS orçamento)
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB foi)
+       (VB enviado)
+      )
+     )
+    )
+    (S 
+     (S 
+      (NP 
+       (PRP eles)
+      )
+      (VP 
+       (VB iriam)
+       (VP 
+        (VP 
+         (VB pedir)
+         (NP 
+          (DT outro)
+         )
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (PP sua)
+          (NNS iniciativa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

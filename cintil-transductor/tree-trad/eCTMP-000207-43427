@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (DT os)
+      (NNS detidos)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB encontra)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NNS general)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (CD dois)
+        (NNS coronéis)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (DT um)
+          (NNS comandante)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT um)
+           (NNS capitão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

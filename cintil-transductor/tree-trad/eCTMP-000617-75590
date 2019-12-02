@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VB Existe)
+    (NP 
+     (NNS subordinação)
+    )
+   )
+   (PP 
+    (PP 
+     (IN sem)
+     (NP 
+      (NP 
+       (NNS prejuízo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS autonomia)
+          (JJ técnica)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

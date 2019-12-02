@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fato)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN sombra)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP R.E.M.)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT uma)
+     (NN presença)
+     (ADJP 
+      (RB muito)
+      (JJ forte)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT esse)
+       (NNP Building_Our_House)
+      )
+     )
+    )
+   )
+  )
+ )
+)

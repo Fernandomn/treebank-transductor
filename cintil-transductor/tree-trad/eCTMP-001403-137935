@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (CD segundo)
+      (NP 
+       (NP 
+        (JJ consecutivo)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ britânico)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN após)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS vitória)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Tashkent)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT este)
+       (NNS médico)
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS acordo)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (NP 
+           (NNS Feytor)
+           (NNS Pinto)
+          )
+         )
+         (VP 
+          (VB acabaria)
+          (PP 
+           (IN por)
+           (VP 
+            (VB romper)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

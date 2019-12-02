@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mulher)
+    (JJ esfaqueada)
+   )
+  )
+  (VP 
+   (VB morre)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS hospital)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS posição)
+       (ADJP 
+        (RB já)
+        (ADJP 
+         (RB muito)
+         (JJ difícil)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NNS Kamsky)
+    )
+    (VP 
+     (VB comete)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS erro)
+       (JJ decisivo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

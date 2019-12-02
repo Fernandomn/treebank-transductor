@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS pretensão)
+      (JJ pedagógica)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS sentença)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS resto)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB assumida)
+      (RB frontalmente)
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT os)
+       (NNS juízes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

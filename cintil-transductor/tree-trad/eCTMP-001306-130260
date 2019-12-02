@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT A)
+      (NP 
+       (PP minha)
+       (NNS mulher)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Nilton)
+       )
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (PP meu)
+          (NP 
+           (NNS filho)
+           (PP 
+            (IN de)
+            (NP 
+             (CD seis)
+             (NNS anos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB continuam)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Tirana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

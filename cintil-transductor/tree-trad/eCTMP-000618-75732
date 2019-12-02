@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS opinião)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS secretário)
+          (NNS de)
+          (NNS Estado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT as)
+      (NNS pessoas)
+     )
+     (VP 
+      (VP 
+       (VB estão)
+       (PP 
+        (IN a)
+        (VB trabalhar)
+       )
+      )
+      (ADVP 
+       (RB muito)
+       (RB bem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

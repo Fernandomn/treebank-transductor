@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS Balanescu)
+     (NNS Quartet)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB possuídos)
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS espírito)
+        (PP 
+         (IN de_)
+         (NP 
+          (NP 
+           (DT o)
+           (NP 
+            (JJ outro)
+            (NNS quarteto)
+           )
+          )
+          (NP 
+           (NP 
+            (DT o)
+            (NP 
+             (JJ alemão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

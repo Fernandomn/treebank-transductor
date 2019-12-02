@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Posição)
+     (JJ diversa)
+    )
+   )
+   (S 
+    (VP 
+     (VB sustentou)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Rodrigo)
+       (NNS Santiago)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS advogado)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS João)
+          (NNS Garcia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS instrumento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS referendo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB experimentado)
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+       (NNS vez)
+      )
+     )
+    )
+   )
+  )
+ )
+)

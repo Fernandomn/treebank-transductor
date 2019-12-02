@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Devo)
+    (VP 
+     (VB pagar)
+     (NP 
+      (NP 
+       (NP 
+        (NNS excesso)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS bagagem)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS táxi)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

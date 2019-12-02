@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS Estado)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS polícia)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS causa)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB pagarão)
+     (RB solidariamente)
+    )
+    (NP 
+     (DT esta)
+     (NNS quantia)
+    )
+   )
+  )
+ )
+)

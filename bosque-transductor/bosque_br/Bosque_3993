@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Venceu)
+   )
+   (ADVP 
+    (PP 
+     (IN por)
+     (NP 
+      (CD 1)
+     )
+    )
+    (PP 
+     (IN a)
+     (ADJP 
+      (CD 0)
+     )
+    )
+   )
+  )
+ )
+)

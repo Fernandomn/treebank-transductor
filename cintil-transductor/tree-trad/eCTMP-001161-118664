@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Vai)
+      (VP 
+       (VB sentar)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB aguardando)
+        (RB silenciosamente)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS final)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS declarações)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

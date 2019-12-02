@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Centenas)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS veículos)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB benzidos)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NNS Jerónimos)
+    )
+   )
+  )
+ )
+)

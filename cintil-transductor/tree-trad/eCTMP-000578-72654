@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Johnson)
+   )
+   (VP 
+    (VB passou)
+    (PP 
+     (IN a)
+     (VP 
+      (VB ter)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB correr)
+         (RB praticamente)
+        )
+        (PP 
+         (IN sem)
+         (NP 
+          (NP 
+           (NP 
+            (NNS cachet)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS presença)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

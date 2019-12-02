@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (PP meus)
+      (NNS colegas)
+     )
+    )
+    (VP 
+     (VB dizem)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB sou)
+        (NP 
+         (DT um)
+         (NNS lama)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

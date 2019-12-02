@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Assim)
+   )
+   (S 
+    (NP 
+     (PRP todos)
+     (NP 
+      (DT os)
+      (NNS candidatos)
+     )
+    )
+    (VP 
+     (VB recebem)
+     (NP 
+      (DT os)
+      (NP 
+       (CD dois)
+       (NP 
+        (NNS pontos)
+        (ADJP 
+         (VB atribuídos)
+         (PP 
+          (IN a)
+          (NP 
+           (DT este)
+           (NNS item)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fundação)
+    (NNS Casa-Miradouro)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB poder)
+    (VP 
+     (VB respirar)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS alívio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS crianças)
+   )
+   (VP 
+    (VP 
+     (VB eram)
+     (RB alegadamente)
+    )
+    (VP 
+     (VP 
+      (VB recrutadas)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS escola)
+         (CONJP 
+          (RB onde)
+          (S 
+           (NP 
+            (DT o)
+            (NNS professor)
+           )
+           (VP 
+            (VP 
+             (VB dava)
+             (NP 
+              (NNS aulas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (CC e)
+      (VP 
+       (ADVP 
+        (RB posteriormente)
+       )
+       (VP 
+        (VB violadas)
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS quartos)
+           (ADJP 
+            (VB alugados)
+            (PP 
+             (IN para)
+             (NP 
+              (DT o)
+              (NNS efeito)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

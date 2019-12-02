@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS descrição)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS achado)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB publicada)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (CD última)
+       (NP 
+        (NNS edição)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NP 
+            (NNS revista)
+            (JJ britânica)
+           )
+           (NP 
+            (NNS Nature)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

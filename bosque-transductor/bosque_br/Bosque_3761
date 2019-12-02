@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Alphaville)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT uma)
+    (NN mistura)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN ficção)
+       (ADJP 
+        (JJ científica)
+       )
+      )
+      (NP 
+       (NN filme)
+       (NP 
+        (NN noir)
+       )
+      )
+      e
+      (NP 
+       (DT a)
+       (NN irreverência)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN histórias)
+         (PP 
+          (IN em)
+          (NP 
+           (NN quadrinhos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

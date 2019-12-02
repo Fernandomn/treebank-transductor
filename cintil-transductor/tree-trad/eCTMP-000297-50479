@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ própria)
+     (NP 
+      (NNS União)
+      (NNS Soviética)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB resistiu)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS abalo)
+     )
+    )
+   )
+  )
+ )
+)

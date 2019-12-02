@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NNS programa)
+    )
+   )
+   (S 
+    (VP 
+     (VB fazem)
+     (NP 
+      (NP 
+       (NNS parte)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS obras)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS William)
+          (NNS Brade)
+         )
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS Claudio)
+            (NNS Monteverdi)
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (NP 
+             (NNS Giovanni)
+             (NNS Gabrielli)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Debate)
+    (JJ nacional)
+   )
+  )
+  (VP 
+   (VB examina)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS ensino)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Matemática)
+      )
+     )
+    )
+   )
+  )
+ )
+)

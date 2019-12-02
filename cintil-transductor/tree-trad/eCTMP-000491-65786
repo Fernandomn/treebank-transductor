@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Dias)
+     (NNS Loureiro)
+    )
+   )
+   (VP 
+    (VB deve)
+    (VP 
+     (VB estar)
+     (ADJP 
+      (RB plenamente)
+      (JJ satisfeito)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS afirmação)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VP 
+      (VB feita)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS PÚBLICO)
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Robin)
+         (NNS Edmeades)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS administrador)
+         (NNS financeiro)
+         (NNS de_)
+         (NNS a)
+         (NNS Companhia)
+         (NNS de)
+         (NNS Celulose)
+         (NNS de_)
+         (NNS o)
+         (NNS Caima)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

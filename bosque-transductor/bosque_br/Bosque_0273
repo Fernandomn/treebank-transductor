@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB À_medida_que)
+    )
+    (NP 
+     (DT o)
+     (NN grupo)
+     (PP 
+      (IN de)
+      (NP 
+       (NN serviços)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP entram)
+        )
+        (PP 
+         (PP 
+          (IN em+)
+          (NP 
+           (DT os)
+           (NN lares)
+          )
+         )
+         e
+         (PP 
+          (IN em+)
+          (NP 
+           (DT as)
+           (NN empresas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP evolui)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN definição)
+    (PP 
+     (IN de)
+     (NP 
+      (NN serviço)
+      (ADJP 
+       (JJ universal)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB evoluir)
+   )
+   (ADVP 
+    (RB também)
+   )
+  )
+ )
+)

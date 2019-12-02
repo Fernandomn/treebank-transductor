@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS universo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS apreensões)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB envolve)
+   (NP 
+    (NP 
+     (NNS operação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS NATO)
+      )
+     )
+    )
+   )
+  )
+ )
+)

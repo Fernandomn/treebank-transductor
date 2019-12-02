@@ -1,0 +1,47 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB fez)
+        (NP 
+         (DT a)
+         (NP 
+          (CD primeira)
+          (NP 
+           (NNS página)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS PÚBLICO)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS domingo)
+          (JJ anterior)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

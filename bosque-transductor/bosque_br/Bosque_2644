@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Cornélio_Pires)
+    (NP 
+     (NP 
+      (NN Folclorista)
+     )
+     e
+     (NP 
+      (NN contador)
+      (PP 
+       (IN de)
+       (NP 
+        (NN causos)
+       )
+      )
+     )
+    )
+    (ADJP 
+     (CD 1884-1958)
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (JJ primeiro)
+    (NN produtor)
+    (ADJP 
+     (JJ independente)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN discos)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+     )
+    )
+   )
+  )
+ )
+)

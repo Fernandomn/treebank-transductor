@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Foi)
+     (NP 
+      (DT a)
+      (NP 
+       (CD primeira)
+       (NP 
+        (NNS coisa)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (NP 
+             (PRP me)
+            )
+            (VB apareceu)
+           )
+           (PP 
+            (IN a_)
+            (NP 
+             (DT a)
+             (NNS frente)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

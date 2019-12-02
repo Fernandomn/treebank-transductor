@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Ira)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT seus)
+     (NN militantes)
+    )
+    (VP 
+     (VBP mataram)
+    )
+    (NP 
+     (NN carteiro)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NN permissão)
+     )
+    )
+   )
+  )
+ )
+)

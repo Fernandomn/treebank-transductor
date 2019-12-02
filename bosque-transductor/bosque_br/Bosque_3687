@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN federação)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (ADJP 
+       (ADJP 
+        (JJ pequenas)
+       )
+       e
+       (ADJP 
+        (JJ médias)
+       )
+      )
+      (NN empresas)
+     )
+    )
+   )
+   (VP 
+    (VBP revelou)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT uma)
+     (NN pesquisa)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT seus)
+     (VBN filiados)
+    )
+    (VP 
+     (VBP estão)
+    )
+    (ADJP 
+     (JJ próximos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN pânico)
+      )
+     )
+    )
+    (PP 
+     (IN em_relação_a+)
+     (NP 
+      (DT a)
+      (NN situação)
+      (ADJP 
+       (JJ econômica)
+      )
+     )
+    )
+   )
+  )
+ )
+)

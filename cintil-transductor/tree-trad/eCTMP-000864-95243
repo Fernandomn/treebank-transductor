@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministro)
+    (NNS de_)
+    (NNS a)
+    (NNS Indústria)
+   )
+  )
+  (VP 
+   (VB pode)
+   (VP 
+    (VB demitir)
+    (NP 
+     (PRP -se)
+    )
+   )
+  )
+ )
+)

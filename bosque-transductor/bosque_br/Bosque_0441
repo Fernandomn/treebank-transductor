@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Além_de+)
+     (NP 
+      (DT o)
+      (NN zagueiro)
+      (NP 
+       (NNP Grun)
+      )
+     )
+    )
+    e
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN centroavante)
+      (NP 
+       (NNP Weber)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN lateral-esquerdo)
+    (NP 
+     (NNP Vital_Borkelmans)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP encontra-)
+     )
+     (NP 
+      (PRP se)
+     )
+     (ADVP 
+      (RB também)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NN cartão)
+       (ADJP 
+        (JJ amarelo)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP pode)
+      (VB ficar)
+     )
+     (ADVP 
+      (RB de_fora)
+     )
+     (ADVP 
+      (RB hoje)
+     )
+    )
+   )
+  )
+ )
+)

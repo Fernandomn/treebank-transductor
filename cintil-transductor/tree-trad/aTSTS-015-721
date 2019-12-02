@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS carro)
+   )
+   (VP 
+    (VP 
+     (VB espetou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (DT a)
+      (NNS parede)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cristiane)
+     (NNS Torloni)
+    )
+   )
+   (VP 
+    (VP 
+     (VB descobriu)
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP poucos)
+        (NNS meses)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT aquilo)
+     (NP 
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (PRP muitos)
+         (NNS portugueses)
+        )
+        (VP 
+         (RB ainda)
+         (VP 
+          (VP 
+           (VP 
+            (RB não)
+            (VB repararam)
+           )
+           (PP 
+            (IN em)
+            (NP 
+             (PRP tantos)
+             (NNS anos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

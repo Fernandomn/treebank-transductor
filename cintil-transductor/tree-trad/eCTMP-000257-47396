@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS números)
+     (PP 
+      (PP 
+       (IN em)
+       (IN cima)
+       (IN de_)
+      )
+      (NP 
+       (DT a)
+       (NNS mesa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tinham)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS significado)
+      (ADJP 
+       (RB exclusivamente)
+       (JJ simbólico)
+      )
+     )
+    )
+   )
+  )
+ )
+)

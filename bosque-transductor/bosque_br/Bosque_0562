@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Para)
+     (VP 
+      (NP 
+       (PRP quem)
+      )
+      (VP 
+       (VBP quer)
+      )
+      (VP 
+       (VP 
+        (VB ser)
+       )
+       (NP 
+        (NN candidato)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN Senado)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP faltou)
+    )
+    (NP 
+     (NP 
+      (ADJP 
+       (JJ bom)
+      )
+      (NN senso)
+     )
+     e
+     (NP 
+      (NN juízo)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

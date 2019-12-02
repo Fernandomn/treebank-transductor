@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Murilo)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (VP 
+    (VBP está)
+    (VBG partindo)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN pressuposto)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (NP 
+        (PRP ele)
+       )
+       (VP 
+        (VBP é)
+       )
+       (NP 
+        (NN poeta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

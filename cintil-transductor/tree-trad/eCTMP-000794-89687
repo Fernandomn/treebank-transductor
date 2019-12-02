@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Acentua)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT o)
+     (NNS reaccionarismo)
+    )
+   )
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS área)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS música)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (CC e)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS generalidade)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (NNS escolas)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS formação)
+               (JJ artística)
+              )
+             )
+            )
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Estado)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

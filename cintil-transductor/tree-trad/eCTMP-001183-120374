@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Caetano)
+      (NNS Veloso)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Pedro)
+        (NNS Abrunhosa)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NNS Paulino)
+         (NNS Vieira)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB actuam)
+     (RB hoje)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS praça)
+       (NNS Sony)
+      )
+     )
+    )
+   )
+  )
+ )
+)

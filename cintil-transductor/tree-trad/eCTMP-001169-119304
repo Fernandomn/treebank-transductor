@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Taveira)
+  )
+  (VP 
+   (VB desdramatiza)
+   (NP 
+    (NP 
+     (NNS desvio)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS rio)
+        (NNS Douro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

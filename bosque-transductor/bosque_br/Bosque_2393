@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NNP Tejofran)
+    )
+    e
+    (NP 
+     (DT a)
+     (NNP Power)
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN acusadas)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Rui_Ramos)
+     (NP 
+      (NP ex-integrante)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN campanha)
+        (ADJP 
+         (JJ tucana)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB financiar)
+     )
+     (NP 
+      (DT a)
+      (NN estrutura)
+      (ADJP 
+       (JJ política)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN candidato)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP PSDB)
+         )
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN governo)
+         )
+        )
+        (NP 
+         (NNP Mário_Covas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

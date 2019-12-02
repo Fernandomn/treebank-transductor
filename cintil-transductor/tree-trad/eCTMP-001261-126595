@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Boicote)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NNS eleições)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS hipótese)
+      (ADJP 
+       (RB muito)
+       (JJ plausível)
+      )
+     )
+    )
+   )
+  )
+ )
+)

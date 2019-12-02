@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NNS relatório)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT os)
+      (NNS trabalhos)
+     )
+     (VP 
+      (VB estão)
+      (JJ avançados)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VP 
+        (VB ficarão)
+        (VB concluídos)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS época)
+          (JJ prevista)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

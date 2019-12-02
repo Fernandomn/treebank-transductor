@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Teatro)
+     (NP 
+      (CC e)
+      (NNS vida)
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NNS subúrbios)
+      (JJ pobres)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS África)
+        (NNS de_)
+        (NNS o)
+        (NNS Sul)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

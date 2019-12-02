@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Os)
+     (NN relógios)
+    )
+    (VP 
+     (VBP serão)
+     (VBN atrasados)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN meia-noite)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NN 23h)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT os)
+     (NN trens)
+    )
+    (VP 
+     (VBP continuarão)
+     (IN a)
+     (VB correr)
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (DT a)
+      (JJ segunda)
+      (NN meia-noite)
+     )
+    )
+   )
+  )
+ )
+)

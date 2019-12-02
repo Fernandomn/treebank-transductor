@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CC Se)
+      (VP 
+       (VP 
+        (VB apanhar)
+        (NP 
+         (DT uma)
+         (NNS ave)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS rua)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB comete)
+      (NP 
+       (DT um)
+       (NNS erro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

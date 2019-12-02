@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN diária)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN aluguel)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NNP Uno_Mille)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP sai)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN R$)
+     (ADJP 
+      (CD 63)
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN quilometragem)
+     (ADJP 
+      (JJ livre)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Avis)
+    )
+   )
+  )
+ )
+)

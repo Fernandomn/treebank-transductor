@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN ministro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN Minas_e_Energia)
+       (NP 
+        (NNP Alexis_Stepanenko)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT essa)
+    (NN melhoria)
+   )
+   (VP 
+    (VBP deverá)
+    (VB ser)
+    (VBN buscada)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (IN de+)
+     (NP 
+      (NP 
+       (DT a)
+       (NN redução)
+       (PP 
+        (IN de)
+        (NP 
+         (NN custos)
+        )
+       )
+      )
+      e
+      (NP 
+       (NN aumento)
+       (PP 
+        (IN de)
+        (NP 
+         (NN eficiência)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

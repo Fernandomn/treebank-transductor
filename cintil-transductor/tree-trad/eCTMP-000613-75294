@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Violações)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS direitos)
+       (JJ humanos)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB denunciadas)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS CE)
+     )
+    )
+   )
+  )
+ )
+)

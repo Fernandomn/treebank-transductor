@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Gonçalo)
+    )
+    (VP 
+     (VP 
+      (VB tomou)
+      (NP 
+       (DT a)
+       (NNS decisão)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS finais)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Julho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS aventura)
+     )
+     (VP 
+      (VB começou)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS início)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Setembro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

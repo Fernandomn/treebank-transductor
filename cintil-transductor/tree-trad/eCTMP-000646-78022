@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (ADVP 
+        (RB Francamente)
+       )
+       (VP 
+        (VB temos)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS relação)
+          (ADJP 
+           (RB muito)
+           (JJ boa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB observou)
+    )
+    (NP 
+     (NNS Aristide)
+    )
+   )
+  )
+ )
+)

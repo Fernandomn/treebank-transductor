@@ -1,0 +1,109 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ única)
+    (NN alternativa)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP resta)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NNP Sarney)
+      )
+     )
+     (ADVP 
+      (RB de_fato)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NNP Superior_Tribunal_de_Justiça)
+     )
+     (VP 
+      (VBP acate)
+     )
+     (NP 
+      (DT a)
+      (NN denúncia)
+      (PP 
+       (IN de)
+       (NP 
+        (NN estelionato)
+        (VP 
+         (VP 
+          (VBN apresentada)
+         )
+         (PP 
+          (IN por+)
+          (NP 
+           (DT o)
+           (NNP Ministério_Público_Federal)
+           (PP 
+            (IN contra)
+            (NP 
+             (NNP Orestes_Quércia)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (IN que)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT este)
+       (NN caso)
+      )
+     )
+     (NP 
+      (DT o)
+      (NP ex-governador)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+     (VP 
+      (VBP renuncie)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN candidatura)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP PMDB)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

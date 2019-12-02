@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Renato_Batista_Pedroso)
+     (NP 
+      (CD 21)
+     )
+    )
+    (NP 
+     (NNP Douglas_José_da_Silva)
+     (NP 
+      (CD 21)
+     )
+    )
+    e
+    (NP 
+     (NNP A.L.F.)
+     (ADJP 
+      (CD 16)
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (ADJP 
+    (JJ incomunicáveis)
+   )
+  )
+ )
+)

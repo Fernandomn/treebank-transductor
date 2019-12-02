@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS vereador)
+     (NNS Oliveira)
+     (NNS Dias)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (JJ poluente)
+      )
+      (NP 
+       (NNS Matadouro)
+       (NNS de_)
+       (NNS o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

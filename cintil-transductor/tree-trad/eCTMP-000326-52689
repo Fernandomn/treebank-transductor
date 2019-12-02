@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ própria)
+     (NP 
+      (NP 
+       (NNS Pedagogia)
+       (NNS de_)
+       (NNS o)
+       (NNS Oprimido)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS livro)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB ultrapassou)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS preocupações)
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NNS alfabetização)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

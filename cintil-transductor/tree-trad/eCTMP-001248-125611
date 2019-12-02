@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS voz)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS igrejas)
+        (JJ negras)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS América)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

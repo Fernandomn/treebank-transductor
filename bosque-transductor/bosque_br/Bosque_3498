@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBN Recém-promovido)
+   )
+   (NP 
+    (NNP Derlan)
+    (NP 
+     (CD 17)
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (CD um)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN destaques)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Cruzeiro)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (DT sua)
+     (NN habilidade)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT as)
+       (NN saídas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN defesa)
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NN ataque)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

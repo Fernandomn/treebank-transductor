@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Para)
+      (RB já)
+     )
+    )
+    (VP 
+     (VB digo)
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT as)
+        (NNS estradas)
+       )
+       (VP 
+        (VP 
+         (VB são)
+         (JJ perigosas)
+        )
+        (CONJP 
+         (CONJP 
+          (CC porque)
+          (S 
+           (VP 
+            (VB estão)
+            (PP 
+             (IN em)
+             (NP 
+              (NP 
+               (ADJP 
+                (RB muito)
+                (JJ mau)
+               )
+               (NNS estado)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

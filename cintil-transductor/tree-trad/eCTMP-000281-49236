@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS ocupantes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS cadeiras)
+        (JJ reservadas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB eram)
+    (NP 
+     (DT os)
+     (NP 
+      (JJ mesmos)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (CD primeiro)
+          (NNS dia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

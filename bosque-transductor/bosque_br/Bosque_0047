@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Herbert_Berger)
+    (NP 
+     (NN diretor-superintendente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN empresa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Charade)
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP aproxima)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Honda_Civic)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN tamanho)
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP custa)
+      )
+      (ADVP 
+       (RB bem)
+       (RB menos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

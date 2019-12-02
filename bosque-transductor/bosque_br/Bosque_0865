@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN reunião)
+    (PP 
+     (IN de)
+     (NP 
+      (NN bispos)
+     )
+    )
+   )
+   (VP 
+    (VBP discutirá)
+   )
+   (NP 
+    (DT a)
+    (NN vida)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NN padres)
+      )
+      e
+      (NP 
+       (NN freiras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

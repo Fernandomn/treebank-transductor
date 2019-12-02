@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Conselho_Municipal_de_Defesa_dos_Direitos_das_Mulheres_e_das_Minorias)
+   )
+   (VP 
+    (VBP promove)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Natal)
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT as)
+     (NN 14h)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN calçadão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP rua_João_Pessoa)
+       (NP 
+        (NN centro)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NN ato)
+    (ADJP 
+     (JJ público)
+    )
+   )
+  )
+ )
+)

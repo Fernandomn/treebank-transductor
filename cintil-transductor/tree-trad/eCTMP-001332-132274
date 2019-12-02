@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Derek)
+      (NNS Barton)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB esteve)
+       (RB recentemente)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS passagem)
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNS Lisboa)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS PÚBLICO)
+     )
+     (VP 
+      (VB entrevistou)
+      (NP 
+       (PRP -o)
+      )
+     )
+    )
+   )
+  )
+ )
+)

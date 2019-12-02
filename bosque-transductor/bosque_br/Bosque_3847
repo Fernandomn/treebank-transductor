@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NNP URV)
+    )
+    (VP 
+     (VBP é)
+     (VBN produzida)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (CD três)
+      (NN índices)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN índices)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT o)
+     (DT mesmo)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Ufir)
+      )
+     )
+    )
+   )
+  )
+ )
+)

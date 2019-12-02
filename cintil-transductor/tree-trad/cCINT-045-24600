@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS início)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS dia)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB trouxe)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS Rui)
+      )
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS revelação)
+      (JJ inesperada)
+     )
+    )
+   )
+  )
+ )
+)

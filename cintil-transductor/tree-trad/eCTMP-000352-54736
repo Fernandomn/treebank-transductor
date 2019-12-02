@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS missão)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB interrompida)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fim)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD dois)
+          (NNS anos)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (PRP alguns)
+           (NNS meses)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

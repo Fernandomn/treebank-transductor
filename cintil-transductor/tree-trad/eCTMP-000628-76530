@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Contas)
+  )
+  (VP 
+   (VP 
+    (VB consolidadas)
+   )
+   (PP 
+    (PP 
+     (IN até)
+     (IN a_)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS final)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Junho)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

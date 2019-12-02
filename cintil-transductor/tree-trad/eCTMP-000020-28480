@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Mary)
+      (NNS Sue)
+     )
+    )
+    (NP 
+     (NP 
+      (CD 55)
+      (NNS anos)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB entrou)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNS amiga)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS exposição)
+      )
+     )
+    )
+    (ADVP 
+     (ADVP 
+      (RB por)
+      (RB acaso)
+     )
+    )
+   )
+  )
+ )
+)

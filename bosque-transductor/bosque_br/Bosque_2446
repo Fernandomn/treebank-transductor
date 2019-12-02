@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Tancredo)
+   )
+   (VP 
+    (VBP tivera)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT o)
+     (NN governo)
+    )
+   )
+   (NP 
+    (NN conflitos)
+    (ADJP 
+     (JJ impeditivos)
+    )
+    (NP 
+     (DT aqueles)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (PRP o)
+      )
+      (VP 
+       (VBP levaram)
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB dissolver)
+        )
+        (NP 
+         (DT o)
+         (NNP PP)
+         (PP 
+          (IN de)
+          (RB então)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

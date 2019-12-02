@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NNS erro)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS julgamento)
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD 43º)
+        (NNS movimento)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB iria)
+    (VP 
+     (RB porém)
+     (VP 
+      (VB inverter)
+      (NP 
+       (DT a)
+       (NNS situação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

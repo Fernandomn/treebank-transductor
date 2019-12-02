@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Imagens)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS bastidores)
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS visitas)
+        (JJ guiadas)
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (NNS lojas)
+           (JJ oficiais)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS clube)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB completarão)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS programação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS televisão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

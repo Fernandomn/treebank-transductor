@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS livros)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS divulgação)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS ciência)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ bom)
+       (NNS negócio)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Portugal)
+     )
+    )
+   )
+  )
+ )
+)

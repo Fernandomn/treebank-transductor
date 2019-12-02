@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Nosso)
+    (NN herói)
+    (NP 
+     (NNP Brendan_Fraser)
+    )
+   )
+   (VP 
+    (VBP entra)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN cena)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN voltas)
+     (PP 
+      (IN com)
+      (NP 
+       (DT sua)
+       (NN tese)
+       (PP 
+        (IN de)
+        (NP 
+         (NN formatura)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (NN orientação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ duro)
+       (NN professor)
+       (PP 
+        (IN de)
+        (NP 
+         (NN Direito)
+         (ADJP 
+          (JJ Constitucional)
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (VBN interpretado)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT o)
+          (NN escritor)
+          (NP 
+           (NNP Gore_Vidal)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

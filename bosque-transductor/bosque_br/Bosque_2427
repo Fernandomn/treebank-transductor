@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN situação)
+   )
+   (VP 
+    (VBP tende)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB agravar)
+     )
+    )
+   )
+   (VP 
+    (IN uma_vez_que)
+    (NP 
+     (DT nenhuma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN partes)
+      )
+     )
+    )
+    (VP 
+     (VBP parece)
+     (VB mostrar)
+    )
+    (NP 
+     (NN disposição)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB recuar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

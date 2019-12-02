@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (NP 
+      (NP 
+       (NNS preceito)
+       (JJ habitual)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS disciplina)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS tiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

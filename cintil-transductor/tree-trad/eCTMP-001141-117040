@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fernando)
+     (NNS Lopes)
+    )
+   )
+   (VP 
+    (VB fala)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (CD duas)
+       (NP 
+        (NNS versões)
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NNS filme)
+         )
+        )
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ francesa)
+          )
+         )
+         (NP 
+          (NP 
+           (DT a)
+           (NP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB chama)
+               (NP 
+                (NNS matriz)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT outra)
+          (NP 
+           (JJ portuguesa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

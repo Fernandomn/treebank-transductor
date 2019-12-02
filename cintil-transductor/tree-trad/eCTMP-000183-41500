@@ -1,0 +1,86 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Sporting)
+    )
+    (VP 
+     (VP 
+      (VB perdeu)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NP 
+         (NNS set)
+        )
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VB conquistando)
+       (NP 
+        (NP 
+         (RB apenas)
+         (CD dois)
+        )
+        (NNS pontos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (CD segundo)
+         )
+        )
+       )
+       (VP 
+        (VB fez)
+        (NP 
+         (CD cinco)
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (CD terceiro)
+          )
+         )
+        )
+        (VP 
+         (VB fez)
+         (NP 
+          (RB apenas)
+          (NP 
+           (DT um)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

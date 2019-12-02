@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Pintura)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Tomás)
+        (NNS Vasques)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS exposição)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS Fundação)
+           (NNS Convento)
+           (NNS de_)
+           (NNS a)
+           (NNS Orada)
+          )
+          (PP 
+           (PP 
+            (IN em)
+            (NP 
+             (NNS Monsaraz)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

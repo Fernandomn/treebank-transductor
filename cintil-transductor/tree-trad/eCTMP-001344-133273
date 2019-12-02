@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (NP 
+      (NP 
+       (DT um)
+       (NP 
+        (NNS sacrifício)
+        (ADJP 
+         (ADJP 
+          (RB aparentemente)
+          (JJ desnecessário)
+         )
+         (ADJP 
+          (ADJP 
+           (VB feito)
+           (ADVP 
+            (RB em)
+            (RB vão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS sacrifício)
+       (JJ escusado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

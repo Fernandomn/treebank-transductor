@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (ADJP 
+          (RB mais)
+          (JJ eloquentes)
+         )
+         (NP 
+          (NNS oradores)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Câmara)
+             (NNS de_)
+             (NNS os)
+             (NNS Representantes)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

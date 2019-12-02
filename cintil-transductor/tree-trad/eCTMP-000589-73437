@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VB diz)
+      (NP 
+       (DT o)
+       (NNS contrário)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB vê)
+     )
+     (NP 
+      (DT a)
+      (NNS realidade)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS olhos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS cara)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

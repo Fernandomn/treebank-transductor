@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Ferve)
+     (PP 
+      (IN a)
+      (NP 
+       (CD cem)
+       (NP 
+        (NNS graus)
+        (NNS Celsius)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB congela)
+      (PP 
+       (IN a)
+       (NP 
+        (CD zero)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

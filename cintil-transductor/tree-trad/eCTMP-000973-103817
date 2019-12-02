@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS desvalorização)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS dólar)
+          (PP 
+           (PP 
+            (IN face)
+            (IN a_)
+           )
+           (NP 
+            (DT o)
+            (NNS escudo)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (CD 0,57)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

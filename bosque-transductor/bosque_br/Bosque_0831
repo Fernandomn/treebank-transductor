@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN municípios)
+    (PP 
+     (IN com)
+     (NP 
+      (JJ maiores)
+      (NN incidências)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NP 
+     (NNP Nossa_Senhora_do_Socorro)
+     (PP 
+      (IN com)
+      (NP 
+       (CD 85)
+       (NN casos)
+      )
+     )
+    )
+    (NP 
+     (NNP Aracaju)
+     (NP 
+      (CD 66)
+     )
+    )
+    e
+    (NP 
+     (NNP Laranjeiras)
+     (ADJP 
+      (CD 46)
+     )
+    )
+   )
+  )
+ )
+)

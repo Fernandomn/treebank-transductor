@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS volume)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS negócios)
+       )
+      )
+     )
+     (ADJP 
+      (RB ontem)
+      (ADJP 
+       (VB realizado)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Bolsa)
+          (NNS de)
+          (NNS Frankfurt)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VB reduzido)
+   )
+  )
+ )
+)

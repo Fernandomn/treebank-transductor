@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS anúncio)
+   )
+   (VP 
+    (VB surgiu)
+    (PP 
+     (PP 
+      (IN em_)
+      (IN a)
+      (IN sequência)
+      (IN de_)
+     )
+     (NP 
+      (DT esta)
+      (NP 
+       (NNS prestação)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS serviços)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

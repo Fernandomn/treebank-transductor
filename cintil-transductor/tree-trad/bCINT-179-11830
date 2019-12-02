@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS encerramento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS assembleias)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB prorrogado)
+     (PP 
+      (IN por)
+      (NP 
+       (DT uma)
+       (NNS hora)
+      )
+     )
+    )
+   )
+  )
+ )
+)

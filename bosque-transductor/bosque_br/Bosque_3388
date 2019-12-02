@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP o_que)
+    )
+    (VP 
+     (VBP mudou)
+    )
+    (ADVP 
+     (RB talvez)
+    )
+   )
+   (VP 
+    (VBP seja)
+   )
+   (NP 
+    (DT meu)
+    (NN vocabulário)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP está)
+     )
+     (ADJP 
+      (RB menos)
+      (VBN estruturado)
+     )
+    )
+   )
+  )
+ )
+)

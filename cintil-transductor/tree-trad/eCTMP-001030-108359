@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ela)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB veio)
+     )
+     (CONJP 
+      (RB apenas)
+      (CONJP 
+       (CC porque)
+       (S 
+        (VP 
+         (VB está)
+         (JJ grávida)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Junta)
+    (NNS Autónoma)
+    (NNS de_)
+    (NNS os)
+    (NNS Portos)
+    (NNS de_)
+    (NNS o)
+    (NNS Centro)
+   )
+  )
+  (VP 
+   (VB tomou)
+   (NP 
+    (NNS posse)
+   )
+  )
+ )
+)

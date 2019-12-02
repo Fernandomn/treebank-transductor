@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP própria)
+     (NNS matéria)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (VB ensinada)
+    )
+    (PP 
+     (PP 
+      (PP 
+       (PP 
+        (IN a_)
+        (IN o)
+        (IN longo)
+        (IN de)
+       )
+       (NP 
+        (PRP todo)
+        (NP 
+         (DT o)
+         (NNS ano)
+        )
+       )
+      )
+     )
+     (PP 
+      (CC mas)
+      (PP 
+       (IN em)
+       (NP 
+        (DT certos)
+        (NNS períodos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

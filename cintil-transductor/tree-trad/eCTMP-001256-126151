@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Estátua)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS ditador)
+        (JJ albanês)
+       )
+       (NP 
+        (NNS Enver)
+        (NNS Hoxha)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB caiu)
+   (CONJP 
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (CD cinco)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

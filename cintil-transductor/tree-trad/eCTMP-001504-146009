@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gomes)
+   )
+   (VP 
+    (VB visitou)
+    (NP 
+     (NP 
+      (NNS Casa-Museu)
+      (NNS de)
+      (NNS Guerra)
+      (NNS Junqueiro)
+     )
+    )
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (VP 
+     (VB inaugurou)
+     (NP 
+      (NP 
+       (NNS espaço)
+       (PP 
+        (IN para)
+        (NP 
+         (NNS desalojados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

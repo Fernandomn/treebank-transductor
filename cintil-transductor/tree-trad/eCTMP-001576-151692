@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NNS senhoras)
+        (NP 
+         (CC e)
+         (NP 
+          (NNS empregados)
+          (ADJP 
+           (RB espectacularmente)
+           (JJ bonitos)
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN atrás)
+         (IN de_)
+        )
+        (NP 
+         (DT o)
+         (NNS bar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

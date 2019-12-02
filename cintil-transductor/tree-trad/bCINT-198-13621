@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Fez)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS abertura)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS China)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB reduziu)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS presença)
+           (JJ militar)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS Estados)
+             (NNS Unidos)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS Vietname)
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB iniciou)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS détente)
+          (PP 
+           (IN com)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS União)
+             (NNS Soviética)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS pacote)
+   )
+   (VP 
+    (VP 
+     (VB avançará)
+     (RB imenso)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS devolução)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS confiança)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS comunidade)
+             (JJ nacionalista)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (NP 
+   (JJ Última)
+   (NN dica)
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP espere)
+    )
+    (VP 
+     (VP 
+      (VB subir)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN cesto)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN balão)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB iniciar)
+       )
+       (NP 
+        (DT suas)
+        (NN fotos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

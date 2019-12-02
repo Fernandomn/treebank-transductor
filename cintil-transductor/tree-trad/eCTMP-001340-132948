@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Há)
+      (NP 
+       (PRP muita)
+       (NP 
+        (NNS gente)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS folga)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB houve)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS diminuição)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS mesas)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS voto)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

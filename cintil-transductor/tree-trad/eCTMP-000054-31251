@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS autoridade)
+    )
+    (VB chegou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB procedeu)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS identificação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (CD dois)
+            (NNS indivíduos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

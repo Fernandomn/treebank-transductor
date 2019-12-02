@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Como)
+   )
+   (VP 
+    (VB melhorar)
+   )
+   (NP 
+    (DT o)
+    (NN ensino)
+    (ADJP 
+     (JJ superior)
+    )
+   )
+   (PP 
+    (IN sem)
+    (VP 
+     (VP 
+      (VB transformar)
+     )
+     (NP 
+      (DT as)
+      (NN universidades)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN escolões)
+       (VP 
+        (ADVP 
+         (RB onde)
+        )
+        (NP 
+         (DT os)
+         (NN professores)
+        )
+        (VP 
+         (VP 
+          (ADVP 
+           (RB só)
+          )
+          (VP 
+           (VBP repetem)
+          )
+         )
+         e
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VP 
+           (VBP afastam)
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN pesquisa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

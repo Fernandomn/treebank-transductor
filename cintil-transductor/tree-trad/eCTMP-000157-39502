@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Fá)
+     (NP 
+      (PRP -lo)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS argumento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS defesa)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NNS espécies)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

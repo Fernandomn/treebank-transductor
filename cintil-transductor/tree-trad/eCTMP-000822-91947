@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (IN Com)
+     (NP 
+      (NP 
+       (NNS jovens)
+       (NP 
+        (CC e)
+        (NNS crianças)
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB está)
+        (ADVP 
+         (RB fora)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS questão)
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC mas)
+      (S 
+       (PP 
+        (RB mesmo)
+        (PP 
+         (IN com)
+         (NP 
+          (NNS adultos)
+         )
+        )
+       )
+       (S 
+        (NP 
+         (DT esta)
+         (NNS partilha)
+        )
+        (VP 
+         (VP 
+          (RB não)
+          (VB faz)
+         )
+         (NP 
+          (NNS sentido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

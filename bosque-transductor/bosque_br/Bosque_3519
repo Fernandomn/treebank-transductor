@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN motivos)
+   )
+   (VP 
+    (VBP vão)
+   )
+   (ADVP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (JJ bom)
+      (NN atendimento)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN certeza)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB achar)
+        )
+        (ADVP 
+         (RB ali)
+        )
+        (NP 
+         (NN pessoas)
+         (NP 
+          (RB como)
+          (NP 
+           (PRP nós)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

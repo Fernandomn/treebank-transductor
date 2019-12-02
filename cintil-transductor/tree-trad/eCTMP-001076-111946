@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Frequentou)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Conservatório)
+       (NNS de)
+       (NNS Atenas)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB foi)
+      (NP 
+       (NP 
+        (NNS aluna)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Elvira)
+           (NNS de)
+           (NNS Hidalgo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS dias)
+      (JJ seguintes)
+     )
+    )
+    (VP 
+     (VB foram)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS quedas)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB só)
+      (VP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS quinta-feira)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB registaram)
+       )
+      )
+     )
+     (NP 
+      (PRP algumas)
+      (NNS recuperações)
+     )
+    )
+   )
+  )
+ )
+)

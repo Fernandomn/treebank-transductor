@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Nenhum)
+    (NNS membro)
+   )
+   (VP 
+    (VB quis)
+    (VP 
+     (VB falar)
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS fracasso)
+       )
+      )
+      (PP 
+       (CC ou)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS derrota)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

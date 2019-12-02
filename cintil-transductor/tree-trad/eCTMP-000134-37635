@@ -1,0 +1,88 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS chuva)
+    )
+    (VP 
+     (VB entrou)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS lojas)
+        (NP 
+         (CC e)
+         (NP 
+          (NNS casas)
+          (JJ particulares)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB arrastou)
+       (NP 
+        (NNS automóveis)
+       )
+      )
+     )
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB bloqueou)
+         (NP 
+          (DT as)
+          (NP 
+           (NNS entradas)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NNS capital)
+            )
+           )
+          )
+         )
+        )
+       )
+       (S 
+        (CC e)
+        (S 
+         (VP 
+          (RB nem)
+          (VP 
+           (VB poupou)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS equipamentos)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS EDP)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

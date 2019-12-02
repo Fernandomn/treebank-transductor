@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Lançamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS livro)
+         (NP 
+          (NP 
+           (NNS O)
+           (NNS Começo)
+           (NNS de_)
+           (NNS as)
+           (NNS Águas)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS projecto)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS autoria)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS Carlos)
+               (NNS Moura)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Museu)
+       (NNS de_)
+       (NNS a)
+       (NNS Água)
+      )
+     )
+    )
+   )
+  )
+ )
+)

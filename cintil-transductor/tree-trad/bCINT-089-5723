@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Sexo)
+      (NP 
+       (CC e)
+       (NNS religião)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB diz)
+     )
+     (NP 
+      (NP 
+       (NNS Rentes)
+       (NNS de)
+       (NNS Carvalho)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS tom)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS evidência)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Bento)
+   )
+   (VP 
+    (VB tinha)
+    (VP 
+     (VP 
+      (VB vendido)
+      (NP 
+       (CD 5)
+       (NP 
+        (NNS contos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS heroína)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS vítima)
+      )
+     )
+    )
+   )
+  )
+ )
+)

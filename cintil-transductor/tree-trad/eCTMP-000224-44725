@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Sabemos)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB é)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS aspirina)
+          (PP 
+           (IN para)
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS doença)
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (RB só)
+                (VP 
+                 (VP 
+                  (VB é)
+                  (JJ curável)
+                 )
+                 (PP 
+                  (IN com)
+                  (NP 
+                   (DT o)
+                   (NP 
+                    (NNS prolongamento)
+                    (PP 
+                     (IN de_)
+                     (NP 
+                      (DT o)
+                      (NNS Metro)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

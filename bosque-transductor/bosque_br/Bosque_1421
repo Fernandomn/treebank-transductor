@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN cartão)
+    (NP 
+     (NNP TVA)
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB permitir)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT seus)
+     (NN portadores)
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT este)
+     (NN mês)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN participação)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (JJ primeiras)
+      (NN exibições)
+      (VP 
+       (VP 
+        (VBN realizadas)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN espaços)
+         (ADJP 
+          (JJ culturais)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Banco_Nacional)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

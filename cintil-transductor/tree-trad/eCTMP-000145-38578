@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Resolução)
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB aprovada)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NNS unanimidade)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Holanda)
+    )
+   )
+  )
+ )
+)

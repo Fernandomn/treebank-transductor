@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Observadores)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS UNITA)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN contra)
+    (NP 
+     (NNS resultados)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN países)
+    (VBN visitados)
+   )
+   (VP 
+    (VBP poderão)
+    (VB exigir)
+   )
+   (NP 
+    (DT a)
+    (NN comprovação)
+    (PP 
+     (IN de)
+     (NP 
+      (NN meios)
+      (PP 
+       (IN de)
+       (NP 
+        (NN subsistência)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN permanência)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN turista)
+      )
+     )
+    )
+   )
+  )
+ )
+)

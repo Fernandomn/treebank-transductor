@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (NP 
+      (DT Este)
+      (NNS ano)
+     )
+    )
+    (VP 
+     (RB nem)
+     (VP 
+      (VB chega)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (CD 20)
+         (NP 
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS orçamento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

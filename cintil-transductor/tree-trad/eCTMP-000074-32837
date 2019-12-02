@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS guarda-roupa)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB concebido)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Maria)
+         (NNS de_)
+         (NNS o)
+         (NNS Céu)
+         (NNS Guerra)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Sandra)
+          (NNS Calado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN Folha)
+   )
+   (VP 
+    (VBP procurou)
+   )
+   (VP 
+    (VP 
+     (VB falar)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NNP Melodia)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN incidente)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS desenvolvimento)
+       (JJ urbano)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS ciganos)
+    )
+    (VP 
+     (VB têm)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS problema)
+        (JJ agudo)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS asfixia)
+          (JJ territorial)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

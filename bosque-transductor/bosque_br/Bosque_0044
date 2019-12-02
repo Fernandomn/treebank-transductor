@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Cooper)
+     )
+    )
+    (NP 
+     (NNP Benedito_Vieira_Pereira)
+    )
+    (ADJP 
+     (CD 49)
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP pretendia)
+    )
+    (VP 
+     (VP 
+      (VB distribuir)
+     )
+     (NP 
+      (NN leite)
+      (NP 
+       (NN C)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN postos)
+       (PP 
+        (IN de)
+        (NP 
+         (NN venda)
+        )
+       )
+      )
+     )
+     (ADVP 
+      (RB hoje)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Quer)
+    (VP 
+     (VB dizer)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB gostam)
+        (NP 
+         (PRP ambos)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (JJ mesmas)
+          (NNS coisas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

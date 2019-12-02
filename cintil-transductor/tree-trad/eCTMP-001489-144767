@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Johnny)
+    (NNS Depp)
+   )
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS Minutos)
+       (NNS Contados)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS filme)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS John)
+         (NNS Badham)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

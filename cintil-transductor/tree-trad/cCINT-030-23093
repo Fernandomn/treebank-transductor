@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (ADVP 
+     (RB Então)
+    )
+    (S 
+     (S 
+      (PP 
+       (IN em)
+       (NP 
+        (CD seis)
+        (NNS filhos)
+       )
+      )
+      (S 
+       (NP 
+        (PRP eu)
+       )
+       (VP 
+        (RB só)
+        (VP 
+         (VB tenho)
+         (NP 
+          (DT uma)
+          (NNS rapariga)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (NP 
+        (PRP ela)
+       )
+       (VP 
+        (VP 
+         (VB tinha)
+         (RB logo)
+        )
+        (PP 
+         (IN de)
+         (VP 
+          (VB ser)
+          (NP 
+           (DT uma)
+           (NNS maria-rapaz)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

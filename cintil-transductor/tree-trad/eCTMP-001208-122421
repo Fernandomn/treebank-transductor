@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NP 
+      (JJ próxima)
+      (NNS sexta-feira)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VB será)
+     (ADJP 
+      (JJ igual)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB tem)
+            (VP 
+             (VB sido)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

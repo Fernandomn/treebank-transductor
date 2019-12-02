@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS Porto)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB afundou)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS vez)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Noruega)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS Sporting)
+     )
+     (VP 
+      (VP 
+       (VB tropeçou)
+       (PP 
+        (RB quase)
+        (PP 
+         (IN sem)
+         (NP 
+          (NNS remédio)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS casa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

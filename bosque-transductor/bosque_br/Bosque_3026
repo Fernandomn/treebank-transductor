@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Vasco)
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP fez)
+    )
+    (NP 
+     (NN seguro)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NNP Dener)
+     )
+    )
+   )
+  )
+ )
+)

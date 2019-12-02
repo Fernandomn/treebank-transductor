@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NNS Heroína)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN a)
+     (VB descer)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Europa)
+    )
+   )
+  )
+ )
+)

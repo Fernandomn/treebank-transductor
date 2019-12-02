@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Prédio)
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VP 
+       (VB feito)
+       (PP 
+        (IN por)
+        (NP 
+         (DT um)
+         (NNS empreiteiro)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS terrenos)
+        (JJ municipais)
+       )
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (CC mas)
+   (S 
+    (NP 
+     (DT a)
+     (NNS câmara)
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VP 
+       (RB não)
+       (VB aceitou)
+      )
+      (NP 
+       (DT a)
+       (NNS doação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

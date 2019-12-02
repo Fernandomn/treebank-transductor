@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Nós)
+   )
+   (VP 
+    (VB tivemos)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS participação)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS custo)
+         (PP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS exposições)
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS posters)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

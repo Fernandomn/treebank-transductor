@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Felizmente)
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NNS associações)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS profissionais)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB existem)
+     para que
+     (S 
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS carolice)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (PRP alguns)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (VP 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB promova)
+        )
+        (ADVP 
+         (ADVP 
+          (RB de)
+          (RB facto)
+         )
+        )
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS formação)
+          (JJ contínua)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS professores)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

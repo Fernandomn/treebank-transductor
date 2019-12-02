@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (ADVP 
+     (RB Mais)
+    )
+    (VP 
+     (VBN Retirados)
+    )
+   )
+   (S 
+    (VP 
+     (NP 
+      (DT O)
+      (NN número)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN esquerda)
+       )
+      )
+     )
+     (VP 
+      (VBP representa)
+     )
+     (NP 
+      (DT a)
+      (NN posição)
+      (ADJP 
+       (JJ atual)
+      )
+     )
+    )
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN direita)
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NN posição)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN quinzena)
+        (ADJP 
+         (JJ anterior)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

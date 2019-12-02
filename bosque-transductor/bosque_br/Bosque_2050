@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Mesmo)
+    )
+    (VP 
+     (VBG abstraindo-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (NP 
+      (DT tudo)
+      (DT o)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT a)
+        (NN cidade)
+       )
+       (VP 
+        (VBP representa)
+       )
+       (ADVP 
+        (RB como)
+        (NP 
+         (NN patrimônio)
+         (ADJP 
+          (JJ cultural)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN humanidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB ainda_assim)
+   )
+   (NP 
+    (PRP ela)
+   )
+   (VP 
+    (VBP resulta)
+   )
+   (ADJP 
+    (JJ parisdisíaca)
+    (VP 
+     (VP 
+      (VBN adornada)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT todo)
+       (DT o)
+       (NN sortilégio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

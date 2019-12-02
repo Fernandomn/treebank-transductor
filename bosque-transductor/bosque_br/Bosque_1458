@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Assim_como)
+    (NP 
+     (DT a)
+     (NNP China)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP aceleramos)
+     )
+     (NP 
+      (DT a)
+      (NN reforma)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN campo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP começamos)
+     )
+     (PP 
+      (IN por)
+      (RB aí)
+     )
+    )
+   )
+  )
+ )
+)

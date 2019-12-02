@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Madonna)
+   )
+   (VP 
+    (VP 
+     (VB gosta)
+     (RB mesmo)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS papel)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS mãe)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

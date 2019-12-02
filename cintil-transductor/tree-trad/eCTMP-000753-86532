@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NP 
+         (NNS invasão)
+         (JJ japonesa)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS São)
+           (NNS Francisco)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (CC ou)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS assalto)
+          (JJ americano)
+         )
+         (PP 
+          (IN a)
+          (NP 
+           (NNS Tóquio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

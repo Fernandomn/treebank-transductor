@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (RB Então)
+       (VP 
+        (VP 
+         (RB não)
+         (VB vai)
+        )
+        (VP 
+         (VB ver)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS comboio)
+           (JJ novo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB perguntava)
+      (CONJP 
+       (S 
+        (VP 
+         (VB há)
+         (NP 
+          (NNS dias)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS morador)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Corroios)
+        )
+        (NP 
+         (NP 
+          (NNS concelho)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Seixal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

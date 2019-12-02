@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS placar)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS pontuação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS court)
+           )
+           (JJ central)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estava)
+    (JJ vazio)
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Poderá)
+     (RB depois)
+    )
+    (VP 
+     (VP 
+      (VB levantar)
+      (NP 
+       (DT os)
+       (NNS bilhetes)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS entrada)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS espectáculo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

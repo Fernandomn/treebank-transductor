@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Carlos)
+      (NNS Pereira)
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS cronometrista)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS prova)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ grande)
+      (NNS responsabilidade)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Conquistou)
+   )
+   (NP 
+    (DT o)
+    (NN título)
+    (ADJP 
+     (JJ mundial)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT este)
+      (NN ano)
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN seleção)
+     (PP 
+      (IN de)
+      (NP 
+       (DT seu)
+       (NN país)
+      )
+     )
+     (NP 
+      (DT o)
+      (NNP Dream_Team)
+      (NP 
+       (NNP Time_dos_Sonhos)
+      )
+      (ADJP 
+       (CD 2)
+      )
+     )
+    )
+   )
+  )
+ )
+)

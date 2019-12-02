@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS SAS)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Jan)
+      (NNS Carlzon)
+     )
+    )
+   )
+   (VP 
+    (VB fez)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS balanço)
+      (JJ radiante)
+     )
+    )
+   )
+  )
+ )
+)

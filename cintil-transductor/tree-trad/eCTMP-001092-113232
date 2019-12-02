@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VP 
+       (VB Há)
+       (RB sempre)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS peças)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (RB não)
+            (VB resultam)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT outras)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VB entram)
+              (RB imediatamente)
+             )
+             (PP 
+              (IN em_)
+              (NP 
+               (DT o)
+               (NP 
+                (PP nosso)
+                (NNS reportório)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NNS Anders)
+      (NNS Holdar)
+     )
+    )
+   )
+  )
+ )
+)

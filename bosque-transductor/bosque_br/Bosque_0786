@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Ignacio_Perea)
+    (ADJP 
+     (CD 32)
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN condenado)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (CD cinco)
+     (NN penas)
+     (PP 
+      (IN de)
+      (NP 
+       (NN morte)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Miami)
+    )
+   )
+  )
+ )
+)

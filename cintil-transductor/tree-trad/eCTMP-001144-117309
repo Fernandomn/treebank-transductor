@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS temas)
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VP 
+      (RB bem)
+      (VB escolhidos)
+     )
+     (ADJP 
+      (CC e)
+      (ADJP 
+       (RB realmente)
+       (ADJP 
+        (JJ importantes)
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NNS portugueses)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

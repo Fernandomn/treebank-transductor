@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ forte)
+     (NP 
+      (NP 
+       (NP 
+        (NNS cintura)
+        (JJ militar)
+       )
+       (JJ russa)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS fronteiras)
+         (PP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Ingúchia)
+           )
+          )
+          (PP 
+           (CC e)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS Daguestão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB impediu)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS entrada)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT estas)
+         (NNS repúblicas)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS conflito)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

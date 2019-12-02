@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Cutler)
+   )
+   (VP 
+    (VBP admitiu)
+   )
+   (VP 
+    (VP 
+     (IN que)
+     (NP 
+      (DT as)
+      (NN conversas)
+      (PP 
+       (IN entre)
+       (NP 
+        (NN funcionários)
+        (PP 
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Casa_Branca)
+          )
+         )
+         e
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN Tesouro)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (NN investigações)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT o)
+          (NN banco)
+          (PP 
+           (IN de)
+           (NP 
+            (NNP McDougal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP eram)
+     )
+     (ADJP 
+      (JJ recomendáveis)
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP constituíram)
+     )
+     (NP 
+      (NN crime)
+     )
+    )
+   )
+  )
+ )
+)

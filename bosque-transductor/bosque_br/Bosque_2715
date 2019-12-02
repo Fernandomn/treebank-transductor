@@ -1,0 +1,75 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NN vinho)
+   (VP 
+    (VP 
+     (VBN marcado)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (JJ belo)
+      (NN contraponto)
+      (PP 
+       (IN entre)
+       (NP 
+        (NP 
+         (DT a)
+         (NN especiaria)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN Baga)
+          )
+         )
+        )
+        e
+        (NP 
+         (DT as)
+         (NN frutas)
+         (ADJP 
+          (JJ vermelhas)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Cabernet)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (RB quase)
+    (CD uma)
+    (NN marca)
+    (VBN registrada)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN criação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT este)
+        (NN vinicultor)
+        (ADJP 
+         (JJ português)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

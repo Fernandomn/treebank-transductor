@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP eles)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN laços)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN aliança)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP vão)
+    (VB afetar)
+   )
+   (NP 
+    (DT as)
+    (NN relações)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NNP Rússia)
+     )
+    )
+   )
+  )
+ )
+)

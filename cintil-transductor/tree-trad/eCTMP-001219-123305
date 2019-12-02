@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Primeiro)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS processo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS abertura)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS NATO)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

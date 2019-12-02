@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Yashica)
+     )
+    )
+   )
+   (VP 
+    (VBP morre)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+  )
+ )
+)

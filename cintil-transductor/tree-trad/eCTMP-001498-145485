@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS instabilidade)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB está)
+        (PP 
+         (IN a)
+         (VP 
+          (VB afectar)
+          (NP 
+           (DT os)
+           (NP 
+            (JJ principais)
+            (NP 
+             (NNS mercados)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS capitais)
+                (JJ internacionais)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB parece)
+    (VP 
+     (VP 
+      (RB não)
+      (VB atingir)
+     )
+     (NP 
+      (NNS Portugal)
+     )
+    )
+   )
+  )
+ )
+)

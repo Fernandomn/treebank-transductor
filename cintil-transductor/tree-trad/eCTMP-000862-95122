@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+    (NP 
+     (CD 20)
+     (NNS anos)
+    )
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS execução)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (VB escrevi)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT aquele)
+               (NNS tempo)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

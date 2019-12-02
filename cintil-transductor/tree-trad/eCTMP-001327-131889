@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS cenários)
+     (JJ portugueses)
+    )
+   )
+   (VP 
+    (VB são)
+    (ADJP 
+     (ADJP 
+      (JJ originais)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS autoria)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Tomás)
+           (NNS Taveira)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

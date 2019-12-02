@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Astronautas)
+   )
+   (VP 
+    (VBP fazem)
+   )
+   (NP 
+    (NN autópsia)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NNP EUA)
+    )
+   )
+  )
+ )
+)

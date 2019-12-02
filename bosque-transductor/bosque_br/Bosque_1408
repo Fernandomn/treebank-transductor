@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Wator)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP chocou)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT um)
+     (NN companheiro)
+     (PP 
+      (IN de)
+      (NP 
+       (NN equipe)
+      )
+     )
+    )
+   )
+  )
+ )
+)

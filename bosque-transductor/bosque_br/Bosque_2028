@@ -1,0 +1,104 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ segunda)
+    (NN fase)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN projeto)
+     )
+    )
+   )
+   (VP 
+    (VBP prevê)
+   )
+   (NP 
+    (DT a)
+    (NN construção)
+    (PP 
+     (IN para)
+     (ADJP 
+      (CD 1995)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP All-Star_Music_Resort)
+     )
+    )
+    (PP 
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (DT mesmo)
+       (NN estilo)
+      )
+     )
+     e
+     (PP 
+      (IN com)
+      (NP 
+       (DT mesma)
+       (NN capacidade)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP homenageará)
+     )
+     (NP 
+      (NP 
+       (DT os)
+       (NN estilos)
+       (ADJP 
+        (JJ musicais)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NN country)
+          )
+          (NP 
+           (NN jazz)
+          )
+          (NP 
+           (NN rock)
+          )
+          (NP 
+           (NN calypso)
+          )
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (NN musicais)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Broadway)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

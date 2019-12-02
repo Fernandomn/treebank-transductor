@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN A)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ nova)
+      (NNS detenção)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB seguiu)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS envio)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS prisão)
+         (NNS de)
+         (NNS Leiria)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

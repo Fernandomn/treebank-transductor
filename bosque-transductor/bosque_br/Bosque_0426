@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (UCP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT o)
+      (NN dólar)
+      (ADJP 
+       (JJ comercial)
+      )
+      (PP 
+       (RB já)
+       (IN a)
+       (NP 
+        (NN R$)
+        (ADJP 
+         (CD 0.85)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+     (VP 
+      (VBG dizendo)
+     )
+     (VP 
+      (IN que)
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP há)
+      )
+      (NP 
+       (NN limite)
+      )
+      (PP 
+       (IN para)
+       (RB baixo)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (JJ necessária)
+    (NN abertura)
+   )
+   (VP 
+    (VBP pode)
+   )
+   (ADVP 
+    (RB involuntariamente)
+   )
+   (VP 
+    (VB desaguar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (VBN arriscado)
+     (NN escancaramento)
+    )
+   )
+  )
+ )
+)

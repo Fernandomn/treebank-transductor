@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN diretor)
+    (ADJP 
+     (JJ executivo)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP FMI)
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP enfatizou)
+   )
+   (NP 
+    (DT a)
+    (NN necessidade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN queda)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN juros)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Brasil)
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB incentivar)
+        )
+        (NP 
+         (DT a)
+         (NN volta)
+         (PP 
+          (IN de)
+          (NP 
+           (NN investimentos)
+           (ADJP 
+            (JJ maciços)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT os)
+          (NN setor)
+          (ADJP 
+           (JJ produtivo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

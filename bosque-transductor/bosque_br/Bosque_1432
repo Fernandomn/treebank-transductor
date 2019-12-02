@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (DT uma)
+       (NN ponte)
+       (PP 
+        (IN de)
+        (NP 
+         (NN safena)
+        )
+       )
+      )
+      e
+      (NP 
+       (DT uma)
+       (NN mamária)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN implantadas)
+      )
+      (PP 
+       (IN há)
+       (UCP 
+        (NP 
+         (CD um)
+         (NN ano)
+        )
+        e
+        (ADJP 
+         (CD meio)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP fez)
+   )
+   (NP 
+    (DT o)
+    (NN trajeto)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN 1h41)
+     (NP 
+      (CD 58)
+      (NN minutos)
+     )
+     (PP 
+      (IN atrás_de+)
+      (NP 
+       (DT o)
+       (NN vencedor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

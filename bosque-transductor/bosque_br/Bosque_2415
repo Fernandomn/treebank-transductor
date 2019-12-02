@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (ADVP 
+    (RB mais_ou_menos)
+   )
+   (NP 
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP está)
+      (VBG acontecendo)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN discussão)
+       (PP 
+        (IN de)
+        (VP 
+         (NP 
+          (PRP quem)
+         )
+         (VP 
+          (VBP tem)
+         )
+         (NP 
+          (NN imóvel)
+         )
+        )
+       )
+       (PP 
+        (IN com)
+        (VP 
+         (NP 
+          (PRP quem)
+         )
+         (VP 
+          (VBP paga)
+         )
+         (NP 
+          (DT o)
+          (NN aluguel)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+  )
+ )
+)

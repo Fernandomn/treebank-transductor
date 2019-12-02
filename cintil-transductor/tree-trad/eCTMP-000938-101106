@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS combate)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS inflação)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VB continuar)
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB assentar)
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT uma)
+          (NP 
+           (NP 
+            (NNS política)
+            (JJ cambial)
+           )
+           (ADJP 
+            (JJ irrealista)
+            (ADJP 
+             (CC e)
+             (JJ suicida)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

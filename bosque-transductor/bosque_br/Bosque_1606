@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Reebock)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (NN resultado)
+    (ADJP 
+     (JJ melhor)
+     (SBAR do_que
+      (S 
+       (DT o)
+       (VBN esperado)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (JJ segundo)
+     (NN trimestre)
+    )
+   )
+  )
+ )
+)

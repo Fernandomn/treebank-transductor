@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fonoaudiólogo)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT uma)
+    (NN área)
+    (ADJP 
+     (JJ vasta)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN atuação)
+     )
+    )
+   )
+   (PP 
+    (IN apesar_de)
+    (VP 
+     (VP 
+      (VB estar)
+     )
+     (ADJP 
+      (RB muito)
+      (VBN concorrida)
+     )
+    )
+   )
+  )
+ )
+)

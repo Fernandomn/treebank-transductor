@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN produto)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (NN similares)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT todo)
+       (DT o)
+       (NN mundo)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP está)
+      (VBG sendo)
+     )
+     (ADVP 
+      (RB muito)
+      (RB bem_aceito)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NNP Estados_Unidos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (NP 
+    (NNP Adolfo_Moruzzi)
+    (ADJP 
+     (CD 49)
+    )
+    (NP 
+     (NN diretor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP NL)
+      )
+     )
+    )
+   )
+  )
+ )
+)

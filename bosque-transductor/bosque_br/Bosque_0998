@@ -1,0 +1,21 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fuso)
+    (ADJP 
+     (JJ horário)
+    )
+   )
+   (VP 
+    (VBP será)
+   )
+   (NP 
+    (DT um)
+    (JJ duro)
+    (NN obstáculo)
+   )
+  )
+ )
+)

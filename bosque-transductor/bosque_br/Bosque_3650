@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT Tanta)
+     (NN coincidência)
+    )
+    (ADVP 
+     (RB só)
+    )
+    (VP 
+     (VBP pode)
+     (VB ser)
+    )
+    (ADJP 
+     (JJ instrutiva)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP pode)
+     (VB mostrar)
+    )
+    (ADVP 
+     (RB mais)
+    )
+    (NP 
+     (DT a)
+     (NNP Alemanha)
+    )
+    (ADVP 
+     (SBAR que
+      (S 
+       (DT qualquer)
+       (NN contato)
+       (ADJP 
+        (JJ político)
+       )
+      )
+     )
+    )
+    (VP 
+     (RB afinal)
+    )
+    (, 
+     (VP 
+      (IN como)
+      (VP 
+       (VBP dizem)
+      )
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (DT o)
+      (NN ser)
+     )
+     (VP 
+      (VBP reside)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN linguagem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

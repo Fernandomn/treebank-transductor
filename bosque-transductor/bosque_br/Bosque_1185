@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN crimes)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Itaim_Paulista)
+     )
+    )
+   )
+   (VP 
+    (VBP ocorreram)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP rua_Enseada_de_Itapacoróia)
+     (ADJP 
+      (CD 327)
+     )
+    )
+   )
+   (PP 
+    (IN por_volta_de+)
+    (NP 
+     (DT as)
+     (NN 20h)
+     (PP 
+      (IN de)
+      (NP 
+       (NN sábado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

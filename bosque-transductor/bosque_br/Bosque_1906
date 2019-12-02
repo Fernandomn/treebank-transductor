@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN humor)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Altman)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN direção)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN convenções)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NN sociedade)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VP 
+            (VBG tendo)
+            (IN que)
+            (VBP aceitar)
+           )
+           (NP 
+            (PRP tudo)
+           )
+           (PP 
+            (IN sob)
+            (NP 
+             (DT as)
+             (NN aparências)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP acaba)
+    (VBG perpetuando)
+   )
+   (NP 
+    (DT uma)
+    (JJ vasta)
+    (NN rede)
+    (PP 
+     (IN de)
+     (NP 
+      (NN hipocrisia)
+     )
+    )
+   )
+  )
+ )
+)

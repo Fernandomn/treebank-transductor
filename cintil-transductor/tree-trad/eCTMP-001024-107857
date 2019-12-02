@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS Portugueses)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Marcha)
+      (NNS Global)
+      (NNS Contra)
+      (NNS o)
+      (NNS Trabalho)
+      (NNS Infantil)
+     )
+    )
+   )
+  )
+ )
+)

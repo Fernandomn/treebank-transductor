@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Ou_seja)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN média)
+      (ADJP 
+       (JJ real)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (JJ últimos)
+        (CD quatro)
+        (NN meses)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+  )
+ )
+)

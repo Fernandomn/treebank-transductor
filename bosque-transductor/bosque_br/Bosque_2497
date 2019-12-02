@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Peças)
+    (PP 
+     (IN de)
+     (NP 
+      (NN mobiliário)
+      (VP 
+       (VP 
+        (VBN feito)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN mão)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBN usadas)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN decoração)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB 
+     (VBN encontradas)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN leilão)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (RB até)
+     (NN US$)
+     (NP 
+      (CD 15)
+      (NN mil)
+     )
+    )
+   )
+  )
+ )
+)

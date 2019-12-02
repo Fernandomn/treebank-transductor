@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NNP PPR)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN discussão)
+   )
+   (VP 
+    (VBP será)
+   )
+   (PP 
+    (IN sobre)
+    (UCP 
+     (NP 
+      (DT a)
+      (NN política)
+      (PP 
+       (IN de)
+       (NP 
+        (NN alianças)
+       )
+      )
+     )
+     e
+     (VP 
+      (IN se)
+      (NP 
+       (PRP ela)
+      )
+      (VP 
+       (VBP inclui)
+      )
+      (UCP 
+       (NP 
+        (DT o)
+        (NN PSDB)
+       )
+       (IN além_de+)
+       (NP 
+        (DT os)
+        (JJ novos)
+        (NN candidatos)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN partido)
+          (PP 
+           (IN a)
+           (NP 
+            (NN presidente)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

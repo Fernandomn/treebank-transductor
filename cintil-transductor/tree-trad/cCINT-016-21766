@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS voz)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS professor)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB era)
+     )
+     (JJ autoritária)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (ADVP 
+       (ADVP 
+        (RB de)
+        (RB facto)
+       )
+      )
+      (VP 
+       (VB tinha)
+       (NP 
+        (NNS razão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

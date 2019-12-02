@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Coreia)
+    (NNS de_)
+    (NNS o)
+    (NNS Sul)
+   )
+  )
+  (VP 
+   (VB elimina)
+   (NP 
+    (NP 
+     (NNS espiões)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Norte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

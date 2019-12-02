@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Richard)
+       (NNS Attenborough)
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS In)
+          (NNS Love)
+          (NNS and)
+          (NNS War)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Anthony)
+        (NNS Minghella)
+       )
+       (PP 
+        (PP 
+         (IN com)
+         (NP 
+          (NP 
+           (NNS The)
+           (NNS English)
+           (NNS Pacient)
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Kevin)
+         (NNS Allen)
+        )
+        (PP 
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (NNS Twin)
+            (NNS Town)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB concorrem)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS Grã-Bretanha)
+     )
+    )
+   )
+  )
+ )
+)

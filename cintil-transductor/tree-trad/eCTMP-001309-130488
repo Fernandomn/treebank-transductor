@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Iniciaram)
+     (PP 
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ mesmo)
+         (NNS tempo)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS negociações)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS arrendamento)
+         (PP 
+          (IN de)
+          (NP 
+           (DT um)
+           (NP 
+            (NP 
+             (JJ novo)
+             (NNS espaço)
+            )
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (ADVP 
+                (RB agora)
+               )
+               (VP 
+                (VB poderá)
+                (VP 
+                 (VP 
+                  (VB ficar)
+                  (RB igualmente)
+                 )
+                 (VB comprometido)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

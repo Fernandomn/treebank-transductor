@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP É)
+    )
+    (NP 
+     (DT um)
+     (NN continente)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT um)
+     (NN país)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Terceiro_Mundo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

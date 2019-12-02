@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Mais)
+      (RB tarde)
+     )
+    )
+    (VB surgiu)
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS carrinha)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS delegação)
+         (JJ marítima)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Trafaria)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

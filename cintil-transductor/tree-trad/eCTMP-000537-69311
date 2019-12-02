@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS dia)
+     (NNS D)
+    )
+   )
+   (VP 
+    (VB devia)
+    (VP 
+     (VB ter)
+     (VP 
+      (VB sido)
+      (RB hoje)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS situação)
+   )
+   (VP 
+    (VB chegou)
+    (PP 
+     (IN a)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS ponto)
+       (CONJP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (NP 
+          (DT o)
+          (NNS actor)
+         )
+         (VP 
+          (VP 
+           (VB acabou)
+           (PP 
+            (IN por)
+            (VP 
+             (VB dizer)
+             (CONJP 
+              (CC que)
+              (S 
+               (VP 
+                (RB já)
+                (VP 
+                 (VP 
+                  (RB não)
+                  (VB queria)
+                 )
+                 (VP 
+                  (VB fazer)
+                  (NP 
+                   (DT o)
+                   (NNS filme)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

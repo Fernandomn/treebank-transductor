@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NNS medida)
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB obrigar)
+       (NP 
+        (DT as)
+        (NNS empresas)
+       )
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VB recorrer)
+        (PP 
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS capital)
+            (JJ circulante)
+           )
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS crédito)
+             (JJ bancário)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

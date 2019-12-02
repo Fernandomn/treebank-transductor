@@ -1,0 +1,39 @@
+(
+ (S 
+  (ADVP 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Norte)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Alentejo)
+       )
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (NP 
+    (DT a)
+    (NP 
+     (NNS Cova)
+     (NNS de_)
+     (NNS a)
+     (NNS Beira)
+    )
+   )
+  )
+ )
+)

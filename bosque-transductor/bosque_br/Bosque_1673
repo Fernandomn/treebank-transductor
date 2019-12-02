@@ -1,0 +1,208 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN discursos)
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN frugalidade)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN austeridade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP ficaram)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT as)
+     (NN repúblicas)
+     (ADJP 
+      (ADJP 
+       (JJ gregas)
+      )
+      e
+      (ADJP 
+       (JJ romanas)
+      )
+     )
+     (NP 
+      (DT aquelas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (NNP Montesquieu)
+       )
+       (ADVP 
+        (RB ainda)
+       )
+       (VP 
+        (VBP celebrava)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN meados)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN século)
+           (ADJP 
+            (CD 18)
+           )
+           (VP 
+            (ADVP 
+             (RB quando)
+            )
+            (VP 
+             (VBP dizia)
+            )
+            (VP 
+             (VP 
+              (IN que)
+              (NP 
+               (DT o)
+               (NN regime)
+               (ADJP 
+                (JJ republicano)
+               )
+              )
+              (NP 
+               (PRP se)
+              )
+              (VP 
+               (VBP caracteriza)
+              )
+              (PP 
+               (IN por+)
+               (NP 
+                (DT a)
+                (NN disposição)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (DT seus)
+                  (NN cidadãos)
+                 )
+                )
+               )
+              )
+              (PP 
+               (IN a)
+               (VP 
+                (VP 
+                 (VB renunciar)
+                )
+                (PP 
+                 (IN a+)
+                 (NP 
+                  (DT o)
+                  (NN bem)
+                  (ADJP 
+                   (JJ privado)
+                  )
+                 )
+                )
+                (PP 
+                 (IN em_favor_de+)
+                 (NP 
+                  (DT o)
+                  (NN bem)
+                  (ADJP 
+                   (JJ comum)
+                  )
+                 )
+                )
+               )
+              )
+             )
+             e
+             (VP 
+              (VP 
+               (PP 
+                (IN por)
+                (NP 
+                 (PRP isso)
+                )
+               )
+              )
+              (VP 
+               (VBP acrescentava)
+              )
+              (NP 
+               (PRP ele)
+              )
+              (VP 
+               (VP 
+                (VBP trata-)
+               )
+               (NP 
+                (PRP se)
+               )
+               (PP 
+                (IN de)
+                (NP 
+                 (NN regime)
+                 (ADJP 
+                  (JJ impossível)
+                 )
+                )
+               )
+               (PP 
+                (IN em+)
+                (NP 
+                 (DT a)
+                 (NN modernidade)
+                 (VP 
+                  (PP 
+                   (IN em+)
+                   (NP 
+                    (PRP a_qual)
+                   )
+                  )
+                  (NP 
+                   (PRP se)
+                  )
+                  (VP 
+                   (VBP busca)
+                  )
+                  (NP 
+                   (DT a)
+                   (NN vantagem)
+                   (ADJP 
+                    (JJ pessoal)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

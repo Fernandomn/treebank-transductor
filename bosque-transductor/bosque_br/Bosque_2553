@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT o)
+     (NNP Ministério_Público_Estadual)
+    )
+    (VP 
+     (VBP comprovar)
+    )
+    (NP 
+     (NN danos)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN patrimônio)
+       (ADJP 
+        (JJ público)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT as)
+      (NN importações)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Israel)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN responsáveis)
+   )
+   (VP 
+    (VBP estarão)
+   )
+   (ADJP 
+    (JJ sujeitos)
+    (PP 
+     (IN a)
+     (NP 
+      (NN ação)
+      (PP 
+       (IN de)
+       (NP 
+        (NN ressarcimento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

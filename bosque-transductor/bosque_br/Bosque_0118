@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN ação)
+   )
+   (VP 
+    (VBP está)
+    (VBG sendo)
+    (VBN movida)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NP 
+      (NN pescadores)
+     )
+     (NP 
+      (NN lojistas)
+     )
+     (NP 
+      (NN propietários)
+      (PP 
+       (IN de)
+       (NP 
+        (NN terra)
+       )
+      )
+     )
+     e
+     (NP 
+      (NN nativos)
+     )
+    )
+   )
+  )
+ )
+)

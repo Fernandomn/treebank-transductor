@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (PRP Eu)
+      )
+      (VP 
+       (VB arrumo)
+       (NP 
+        (NNS carros)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS João)
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (S 
+          (VP 
+           (VB tem)
+           (NP 
+            (CD 34)
+            (NNS anos)
+           )
+          )
+         )
+         (S 
+          (CC e)
+          (S 
+           (VP 
+            (PP 
+             (PP 
+              (IN até)
+              (IN a_)
+             )
+             (NP 
+              (DT os)
+              (NP 
+               (CD 18)
+              )
+             )
+            )
+            (VP 
+             (VB viveu)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT os)
+               (NNS EUA)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN disputa)
+     (PP 
+      (IN por+)
+      (NP 
+       (DT o)
+       (NN mercado)
+       (PP 
+        (IN de)
+        (NP 
+         (NN impressoras)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB quem)
+   )
+   (VP 
+    (VBP sai)
+   )
+   (VP 
+    (VP 
+     (VBG ganhando)
+    )
+    (ADVP 
+     (RB é)
+    )
+    (NP 
+     (DT o)
+     (NN consumidor)
+    )
+   )
+  )
+ )
+)

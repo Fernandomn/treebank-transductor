@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NNS ideia)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Europa)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS literatura)
+     )
+    )
+   )
+  )
+ )
+)

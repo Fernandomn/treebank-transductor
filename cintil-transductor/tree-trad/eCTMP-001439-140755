@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Djassi)
+    )
+    (VP 
+     (VB viu)
+     (NP 
+      (DT o)
+      (NNS polícia)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VP 
+        (VB acenou)
+        (NP 
+         (PRP -lhe)
+        )
+       )
+       (PP 
+        (IN de)
+        (RB longe)
+       )
+      )
+      para que
+      (S 
+       (VB viesse)
+      )
+     )
+    )
+   )
+  )
+ )
+)

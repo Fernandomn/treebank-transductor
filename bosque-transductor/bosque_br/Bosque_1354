@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Ainda)
+    (IN em)
+    (NP 
+     (NN setembro)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN final)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN mês)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP encerram-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (NP 
+    (DT as)
+    (NN inscrições)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN colégios)
+     (NP 
+      (NP 
+       (NNP Santa_Cruz)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (JJ 1ª)
+         (NN série)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (JJ 1º)
+           (NN grau)
+          )
+         )
+        )
+       )
+      )
+      e
+      (NP 
+       (NNP Santo_Américo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

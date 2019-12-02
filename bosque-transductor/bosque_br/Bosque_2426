@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Conhecia)
+    )
+    (ADVP 
+     (RB bem)
+    )
+    (NP 
+     (JJ grandes)
+     (NN embarcações)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP saberia)
+    )
+    (VP 
+     (ADVP 
+      (RB como)
+     )
+     (VP 
+      (VB agir)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT uma)
+       (NN emergência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

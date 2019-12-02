@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (NNS Portugal)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS situação)
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VP 
+       (VB é)
+       (JJ delicada)
+      )
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS razões)
+          (ADJP 
+           (RB completamente)
+           (JJ diferentes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

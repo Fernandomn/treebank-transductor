@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NNP Bíblia)
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (CD duas)
+    (NN histórias)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP tentam)
+     )
+     (VP 
+      (VP 
+       (VB explicar)
+      )
+      (NP 
+       (DT a)
+       (NN origem)
+       (PP 
+        (IN de)
+        (NP 
+         (DT tantas)
+         (NN línguas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

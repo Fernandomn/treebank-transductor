@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN lei)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Estado)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Califórnia)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP dá)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN juiz)
+     (PP 
+      (IN de)
+      (NP 
+       (DT cada)
+       (NN caso)
+      )
+     )
+    )
+   )
+   (NP 
+    (NN autoridade)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB impedir)
+      )
+      (NP 
+       (DT a)
+       (NN presença)
+       (PP 
+        (IN de)
+        (NP 
+         (NN câmaras)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN tribunal)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN Se)
+    (VP 
+     (VB achar)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (PRP ela)
+     )
+     (VP 
+      (VBP prejudica)
+     )
+     (NP 
+      (DT a)
+      (NN Justiça)
+     )
+    )
+   )
+  )
+ )
+)

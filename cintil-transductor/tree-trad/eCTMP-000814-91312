@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (CD Três)
+   (NP 
+    (NNS horas)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS campanhas)
+        (JJ cruzadas)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS baixa)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Lisboa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

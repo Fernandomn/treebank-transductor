@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Viu)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS treino)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (RB amanhã)
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB almoça)
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NNS equipa)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB deve)
+         )
+         (VP 
+          (VB ver)
+          (NP 
+           (DT o)
+           (NNS jogo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

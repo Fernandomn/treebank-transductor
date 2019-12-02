@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (JJ pequenos)
+      (NP 
+       (NNS focos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS reacendimento)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB foram)
+      (RB imediatamente)
+     )
+     (VB debelados)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB constituíram)
+      )
+      (NP 
+       (NNS perigo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

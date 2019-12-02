@@ -1,0 +1,143 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Rodado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN início)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN década)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 50)
+         )
+        )
+        (NP 
+         (NN época)
+         (ADJP 
+          (JJ áurea)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (NP 
+            (DT o)
+            (NN macarthismo)
+           )
+           (NP 
+            (NN perseguição)
+            (PP 
+             (IN a)
+             (NP 
+              (NN artistas)
+             )
+            )
+           )
+           e
+           (NP 
+            (NN intelectuais)
+            (UCP 
+             (ADJP 
+              (JJ comunistas)
+             )
+             ou
+             (VP 
+              (VP 
+               (VBN acusados)
+              )
+              (PP 
+               (IN de)
+               (VP 
+                (VP 
+                 (VB simpatizar)
+                )
+                (PP 
+                 (IN com)
+                 (NP 
+                  (DT essa)
+                  (NN ideologia)
+                  (VP 
+                   (VP 
+                    (VBN liderada)
+                   )
+                   (PP 
+                    (IN por+)
+                    (NP 
+                     (DT o)
+                     (NN senador)
+                     (NP 
+                      (NNP Joseph_McCarthy)
+                     )
+                    )
+                   )
+                   (PP 
+                    (IN em+)
+                    (NP 
+                     (DT os)
+                     (NNP EUA)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN filme)
+   )
+   (VP 
+    (VBP ganha)
+   )
+   (NP 
+    (NN versão)
+    (PP 
+     (IN para)
+     (NP 
+      (NN CD-ROM)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NN direito)
+      (PP 
+       (IN a)
+       (NP 
+        (DT um)
+        (JJ extenso)
+        (NN material)
+        (PP 
+         (IN de)
+         (NP 
+          (NN referência)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,86 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT a)
+    (JJ terceira)
+    (NN linha)
+    (ADJP 
+     (JJ especial)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN socorro)
+      (VP 
+       (VP 
+        (VBN criada)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT o)
+         (NNP BC)
+        )
+       )
+       (PP 
+        (IN desde)
+        (NP 
+         (DT o)
+         (NN lançamento)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN real)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT todas)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NN objetivo)
+       (PP 
+        (IN de)
+        (VP 
+         (VP 
+          (VB atender)
+         )
+         (NP 
+          (NN bancos)
+          (VP 
+           (NP 
+            (PRP que)
+           )
+           (VP 
+            (VBP tiveram)
+           )
+           (NP 
+            (DT sua)
+            (NN saúde)
+            (ADJP 
+             (JJ financeira)
+            )
+            (VBN comprometida)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

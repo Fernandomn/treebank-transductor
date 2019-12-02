@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS António)
+     (NNS Pinto)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (CD segundo)
+      (NP 
+       (NP 
+        (NNS administrador)
+        (NNS executivo)
+       )
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB sobrevive)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS entrada)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS Torres)
+                (NNS Campos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

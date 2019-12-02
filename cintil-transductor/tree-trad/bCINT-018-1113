@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS bairros)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS realojamento)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (VP 
+       (VB estão)
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (NNS técnicos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS autarquia)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (PP 
+          (IN de)
+          (NP 
+           (NNS barracas)
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (VP 
+        (VB estão)
+       )
+       (NP 
+        (NNS instituições)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

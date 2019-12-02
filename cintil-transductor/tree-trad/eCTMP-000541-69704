@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Agora)
+    (VP 
+     (VB decidiu)
+     (VP 
+      (VP 
+       (VB abandonar)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS luzes)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS ribalta)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (CC e)
+       (VP 
+        (VB voltar)
+        (PP 
+         (IN a)
+         (VP 
+          (VB ser)
+          (NP 
+           (ADVP 
+            (RB apenas)
+           )
+           (NP 
+            (DT um)
+            (NNS deputado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ritual)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS passagem)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS ano)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VP 
+             (RB não)
+             (VB falham)
+            )
+            (PP 
+             (IN em_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS agenda)
+               (PP 
+                (IN de)
+                (NP 
+                 (NP 
+                  (PRP quase)
+                  (PRP toda)
+                 )
+                 (NP 
+                  (DT a)
+                  (NNS gente)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN espectro)
+     (ADJP 
+      (JJ político)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNP Fogaça)
+    )
+    e
+    (NP 
+     (NNP Requião)
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN rotulados)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (NN membros)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN centro-esquerda)
+      )
+     )
+    )
+   )
+  )
+ )
+)

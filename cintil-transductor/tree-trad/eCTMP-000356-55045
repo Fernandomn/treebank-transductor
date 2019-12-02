@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS autoridades)
+        )
+       )
+      )
+      (PP 
+       (CC mas)
+       (PP 
+        (RB também)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS mineiros)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (ADVP 
+               (RB só)
+               (RB agora)
+              )
+              (VP 
+               (VB acordaram)
+               (PP 
+                (IN para)
+                (NP 
+                 (DT a)
+                 (NP 
+                  (NNS defesa)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT os)
+                    (NP 
+                     (PP seus)
+                     (NP 
+                      (NNS postos)
+                      (PP 
+                       (IN de)
+                       (NP 
+                        (NNS trabalho)
+                       )
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

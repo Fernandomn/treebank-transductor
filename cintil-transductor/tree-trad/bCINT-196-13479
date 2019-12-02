@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (NP 
+     (NP 
+      (DT a)
+      (NNS Miquelina)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT a)
+        (NNS Cacilda)
+       )
+       (NP 
+        (NP 
+         (NP 
+          (DT a)
+          (NNS Ambrosina)
+         )
+         (NP 
+          (NP 
+           (NP 
+            (DT a)
+            (NNS Gracinda)
+           )
+           (NP 
+            (NP 
+             (NP 
+              (DT o)
+              (NNS Bruno)
+             )
+             (NP 
+              (CC e)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS Maria)
+                (NNS de_)
+                (NNS a)
+                (NNS Luz)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

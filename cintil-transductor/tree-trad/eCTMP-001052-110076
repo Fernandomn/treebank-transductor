@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS julgamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS fraude)
+        (JJ comunista)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB chegou)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS mãos)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NNS Gorbatchov)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

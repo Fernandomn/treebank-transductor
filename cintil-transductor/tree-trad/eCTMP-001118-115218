@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS filme)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB passa)
+      (RB hoje)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS noite)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS SIC)
+     )
+    )
+   )
+  )
+ )
+)

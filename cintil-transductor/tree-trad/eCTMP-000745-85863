@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (RB Também)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS XFM)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS TSF)
+    )
+    (VP 
+     (VB recuperou)
+     (NP 
+      (DT o)
+      (NNS Jazzosfera)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (PP 
+       (IN Em)
+       (NP 
+        (NP 
+         (NNS condições)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS normalidade)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS funcionamento)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB representa)
+      )
+      (NP 
+       (PRP nenhum)
+       (NNS problema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

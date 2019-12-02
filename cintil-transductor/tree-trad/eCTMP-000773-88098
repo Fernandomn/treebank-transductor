@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (RB Só)
+   (VP 
+    (VB foram)
+    (VB gastos)
+   )
+  )
+  (NP 
+   (NP 
+    (CD dez)
+    (NP 
+     (NN por)
+     (NN cento)
+    )
+   )
+   (NP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS dinheiros)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS jogo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

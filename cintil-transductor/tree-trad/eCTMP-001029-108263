@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Está)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS nome)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS herói)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

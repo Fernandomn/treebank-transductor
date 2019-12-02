@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ou_seja)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP alugam)
+     )
+     (NP 
+      (DT o)
+      (NN imóvel)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NN prazo)
+       (ADJP 
+        (JJ máximo)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (CD 90)
+         (NN dias)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB ainda)
+     )
+     (VP 
+      (VBP podem)
+      (VB receber)
+     )
+     (NP 
+      (DT o)
+      (NN valor)
+      (VBN adiantado)
+     )
+    )
+   )
+  )
+ )
+)

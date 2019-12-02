@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (JJ maior)
+     (NN aumento)
+    )
+    (VP 
+     (VBP aconteceu)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN direito)
+      (NP 
+       (DT mais)
+       (CD 366)
+       (NN candidatos)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT a)
+     (JJ maior)
+     (NN queda)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN engenharia)
+      (ADJP 
+       (DT menos)
+       (CD 980)
+      )
+     )
+    )
+   )
+  )
+ )
+)

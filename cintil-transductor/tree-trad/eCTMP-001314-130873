@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB são)
+      )
+      (NP 
+       (PRP muitos)
+      )
+     )
+     (CONJP 
+      (CONJP 
+       (RB até)
+       (CONJP 
+        (CC porque)
+        (S 
+         (VP 
+          (RB não)
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB pode)
+          )
+         )
+         (VP 
+          (VP 
+           (VB aparecer)
+           (RB hoje)
+          )
+          (VP 
+           (CC e)
+           (VP 
+            (VP 
+             (VB ser)
+             (NP 
+              (NNS campeão)
+             )
+            )
+            (RB amanhã)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

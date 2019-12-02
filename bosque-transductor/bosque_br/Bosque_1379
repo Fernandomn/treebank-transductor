@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP São)
+   )
+   (ADJP 
+    (JJ peemedebistas)
+   )
+   (NP 
+    (DT os)
+    (NN líderes)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (NP 
+      (DT o)
+      (NNP Rio_Grande_do_Sul)
+      (NP 
+       (NNP José_Fogaça)
+      )
+     )
+     (NP 
+      (NNP Paraná)
+      (NP 
+       (NNP Roberto_Requião)
+      )
+     )
+     e
+     (NP 
+      (NNP Ceará)
+      (NP 
+       (NNP Mauro_Benevides)
+      )
+     )
+    )
+   )
+  )
+ )
+)

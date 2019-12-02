@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS Zeca)
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (NP 
+        (NNS músicas)
+        (ADJP 
+         (RB muito)
+         (JJ bonitas)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT esta)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (DT uma)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (PRP elas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

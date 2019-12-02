@@ -1,0 +1,116 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Quando)
+    )
+    (VP 
+     (VBP viajar)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NNP Europa)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN carro)
+     )
+    )
+   )
+   (VP 
+    (VBP prefira)
+   )
+   (NP 
+    (DT as)
+    (NN estradas)
+    (ADJP 
+     (JJ secundárias)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NP auto-estradas)
+    )
+   )
+   (VP 
+    (IN pois)
+    (PP 
+     (IN em+)
+     (NP 
+      (PRP elas)
+     )
+    )
+    (VP 
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP há)
+      )
+      (NP 
+       (NN cobrança)
+       (PP 
+        (IN de)
+        (NP 
+         (NN pedágio)
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (NP 
+       (PRP você)
+      )
+      (VP 
+       (VBP poderá)
+       (VB conhecer)
+      )
+      (NP 
+       (NP 
+        (JJ pequenas)
+        (NN cidades)
+       )
+       (NP 
+        (NN lugarejos)
+       )
+       (NP 
+        (NN sítios)
+       )
+       e
+       (NP 
+        (NN plantações)
+        (PP 
+         (IN de)
+         (NP 
+          (NN uvas)
+         )
+        )
+        (PP 
+         (IN com)
+         (NP 
+          (NN degustação)
+          (PP 
+           (IN de)
+           (NP 
+            (NN vinhos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

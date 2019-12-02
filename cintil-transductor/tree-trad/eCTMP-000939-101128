@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Sem)
+     (NP 
+      (NP 
+       (NNS juiz)
+      )
+      (NP 
+       (CC ou)
+       (NP 
+        (NP 
+         (NNS delegado)
+         (NNS de_)
+         (NNS o)
+         (NNS Ministério)
+         (NNS Público)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP nenhum)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT estes)
+        (NNS actos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (JJ praticável)
+    )
+   )
+  )
+ )
+)

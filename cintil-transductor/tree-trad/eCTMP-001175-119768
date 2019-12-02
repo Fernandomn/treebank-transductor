@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Defende)
+    (NP 
+     (NNS aprovação)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS moeda)
+         (JJ única)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS piano)
+     )
+     (VP 
+      (VB toca)
+      (RB mesmo)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (PP suas)
+       (NNS teclas)
+      )
+     )
+     (VP 
+      (VB foram)
+      (VP 
+       (VB substituídas)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS coronhas)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS espingardas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

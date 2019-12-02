@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN papa)
+    (NP 
+     (NNP João_Paulo_2º)
+    )
+   )
+   (VP 
+    (VBP escolheu)
+   )
+   (NP 
+    (DT a)
+    (NN irmã)
+    (NP 
+     (NNP Emília_Ehrlich)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB ocupar)
+     )
+     (ADJP 
+      (CD uma)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (CD três)
+        (NN secretarias)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN sínodo)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP acontecerá)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN outubro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

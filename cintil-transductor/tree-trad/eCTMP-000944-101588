@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS actores)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS TEC)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB leram)
+    (NP 
+     (NP 
+      (NNS poemas)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS livro)
+          (NP 
+           (NNS Eunice)
+          )
+         )
+         (ADJP 
+          (ADJP 
+           (VB editado)
+           (PP 
+            (IN por_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS Cooperativa)
+              (NNS Árvore)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

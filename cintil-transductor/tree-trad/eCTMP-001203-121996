@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB fizeram)
+        (NP 
+         (NP 
+          (NP 
+           (NNS Europa)
+          )
+          (NP 
+           (NP 
+            (NNS Europa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB pensam)
+    (NP 
+     (DT isso)
+    )
+   )
+  )
+ )
+)

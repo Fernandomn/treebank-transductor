@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS aulas)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS universidade)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB começam)
+     (RB sempre)
+    )
+    (ADVP 
+     (ADVP 
+      (RB mais)
+      (RB tarde)
+     )
+     de_ o que
+     (NP 
+      (DT as)
+      (NP 
+       (PP vossas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

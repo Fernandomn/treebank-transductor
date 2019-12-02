@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Tem)
+      (RB apenas)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNS companhia)
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS feras)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ contíguo)
+         (NP 
+          (NNS Jardim)
+          (NNS Zoológico)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

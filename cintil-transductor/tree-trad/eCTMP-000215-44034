@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ recente)
+     (NP 
+      (NNS campanha)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Viena)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB feita)
+    )
+    (PP 
+     (IN sob)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS signo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS xenofobia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

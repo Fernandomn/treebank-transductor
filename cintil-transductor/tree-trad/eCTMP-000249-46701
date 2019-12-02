@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS negócios)
+     (ADJP 
+      (RB mais)
+      (JJ importantes)
+     )
+    )
+   )
+   (VP 
+    (VB continuaram)
+    (PP 
+     (IN a)
+     (VP 
+      (VB pertencer)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS BCP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

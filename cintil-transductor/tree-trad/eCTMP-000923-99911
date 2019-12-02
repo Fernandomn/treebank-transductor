@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministro)
+    (NNS de_)
+    (NNS a)
+    (NNS Cultura)
+   )
+  )
+  (VP 
+   (VP 
+    (VB inaugura)
+    (NP 
+     (NP 
+      (NNS Teatro)
+      (NNS Viriato)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Viseu)
+    )
+   )
+  )
+ )
+)

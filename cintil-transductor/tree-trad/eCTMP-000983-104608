@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Algarve)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (VP 
+     (VB beneficiado)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS incremento)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS número)
+            (PP 
+             (IN de)
+             (NP 
+              (NP 
+               (NNS turistas)
+               (JJ orientais)
+              )
+             )
+            )
+           )
+           (ADJP 
+            (VB apresentado)
+            (PP 
+             (IN por_)
+             (NP 
+              (DT a)
+              (NNS OMT)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

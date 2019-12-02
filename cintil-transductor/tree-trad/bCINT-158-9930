@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN A)
+      (IN partir)
+      (IN de_)
+     )
+     (RB aí)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS David)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NNS Raúl)
+      )
+     )
+    )
+    (VP 
+     (VB começaram)
+     (PP 
+      (IN a)
+      (VP 
+       (VB trabalhar)
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS ritmo)
+           (ADJP 
+            (RB muito)
+            (JJ intenso)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

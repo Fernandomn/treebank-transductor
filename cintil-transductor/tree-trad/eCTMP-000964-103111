@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS terminal)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS contentores)
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Alcântara)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB abandonará)
+     )
+     (NP 
+      (DT o)
+      (NNS local)
+     )
+    )
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS razões)
+        (JJ económicas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Também)
+    (VP 
+     (VP 
+      (VB era)
+      (NP 
+       (DT uma)
+       (NNS sorte)
+      )
+     )
+     (CONJP 
+      (CC se)
+      (S 
+       (VP 
+        (RB não)
+        (VB infectasse)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

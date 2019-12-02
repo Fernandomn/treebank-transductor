@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (DT Um)
+       (NP 
+        (NNS quarto)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS hora)
+         )
+        )
+       )
+      )
+     )
+     (RB depois)
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Ali)
+      (NNS Maher)
+     )
+    )
+    (VB empatou)
+   )
+  )
+ )
+)

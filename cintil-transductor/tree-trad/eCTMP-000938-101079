@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS processo)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (ADVP 
+      (RB agora)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS fase)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS averiguações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Quatro)
+    (NNS golos)
+   )
+   (VP 
+    (VB foram)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS resultado)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS alteração)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

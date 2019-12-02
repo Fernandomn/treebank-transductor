@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NNP PPR)
+    )
+    (VP 
+     (VBP tentou)
+    )
+    (VP 
+     (VP 
+      (VB derrubar)
+     )
+     (NP 
+      (DT a)
+      (NN retenção)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN verbas)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NN habitação)
+          )
+          e
+          (NP 
+           (NN educação)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (JJ primeiro)
+       (NN turno)
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (DT uma)
+     (NN manobra)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN governo)
+      )
+     )
+    )
+    (VP 
+     (VBP barrou)
+    )
+    (NP 
+     (DT a)
+     (NN mudança)
+    )
+   )
+  )
+ )
+)

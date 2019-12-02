@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Assim)
+      (VB fiz)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VB acabou)
+      (PP 
+       (IN por)
+       (VB aceder)
+      )
+     )
+    )
+   )
+  )
+ )
+)

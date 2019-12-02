@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP É)
+    )
+    (ADJP 
+     (JJ preciso)
+    )
+    (VP 
+     (VP 
+      (VB cobrar)
+     )
+     (NP 
+      (DT o)
+      (NN governo)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (NP 
+        (DT as)
+        (NN coisas)
+       )
+       (VP 
+        (VB funcionarem)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP completa)
+   )
+   (NP 
+    (NNP Bruno_Fanizzi)
+    (ADJP 
+     (CD 15)
+    )
+   )
+  )
+ )
+)

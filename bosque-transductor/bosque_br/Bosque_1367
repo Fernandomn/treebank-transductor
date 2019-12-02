@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP permaneceu)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN velório)
+      )
+     )
+     (PP 
+      (ADVP 
+       (IN por)
+       (RB aproximadamente)
+      )
+      (NP 
+       (CD uma)
+       (NN hora)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP seguiu)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB descansar)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN hotel)
+         (NP 
+          (NNP Glória)
+         )
+        )
+       )
+       (PP 
+        (IN até)
+        (NP 
+         (DT o)
+         (NN horário)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN enterro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

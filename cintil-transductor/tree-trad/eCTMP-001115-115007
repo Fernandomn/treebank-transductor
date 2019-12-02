@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Ficou)
+     (PP 
+      (IN com)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS músculos)
+        (JJ dilacerados)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB viu)
+      (NP 
+       (DT a)
+       (NP 
+        (PP sua)
+        (NP 
+         (NP 
+          (NNS força)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS trabalho)
+           )
+          )
+         )
+         (ADJP 
+          (VB reduzida)
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (CD 12,5)
+             (NP 
+              (NN por)
+              (NN cento)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

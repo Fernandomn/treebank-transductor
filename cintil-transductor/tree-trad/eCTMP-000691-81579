@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS altura)
+     )
+    )
+    (VP 
+     (VP 
+      (VB sabia)
+      (RB lá)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB era)
+          (NP 
+           (DT isso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

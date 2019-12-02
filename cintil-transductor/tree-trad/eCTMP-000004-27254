@@ -1,0 +1,45 @@
+(
+ (S 
+  (PP 
+   (IN Entre)
+   (NP 
+    (PRP eles)
+   )
+  )
+  (S 
+   (VP 
+    (VB está)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS Rui)
+      (NNS Marques)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS organizador)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS viagem)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Lusitânia-Expresso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

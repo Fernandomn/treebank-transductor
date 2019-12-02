@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VP 
+      (VB está)
+      (RB muito)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS frente)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT as)
+          (NNS nomeações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

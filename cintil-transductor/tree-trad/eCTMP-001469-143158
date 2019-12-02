@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ outra)
+     (NNS questão)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS eleitores)
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (ADVP 
+             (RB mais)
+             (RB de)
+            )
+            (CD 90)
+           )
+           (NNS anos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

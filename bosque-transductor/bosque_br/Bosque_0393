@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (DT o)
+     (NN contrato)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNP Servaz)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (DT outros)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (DT mesmo)
+      (NN tipo)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBG envolvendo)
+    )
+    (NP 
+     (DT mais)
+     (NN empreiteiras)
+    )
+   )
+  )
+ )
+)

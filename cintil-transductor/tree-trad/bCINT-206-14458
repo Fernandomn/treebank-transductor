@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS OPCA)
+   )
+   (VP 
+    (VP 
+     (VB movimentou)
+     (NP 
+      (NP 
+       (CD 16,8)
+       (NP 
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS capital)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS mercado)
+        (PP 
+         (IN sem)
+         (NP 
+          (NNS cotações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

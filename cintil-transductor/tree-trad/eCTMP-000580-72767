@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (DT uma)
+    (NP 
+     (NP 
+      (NNS desesperança)
+      (JJ total)
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NNS associações)
+       )
+      )
+      (PP 
+       (CC ou)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NNS sindicatos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

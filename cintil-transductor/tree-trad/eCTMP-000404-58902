@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Seguiram)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NNS prémios)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS cinema)
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (VB entregues)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS actriz)
+          (NP 
+           (NNS Marisa)
+           (NNS Berenson)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

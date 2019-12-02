@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pedro)
+    (NNS Rosa)
+    (NNS Mendes)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Vigo)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ministro)
+    (NNS de_)
+    (NNS a)
+    (NNS Justiça)
+   )
+  )
+  (VP 
+   (VB intervém)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS Registos)
+      (NP 
+       (CC e)
+       (NNS Notariado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

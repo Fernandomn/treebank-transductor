@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Quatro)
+    (NNS feridos)
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT um)
+    (NP 
+     (NNS despiste)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Miragaia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

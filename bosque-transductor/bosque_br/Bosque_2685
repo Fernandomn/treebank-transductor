@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Cuba)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP está)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN imagem)
+     (ADJP 
+      (RB um_tanto)
+      (VBN abalada)
+     )
+     (NP 
+      (NP 
+       (NN crise)
+      )
+      (NP 
+       (NN êxodo)
+       (RB por_mar)
+      )
+     )
+     (ADVP 
+      (RB etc)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Veículos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN resgate)
+     )
+    )
+   )
+   (VP 
+    (VBP estavam)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (ADJP 
+      (RB apenas)
+      (CD 500)
+     )
+     (NN metros)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Aibus_300)
+      )
+     )
+    )
+   )
+  )
+ )
+)

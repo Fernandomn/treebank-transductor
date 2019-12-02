@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Era)
+   )
+   (NP 
+    (DT um)
+    (NN cara)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB sempre)
+     )
+     (VP 
+      (VBP apostou)
+     )
+     (PP 
+      (IN em+)
+      (VP 
+       (NP 
+        (PRP o_que)
+       )
+       (VP 
+        (VBP acreditava)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (CD duas)
+     (NP 
+      (CD últimas)
+      (NNS sessões)
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS euforia)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS alta)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

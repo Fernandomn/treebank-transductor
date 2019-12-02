@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS sementeira)
+    )
+    (VP 
+     (VB tinha)
+     (VP 
+      (VB sido)
+      (VB feita)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT os)
+      (NNS frutos)
+     )
+     (VP 
+      (VP 
+       (VB poderiam)
+       (RB agora)
+      )
+      (VP 
+       (VB começar)
+       (PP 
+        (IN a)
+        (VP 
+         (VB ser)
+         (VB colhidos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

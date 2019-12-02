@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS impasse)
+    (CONJP 
+     (RB onde)
+     (S 
+      (NP 
+       (PRP todos)
+      )
+      (VP 
+       (VB parecem)
+       (VP 
+        (VP 
+         (VB estar)
+         (PP 
+          (IN a)
+          (VB perder)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

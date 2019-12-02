@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS reportagem)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS CNN)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB ouviu)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS pergunta)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Nunn)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

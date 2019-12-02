@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Choque)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS autocarro)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB fez)
+   (NP 
+    (CD oito)
+    (NNS feridos)
+   )
+  )
+ )
+)

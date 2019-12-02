@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS assunto)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB continua)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS aberto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

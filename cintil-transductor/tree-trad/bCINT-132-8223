@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (RB Nunca)
+       (VP 
+        (VB tivemos)
+        (NP 
+         (PRP tanta)
+         (NNS gente)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB afirmou)
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS presidente)
+       (NNS de_)
+       (NNS a)
+       (NNS câmara)
+       (NNS de)
+       (NNS Nova)
+       (NNS Iorque)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Michael)
+       (NNS Bloomberg)
+      )
+     )
+    )
+   )
+  )
+ )
+)

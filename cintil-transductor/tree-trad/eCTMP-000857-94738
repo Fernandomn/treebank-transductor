@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Tribunal)
+   )
+   (VP 
+    (VP 
+     (VB chamou)
+     (ADVP 
+      (RB depois)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Carlos)
+       (NNS Nunes)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Jorge)
+        (NNS Custódio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

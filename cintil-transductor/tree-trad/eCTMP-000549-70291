@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS delegação)
+   )
+   (VP 
+    (VB inclui)
+    (NP 
+     (NP 
+      (NNS diplomatas)
+      (PP 
+       (IN de_)
+       (NP 
+        (NP 
+         (DT o)
+         (NNS Egipto)
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NNS Irão)
+          )
+          (NP 
+           (NP 
+            (NP 
+             (NNS Paquistão)
+            )
+            (NP 
+             (NP 
+              (NP 
+               (NP 
+                (NNS Arábia)
+                (NNS Saudita)
+               )
+              )
+              (NP 
+               (CC e)
+               (NP 
+                (NNS Senegal)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

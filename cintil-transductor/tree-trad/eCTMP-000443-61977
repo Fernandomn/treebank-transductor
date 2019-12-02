@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Promete)
+     (RB pois)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS justiça)
+      )
+      (VP 
+       (VB será)
+       (JJ cega)
+      )
+     )
+    )
+   )
+  )
+ )
+)

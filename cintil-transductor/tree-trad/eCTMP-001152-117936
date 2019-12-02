@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT estas)
+      (NNS situações)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS arguidos)
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (VB julgados)
+     )
+     (PP 
+      (IN perante)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS tribunal)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS adultos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

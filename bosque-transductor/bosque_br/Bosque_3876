@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fay)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP foi)
+      (VBN punido)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (CD quatro)
+       (VBN vergastadas)
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB agora)
+     )
+     (VP 
+      (VBP cumpre)
+     )
+     (NP 
+      (NN pena)
+      (PP 
+       (IN de)
+       (NP 
+        (NN prisão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

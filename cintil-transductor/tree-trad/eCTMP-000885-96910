@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Continua)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ser)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS grupo)
+         (ADJP 
+          (RB muito)
+          (JJ perigoso)
+         )
+        )
+       )
+      )
+     )
+    )
+    (CC dado)
+    (CC que)
+    (S 
+     (VP 
+      (VB aceita)
+      (NP 
+       (DT a)
+       (NNS violência)
+      )
+     )
+    )
+   )
+  )
+ )
+)

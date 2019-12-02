@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Como)
+    (NP 
+     (DT o)
+     (NN Estado)
+    )
+    (VP 
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP tem)
+      )
+      (NP 
+       (NN recursos)
+      )
+     )
+     nem
+     (VP 
+      (VP 
+       (VBP vai)
+       (VB ter)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT todos)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN atendimento)
+   )
+   (VP 
+    (VBP acaba)
+    (VBG deixando)
+   )
+   (ADVP 
+    (RB de_fora)
+   )
+   (ADVP 
+    (RB justamente)
+   )
+   (NP 
+    (DT os)
+    (ADJP 
+     (RB mais)
+     (JJ pobres)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP conseguem)
+     )
+     (NP 
+      (NN acesso)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT os)
+        (NN serviços)
+        (ADJP 
+         (JJ públicos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

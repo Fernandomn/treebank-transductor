@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS escolha)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB foi)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (ADJP 
+        (RB mais)
+        (JJ inspiradas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

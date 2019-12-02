@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VB entrei)
+       (PP 
+        (IN para)
+        (NP 
+         (NNS jesuíta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB dominava)
+         (NP 
+          (DT a)
+          (NP 
+           (PP minha)
+           (NNS preocupação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB era)
+     )
+     (NP 
+      (DT o)
+      (NNS sacerdócio)
+     )
+    )
+   )
+  )
+ )
+)

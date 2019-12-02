@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Salientamos)
+     (PP 
+      (PP 
+       (IN entre)
+       (NP 
+        (DT outros)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (JJ seguintes)
+       (NNS pontos)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB defendemos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

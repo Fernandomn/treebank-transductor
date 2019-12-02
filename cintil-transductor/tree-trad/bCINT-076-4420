@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS quadros)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS exposição)
+           (NP 
+            (NP 
+             (NNS Educação)
+             (NNS Arte)
+             (NNS e)
+             (NNS Cultura)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Fundação)
+            (NNS Calouste)
+            (NNS Gulbenkian)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB têm)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS traço)
+      (ADJP 
+       (RB muito)
+       (JJ peculiar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

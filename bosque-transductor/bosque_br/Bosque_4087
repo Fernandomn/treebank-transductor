@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP IPC-r)
+    (PP 
+     (IN de)
+     (NP 
+      (NN julho)
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT o)
+     (NN ministro)
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (ADJP 
+     (RB muito)
+     (DT pouco)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ nova)
+      (NN moeda)
+     )
+    )
+   )
+  )
+ )
+)

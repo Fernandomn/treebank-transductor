@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS Exército)
+      (NNS Federal)
+      (NNS Jugoslavo)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB foi)
+       (RB mal)
+      )
+      (VB dirigido)
+     )
+     desde que
+     (S 
+      (VB começou)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS conflito)
+        (PP 
+         (IN contra)
+         (NP 
+          (DT a)
+          (NNS Croácia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

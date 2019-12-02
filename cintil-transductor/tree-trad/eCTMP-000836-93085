@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+     (NP 
+      (NNS metade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS disco)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADJP 
+      (RB muito)
+      (JJ religiosa)
+     )
+    )
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS solenidade)
+        (ADJP 
+         (JJ típica)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Missa)
+            (NNS de_)
+            (NNS o)
+            (NNS Galo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

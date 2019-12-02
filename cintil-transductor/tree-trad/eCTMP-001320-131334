@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD próximo)
+     (NNS ano)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB começar)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (CD segunda)
+        (NP 
+         (NNS fase)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS privatização)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS Quimigal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

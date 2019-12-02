@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS linha)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS coligação)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB deve)
+     (VP 
+      (VB ser)
+      (VB mantida)
+     )
+    )
+   )
+  )
+ )
+)

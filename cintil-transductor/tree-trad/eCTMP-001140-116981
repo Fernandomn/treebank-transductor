@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Todo)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS revestimento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS estofos)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (NNS anti-vandalismo)
+     )
+    )
+   )
+  )
+ )
+)

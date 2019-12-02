@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NNP Times_Square)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADVP 
+     (RB também)
+    )
+    (NP 
+     (NP 
+      (CD um)
+      (NN ponto)
+      (PP 
+       (IN de)
+       (NP 
+        (NN encontro)
+       )
+      )
+     )
+     e
+     (NP 
+      (DT uma)
+      (NN alternativa)
+      (ADJP 
+       (JJ teen)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (NP 
+    (DT o)
+    (NN diretor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Multiplan)
+     )
+    )
+   )
+  )
+ )
+)

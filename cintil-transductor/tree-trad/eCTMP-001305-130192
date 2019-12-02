@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS diálogo)
+    )
+    (VP 
+     (VB deu)
+     (NP 
+      (NNS frutos)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NP 
+       (NNS Vera)
+       (NNS Jardim)
+      )
+     )
+     (VP 
+      (VB anunciou)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS criação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS comissão)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS acompanhamento)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

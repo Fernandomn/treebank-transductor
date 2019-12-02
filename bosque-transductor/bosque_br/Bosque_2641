@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN secretário)
+   )
+   (VP 
+    (VBP comandou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (DT uma)
+    (NN reunião)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NN segurança)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (NN estádios)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN sede)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Federação_Paulista_de_Futebol)
+      )
+     )
+    )
+   )
+  )
+ )
+)

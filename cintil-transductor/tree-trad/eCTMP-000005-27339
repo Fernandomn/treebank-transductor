@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS VW)
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB tomou)
+       )
+       (NP 
+        (PRP qualquer)
+        (NNS decisão)
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (CC porque)
+        (S 
+         (VP 
+          (VB estão)
+          (PP 
+           (IN a)
+           (VP 
+            (VB analisar)
+            (NP 
+             (DT as)
+             (NP 
+              (PRP várias)
+              (NNS hipóteses)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

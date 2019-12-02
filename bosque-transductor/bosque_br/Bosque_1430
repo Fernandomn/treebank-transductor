@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN sindicalista)
+    (NP 
+     (NNP Luiz_Antônio_de_Medeiros)
+    )
+   )
+   (VP 
+    (VBP correu)
+   )
+   (NP 
+    (DT a)
+    (NNP São_Silvestre)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN busca)
+     (PP 
+      (IN de)
+      (NP 
+       (NN resultados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

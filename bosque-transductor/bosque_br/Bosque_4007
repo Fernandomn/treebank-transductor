@@ -1,0 +1,47 @@
+(
+ (S 
+  (NP 
+   (NN Chance)
+   (ADJP 
+    (JJ imperdível)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT aqueles)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP apreciam)
+      )
+      (NP 
+       (NP 
+        (NN enterradas)
+       )
+       (NP 
+        (NN tocos)
+       )
+       e
+       (NP 
+        (DT a)
+        (ADJP 
+         (RB mais)
+         (JJ primitiva)
+        )
+        (NN troca)
+        (PP 
+         (IN de)
+         (NP 
+          (NN porradas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

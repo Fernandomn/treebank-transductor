@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT o)
+      (NNS técnico)
+     )
+    )
+   )
+   (S 
+    (S 
+     (RB agora)
+     (S 
+      (NP 
+       (PRP todos)
+       (NP 
+        (DT os)
+        (NNS jogos)
+       )
+      )
+      (VP 
+       (VB vão)
+       (VP 
+        (VP 
+         (VP 
+          (VB ser)
+          (NP 
+           (NNS finais)
+          )
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS FC)
+           (NNS Porto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

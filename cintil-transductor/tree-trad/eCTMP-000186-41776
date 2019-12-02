@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Até)
+    (VP 
+     (RB já)
+     (VP 
+      (VB foi)
+      (VP 
+       (VB condecorado)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS serviços)
+          (ADJP 
+           (VB prestados)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT essa)
+             (NNS função)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

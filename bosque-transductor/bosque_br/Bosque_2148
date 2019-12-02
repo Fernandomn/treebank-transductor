@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN operação)
+   )
+   (VP 
+    (VBP dará)
+   )
+   (NP 
+    (DT um)
+    (NN desconto)
+    (ADJP 
+     (JJ inicial)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN US$)
+      (NP 
+       (CD 4.3)
+       (NN bilhões)
+      )
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN valor)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN débito)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

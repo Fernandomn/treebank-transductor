@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS júri)
+     (ADJP 
+      (ADJP 
+       (VB composto)
+       (PP 
+        (IN por)
+        (NP 
+         (CD nove)
+         (NNS pessoas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB escolheu)
+    (PP 
+     (IN entre)
+     (NP 
+      (CD 17887)
+      (NP 
+       (NNS originais)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 1607)
+         (NP 
+          (NNS fotógrafos)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 75)
+            (NNS países)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

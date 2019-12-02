@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN telefonema)
+     (PP 
+      (IN a)
+      (NP 
+       (NNP Maurício_Corrêa)
+       (NP 
+        (NN ministro)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Justiça)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN governador)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Rio)
+      (NP 
+       (NNP Leonel_Brizola)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP desaconselhou)
+   )
+   (NP 
+    (DT a)
+    (NN ida)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Itamar)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN Sambódromo)
+     )
+    )
+   )
+  )
+ )
+)

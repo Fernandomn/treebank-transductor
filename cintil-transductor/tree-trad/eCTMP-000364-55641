@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+    (NP 
+     (NNS edição)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Mundial)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ainda)
+    )
+    (VP 
+     (VB marcada)
+     (PP 
+      (IN por)
+      (NP 
+       (PRP algumas)
+       (NNS tragédias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

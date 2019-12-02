@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Apaixonou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS cego)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (RB não)
+           (VB era)
+          )
+          (NP 
+           (NP 
+            (NNS aluno)
+            (PP 
+             (IN de_)
+             (NP 
+              (PRP ele)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

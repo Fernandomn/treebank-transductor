@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS contradições)
+        (JJ internacionais)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS líder)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS partido)
+            )
+           )
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB advoga)
+             (NP 
+              (DT a)
+              (NP 
+               (NP 
+                (NNS preferência)
+                (JJ nacional)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (RB apenas)
+     )
+     (JJ aparentes)
+    )
+   )
+  )
+ )
+)

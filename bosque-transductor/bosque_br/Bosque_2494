@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN atlas)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (DT a)
+      (NNP Folha)
+     )
+     (VP 
+      (VBP vai)
+      (VB distribuir)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN leitores)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD 19)
+       (NN fascículos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (CD três)
+    (NN patrocinadores)
+    (NP 
+     (NP 
+      (DT o)
+      (NNP Banco_Itamarati)
+     )
+     (NP 
+      (DT a)
+      (NNP Companhia_Brasileira_de_Alumínio)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN grupo)
+        (NP 
+         (NNP Votorantim)
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (DT a)
+      (NNP OAS_Participações)
+     )
+    )
+   )
+  )
+ )
+)

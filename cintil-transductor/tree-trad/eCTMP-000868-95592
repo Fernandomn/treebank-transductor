@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS portas)
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (VB escancaradas)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS linguagem)
+        (JJ verde)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS dólar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

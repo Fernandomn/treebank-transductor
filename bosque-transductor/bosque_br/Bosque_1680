@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Palmeiras)
+   )
+   (VP 
+    (VBP pega)
+   )
+   (NP 
+    (NNP Flamengo)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN Superliga)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Além)
+       (IN de_)
+      )
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+    (VP 
+     (VB existirá)
+     (RB sempre)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS rivalidade)
+     (PP 
+      (IN entre)
+      (NP 
+       (DT os)
+       (NP 
+        (CD dois)
+        (NP 
+         (NNS países)
+         (ADJP 
+          (ADJP 
+           (VB divididos)
+           (PP 
+            (IN por_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS guerra)
+              (NNS de_)
+              (NNS as)
+              (NNS Malvinas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Centro_Internacional_de_Arte_e_Escultura)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Vaison-la-Romaine)
+      (NP 
+       (NN sul)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP França)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN interesse)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN obra)
+    )
+   )
+  )
+ )
+)

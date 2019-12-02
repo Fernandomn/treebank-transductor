@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Também)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP nos)
+   )
+   (VP 
+    (VBP interessa)
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (DT o)
+     (NN jogador)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP estava)
+      )
+      (VBN internado)
+     )
+     ou
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+     )
+    )
+   )
+  )
+ )
+)

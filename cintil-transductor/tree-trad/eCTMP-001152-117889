@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Privatização)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS BESCL)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Bolsa)
+      (NNS de)
+      (NNS Lisboa)
+     )
+    )
+   )
+  )
+ )
+)

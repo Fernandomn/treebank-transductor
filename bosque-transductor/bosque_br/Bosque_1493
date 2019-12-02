@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Cruzeiro)
+   )
+   (VP 
+    (VBP Percorre)
+   )
+   (PP 
+    (IN Em)
+    (NP 
+     (CD Quatro)
+     (NNP Dias)
+    )
+   )
+   (NP 
+    (CD Três)
+    (NN Cidades)
+    (PP 
+     (IN De)
+     (NP 
+      (CD Dois)
+      (NNP Países)
+     )
+    )
+   )
+  )
+ )
+)

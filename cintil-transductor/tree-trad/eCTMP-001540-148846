@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS indústria)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS conservas)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB está)
+         (PP 
+          (IN em)
+          (NP 
+           (NNS causa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

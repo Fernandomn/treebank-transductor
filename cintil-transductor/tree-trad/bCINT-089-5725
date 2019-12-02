@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS Com)
+      (NNS os)
+      (NNS Holandeses)
+     )
+    )
+   )
+   (S 
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (DT uns)
+        (NNS anos)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB tinha)
+       (VP 
+        (VB feito)
+        (NP 
+         (DT esta)
+         (NNS caracterização)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

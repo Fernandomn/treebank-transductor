@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB pode)
+     )
+     (VP 
+      (VB haver)
+      (NP 
+       (NNS paz)
+      )
+     )
+    )
+    (CONJP 
+     (CC se)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB houver)
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NP 
+          (NNS intervenção)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Igreja)
+           )
+          )
+         )
+         (ADJP 
+          (RB muito)
+          (JJ concreta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

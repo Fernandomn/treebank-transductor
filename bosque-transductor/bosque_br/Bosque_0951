@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Steve_Wonder)
+   )
+   (VP 
+    (VBP anuncia)
+   )
+   (NP 
+    (NN turnê)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT a)
+      (NN fome)
+     )
+    )
+   )
+  )
+ )
+)

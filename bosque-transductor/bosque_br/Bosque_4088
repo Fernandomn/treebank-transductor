@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Normalmente)
+    )
+    (NP 
+     (PRP nós)
+    )
+    (VP 
+     (VBP utilizamos)
+    )
+    (NP 
+     (NN dados)
+     (ADJP 
+      (JJ históricos)
+     )
+     (PP 
+      (IN sobre)
+      (UCP 
+       (NP 
+        (DT a)
+        (NN produtividade)
+        (PP 
+         (IN em)
+         (NP 
+          (DT cada)
+          (NN região)
+         )
+        )
+       )
+       (IN além_de)
+       (NP 
+        (NN informações)
+        (PP 
+         (IN de)
+         (NP 
+          (NN agricultores)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

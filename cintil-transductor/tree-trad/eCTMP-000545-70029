@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (CC Nem)
+      (NP 
+       (PRP eu)
+      )
+     )
+    )
+    (NP 
+     (CC nem)
+     (NP 
+      (DT os)
+      (NP 
+       (JJ outros)
+       (NNS camaradas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB devem)
+    (VP 
+     (VB esconder)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS partido)
+       (CONJP 
+        (PP 
+         (IN a)
+         (NP 
+          (PRP que)
+         )
+        )
+        (S 
+         (VP 
+          (VB pertencem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN desgraça)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB cientificamente)
+    )
+    (VP 
+     (ADVP 
+      (RB como)
+     )
+     (VP 
+      (VBP demonstra)
+     )
+     (NP 
+      (DT a)
+      (JJ moderna)
+      (NN criminologia)
+     )
+    )
+    (NP 
+     (RB quase)
+     (PRP nada)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT essa)
+       (NN política)
+       (ADJP 
+        (JJ criminal)
+       )
+       (ADJP 
+        (JJ simbólica)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP serve)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB atenuar)
+      )
+      (NP 
+       (DT o)
+       (JJ gravíssimo)
+       (NN problema)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN criminalidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

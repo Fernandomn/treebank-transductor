@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB demitiu)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (ADVP 
+      (RB entretanto)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS empresa)
+     )
+    )
+   )
+  )
+ )
+)

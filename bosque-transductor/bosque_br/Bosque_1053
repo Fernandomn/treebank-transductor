@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Isso)
+    )
+    (VP 
+     (IN porque)
+     (NP 
+      (PRP ninguém)
+     )
+     (VP 
+      (VBP sabe)
+     )
+    )
+    (VP 
+     (NP 
+      (DT quais)
+     )
+     (VP 
+      (VBP serão)
+     )
+     (NP 
+      (DT os)
+      (NN critérios)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN conversão)
+        (ADJP 
+         (JJ automática)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP explica)
+   )
+  )
+ )
+)

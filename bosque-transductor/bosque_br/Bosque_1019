@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT os)
+     (NN organizadores)
+    )
+   )
+   (VP 
+    (VBP havia)
+   )
+   (NP 
+    (CD 6.000)
+    (NN pessoas)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN comício)
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 21h)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (NNP Brizola)
+    )
+    (VP 
+     (VBP começou)
+     (IN a)
+     (VB falar)
+    )
+   )
+  )
+ )
+)

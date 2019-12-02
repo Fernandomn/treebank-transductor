@@ -1,0 +1,95 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Polícia_Civil_de_Ourinhos)
+    (NP 
+     (CD 371)
+     (NN km)
+     (PP 
+      (IN a)
+      (NP 
+       (NN oeste)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP São_Paulo)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP prendeu)
+   )
+   (ADVP 
+    (RB ontem)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN tarde)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP ex-líder)
+    (ADJP 
+     (JJ religioso)
+    )
+    (NP 
+     (NNP Jonas_Rúbio)
+    )
+    (NP 
+     (CD 45)
+    )
+    (VP 
+     (VP 
+      (VBN acusado)
+     )
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB matar)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN quarta-feira)
+        )
+       )
+       (NP 
+        (DT a)
+        (NN estudante)
+        (NP 
+         (NNP Claudirene_Contijo)
+        )
+        (ADJP 
+         (CD 13)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (DT um)
+         (NN tiro)
+         (PP 
+          (IN de)
+          (NP 
+           (NN espingarda)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS 3º)
+     (NNS Grande)
+     (NNS Prémio)
+     (NNS de)
+     (NNS Atletismo)
+     (NNS de_)
+     (NNS a)
+     (NNS Areco)
+    )
+   )
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Leiria)
+     )
+    )
+   )
+  )
+ )
+)

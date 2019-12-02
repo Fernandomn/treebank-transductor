@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS relatório)
+    )
+    (VP 
+     (VB prevê)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS presença)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS presidente)
+           (NNS de_)
+           (NNS o)
+           (NNS INICT)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (PRP algumas)
+         (NP 
+          (NNS reuniões)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Conselho)
+             (NNS de_)
+             (NNS os)
+             (NNS Reitores)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

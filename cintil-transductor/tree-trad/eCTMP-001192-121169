@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS clima)
+         (JJ político)
+        )
+        (JJ actual)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT os)
+      (NNS árabes)
+     )
+     (VP 
+      (VB evitarão)
+      (NP 
+       (PRP qualquer)
+       (NP 
+        (NNS negócio)
+        (PP 
+         (IN com)
+         (NP 
+          (NNS Israel)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

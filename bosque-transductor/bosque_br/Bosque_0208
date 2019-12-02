@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Quando)
+     )
+     (VP 
+      (VBP analisei)
+     )
+     (NP 
+      (DT a)
+      (NN pista)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN quinta-feira)
+      )
+     )
+    )
+    (VP 
+     (VBP pedi)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NNP FIA)
+     )
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP melhorasse)
+     )
+     (NP 
+      (DT as)
+      (NN condições)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT aquele)
+        (NN ponto)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (DT o)
+    (NN alemão)
+   )
+  )
+ )
+)

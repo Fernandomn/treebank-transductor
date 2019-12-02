@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Emília)
+   )
+   (VP 
+    (VBP conta)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Adelaide)
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT o)
+     (NN livro)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP está)
+       (VBG escrevendo)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP trata)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN famílias)
+        (ADJP 
+         (RB mais)
+         (JJ importantes)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB mora)
+    (ADVP 
+     (RB muito)
+     (ADVP 
+      (RB perto)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS centro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

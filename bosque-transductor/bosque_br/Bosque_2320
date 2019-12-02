@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN pior)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT esse)
+      (NN processo)
+     )
+    )
+    (NP 
+     (DT o)
+     (DT próprio)
+     (NN Estado)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP cai)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN descrédito)
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VBP acaba)
+       (VBG cedendo)
+      )
+      (NP 
+       (DT mais)
+       (NN espaço)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT as)
+         (NN forças)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN caos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

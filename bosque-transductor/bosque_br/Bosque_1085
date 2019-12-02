@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (JJ sonolenta)
+     (NNP Eindhoven)
+     (NP 
+      (NN cidade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Brabante)
+        (NP 
+         (NN região)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN sul)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NNP Holanda)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NN seriedade)
+    )
+    e
+    (NP 
+     (NN pontualidade)
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN apreciadas)
+   )
+  )
+ )
+)

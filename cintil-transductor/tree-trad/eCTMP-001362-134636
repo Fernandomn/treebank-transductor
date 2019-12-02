@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Artur)
+      (NNS Morão)
+     )
+    )
+    (VP 
+     (VB recua)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS origens)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Europa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB sublinha)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Império)
+          (NNS Romano)
+         )
+        )
+        (VP 
+         (RB já)
+         (VP 
+          (VB era)
+          (JJ multiracial)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

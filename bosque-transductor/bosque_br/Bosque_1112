@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Procure)
+   )
+   (VP 
+    (VP 
+     (VB saber)
+    )
+    (VP 
+     (VP 
+      (IN se)
+      (NP 
+       (PRP você)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP entrega)
+      )
+     )
+     ou
+     (VP 
+      (IN se)
+      (NP 
+       (PRP você)
+      )
+      (VP 
+       (VBP foge)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (DT suas)
+        (NN emoções)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

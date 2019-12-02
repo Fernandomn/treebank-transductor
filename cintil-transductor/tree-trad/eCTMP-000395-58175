@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Algumas)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (PP nossas)
+         (NP 
+          (NNS províncias)
+          (PP 
+           (PP 
+            (IN em)
+            (NP 
+             (NNS Espanha)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB decidiram)
+     (VP 
+      (VB encerrar)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS seminários)
+        (JJ menores)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS experiência)
+     )
+     (VB falhou)
+    )
+   )
+  )
+ )
+)

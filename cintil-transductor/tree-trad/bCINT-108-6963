@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS IA)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS organismo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT este)
+        (NNS ministério)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

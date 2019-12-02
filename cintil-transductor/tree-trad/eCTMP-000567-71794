@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (JJ verdadeiro)
+    (NP 
+     (NNS candidato)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS campanha)
+        (JJ presidencial)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

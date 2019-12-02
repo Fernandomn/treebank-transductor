@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Kirkeby)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP vem)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NNP Brasil)
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NN abertura)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP terá)
+   )
+   (NP 
+    (NN sala)
+    (ADJP 
+     (JJ especial)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ 22ª)
+     (NN Bienal)
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 12)
+     )
+    )
+   )
+  )
+ )
+)

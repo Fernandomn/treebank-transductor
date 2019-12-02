@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN povo)
+   )
+   (ADVP 
+    (RB assim)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (RB mais)
+    (NN destinatário)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN discurso)
+      (ADJP 
+       (JJ político)
+      )
+      (VP 
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (PRP ele)
+         (NP 
+          (DT mesmo)
+         )
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBP profere)
+        )
+       )
+       (VP 
+        (ADVP 
+         (RB quando_muito)
+        )
+        (VP 
+         (VBP escuta)
+        )
+       )
+      )
+     )
+    )
+    (SBAR que
+     (S 
+      (DT seu)
+      (NP 
+       (NP 
+        (NN emissor)
+       )
+       ou
+       (NP 
+        (NN senhor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

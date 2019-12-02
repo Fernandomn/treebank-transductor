@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT a)
+     (NN noite)
+    )
+   )
+   (VP 
+    (VBP vem)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB participar)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN programa)
+       (NP 
+        (NNP Fogo_Cruzado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

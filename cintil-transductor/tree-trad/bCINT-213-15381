@@ -1,0 +1,51 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD SETE)
+    (NP 
+     (NNS PAÍSES)
+     (ADJP 
+      (RB MAIS)
+      (JJ RICOS)
+     )
+    )
+   )
+   (NP 
+    (CC E)
+    (NP 
+     (NNS RÜSSIA)
+    )
+   )
+  )
+  (VP 
+   (VB APROVAM)
+   (NP 
+    (CD 25)
+    (NP 
+     (NNS MEDIDAS)
+     (PP 
+      (IN DE)
+      (NP 
+       (NP 
+        (NNS CARÁCTER)
+        (ADJP 
+         (JJ POLICIAL)
+         (ADJP 
+          (ADJP 
+           (JJ POLÍTICO)
+           (ADJP 
+            (CC E)
+            (JJ JUDICIAL)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

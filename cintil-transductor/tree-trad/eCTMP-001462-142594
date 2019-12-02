@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT A)
+       (NP 
+        (NNS Fernanda)
+        (NNS Almeida)
+        (NNS Costa)
+       )
+      )
+      (VP 
+       (VB teve)
+       (NP 
+        (NNS azar)
+       )
+      )
+     )
+    )
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB houve)
+      )
+      (NP 
+       (PRP pouco)
+       (NNS cuidado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

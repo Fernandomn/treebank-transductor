@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Foi)
+    (VBN enterrado)
+   )
+   (ADVP 
+    (RB ontem_de_manhã)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN cemitério)
+     (NP 
+      (NNP Chora_Menino)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Santana)
+     (NP 
+      (NN zona)
+      (NP 
+       (NN norte)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP ex-chefe)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Departamento_de_Fotografia)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN Folha)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Waldemar_Cordeiro)
+     (ADJP 
+      (CD 63)
+     )
+    )
+   )
+  )
+ )
+)

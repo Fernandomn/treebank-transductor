@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (RB também)
+    (JJ preciso)
+   )
+   (VP 
+    (NP 
+     (IN a)
+     (NP 
+      (NN sociedade)
+     )
+    )
+    (VP 
+     (VB mobilizar-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB sensibilizar)
+      )
+      (NP 
+       (DT o)
+       (JJ futuro)
+       (NNP Congresso_Nacional)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN promoção)
+        (PP 
+         (IN de)
+         (NP 
+          (NN reformas)
+          (ADJP 
+           (JJ constitucionais)
+          )
+          (ADJP 
+           (JJ indispensáveis)
+           (PP 
+            (IN a+)
+            (NP 
+             (DT o)
+             (NN êxito)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT as)
+               (NN mudanças)
+               (VBN pretendidas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

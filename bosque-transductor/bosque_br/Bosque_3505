@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Como)
+    (NP 
+     (DT sua)
+     (NN musa)
+     (NP 
+      (NNP Iris)
+     )
+    )
+    (VP 
+     (VBP gosta)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN tema)
+     )
+    )
+   )
+   (NP 
+    (NNP Silvio_Santos)
+   )
+   (VP 
+    (VBP vai)
+   )
+   (ADVP 
+    (RB agora)
+   )
+   (NP 
+    (DT todos)
+    (DT os)
+    (NN weekends)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN teatro)
+    )
+   )
+  )
+ )
+)

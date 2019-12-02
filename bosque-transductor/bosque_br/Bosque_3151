@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (CD cinco)
+    (NNP CDs)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Elvis:_From_Nashville_To_Memphis)
+     )
+    )
+   )
+   (VP 
+    (VBP trazem)
+   )
+   (NP 
+    (DT o)
+    (NN essencial)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN cantor)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN década)
+     (PP 
+      (IN de)
+      (ADJP 
+       (CD 60)
+      )
+     )
+    )
+   )
+  )
+ )
+)

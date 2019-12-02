@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP LUIZ_FELIPE_DE_ALENCASTRO)
+    (ADJP 
+     (CD 48)
+    )
+    (NP 
+     (NN historiador)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NP 
+     (NN pesquisador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Cebrap)
+       (NP 
+        (NNP Centro_Brasileiro_de_Análise_e_Planejamento)
+       )
+      )
+     )
+    )
+    e
+    (NP 
+     (NN professor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Instituto_de_Economia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Unicamp)
+         (NP 
+          (NNP Universidade_Estadual_de_Campinas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

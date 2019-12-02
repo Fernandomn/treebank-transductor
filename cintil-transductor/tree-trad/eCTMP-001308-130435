@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Guerra)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS administradores)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB aquece)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Banco)
+      (NNS de)
+      (NNS Portugal)
+     )
+    )
+   )
+  )
+ )
+)

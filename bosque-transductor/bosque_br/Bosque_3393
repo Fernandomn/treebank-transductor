@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ 2.)
+   )
+   (IN Que)
+   (NP 
+    (DT o)
+    (NN selecionador)
+   )
+   (VP 
+    (VBP tenha)
+    (IN que)
+    (VB ler)
+   )
+   (NP 
+    (DT todo)
+    (DT o)
+    (NN currículo)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB descobrir)
+     )
+     (NP 
+      (DT o)
+      (NN perfil)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN profissional)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

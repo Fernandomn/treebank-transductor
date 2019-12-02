@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS assunto)
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (VP 
+      (VB sido)
+      (VP 
+       (VB gerido)
+       (PP 
+        (IN por_)
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS líder)
+           (JJ regional)
+          )
+         )
+         (NP 
+          (NP 
+           (NNS José)
+           (NNS Apolinário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    sem que
+    (S 
+     (VP 
+      (RB ainda)
+      (VP 
+       (VB tivesse)
+       (VP 
+        (VB sido)
+        (VB encontrada)
+       )
+      )
+     )
+     (NP 
+      (DT uma)
+      (NNS saída)
+     )
+    )
+   )
+  )
+ )
+)

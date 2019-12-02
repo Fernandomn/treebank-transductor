@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS afirmação)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB feita)
+     (PP 
+      (IN por_)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS líder)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Renamo)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Afonso)
+         (NNS Dhlakama)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

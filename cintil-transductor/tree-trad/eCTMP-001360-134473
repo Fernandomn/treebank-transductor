@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT o)
+      (NNS PRD)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (JJ principal)
+      (NNS problema)
+     )
+    )
+    (VP 
+     (VB reside)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS subsídios)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (NP 
+           (DT a)
+           (NNS autarquia)
+          )
+          (VP 
+           (VB irá)
+           (VP 
+            (VB atribuir)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

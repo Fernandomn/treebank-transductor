@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Adão)
+     (NNS Barata)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB pronunciou)
+      )
+     )
+     (PP 
+      (IN durante)
+      (NP 
+       (DT a)
+       (NNS reunião)
+      )
+     )
+    )
+   )
+  )
+ )
+)

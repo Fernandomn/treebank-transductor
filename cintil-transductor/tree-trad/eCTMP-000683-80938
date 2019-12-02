@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Espectadores)
+      (JJ privilegiados)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS espectáculo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (ADVP 
+      (RB evidentemente)
+     )
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (JJ bons)
+      (NP 
+       (NNS conhecedores)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS textos)
+          (JJ bíblicos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

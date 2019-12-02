@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP pensa)
+     )
+     (PP 
+      (IN em_relação_a)
+      (NP 
+       (NN educação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP muda)
+     )
+     (NP 
+      (DT a)
+      (NN educação)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN Estado)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP muda)
+     )
+     (NP 
+      (DT o)
+      (NN Estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

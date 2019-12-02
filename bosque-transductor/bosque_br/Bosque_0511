@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN comissão)
+    (ADJP 
+     (JJ técnica)
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP cansa)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (VP 
+      (VB estudar)
+     )
+     (NP 
+      (DT os)
+      (DT outros)
+      (NN times)
+     )
+    )
+   )
+  )
+ )
+)

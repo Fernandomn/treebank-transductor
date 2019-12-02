@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (PRP Quem)
+     )
+     (VP 
+      (VBP queria)
+     )
+     (VP 
+      (VP 
+       (VB comprar)
+      )
+      (ADVP 
+       (RB por_exemplo)
+      )
+      (NP 
+       (NP 
+        (JJ meia)
+        (NN dúzia)
+        (PP 
+         (IN de)
+         (NP 
+          (NN pães)
+         )
+        )
+       )
+       e
+       (NP 
+        (CD um)
+        (NN litro)
+        (PP 
+         (IN de)
+         (NP 
+          (NN leite)
+         )
+        )
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB só)
+     )
+     (VP 
+      (VBP tinha)
+     )
+     (NP 
+      (NN cruzeiros)
+      (ADJP 
+       (JJ reais)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN bolso)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP teve)
+    (IN que)
+    (VB enfrentar)
+   )
+   (NP 
+    (NN fila)
+    (PP 
+     (IN de)
+     (NP 
+      (ADJP 
+       (IN até)
+       (CD duas)
+      )
+      (NN horas)
+     )
+    )
+   )
+  )
+ )
+)

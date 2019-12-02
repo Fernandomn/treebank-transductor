@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS pessoas)
+     (ADJP 
+      (JJ residentes)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT essa)
+        (NNS rua)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB colocavam)
+     (NP 
+      (PRP muito)
+      (NNS lixo)
+     )
+    )
+    (RB lá)
+   )
+  )
+ )
+)

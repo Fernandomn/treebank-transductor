@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN noite)
+     (PP 
+      (IN de)
+      (RB ontem)
+     )
+    )
+   )
+   (VP 
+    (VBP havia)
+   )
+   (NP 
+    (RB cerca_de)
+    (CD 3.000)
+    (NN pessoas)
+    (VP 
+     (VP 
+      (VBN retidas)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN aeroporto)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Ezeiza)
+         (NP 
+          (DT o)
+          (JJ principal)
+          (PP 
+           (IN de)
+           (NP 
+            (NNP Buenos_Aires)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

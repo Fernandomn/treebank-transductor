@@ -1,0 +1,92 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (CD 4})
+   )
+   (NP 
+    (DT A)
+    (NN realização)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Cairo)
+      (NP 
+       (NNP Egito)
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Conferência_Internacional_sobre_População_e_Desenvolvimento)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP ONU)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (RB como)
+    (NP 
+     (JJ maior)
+     (NN objetivo)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN divulgação)
+    (ADJP 
+     (JJ mundial)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN políticas)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NN controle)
+        (PP 
+         (IN de)
+         (NP 
+          (NN natalidade)
+         )
+        )
+       )
+      )
+      (NP 
+       (RB como)
+       (NP 
+        (NN forma)
+        (PP 
+         (IN de)
+         (NP 
+          (NN redução)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN pobreza)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

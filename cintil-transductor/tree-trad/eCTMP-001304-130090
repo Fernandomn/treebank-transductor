@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Diversos)
+    (NP 
+     (NNS artistas)
+     (ADJP 
+      (VB convidados)
+     )
+    )
+   )
+   (VP 
+    (VB actuarão)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS palco)
+       (ADVP 
+        (RB junto)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS esquina)
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS Rua)
+              (NNS de_)
+              (NNS a)
+              (NNS Vitória)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

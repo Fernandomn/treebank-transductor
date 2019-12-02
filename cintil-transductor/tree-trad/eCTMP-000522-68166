@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS opinião)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS tradutores)
+        )
+        (NP 
+         (NP 
+          (NP 
+           (NNS críticos)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (PRP alguns)
+            (NP 
+             (NNS editores)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS livros)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (RB Já)
+   (S 
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS actividades)
+       (JJ produtivas)
+      )
+      (JJ destrutivas)
+     )
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB caracterizam)
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS destruição)
+        (ADJP 
+         (JJ alegre)
+         (ADJP 
+          (CC e)
+          (JJ rentável)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

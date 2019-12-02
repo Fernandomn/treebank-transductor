@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT esta)
+     (NNS vez)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS representação)
+      (JJ francesa)
+     )
+    )
+    (VP 
+     (VB aceitou)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS candidatos)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS exílio)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

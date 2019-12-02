@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS exposição)
+   )
+   (VP 
+    (RB nunca)
+    (VP 
+     (VP 
+      (VB foi)
+      (VB encarada)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NNS hostilidade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

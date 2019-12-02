@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN Fórum)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT os)
+    (NN preços)
+    (ADJP 
+     (JJ máximos)
+    )
+    (VP 
+     (VP 
+      (VBN pagos)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN mercado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

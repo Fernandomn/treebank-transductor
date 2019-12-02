@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS Legião)
+      (NNS Americana)
+      (NNS Color)
+      (NNS Guard)
+     )
+     (JJ local)
+    )
+   )
+   (VP 
+    (VB indicou)
+    (NP 
+     (DT o)
+     (NNS caminho)
+    )
+   )
+  )
+ )
+)

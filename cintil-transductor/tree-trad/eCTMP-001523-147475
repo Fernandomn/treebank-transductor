@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS quota)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS mercado)
+       )
+      )
+     )
+     (NNS AG-Kassbohrer)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ mesmo)
+        (NNS período)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB cifrou)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NP 
+         (CD 13)
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

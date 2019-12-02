@@ -1,0 +1,19 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS Bosco)
+     (NNS Jardim)
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Brasília)
+   )
+  )
+ )
+)

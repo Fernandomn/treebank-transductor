@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (CD quatro)
+       (NNS filhas)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB teve)
+      )
+      (NP 
+       (NNS continuadores)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS empresa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

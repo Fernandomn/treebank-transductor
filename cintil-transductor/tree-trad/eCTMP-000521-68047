@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Nastasja)
+     (NNS Kinsky)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NNS EUA)
+      )
+     )
+    )
+    (VP 
+     (RB aparentemente)
+     (VP 
+      (RB não)
+      (VB existe)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN termos)
+     (ADJP 
+      (JJ políticos)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN país)
+   )
+   (VP 
+    (VBP saiu)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT as)
+     (NN eleições)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT um)
+     (NN Estado)
+     (ADJP 
+      (RB mais)
+      (ADJP 
+       (ADJP 
+        (JJ vigoroso)
+       )
+       e
+       (ADJP 
+        (JJ democrático)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (JJ melhores)
+     (NN condições)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB enfrentar)
+       )
+       (NP 
+        (NP 
+         (DT a)
+         (NN inflação)
+        )
+        e
+        (NP 
+         (DT o)
+         (NN desemprego)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

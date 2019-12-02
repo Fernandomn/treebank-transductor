@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Baterista)
+    (NNS Cozy)
+    (NNS Powell)
+   )
+  )
+  (VP 
+   (VB morreu)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS acidente)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS viação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

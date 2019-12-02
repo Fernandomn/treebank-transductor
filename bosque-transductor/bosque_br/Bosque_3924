@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NN momento)
+    )
+   )
+   (NP 
+    (NNP Pelé)
+    (NP 
+     (DT o)
+     (JJ maior)
+     (NN jogador)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN história)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN equipe)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (NP 
+    (DT a)
+    (JJ maior)
+    (NN esperança)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN time)
+      (ADJP 
+       (JJ forte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

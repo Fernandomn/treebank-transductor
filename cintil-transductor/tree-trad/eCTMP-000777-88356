@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS anúncio)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB gerou)
+      (RB porém)
+     )
+     (NP 
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ grande)
+        (NNS polémica)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ grande)
+         (NNS cepticismo)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NNS especialistas)
+     )
+    )
+   )
+  )
+ )
+)

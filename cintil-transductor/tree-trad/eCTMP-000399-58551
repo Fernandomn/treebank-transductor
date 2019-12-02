@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB refere)
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT as)
+            (NNS impressoras)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS situação)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (ADJP 
+      (RB mais)
+      (JJ clara)
+     )
+    )
+   )
+  )
+ )
+)

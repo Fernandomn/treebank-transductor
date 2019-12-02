@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Declarações)
+     (JJ contraditórias)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB surgiram)
+      (RB também)
+     )
+     (RB ontem)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS parte)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Câmara)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

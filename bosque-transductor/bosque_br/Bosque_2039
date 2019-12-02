@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Geralmente)
+    )
+    (VP 
+     (VBN procurados)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN estudantes)
+      (ADJP 
+       (JJ adolescentes)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT esses)
+    (NN serviços)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP são)
+      (VBN abertos)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT qualquer)
+       (NN interessado)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP têm)
+     )
+     (NP 
+      (DT a)
+      (NN vantagem)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VP 
+          (VB ser)
+         )
+         (ADJP 
+          (JJ gratuitos)
+         )
+        )
+        ou
+        (VP 
+         (VP 
+          (VB cobrar)
+         )
+         (NP 
+          (NN preços)
+          (ADJP 
+           (JJ baixos)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (IN se)
+      (VP 
+       (VP 
+        (VBN comparados)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT os)
+         (PP 
+          (IN de)
+          (NP 
+           (NN empresas)
+           (PP 
+            (IN de)
+            (NP 
+             (NN consultoria)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN intenção)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Fleury)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB vender)
+     )
+     (NP 
+      (DT as)
+      (NN ações)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB equilibrar)
+       )
+       (NP 
+        (DT as)
+        (NN finanças)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB começar)
+      (IN a)
+      (VB pagar)
+     )
+     (NP 
+      (DT a)
+      (NN dívida)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Estado)
+       )
+      )
+      (VP 
+       (VP 
+        (VBN estimada)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN R$)
+         (NP 
+          (CD 31)
+          (NN bilhões)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

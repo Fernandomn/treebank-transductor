@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (DT várias)
+     (NN ocasiões)
+    )
+   )
+   (NP 
+    (PRP eu)
+   )
+   (NP 
+    (PRP me)
+   )
+   (VP 
+    (VBP vi)
+   )
+   (VP 
+    (IN como)
+    (VP 
+     (VBP anotei)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (DT meu)
+      (NN diário)
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN beira)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN lágrimas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

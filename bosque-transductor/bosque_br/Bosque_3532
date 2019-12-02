@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_vez_de)
+     (VP 
+      (VP 
+       (VB mandar)
+      )
+      (NP 
+       (DT um)
+       (NN papel)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN garçom)
+       )
+      )
+      (NP 
+       (PP 
+        (IN com)
+        (NP 
+         (NN cantadas)
+         (VBN escritas)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN plínio)
+    )
+    (VP 
+     (VBP liga)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN plínia)
+      (PP 
+       (IN de)
+       (NP 
+        (DT sua)
+        (NN predileção)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (UH pronto)
+    )
+    (VP 
+     (VBP está)
+    )
+    (VBN feito)
+    (NP 
+     (DT o)
+     (NN contato)
+     (ADJP 
+      (JJ imediato)
+     )
+    )
+   )
+  )
+ )
+)

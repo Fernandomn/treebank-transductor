@@ -1,0 +1,17 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Glasgow)
+    (NNS Rangers)
+   )
+  )
+  (VP 
+   (VB venceu)
+   (NP 
+    (DT o)
+    (NNS Celtic)
+   )
+  )
+ )
+)

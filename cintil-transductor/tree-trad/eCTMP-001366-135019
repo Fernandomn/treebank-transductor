@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP eles)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS Estados)
+      (NNS Unidos)
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (ADJP 
+       (JJ importantes)
+      )
+     )
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VB são)
+        (NP 
+         (DT uma)
+         (NNS superpotência)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

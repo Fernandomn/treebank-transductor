@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NN empresário)
+     )
+     e
+     (NP 
+      (NN corretor)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN imóveis)
+     )
+    )
+    (NP 
+     (NNP Roberto_Capuano)
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN reeleito)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (JJ terceira)
+     (NN vez)
+    )
+   )
+   (NP 
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Conselho_Regional_de_Corretores_de_Imóveis)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Estado)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+          (NP 
+           (NNP Creci)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

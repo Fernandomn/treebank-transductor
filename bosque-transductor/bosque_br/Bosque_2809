@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Enterrou)
+    )
+    (NP 
+     (DT as)
+     (NN previsões)
+     (ADVP 
+      (RB mais)
+      (SBAR do_que
+       (S 
+        (JJ otimistas)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP deixou)
+    )
+    (VP 
+     (VP 
+      (VB ver)
+     )
+     (VP 
+      (ADVP 
+       (RB quanto)
+      )
+      (VP 
+       (VBP é)
+       (VBN viciado)
+      )
+      (NP 
+       (DT o)
+       (NN noticiário)
+       (ADJP 
+        (JJ esportivo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

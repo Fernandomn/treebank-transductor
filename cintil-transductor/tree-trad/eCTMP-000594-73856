@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+   )
+   (VP 
+    (VB possuem)
+    (NP 
+     (NP 
+      (NNS antecedentes)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS crimes)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS furto)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS praias)
+            (JJ algarvias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

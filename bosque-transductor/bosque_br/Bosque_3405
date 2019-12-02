@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN carro)
+   )
+   (VP 
+    (VBP foi)
+    (VBN achado)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN início)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN tarde)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Engenheiro_Marsilac)
+     (NP 
+      (NN zona)
+      (ADJP 
+       (JJ sul)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,139 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Não)
+    (RB só)
+   )
+   (VP 
+    (NP 
+     (DT a)
+     (NN expectativa)
+    )
+    (VP 
+     (VBP é)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NN tramitação)
+      (VP 
+       (VP 
+        (VBN demorada)
+       )
+       (PP 
+        (RB até)
+        (NP 
+         (DT a)
+         (NN decisão)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP STJ)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (VP 
+      (VBP pode)
+      (VB inviabilizar)
+     )
+     (NP 
+      (DT uma)
+      (JJ eventual)
+      (NN candidatura)
+      (NP 
+       (NNP Sarney)
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN falta)
+       (PP 
+        (IN de)
+        (NP 
+         (NN tempo)
+         (PP 
+          (IN até)
+          (NP 
+           (DT as)
+           (NN eleições)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB como)
+   )
+   (VP 
+    (ADVP 
+     (RB também)
+    )
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (NN informações)
+     (VP 
+      (VP 
+       (VBG dando)
+      )
+      (NP 
+       (NN conta)
+       (PP 
+        (IN de)
+        (VP 
+         (IN que)
+         (NP 
+          (DT o)
+          (NP ex-presidente)
+         )
+         (VP 
+          (VBP poderá)
+         )
+         (ADVP 
+          (RB em_breve)
+         )
+         (VP 
+          (VB anunciar)
+         )
+         (NP 
+          (DT seu)
+          (NN apoio)
+          (PP 
+           (IN a)
+           (NP 
+            (NNP Fernando_Henrique_Cardoso)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN PSDB)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

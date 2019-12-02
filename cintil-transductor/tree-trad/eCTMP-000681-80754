@@ -1,0 +1,92 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS RAR)
+     (NNS Ambiente)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS empresa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS universo)
+          (NNS RAR)
+         )
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB vai)
+         (VP 
+          (VB controlar)
+          (NP 
+           (DT os)
+           (NP 
+            (JJ novos)
+            (NP 
+             (NNS negócios)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS área)
+                (PP 
+                 (PP 
+                  (IN de_)
+                  (NP 
+                   (DT as)
+                   (NNS águas)
+                  )
+                 )
+                 (PP 
+                  (CC e)
+                  (PP 
+                   (IN de_)
+                   (NP 
+                    (DT o)
+                    (NP 
+                     (NNS tratamento)
+                     (PP 
+                      (IN de)
+                      (NP 
+                       (NNS lixos)
+                      )
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

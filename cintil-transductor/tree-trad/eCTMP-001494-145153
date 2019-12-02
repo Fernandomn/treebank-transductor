@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (NP 
+       (NNS ponto)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS partida)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS convidados)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB será)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Bagnères)
+      )
+     )
+    )
+   )
+  )
+ )
+)

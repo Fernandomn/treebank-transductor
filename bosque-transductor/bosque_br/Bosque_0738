@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN artista)
+    (VP 
+     (NP 
+      (DT cujo)
+      (NN nome)
+      (PP 
+       (IN de)
+       (NP 
+        (NN batismo)
+       )
+      )
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (NNP Luís_Carlos_dos_Santos)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP pagou)
+     )
+     (NP 
+      (DT uma)
+      (NN fiança)
+      (PP 
+       (IN de)
+       (NP 
+        (NN CR$)
+        (NP 
+         (CD 100)
+         (NN mil)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP foi)
+      (VBN liberado)
+     )
+    )
+   )
+  )
+ )
+)

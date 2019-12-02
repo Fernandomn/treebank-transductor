@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (CD primeiras)
+     (NNS palmas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (RB assim)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (PRP quem)
+      )
+      (S 
+       (VP 
+        (VB anunciou)
+        (CONJP 
+         (CC que)
+         (S 
+          (NP 
+           (DT o)
+           (NNS jantar)
+          )
+          (VP 
+           (VB ia)
+           (VP 
+            (VB ser)
+            (VB servido)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

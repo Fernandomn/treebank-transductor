@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN Enfermagem)
+   )
+   (VP 
+    (VP 
+     (VBP Acontecerá)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (JJ próximo)
+      (NN dia)
+      (ADJP 
+       (CD 6)
+      )
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NNP Ces-Senac)
+      (NP 
+       (NNP av._Tiradentes)
+      )
+      (ADJP 
+       (CD 822)
+      )
+     )
+    )
+    (NP 
+     (NN seminário)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NN caracterização)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN pessoal)
+         (PP 
+          (IN de)
+          (NP 
+           (NN enfermagem)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN Estado)
+         (PP 
+          (IN de)
+          (NP 
+           (NNP São_Paulo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

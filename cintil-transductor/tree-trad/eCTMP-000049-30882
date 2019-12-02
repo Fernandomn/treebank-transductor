@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Holanda-Inglaterra)
+   )
+   (VP 
+    (VB decide)
+    (NP 
+     (NP 
+      (PRP quase)
+      (PRP tudo)
+     )
+     (NP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT este)
+        (NNS grupo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

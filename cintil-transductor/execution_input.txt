@@ -1,0 +1,1 @@
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -loadFromSerializedFile /home/fernando/projeto-final-parsers/serialized-files/serialGrammarCINTIL6 input/sentencas_teste_cintil.txt

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Presidência)
+        (NNS de_)
+        (NNS a)
+        (NNS República)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB daria)
+      (NP 
+       (NNS cobertura)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS continuidade)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT esse)
+          (NP 
+           (NNS horizonte)
+           (JJ sombrio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

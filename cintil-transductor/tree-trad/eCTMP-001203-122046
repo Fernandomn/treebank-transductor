@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP seu)
+     (NNS nome)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB é)
+      (RB usualmente)
+     )
+     (VB citado)
+    )
+    (CONJP 
+     (CC quando)
+     (S 
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB fala)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS poesia)
+          (JJ angolana)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT este)
+           (NNS período)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

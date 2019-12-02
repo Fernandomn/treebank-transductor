@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS educação)
+      (JJ autoritária)
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (JJ boa)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNS taylorismo)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS educação)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NP 
+            (JJ bom)
+           )
+           (JJ selvagem)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (JJ boa)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NP 
+         (NNS indústria)
+         (JJ moderna)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

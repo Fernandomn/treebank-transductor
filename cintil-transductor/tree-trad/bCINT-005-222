@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ velho)
+     (NP 
+      (NNS lugar)
+      (JJ comum)
+     )
+    )
+   )
+   (VP 
+    (VB prescreveu)
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS falta)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ bom)
+          (NNS senso)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

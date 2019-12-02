@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NNP Departamento_de_Estado)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Washington)
+    )
+   )
+   (VP 
+    (VBP desconfiava-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Getúlio)
+     (NP 
+      (NN ditador)
+      (PP 
+       (IN com)
+       (NP 
+        (DT uma)
+        (NN política)
+        (PP 
+         (IN em)
+         (NP 
+          (DT certos)
+          (NN momentos)
+         )
+        )
+        (ADJP 
+         (JJ próxima)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (NN fascismo)
+           (ADJP 
+            (JJ mussoliniano)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

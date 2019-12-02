@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Para)
+      (IN além)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NNS Matemática)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB admite)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (RB também)
+       (NP 
+        (DT a)
+        (NNS Física)
+       )
+      )
+      (VP 
+       (VP 
+        (VB tenha)
+        (NP 
+         (NP 
+          (NNS notas)
+          (JJ baixas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

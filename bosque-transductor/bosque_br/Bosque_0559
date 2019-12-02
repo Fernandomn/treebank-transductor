@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN declaração)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Fleury)
+     )
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (VP 
+       (VBP continua)
+      )
+      (NP 
+       (NN candidato)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP convenceu)
+   )
+   (NP 
+    (DT alguns)
+    (NN prefeitos)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (PRP o)
+     )
+     (VP 
+      (VBP acompanhavam)
+     )
+    )
+   )
+  )
+ )
+)

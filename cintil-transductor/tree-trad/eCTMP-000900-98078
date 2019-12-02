@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Todos)
+   )
+   (VP 
+    (VB entram)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS mãos)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NNS bolsos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

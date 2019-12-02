@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Agostinho)
+    )
+    (VP 
+     (VP 
+      (VB entrou)
+      (RB mesmo)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS fim)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (NP 
+       (NNS César)
+       (NNS Brito)
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (RB não)
+        (VB foi)
+       )
+       (VB convocado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNS lesão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

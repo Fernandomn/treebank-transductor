@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VB Cresce)
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS entrega)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS refeições)
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS domicílio)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS Grande)
+     (NNS Lisboa)
+    )
+   )
+  )
+ )
+)

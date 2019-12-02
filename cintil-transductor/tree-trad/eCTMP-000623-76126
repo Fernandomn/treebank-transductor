@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NP 
+       (NNS jipe)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ferramentas)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS apoio)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Shell)
+          )
+         )
+        )
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (VB equipado)
+       (PP 
+        (IN com)
+        (NP 
+         (NNS telemóvel)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB acompanhar)
+     (NP 
+      (DT os)
+      (NNS concorrentes)
+     )
+    )
+   )
+  )
+ )
+)

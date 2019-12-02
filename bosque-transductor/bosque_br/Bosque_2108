@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN conversa)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (ADJP 
+     (JJ preliminar)
+    )
+   )
+  )
+ )
+)

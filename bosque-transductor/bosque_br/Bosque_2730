@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT a)
+    (NN razão)
+    (PP 
+     (PP 
+      (IN de)
+      (VP 
+       (NP 
+        (PRP tudo_o_que)
+       )
+       (VP 
+        (VBP faço)
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (PRP tudo)
+       (PRP aquilo)
+       (VP 
+        (PP 
+         (IN em)
+         (NP 
+          (PRP que)
+         )
+        )
+        (VP 
+         (VBP acredito)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (JJ grandes)
+     (NN espaços)
+     (PP 
+      (IN entre)
+      (NP 
+       (DT as)
+       (NN palavras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

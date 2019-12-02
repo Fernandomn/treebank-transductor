@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS nave)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS revolução)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB aluiu)
+     (ADVP 
+      (RB entretanto)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS contradições)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS tempo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

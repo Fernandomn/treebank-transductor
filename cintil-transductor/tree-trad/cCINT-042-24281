@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PRP alguns)
+      (NNS minutos)
+     )
+    )
+    (VP 
+     (VB chegaram)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS destino)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS abrandamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS indicador)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (ADJP 
+      (RB mais)
+      (JJ visível)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS sector)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS bens)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS investimento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

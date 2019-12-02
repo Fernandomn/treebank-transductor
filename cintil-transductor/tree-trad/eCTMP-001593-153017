@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NP 
+      (NNS boneco)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS peluche)
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS tamanho)
+        (JJ médio)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB custa)
+    (NP 
+     (PRP várias)
+     (NP 
+      (NNS centenas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS marcos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

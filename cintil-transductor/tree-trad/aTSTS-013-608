@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB comutou)
+     (NP 
+      (DT os)
+      (NNS auscultadores)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS som)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS colunas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

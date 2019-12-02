@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Hostal)
+       (NNS de_)
+       (NNS os)
+       (NNS Reis)
+       (NNS Católicos)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS auditório)
+    )
+    (VP 
+     (VB encheu)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+  )
+ )
+)

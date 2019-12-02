@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+       (NNS dia)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Governo)
+    )
+    (VP 
+     (VP 
+      (VB pediu)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS aceleração)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS inquérito)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB isolando)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS caso)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS sindicato)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

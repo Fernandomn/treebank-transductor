@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN empresa)
+    )
+   )
+   (VP 
+    (VBP será)
+   )
+   (NP 
+    (DT o)
+    (JJ primeiro)
+    (NN alimento)
+    (VP 
+     (VP 
+      (VBN produzido)
+     )
+     (ADVP 
+      (RB totalmente)
+     )
+     (ADVP 
+      (RB através)
+      (PP 
+       (IN de)
+       (NP 
+        (NN técnicas)
+        (PP 
+         (IN de)
+         (NP 
+          (NN engenharia)
+          (ADJP 
+           (JJ genética)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB ser)
+       (VBN vendido)
+      )
+     )
+    )
+   )
+  )
+ )
+)

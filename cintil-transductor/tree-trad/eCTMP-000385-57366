@@ -1,0 +1,43 @@
+(
+ (S 
+  (NP 
+   (NNS Guterres)
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB lança)
+     (NP 
+      (NNS aviso)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS PS)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS reunião)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Comissão)
+         (NNS Nacional)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

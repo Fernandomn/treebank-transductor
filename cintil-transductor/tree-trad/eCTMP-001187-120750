@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Porém)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS opinião)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (JJ actual)
+          )
+          (NNS Governo)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT esta)
+        (NNS matéria)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB ainda)
+     )
+     (VB desconhecida)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fábrica)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS ossos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB vistoriada)
+    )
+    (RB ontem)
+   )
+  )
+  (S 
+   (CC e)
+   (S 
+    (VP 
+     (VB encerra)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS terça-feira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

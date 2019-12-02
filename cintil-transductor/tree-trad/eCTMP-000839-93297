@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (DT A)
+       (NP 
+        (NNS moeda)
+        (JJ alemã)
+       )
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NNS marco)
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (NP 
+           (NNS trunfos)
+           (ADJP 
+            (RB mais)
+            (JJ sólidos)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Alemanha)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (PP 
+      (IN a)
+      (VP 
+       (VB perder)
+       (NP 
+        (NNS velocidade)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS mercados)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS divisas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

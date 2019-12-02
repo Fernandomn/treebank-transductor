@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Charles)
+      (NNS Grantham)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS director-executivo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS associação)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS jogadores)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (ADJP 
+      (ADJP 
+       (RB cuidadosamente)
+       (JJ optimista)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN acerca)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS estado)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS negociações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

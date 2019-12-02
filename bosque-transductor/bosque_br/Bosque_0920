@@ -1,0 +1,216 @@
+(
+ (S 
+  (NP 
+   (NN Parágrafo)
+   (ADJP 
+    (JJ 5º)
+   )
+   (VP 
+    (NP 
+     (DT Os)
+     (NN valores)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN parcelas)
+       (ADJP 
+        (JJ referentes)
+        (PP 
+         (IN a)
+         (NP 
+          (NN benefícios)
+          (VP 
+           (VP 
+            (VBN pagos)
+           )
+           (PP 
+            (IN com)
+            (NP 
+             (NN atraso)
+            )
+           )
+           (PP 
+            (IN por+)
+            (NP 
+             (DT a)
+             (NNP Previdência_Social)
+            )
+           )
+           (PP 
+            (IN por)
+            (NP 
+             (DT sua)
+             (NN responsabilidade)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VBP serão)
+    (VP 
+     (VP 
+      (VBN atualizados)
+      (ADVP 
+       (RB monetariamente)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT os)
+        (NN índices)
+        (VP 
+         (VP 
+          (VBN previstos)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN art.)
+           (ADJP 
+            (CD 41)
+           )
+           (NP 
+            (NN Parágrafo)
+            (ADJP 
+             (JJ 7º)
+            )
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN Lei)
+             (NP 
+              (NN nº)
+             )
+             (ADJP 
+              (CD 8.213)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (CD 1991)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT as)
+        (NN alterações)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Lei)
+          (NP 
+           (NN nº)
+          )
+          (ADJP 
+           (CD 8.542)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (CD 1992)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN até)
+       (NP 
+        (DT o)
+        (NN mês)
+        (PP 
+         (IN de)
+         (NP 
+          (NN fevereiro)
+          (PP 
+           (IN de)
+           (NP 
+            (CD 1994)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VBN convertidas)
+      (PP 
+       (IN em)
+       (NP 
+        (NN URV)
+       )
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN valor)
+        (PP 
+         (IN em)
+         (NP 
+          (NN cruzeiros_reais)
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN equivalente)
+          (PP 
+           (IN em)
+           (NP 
+            (NN URV)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+         (CD 28)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN fevereiro)
+          (PP 
+           (IN de)
+           (ADJP 
+            (CD 1994)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

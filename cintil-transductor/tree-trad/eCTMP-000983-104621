@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS sindicato)
+   )
+   (VP 
+    (VB refere)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS cedência)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT aquelas)
+        (NP 
+         (NNS instalações)
+         (PP 
+          (PP 
+           (IN para)
+           (NP 
+            (DT os)
+            (NP 
+             (NP 
+              (NNS fins)
+              (JJ específicos)
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS socorros)
+                (PP 
+                 (IN a)
+                 (NP 
+                  (NNS náufragos)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

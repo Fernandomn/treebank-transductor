@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Quando)
+     )
+     (NP 
+      (DT os)
+      (NN britânicos)
+     )
+     (VP 
+      (VBP retomaram)
+     )
+     (NP 
+      (DT o)
+      (NNP Egito)
+     )
+     (PP 
+      (IN em)
+      (ADJP 
+       (CD 1801)
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NN pedra)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (VP 
+     (VP 
+      (VB parar)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Museu_Britânico)
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (DT os)
+     (NN franceses)
+    )
+    (VP 
+     (VBP fizeram)
+    )
+    (NP 
+     (NN cópias)
+     (PP 
+      (IN de+)
+      (NP 
+       (PRP ela)
+      )
+     )
+    )
+   )
+  )
+ )
+)

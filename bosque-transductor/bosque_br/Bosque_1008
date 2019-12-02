@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN data)
+     (VBN acordada)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN computadores)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Bradesco)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP debitarão)
+     )
+     (NP 
+      (NN saque)
+     )
+     (NP 
+      (DT a)
+      (NN conta)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN cliente)
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP creditarão)
+     )
+     (NP 
+      (NN depósito)
+     )
+     (NP 
+      (DT a)
+      (NN empresa)
+      (ADJP 
+       (JJ vendedora)
+      )
+     )
+    )
+   )
+  )
+ )
+)

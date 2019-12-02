@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (IN de)
+     (NP 
+      (CD dois)
+      (NN mandatos)
+     )
+    )
+   )
+   (NP 
+    (NNP Menem)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP poderia)
+    (VB ser)
+    (VBN reeleito)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1999)
+    )
+   )
+  )
+ )
+)

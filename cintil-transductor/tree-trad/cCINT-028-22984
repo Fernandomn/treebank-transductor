@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Maria)
+     (NNS de_)
+     (NNS a)
+     (NNS Glória)
+    )
+   )
+   (VP 
+    (VB dizia)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (RB nunca)
+       (VP 
+        (VB vira)
+        (NP 
+         (CD dois)
+         (NP 
+          (NNS amigos)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS espécies)
+             (ADJP 
+              (RB tão)
+              (JJ diferentes)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

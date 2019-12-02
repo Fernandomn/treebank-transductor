@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS público)
+   )
+   (VP 
+    (VP 
+     (VB desforrou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS concerto)
+       (JJ adiado)
+      )
+     )
+    )
+   )
+  )
+ )
+)

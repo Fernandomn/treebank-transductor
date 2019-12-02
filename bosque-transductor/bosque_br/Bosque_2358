@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN ônibus)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP era)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Viação_Boa_Vista)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP transportava)
+     )
+     (NP 
+      (RB cerca_de)
+      (CD 40)
+      (NN passageiros)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN hora)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN acidente)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (DT a)
+     (NNP Polícia_Rodoviária)
+    )
+   )
+  )
+ )
+)

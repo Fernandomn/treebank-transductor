@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (CD Uma)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN coisas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (DT os)
+        (NN linguistas)
+       )
+       (ADVP 
+        (RB ainda)
+       )
+       (VP 
+        (VBP precisam)
+       )
+       (VP 
+        (VP 
+         (VB estudar)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN teoria)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN tropos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS Outubro)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ano)
+          (JJ passado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Mota)
+      (NNS Amaral)
+     )
+    )
+    (VP 
+     (VB abandonou)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS Açores)
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS presidência)
+           (NNS de_)
+           (NNS o)
+           (NNS PSD)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS governo)
+            (NNS regional)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

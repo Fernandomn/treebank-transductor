@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS estrelas)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS filme)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Julia)
+       (NNS Roberts)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Robin)
+         (NNS Williams)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Dustin)
+          (NNS Hoffman)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS policia)
+   )
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB mesmo)
+      (RB assim)
+     )
+    )
+    (VP 
+     (VP 
+      (VB reteve)
+      (PP 
+       (IN para)
+       (NP 
+        (NNS averiguações)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (CD duas)
+       (NNS mulheres)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (CD tres)
+        (NNS homens)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

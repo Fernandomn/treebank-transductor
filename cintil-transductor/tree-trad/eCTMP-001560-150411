@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS articulado)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB determina)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS extinção)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS série)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS organismos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS criação)
+        (PP 
+         (IN de)
+         (NP 
+          (DT outros)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

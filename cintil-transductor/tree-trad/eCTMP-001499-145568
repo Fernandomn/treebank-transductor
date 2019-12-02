@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Vaclav)
+       (NNS Havel)
+      )
+     )
+     (NP 
+      (NP 
+       (NP 
+        (DT o)
+        (NNS escritor)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Presidente)
+          (NNS de_)
+          (NNS a)
+          (NNS Checoslováquia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

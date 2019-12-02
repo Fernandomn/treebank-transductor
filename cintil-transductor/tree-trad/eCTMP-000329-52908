@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Oikos)
+    (NNS e)
+    (NNS Unicef)
+   )
+  )
+  (VP 
+   (VB criam)
+   (NP 
+    (DT uma)
+    (NP 
+     (NP 
+      (NNS maleta)
+      (JJ pedagógica)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT os)
+       (NNS professores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS situações-problema)
+   )
+   (VP 
+    (VB têm)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS índice)
+       (ADJP 
+        (RB muito)
+        (JJ baixo)
+       )
+      )
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS ordem)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NP 
+              (CD dez)
+              (NP 
+               (NN por)
+               (NN cento)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

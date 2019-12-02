@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Homens)
+    (PP 
+     (IN com)
+     (NP 
+      (NNS sida)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB têm)
+   (NP 
+    (NP 
+     (NNS filhos)
+     (JJ sãos)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esse)
+    (NN equipamento)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP envolve)
+     )
+     (NP 
+      (DT o)
+      (NN prédio)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP é)
+      (VBN indicado)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN construções)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP ocupem)
+        )
+        (NP 
+         (NN áreas)
+         (ADJP 
+          (JJ horizontais)
+         )
+        )
+       )
+       (NP 
+        (RB como)
+        (NP 
+         (NP 
+          (NN galpões)
+         )
+         e
+         (NP 
+          (NN indústrias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

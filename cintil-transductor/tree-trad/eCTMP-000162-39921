@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Sem)
+     (NP 
+      (NP 
+       (NNS dramatismos)
+       (JJ desnecessários)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VB decorreu)
+     (PP 
+      (PP 
+       (IN dentro)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS clima)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS estado)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS graça)
+             )
+            )
+           )
+          )
+         )
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB caracteriza)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS momentos)
+             (JJ pós-eleitorais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

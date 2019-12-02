@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Artur)
+      (NNS Duarte)
+      (NNS Oliveira)
+     )
+    )
+    (VP 
+     (VP 
+      (VB chegou)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS Boavista)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD 1992)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB tem)
+       (NP 
+        (NNS contrato)
+       )
+      )
+      (PP 
+       (IN até)
+       (NP 
+        (CD 1997)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

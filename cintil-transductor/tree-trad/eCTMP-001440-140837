@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CC Porque)
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB fala)
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS jovens)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS sida)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS questão)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB sempre)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+      )
+     )
+    )
+   )
+  )
+ )
+)

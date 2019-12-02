@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN De)
+     (NP 
+      (PRP qualquer)
+      (NNS forma)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT o)
+      (NNS jogador)
+     )
+     (VP 
+      (VB estava)
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NNS final)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS contrato)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS FC)
+        (NNS Porto)
+       )
+      )
+      (VP 
+       (VP 
+        (VB poderia)
+        (RB sempre)
+       )
+       (VP 
+        (VB contratá)
+        (NP 
+         (PRP -lo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

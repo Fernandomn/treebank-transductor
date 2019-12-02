@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+    (NP 
+     (DT os)
+     (NNS interesses)
+    )
+   )
+   (VP 
+    (VB estão)
+    (ADJP 
+     (VB sediados)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Toronto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

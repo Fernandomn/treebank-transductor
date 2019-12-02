@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de+)
+    (NP 
+     (DT a)
+     (NN declaração)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN separatistas)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN governo)
+    (ADJP 
+     (JJ britânico)
+    )
+   )
+   (VP 
+    (VBP continua)
+   )
+   (VP 
+    (VP 
+     (VBN disposto)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB iniciar)
+      )
+      (NP 
+       (DT as)
+       (NN negociações)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNP Sinn_Fein)
+        (NP 
+         (NN braço)
+         (ADJP 
+          (JJ político)
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP IRA)
+          )
+         )
+        )
+       )
+      )
+      (ADVP 
+       (RB antes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Natal)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

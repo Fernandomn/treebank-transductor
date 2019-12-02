@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS medidas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS relvados)
+      )
+     )
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS hábitos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS jogadores)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

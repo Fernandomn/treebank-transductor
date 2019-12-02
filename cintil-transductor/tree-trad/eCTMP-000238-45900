@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB enquanto)
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS quiosques)
+    )
+    (VP 
+     (VB permanecem)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ grande)
+       (NP 
+        (NNS mistério)
+        (PP 
+         (IN para)
+         (NP 
+          (DT os)
+          (NNS transeuntes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

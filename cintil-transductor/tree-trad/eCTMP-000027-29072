@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS derrapagem)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS economia)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB acentua)
+    (NP 
+     (PRP -se)
+    )
+   )
+  )
+ )
+)

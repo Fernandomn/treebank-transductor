@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (NP 
+       (DT a)
+       (NNS intervenção)
+      )
+      (VB termina)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS mulher)
+    )
+    (VP 
+     (VP 
+      (VB acorda)
+      (PP 
+       (IN sem)
+       (NP 
+        (NNS dores)
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NNS espanto)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS médicos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

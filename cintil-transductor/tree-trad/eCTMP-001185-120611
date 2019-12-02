@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Carrazeda)
+        (NNS de)
+        (NNS Montenegro)
+       )
+      )
+      (NP 
+       (NNS Trás-os-Montes)
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS irmã)
+        (JJ deficiente)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Ana)
+          (NNS Lúcia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (PRP quem)
+    )
+    (S 
+     (S 
+      (VP 
+       (VB pegou)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS fósforos)
+        )
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB ateou)
+        (NP 
+         (DT o)
+         (NNS fogo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

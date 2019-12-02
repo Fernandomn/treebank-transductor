@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP servem)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB camuflar)
+     )
+     (NP 
+      (DT o)
+      (NN improviso)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN estádios)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Copa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

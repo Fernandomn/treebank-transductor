@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (JJ nova)
+     (NNS recaída)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB -CL-á)
+      (NP 
+       (PRP -los)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS volta)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+   )
+  )
+ )
+)

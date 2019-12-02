@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Baile)
+    (PP 
+     (IN de)
+     (NP 
+      (NN salão)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN TV)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP começa)
+   )
+   (ADVP 
+    (RB mal)
+   )
+  )
+ )
+)

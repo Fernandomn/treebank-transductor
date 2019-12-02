@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isso)
+   )
+   (VP 
+    (VP 
+     (VB contraria)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (PRP algum)
+        (NNS modo)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB acabou)
+         (PP 
+          (IN de)
+          (VP 
+           (VB dizer)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

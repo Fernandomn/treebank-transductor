@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB é)
+    )
+    (JJ fácil)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NP 
+      (NNS posicionamento)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Vítor)
+         (NNS Baía)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS universo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS futebol)
+           (JJ português)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

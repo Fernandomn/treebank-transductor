@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (NN ação)
+    (VBN prolongada)
+   )
+   (NP 
+    (RB como)
+    (ADJP 
+     (JJ dilatadora)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN brônquios)
+       (NP 
+        (NN tubo)
+        (VP 
+         (ADVP 
+          (RB por_onde)
+         )
+         (NP 
+          (DT o)
+          (NN ar)
+         )
+         (VP 
+          (VBP passa)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT os)
+           (NN pulmões)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

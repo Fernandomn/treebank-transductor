@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD último)
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (RB mesmo)
+     (VP 
+      (VP 
+       (VB enviado)
+       (ADVP 
+        (RB recentemente)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (PRP várias)
+        (NP 
+         (NNS entidades)
+         (JJ oficiais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

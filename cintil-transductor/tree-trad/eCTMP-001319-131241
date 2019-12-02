@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Bolsa)
+     (NNS de)
+     (NNS Paris)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ontem)
+    )
+    (VP 
+     (VB dominada)
+     (PP 
+      (IN por)
+      (NP 
+       (PRP alguns)
+       (NP 
+        (NNS factores)
+        (JJ macro-económicos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

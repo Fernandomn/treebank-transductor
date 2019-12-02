@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS Europa)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (PP seus)
+      (NNS domínios)
+     )
+    )
+    (VP 
+     (VB eram)
+     (JJ vastos)
+    )
+   )
+  )
+ )
+)

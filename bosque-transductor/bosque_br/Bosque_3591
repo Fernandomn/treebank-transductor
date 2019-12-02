@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Então)
+   )
+   (NP 
+    (PRP me)
+   )
+   (VP 
+    (VBP deparei)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT um)
+     (NN estudo)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP afirma)
+      )
+      (VP 
+       (IN que)
+       (NP 
+        (DT algumas)
+        (NN pessoas)
+       )
+       (ADVP 
+        (RB realmente)
+       )
+       (VP 
+        (VBP têm)
+       )
+       (NP 
+        (DT um)
+        (NN paladar)
+        (ADJP 
+         (RB mais)
+         (VBN aguçado)
+         (SBAR do_que
+          (S 
+           (DT outras)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

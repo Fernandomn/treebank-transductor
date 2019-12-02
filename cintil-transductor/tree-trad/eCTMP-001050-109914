@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Tribunal)
+     (NNS Constitucional)
+    )
+   )
+   (VP 
+    (VP 
+     (VB decidiu)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS quinta-feira)
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS favor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS legalização)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

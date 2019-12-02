@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS proposta)
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      (VB apresentada)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Assembleia)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT aquela)
+           (NP 
+            (NNS cidade)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NNS Urais)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB deverá)
+      (VP 
+       (RB agora)
+       (VP 
+        (VB ser)
+        (VP 
+         (VB aprovada)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT o)
+           (NNS Parlamento)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

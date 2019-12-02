@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Collor)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP sai)
+     )
+     (PP 
+      (IN para)
+      (VB jantar)
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP assusta)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN flashes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

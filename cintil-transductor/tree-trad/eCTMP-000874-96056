@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Ingvar)
+    (NNS Carlsson)
+   )
+  )
+  (VP 
+   (VP 
+    (VB cede)
+    (NP 
+     (NNS lugar)
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NP 
+      (NNS Goeran)
+      (NNS Persson)
+     )
+    )
+   )
+  )
+ )
+)

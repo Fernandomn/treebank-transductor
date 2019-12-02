@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS A)
+     (NNS Columbia)
+     (NNS Pictures)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB ser)
+     (VP 
+      (VB adquirida)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS Sony)
+          (NNS Corp.)
+         )
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB está)
+             (ADJP 
+              (VB sediada)
+              (PP 
+               (IN em_)
+               (NP 
+                (DT o)
+                (NNS Japão)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

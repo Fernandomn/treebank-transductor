@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN prefeito)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Juazeiro)
+      (NP 
+       (NNP Manoel_Salviano)
+       (NP 
+        (NNP PSDB)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT qualquer)
+     (NN funcionário)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tenha)
+       (VBN participado)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN recepção)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (ADVP 
+     (RB espontaneamente)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (DT nenhuma)
+      (NN pressão)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN prefeitura)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Como)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP houve)
+    )
+    (NP 
+     (NN acordo)
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NN governo)
+       )
+       e
+       (NP 
+        (NN tribunal)
+       )
+      )
+     )
+     (PP 
+      (IN quanto_a+)
+      (NP 
+       (DT o)
+       (NN volume)
+       (PP 
+        (IN de)
+        (NP 
+         (NN recursos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN dotação)
+   )
+   (VP 
+    (VBP foi)
+    (VBN incluída)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN reserva)
+     (PP 
+      (IN de)
+      (NP 
+       (NN contingência)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sem)
+    (NP 
+     (NN especificação)
+     (PP 
+      (IN de)
+      (NP 
+       (NN despesa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

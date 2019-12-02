@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Adiantou)
+     (ADVP 
+      (RB entretanto)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB tinha)
+       (NP 
+        (NP 
+         (NNS formação)
+         (ADJP 
+          (JJ superior)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NP 
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS maioria)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT os)
+                  (NP 
+                   (JJ outros)
+                   (NP 
+                    (NNS elementos)
+                    (PP 
+                     (IN de_)
+                     (NP 
+                      (DT a)
+                      (NNS segurança)
+                     )
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

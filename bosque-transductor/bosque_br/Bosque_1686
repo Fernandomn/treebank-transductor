@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN anos)
+     (ADJP 
+      (CD 90)
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN yuppies)
+   )
+   (VP 
+    (VBP desenvolvem)
+   )
+   (NP 
+    (NN consciência)
+   )
+  )
+ )
+)

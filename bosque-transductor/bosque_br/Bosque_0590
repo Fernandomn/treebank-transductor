@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN panorama)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ assustador)
+   )
+   (NP 
+    (NP 
+     (NN ameaça)
+     (PP 
+      (IN de)
+      (NP 
+       (NN greve)
+      )
+     )
+    )
+    (NP 
+     (NN possibilidade)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NN hiperinflação)
+       )
+       e
+       (NP 
+        (NN descontrole)
+        (PP 
+         (IN de)
+         (NP 
+          (NN preços)
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NN perda)
+     (ADJP 
+      (JJ salarial)
+     )
+    )
+    (NP 
+     (NN nuvens)
+     (ADJP 
+      (JJ negras)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT todos)
+       (DT os)
+       (NN lados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

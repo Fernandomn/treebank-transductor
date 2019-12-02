@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN liminar)
+    (ADVP 
+     (RB ainda)
+     (RB não)
+     (VP 
+      (VP 
+       (VBN cumprida)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN governo)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Espírito_Santo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP determina)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN delegado)
+     (ADJP 
+      (JJ responsável)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NN caso)
+        (NP 
+         (NNP Francisco_Badenes)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP seja)
+     (VBN reconduzido)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN cargo)
+     )
+    )
+   )
+  )
+ )
+)

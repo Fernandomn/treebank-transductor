@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Mandela)
+  )
+  (VP 
+   (PP 
+    (IN contra)
+    (NP 
+     (NP 
+      (NNS violência)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS Natal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

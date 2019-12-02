@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (DT a)
+      (NP 
+       (PP sua)
+       (NNS estada)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Hassan)
+      (NNS II)
+     )
+    )
+    (VP 
+     (VB deverá)
+     (VP 
+      (VP 
+       (VB assinar)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Presidente)
+          (NNS Mário)
+          (NNS Soares)
+         )
+        )
+       )
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS tratado)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS amizade)
+            (NP 
+             (CC e)
+             (NNS cooperação)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN entre)
+         (NP 
+          (DT os)
+          (NP 
+           (CD dois)
+           (NNS países)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

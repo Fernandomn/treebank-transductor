@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Em_)
+     (RB o)
+     (RB entanto)
+    )
+    (VP 
+     (PP 
+      (PP 
+       (PP 
+        (IN apesar)
+        (IN de_)
+       )
+       (NP 
+        (DT estes)
+        (NNS sobressaltos)
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (JJ negativo)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NP 
+      (NNS balanço)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS Festas)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT este)
+           (NNS ano)
+          )
+         )
+        )
+       )
+      )
+     )
+     (ADJP 
+      (VB feito)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS Manuela)
+         (NNS Batalha)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

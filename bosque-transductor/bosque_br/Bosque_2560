@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP for)
+    )
+    (ADJP 
+     (JJ necessário)
+    )
+   )
+   (NP 
+    (DT esse)
+    (NN prazo)
+   )
+   (VP 
+    (VBP será)
+    (VBN prorrogado)
+   )
+  )
+ )
+)

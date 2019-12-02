@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Sobre)
+    (NP 
+     (DT minhas)
+     (NN questões)
+    )
+   )
+   (ADVP 
+    (RB em_particular)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN área)
+     (PP 
+      (IN de)
+      (NP 
+       (NN educação)
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (NP 
+    (PRP me)
+   )
+   (VP 
+    (VBP impressionou)
+   )
+   (ADVP 
+    (RB muito)
+   )
+  )
+ )
+)

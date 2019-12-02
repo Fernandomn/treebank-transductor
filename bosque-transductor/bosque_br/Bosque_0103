@@ -1,0 +1,188 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP trata)
+    )
+    (ADVP 
+     (RB simplesmente)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN questão)
+      (PP 
+       (IN de)
+       (VP 
+        (NP 
+         (DT a)
+         (NN escravidão)
+        )
+        (ADVP 
+         (RB certamente)
+        )
+        (VP 
+         (VB ter)
+         (VBN tido)
+        )
+        (NP 
+         (NN efeitos)
+         (ADJP 
+          (JJ duradouros)
+         )
+        )
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT a)
+          (NN cultura)
+          (ADJP 
+           (JJ negra)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB nem_mesmo)
+    )
+    (PP 
+     (IN de+)
+     (VP 
+      (NP 
+       (PRP ela)
+      )
+      (VP 
+       (VB ter)
+       (VBN exercido)
+      )
+      (NP 
+       (DT um)
+       (JJ amplo)
+       (NN efeito)
+       (ADJP 
+        (JJ negativo)
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (NP 
+         (DT a)
+         (NP auto-confiança)
+        )
+        e
+        (NP 
+         (NP auto-estima)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN negros)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB mais)
+     (RB especificamente)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (NP 
+       (DT a)
+       (NN experiência)
+       (PP 
+        (IN de+)
+        (VP 
+         (NP 
+          (DT a)
+          (NN escravatura)
+         )
+         (VP 
+          (VB ter)
+         )
+         (VP 
+          (VP 
+           (VBN desvirtuado)
+          )
+          e
+          (VP 
+           (VBN tolhido)
+          )
+         )
+         (NP 
+          (DT a)
+          (NN evolução)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN algoritmo)
+            (ADJP 
+             (JJ etnocêntrico)
+            )
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (NP 
+              (DT os)
+              (NN negros)
+              (ADJP 
+               (JJ americanos)
+              )
+             )
+             (VP 
+              (VBP teriam)
+              (VBN desenvolvido)
+             )
+             (PP 
+              (IN em+)
+              (NP 
+               (DT o)
+               (VB decorrer)
+               (ADJP 
+                (JJ normal)
+               )
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT os)
+                 (NN acontecimentos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS termos)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS ocupação)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (JJ novos)
+             (NNS espaços)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB há)
+    )
+    (NP 
+     (NP 
+      (JJ grandes)
+      (NNS novidades)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NP 
+      (NNS Três)
+      (NNS Dias)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NNS paisagem)
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (PRP tudo)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT o)
+       (NNS resto)
+      )
+      (VP 
+       (VB é)
+       (NP 
+        (NNS estilo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB admira)
+    )
+    (RB então)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (JJ multinacionais)
+      )
+     )
+     (VP 
+      (VB mantivessem)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS dominação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS mercado)
+           (JJ português)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

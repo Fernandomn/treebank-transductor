@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS corrida)
+     )
+    )
+    (VP 
+     (VP 
+      (VB eram)
+      (NP 
+       (CD quatro)
+       (NNS portugueses)
+      )
+     )
+     (PP 
+      (IN contra)
+      (NP 
+       (DT um)
+       (NNS escocês)
+      )
+     )
+    )
+   )
+  )
+ )
+)

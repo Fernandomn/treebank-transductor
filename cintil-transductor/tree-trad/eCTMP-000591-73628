@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Aumentavam)
+    (PP 
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS tarde)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS noite)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

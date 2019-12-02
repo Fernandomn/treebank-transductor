@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Após)
+    (VP 
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (DT uma)
+      (JJ única)
+      (NN volta)
+      (ADJP 
+       (JJ rápida)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Schumacher)
+   )
+   (VP 
+    (VBP emprestou)
+   )
+   (NP 
+    (DT seu)
+    (NN carro)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NN companheiro)
+     (NP 
+      (NNP Jos_Verstappen)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP havia)
+        (VBN rodado)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT os)
+         (NN treinos)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN manhã)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN agência)
+     (PP 
+      (IN de)
+      (NP 
+       (NN noticias)
+       (NP 
+        (NNP Notimex)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN reação)
+   )
+   (VP 
+    (VBP pode)
+    (VB ser)
+   )
+   (NP 
+    (DT uma)
+    (NN amostra)
+    (PP 
+     (IN de)
+     (VP 
+      (IN que)
+      (VP 
+       (ADVP 
+        (RB como)
+       )
+       (VP 
+        (VBP vai)
+        (VB reagir)
+       )
+       (NP 
+        (DT a)
+        (NN torcida)
+       )
+       (VP 
+        (IN se)
+        (NP 
+         (DT o)
+         (NNP México)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (NP 
+         (PRP se)
+        )
+        (VP 
+         (VBP classificar)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (JJ segunda)
+          (NN fase)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN Copa)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

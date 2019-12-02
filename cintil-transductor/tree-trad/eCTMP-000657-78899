@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB há)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS treinadores)
+       (PP 
+        (IN com)
+        (NP 
+         (NNS experiência)
+        )
+       )
+      )
+      (NP 
+       (CC ou)
+       (NP 
+        (NNS treinadores)
+        (PP 
+         (IN sem)
+         (NP 
+          (NNS experiência)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

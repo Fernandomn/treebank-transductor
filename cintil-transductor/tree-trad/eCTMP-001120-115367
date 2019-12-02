@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Quanto)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NNS PT)
+      )
+     )
+    )
+    (VP 
+     (VB fechou)
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS variação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

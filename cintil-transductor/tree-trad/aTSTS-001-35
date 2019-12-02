@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Comprei)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS computador)
+      (ADJP 
+       (RB muito)
+       (ADJP 
+        (JJ diferente)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT este)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

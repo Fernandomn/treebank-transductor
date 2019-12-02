@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de+)
+    (NP 
+     (PRP isso)
+    )
+   )
+   (VP 
+    (VBP avaliou)
+   )
+   (NP 
+    (RB como)
+    (ADJP 
+     (JJ fraca)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN organização)
+    (VP 
+     (VP existente)
+     (PP 
+      (IN até)
+      (RB ontem)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN campanha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

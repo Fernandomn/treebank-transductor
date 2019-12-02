@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Pinto)
+       (NNS de_)
+       (NNS a)
+       (NNS Costa)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS José)
+        (NNS Couceiro)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB desmentem)
+     (NP 
+      (NNS transferência)
+     )
+    )
+   )
+  )
+  (S 
+   (CC mas)
+   (S 
+    (NP 
+     (DT os)
+     (NNS contactos)
+    )
+    (VB prosseguem)
+   )
+  )
+ )
+)

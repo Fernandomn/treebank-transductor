@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS Swissair)
+   )
+   (VP 
+    (VP 
+     (VB rectificou)
+     (RB ontem)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS nacionalidade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS passageiros)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

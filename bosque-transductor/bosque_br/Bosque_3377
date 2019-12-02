@@ -1,0 +1,100 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN relatório)
+    (ADJP 
+     (JJ referente)
+     (PP 
+      (IN a)
+      (NP 
+       (DT o)
+       (NN ano)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 1993)
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB também)
+    )
+    (VP 
+     (VBP destaca)
+    )
+    (NP 
+     (DT a)
+     (NN impunidade)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN acusados)
+       (PP 
+        (IN por+)
+        (NP 
+         (DT os)
+         (NN massacres)
+         (PP 
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NNP Carandiru)
+            (NP 
+             (NN outubro)
+             (PP 
+              (IN de)
+              (NP 
+               (CD 92)
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Candelária)
+            (NP 
+             (NN julho)
+             (PP 
+              (IN de)
+              (NP 
+               (CD 93)
+              )
+             )
+            )
+           )
+          )
+          e
+          (PP 
+           (IN de)
+           (NP 
+            (NNP Vigário_Geral)
+           )
+           (NP 
+            (NN agosto)
+            (PP 
+             (IN de)
+             (ADJP 
+              (CD 93)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

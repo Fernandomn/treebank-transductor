@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Rio)
+    (NNS Alcabrichel)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS beco)
+      (PP 
+       (IN sem)
+       (NP 
+        (NNS saída)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

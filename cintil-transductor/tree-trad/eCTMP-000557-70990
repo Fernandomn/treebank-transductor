@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN De)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS futebol)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (S 
+          (VP 
+           (VB gere)
+           (NP 
+            (DT os)
+            (NNS acessos)
+           )
+          )
+         )
+         (S 
+          (CC e)
+          (S 
+           (VP 
+            (VB delimita)
+            (NP 
+             (NNS orçamentos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

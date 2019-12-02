@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (PRP quem)
+    )
+    (S 
+     (VP 
+      (VB diga)
+      (CONJP 
+       (CC que)
+       (S 
+        (PP 
+         (PP 
+          (IN com)
+          (NP 
+           (DT este)
+           (NP 
+            (NNS projecto)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS revisão)
+             )
+            )
+           )
+          )
+         )
+        )
+        (S 
+         (NP 
+          (NP 
+           (NP 
+            (NNS Cavaco)
+            (NNS Silva)
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT o)
+            (NNS PSD)
+           )
+          )
+         )
+         (VP 
+          (VB retomam)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS iniciativa)
+            (JJ política)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

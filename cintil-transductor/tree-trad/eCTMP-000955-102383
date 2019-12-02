@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Damásio)
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (RB ainda)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (S 
+       (NP 
+        (DT o)
+        (NNS documento)
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB faz)
+        )
+        (NP 
+         (NNS distinções)
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (VP 
+         (VB tem)
+         (NP 
+          (DT o)
+          (NP 
+           (JJ mesmo)
+           (NP 
+            (NNS teor)
+            (PP 
+             (IN para)
+             (NP 
+              (DT os)
+              (NP 
+               (NNS clubes)
+               (ADJP 
+                (JJ grandes)
+                (ADJP 
+                 (CC ou)
+                 (JJ pequenos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

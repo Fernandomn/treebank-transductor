@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS perspectivas)
+        (JJ específicas)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS evolução)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Inforgal)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Vasco)
+      (NNS Vilarinho)
+     )
+    )
+    (VB diria)
+   )
+  )
+ )
+)

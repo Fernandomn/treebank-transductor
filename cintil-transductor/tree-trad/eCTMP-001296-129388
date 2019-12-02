@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Quer)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS criação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS sistema)
+         (JJ nacional)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS certificação)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS experiências)
+              (ADJP 
+               (JJ profissionais)
+               (ADJP 
+                (CC e)
+                (JJ informais)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

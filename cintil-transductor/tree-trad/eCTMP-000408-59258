@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+   )
+   (S 
+    (S 
+     (VP 
+      (VB vive)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS mundo)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS interdependências)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS autonomia)
+        (JJ pura)
+       )
+      )
+      (VP 
+       (RB não)
+       (VB existe)
+      )
+     )
+    )
+   )
+  )
+ )
+)

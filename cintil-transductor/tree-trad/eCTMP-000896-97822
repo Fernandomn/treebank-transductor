@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (NP 
+       (PRP Ele)
+      )
+      (VP 
+       (VP 
+        (VB traz)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NNS jogo)
+         )
+        )
+       )
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS alegria)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (NNS poucos)
+           )
+           (VP 
+            (VB conseguem)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+    (NP 
+     (NNS Harris)
+    )
+   )
+  )
+ )
+)

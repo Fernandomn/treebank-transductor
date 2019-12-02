@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN empresa)
+    (PP 
+     (IN com)
+     (NP 
+      (NN sede)
+      (PP 
+       (IN em)
+       (NP 
+        (NN Caieiras)
+        (NP 
+         (CD 35)
+         (NN km)
+         (PP 
+          (IN a)
+          (NP 
+           (NN norte)
+           (PP 
+            (IN de)
+            (NP 
+             (NNP SP)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pretende)
+   )
+   (VP 
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VB mudar)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NNP Empresarial_Jaraguá)
+      (VP 
+       (ADVP 
+        (RB onde)
+       )
+       (VP 
+        (VBP adquiriu)
+       )
+       (NP 
+        (CD 6.000)
+        (NN m2)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CC Porque)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB está)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS causa)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (CC nem)
+      (NP 
+       (DT a)
+       (NNS generosidade)
+      )
+     )
+     (NP 
+      (CC nem)
+      (NP 
+       (DT as)
+       (NNS pessoas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

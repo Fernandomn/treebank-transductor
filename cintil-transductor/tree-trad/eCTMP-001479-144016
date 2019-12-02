@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esse)
+      (NNS contexto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (JJ altos)
+      (NP 
+       (NNS responsáveis)
+       (JJ palestinianos)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB disseram)
+      (RB ontem)
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS visita)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Ross)
+          )
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB resolvera)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (JJ grave)
+           (NP 
+            (NP 
+             (NNS crise)
+            )
+            (PP 
+             (IN com)
+             (NP 
+              (NNS Israel)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

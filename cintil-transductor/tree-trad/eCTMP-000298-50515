@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (CC Ou)
+      (S 
+       (VP 
+        (VB ficam)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS casa)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC ou)
+     (S 
+      (VP 
+       (VB vão)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NNS tasca)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

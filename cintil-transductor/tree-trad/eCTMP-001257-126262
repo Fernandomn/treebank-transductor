@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NP 
+       (NNS integração)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS centros)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS universidades)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB esgota)
+    )
+    (NP 
+     (DT o)
+     (NNS INIC)
+    )
+   )
+  )
+ )
+)

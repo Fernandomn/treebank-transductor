@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS munícipe)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Albufeira)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB cedeu)
+      (NP 
+       (PRP alguns)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NNS brinquedos)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB possuía)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS Câmara)
+         (NNS Municipal)
+        )
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB aguarda)
+            (NP 
+             (NP 
+              (JJ novos)
+              (NNS contributos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

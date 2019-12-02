@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (RB Ontem)
+   (S 
+    (NP 
+     (DT a)
+     (NNS empresa)
+    )
+    (VP 
+     (VP 
+      (VB encerrou)
+      (RB já)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD 910)
+        (NNS escudos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

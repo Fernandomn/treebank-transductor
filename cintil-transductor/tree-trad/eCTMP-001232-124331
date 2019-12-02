@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Teatro)
+     (NNS Regional)
+     (NNS de_)
+     (NNS a)
+     (NNS Serra)
+     (NNS de_)
+     (NNS o)
+     (NNS Montemuro)
+    )
+   )
+   (VP 
+    (VP 
+     (VB apresenta)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Centro)
+         (NNS Cultural)
+         (NNS de)
+         (NNS Belém)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Lobo)
+      (NNS Wolf)
+     )
+    )
+   )
+  )
+ )
+)

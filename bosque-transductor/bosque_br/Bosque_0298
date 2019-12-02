@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Lula)
+    )
+    e
+    (NP 
+     (DT outros)
+     (CD 20)
+     (NN convidados)
+    )
+   )
+   (VP 
+    (VBP almoçaram)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NN convite)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN cônsul-geral)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Brasil)
+         (PP 
+          (IN em)
+          (NP 
+           (NNP NY)
+          )
+         )
+        )
+       )
+       (NP 
+        (NNP Marco_Cesar_Meira_Naslausky)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN restaurante)
+     (NP 
+      (NNP Peter_Luger_Steak_House)
+     )
+     (ADJP 
+      (JJ tradicional)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN bairro)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Brooklin)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

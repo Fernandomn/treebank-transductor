@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS segredo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS milagre)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS compressão)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS dados)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

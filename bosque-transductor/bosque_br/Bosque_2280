@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN brasileiro)
+    (NP 
+     (NNP João_Havelange)
+    )
+   )
+   (VP 
+    (VBP consolidou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Nova_York)
+    )
+   )
+   (NP 
+    (DT a)
+    (DT sua)
+    (NN candidatura)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (JJ sexto)
+      (NN mandato)
+      (ADJP 
+       (JJ consecutivo)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Fifa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS inspector)
+     (NNS Fidalgo)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS morte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS dona-de-casa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NN inclusão)
+     (PP 
+      (IN de)
+      (NP 
+       (DT mais)
+       (DT esse)
+       (NN dado)
+       (ADJP 
+        (JJ comparativo)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN tabela)
+   )
+   (VP 
+    (VBP fica)
+   )
+   (ADJP 
+    (RB mais)
+    (JJ completa)
+   )
+  )
+ )
+)

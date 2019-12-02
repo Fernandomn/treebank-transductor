@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Para)
+      (IN além)
+      (IN de_)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NNS novidades)
+       (JJ absolutas)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (JJ novos)
+      (NNS PowerBook)
+     )
+    )
+    (VP 
+     (VB terão)
+     (NP 
+      (DT outras)
+      (NP 
+       (NNS melhorias)
+       (JJ bem-vindas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

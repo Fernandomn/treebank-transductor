@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB disparou)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS queima-roupa)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (VB ferindo)
+        (RB mortalmente)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS guarda)
+         (NP 
+          (NNS Manuel)
+          (NNS Castro)
+          (NNS Fonseca)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

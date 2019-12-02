@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS problema)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NNS Jaime)
+        (NNS Antunes)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB portanto)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ má)
+       (NNS gestão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

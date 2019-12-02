@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Será)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB já_não)
+    )
+    (NP 
+     (PRP nos)
+    )
+    (VP 
+     (VBP basta)
+    )
+    (NP 
+     (DT a)
+     (JJ humilde)
+     (NN compulsão)
+     (ADJP 
+      (JJ passiva)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN leitores)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP aceitam)
+        )
+        (VP 
+         (NP 
+          (PRP nos)
+         )
+         (VP 
+          (VB ler)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB serem)
+            (VBN informados)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

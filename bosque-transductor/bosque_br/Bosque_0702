@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (JJ urgente)
+      (NN reforma)
+      (ADJP 
+       (JJ constitucional)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN extensão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN desoneração)
+      (ADJP 
+       (JJ tributária)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (NN exportações)
+        (PP 
+         (IN para)
+         (NP 
+          (DT todas)
+          (DT as)
+          (NN etapas)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN cadeia)
+            (ADJP 
+             (JJ produtiva)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP enfrenta)
+   )
+   (NP 
+    (NN dificuldades)
+    (ADJP 
+     (JJ operacionais)
+    )
+    (ADJP 
+     (JJ insuperáveis)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN âmbito)
+     (ADJP 
+      (JJ federal)
+     )
+    )
+   )
+  )
+ )
+)

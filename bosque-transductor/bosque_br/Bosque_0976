@@ -1,0 +1,19 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN filme)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ bom)
+   )
+   (VP 
+    (VBN divertido)
+   )
+  )
+ )
+)

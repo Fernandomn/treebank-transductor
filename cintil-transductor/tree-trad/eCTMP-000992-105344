@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Só)
+     (RB então)
+    )
+    (VP 
+     (VB termina)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS angústias)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (NNS alunos)
+             (JJ finalistas)
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (JJ secundário)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS ano)
+     (JJ lectivo)
+    )
+   )
+  )
+ )
+)

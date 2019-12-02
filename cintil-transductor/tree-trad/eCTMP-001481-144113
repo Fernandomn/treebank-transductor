@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Sou)
+     (NP 
+      (NP 
+       (NNS ministro)
+       (NNS de_)
+       (NNS a)
+       (NNS Presidência)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB sou)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS substituto)
+         (JJ legal)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS primeiro-ministro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

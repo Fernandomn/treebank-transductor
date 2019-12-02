@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Toda)
+    (NP 
+     (DT esta)
+     (NNS gente)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB estaciona)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NNS automóveis)
+       )
+      )
+     )
+     (ADVP 
+      (RB junto)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NP 
+          (NNS local)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS trabalho)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS espaço)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (RB já)
+           (VP 
+            (VB é)
+            (JJ exíguo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

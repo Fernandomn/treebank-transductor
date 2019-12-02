@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NP 
+       (NNS saídas)
+       (NP 
+        (CC e)
+        (NNS entradas)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Eixo)
+         (NNS N)
+         (NNS S)
+        )
+       )
+      )
+     )
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB servem)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS zona)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Lumiar)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS nível)
+     )
+    )
+   )
+  )
+ )
+)

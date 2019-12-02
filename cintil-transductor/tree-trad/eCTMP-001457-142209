@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (JJ Novas)
+     (NNS propostas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (VB esperadas)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS combate)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS tráfico)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS drogas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

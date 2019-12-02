@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS negociações)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS futuro)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Irlanda)
+           (NNS de_)
+           (NNS o)
+           (NNS Norte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB entram)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NNS impasse)
+     )
+    )
+   )
+  )
+ )
+)

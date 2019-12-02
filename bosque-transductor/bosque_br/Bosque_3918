@@ -1,0 +1,72 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN cônsul)
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (ADJP 
+    (JJ crescente)
+   )
+   (NP 
+    (DT a)
+    (NN pressão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Congresso)
+      (ADJP 
+       (JJ norte-americano)
+      )
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NNP Departamento_de_Estado)
+     )
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (IN que)
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP adotasse)
+      )
+      (NP 
+       (DT uma)
+       (NN política)
+       (ADJP 
+        (JJ idêntica)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NNP Brasil)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

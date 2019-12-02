@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Por)
+    (NP 
+     (NN partes)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN lista)
+    (PP 
+     (IN de)
+     (NP 
+      (NN nomes)
+      (ADJP 
+       (RB mais)
+       (JJ completa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN ar)
+    )
+   )
+   (PP 
+    (IN durante)
+    (NP 
+     (DT o)
+     (NNP Jornal_Nacional)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Rede_Globo)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por_volta_de)
+    (NP 
+     (NN 20h)
+    )
+   )
+  )
+ )
+)

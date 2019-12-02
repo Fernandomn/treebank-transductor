@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Aqui)
+     (ADVP 
+      (CC e)
+      (RB ali)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS polícias)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS ONU)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB ocupam)
+     (NP 
+      (NP 
+       (NNS postos)
+       (JJ estratégicos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

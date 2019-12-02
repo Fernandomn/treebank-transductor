@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN secretário-geral)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Presidência)
+      (NP 
+       (NNP Mauro_Durante)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN emprego)
+    (VBN garantido)
+   )
+  )
+ )
+)

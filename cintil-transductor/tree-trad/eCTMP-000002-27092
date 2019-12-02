@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS árbitro)
+    )
+   )
+   (CONJP 
+    (CC porque)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS terreno)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS jogo)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB estava)
+      (ADJP 
+       (RB quase)
+       (JJ impraticável)
+      )
+     )
+    )
+   )
+  )
+ )
+)

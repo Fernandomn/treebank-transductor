@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS corrupção)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB tem)
+      (VP 
+       (VB sido)
+       (VB combatida)
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ritmo)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NNS casos)
+           (JJ pontuais)
+          )
+          (ADJP 
+           (VB denunciados)
+           (PP 
+            (IN por_)
+            (NP 
+             (DT a)
+             (NNS imprensa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

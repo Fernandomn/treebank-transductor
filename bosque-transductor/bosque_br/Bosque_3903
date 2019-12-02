@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN decisão)
+   )
+   (VP 
+    (VBP foi)
+    (VBN tomada)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN conselho)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN montadora)
+       (ADJP 
+        (JJ alemã)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (JJ última)
+     (NN sexta-feira)
+    )
+   )
+  )
+ )
+)

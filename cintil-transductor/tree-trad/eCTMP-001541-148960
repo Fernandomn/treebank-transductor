@@ -1,0 +1,81 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Os)
+      (NNS proprietários)
+     )
+     (VP 
+      (VB admitem)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB trata)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (DT um)
+            (NP 
+             (NNS foco)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS poluição)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB dizem)
+      (CONJP 
+       (CC que)
+       (S 
+        (S 
+         (VP 
+          (VB é)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS cheiro)
+            (ADJP 
+             (JJ característico)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS produto)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

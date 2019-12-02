@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS RTC)
+   )
+   (VP 
+    (VB terá)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB vender)
+       (VP 
+        (CC ou)
+        (VP 
+         (VB fundir)
+         (NP 
+          (NP 
+           (NNS centenas)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS créditos)
+              (JJ insolventes)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (CD próximos)
+         (NP 
+          (CD três)
+          (NNS anos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

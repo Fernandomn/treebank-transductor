@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB suspirava)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT a)
+      (NNS Maria)
+     )
+    )
+   )
+  )
+ )
+)

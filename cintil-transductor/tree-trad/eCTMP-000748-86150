@@ -1,0 +1,56 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB é)
+        (JJ preocupante)
+       )
+       (CONJP 
+        (CC quando)
+        (S 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB avança)
+         )
+         (PP 
+          (IN para)
+          (NP 
+           (NP 
+            (NP 
+             (NNS empreendimentos)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (JJ tamanha)
+                (NNS importância)
+               )
+              )
+             )
+            )
+            (NP 
+             (CC e)
+             (NNS encargos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

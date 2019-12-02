@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT os)
+     (CD dois)
+     (NN casos)
+    )
+   )
+   (NP 
+    (IN até)
+    (DT a)
+    (NN eleição)
+    (PP 
+     (IN a)
+     (NP 
+      (NN Presidência)
+     )
+    )
+   )
+   (VP 
+    (VBP seria)
+    (VBN exercida)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT o)
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Câmara_dos_Deputados)
+      )
+     )
+    )
+   )
+  )
+ )
+)

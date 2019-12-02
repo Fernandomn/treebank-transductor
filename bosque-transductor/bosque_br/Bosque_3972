@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Gostamos)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN idéia)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP resolvemos)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB pegar)
+      )
+      (NP 
+       (JJ velhos)
+       (NN sucessos)
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB fazer)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT este)
+        (NN formato)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

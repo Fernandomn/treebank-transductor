@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Câmara)
+  )
+  (VP 
+   (ADJP 
+    (JJ descontente)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS andamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS trabalhos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

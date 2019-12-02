@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS FC)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VP 
+    (VB termina)
+    (NP 
+     (NNS estágio)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS vitória)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS Escócia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

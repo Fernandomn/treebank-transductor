@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Cresce)
+   )
+   (NP 
+    (DT o)
+    (NN volume)
+    (PP 
+     (IN de)
+     (NP 
+      (NN negócios)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Bovespa)
+    )
+   )
+  )
+ )
+)

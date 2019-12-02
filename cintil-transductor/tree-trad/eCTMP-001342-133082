@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Política)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS empresa)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS programa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS CE)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

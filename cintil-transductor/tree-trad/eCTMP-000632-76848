@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Christoph)
+     (NNS Seitz)
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS jornalista)
+      (JJ alemão)
+     )
+     (ADJP 
+      (VB convidado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS PÚBLICO)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NNS Técnicos)
+  )
+  (VP 
+   (VP 
+    (VB iniciam)
+    (NP 
+     (NP 
+      (NNS Liga)
+      (NNS de_)
+      (NNS os)
+      (NNS Campeões)
+     )
+    )
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS sígno)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS pragmatismo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

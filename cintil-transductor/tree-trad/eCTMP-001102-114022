@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Santana)
+     (NNS Lopes)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (ADJP 
+     (ADJP 
+      (RB menos)
+      (JJ regionalista)
+     )
+     (CONJP 
+      (CC que)
+      (NP 
+       (DT os)
+       (NNS regionalistas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

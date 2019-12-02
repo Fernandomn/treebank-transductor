@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Francisco)
+     (NNS Assis)
+    )
+   )
+   (VP 
+    (VP 
+     (VB desvalorizou)
+     (RB ainda)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS questão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS coligações)
+          (PP 
+           (IN com)
+           (NP 
+            (DT o)
+            (NNS PCP)
+           )
+          )
+         )
+        )
+       )
+      )
+      (ADJP 
+       (VB suscitada)
+       (PP 
+        (PP 
+         (IN por)
+         (NP 
+          (NP 
+           (NNS José)
+           (NNS Saraiva)
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN por)
+          (NP 
+           (DT outros)
+           (NP 
+            (NNS dirigentes)
+            (JJ distritais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (JJ grande)
+        (NP 
+         (NNS livro)
+         (PP 
+          (IN sobre)
+          (NP 
+           (DT os)
+           (NP 
+            (NP 
+             (NNS presépios)
+             (JJ barrocos)
+            )
+            (JJ portugueses)
+           )
+          )
+         )
+        )
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB continua)
+           (PP 
+            (IN a)
+            (VP 
+             (RB não)
+             (VB existir)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS região)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS unidades)
+    )
+    (VP 
+     (VB ocuparão)
+     (NP 
+      (NP 
+       (NP 
+        (RB entre)
+        (CD sete)
+       )
+       (CONJP 
+        (CC e)
+        (CD oito)
+       )
+      )
+      (NNS hectares)
+     )
+    )
+   )
+  )
+ )
+)

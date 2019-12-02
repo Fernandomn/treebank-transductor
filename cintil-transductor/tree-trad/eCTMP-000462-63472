@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Em_)
+       (NP 
+        (DT o)
+        (NNS intervalo)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNS festa)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS homens)
+      (NP 
+       (CC e)
+       (NNS deuses)
+      )
+     )
+    )
+    (VP 
+     (VB esqueceram)
+     (NP 
+      (DT a)
+      (NNS promessa)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN preparação)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN vôo)
+     )
+    )
+   )
+   (ADVP 
+    (RB por_si)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT um)
+    (NN espetáculo)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN parte)
+     )
+    )
+   )
+  )
+ )
+)

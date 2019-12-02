@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS capítulo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS financiamento)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (JJ novo)
+      (NNS articulado)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB adianta)
+     )
+     (NP 
+      (NP 
+       (JJ grandes)
+       (NNS alterações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

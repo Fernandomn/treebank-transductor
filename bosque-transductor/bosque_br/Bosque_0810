@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN governo)
+   )
+   (VP 
+    (VBP concordou)
+   )
+   (PP 
+    (IN em)
+    (VP 
+     (VP 
+      (VP 
+       (VB incluir)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN Orçamento)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 94)
+         )
+        )
+       )
+      )
+      (NP 
+       (NN investimentos)
+       (PP 
+        (IN em)
+        (NP 
+         (NN educação)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT os)
+        (DT mesmos)
+        (NN níveis)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN ano)
+          (VBN passado)
+         )
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VP 
+       (VB destinar)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (NN habitação)
+       )
+      )
+      (NP 
+       (CD três)
+       (NN vezes)
+       (NP 
+        (DT mais)
+       )
+       (SBAR do_que
+        (S 
+         (DT o)
+         (VP 
+          (VP 
+           (VBN registrado)
+          )
+          (PP 
+           (IN em)
+           (ADJP 
+            (CD 1992)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Mais)
+    (CD 3.600)
+    (NN concessionários)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN marca)
+     )
+    )
+   )
+   (VP 
+    (VBP aderiram)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN proibição)
+    )
+   )
+  )
+ )
+)

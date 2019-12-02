@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NP 
+          (NNS mulheres)
+          (ADJP 
+           (RB mais)
+           (JJ belas)
+          )
+         )
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (PRP alguma)
+            (NP 
+             (NNS vez)
+             (NNS Lisboa)
+            )
+           )
+           (VP 
+            (VB viu)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (ADVP 
+       (RB Depois)
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS margem)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT isso)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB aparece)
+   )
+   (NP 
+    (DT o)
+    (NNS cinema)
+   )
+  )
+ )
+)

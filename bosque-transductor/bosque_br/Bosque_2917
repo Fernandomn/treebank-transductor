@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN carros)
+   )
+   (VP 
+    (VBP ganharam)
+   )
+   (ADVP 
+    (RB ainda)
+   )
+   (NP 
+    (NN proteção)
+    (PP 
+     (PP 
+      (IN sob)
+      (NP 
+       (DT o)
+       (NN cárter)
+      )
+     )
+     e
+     (PP 
+      (IN sob)
+      (NP 
+       (DT o)
+       (NN tanque)
+       (PP 
+        (IN de)
+        (NP 
+         (NN gasolina)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB suportar)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (JJ menor)
+       (NN risco)
+      )
+     )
+     (NP 
+      (DT os)
+      (NN choques)
+      (PP 
+       (IN contra)
+       (NP 
+        (DT as)
+        (NN pedras)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

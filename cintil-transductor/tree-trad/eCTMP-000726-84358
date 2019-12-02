@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Gil)
+    (NNS Vicente)
+   )
+  )
+  (VP 
+   (VB cede)
+   (NP 
+    (NP 
+     (NNS empate)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS Leça)
+      )
+     )
+    )
+   )
+  )
+ )
+)

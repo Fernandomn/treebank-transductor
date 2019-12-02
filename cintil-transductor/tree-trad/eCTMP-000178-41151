@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Varsóvia)
+   )
+   (VP 
+    (VP 
+     (VB ficou)
+     (PP 
+      (IN sob)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS manto)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS fumo)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (NNS dias)
+     )
+    )
+   )
+  )
+ )
+)

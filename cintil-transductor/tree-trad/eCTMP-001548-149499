@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Mostra)
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NNS costas)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS marcas)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS espancamentos)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS tiro)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VP 
+               (NP 
+                (PRP o)
+               )
+               (VB atingiu)
+              )
+              (PP 
+               (IN durante)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS massacre)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NP 
+                    (NNS Santa)
+                    (NNS Cruz)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

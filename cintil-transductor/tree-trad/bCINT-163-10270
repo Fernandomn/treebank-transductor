@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS autor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS comunicado)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS Azevedo)
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB é)
+     (ADJP 
+      (JJ militante)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ mesmo)
+         (NNS partido)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

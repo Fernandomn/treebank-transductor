@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN técnico)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP irritou-)
+     )
+     (NP 
+      (PRP se)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NN pergunta)
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (NP 
+      (PRP a)
+     )
+     (VP 
+      (VBP respondeu)
+     )
+    )
+   )
+  )
+ )
+)

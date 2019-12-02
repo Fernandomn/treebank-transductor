@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (PRP cada)
+       (PRP um)
+      )
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT estes)
+         (NP 
+          (NNS tecidos)
+          (JJ biológicos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS cristais)
+      (JJ minerais)
+     )
+    )
+    (VP 
+     (VB têm)
+     (NP 
+      (NP 
+       (DT uma)
+       (NNS forma)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT um)
+         (NNS tamanho)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS orientação)
+           (JJ específicos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

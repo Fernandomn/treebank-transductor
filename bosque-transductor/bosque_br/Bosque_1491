@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Como)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP pretende)
+     )
+     (NP 
+      (DT o)
+      (NN monopólio)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN verdade)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP apresento)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT o)
+       (NN raciocínio)
+      )
+      e
+      (NP 
+       (DT as)
+       (NN contas)
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP fundamentam)
+      )
+      (NP 
+       (DT a)
+       (NN tese)
+       (PP 
+        (IN de)
+        (VP 
+         (IN que)
+         (ADVP 
+          (RB não)
+         )
+         (VP 
+          (VBP haverá)
+         )
+         (NP 
+          (NN perdas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

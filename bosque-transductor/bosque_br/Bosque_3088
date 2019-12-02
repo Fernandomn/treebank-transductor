@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP George)
+    )
+    (VP 
+     (VBP era)
+    )
+    (NP 
+     (DT um)
+     (NN dínamo)
+     (ADJP 
+      (ADJP 
+       (JJ boêmio)
+      )
+      e
+      (ADJP 
+       (JJ namorador)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (NNP Ira)
+    )
+    (VP 
+     (VBP era)
+    )
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ recluso)
+     )
+     e
+     (ADJP 
+      (RB solidamente)
+      (VBN casado)
+     )
+    )
+   )
+  )
+ )
+)

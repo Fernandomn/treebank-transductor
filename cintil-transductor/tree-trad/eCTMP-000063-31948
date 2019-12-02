@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB poderá)
+    )
+    (NP 
+     (DT esta)
+     (NNS situação)
+    )
+   )
+   (VP 
+    (VB levar)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS corrupção)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS classe)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Souza)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP negou)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (NN réus)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN direito)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB apelarem)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN setença)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN liberdade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

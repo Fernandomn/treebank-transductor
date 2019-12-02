@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS fim)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (NNS Manuel)
+       (NNS Carvalho)
+       (NNS de_)
+       (NNS a)
+       (NNS Silva)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS coordenador)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS CGTP)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB também)
+     (VB ajudou)
+    )
+   )
+  )
+ )
+)

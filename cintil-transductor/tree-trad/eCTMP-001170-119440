@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS vedetas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS basquetebol)
+         (JJ profissional)
+        )
+        (JJ norte-americano)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB trazem)
+      (PP 
+       (PP 
+        (IN até)
+        (IN a_)
+       )
+       (NP 
+        (DT a)
+        (NNS Europa)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS oferta)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NNS mundo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS magia)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS NBA)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

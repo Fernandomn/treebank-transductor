@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Executivos)
+    (PP 
+     (IN em)
+     (NP 
+      (NN cargos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN liderança)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP assumem)
+   )
+   (NP 
+    (DT seus)
+    (NN cargos)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT mais)
+     (CD uma)
+     (VBN pesada)
+     (NN função)
+     (VP 
+      (VP 
+       (VB implementar)
+      )
+      (NP 
+       (DT cada)
+       (NN passo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN estratégia)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (NP 
+           (PRP eles)
+           (NP 
+            (DT próprios)
+           )
+          )
+          (VP 
+           (VBP esboçaram)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

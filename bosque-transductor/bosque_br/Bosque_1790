@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De+)
+    (NP 
+     (DT a)
+     (NN série)
+     (NP 
+      (NNP Soluções)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP PC_é_mais_que_uma_máquina_de_escrever)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN lançamento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Ariadne)
+      (NP 
+       (CD 132)
+       (NN págs)
+      )
+     )
+    )
+   )
+  )
+ )
+)

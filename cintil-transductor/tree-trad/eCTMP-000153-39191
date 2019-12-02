@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Deverei)
+     (VP 
+      (VP 
+       (VB ter)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS sábado)
+        )
+       )
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS contacto)
+        (PP 
+         (IN com)
+         (NP 
+          (DT os)
+          (NNS estudantes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (PRP nós)
+     )
+     (VP 
+      (VB vamos)
+      (VP 
+       (VB discutir)
+       (NP 
+        (DT isso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

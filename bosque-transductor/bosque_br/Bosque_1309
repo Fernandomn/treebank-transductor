@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP temem)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT um)
+     (NN relacionamento)
+     (ADJP 
+      (JJ especial)
+     )
+     (PP 
+      (IN entre)
+      (NP 
+       (NP 
+        (NNP Moscou)
+       )
+       e
+       (NP 
+        (DT a)
+        (NN aliança)
+       )
+      )
+     )
+    )
+    (NP 
+     (PRP os)
+    )
+    (VP 
+     (VBP deixe)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (NN garantias)
+      (PP 
+       (IN de)
+       (NP 
+        (NN segurança)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Acho)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Consema)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (ADJP 
+     (JJ sensível)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP está)
+         (VBG acontecendo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

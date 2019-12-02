@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN De)
+      (NP 
+       (PRP qualquer)
+       (NNS forma)
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NNS vida)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB melhora)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NNS dia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

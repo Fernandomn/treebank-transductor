@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (S 
+    (VB Falhou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB pagou)
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNS morte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

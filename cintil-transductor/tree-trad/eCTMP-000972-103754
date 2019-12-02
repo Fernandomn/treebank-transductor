@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Recebeu)
+      (NP 
+       (PRP -o)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS mãos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS actor)
+           (NP 
+            (NNS Claude)
+            (NNS Rich)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB estava)
+       (ADJP 
+        (VB vestida)
+       )
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNS Dior)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

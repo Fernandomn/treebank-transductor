@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (RB Cerca_de)
+    (CD 300)
+    (NN pessoas)
+   )
+   (VP 
+    (VBP foram)
+    (VBN convidadas)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN cerimônia)
+    )
+   )
+  )
+ )
+)

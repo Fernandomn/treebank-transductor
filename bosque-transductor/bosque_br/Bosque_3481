@@ -1,0 +1,64 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (NP 
+     (DT o)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VB oferecer)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB intermediar)
+        )
+        (NP 
+         (DT o)
+         (NN conflito)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NNP Rússia)
+   )
+   (VP 
+    (VBP deu)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (DT seus)
+     (NN aliados)
+     (ADJP 
+      (JJ sérvios)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN possibilidade)
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NN retirada)
+      (ADJP 
+       (JJ honrosa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

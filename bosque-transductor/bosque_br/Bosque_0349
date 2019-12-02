@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Só)
+    )
+    (RB quando)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN problemas)
+    (ADJP 
+     (RB muito)
+     (JJ graves)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT o)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Rio)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN Exército)
+   )
+   (VP 
+    (VBP é)
+    (VBN chamado)
+   )
+   (PP 
+    (IN para)
+    (VB ajudar)
+   )
+  )
+ )
+)

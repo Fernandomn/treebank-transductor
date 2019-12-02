@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (NNS documento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS ONU)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB preconiza)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS criação)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS entidades)
+          (JJ autónomas)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS gestão)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS recursos)
+            (JJ fronteiriços)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

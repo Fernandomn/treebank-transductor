@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS ministro)
+      (NNS de_)
+      (NNS as)
+      (NNS Relações)
+      (NNS Exteriores)
+      (NNS de_)
+      (NNS o)
+      (NNS Brasil)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Fernando)
+      (NNS Henrique)
+      (NNS Cardoso)
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (RB mais)
+     (JJ confiante)
+    )
+   )
+  )
+ )
+)

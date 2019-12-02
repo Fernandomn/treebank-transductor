@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NNS PACHECO)
+  )
+  (VP 
+   (VB AVISA)
+   (NP 
+    (NP 
+     (NP 
+      (NNS VEREADORES)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PSD)
+       )
+      )
+     )
+     (PP 
+      (IN EM)
+      (NP 
+       (NP 
+        (NNS CÂMARAS)
+        (PP 
+         (IN DE)
+         (NP 
+          (NNS LISBOA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Benetton)
+   )
+   (VP 
+    (VBP volta)
+    (IN a)
+    (VB provocar)
+   )
+   (NP 
+    (NN polêmica)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT um)
+     (NN cartaz)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN série)
+       (NP 
+        (NNP United_Collors)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (ADVP 
+      (RB porém)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NP 
+       (NNS ultimato)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (DT os)
+          (NNS separatistas)
+         )
+         (VP 
+          (VB recebem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

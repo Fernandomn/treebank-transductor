@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP tentaram)
+   )
+   (VP 
+    (VP 
+     (VB agendar)
+    )
+    (NP 
+     (DT um)
+     (NN encontro)
+     (PP 
+      (IN com)
+      (NP 
+       (NNP Lula)
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB pedir)
+       )
+       (VP 
+        (IN que)
+        (NP 
+         (PRP ele)
+        )
+        (VP 
+         (VBP ajudasse)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NN negociação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

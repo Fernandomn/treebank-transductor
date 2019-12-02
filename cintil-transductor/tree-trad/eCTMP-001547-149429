@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (CD 20)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS país)
+      (JJ desportivo)
+     )
+    )
+    (VP 
+     (VB era)
+     (ADJP 
+      (RB muito)
+      (JJ diferente)
+     )
+    )
+   )
+  )
+ )
+)

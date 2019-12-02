@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS sinais)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS SOHO)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (JJ intermitentes)
+      (ADJP 
+       (CC e)
+       (JJ fracos)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VP 
+       (VB constituem)
+       (NP 
+        (NP 
+         (DT um)
+         (NP 
+          (JJ excelente)
+          (NNS sinal)
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN segundo)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS técnicos)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS NASA)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

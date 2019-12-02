@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS escola)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (CD segundo)
+      (NP 
+       (NNS agente)
+       (ADJP 
+        (JJ socializador)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS crianças)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

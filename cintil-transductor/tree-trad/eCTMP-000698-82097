@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS condecorações)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS ouro)
+        (NP 
+         (CC e)
+         (NP 
+          (NNS pedras)
+          (JJ preciosas)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vão)
+     (VP 
+      (VP 
+       (VB ficar)
+       (RB provisoriamente)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NNS cofre)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

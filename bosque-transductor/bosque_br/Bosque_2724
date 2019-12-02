@@ -1,0 +1,123 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN economistas)
+   )
+   (VP 
+    (VBP alinham)
+   )
+   (NP 
+    (DT vários)
+    (NN motivos)
+    (ADJP 
+     (JJ básicos)
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (PRP eles)
+     )
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NN possibilidade)
+      (PP 
+       (IN de)
+       (NP 
+        (NN inversão)
+        (VP 
+         (VP 
+          (VBN aberta)
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NN queda)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT os)
+             (NN regimes)
+             (ADJP 
+              (JJ socialistas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NN onda)
+      (ADJP 
+       (JJ liberalizante)
+      )
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP varre)
+       )
+       (NP 
+        (DT a)
+        (NNP América_Latina)
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (JJ forte)
+      (NN expansão)
+      (ADJP 
+       (JJ econômica)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN países)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Sudeste_Asiático)
+         )
+        )
+       )
+      )
+     )
+     e
+     (NP 
+      (RB também)
+      (DT a)
+      (ADJP 
+       (ADJP 
+        (JJ baixa)
+       )
+       e
+       (ADJP 
+        (JJ estável)
+       )
+      )
+      (NN remuneração)
+      (PP 
+       (IN de)
+       (NP 
+        (JJ tradicionais)
+        (NN aplicações)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

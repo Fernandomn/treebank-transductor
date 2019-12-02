@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN resposta)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NN pedido)
+       (PP 
+        (IN de)
+        (NP 
+         (NN ajuda)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP foi)
+    )
+    (ADJP 
+     (JJ gigantesca)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Virginia_de_la_Guardia)
+    (NP 
+     (NN porta-voz)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Médicos_Sem_Fronteiras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

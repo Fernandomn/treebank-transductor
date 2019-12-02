@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS dado)
+       (JJ novo)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Médio)
+         (NNS Oriente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

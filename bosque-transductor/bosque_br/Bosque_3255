@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (DT outros)
+    (NN profissionais)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN área)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NP 
+     (NN técnicos)
+    )
+    (NP 
+     (NN auxiliares)
+    )
+    e
+    (NP 
+     (NN atendentes)
+    )
+   )
+  )
+ )
+)

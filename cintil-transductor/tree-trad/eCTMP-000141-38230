@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Todos)
+    )
+    (VP 
+     (VB tinham)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS caligrafia)
+       (JJ igual)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (PRP todos)
+     )
+     (VP 
+      (VB faziam)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS letra)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS professora)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

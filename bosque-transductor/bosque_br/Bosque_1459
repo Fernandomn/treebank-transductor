@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todos)
+   )
+   (VP 
+    (VBP sabem)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT as)
+     (NN reformas)
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN agricultura)
+      )
+     )
+    )
+    (VP 
+     (VBP foram)
+    )
+    (NP 
+     (DT a)
+     (NN locomotiva)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP levou)
+      )
+      (NP 
+       (DT a)
+       (NNP China)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (DT seu)
+        (NN estado)
+        (ADJP 
+         (JJ atual)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

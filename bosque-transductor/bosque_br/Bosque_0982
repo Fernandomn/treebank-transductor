@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (PP 
+      (IN de+)
+      (ADJP 
+       (DT as)
+       (CD cinco)
+      )
+     )
+    )
+    (ADVP 
+     (RB também)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ bom)
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN shopping)
+       (ADJP 
+        (RB mais)
+        (VBN concorrido)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN cidade)
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP vai)
+      (VB ter)
+     )
+     (NP 
+      (NN ingresso)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Preços)
+    (PP 
+     (IN por)
+     (NP 
+      (NNS grosso)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB aumentam)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Alemanha)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (ADVP 
+      (RB Quando)
+     )
+     (NP 
+      (DT a)
+      (NN gente)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP diz)
+     )
+     (VBN engajado)
+    )
+    (VP 
+     (VBP corre)
+    )
+    (NP 
+     (DT o)
+     (NN risco)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB evocar)
+       )
+       (NP 
+        (NN modelos)
+        (ADJP 
+         (JJ anteriores)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN engajamento)
+    )
+    (ADVP 
+     (RB hoje)
+    )
+    (VP 
+     (VBP deve)
+     (VB encontrar)
+    )
+    (NP 
+     (NN formas)
+     (ADJP 
+      (JJ novas)
+     )
+    )
+   )
+  )
+ )
+)

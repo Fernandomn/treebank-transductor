@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS construção)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS rotundas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB teve)
+    )
+    (NP 
+     (NP 
+      (NNS plano)
+      (JJ prévio)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Em)
+       (NP 
+        (NNS Portugal)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS obra)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Fernando)
+           (NNS Pessoa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

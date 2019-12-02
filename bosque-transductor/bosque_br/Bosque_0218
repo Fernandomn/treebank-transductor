@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN máximo)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP consigo)
+     )
+     (VP 
+      (VP 
+       (VB ficar)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (PRP alguém)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (CD dois)
+    (NN anos)
+   )
+  )
+ )
+)

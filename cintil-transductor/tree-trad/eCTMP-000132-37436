@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS George)
+     (NNS Smiley)
+    )
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS personagem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS programa)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT esta)
+            (NNS noite)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

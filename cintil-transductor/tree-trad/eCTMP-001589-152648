@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lisboa)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS distritos)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB vai)
+         (VP 
+          (VB ter)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS mapa)
+            (JJ diferente)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

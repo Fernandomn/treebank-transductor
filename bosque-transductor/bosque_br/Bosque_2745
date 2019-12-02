@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN delegacia)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP fica)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Jardim_Mutinga)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP trabalham)
+   )
+   (NP 
+    (CD seis)
+    (NN policiais)
+    (PP 
+     (IN com)
+     (NP 
+      (CD dois)
+      (NN carros)
+     )
+    )
+   )
+  )
+ )
+)

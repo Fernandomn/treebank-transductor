@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS sobremesas)
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS altura)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS criatividade)
+           (NP 
+            (CC e)
+            (NNS requinte)
+           )
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS resto)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS ementa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

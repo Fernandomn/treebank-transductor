@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Matos)
+     (NNS Chaves)
+    )
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ainda)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS autor)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS volta)
+          (ADJP 
+           (RB mais)
+           (JJ rápida)
+          )
+         )
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS traçado)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS pista)
+               (JJ californiana)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

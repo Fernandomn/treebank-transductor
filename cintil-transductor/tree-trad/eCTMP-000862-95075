@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP minha)
+     (NP 
+      (NNS passagem)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Dom)
+         (NNS Quixote)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS aventura)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (PP minha)
+          (NNS vida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

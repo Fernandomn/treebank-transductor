@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS governador)
+      (NNS de_)
+      (NNS o)
+      (NNS Banco)
+      (NNS de)
+      (NNS Portugal)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS António)
+      (NNS de)
+      (NNS Sousa)
+     )
+    )
+   )
+   (VP 
+    (VB reiterou)
+    (NP 
+     (DT esta)
+     (NNS posição)
+    )
+   )
+  )
+ )
+)

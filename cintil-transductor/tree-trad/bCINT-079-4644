@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Pinto)
+      (NNS de_)
+      (NNS a)
+      (NNS Costa)
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ grande)
+       (NP 
+        (NNS impulsionador)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS futebol)
+           (JJ profissional)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

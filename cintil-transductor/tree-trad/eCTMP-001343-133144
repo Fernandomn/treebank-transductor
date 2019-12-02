@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (NNS investimento)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS conceito)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS rede)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS prioridades)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (JJ nova)
+            (NP 
+             (NNS gestão)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NP 
+                (NNS Biblioteca)
+                (NNS Nacional)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

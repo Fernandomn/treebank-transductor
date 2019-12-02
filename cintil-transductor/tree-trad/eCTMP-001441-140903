@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outros)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB eram)
+      (VP 
+       (VB metidos)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS buracos)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT a)
+            (NNS terra)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (RB só)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS cabeça)
+          (PP 
+           (IN de)
+           (RB fora)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT uma)
+      (NNS semana)
+     )
+    )
+   )
+  )
+ )
+)

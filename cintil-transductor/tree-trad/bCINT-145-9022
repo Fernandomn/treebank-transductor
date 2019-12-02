@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Maze)
+   )
+   (VP 
+    (VB surgiu)
+    (ADVP 
+     (RB um)
+     (RB pouco)
+     (RB mais)
+     (RB tarde)
+    )
+   )
+  )
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB juntaram)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (NP 
+      (NNS todos)
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VB nascia)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NP 
+          (NNS quinteto)
+          (NNS Dealema)
+         )
+        )
+        (ADJP 
+         (VB apadrinhado)
+         (PP 
+          (IN por)
+          (NP 
+           (NP 
+            (NNS Ace)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT os)
+              (NP 
+               (NNS Mind)
+               (NNS Da)
+               (NNS Gap)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

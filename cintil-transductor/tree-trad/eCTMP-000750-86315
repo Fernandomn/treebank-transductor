@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD 24)
+    (NP 
+     (NNS toneladas)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS morangos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB serão)
+     (VB servidos)
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT as)
+      (NP 
+       (CD duas)
+       (NP 
+        (NNS semanas)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS prova)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fleury)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP foi)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (JJ segundo)
+       (NN turno)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP venceu)
+     )
+     (NP 
+      (DT o)
+      (JJ atual)
+      (NN prefeito)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP São_Paulo)
+        (NP 
+         (NNP Paulo_Maluf)
+         (NP 
+          (NNP PPR)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

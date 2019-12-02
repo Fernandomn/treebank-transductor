@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Clinton)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB podia)
+    )
+    (VP 
+     (VB estar)
+     (ADJP 
+      (RB mais)
+      (JJ confiante)
+     )
+    )
+   )
+  )
+ )
+)

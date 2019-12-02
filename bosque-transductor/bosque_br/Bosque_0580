@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Pensavam)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT meu)
+     (NN livro)
+     (NP 
+      (NNP Três_Tristes_Tigres)
+     )
+    )
+    (VP 
+     (VBP seria)
+     (VBN recebido)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (JJ grande)
+      (NN estardalhaço)
+     )
+    )
+   )
+  )
+ )
+)

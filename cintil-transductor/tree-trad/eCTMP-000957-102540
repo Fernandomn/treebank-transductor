@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NP 
+       (NNS área)
+       (JJ envolvente)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Doca)
+         (NNS de)
+         (NNS Pedrouços)
+        )
+       )
+      )
+     )
+     (ADVP 
+      (ADVP 
+       (RB junto)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS praia)
+          (NNS de)
+          (NNS Algés)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ganhou)
+    (NP 
+     (NP 
+      (JJ maior)
+      (NP 
+       (NNS peso)
+       (JJ institucional)
+      )
+     )
+    )
+   )
+  )
+ )
+)

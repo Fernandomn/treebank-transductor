@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS ténis)
+    )
+    (VP 
+     (VB marcou)
+     (PP 
+      (RB também)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Inglaterra)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (RB aí)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (JJ principal)
+        (NNS figura)
+       )
+      )
+      (VP 
+       (VB foi)
+       (NP 
+        (NP 
+         (NNS Ivan)
+         (NNS Lendl)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

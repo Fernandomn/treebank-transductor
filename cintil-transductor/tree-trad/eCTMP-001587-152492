@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (PP seus)
+     (NNS amigos)
+    )
+   )
+   (VP 
+    (VB dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (NNS Xiong)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB suporta)
+       )
+       (NP 
+        (DT a)
+        (NNS imperfeição)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

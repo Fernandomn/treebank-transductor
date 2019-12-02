@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS filme)
+     (NP 
+      (NP 
+       (NNS Geração)
+       (NNS Inquieta)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB conta)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS história)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS início)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS Beatles)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

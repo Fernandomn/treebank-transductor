@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS ataques)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PS)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB foram)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS nota)
+       (JJ comum)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD dois)
+       (NNS discursos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

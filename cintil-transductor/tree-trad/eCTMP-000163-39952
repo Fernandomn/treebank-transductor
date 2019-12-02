@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Começámos)
+      (CONJP 
+       (S 
+        (VP 
+         (VB há)
+         (NP 
+          (CD duas)
+          (NNS semanas)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS recolha)
+         (JJ selectiva)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS lixos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

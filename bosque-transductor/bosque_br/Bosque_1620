@@ -1,0 +1,177 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN resolução)
+    (ADJP 
+     (JJ normativa)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (CD 4)
+      (PP 
+       (IN de)
+       (NP 
+        (NN junho)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 1987)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Instituto_Brasileiro_de_Turismo)
+      (NP 
+       (NNP Embratur)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN meios)
+     (PP 
+      (IN de)
+      (NP 
+       (NN hospedagem)
+       (PP 
+        (IN de)
+        (NP 
+         (NN turismo)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN tipos)
+         (NP 
+          (NP 
+           (NN hotel)
+          )
+          (NP 
+           (NN hotel)
+           (PP 
+            (IN de)
+            (NP 
+             (NN lazer)
+            )
+           )
+          )
+          e
+          (NP 
+           (NN hotel-residência)
+          )
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (DT qualquer)
+           (NN categoria)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP ficam)
+    )
+    (VP 
+     (VP 
+      (VBN obrigados)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB dispor)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN local)
+         (ADJP 
+          (JJ específico)
+         )
+         (VP 
+          (VP 
+           (ADVP 
+            (RB devidamente)
+           )
+           (VP 
+            (VBN sinalizado)
+           )
+          )
+          e
+          (VP 
+           (VP 
+            (VBN apropriado)
+           )
+           (PP 
+            (IN a+)
+            (NP 
+             (DT o)
+             (NP 
+              (NP 
+               (NN embarque)
+              )
+              e
+              (NP 
+               (NN desembarque)
+              )
+             )
+             (PP 
+              (IN de)
+              (NP 
+               (NN usuários)
+               (ADJP 
+                (JJ portadores)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NN deficiências)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (IN além_de)
+      (NP 
+       (NN estacionamentos)
+       (PP 
+        (IN para)
+        (NP 
+         (DT seus)
+         (NN veículos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

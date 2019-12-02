@@ -1,0 +1,37 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT aquele)
+     (NN verniz)
+     (ADJP 
+      (JJ atualizador)
+     )
+    )
+   )
+   (VP 
+    (VBP passe)
+   )
+   (ADVP 
+    (RB desde_já)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB usar)
+     )
+     (NP 
+      (DT a)
+      (NN expressão)
+      (NP 
+       (NN blues_rap)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS Balanço)
+      (JJ consolidado)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Tertir)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB foi)
+      (RB ontem)
+     )
+     (VB divulgado)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Boletim)
+       (NNS de)
+       (NNS Cotações)
+       (NNS de_)
+       (NNS a)
+       (NNS Bolsa)
+       (NNS de)
+       (NNS Valores)
+       (NNS de)
+       (NNS Lisboa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

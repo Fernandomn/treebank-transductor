@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Já)
+      (VP 
+       (VB existem)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP nosso)
+          (NNS país)
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (PRP algumas)
+      (NP 
+       (NNS indústrias)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB realizam)
+          (NP 
+           (DT o)
+           (NP 
+            (PP seu)
+            (NNS aproveitamento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS recolha)
+        (JJ selectiva)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT estes)
+         (NNS materiais)
+        )
+       )
+      )
+     )
+     (VP 
+      (RB ainda)
+      (VP 
+       (VB é)
+       (JJ insignificante)
+      )
+     )
+    )
+   )
+  )
+ )
+)

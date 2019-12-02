@@ -1,0 +1,96 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS moção)
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS apoio)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS secretário-geral)
+           (NNS de_)
+           (NNS o)
+           (NNS CDS)
+          )
+         )
+         (NP 
+          (NP 
+           (NNS Gonçalo)
+           (NNS Ribeiro)
+           (NNS de_)
+           (NNS a)
+           (NNS Costa)
+          )
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS Celeste)
+            (NNS Cardona)
+           )
+          )
+          (NP 
+           (NP 
+            (NNS presidente)
+            (NNS de_)
+            (NNS o)
+            (NNS Conselho)
+            (NNS Nacional)
+           )
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (NP 
+            (DT o)
+            (NP 
+             (NNS líder)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS JC)
+              )
+             )
+            )
+           )
+           (NP 
+            (NP 
+             (NNS Nuno)
+             (NNS Correia)
+             (NNS de_)
+             (NNS a)
+             (NNS Silva)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

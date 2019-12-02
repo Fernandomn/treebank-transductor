@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS carapaça)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS tartarugas)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Cabo)
+            (NNS Verde)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (JJ castanha)
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS tartarugas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS Atlântico)
+             (NNS Sul)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (NP 
+        (NNS verde-garrafa)
+        (JJ escuro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

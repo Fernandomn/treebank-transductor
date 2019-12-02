@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS IPE)
+  )
+  (VP 
+   (VP 
+    (VB vende)
+    (NP 
+     (NNS Soponata)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS grupo)
+      (NP 
+       (NNS José)
+       (NNS de)
+       (NNS Mello)
+      )
+     )
+    )
+   )
+  )
+ )
+)

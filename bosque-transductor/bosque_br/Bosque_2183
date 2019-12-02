@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Conia)
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN congresso)
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP discute)
+     )
+     (NP 
+      (DT o)
+      (NN uso)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN informática)
+       )
+      )
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT os)
+       (NN profissionais)
+       (ADJP 
+        (JJ liberais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

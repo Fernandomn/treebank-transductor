@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (DT Um)
+      (NN diplomata)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Bélgica)
+       )
+      )
+     )
+     (VP 
+      (VBP comprou)
+     )
+     (NP 
+      (NN apartamento)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB passar)
+       )
+       (NP 
+        (DT as)
+        (NN férias)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NN julho)
+          )
+          e
+          (NP 
+           (NN janeiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    mas
+    (VP 
+     (ADVP 
+      (RB fora)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT esse)
+        (NN período)
+       )
+      )
+     )
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP aluga)
+     )
+     (NP 
+      (DT o)
+      (NN imóvel)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NN US$)
+       (ADJP 
+        (CD 1.000)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Bezerra)
+   )
+  )
+ )
+)

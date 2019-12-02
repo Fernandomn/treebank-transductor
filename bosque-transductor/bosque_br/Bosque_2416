@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (CC Ou)
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN dono)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN escola)
+       (PP 
+        (IN com)
+        (NP 
+         (DT seu)
+         (NN pai)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP paga)
+          )
+          (NP 
+           (DT a)
+           (NN mensalidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

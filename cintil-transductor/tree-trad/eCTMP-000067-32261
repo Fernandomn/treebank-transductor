@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS quadro)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS intenções)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB levanta)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ outra)
+      (NNS questão)
+     )
+    )
+   )
+  )
+ )
+)

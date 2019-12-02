@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN anágua)
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+    (VBN usada)
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (NN roupa)
+     (ADJP 
+      (JJ transparente)
+     )
+    )
+   )
+  )
+ )
+)

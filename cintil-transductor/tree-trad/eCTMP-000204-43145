@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Janeiro)
+    )
+   )
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (VP 
+        (VB tomou)
+        (NP 
+         (NNS posse)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (NNS Clinton)
+     )
+     (VP 
+      (VB tinha)
+      (NP 
+       (NP 
+        (CD 56)
+        (NP 
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS opiniões)
+            (JJ favoráveis)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

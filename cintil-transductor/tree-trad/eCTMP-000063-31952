@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS reestruturação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS quadro)
+         (JJ accionista)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS TMN)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VB constituir)
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NP 
+          (CD primeiros)
+          (NNS passos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

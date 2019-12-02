@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS causa)
+      (JJ maior)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS inquietação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Interpol)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS tráfico)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS resíduos)
+         (JJ tóxicos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

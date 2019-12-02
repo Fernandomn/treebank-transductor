@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT a)
+     (NN determinação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Justiça)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NN empregados)
+   )
+   (VP 
+    (VBP ficam)
+   )
+   (VP 
+    (VP 
+     (VBN impedidos)
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB fazer)
+      )
+      (NP 
+       (DT o)
+       (NN pagamento)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN ações)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

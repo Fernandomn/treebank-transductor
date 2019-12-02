@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NP 
+     (NP 
+      (NNS ideia)
+      (JJ forte)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT este)
+       (NNS álbum)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT a)
+     (NNS mensagem)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Significa)
+    (NP 
+     (DT isto)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (RB apenas)
+         (CD sete)
+        )
+        (NNS meses)
+       )
+      )
+      (VP 
+       (VB vão)
+       (VP 
+        (VB abandonar)
+        (NP 
+         (DT esta)
+         (NNS direcção)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (NP 
+        (CD 60)
+        (NP 
+         (NP 
+          (NN por)
+          (NN cento)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (PP seus)
+            (NP 
+             (NNS trabalhadores)
+             (JJ iniciais)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

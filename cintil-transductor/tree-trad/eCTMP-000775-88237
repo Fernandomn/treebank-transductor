@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (NNS falta)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNS comida)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS dinheiro)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

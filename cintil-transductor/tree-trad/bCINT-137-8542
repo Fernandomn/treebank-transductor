@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Queríamos)
+     (VP 
+      (VB fazer)
+      (NP 
+       (NP 
+        (NNS coisas)
+        (JJ novas)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB queríamos)
+      )
+      (VP 
+       (VB esquecer)
+       (NP 
+        (DT aquelas)
+        (NP 
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB são)
+             (NP 
+              (NP 
+               (DT o)
+               (NP 
+                (NNS início)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT os)
+                  (NNS X-Wife)
+                 )
+                )
+               )
+              )
+              (NP 
+               (NP 
+                (DT o)
+                (NP 
+                 (CD primeiro)
+                 (NNS ano)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

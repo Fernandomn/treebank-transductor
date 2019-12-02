@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alain)
+     (NNS Roussel)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS tipo)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS sorte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

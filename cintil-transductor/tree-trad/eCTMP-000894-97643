@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Lucas)
+  )
+  (VP 
+   (ADVP 
+    (RB mais)
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Belém)
+      )
+     )
+    )
+   )
+  )
+ )
+)

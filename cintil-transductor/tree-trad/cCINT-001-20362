@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS escola)
+     )
+    )
+    (VP 
+     (RB nunca)
+     (VP 
+      (VP 
+       (NP 
+        (PRP me)
+       )
+       (VB disseram)
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (PRP tu)
+        )
+        (VP 
+         (VB tinhas)
+         (NP 
+          (NNS dificuldades)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

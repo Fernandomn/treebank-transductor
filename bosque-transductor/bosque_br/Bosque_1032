@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Arnaldo_Leite)
+     (NP 
+      (NN coordenador)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Programa_de_Capacitação_Gerencial)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Sebrae)
+          (NP 
+           (NNP Serviço_Brasileiro_de_Apoio_às_Micro_e_Pequenas_Empresas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN programa)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP distingue)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN similares)
+     (PP 
+      (IN de)
+      (NP 
+       (DT outros)
+       (NN Estados)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB ter)
+     )
+     (NP 
+      (NN aval)
+      (ADJP 
+       (JJ prévio)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Tribunal_de_Contas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

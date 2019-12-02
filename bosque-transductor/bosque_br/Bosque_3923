@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN jogador)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP estava)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT os)
+       (NN planos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Pepe)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT o)
+    (NN meia)
+    (NP 
+     (NNP Carlos_Alberto_Dias)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP acabou)
+       (VBG indo)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNP Flamengo)
+       )
+      )
+      (VP 
+       (IN já_que)
+       (NP 
+        (DT a)
+        (NN diretoria)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NNP Santos)
+         )
+        )
+       )
+       (VP 
+        (VBP vetou)
+       )
+       (NP 
+        (DT o)
+        (DT seu)
+        (NN nome)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

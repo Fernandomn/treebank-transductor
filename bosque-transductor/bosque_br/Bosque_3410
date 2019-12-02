@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP Eduardo_Lourenço)
+   )
+   (VP 
+    (ADVP 
+     (RB Não)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP deve)
+     (VB esperar)
+    )
+    (NP 
+     (DT uma)
+     (NN intervenção)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP tenha)
+      )
+      (NP 
+       (NN efeitos)
+       (ADJP 
+        (JJ imediatos)
+       )
+      )
+     )
+     (SBAR como
+      (S 
+       (DT a)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN políticos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

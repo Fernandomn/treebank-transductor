@@ -1,0 +1,111 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN De)
+    (RB que)
+   )
+   (VP 
+    (VBP adiantaria)
+   )
+   (VP 
+    (NP 
+     (DT os)
+     (NN jornais)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN dia)
+       (ADJP 
+        (JJ seguinte)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB omitirem)
+    )
+    (NP 
+     (DT os)
+     (NN nomes)
+    )
+   )
+   (VP 
+    (IN se)
+    (NP 
+     (PRP eles)
+    )
+    (ADVP 
+     (RB já)
+    )
+    (VP 
+     (VBP haviam)
+     (VBN sido)
+     (VBN arrastados)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN lama)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT um)
+      (NN noticiário)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP atinge)
+       )
+       (NP 
+        (ADJP 
+         (RB cerca_de)
+         (CD 60)
+        )
+        (NN milhões)
+        (PP 
+         (IN de)
+         (NP 
+          (NN pessoas)
+         )
+        )
+       )
+       (ADVP 
+        (RB certamente)
+       )
+       (ADVP 
+        (RB mais)
+        (SBAR do_que
+         (S 
+          (DT a)
+          (NN tiragem)
+          (ADJP 
+           (JJ conjunta)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (DT todos)
+            (DT os)
+            (NN jornais)
+            (ADJP 
+             (JJ brasileiros)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

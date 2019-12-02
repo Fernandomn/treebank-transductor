@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Amanhã)
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (NP 
+      (NP 
+       (NNS regras)
+       (JJ novas)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS mercado)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS títulos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Projecto)
+    (JJ cinematográfico)
+   )
+  )
+  (VP 
+   (VP 
+    (VB inaugurado)
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Suíça)
+    )
+   )
+  )
+ )
+)

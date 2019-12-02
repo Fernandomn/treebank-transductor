@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS acidente)
+    )
+    (VP 
+     (VB ocorreu)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT as)
+       (NNS 06h15m)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB interrompeu)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS circulação)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS composições)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN durante)
+       (NP 
+        (NP 
+         (ADVP 
+          (RB cerca)
+          (RB de)
+         )
+         (CD uma)
+        )
+        (NNS hora)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

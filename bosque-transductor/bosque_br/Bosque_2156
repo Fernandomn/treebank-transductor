@@ -1,0 +1,60 @@
+(
+ (S 
+  (NP 
+   (NN Preocupação)
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Vidigal)
+    )
+   )
+   (VP 
+    (VP 
+     (VB Manter)
+    )
+    (ADVP 
+     (RB junto)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN autoridades)
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NN imagem)
+     (PP 
+      (IN de)
+      (NP 
+       (NN seriedade)
+       (VP 
+        (ADVP 
+         (RB cuidadosamente)
+        )
+        (VP 
+         (VBN cultivada)
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT o)
+          (NN decorrer)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT esses)
+            (NN anos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

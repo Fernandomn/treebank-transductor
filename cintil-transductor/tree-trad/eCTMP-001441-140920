@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Mostra)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VB aconteceu)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB nem)
+      (VP 
+       (RB sempre)
+       (VP 
+        (VB é)
+        (JJ bonito)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,116 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NN Gestão)
+     (ADJP 
+      (JJ participativa)
+     )
+    )
+    (NP 
+     (NN times)
+     (PP 
+      (IN de)
+      (NP 
+       (NN qualidade)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT outros)
+     (NN conceitos)
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN assimilados)
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT as)
+     (NN empresas)
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB ao_mesmo_tempo)
+     (PP 
+      (IN em_que)
+     )
+    )
+    (NP 
+     (PRP elas)
+    )
+    (VP 
+     (VBP passaram)
+     (IN a)
+     (VB exigir)
+    )
+    (NP 
+     (NN funcionários)
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (VBN abertos)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN diálogo)
+        )
+       )
+      )
+      e
+      (ADJP 
+       (JJ cientes)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN importância)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN cumprimento)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT as)
+             (NN regras)
+             (PP 
+              (IN de)
+              (NP 
+               (JJ boas)
+               (NN maneiras)
+               (PP 
+                (IN dentro_de+)
+                (NP 
+                 (DT o)
+                 (NN ambiente)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NN trabalho)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

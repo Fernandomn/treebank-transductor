@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Era)
+      (VP 
+       (CC e)
+       (VB é)
+      )
+     )
+     (NP 
+      (NP 
+       (NNS trabalhadora)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS limpeza)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB auferia)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT esse)
+         (NNS ano)
+        )
+       )
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS salário)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 17.60000)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

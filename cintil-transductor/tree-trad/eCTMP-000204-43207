@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Isto)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB apenas)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS ponta)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS icebergue)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS comando-geral)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS GNR)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB anunciou)
+     (ADVP 
+      (RB ontem)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS apreensão)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 101)
+         (NP 
+          (NNS quilogramas)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS haxixe)
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS barra)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Vila)
+             (NNS Real)
+             (NNS de)
+             (NNS Stº)
+             (NNS António)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

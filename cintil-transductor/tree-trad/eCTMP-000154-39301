@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Lancia)
+    (NNS Y)
+   )
+  )
+  (VP 
+   (PP 
+    (PP 
+     (IN a)
+     (IN partir)
+     (IN de)
+    )
+    (NP 
+     (CD 1910)
+     (NNS contos)
+    )
+   )
+  )
+ )
+)

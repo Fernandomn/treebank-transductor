@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Archer)
+   )
+   (VP 
+    (ADVP 
+     (RB aliás)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB alberga)
+       (PP 
+        (IN com)
+        (NP 
+         (NNS hospitalidade)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NNS personalidade)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS facetas)
+       (JJ diferentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

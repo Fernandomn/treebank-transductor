@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (CD Ambas)
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS calha)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (JJ próximas)
+          (NNS privatizações)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fleury)
+   )
+   (VP 
+    (VBP aproveitou)
+   )
+   (NP 
+    (DT a)
+    (NN viagem)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB responder)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT o)
+       (NP ex-secretário)
+       (NP 
+        (NNP José_Machado_de_Campos_Filho)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (PRP o)
+         )
+         (VP 
+          (VBP chamara)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NN traidor)
+          )
+         )
+         (PP 
+          (IN por)
+          (VP 
+           (ADVP 
+            (RB não)
+           )
+           (VP 
+            (VB apoiar)
+           )
+           (NP 
+            (NNP Quércia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

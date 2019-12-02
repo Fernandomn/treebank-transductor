@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ outro)
+     (NP 
+      (NNS problema)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB levanta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS profissionalização)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

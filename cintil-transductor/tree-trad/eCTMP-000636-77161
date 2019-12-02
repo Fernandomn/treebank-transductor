@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Teresa)
+     (NNS Prima)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS Galante)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB estreiam)
+    (NP 
+     (NNS coreografia)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS CCB)
+    )
+   )
+  )
+ )
+)

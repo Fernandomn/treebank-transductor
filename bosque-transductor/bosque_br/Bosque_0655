@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNP São_José_do_Rio_Preto)
+    )
+   )
+   (NP 
+    (DT as)
+    (CD duas)
+    (NN bancas)
+    (ADJP 
+     (RB mais)
+     (JJ tradicionais)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN cidade)
+     )
+    )
+   )
+   (VP 
+    (VBP tiveram)
+   )
+   (NP 
+    (NN filas)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN distribuição)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ terceiro)
+       (NN fascículo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Atlas_Folha_/_«_The_New_York_Times_»)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

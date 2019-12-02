@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Afinal)
+   )
+   (S 
+    (S 
+     (VP 
+      (VB descobriu)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB tinha)
+         )
+         (NP 
+          (NP 
+           (NNS queda)
+           (PP 
+            (IN para)
+            (NP 
+             (DT a)
+             (NNS política)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB afastou)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

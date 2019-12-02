@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS caso)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS adultos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB terão)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB ser)
+        (VB aprovados)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS exames)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Letão)
+            )
+            (NP 
+             (CC e)
+             (NP 
+              (NNS História)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

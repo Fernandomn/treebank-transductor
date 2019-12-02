@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Karl)
+      (NNS Popper)
+     )
+    )
+    (VP 
+     (VP 
+      (VB leu)
+      (NP 
+       (DT o)
+       (NNS índice)
+      )
+     )
+     (RB lentamente)
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB vagueou)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NNS sala)
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (S 
+        (S 
+         (VP 
+          (VB voltou)
+          (PP 
+           (IN a)
+           (VP 
+            (VB sentar)
+            (NP 
+             (PRP -se)
+            )
+           )
+          )
+         )
+        )
+       )
+       (S 
+        (CC e)
+        (S 
+         (VP 
+          (VB disse)
+          (NP 
+           (PRP -me)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

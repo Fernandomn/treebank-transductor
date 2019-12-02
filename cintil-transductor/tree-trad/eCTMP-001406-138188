@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS patinagem)
+      (JJ artística)
+     )
+     (JJ olímpica)
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ nova)
+      (NP 
+       (NNS estrela)
+      )
+     )
+    )
+   )
+  )
+ )
+)

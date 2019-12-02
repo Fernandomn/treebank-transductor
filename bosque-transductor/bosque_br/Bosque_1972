@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (CC E)
+   (ADVP 
+    (RB como)
+   )
+   (NP 
+    (PRP você)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP sente)
+   )
+   (ADVP 
+    (ADVP 
+     (RB como)
+    )
+    (NP 
+     (NN estrela)
+     (PP 
+      (IN de)
+      (NP 
+       (NN cinema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

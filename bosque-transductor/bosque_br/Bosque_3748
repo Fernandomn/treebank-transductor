@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Publica)
+   )
+   (NP 
+    (NN documentos)
+    (VP 
+     (VP 
+      (VBN comprados)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNP James_McDougal)
+       (NP 
+        (NP ex-sócio)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNP Bill)
+          )
+          e
+          (NP 
+           (NNP Hillary_Clinton)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN empresa)
+       (NP 
+        (NNP Whitewater)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

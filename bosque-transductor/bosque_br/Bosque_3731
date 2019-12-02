@@ -1,0 +1,75 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Biotecnologia)
+   )
+   (VP 
+    (VBP busca)
+   )
+   (NP 
+    (NP 
+     (NP 
+      (DT o)
+      (NN aprimoramento)
+     )
+     e
+     (NP 
+      (NN criação)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (JJ novos)
+      (NN produtos)
+     )
+    )
+   )
+   (PP 
+    (IN a_partir_de+)
+    (NP 
+     (DT a)
+     (NN manipulação)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NP 
+         (NN animais)
+        )
+        e
+        (NP 
+         (NN plantas)
+        )
+       )
+       (VP 
+        (VP 
+         (VBN destinados)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NP 
+           (NP 
+            (NN saúde)
+           )
+           e
+           (NP 
+            (NN estética)
+           )
+          )
+          (ADJP 
+           (JJ humana)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

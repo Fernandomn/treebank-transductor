@@ -1,0 +1,104 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB Apesar_disso)
+    )
+    ou
+    (ADVP 
+     (RB exatamente)
+     (PP 
+      (IN por_causa_de+)
+      (NP 
+       (PRP isso)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP conseguiu)
+   )
+   (NP 
+    (DT a)
+    (NN classificação)
+   )
+   (PP 
+    (IN diante_de+)
+    (NP 
+     (DT o)
+     (NNP Corinthians)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP ficou)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN meio)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN caminho)
+          (VP 
+           nem
+           (VP 
+            (VP 
+             (VBP escalou)
+            )
+            (NP 
+             (DT sua)
+             (NN força)
+             (ADJP 
+              (JJ máxima)
+             )
+            )
+           )
+           nem
+           (VP 
+            (VP 
+             (VBP optou)
+            )
+            (PP 
+             (IN por)
+             (NP 
+              (DT um)
+              (NN time)
+              (PP 
+               (IN de)
+               (NP 
+                (NN juniores)
+               )
+              )
+              (PP 
+               (IN com)
+               (NP 
+                (DT alguns)
+                (NN reservas)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NN reforço)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

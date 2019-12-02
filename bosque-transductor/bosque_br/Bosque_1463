@@ -1,0 +1,91 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Em+)
+     (NP 
+      (DT os)
+      (JJ últimos)
+      (CD cinco)
+      (NN anos)
+     )
+    )
+    (PP 
+     (RB só)
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP Argentina)
+     )
+    )
+    (NP 
+     (DT a)
+     (NNP Coca-Cola)
+    )
+    (VP 
+     (VBP investiu)
+    )
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 800)
+      (NN milhões)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN aquisição)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (JJ novos)
+         (NN equipamentos)
+        )
+        e
+        (NP 
+         (NN desenvolvimento)
+         (PP 
+          (IN de)
+          (NP 
+           (JJ novas)
+           (NN tecnologias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP lembrou)
+   )
+   (NP 
+    (NNP Ivester)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (NN encontro)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NN presidente)
+       (ADJP 
+        (JJ argentino)
+       )
+       (NP 
+        (NNP Carlos_Menem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

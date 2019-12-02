@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sou)
+    (NP 
+     (NP 
+      (NNS candidato)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NNS Presidente)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Angola)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Como)
+    )
+    (NP 
+     (DT a)
+     (NN separação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN marcas)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+     (VBN tida)
+    )
+    (VP 
+     (RB como)
+     (NP 
+      (DT uma)
+      (NN tendência)
+      (ADJP 
+       (JJ irreversível)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP caberia)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NNP Volkswagen)
+    )
+   )
+   (VP 
+    (VP 
+     (VB construir)
+    )
+    (NP 
+     (DT sua)
+     (JJ própria)
+     (NN fábrica)
+    )
+   )
+  )
+ )
+)

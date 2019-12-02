@@ -1,0 +1,110 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT O)
+     (NNP Banco_Mundial)
+    )
+    (NP 
+     (DT o)
+     (NNP FMI)
+    )
+    e
+    (NP 
+     (DT o)
+     (NNP Gatt)
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN instituições)
+    (ADJP 
+     (JJ públicas)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP deveriam)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB ter)
+        (NP 
+         (DT suas)
+         (NN políticas)
+         (VP 
+          (VP 
+           (VBN submetidas)
+          )
+          (PP 
+           (IN a)
+           (NP 
+            (NN esferas)
+            (ADJP 
+             (JJ públicas)
+            )
+            (PP 
+             (IN de)
+             (NP 
+              (NN decisão)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VB ter)
+        (NP 
+         (DT a)
+         (NN transparência)
+         (ADJP 
+          (JJ necessária)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB serem)
+           )
+           (VP 
+            (VP 
+             (VP 
+              (VBN avaliadas)
+             )
+            )
+            e
+            (VP 
+             (VP 
+              (VBN monitoradas)
+             )
+            )
+           )
+          )
+          (PP 
+           (IN por+)
+           (NP 
+            (DT os)
+            (NN cidadãos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS modelo)
+     (ADJP 
+      (VB contemplado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS estudos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS APDL)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB aponta)
+    (NP 
+     (DT esta)
+     (NP 
+      (CD terceira)
+      (NNS via)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Especialistas)
+     (ADJP 
+      (JJ espanhóis)
+      (ADJP 
+       (ADJP 
+        (JJ franceses)
+        (ADJP 
+         (CC e)
+         (JJ portugueses)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB discutirão)
+    (NP 
+     (DT as)
+     (NP 
+      (JJ respectivas)
+      (NP 
+       (NNS experiências)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT este)
+         (NNS campo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

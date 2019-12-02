@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Já)
+    )
+    (VP 
+     (VBP estamos)
+    )
+    (ADJP 
+     (JJ contentes)
+     (PP 
+      (IN por)
+      (VP 
+       (VP 
+        (VB ter)
+        (VBN chegado)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT as)
+         (NN oitavas-de-final)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (NP 
+    (NNP Phillip_Trent)
+    (NP 
+     (CD 24)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP assistiu)
+     )
+     (NP 
+      (DT o)
+      (NN jogo)
+     )
+     (PP 
+      (IN ao_lado_de+)
+      (NP 
+       (DT o)
+       (NN amigo)
+       (NP 
+        (NNP Brian_Fagerburg)
+       )
+       (ADJP 
+        (CD 24)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Velas)
+    (JJ brancas)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS imagem)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Expo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gil)
+   )
+   (VP 
+    (VP 
+     (VB recebe)
+     (NP 
+      (DT uma)
+      (NNS carta)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (PP seus)
+       (NP 
+        (NNS primos)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS África)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

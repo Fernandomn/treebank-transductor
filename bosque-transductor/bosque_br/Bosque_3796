@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (PRP Quem)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP quiser)
+    )
+    (VP 
+     (VP 
+      (VB beber)
+     )
+     (PP 
+      (IN durante)
+      (NP 
+       (DT o)
+       (NN jantar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP poderá)
+    (VB levar)
+   )
+   (NP 
+    (DT o)
+    (NN champanhe)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN casa)
+    )
+   )
+  )
+ )
+)

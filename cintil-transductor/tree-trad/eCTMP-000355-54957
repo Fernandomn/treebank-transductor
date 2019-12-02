@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT as)
+      (NNS trabalhadoras)
+     )
+    )
+    (VP 
+     (ADVP 
+      (RB contudo)
+     )
+     (VP 
+      (VB eram)
+      (JJ evidentes)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT os)
+     (NNS prejuízos)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS sofrimento)
+       (ADJP 
+        (VB provocado)
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS medida)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

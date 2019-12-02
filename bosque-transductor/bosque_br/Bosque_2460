@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Infelizmente)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT uma)
+     (NN maneira)
+     (VBN atabalhoada)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN ambiente)
+     (ADJP 
+      (JJ político)
+     )
+     (VBN poluído)
+    )
+   )
+  )
+ )
+)

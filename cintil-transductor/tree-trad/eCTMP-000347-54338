@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS ABC)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS Benfica)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (JJ bom)
+      (NNS plano)
+     )
+    )
+   )
+  )
+ )
+)

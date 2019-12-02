@@ -1,0 +1,59 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN locadora)
+     (NP 
+      (NNP Clean_Car)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN diária)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (DT mesmo)
+      (NN carro)
+     )
+    )
+   )
+   (VP 
+    (VBP sai)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN R$)
+     (ADJP 
+      (CD 72)
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN limite)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 200)
+       (NN quilômetros)
+       (PP 
+        (IN por)
+        (NP 
+         (NN dia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

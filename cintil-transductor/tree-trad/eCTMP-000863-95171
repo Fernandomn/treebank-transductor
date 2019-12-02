@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Falou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (PP 
+      (RB também)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (CD primeira)
+         (NNS vez)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (JJ futura)
+      (NP 
+       (NNS existência)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS parques)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS manobras)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

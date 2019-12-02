@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP fala)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN cobrança)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN árbitros)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP apitam)
+        )
+        (ADVP 
+         (RB maldosamente)
+        )
+        (PP 
+         (IN para)
+         (VP 
+          (VP 
+           (VB prejudicar)
+          )
+          (NP 
+           (DT uma)
+           (NN equipe)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

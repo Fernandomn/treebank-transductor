@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN responsabilidade)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT um)
+     (JJ só)
+     (NN tempo)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (DT todos)
+       )
+      )
+      e
+      (PP 
+       (IN de)
+       (NP 
+        (PRP ninguém)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS irmã)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS poeta)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB recebeu)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS edição)
+         (JJ original)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (NP 
+            (NNS Sonetos)
+            (NNS Ingleses)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

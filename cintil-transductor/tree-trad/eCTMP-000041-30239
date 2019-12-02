@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB sabe)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP lhe)
+         )
+         (VB dei)
+        )
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (PP meu)
+         (NNS voto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

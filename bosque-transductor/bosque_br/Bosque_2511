@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT a)
+    (NN fase)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN vale-tudo)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP antecede)
+       )
+       (NP 
+        (DT a)
+        (NN escolha)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN candidatos)
+         )
+        )
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT os)
+         (NN partidos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

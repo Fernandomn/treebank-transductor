@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (DT este)
+      (NP 
+       (NNS eleito)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS PSD)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS princípios)
+       (ADJP 
+        (RB mais)
+        (JJ elementares)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS direito)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB foram)
+      (VP 
+       (VB violados)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NNS Governo)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS suspensão)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Lei)
+           (NNS de_)
+           (NNS as)
+           (NNS Finanças)
+           (NNS Locais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

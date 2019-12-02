@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS receios)
+   )
+   (VP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS moradores)
+     )
+    )
+    (VP 
+     (VB são)
+     (VB justificados)
+    )
+   )
+  )
+ )
+)

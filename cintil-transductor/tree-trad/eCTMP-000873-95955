@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Nun)
+   )
+   (VP 
+    (VB disse)
+    (CONJP 
+     (CC que)
+     (S 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Israel)
+       )
+      )
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS processo)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS tomada)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS decisões)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VB é)
+        (ADJP 
+         (JJ obscuro)
+         (ADJP 
+          (CC e)
+          (JJ desorganizado)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

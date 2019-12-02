@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Redwood)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Michael)
+      (NNS Howard)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB querem)
+   (VP 
+    (VB ser)
+    (NP 
+     (NP 
+      (NNS líderes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS conservadores)
+         (JJ britânico)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

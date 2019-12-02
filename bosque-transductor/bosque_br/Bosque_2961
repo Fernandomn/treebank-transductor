@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (DT O)
+    (ADJP 
+     (RB mais)
+     (VBN cotado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN bolsa)
+      (PP 
+       (IN de)
+       (NP 
+        (NN apostas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN brasileiro)
+    (NP 
+     (NNP Raul_Boesel)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB ontem)
+      )
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBP consegui)
+      )
+      (VP 
+       (VP 
+        (VB terminar)
+       )
+       (NP 
+        (DT a)
+        (NN corrida)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNP Detroit)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

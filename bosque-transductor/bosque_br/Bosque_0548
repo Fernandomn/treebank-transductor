@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Junto_com)
+    (NP 
+     (DT seu)
+     (NN guapo)
+     (NP 
+      (NNP Luiz_Zerbini)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (NNP Muir_Woods)
+     (NP 
+      (DT um)
+      (NN bosque)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT as)
+        (NN imediações)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN cidade)
+          (VP 
+           (ADVP 
+            (RB onde)
+           )
+           (ADVP 
+            (RB só)
+           )
+           (VP 
+            (VBP queria)
+           )
+           (VBP era)
+           (VP 
+            (VP 
+             (VB abraçar)
+            )
+            (NP 
+             (NN árvores)
+             (PP 
+              (IN de)
+              (NP 
+               (NN preferência)
+               (NP 
+                (JJ enormes)
+                (NN sequóias)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

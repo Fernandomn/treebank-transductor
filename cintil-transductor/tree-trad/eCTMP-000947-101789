@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Para)
+    (RB já)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Benfica)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB jogar)
+      (PP 
+       (IN sem)
+       (NP 
+        (NP 
+         (NNS publicidade)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT as)
+           (NNS camisolas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Matosinhos)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Coimbra)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (RB até)
+        (NP 
+         (NNS Almeida)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (PRP alguns)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS candidatos)
+         (PP 
+          (IN com)
+          (NP 
+           (NP 
+            (NNS propostas)
+            (ADJP 
+             (RB mais)
+             (JJ avançadas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

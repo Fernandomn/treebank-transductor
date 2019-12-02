@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Presidente)
+   )
+   (VP 
+    (VBP arruma)
+   )
+   (NP 
+    (NN cargos)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN integrantes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Grupo_de_Juiz_de_Fora)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN empresa)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP possui)
+     )
+     (NP 
+      (NN laboratório)
+      (ADJP 
+       (JJ próprio)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NNP França)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP fabrica)
+     )
+     (NP 
+      (DT os)
+      (NN equipamentos)
+      (VBN usados)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT suas)
+       (NN clínicas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

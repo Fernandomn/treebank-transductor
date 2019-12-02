@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (JJ novo)
+       (NNS design)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (JJ novos)
+      (NNS Nissans)
+     )
+    )
+    (VP 
+     (VB têm)
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS motores)
+         (ADJP 
+          (RB mais)
+          (JJ potentes)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS sistemas)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS suspensão)
+           )
+          )
+         )
+        )
+       )
+       (ADJP 
+        (RB mais)
+        (JJ sofisticados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

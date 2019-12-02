@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Talvez)
+    (VP 
+     (PP 
+      (IN por)
+      (NP 
+       (DT isso)
+      )
+     )
+     (VP 
+      (VB é)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB tem)
+           (NP 
+            (NP 
+             (NP 
+              (NNS relações)
+              (ADJP 
+               (RB mais)
+               (JJ estreitas)
+              )
+             )
+             (PP 
+              (IN com)
+              (NP 
+               (DT o)
+               (NNS Presidente)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

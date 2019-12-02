@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (S 
+      (VP 
+       (VB Há)
+       (NP 
+        (CD sete)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Governo)
+    )
+    (VP 
+     (VB ordenou)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS desmantelamento)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS pedreira)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT esse)
+            (NP 
+             (JJ mesmo)
+             (NNS local)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NN pregações)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP duram)
+      )
+      (PP 
+       (IN até)
+       (NP 
+        (CD dois)
+        (NN minutos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

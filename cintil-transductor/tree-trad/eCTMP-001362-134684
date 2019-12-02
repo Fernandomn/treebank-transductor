@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS PÚBLICO)
+    )
+    (VP 
+     (VB contactou)
+     (NP 
+      (NP 
+       (NP 
+        (NNS João)
+        (NNS Rendeiro)
+       )
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Álvaro)
+          (NNS Dâmaso)
+         )
+        )
+        (NP 
+         (NP 
+          (NNS presidente)
+          (NNS de_)
+          (NNS a)
+          (NNS CMVM)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (PRP nenhum)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS responsáveis)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB quis)
+      (VP 
+       (VB comentar)
+       (NP 
+        (DT o)
+        (NNS assunto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

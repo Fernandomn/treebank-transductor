@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NN teens)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN triângulos)
+   )
+   (VP 
+    (VBP estão)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN alta)
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NN direito)
+     (PP 
+      (IN a)
+      (NP 
+       (NN formação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN casais)
+        )
+       )
+       (PP 
+        (IN a)
+        (ADJP 
+         (CD três)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

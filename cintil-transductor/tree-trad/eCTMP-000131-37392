@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+    (NNS pedidos)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB tiveram)
+     )
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (NNS resposta)
+       (JJ positiva)
+      )
+     )
+    )
+   )
+  )
+ )
+)

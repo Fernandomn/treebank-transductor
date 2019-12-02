@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (NP 
+     (NNP Itamar_Franco)
+    )
+   )
+   (VP 
+    (VBP tem)
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (DT qualquer)
+     (NN cidadão)
+     (ADJP 
+      (JJ brasileiro)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN direito)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB apoiar)
+      )
+      (NP 
+       (DT a)
+       (NN candidatura)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NN Presidência)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN República)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN de)
+        (VP 
+         (NP 
+          (PRP quem)
+         )
+         (ADVP 
+          (RB bem)
+         )
+         (VP 
+          (VBP entender)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

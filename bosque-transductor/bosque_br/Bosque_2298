@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN acordo)
+   )
+   (VP 
+    (VBP inclui)
+   )
+   (VP 
+    (VP 
+     (VB votar)
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (JJ novas)
+      (NN emendas)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN projeto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Orçamento)
+       (PP 
+        (IN para)
+        (ADJP 
+         (CD 95)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,90 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB De_acordo_com)
+     (NP 
+      (NNP Maluf)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN equipe)
+     (PP 
+      (IN de)
+      (NP 
+       (NN elaboração)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN programa)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP terá)
+    )
+    (NP 
+     (CD 30)
+     (NN dias)
+    )
+    (PP 
+     (IN para)
+     (VB trabalhar)
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (DT o)
+     (NN nome)
+     (ADJP 
+      (RB mais)
+      (VBN cotado)
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB coordená-)
+       )
+       (NP 
+        (PRP la)
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (DT o)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN presidente)
+       (ADJP 
+        (JJ nacional)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP PFL)
+         (NP 
+          (NNP Jorge_Bornhausen)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

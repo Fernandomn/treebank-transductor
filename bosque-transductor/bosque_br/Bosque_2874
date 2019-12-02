@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Além_de+)
+     (NP 
+      (DT o)
+      (NNP PSDB)
+     )
+    )
+    e
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PFL)
+     )
+    )
+   )
+   (VP 
+    (VBP coligou-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em_torno_de+)
+    (NP 
+     (DT a)
+     (NN candidatura)
+     (NP 
+      (NNP Covas)
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ pequeno)
+    (NNP PV)
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Neto)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Piruínha)
+     )
+    )
+   )
+   (NP 
+    (NNP André)
+   )
+   (VP 
+    (VBP foi)
+    (VBN capturado)
+   )
+   (PP 
+    (IN perto_de)
+    (NP 
+     (DT sua)
+     (NN casa)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Abolição)
+     (NP 
+      (NN zona)
+      (ADJP 
+       (JJ norte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

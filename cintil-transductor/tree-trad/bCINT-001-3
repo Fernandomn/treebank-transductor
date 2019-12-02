@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (NP 
+       (NNS tiros)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS caçadeira)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NNS desconhecido)
+    )
+    (VP 
+     (PP 
+      (IN sem)
+      (NP 
+       (NP 
+        (NNS motivo)
+        (JJ aparente)
+       )
+      )
+     )
+     (VP 
+      (VB abateu)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS família)
+        (JJ inteira)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

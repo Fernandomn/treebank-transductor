@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (NP 
+      (DT um)
+      (NP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT esses)
+         (NNS dias)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS serra)
+        (NNS de_)
+        (NNS a)
+        (NNS Estrela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

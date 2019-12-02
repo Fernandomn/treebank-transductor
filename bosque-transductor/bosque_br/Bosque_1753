@@ -1,0 +1,137 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (VP 
+      (VB ser)
+     )
+     (NP 
+      (DT a)
+      (JJ primeira)
+      (NN área)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Brasil)
+      )
+     )
+     (NP 
+      (PP 
+       (IN a)
+       (VP 
+        (VP 
+         (VB ser)
+         (VBN incluída)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (CD 1991)
+         )
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT a)
+          (NN rede)
+          (ADJP 
+           (JJ hemisférica)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (NN reservas)
+            (PP 
+             (IN para)
+             (NP 
+              (NN aves)
+              (ADJP 
+               (JJ migratórias)
+              )
+             )
+            )
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT a)
+            (NN categoria)
+            (PP 
+             (IN de)
+             (NP 
+              (NN reserva)
+              (ADJP 
+               (JJ internacional)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NNP Parque_Nacional_da_Lagoa_do_Peixe)
+    (VP 
+     (VP 
+      (VBN criado)
+     )
+     (PP 
+      (IN em)
+      (ADJP 
+       (CD 1986)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP existe)
+   )
+   (ADVP 
+    (RB de_fato)
+   )
+   (VP 
+    (IN pois)
+    (ADVP 
+     (RB ainda)
+     (RB não)
+    )
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (DT um)
+     (NN plano)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NN manejo)
+       )
+      )
+      e
+      (PP 
+       (IN de)
+       (NP 
+        (NN desenvolvimento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

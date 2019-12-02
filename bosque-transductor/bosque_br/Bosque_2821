@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT os)
+     (NN corpos)
+     (ADJP 
+      (RB mais)
+      (JJ feios)
+     )
+    )
+   )
+   (VP 
+    (VBP está)
+   )
+   (NP 
+    (DT o)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN top-model)
+      (NP 
+       (NNP Kate_Moss)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (PP 
+         (IN segundo)
+         (NP 
+          (DT o)
+          (NN jornal)
+         )
+        )
+        (VP 
+         (VBP tem)
+        )
+        (NP 
+         (NP 
+          (NN ombros)
+          (VBN caídos)
+         )
+         e
+         (NP 
+          (DT o)
+          (NN peito)
+          (ADJP 
+           (JJ liso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

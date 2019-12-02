@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Houston_Rockets)
+   )
+   (VP 
+    (VBP conquistou)
+   )
+   (NP 
+    (DT sua)
+    (JJ 27.ª)
+    (NN vitória)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN temporada)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP NBA)
+      )
+     )
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (RB apenas)
+      (CD quatro)
+      (NN derrotas)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN casa)
+    )
+   )
+   (NP 
+    (NN sábado)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (VP 
+      (VP 
+       (VB vencer)
+      )
+      (NP 
+       (DT o)
+       (NNP Philadelphia)
+       (NP 
+        (CD 76)
+        (NN ers)
+       )
+      )
+      (PP 
+       (PP 
+        (IN por)
+        (NP 
+         (CD 100)
+        )
+       )
+       (PP 
+        (IN a)
+        (ADJP 
+         (CD 93)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

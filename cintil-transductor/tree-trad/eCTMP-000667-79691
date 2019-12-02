@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS golfinhos)
+     (ADJP 
+      (JJ residentes)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS estuário)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS Sado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB apresentam)
+    (NP 
+     (NP 
+      (NNS lesões)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NNS pele)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

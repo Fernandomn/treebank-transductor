@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Conforme)
+    (NP 
+     (NN acordo)
+     (VP 
+      (VP 
+       (VBN autorizado)
+      )
+      (PP 
+       (IN por+)
+       (NP 
+        (DT o)
+        (NNP BC)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NN saldo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN dívida)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN Estado)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNP Nossa_Caixa)
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN US$)
+        (NP 
+         (CD 1)
+         (NN bilhão)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP terá)
+    (IN que)
+    (VB ser)
+    (VBN pago)
+   )
+   (NP 
+    (DT este)
+    (NN ano)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD doze)
+     (NN parcelas)
+     (ADJP 
+      (JJ mensais)
+     )
+     (UCP 
+      (VBN atualizadas)
+      e
+      (PP 
+       (IN com)
+       (NP 
+        (NN encargos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

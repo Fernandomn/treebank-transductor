@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS pessoa)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VP 
+         (VB morreu)
+         (PP 
+          (IN com)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS ataque)
+            (JJ cardíaco)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS local)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS explosão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS jornalista)
+      (JJ turco)
+     )
+    )
+   )
+  )
+ )
+)

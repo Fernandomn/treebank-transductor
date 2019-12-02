@@ -1,0 +1,104 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Elas)
+   )
+   (VP 
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (ADVP 
+      (RB apenas)
+     )
+     (VP 
+      (VBP restringem)
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NN liberdade)
+      )
+      e
+      (NP 
+       (DT o)
+       (NN futuro)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP tentam)
+          )
+          (VP 
+           (VP 
+            (VB deixar)
+           )
+           (NP 
+            (NNP Cuba)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB como)
+      (ADVP 
+       (RB também)
+      )
+      (VP 
+       (VBP oferecem)
+      )
+      (NP 
+       (NN expectativa)
+       (PP 
+        (IN de)
+        (NP 
+         (NN reformas)
+         (ADJP 
+          (JJ democráticas)
+         )
+         (VP 
+          (VP 
+           (VBN forçadas)
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (DT os)
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (VP 
+              (VBP ficam)
+             )
+             (PP 
+              (IN em+)
+              (NP 
+               (DT a)
+               (NN ilha)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

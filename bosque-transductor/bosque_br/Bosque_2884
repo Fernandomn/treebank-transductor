@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (CC Ou)
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN hipótese)
+     (ADJP 
+      (JJ remota)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN votação)
+       (ADVP 
+        (RB antes)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 30)
+          (PP 
+           (IN de)
+           (NP 
+            (NN agosto)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

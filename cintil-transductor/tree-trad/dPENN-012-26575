@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS empresa)
+     (JJ emergente)
+    )
+   )
+   (VP 
+    (VB terá)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Norris)
+         (NNS McLaughlin)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

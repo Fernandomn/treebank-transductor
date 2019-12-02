@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS monumento)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS mortos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Ultramar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

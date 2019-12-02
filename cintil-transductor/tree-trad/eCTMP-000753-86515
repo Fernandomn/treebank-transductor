@@ -1,0 +1,46 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS vantagem)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB bafeja)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (JJ igual)
+           (NNS modo)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (DT os)
+         (NP 
+          (NNS populares)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT os)
+          (NNS comunistas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

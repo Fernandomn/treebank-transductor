@@ -1,0 +1,126 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Teses)
+    (ADJP 
+     (ADJP 
+      (JJ modernas)
+     )
+     e
+     (ADJP 
+      (JJ sociais)
+     )
+    )
+    (NP 
+     (RB como)
+     (NP 
+      (DT o)
+      (NN controle)
+      (ADJP 
+       (JJ civil)
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NN sistema)
+        (PP 
+         (IN de)
+         (NP 
+          (NN saúde)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP esbarram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN resistências)
+     (ADJP 
+      (JJ enormes)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN setores)
+       (ADJP 
+        (JJ hegemônicos)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP PT)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN sob)
+    (NP 
+     (DT o)
+     (NN argumento)
+     (PP 
+      (IN de)
+      (VP 
+       (IN que)
+       (VP 
+        (VBP amarrariam)
+       )
+       (NP 
+        (DT a)
+        (NN atuação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN governo)
+         )
+        )
+       )
+       (ADVP 
+        (RB logo)
+        (RB agora)
+        (VP 
+         (IN que)
+         (NP 
+          (DT o)
+          (NN partido)
+         )
+         (NP 
+          (PRP se)
+         )
+         (VP 
+          (VBP prepara)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB assumir)
+           )
+           (NP 
+            (DT o)
+            (NN poder)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

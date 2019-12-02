@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Meantime)
+    (NP 
+     (NN disco)
+     (PP 
+      (IN de)
+      (NP 
+       (NN estréia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN banda)
+        )
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NNP Interscope)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vendeu)
+   )
+   (NP 
+    (CD 500)
+    (NN mil)
+    (NN cópias)
+   )
+  )
+ )
+)

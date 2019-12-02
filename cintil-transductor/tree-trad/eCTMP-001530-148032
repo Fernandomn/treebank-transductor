@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS peseta)
+   )
+   (VP 
+    (ADVP 
+     (RB contudo)
+    )
+    (VP 
+     (VB perdeu)
+     (NP 
+      (NP 
+       (JJ grande)
+       (NP 
+        (NNS parte)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS valor)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (PP 
+               (PP 
+                (IN em_)
+                (NP 
+                 (DT a)
+                 (NNS véspera)
+                )
+               )
+              )
+              (VP 
+               (VB tinha)
+               (VP 
+                (VP 
+                 (VB ganho)
+                 (PP 
+                  (IN contra)
+                  (NP 
+                   (DT o)
+                   (NNS marco)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Carolina)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Portugal)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD primeiro)
+         (NP 
+          (NNS bebé)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS ano)
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (RB ontem)
+                (VB começou)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

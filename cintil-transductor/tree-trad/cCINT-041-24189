@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS espectáculo)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (RB propriamente)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (ADJP 
+        (RB mais)
+        (JJ alegres)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

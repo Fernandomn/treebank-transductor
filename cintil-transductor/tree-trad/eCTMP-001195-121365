@@ -1,0 +1,94 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (JJ inadmissível)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (RB não)
+       (VB existam)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS mecanismos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS controlo)
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS responsabilização)
+          (JJ política)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CONJP 
+    (CC quando)
+    (S 
+     (VP 
+      (VB estão)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS jogo)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS questões)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB envolvem)
+          (NP 
+           (NP 
+            (NP 
+             (NP 
+              (DT a)
+              (NNS credibilidade)
+             )
+             (NP 
+              (CC e)
+              (NP 
+               (DT a)
+               (NNS dignidade)
+              )
+             )
+            )
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS Estado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

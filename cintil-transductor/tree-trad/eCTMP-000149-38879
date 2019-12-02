@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS vestígios)
+   )
+   (VP 
+    (VB abundam)
+    (PP 
+     (ADVP 
+      (RB um)
+      (RB pouco)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (PRP todo)
+       (NP 
+        (DT o)
+        (NNS litoral)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

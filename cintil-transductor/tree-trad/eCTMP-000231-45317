@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB podiam)
+     )
+     (VP 
+      (VB ser)
+      (ADJP 
+       (RB mais)
+       (JJ diferentes)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS Nick)
+      (NNS Lang)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS John)
+       (NNS Moss)
+      )
+     )
+    )
+   )
+  )
+ )
+)

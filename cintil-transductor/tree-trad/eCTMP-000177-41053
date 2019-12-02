@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Comportamento)
+     (JJ favorável)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS Conforto)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS habitação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

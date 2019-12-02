@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT essa)
+       (NNS reunião)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (RB também)
+     )
+     (VB aprovado)
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS esboço)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS pergunta)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS autoria)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Alberto)
+            (NNS Martins)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,19 @@
+(
+ (S 
+  (NP 
+   (NNS Fischer)
+  )
+  (VP 
+   (VB quer)
+   (VP 
+    (VB jogar)
+    (PP 
+     (IN com)
+     (NP 
+      (NNS Kasparov)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (NNS Frankfurt)
+    )
+   )
+   (VP 
+    (VP 
+     (VB encerrou)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS alta)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN depois)
+      (IN de)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS sessão)
+       (JJ calma)
+      )
+     )
+    )
+   )
+  )
+ )
+)

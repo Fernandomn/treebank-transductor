@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (JJ principais)
+     (NNS produtos)
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (NP 
+      (DT os)
+      (NNS citrinos)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NNS vegetais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

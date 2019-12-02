@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN resposta)
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN palavras)
+      (ADJP 
+       (VBN cruzadas)
+      )
+      (PP 
+       (IN de)
+       (RB hoje)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN publicadas)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+  )
+ )
+)

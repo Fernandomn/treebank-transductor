@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Metade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS pessoas)
+        (JJ afectadas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (NP 
+      (NNS electricidade)
+     )
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VP 
+        (VB há)
+        (RB precisamente)
+       )
+       (NP 
+        (DT uma)
+        (NNS semana)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Município)
+    (NNS de)
+    (NNS Braga)
+   )
+  )
+  (VP 
+   (VB garante)
+   (NP 
+    (NP 
+     (NNS qualidade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS água)
+      )
+     )
+    )
+   )
+  )
+ )
+)

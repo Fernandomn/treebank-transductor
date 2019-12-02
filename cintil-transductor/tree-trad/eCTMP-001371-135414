@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (RB Só)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT uma)
+        (NNS vez)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB perdi)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (CD cem)
+      )
+     )
+    )
+   )
+  )
+ )
+)

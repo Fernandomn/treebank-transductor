@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS ataque)
+    )
+    (VP 
+     (VB foi)
+     (PP 
+      (IN contra)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS alvo)
+        (JJ legítimo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

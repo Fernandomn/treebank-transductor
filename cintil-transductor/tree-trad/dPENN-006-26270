@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS empreendimento)
+   )
+   (VP 
+    (VP 
+     (VB seria)
+     (NP 
+      (DT o)
+      (NP 
+       (CD último)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ rápida)
+       (NP 
+        (NNS expansão)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NP 
+            (NNS investimentos)
+            (JJ ultramarinos)
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS Coca-Cola)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

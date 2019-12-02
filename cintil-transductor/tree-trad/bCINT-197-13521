@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VB Chegavam)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (NNS cargueiros)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NP 
+          (NNS sacos)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS arroz)
+             (NP 
+              (CC e)
+              (NNS feijão)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (S 
+       (S 
+        (VB comprava)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (RB bem)
+      )
+      (S 
+       (S 
+        (VP 
+         (VB economizando)
+         (ADVP 
+          (RB a_)
+          (RB o)
+          (RB mesmo)
+          (RB tempo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

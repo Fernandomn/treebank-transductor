@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Junto_com)
+    (NP 
+     (DT sua)
+     (NNP Magda_Collares)
+    )
+   )
+   (NP 
+    (NNP Fausto_Silva)
+   )
+   (VP 
+    (VBP decola)
+   )
+   (NP 
+    (NN dia)
+    (ADJP 
+     (CD 13)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN temporada)
+     (PP 
+      (IN de)
+      (NP 
+       (JJ trivial)
+       (VBN variado)
+       (NP 
+        (NP 
+         (NN cultura)
+        )
+        e
+        (NP 
+         (NN showbizz)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Nova_York)
+    )
+   )
+  )
+ )
+)

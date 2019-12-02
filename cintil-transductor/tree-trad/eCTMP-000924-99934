@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (RB bem)
+    )
+    (JJ provável)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT as)
+      (NP 
+       (NNS acções)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS empresa)
+          (JJ nortenha)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB estejam)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ser)
+        (NP 
+         (NP 
+          (NNS alvo)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS operações)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS embelezamento)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

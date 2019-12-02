@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esses)
+    (NNS padrões)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (RB depois)
+    )
+    (VP 
+     (VB confrontados)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS recolhas)
+        (ADJP 
+         (ADJP 
+          (VB fornecidas)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT as)
+            (NNS equipas)
+           )
+          )
+         )
+         (PP 
+          (PP 
+           (PP 
+            (IN a_)
+            (IN o)
+            (IN longo)
+            (IN de_)
+           )
+           (NP 
+            (DT a)
+            (NNS temporada)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

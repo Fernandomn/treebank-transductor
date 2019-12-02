@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Novembro)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 1994)
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS Abril)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT este)
+           (NNS ano)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB houve)
+      (NP 
+       (DT um)
+       (NNS cessar-fogo)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT a)
+       (NNS desmobilização)
+      )
+      (VB começou)
+     )
+    )
+   )
+  )
+ )
+)

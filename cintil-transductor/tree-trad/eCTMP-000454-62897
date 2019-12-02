@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NNS ultimato)
+    )
+   )
+   (CC para)
+   (CC que)
+   (S 
+    (NP 
+     (DT o)
+     (NNS comando)
+    )
+    (VP 
+     (VB reconheça)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS indisciplina)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS entrega)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NNS armas)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS manifestação)
+            (PP 
+             (PP 
+              (IN frente)
+              (IN a_)
+             )
+             (NP 
+              (DT o)
+              (NNS tribunal)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

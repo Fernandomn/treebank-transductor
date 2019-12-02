@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Americanos)
+    (NP 
+     (CC e)
+     (NNS russos)
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS braço-de-ferro)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS mercado)
+         (JJ espacial)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN proposta)
+    (ADJP 
+     (JJ inicial)
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (VP 
+    (VP 
+     (VB zonear)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (JJ primeiro)
+      (NN ano)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN Bacia)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN rio)
+       (NP 
+        (NNP Meia_Ponte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

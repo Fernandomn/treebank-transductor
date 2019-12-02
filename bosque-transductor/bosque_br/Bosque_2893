@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Sua)
+    (NN coluna)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN Copa)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADJP 
+    (JJ diária)
+   )
+  )
+ )
+)

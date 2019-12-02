@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Candelori)
+    )
+   )
+   (NP 
+    (DT seu)
+    (NN curso)
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN sensibilização)
+     (PP 
+      (IN para)
+      (NP 
+       (NN temas)
+       (ADJP 
+        (JJ éticos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Holocausto)
+    (JJ biológico)
+   )
+  )
+  (VP 
+   (VB esteve)
+   (PP 
+    (IN por)
+    (NP 
+     (DT um)
+     (NNS fio)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Também)
+   )
+   (VP 
+    (VBP serão)
+    (VBN submetidas)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (DT mesmo)
+     (NN processo)
+    )
+   )
+   (NP 
+    (DT as)
+    (CD 28)
+    (NN lojas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Body_for_Sure)
+      (NP 
+       (DT a)
+       (NN grife)
+       (ADJP 
+        (JJ esportiva)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN grupo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

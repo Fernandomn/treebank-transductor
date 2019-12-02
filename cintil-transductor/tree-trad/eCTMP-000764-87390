@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Vou)
+      (VP 
+       (VB ficar)
+       (PP 
+        (PP 
+         (IN até)
+         (IN a_)
+        )
+        (NP 
+         (DT o)
+         (NNS fim)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (RB ainda)
+       (VP 
+        (VB quero)
+        (VP 
+         (VB ir)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NP 
+              (NNS After)
+              (NNS Hours)
+             )
+            )
+            (PP 
+             (PP 
+              (IN em_)
+              (NP 
+               (DT o)
+               (NNS Furadouro)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

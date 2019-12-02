@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Talvez)
+   )
+   (NP 
+    (PRP isto)
+   )
+   (VP 
+    (VBP seja)
+   )
+   (NP 
+    (DT muito)
+    (NN barulho)
+    (PP 
+     (IN por)
+     (NP 
+      (PRP nada)
+     )
+    )
+   )
+  )
+ )
+)

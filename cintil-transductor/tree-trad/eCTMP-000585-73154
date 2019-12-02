@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (PRP Nenhuma)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS equipas)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB sabe)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB vale)
+           )
+           (NP 
+            (DT a)
+            (NP 
+             (JJ outra)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB sei)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS andebol)
+           (JJ holandês)
+          )
+         )
+         (VP 
+          (VB é)
+          (ADJP 
+           (JJ parecido)
+           (PP 
+            (IN com)
+            (NP 
+             (DT o)
+             (NP 
+              (PP nosso)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

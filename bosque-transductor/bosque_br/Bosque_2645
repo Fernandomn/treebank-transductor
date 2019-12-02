@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 1929)
+    )
+   )
+   (VP 
+    (VBP inaugurou)
+   )
+   (NP 
+    (NN gravações)
+    (PP 
+     (IN de)
+     (NP 
+      (NN música)
+      (ADJP 
+       (JJ caipira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

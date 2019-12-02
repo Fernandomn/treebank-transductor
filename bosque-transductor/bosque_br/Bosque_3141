@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Durante)
+     (NP 
+      (DT o)
+      (NN passeio)
+     )
+    )
+    (VP 
+     (VBP escutávamos)
+    )
+    (NP 
+     (DT os)
+     (NN ruídos)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN movimentação)
+       (ADJP 
+        (JJ lenta)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT este)
+         (JJ enorme)
+         (NN rio)
+         (PP 
+          (IN de)
+          (NP 
+           (NN gelo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP contemplávamos)
+    )
+    (NP 
+     (DT os)
+     (NN contrastes)
+     (ADJP 
+      (JJ cromáticos)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN superfície)
+       (VBN congelada)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG refletindo)
+     )
+     (NP 
+      (DT o)
+      (NN céu)
+      (ADJP 
+       (JJ azul)
+      )
+     )
+    )
+   )
+  )
+ )
+)

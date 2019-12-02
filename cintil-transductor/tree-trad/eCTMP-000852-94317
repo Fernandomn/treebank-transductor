@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS franceses)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Paris)
+        (NNS Saint-Germain)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB perderam)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Bucareste)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS Steaua)
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NNS 3-2)
+     )
+    )
+   )
+  )
+ )
+)

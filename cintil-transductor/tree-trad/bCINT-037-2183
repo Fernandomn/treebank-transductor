@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS moral)
+     (JJ católica)
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB feita)
+     (PP 
+      (PP 
+       não só
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS catecismo)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS igreja)
+             (JJ católica)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       mas também
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NP 
+          (NP 
+           (NNS teólogos)
+           (JJ moralistas)
+          )
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB são)
+            (ADJP 
+             (JJ especialistas)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT estas)
+               (NNS áreas)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

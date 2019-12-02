@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS MICROSOFT)
+  )
+  (VP 
+   (VB PLANEIA)
+   (NP 
+    (NP 
+     (NNS INTERNET)
+     (PP 
+      (IN POR)
+      (NP 
+       (NNS SATÉLITE)
+      )
+     )
+    )
+   )
+  )
+ )
+)

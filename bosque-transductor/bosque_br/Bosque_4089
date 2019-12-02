@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (NNP Formaggio)
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN estudo)
+    )
+   )
+   (NP 
+    (DT outras)
+    (NN formas)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB obter)
+      )
+      (NP 
+       (DT a)
+       (NN produtividade)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN culturas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

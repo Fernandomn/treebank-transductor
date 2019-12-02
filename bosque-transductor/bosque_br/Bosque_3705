@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Sobral)
+   )
+   (VP 
+    (IN embora)
+    (VP 
+     (VBP seja)
+    )
+    (ADJP 
+     (CD uma)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (JJ principais)
+       (NN cidades)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Ceará)
+        )
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP dispõe)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (DT um)
+     (NN sistema)
+     (VBN adequado)
+     (PP 
+      (IN de)
+      (NP 
+       (NN esgotos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

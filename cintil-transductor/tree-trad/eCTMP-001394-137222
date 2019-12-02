@@ -1,0 +1,74 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabe)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB está)
+     )
+     (PP 
+      (IN perante)
+      (NP 
+       (NP 
+        (DT um)
+        (NP 
+         (JJ outro)
+         (NP 
+          (NNS filme)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS série)
+             (PP 
+              (IN Contra)
+              (NP 
+               (DT o)
+               (NNS Esquecimento)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (DT um)
+         (NP 
+          (JJ outro)
+          (NP 
+           (NNS caso)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS Amnistia)
+              (NNS Internacional)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

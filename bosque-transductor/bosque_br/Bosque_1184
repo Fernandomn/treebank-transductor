@@ -1,0 +1,24 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN arma)
+    (VBN utilizada)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT uma)
+    (NN pistola)
+    (ADJP 
+     (JJ automática)
+    )
+    (ADJP 
+     (CD 380)
+    )
+   )
+  )
+ )
+)

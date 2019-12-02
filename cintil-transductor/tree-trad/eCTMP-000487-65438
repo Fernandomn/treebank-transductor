@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS Jogos)
+        (NNS Olímpicos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+       (NNS coisa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

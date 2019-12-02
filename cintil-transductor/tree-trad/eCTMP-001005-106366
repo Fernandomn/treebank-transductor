@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Factos)
+     (NP 
+      (CC e)
+      (NNS números)
+     )
+    )
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB apresentados)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Carlos)
+        (NNS Pardal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Taxa)
+  )
+  (VP 
+   (VB sobe)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (CD 65)
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

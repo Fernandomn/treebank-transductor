@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Quadrinhistas)
+    (PP 
+     (IN De+)
+     (NP 
+      (DT o)
+      (NNP Brasil)
+      (ADJP 
+       (JJ inteiro)
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP reúnem)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (NP 
+      (NN sexta-feira)
+     )
+     e
+     (NP 
+      (NN domingo)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Araxá)
+     (NP 
+      (NNP MG)
+     )
+    )
+   )
+  )
+ )
+)

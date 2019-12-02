@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS Desemprego)
+  )
+  (VP 
+   (VB sobe)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS Estados)
+      (NNS Unidos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Recebeu)
+      (NP 
+       (DT a)
+       (NNS bola)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Quim)
+        (NNS Berto)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB marcou)
+    )
+   )
+  )
+ )
+)

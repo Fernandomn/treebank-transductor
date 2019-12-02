@@ -1,0 +1,106 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Começou)
+   )
+   (ADVP 
+    (RB bem)
+    (RB antes)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBP previa)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN batalha)
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (JJ futura)
+      (NN sucessão)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NNP Fifa)
+       )
+      )
+     )
+    )
+   )
+   (ADJP 
+    (RB apenas)
+    (CD seis)
+    (NP 
+     (NN meses)
+     (ADVP 
+      (RB depois)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN super-acordo)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT as)
+           (NN vésperas)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN Copa)
+            )
+           )
+          )
+         )
+         (VP 
+          (VBP reconduziu)
+         )
+         (NP 
+          (DT o)
+          (NN brasileiro)
+          (NP 
+           (NNP João_Havelange)
+          )
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (JJ sexto)
+           (NN mandato)
+           (ADJP 
+            (JJ consecutivo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

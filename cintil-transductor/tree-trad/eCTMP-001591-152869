@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Prevê)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NP 
+        (NNS adesão)
+        (JJ total)
+       )
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS greve)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (PP 
+     (IN segundo)
+     (NP 
+      (NP 
+       (NNS Paulo)
+       (NNS Trindade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

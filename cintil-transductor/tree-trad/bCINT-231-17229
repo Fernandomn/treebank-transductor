@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS paragem)
+    )
+    (VP 
+     (VB prolonga)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT o)
+      (NNS ar)
+     )
+     (VP 
+      (VB começa)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ficar)
+        (ADJP 
+         (ADJP 
+          (RB tão)
+          (JJ saturado)
+         )
+         (CONJP 
+          (CC como)
+          (NP 
+           (DT a)
+           (NNS carruagem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

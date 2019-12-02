@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VB Deve)
+   (VP 
+    (VP 
+     (VB haver)
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (NNS coisa)
+       (PP 
+        (IN sobre)
+        (NP 
+         (PRP eles)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT este)
+      (NP 
+       (NNS folheto)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS deserto)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Sara)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

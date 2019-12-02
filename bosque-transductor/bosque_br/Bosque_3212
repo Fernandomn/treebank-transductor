@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (RB Apenas)
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP Bahia)
+    )
+   )
+   (ADVP 
+    (RB por_exemplo)
+   )
+   (NP 
+    (DT o)
+    (NN comando)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Polícia_Militar)
+      (ADJP 
+       (JJ estadual)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP informa)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP foram)
+    )
+    (NP 
+     (CD 350)
+     (NN casos)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (JJ últimos)
+      (CD quatro)
+      (NN anos)
+     )
+    )
+   )
+  )
+ )
+)

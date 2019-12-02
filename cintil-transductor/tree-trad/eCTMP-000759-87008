@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Contra)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS lei)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS saúde)
+         (JJ mental)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

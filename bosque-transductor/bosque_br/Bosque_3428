@@ -1,0 +1,33 @@
+(
+ (S 
+  (PP 
+   (ADJP 
+    (JJ I)
+   )
+   (IN em+)
+   (NP 
+    (NP 
+     (DT os)
+     (NN preços)
+     (ADJP 
+      (JJ públicos)
+     )
+    )
+    e
+    (NP 
+     (NN tarifas)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN serviços)
+       (ADJP 
+        (JJ públicos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

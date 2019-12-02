@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (NN Carvalho)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP está)
+    (VBG avaliando)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP pode)
+     (VB ampliar)
+    )
+    (NP 
+     (DT seu)
+     (NN espectro)
+     (PP 
+      (IN de)
+      (NP 
+       (NN opções)
+      )
+     )
+    )
+    (PP 
+     (IN sem)
+     (NP 
+      (DT a)
+      (NN necessidade)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NN mudança)
+        (ADJP 
+         (JJ radical)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

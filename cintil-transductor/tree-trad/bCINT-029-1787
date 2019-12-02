@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Escola)
+    (NNS de)
+    (NNS Mulheres)
+   )
+  )
+  (VP 
+   (VP 
+    (VB apresenta)
+    (NP 
+     (NP 
+      (NNS cabaré)
+      (JJ sentimental)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Comuna)
+    )
+   )
+  )
+ )
+)

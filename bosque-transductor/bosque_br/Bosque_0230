@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Próximo_a+)
+    (NP 
+     (DT a)
+     (NN praça)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN alimentação)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NN sushiman)
+   )
+   (VP 
+    (VBP estará)
+    (VBG preparando)
+   )
+   (NP 
+    (NN pratos)
+    (ADJP 
+     (JJ típicos)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (NP 
+      (NN sashimis)
+     )
+     e
+     (NP 
+      (DT o)
+      (NN sushi)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP estarão)
+       )
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN venda)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

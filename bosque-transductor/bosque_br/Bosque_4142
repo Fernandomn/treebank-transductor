@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT cada)
+     (NN parte)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN submarino)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN isolamento)
+   )
+   (VP 
+    (VP 
+     (VBG evitando)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (NN acidentes)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT uma)
+        (NN parte)
+       )
+      )
+     )
+     (VP 
+      (VBP atinjam)
+     )
+     (NP 
+      (DT as)
+      (DT outras)
+     )
+    )
+   )
+  )
+ )
+)

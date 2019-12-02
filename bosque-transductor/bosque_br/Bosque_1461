@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje)
+   )
+   (NP 
+    (PRP nós)
+   )
+   (VP 
+    (VBP temos)
+   )
+   (NP 
+    (DT o)
+    (JJ maior)
+    (NN setor)
+    (ADJP 
+     (JJ agrícola)
+    )
+    (ADJP 
+     (JJ privado)
+    )
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT os)
+     (NN países)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Comunidade_de_Estados_Independentes)
+       (NP 
+        (NN aliança)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP substituiu)
+         )
+         (NP 
+          (DT a)
+          (NNP URSS)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

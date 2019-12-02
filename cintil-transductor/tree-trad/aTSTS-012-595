@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB copiou)
+     (NP 
+      (DT o)
+      (NNS teste)
+     )
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT o)
+      (NNS Manuel)
+     )
+    )
+   )
+  )
+ )
+)

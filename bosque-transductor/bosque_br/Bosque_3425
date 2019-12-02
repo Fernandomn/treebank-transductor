@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NP ex-jogador)
+   )
+   (VP 
+    (VBP assumiu)
+   )
+   (NP 
+    (DT o)
+    (NN cargo)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN substituição)
+     (PP 
+      (IN a)
+      (NP 
+       (NNP Carlinhos)
+       (VP 
+        (VP 
+         (VBN demitido)
+        )
+        (PP 
+         (IN após)
+         (NP 
+          (DT a)
+          (NN derrota)
+          (PP 
+           (IN para)
+           (NP 
+            (DT o)
+            (NNP Bahia)
+           )
+          )
+          (NP 
+           (CD 0)
+           (PP 
+            (IN a)
+            (ADJP 
+             (CD 1)
+            )
+           )
+          )
+         )
+        )
+        (ADVP 
+         (RB anteontem)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

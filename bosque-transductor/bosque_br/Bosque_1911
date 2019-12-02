@@ -1,0 +1,118 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN personagens)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Cerimônia_de_Casamento)
+     )
+    )
+   )
+   (VP 
+    (VBP parecem)
+   )
+   (VP 
+    (VP 
+     (VBN saídos)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN páginas)
+      (PP 
+       (IN de)
+       (VBN recém-casados)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP The_New_York_Times)
+       )
+      )
+      (NP 
+       (DT uma)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN seções)
+         (ADJP 
+          (RB mais)
+          (JJ provincianas)
+         )
+         (PP 
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN imprensa)
+            (ADJP 
+             (JJ mundial)
+            )
+           )
+          )
+          e
+          (PP 
+           (IN de)
+           (NP 
+            (JJ maior)
+            (NN leitura)
+           )
+          )
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT um)
+           (NN jornal)
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (VP 
+             (VBP vende)
+            )
+            (NP 
+             (DT a)
+             (NN imagem)
+             (PP 
+              (IN de)
+              (ADJP 
+               (CD um)
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT os)
+                 (ADJP 
+                  (RB mais)
+                  (JJ cosmopolitas)
+                  (PP 
+                   (IN de+)
+                   (NP 
+                    (DT o)
+                    (NN mundo)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

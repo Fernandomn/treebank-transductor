@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cimeira)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS talentos)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Coliseu)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB tiver)
+        )
+        (NP 
+         (DT um)
+         (NP 
+          (NNS mínimo)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS características)
+             (JJ arianas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB não)
+     (VB entra)
+    )
+   )
+  )
+ )
+)

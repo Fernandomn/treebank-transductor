@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS tábuas)
+   )
+   (VP 
+    (VB são)
+    (VP 
+     (VP 
+      (VB cortadas)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS medida)
+       )
+      )
+     )
+     (VP 
+      (CC e)
+      (VP 
+       (VB alisadas)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS máquina)
+          (JJ própria)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

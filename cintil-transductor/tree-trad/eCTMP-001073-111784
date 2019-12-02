@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS UNITA)
+    )
+    (VP 
+     (VP 
+      (VB cuida)
+      (ADVP 
+       (RB muito)
+       (RB bem)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NNS deficientes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN permanência)
+    (PP 
+     (IN em)
+     (NP 
+      (DT cada)
+      (NN cabine)
+     )
+    )
+   )
+   (ADVP 
+    (RB ainda)
+    (RB não)
+   )
+   (VP 
+    (VBP foi)
+    (VBN definida)
+   )
+  )
+ )
+)

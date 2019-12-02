@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NNS Riopele)
+  )
+  (VP 
+   (VB comprou)
+   (NP 
+    (DT as)
+    (NP 
+     (NNS acções)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS FLAD)
+      )
+     )
+    )
+   )
+  )
+ )
+)

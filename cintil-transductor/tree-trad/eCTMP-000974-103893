@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CC Se)
+     (S 
+      (VB perdermos)
+     )
+    )
+    (VP 
+     (VB dissemos)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB queríamos)
+          (VP 
+           (VB dizer)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

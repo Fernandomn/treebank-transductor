@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lula)
+   )
+   (VP 
+    (VBP fica)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP África_do_Sul)
+    )
+   )
+   (PP 
+    (IN até)
+    (NP 
+     (NN quarta-feira)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN noite)
+       (VP 
+        (ADVP 
+         (RB quando)
+        )
+        (VP 
+         (VBP viaja)
+        )
+        (ADVP 
+         (RB então)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NNP Alemanha)
+          (VP 
+           (ADVP 
+            (RB onde)
+           )
+           (VP 
+            (VBP permanece)
+           )
+           (PP 
+            (IN até)
+            (NP 
+             (NN sexta-feira)
+             (PP 
+              (IN a+)
+              (NP 
+               (DT a)
+               (NN noite)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

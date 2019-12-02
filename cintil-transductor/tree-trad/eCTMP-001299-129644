@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB É)
+       (JJ imoral)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB disse)
+     )
+     (NP 
+      (NNS Cardoso)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS repórteres)
+     )
+    )
+   )
+  )
+ )
+)

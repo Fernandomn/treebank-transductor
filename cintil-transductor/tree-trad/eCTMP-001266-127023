@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS rapariga)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB foi)
+         (VP 
+          (VB devolvida)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NNS família)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

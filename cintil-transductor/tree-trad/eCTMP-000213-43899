@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS participação)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB mede)
+          )
+         )
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NNS oportunidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Congresso)
+     (NNS de_)
+     (NNS o)
+     (NNS PS)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+     (RB ainda)
+    )
+    (NP 
+     (NP 
+      (NNS data)
+      (JJ marcada)
+     )
+    )
+   )
+  )
+ )
+)

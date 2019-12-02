@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS WC)
+     )
+     (VP 
+      (VB está)
+      (ADJP 
+       (VB fechado)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT a)
+       (NNS chave)
+      )
+      (VP 
+       (VB está)
+       (PP 
+        (PP 
+         (IN em)
+         (IN cima)
+         (IN de)
+        )
+        (NP 
+         (DT uma)
+         (NNS mesa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

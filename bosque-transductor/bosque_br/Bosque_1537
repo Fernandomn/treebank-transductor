@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Sequer)
+   )
+   (NP 
+    (PRP lhe)
+   )
+   (VP 
+    (VBP ocorreu)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN em)
+     (NP 
+      (NN fevereiro)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN excesso)
+     (PP 
+      (IN de)
+      (NP 
+       (NN aumento)
+      )
+     )
+    )
+    (VP 
+     (VBP poderia)
+     (VB ser)
+     (VBN compensado)
+    )
+   )
+  )
+ )
+)

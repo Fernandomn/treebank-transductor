@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Portanto)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS senhora)
+      (NNS Conceição)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB pode)
+     )
+     (VP 
+      (VP 
+       (VB ficar)
+       (PP 
+        (RB apenas)
+        (PP 
+         (IN com)
+         (NP 
+          (DT um)
+          (NNS ovo)
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS fim)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

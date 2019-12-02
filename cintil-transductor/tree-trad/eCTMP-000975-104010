@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT este)
+     (NP 
+      (NNS caso)
+      (JJ concreto)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS acções)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB estavam)
+      )
+      (JJ contabilizadas)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS registos)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Corretora)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

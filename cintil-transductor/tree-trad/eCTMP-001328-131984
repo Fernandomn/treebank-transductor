@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Com)
+      (NP 
+       (DT os)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB quiserem)
+           (VP 
+            (VB estar)
+            (PP 
+             (IN com_)
+             (NP 
+              (PRP mim)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

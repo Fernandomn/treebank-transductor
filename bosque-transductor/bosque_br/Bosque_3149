@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN documento)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP sugere)
+   )
+   (NP 
+    (DT a)
+    (NN criação)
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NN sistemática)
+      (ADJP 
+       (JJ mensal)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN acompanhamento)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

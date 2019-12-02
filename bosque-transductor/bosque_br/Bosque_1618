@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Estou)
+   )
+   (ADJP 
+    (JJ surpreso)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (NP 
+      (NNP Franco)
+     )
+     (VP 
+      (VBP disse)
+     )
+     (IN a)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT as)
+       (NN declarações)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN mãe)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

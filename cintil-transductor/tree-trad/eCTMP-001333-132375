@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Agora)
+      (VP 
+       (VB vêm)
+       (RB aí)
+      )
+     )
+     (NP 
+      (DT as)
+      (NNS férias)
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (CD último)
+       (NP 
+        (NNS pagamento)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB recebemos)
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB foi)
+      (NP 
+       (DT o)
+       (NP 
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Agosto)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NP 
+              (NNS ano)
+              (JJ passado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

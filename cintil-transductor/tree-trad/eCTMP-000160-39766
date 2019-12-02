@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Demoliram)
+    (NP 
+     (NP 
+      (NP 
+       (NNS bairros)
+       (ADJP 
+        (JJ idênticos)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT os)
+          (NP 
+           (PP nossos)
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB tinham)
+         (NP 
+          (NNS problemas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS farmacêuticos)
+   )
+   (VP 
+    (VP 
+     (VB devem)
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NNS prestígio)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS faculdades)
+       (CONJP 
+        (RB onde)
+        (S 
+         (VP 
+          (VP 
+           (NP 
+            (PRP se)
+           )
+           (VB licenciaram)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

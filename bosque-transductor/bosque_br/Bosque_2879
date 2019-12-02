@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN vocais)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNP Callahan)
+      )
+      e
+      (NP 
+       (NNP English)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN calcados)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN extremo)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNP Michael_Stipe)
+       )
+       e
+       (NP 
+        (NNP Mike_Mills)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

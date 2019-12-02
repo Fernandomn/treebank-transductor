@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NNS pessoas)
+    )
+    (VP 
+     (RB só)
+     (VP 
+      (VP 
+       (VB mudam)
+       (NP 
+        (DT os)
+        (NNS comportamentos)
+       )
+      )
+      (CONJP 
+       (CC quando)
+       (S 
+        (NP 
+         (DT os)
+         (NNS benefícios)
+        )
+        (VP 
+         (VB são)
+         (ADJP 
+          (JJ superiores)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT os)
+            (NNS custos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

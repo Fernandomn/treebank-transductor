@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (CD segundo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB havia)
+     (NP 
+      (DT um)
+      (NNS lapso)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS provas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Francês)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

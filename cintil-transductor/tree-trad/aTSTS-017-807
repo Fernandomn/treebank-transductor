@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS depoimento)
+       (PP 
+        (IN contra)
+        (NP 
+         (DT a)
+         (NNS decisão)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS advogado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

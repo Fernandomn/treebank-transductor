@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Aquele)
+    (NNS cliente)
+   )
+   (VP 
+    (VB gosta)
+    (PP 
+     (RB apenas)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS vinho)
+        (JJ branco)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

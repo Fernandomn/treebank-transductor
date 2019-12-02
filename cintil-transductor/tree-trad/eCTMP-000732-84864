@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Autoridades)
+    (JJ russas)
+   )
+  )
+  (VP 
+   (VB falam)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (CD dois)
+      (CD mil)
+     )
+     (NP 
+      (NNS mortos)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS sismo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Toda)
+    (NP 
+     (DT a)
+     (NNS gente)
+    )
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VB colaborar)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS programa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

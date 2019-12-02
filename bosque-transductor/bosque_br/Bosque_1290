@@ -1,0 +1,56 @@
+(
+ (S 
+  (NP 
+   (NN Resposta)
+   (ADJP 
+    (JJ Injusta)
+   )
+   (VP 
+    (RB principalmente)
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (PRP nos)
+    )
+    (VP 
+     (VBP acusa)
+    )
+    (PP 
+     (IN de)
+     (UCP 
+      (NP 
+       (NN tráfico)
+       (PP 
+        (IN de)
+        (NP 
+         (NN drogas)
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB participar)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NN quadrilha)
+          )
+          e
+          (NP 
+           (NN sequestro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

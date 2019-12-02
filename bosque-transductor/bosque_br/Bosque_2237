@@ -1,0 +1,120 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN subprodutos)
+       (ADJP 
+        (RB mais)
+        (JJ irônicos)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN pesquisa)
+        )
+       )
+       (VP 
+        (NP 
+         (DT a)
+         (NN tecnologia)
+         (VP 
+          (VP 
+           (VBN criada)
+          )
+          (PP 
+           (IN para)
+           (NP 
+            (DT uma)
+            (NN casa)
+            (ADJP 
+             (JJ orbital)
+            )
+            (PP 
+             (IN de)
+             (NP 
+              (NN bilhões)
+              (PP 
+               (IN de)
+               (NP 
+                (NN dólares)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN estação)
+    (NP 
+     (NNP Freedom)
+    )
+   )
+   (VP 
+    (VBP poderá)
+    (VB facilitar)
+   )
+   (NP 
+    (DT a)
+    (NN construção)
+    (PP 
+     (IN de)
+     (NP 
+      (NN casas)
+      (ADJP 
+       (JJ populares)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN Terra)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NNP Ercole_Américo_Carpentieri_Jr.)
+     (NP 
+      (NN diretor)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN filial)
+        (ADJP 
+         (JJ brasileira)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Micro-bac)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

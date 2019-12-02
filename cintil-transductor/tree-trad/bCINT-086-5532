@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS comissário)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB ter)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS porta-voz)
+        (JJ financeiro)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (S 
+      (NP 
+       (NNS Simonetta)
+      )
+      (VB sobe)
+     )
+     (S 
+      (CC e)
+      (S 
+       (NP 
+        (NP 
+         (NNS Nascimento)
+         (NNS Rodrigues)
+        )
+       )
+       (VP 
+        (VB é)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ novo)
+          (NP 
+           (NNS secretário)
+           (NNS de_)
+           (NNS a)
+           (NNS Assembleia)
+           (NNS Geral)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

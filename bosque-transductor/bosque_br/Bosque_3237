@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN detetive)
+     (NP 
+      (NNP Paulo_Araújo)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN delegacia)
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (NP 
+    (DT um)
+    (NN telefonema)
+    (PP 
+     (IN de)
+     (NP 
+      (NN homens)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBP identificaram)
+       )
+       (NP 
+        (RB como)
+        (NP 
+         (NN traficantes)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN morro)
+           (ADJP 
+            (JJ Azul)
+           )
+          )
+          (PP 
+           (IN em+)
+           (NP 
+            (DT o)
+            (NNP Flamengo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

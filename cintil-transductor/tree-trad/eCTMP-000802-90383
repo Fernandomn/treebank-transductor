@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS prazo)
+      (JJ máximo)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS empréstimo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de)
+     (NP 
+      (CD sete)
+      (NNS anos)
+     )
+    )
+   )
+  )
+ )
+)

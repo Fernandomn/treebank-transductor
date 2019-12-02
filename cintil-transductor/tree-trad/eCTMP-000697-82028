@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Será)
+    (VP 
+     (VP 
+      (VB ministrado)
+      (PP 
+       (PP 
+        (IN entre)
+        (NP 
+         (DT outros)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Svetlana)
+          (NNS Ossieva)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Boris)
+           (NNS Bregvadze)
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS professores)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS dança)
+             (JJ clássica)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Academia)
+            (NNS Vaganova)
+            (NNS de)
+            (NNS São)
+            (NNS Petersburgo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

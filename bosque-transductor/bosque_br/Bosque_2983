@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT o)
+    (NN caso)
+   )
+   (PP 
+    (IN entre)
+    (NP 
+     (DT outros)
+    )
+   )
+   (NP 
+    (PP 
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN deputado)
+       (NP 
+        (NNP Sérgio_Machado)
+       )
+       (NP 
+        (NNP Villejack_Jeans)
+       )
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN senador)
+       (NP 
+        (NNP Teotônio_Vilela_Filho)
+       )
+       (NP 
+        (NP 
+         (NNP Mata_Verde_Agropecuário)
+        )
+        (NP 
+         (NNP Usina_Seresta)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN senador)
+       (NP 
+        (NNP Albano_Franco)
+       )
+       (NP 
+        (NN presidente)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP Confederação_Nacional_da_Indústria)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

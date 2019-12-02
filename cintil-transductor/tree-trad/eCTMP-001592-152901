@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VB tinha)
+      (NP 
+       (CD 40)
+       (NNS francos)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS carteira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

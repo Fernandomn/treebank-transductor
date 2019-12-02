@@ -1,0 +1,71 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Por_)
+     (NP 
+      (DT o)
+      (NNS caminho)
+     )
+    )
+    (VP 
+     (VB serão)
+     (VP 
+      (VB acompanhados)
+      (PP 
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS Mareantes)
+          (NNS de_)
+          (NNS o)
+          (NNS Rio)
+          (NNS Douro)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (PP 
+          (IN por_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Rancho)
+            (NNS Folclórico)
+            (NNS de_)
+            (NNS o)
+            (NNS Porto)
+           )
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN por_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Confraria)
+             (NNS de_)
+             (NNS o)
+             (NNS Vinho)
+             (NNS de_)
+             (NNS o)
+             (NNS Porto)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

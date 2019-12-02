@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN nome)
+    (ADJP 
+     (JJ oficial)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN projeto)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (NNP Depse_1)
+    (NP 
+     (NNP Deep_Space_Program_Science_Experiment)
+    )
+   )
+  )
+ )
+)

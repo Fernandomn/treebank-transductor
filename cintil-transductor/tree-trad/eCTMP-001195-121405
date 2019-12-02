@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Poucos)
+     (NP 
+      (NNS anos)
+      (RB depois)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS nome)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS programa)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB mudava)
+    )
+   )
+  )
+ )
+)

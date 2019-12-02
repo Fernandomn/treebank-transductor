@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Imagens)
+    (JJ encaixotadas)
+   )
+  )
+  (S 
+   (VP 
+    (VP 
+     (VB há)
+     (PP 
+      (RB mais)
+      (PP 
+       (IN de)
+       (NP 
+        (CD sete)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

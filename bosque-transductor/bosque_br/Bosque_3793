@@ -1,0 +1,98 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Estes)
+    (NN problemas)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ frequentes)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN homens)
+    )
+   )
+   (VP 
+    (IN pois)
+    (PP 
+     (IN além_de)
+     (VP 
+      (VP 
+       (VB terem)
+      )
+      (NP 
+       (DT uma)
+       (NN possibilidade)
+       (ADJP 
+        (JJ menor)
+       )
+       (IN de)
+       (VP 
+        (VP 
+         (VP 
+          (VB casarem)
+         )
+         (CC e)
+         (VP 
+          (VP 
+           (VB terem)
+          )
+          (NP 
+           (NN filhos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT esses)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP são)
+    )
+    (NP 
+     (DT os)
+     (NN tipos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN papéis)
+       (VP 
+        (ADVP 
+         (RB socialmente)
+        )
+        (VP 
+         (VBN esperados)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NN sexo)
+          (ADJP 
+           (JJ masculino)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

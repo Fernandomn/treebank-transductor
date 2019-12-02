@@ -1,0 +1,118 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Pode-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB dizer)
+   )
+   (PP 
+    (PP 
+     (IN em)
+     (NP 
+      (DT outras)
+      (NN palavras)
+     )
+    )
+    e
+    (PP 
+     (IN a)
+     (NP 
+      (JJ grosso)
+      (NN modo)
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN aluguel)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ primeiro)
+       (NN mês)
+       (PP 
+        (IN de)
+        (NP 
+         (NN reajuste)
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB sempre)
+    )
+    (VP 
+     (VBP embute)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN estimativa)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NN inflação)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP reduzirá)
+      )
+      (NP 
+       (DT o)
+       (NN aluguel)
+       (ADJP 
+        (JJ nominal)
+       )
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (DT seu)
+        (NN valor)
+        (ADJP 
+         (JJ real)
+        )
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN metade)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN período)
+          (PP 
+           (IN de)
+           (NP 
+            (NN reajuste)
+            (ADJP 
+             (JJ subsequente)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

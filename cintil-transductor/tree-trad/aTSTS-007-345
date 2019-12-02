@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (JJ grande)
+      (NP 
+       (NNS consumidor)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS livros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

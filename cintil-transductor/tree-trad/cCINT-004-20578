@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS padre)
+     )
+     (VP 
+      (VB rezou)
+      (NP 
+       (DT uma)
+       (NP 
+        (CD última)
+        (NNS oração)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS caixão)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB foi)
+        (RB então)
+       )
+       (VP 
+        (VB colocado)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS forno)
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS ajuda)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS cordas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

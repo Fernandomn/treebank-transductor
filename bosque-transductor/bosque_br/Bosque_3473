@@ -1,0 +1,159 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A)
+    (NP 
+     (DT uma)
+     (NN pergunta)
+     (PP 
+      (IN sobre)
+      (VP 
+       (IN se)
+       (NP 
+        (DT a)
+        (NN volta)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN investimentos)
+          (ADJP 
+           (JJ externos)
+          )
+         )
+        )
+       )
+       (ADVP 
+        (RB não)
+       )
+       (VP 
+        (VBP dependeria)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN selo)
+         (PP 
+          (IN de)
+          (NP 
+           (NN aprovação)
+          )
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NNP Plano_Real)
+           (ADVP 
+            (RB através)
+            (PP 
+             (IN de)
+             (NP 
+              (DT um)
+              (NN acordo)
+              (ADJP 
+               (JJ formal)
+              )
+              (PP 
+               (IN entre)
+               (NP 
+                (NP 
+                 (DT o)
+                 (NNP FMI)
+                )
+                e
+                (NP 
+                 (DT o)
+                 (NNP Brasil)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Camdessus)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (NP 
+      (PRP o_que)
+     )
+     (VP 
+      (VBP vai)
+      (VB fazer)
+     )
+     (VP 
+      (NP 
+       (DT a)
+       (NN taxa)
+       (PP 
+        (IN de)
+        (NP 
+         (NN juros)
+        )
+       )
+      )
+      (VP 
+       (VB cair)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP é)
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NN acordo)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNP FMI)
+       )
+      )
+     )
+     mas
+     (NP 
+      (DT a)
+      (NN credibilidade)
+      (ADJP 
+       (ADJP 
+        (JJ interna)
+       )
+       e
+       (ADJP 
+        (JJ externa)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Plano_Real)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

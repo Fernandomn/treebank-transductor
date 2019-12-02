@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Tem)
+    (IN que)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VB demonstrar)
+   )
+   (ADVP 
+    (RB através)
+    (PP 
+     (PP 
+      (IN de)
+      (NP 
+       (NN contas)
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN raciocínios)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NN expurgo)
+    )
+    (VP 
+     (VBP significará)
+    )
+    (NP 
+     (NN perda)
+    )
+   )
+  )
+ )
+)

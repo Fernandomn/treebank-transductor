@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Soltou)
+     (NP 
+      (DT um)
+      (NP 
+       (JJ sonoro)
+       (NNS grito)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB voltou)
+      (PP 
+       (IN a)
+       (VB atacar)
+      )
+     )
+    )
+   )
+  )
+ )
+)

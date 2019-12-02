@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Afinal)
+   )
+   (S 
+    (VP 
+     (VB prefere)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT aquilo)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB conhece)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN acordo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN dívida)
+     )
+    )
+   )
+   (VP 
+    (VBP implica)
+   )
+   (NP 
+    (DT a)
+    (NN troca)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN papéis)
+      (ADJP 
+       (JJ atuais)
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (DT uma)
+      (NN combinação)
+      (PP 
+       (IN de)
+       (NP 
+        (CD cinco)
+        (NN tipos)
+        (ADJP 
+         (JJ diferentes)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (JJ novos)
+          (NN papéis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

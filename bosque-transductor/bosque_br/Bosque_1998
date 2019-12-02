@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP desvendaram)
+   )
+   (NP 
+    (DT o)
+    (NN mistério)
+    (PP 
+     (IN de+)
+     (NP 
+      (NP 
+       (DT a)
+       (DT sua)
+       (NN ligação)
+       (PP 
+        (IN com)
+        (NP 
+         (DT outros)
+         (NN rios)
+        )
+       )
+       (VP 
+        (VP 
+         (VBN feita)
+        )
+        (ADVP 
+         (RB através)
+         (PP 
+          (IN de)
+          (NP 
+           (NN canais)
+           (VP 
+            (VP 
+             (VBN abertos)
+            )
+            (PP 
+             (IN por+)
+             (NP 
+              (DT o)
+              (NN homem)
+             )
+            )
+            (PP 
+             (IN para)
+             (NP 
+              (NP 
+               (DT o)
+               (NN comércio)
+              )
+              e
+              (NP 
+               (DT o)
+               (NN contrabando)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

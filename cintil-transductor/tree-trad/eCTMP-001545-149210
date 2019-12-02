@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB é)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (JJ única)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (S 
+      (VP 
+       (VB é)
+       (NP 
+        (DT uma)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VB está)
+        (PP 
+         (IN a)
+         (VP 
+          (VB ter)
+          (NP 
+           (PRP algum)
+           (NNS significado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

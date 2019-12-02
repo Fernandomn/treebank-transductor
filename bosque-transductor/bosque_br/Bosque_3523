@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Luciano_Huck)
+    (NP 
+     (CD 22)
+    )
+    (ADJP 
+     (CD um)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN proprietários)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN bar)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NN profeta)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN turma)
+     )
+    )
+   )
+  )
+ )
+)

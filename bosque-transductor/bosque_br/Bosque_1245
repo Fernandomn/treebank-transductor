@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Muitos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN cassinos)
+     )
+    )
+   )
+   (VP 
+    (VBP têm)
+   )
+   (NP 
+    (JJ grandes)
+    (NN grupos)
+    (RB por_trás)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP usam)
+     )
+     (NP 
+      (NN incentivos)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT os)
+        (NN índios)
+       )
+      )
+     )
+     (NP 
+      (RB como)
+      (NP 
+       (NN fachada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

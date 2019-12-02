@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alves)
+     (NNS Costa)
+    )
+   )
+   (VP 
+    (VP 
+     (VB conclui)
+     (NP 
+      (DT esta)
+      (NP 
+       (NNS chuva)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS críticas)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS pergunta)
+       (JJ sintomática)
+      )
+     )
+    )
+   )
+  )
+ )
+)

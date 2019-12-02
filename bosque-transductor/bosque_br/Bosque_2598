@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Secretaria_Municipal_da_Administração)
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP poderá)
+     (VB rever)
+    )
+    (NP 
+     (DT o)
+     (NN decreto)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN prefeito)
+       (NP 
+        (NNP Paulo_Maluf)
+       )
+      )
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP proíbe)
+      )
+      (NP 
+       (DT a)
+       (NN contratação)
+       (PP 
+        (IN de)
+        (NP 
+         (NN portadores)
+         (PP 
+          (IN de)
+          (NP 
+           (NN doenças)
+          )
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (NN possibilidade)
+           (PP 
+            (IN de)
+            (VP 
+             (NP 
+              (PRP se)
+             )
+             (VP 
+              (VB tornarem)
+             )
+             (ADJP 
+              (JJ incapazes)
+             )
+             (PP 
+              (IN em+)
+              (NP 
+               (DT o)
+               (NN futuro)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

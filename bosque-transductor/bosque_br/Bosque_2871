@@ -1,0 +1,174 @@
+(
+ (S 
+  (NP 
+   (NN Art._1º)
+   (VP 
+    (VB Dispensar)
+   )
+   (NP 
+    (DT a)
+    (NN obrigatoriedade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN expressão)
+      (PP 
+       (IN de)
+       (NP 
+        (NN valores)
+        (PP 
+         (IN em)
+         (NP 
+          (NN cruzeiros)
+          (ADJP 
+           (JJ reais)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG constante)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN incisos)
+       (UCP 
+        (ADJP 
+         (JJ II)
+        )
+        e
+        (ADJP 
+         (JJ III)
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN art.)
+          (ADJP 
+           (JJ 8º)
+          )
+         )
+        )
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN medida)
+          (ADJP 
+           (JJ provisória)
+          )
+          (NP 
+           (NN nº)
+          )
+          (ADJP 
+           (CD 482)
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (CD 29)
+            (PP 
+             (IN de)
+             (NP 
+              (NN abril)
+              (PP 
+               (IN de)
+               (ADJP 
+                (CD 1994)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (IN desde_que)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN caso)
+      (PP 
+       (IN de)
+       (NP 
+        (NN fixação)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN preços)
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NNP Unidade_Real_de_Valor)
+          (NP 
+           (NNP URV)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP seja)
+     (VBN exposto)
+    )
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NN lugar)
+       (ADJP 
+        (JJ visível)
+       )
+      )
+     )
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (JJ fácil)
+       (NN leitura)
+      )
+     )
+    )
+    (NP 
+     (DT o)
+     (NN valor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP URV)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN dia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

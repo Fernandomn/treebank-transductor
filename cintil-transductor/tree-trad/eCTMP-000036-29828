@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS israelitas)
+   )
+   (VP 
+    (VB dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (VP 
+         (RB não)
+         (VB abandonarão)
+        )
+        (NP 
+         (DT a)
+         (NP 
+          (PP sua)
+          (NP 
+           (NP 
+            (NNS zona)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS segurança)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (CONJP 
+        (CC enquanto)
+        (S 
+         (NP 
+          (DT os)
+          (NNS sírios)
+         )
+         (VP 
+          (VB continuarem)
+          (PP 
+           (IN a)
+           (VP 
+            (VB ocupar)
+            (NP 
+             (DT o)
+             (NNS Líbano)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

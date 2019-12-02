@@ -1,0 +1,90 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN presidente)
+     (PP 
+      (IN de+)
+      (NP 
+       (NP 
+        (DT a)
+        (NNP Matis-Paris_Brasil)
+        (NP 
+         (NNP Lourenço_Lopes)
+        )
+        (ADJP 
+         (CD 44)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN empresa)
+    (ADJP 
+     (JJ francesa)
+    )
+   )
+   (VP 
+    (VBP foi)
+    (VBN escolhida)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB ter)
+     )
+     (NP 
+      (NP 
+       (DT mais)
+       (NN estrutura)
+      )
+      e
+      (NP 
+       (NN número)
+       (PP 
+        (IN de)
+        (NP 
+         (NN produtos)
+         (PP 
+          (IN para)
+          (NP 
+           (NN clínicas)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NN beleza)
+             )
+             (NP 
+              (NN medicina)
+              (ADJP 
+               (JJ estética)
+              )
+             )
+             e
+             (NP 
+              (NN cirurgia)
+              (ADJP 
+               (JJ plástica)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

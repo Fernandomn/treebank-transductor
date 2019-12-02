@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Decidiu)
+     (RB então)
+    )
+    (VP 
+     (VP 
+      (VB explorar)
+      (NP 
+       (DT a)
+       (NNS terra)
+      )
+     )
+     (VP 
+      (CC e)
+      (VP 
+       (VP 
+        (VB tomar)
+        (NP 
+         (NP 
+          (NNS posse)
+          (PP 
+           (IN de_)
+           (NP 
+            (PRP ela)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS nome)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Espanha)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

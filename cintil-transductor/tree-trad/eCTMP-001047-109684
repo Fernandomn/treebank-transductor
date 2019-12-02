@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS atracção)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS PI)
+        (CONJP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB ganhou)
+            (NP 
+             (CD 14)
+             (NNS escudos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB parece)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS aposta)
+       (PP 
+        (IN a)
+        (NP 
+         (NP 
+          (JJ médio)
+          (NNS prazo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT as)
+     (RB mais_de)
+     (CD 140)
+     (NN participantes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN feira)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estavam)
+   )
+   (ADJP 
+    (JJ presentes)
+   )
+   (NP 
+    (NN companhias)
+    (NP 
+     (RB como)
+     (NP 
+      (NP 
+       (DT a)
+       (NNP Xerox)
+      )
+      (NP 
+       (NNP Kodak)
+      )
+      (NP 
+       (NNP QMS)
+      )
+      (NP 
+       (NNP Digital)
+      )
+      e
+      (NP 
+       (NNP Pennant)
+       (NP 
+        (NN empresa)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NNP IBM)
+         )
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NN área)
+          (PP 
+           (IN de)
+           (NP 
+            (NN impressão)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

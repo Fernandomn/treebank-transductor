@@ -1,0 +1,101 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ boa)
+    (NN performance)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Maluf)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN março)
+      (ADJP 
+       (JJ último)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP coincidiu)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN fase)
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VBP anunciava)
+        )
+        (NP 
+         (DT sua)
+         (NN candidatura)
+         (PP 
+          (IN a+)
+          (NP 
+           (DT a)
+           (NN presidência)
+          )
+         )
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VBP investia)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NN inaugurações)
+          (PP 
+           (IN de)
+           (NP 
+            (JJ grandes)
+            (NN obras)
+            (ADVP 
+             (RB como)
+             (NP 
+              (DT o)
+              (NN túnel)
+              (PP 
+               (IN de+)
+               (NP 
+                (DT o)
+                (NN rio)
+                (NP 
+                 (NNP Pinheiros)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

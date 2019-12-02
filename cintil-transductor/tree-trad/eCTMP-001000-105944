@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fisher)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NNS MacDonald)
+     )
+    )
+   )
+   (VP 
+    (VB salientam)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS estudo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS minhocas)
+         )
+        )
+       )
+      )
+      (VP 
+       (VB está)
+       (PP 
+        (RB apenas)
+        (PP 
+         (IN a)
+         (VB começar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

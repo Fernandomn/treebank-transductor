@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (CD 50)
+     (CD mil)
+    )
+    (NP 
+     (NP 
+      (NNS cidadãos)
+      (JJ portugueses)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS ficha)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS SIS)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

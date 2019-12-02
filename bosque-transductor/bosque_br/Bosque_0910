@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Localiza)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (NN diária)
+    (ADJP 
+     (JJ promocional)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN R$)
+      (ADJP 
+       (CD 41)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN sendo_que)
+    (NP 
+     (DT cada)
+     (NN quilômetro)
+     (VBN rodado)
+    )
+    (VP 
+     (VBP custa)
+    )
+    (NP 
+     (DT mais)
+     (NN R$)
+     (ADJP 
+      (CD 0.26)
+     )
+    )
+   )
+  )
+ )
+)

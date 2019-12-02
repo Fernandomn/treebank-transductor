@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (DT demais)
+    (NN títulos)
+    (VP 
+     (VP 
+      (VBN selecionados)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NN Quinzena)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+  )
+ )
+)

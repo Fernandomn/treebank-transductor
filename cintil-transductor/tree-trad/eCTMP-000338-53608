@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS clubes)
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB divididos)
+     (PP 
+      (IN em)
+      (NP 
+       (CD quatro)
+       (NNS zonas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

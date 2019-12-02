@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN rentabilidade)
+    (ADJP 
+     (JJ líquida)
+    )
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN saque)
+     (PP 
+      (IN em)
+      (ADJP 
+       (JJ 1º)
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN setembro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB depender)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT a)
+     (NN variação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Ufir)
+      )
+     )
+    )
+   )
+  )
+ )
+)

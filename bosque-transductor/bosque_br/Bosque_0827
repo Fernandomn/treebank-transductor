@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN férias)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+   )
+   (VP 
+    (VBP podem)
+    (VB terminar)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN balcão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN consulado)
+       (VP 
+        (ADVP 
+         (RB onde)
+        )
+        (NP 
+         (DT o)
+         (NN passaporte)
+        )
+        (VP 
+         (VBP é)
+         (VBN devolvido)
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT as)
+          (NN 16h)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

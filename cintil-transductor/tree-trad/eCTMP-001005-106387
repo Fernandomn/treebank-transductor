@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Até)
+      (IN a_)
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (CD 70)
+       (NNS anos)
+      )
+     )
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB fui)
+      (NP 
+       (NP 
+        (NNS pintor)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS domingos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VB fui)
+       (NP 
+        (NNS amador)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (DT Um)
+     (NP 
+      (NNS general)
+      (JJ notável)
+     )
+    )
+    (NP 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS homem)
+       (ADJP 
+        (JJ glorioso)
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS valor)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

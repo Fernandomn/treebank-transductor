@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Projecto)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS lei)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VP 
+     (VB foi)
+     (VB entregue)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Assembleia)
+       (NNS de_)
+       (NNS a)
+       (NNS República)
+      )
+     )
+    )
+   )
+  )
+ )
+)

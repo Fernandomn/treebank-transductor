@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Arrelia)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (JJ primeiro)
+    (NN palhaço)
+    (ADJP 
+     (JJ brasileiro)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB ter)
+      )
+      (NP 
+       (DT um)
+       (NN circo)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN televisão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

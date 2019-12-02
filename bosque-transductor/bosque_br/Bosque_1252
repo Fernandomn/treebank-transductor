@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (PRP Me)
+    )
+    (VP 
+     (VBP ensinou)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (RB só)
+      (DT o)
+      (NN povo)
+     )
+     (VP 
+      (VBP constrói)
+     )
+     (NP 
+      (NN grandeza)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP o)
+    )
+    (VP 
+     (VBP faz)
+    )
+    (ADVP 
+     (RB desinteressadamente)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN dia-a-dia)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN generosidade)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

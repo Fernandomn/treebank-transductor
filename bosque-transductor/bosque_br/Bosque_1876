@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Sempre)
+   )
+   (NP 
+    (DT os)
+    (ADJP 
+     (RB mais)
+     (JJ recentes)
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT os)
+    (NN piores)
+   )
+  )
+ )
+)

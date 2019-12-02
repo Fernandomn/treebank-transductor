@@ -1,0 +1,50 @@
+(
+ (S 
+  (NP 
+   (NNS GM)
+  )
+  (VP 
+   (VB admite)
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT a)
+      (NNS Europa)
+     )
+     (VP 
+      (VB está)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS beira)
+         (PP 
+          (IN de)
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS crise)
+            (PP 
+             (IN em_)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS sector)
+               (JJ automóvel)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

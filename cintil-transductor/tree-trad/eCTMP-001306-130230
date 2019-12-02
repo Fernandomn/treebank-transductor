@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS obra)
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN a)
+     (VP 
+      (VB merecer)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS interesse)
+        (PP 
+         (PP 
+          (IN de)
+          (NP 
+           (NNS profissionais)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS leigos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

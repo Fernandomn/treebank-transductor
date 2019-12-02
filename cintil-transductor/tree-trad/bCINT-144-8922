@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Hold)
+     (NNS on)
+     (NNS Love)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esses)
+        (NP 
+         (NNS lugares)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS abrigo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

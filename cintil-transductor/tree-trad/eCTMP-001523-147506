@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Carlos)
+     (NNS Arroz)
+    )
+   )
+   (VP 
+    (VP 
+     (VB salientou)
+     (RB ainda)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS existência)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NP 
+          (NNS problema)
+          (JJ deontológico)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS dia)
+       (JJ seguinte)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Governo)
+    )
+    (VP 
+     (VB anunciou)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS encerramento)
+       (PP 
+        (IN de)
+        (NP 
+         (CD 16)
+         (NNS bancos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

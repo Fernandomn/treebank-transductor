@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ pobre)
+     (NNS grumete)
+    )
+   )
+   (VP 
+    (VB diria)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB foram)
+       (NP 
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

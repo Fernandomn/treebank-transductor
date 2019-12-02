@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT O)
+     (NN número)
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (RB mais)
+     (JJ alarmante)
+    )
+    (VP 
+     (IN se)
+     (VP 
+      (VBP pensarmos)
+     )
+     (VP 
+      (IN que)
+      (VP 
+       (VBP daria)
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB abastecer)
+        )
+        (NP 
+         (DT toda)
+         (DT a)
+         (NN população)
+         (ADJP 
+          (JJ brasileira)
+         )
+        )
+        (PP 
+         (IN por)
+         (NP 
+          (CD oito)
+          (NN meses)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Dalmo_Rosalen)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Secretaria_do_Meio_Ambiente)
+     )
+    )
+   )
+  )
+ )
+)

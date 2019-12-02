@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN juro)
+    (ADJP 
+     (JJ flutante)
+    )
+   )
+   (VP 
+    (VBP permite)
+   )
+   (VP 
+    (VP 
+     (VB reavaliar)
+    )
+    (ADVP 
+     (RB periodicamente)
+    )
+    (NP 
+     (DT as)
+     (NN taxas)
+     (PP 
+      (IN de)
+      (NP 
+       (NN juros)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NN aplicações)
+        )
+        e
+        (NP 
+         (NN empréstimos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

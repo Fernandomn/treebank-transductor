@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS filme)
+     (ADJP 
+      (ADJP 
+       (VB escrito)
+       (PP 
+        (IN por)
+        (NP 
+         (NP 
+          (NNS Ruth)
+          (NNS Prawer)
+          (NNS Jhabvala)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB começará)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ser)
+        (VB rodado)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Europa)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Setembro)
+     )
+    )
+   )
+  )
+ )
+)

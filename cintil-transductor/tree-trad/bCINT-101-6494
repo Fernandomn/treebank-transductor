@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Câmara)
+     (NNS de)
+     (NNS Cascais)
+    )
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN a)
+     (VP 
+      (VB estudar)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS criação)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS parques)
+            (JJ eólicos)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS concelho)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

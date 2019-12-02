@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (IN A_partir_de)
+    (RB hoje)
+   )
+   (NP 
+    (DT a)
+    (NN área)
+    (PP 
+     (IN de)
+     (NP 
+      (NN convivência)
+     )
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Sesc_Pompéia)
+     )
+    )
+   )
+   (VP 
+    (VBP abriga)
+   )
+   (NP 
+    (NN instalação)
+    (ADJP 
+     (JJ inédita)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN artista)
+      (ADJP 
+       (JJ plástico)
+      )
+      (NP 
+       (NNP Nuno_Ramos)
+      )
+     )
+    )
+    (NP 
+     (NN Montes)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS dia)
+    (CONJP 
+     (PP 
+      (IN em)
+      (NP 
+       (PRP que)
+      )
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB nevou)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NNS Croisette)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

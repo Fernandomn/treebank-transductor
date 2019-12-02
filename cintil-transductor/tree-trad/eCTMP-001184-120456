@@ -1,0 +1,23 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Oceanos)
+    (NNS e)
+    (NNS Utopia)
+   )
+  )
+  (VP 
+   (VB começou)
+   (PP 
+    (IN a)
+    (VP 
+     (VB escolher)
+     (NP 
+      (NNS actores)
+     )
+    )
+   )
+  )
+ )
+)

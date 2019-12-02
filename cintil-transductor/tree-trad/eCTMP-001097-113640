@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS peste)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (RB só)
+       (VP 
+        (VB existiu)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS ficção)
+           (JJ mediática)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

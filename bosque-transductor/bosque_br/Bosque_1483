@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN sindicato)
+   )
+   (VP 
+    (VBP fundamenta)
+   )
+   (NP 
+    (DT o)
+    (NN pedido)
+    (PP 
+     (IN de)
+     (NP 
+      (NN embargo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN obra)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT a)
+     (NN omissão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN prefeitura)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBP submeteu)
+        )
+        (NP 
+         (DT o)
+         (NN projeto)
+         (PP 
+          (IN de)
+          (NP 
+           (NN reurbanização)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN praça)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NNP Condephaat)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

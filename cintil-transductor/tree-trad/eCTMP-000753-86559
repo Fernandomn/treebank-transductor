@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (RB Agora)
+   (S 
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Estádio)
+        (NNS de)
+        (NNS Riazor)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NNS esperança)
+     )
+     (VP 
+      (VB é)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS brasileiro)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (NP 
+             (PRP se)
+            )
+            (VB segue)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

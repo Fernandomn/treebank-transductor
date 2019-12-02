@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN pacote)
+   )
+   (VP 
+    (VBP traz)
+   )
+   (NP 
+    (DT as)
+    (NN gravações)
+    (ADJP 
+     (JJ essenciais)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN cantor)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN década)
+      (PP 
+       (IN de)
+       (NP 
+        (CD 60)
+       )
+      )
+      (ADVP 
+       (RB exatamente)
+       (RB depois)
+       (PP 
+        (IN de)
+        (NP 
+         (DT sua)
+         (NN baixa)
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN exército)
+           (ADJP 
+            (JJ norte-americano)
+           )
+          )
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (CD 6)
+           (PP 
+            (IN de)
+            (NP 
+             (NN março)
+             (PP 
+              (IN de)
+              (ADJP 
+               (CD 1960)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

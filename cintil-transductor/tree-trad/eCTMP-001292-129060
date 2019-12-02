@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Papa)
+  )
+  (VP 
+   (VP 
+    (VB terá)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Cuba)
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (JJ único)
+     (NP 
+      (NNS encontro)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS Fidel)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

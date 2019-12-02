@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP São_Paulo)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP começou)
+     )
+     (NP 
+      (DT o)
+      (JJ primeiro)
+      (NN tempo)
+     )
+     (ADJP 
+      (JJ apático)
+     )
+    )
+    mas
+    (VP 
+     (VP 
+      (VBP acordou)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (CD 10)
+       (NN min)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT uma)
+       (NN falta)
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VBN marcada)
+        )
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN lateral)
+         (NP 
+          (NNP Mac_Allister)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Euller)
+      )
+     )
+     (VP 
+      (ADVP 
+       (RB quando)
+      )
+      (NP 
+       (DT este)
+      )
+      (VP 
+       (VBP ia)
+       (VB entrar)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN área)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

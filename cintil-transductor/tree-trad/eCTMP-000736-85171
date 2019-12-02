@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NNS Conserveiras)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN contra)
+     (NP 
+      (NNS armadores)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS batalha)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS sardinha)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

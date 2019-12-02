@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS momento)
+      (JJ alto)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS festival)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS salto)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS para-surfer)
+         )
+         (NP 
+          (NNS Luís)
+          (NNS Krug)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

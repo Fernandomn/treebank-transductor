@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Lamentavelmente)
+   )
+   (ADVP 
+    (RB mais_uma_vez)
+   )
+   (NP 
+    (DT um)
+    (NN país)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN subcontinente)
+      (ADJP 
+       (JJ sul-americano)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP suspende)
+   )
+   (NP 
+    (DT as)
+    (NN garantias)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Estado_de_Direito)
+     )
+    )
+   )
+  )
+ )
+)

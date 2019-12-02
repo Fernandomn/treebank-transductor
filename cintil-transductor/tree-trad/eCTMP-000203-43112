@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS vibrafone)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VP 
+       (RB não)
+       (VB toca)
+      )
+      (ADVP 
+       (ADVP 
+        (RB mais)
+        (RB depressa)
+       )
+       de_ o que
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (PP sua)
+          (PP própria)
+         )
+         (NNS sombra)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT a)
+      (NNS bateria)
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (NP 
+        (DT um)
+        (NNS afago)
+       )
+      )
+      (PP 
+       (PP 
+        (IN em)
+        (IN vez)
+        (IN de)
+       )
+       (NP 
+        (DT uma)
+        (NNS explosão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN a_)
+     (IN o)
+     (IN longo)
+     (IN de)
+    )
+    (NP 
+     (PRP toda)
+     (NP 
+      (DT a)
+      (NNS semana)
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS BBC)
+       (NNS World)
+      )
+     )
+    )
+   )
+  )
+ )
+)

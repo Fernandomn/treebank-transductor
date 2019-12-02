@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS CE)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS Marrocos)
+    )
+   )
+  )
+  (VP 
+   (VB mantêm)
+   (NP 
+    (NP 
+     (NNS impasse)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS negociações)
+      )
+     )
+    )
+   )
+  )
+ )
+)

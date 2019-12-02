@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS resultado)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS lançamento)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NNS bombas)
+          (NP 
+           (CC e)
+           (NNS explosivos)
+          )
+         )
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VP 
+              (VB causaram)
+              (NP 
+               (CD cinco)
+               (NP 
+                (NNS feridos)
+                (JJ graves)
+               )
+              )
+             )
+             (PP 
+              (IN entre)
+              (NP 
+               (DT o)
+               (NP 
+                (NNS contingente)
+                (JJ policial)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

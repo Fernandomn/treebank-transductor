@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Avisado)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN alerta)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN governador)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Itamar)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP desdenhou)
+     )
+     (NP 
+      (DT os)
+      (NN riscos)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP manteve)
+     )
+     (NP 
+      (DT a)
+      (NN viagem)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS SIC)
+  )
+  (VP 
+   (VB apresentou)
+   (NP 
+    (DT a)
+    (NP 
+     (CD primeira)
+     (NP 
+      (NNS grelha)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS programas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

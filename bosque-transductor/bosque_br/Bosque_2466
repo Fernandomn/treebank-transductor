@@ -1,0 +1,117 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN relatório)
+   )
+   (VP 
+    (VBP dedica)
+   )
+   (NP 
+    (CD 42)
+    (NN páginas)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NNP Japão)
+     (VP 
+      (NP 
+       (DT cujas)
+       (NN barreiras)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN importação)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NN produtos)
+           )
+           e
+           (NP 
+            (NN serviços)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VBP são)
+        )
+        (ADJP 
+         (RB muito)
+         (JJ maiores)
+         (VP 
+          (IN do_que)
+          (NP 
+           (DT as)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT os)
+             (DT demais)
+             (NN membros)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT o)
+               (NNP Grupo_dos_Sete)
+               (NP 
+                (NN países)
+                (ADJP 
+                 (RB mais)
+                 (VBN industrializados)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VBP representam)
+        )
+        (NP 
+         (DT um)
+         (NN entrave)
+         (ADJP 
+          (JJ inaceitável)
+         )
+         (PP 
+          (IN a+)
+          (NP 
+           (DT o)
+           (NN sistema)
+           (PP 
+            (IN de)
+            (NP 
+             (NN comércio)
+             (ADJP 
+              (JJ global)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

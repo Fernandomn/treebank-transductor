@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS motor)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Tigre)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VP 
+      (VB construído)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS cooperação)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Turbomeca)
+         (JJ francesa)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS MTU)
+           (JJ alemã)
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Rolls-Royce)
+            (JJ britânica)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NN Sexo)
+     (ADJP 
+      (JJ livre)
+     )
+    )
+    (NP 
+     (NN fumo)
+    )
+    e
+    (NP 
+     (NN droga)
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (VBN condenados)
+  )
+ )
+)

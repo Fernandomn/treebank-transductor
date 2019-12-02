@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS PCP)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (NNS quebra)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS sigilo)
+        (JJ bancário)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

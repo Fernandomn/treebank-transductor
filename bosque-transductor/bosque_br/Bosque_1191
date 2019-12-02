@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NN receita)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN ferrovia)
+      )
+     )
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP cobre)
+    )
+    (NP 
+     (DT as)
+     (NN despesas)
+    )
+   )
+  )
+ )
+)

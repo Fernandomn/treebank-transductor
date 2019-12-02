@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS caminhos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS noite)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (JJ duros)
+      (VP 
+       (CC e)
+       (VP 
+        (VB juncados)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS cadáveres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

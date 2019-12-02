@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Afastado)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT seu)
+      (NN companheiro)
+      (PP 
+       (IN de)
+       (NP 
+        (NN ataque)
+        (NP 
+         (NNP Stoichkov)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP pegou)
+   )
+   (ADVP 
+    (RB pouco)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN bola)
+    )
+   )
+  )
+ )
+)

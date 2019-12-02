@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Independentemente)
+      (IN de_)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NNS questões)
+       (ADJP 
+        (JJ legais)
+        (ADJP 
+         (CC ou)
+         (JJ burocráticas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT a)
+      (NNS Tapada)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NNS lisboetas)
+      )
+     )
+    )
+    (VP 
+     (VB ganharam)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS iniciativa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

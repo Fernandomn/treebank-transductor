@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB Está)
+       (RB aqui)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS homem)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB fez)
+           (NP 
+            (DT esta)
+            (NNS canção)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB anunciou)
+    )
+    (NP 
+     (NNS Tito)
+    )
+   )
+  )
+ )
+)

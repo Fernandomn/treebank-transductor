@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT as)
+     (JJ grandes)
+     (NN cidades)
+    )
+   )
+   (NP 
+    (NN multidões)
+    (ADJP 
+     (JJ imensas)
+    )
+   )
+   (VP 
+    (VBP saíram)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN ruas)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN apoio)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN rebeldes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

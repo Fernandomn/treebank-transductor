@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT o)
+     (NNP sr._Cedras)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tomar)
+    )
+    (NP 
+     (DT os)
+     (NN passos)
+     (VBN apropriados)
+    )
+   )
+   (NP 
+    (PRP nós)
+   )
+   (VP 
+    (VBP vamos)
+    (VB dizer)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT um)
+     (NN clima)
+     (PP 
+      (IN de)
+      (NP 
+       (NN respeito)
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (DT que)
+     (NN passos)
+    )
+    (NP 
+     (PRP ele)
+    )
+    (VP 
+     (VBP deve)
+     (VB dar)
+    )
+   )
+  )
+ )
+)

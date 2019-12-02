@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Reynaldo_de_Barros)
+    (NP 
+     (NN secretário)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Vias_Públicas)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP participou)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN cerimônia)
+      )
+     )
+     (ADVP 
+      (RB pela_manhã)
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB depois)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP pôde)
+     )
+     (ADVP 
+      (RB mais)
+     )
+     (VP 
+      (VB ser)
+      (VBN encontrado)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (DT seu)
+       (NN gabinete)
+      )
+     )
+    )
+   )
+  )
+ )
+)

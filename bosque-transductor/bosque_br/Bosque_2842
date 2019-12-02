@@ -1,0 +1,168 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Tudo_isso)
+   )
+   (VP 
+    (VBP deve)
+    (VB ser)
+    (VBN considerado)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (IN que)
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP entenda)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT uma)
+       (JJ exata)
+       (NN transposição)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN aluguel)
+         (VP 
+          (VP 
+           (VBN praticado)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NN cruzeiros)
+            (ADJP 
+             (JJ reais)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NN sistema)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN URV)
+          )
+         )
+        )
+       )
+      )
+      (ADVP 
+       (RB só)
+      )
+      (VP 
+       (VBP é)
+      )
+      (ADJP 
+       (JJ possível)
+      )
+      (VP 
+       (IN se)
+       (NP 
+        (DT os)
+        (NN contratantes)
+       )
+       (VP 
+        (VBP procederem)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (DT uma)
+         (NN extração)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NN média)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT os)
+             (NN aluguéis)
+            )
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT os)
+             (JJ últimos)
+             (NN meses)
+             (VP 
+              (NP 
+               (PRP que)
+              )
+              (VP 
+               (VBP corresponderem)
+              )
+              (PP 
+               (IN a)
+               (NP 
+                (NN periodicidade)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NN reajustamento)
+                  (PP 
+                   (IN de+)
+                   (NP 
+                    (DT o)
+                    (NN contrato)
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN para)
+       )
+       (ADVP 
+        (RB só)
+        (RB então)
+       )
+       (PP 
+        (VP 
+         (VP 
+          (VB transformar)
+         )
+         (NP 
+          (DT tal)
+          (NN média)
+         )
+         (PP 
+          (IN em)
+          (NP 
+           (NNP URVs)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

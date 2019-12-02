@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (S 
+      (VP 
+       (VB foi)
+       (VB escolhido)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS grão-vizir)
+    )
+    (VP 
+     (VP 
+      (VB criou)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS vaga)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS esperança)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (PRP tudo)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB era)
+            (NP 
+             (NP 
+              (ADJP 
+               (JJ pequeno)
+               (ADJP 
+                (CC e)
+                (JJ grande)
+               )
+              )
+              (NNS aglomerado)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

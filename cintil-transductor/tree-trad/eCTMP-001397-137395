@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Logo)
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS eleições)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB poderão)
+     )
+     (VP 
+      (VB ser)
+      (VB antecipadas)
+     )
+    )
+   )
+  )
+ )
+)

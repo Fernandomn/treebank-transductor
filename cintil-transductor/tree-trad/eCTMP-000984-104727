@@ -1,0 +1,20 @@
+(
+ (S 
+  (NP 
+   (NNS Filmógrafo)
+  )
+  (VP 
+   (VB acaba)
+   (PP 
+    (IN de)
+    (VP 
+     (VB formar)
+     (NP 
+      (CD 12)
+      (NNS jovens)
+     )
+    )
+   )
+  )
+ )
+)

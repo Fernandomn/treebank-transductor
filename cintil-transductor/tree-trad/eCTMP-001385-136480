@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (VB Proposta)
+  )
+  (NP 
+   (DT a)
+   (NP 
+    (NNS criação)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS organismo)
+        (JJ nacional)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (NP 
+          (NNS coordenação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NNS transplantações)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Rui)
+     (NNS Costa)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB ocupa)
+      (ADVP 
+       (RB entretanto)
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS lugar)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (JJ lesionado)
+          (NNS Semedo)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS força)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS regulamentos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN entrevista)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN Folha)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Angarita)
+   )
+   (VP 
+    (VBP elogiou)
+   )
+   (NP 
+    (DT a)
+    (NN iniciativa)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN Sindicato)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN Eletricitários)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP São_Paulo)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP articulou)
+     )
+     (NP 
+      (DT uma)
+      (NN ação)
+      (ADJP 
+       (JJ judicial)
+      )
+     )
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB tentar)
+       )
+       (VP 
+        (VP 
+         (VB suspender)
+        )
+        (NP 
+         (DT a)
+         (NN venda)
+         (PP 
+          (IN de)
+          (NP 
+           (NN ações)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NNP Eletropaulo)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

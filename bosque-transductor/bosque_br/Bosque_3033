@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (NP 
+     (DT a)
+     (NN queda)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN inflação)
+      )
+     )
+    )
+    (ADVP 
+     (RB certamente)
+    )
+    (VP 
+     (VBP produziria)
+    )
+    (NP 
+     (NN efeitos)
+     (ADJP 
+      (JJ positivos)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN candidatura)
+       (NP 
+        (NNP Fernando_Henrique_Cardoso)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT as)
+    (NN prateleiras)
+    (ADJP 
+     (JJ vazias)
+    )
+   )
+   (VP 
+    (VBP municiam)
+   )
+   (NP 
+    (DT os)
+    (NN adversários)
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Trata-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN de+)
+    (NP 
+     (DT o)
+     (NN conselho)
+     (PP 
+      (IN de)
+      (VBN franqueados)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP começa)
+       (IN a)
+       (VB surgir)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (DT algumas)
+        (NN redes)
+        (NP 
+         (RB como)
+         (NP 
+          (NP 
+           (NNP McDonald's)
+          )
+          (NP 
+           (NNP Água_de_Cheiro)
+          )
+          (NP 
+           (NNP Multicoisas)
+          )
+          e
+          (NP 
+           (NNP Localiza)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

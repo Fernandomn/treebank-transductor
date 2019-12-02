@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ feliz)
+      )
+      (NNS pianista)
+     )
+    )
+   )
+  )
+ )
+)

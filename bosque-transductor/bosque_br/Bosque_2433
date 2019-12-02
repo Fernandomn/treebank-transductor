@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Sua)
+    (JJ última)
+    (NN aparição)
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT uma)
+     (NN formatura)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP Harvard)
+    )
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1978)
+    )
+   )
+  )
+ )
+)

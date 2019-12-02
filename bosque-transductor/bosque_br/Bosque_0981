@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (PP 
+      (IN de)
+      (NP 
+       (NN meia-noite)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ ótimo)
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNP Botafogo)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP acaba)
+     )
+     (ADVP 
+      (RB tarde)
+     )
+    )
+   )
+  )
+ )
+)

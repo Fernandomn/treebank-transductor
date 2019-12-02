@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB chorou)
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS sub-desenvolvimento)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB também)
+      (VP 
+       (VP 
+        (RB não)
+        (VB teve)
+       )
+       (NP 
+        (NP 
+         (NNS fúrias)
+         (PP 
+          (IN contra)
+          (NP 
+           (DT a)
+           (NNS modernização)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

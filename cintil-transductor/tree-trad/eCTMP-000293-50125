@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS polícia)
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB alertada)
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS telefonema)
+        (JJ anónimo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

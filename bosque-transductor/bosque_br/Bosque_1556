@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (VP 
+    (IN que)
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN previsão)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN início)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN trabalho)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT os)
+           (NN ciclistas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

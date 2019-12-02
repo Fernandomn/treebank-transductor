@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (JJ nova)
+    (NN escalada)
+    (ADJP 
+     (JJ obscurantista)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NNP China)
+     )
+    )
+   )
+   (VP 
+    (VBP afastou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNP Cannes)
+    )
+   )
+   (NP 
+    (DT o)
+    (NN cineasta)
+    (NP 
+     (NNP Zhang_Yimou)
+    )
+    (NP 
+     (NN diretor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (JJ célebre)
+       (NNP Lanternas_Vermelhas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

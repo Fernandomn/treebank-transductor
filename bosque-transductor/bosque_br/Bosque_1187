@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Muller)
+   )
+   (VP 
+    (VBP chega)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 5h25)
+     (PP 
+      (IN de)
+      (RB hoje)
+     )
+    )
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+   (VP 
+    (VP 
+     (VBG vindo)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Londres)
+     )
+    )
+   )
+  )
+ )
+)

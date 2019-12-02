@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Murici)
+   )
+   (VP 
+    (VBP espera)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP Inter)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tenha)
+    )
+    (NP 
+     (DT a)
+     (DT mesma)
+     (NN atitude)
+    )
+   )
+  )
+ )
+)

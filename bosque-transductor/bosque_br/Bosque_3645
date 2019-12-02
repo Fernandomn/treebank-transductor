@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN questão)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP enfrentaram)
+     )
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (VP 
+    (VP 
+     (VB retomar)
+    )
+    (NP 
+     (DT a)
+     (NN arte)
+     (ADJP 
+      (RB intensamente)
+      (JJ dramática)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (DT sua)
+       (NN tradição)
+      )
+     )
+    )
+    (PP 
+     (IN sem)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VB escravizar)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (PRP ela)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (PP 
+     (IN Para)
+     (VP 
+      (VP 
+       (VB entrar)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN ação)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NN tropa)
+     (PP 
+      (IN de)
+      (NP 
+       (NN ciclistas)
+      )
+     )
+    )
+    (VP 
+     (VBP está)
+     (VBG esperando)
+    )
+    (ADVP 
+     (RB apenas)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP aconteça)
+     )
+     (NP 
+      (DT o)
+      (NN cerimonial)
+      (PP 
+       (IN de)
+       (NP 
+        (NN inauguração)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (NP 
+    (NNP Santini)
+   )
+  )
+ )
+)

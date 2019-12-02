@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Julgamento)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Casanova)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB novamente)
+   (VP 
+    (VB adiado)
+   )
+  )
+ )
+)

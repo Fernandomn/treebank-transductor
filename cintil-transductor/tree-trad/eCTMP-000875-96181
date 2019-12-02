@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS tinta)
+     (JJ permanente)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ volátil)
+      )
+     )
+    )
+   )
+  )
+ )
+)

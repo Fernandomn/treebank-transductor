@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Mayhew)
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT o)
+     (NNP IRA)
+    )
+    (VP 
+     (VBP poderia)
+     (VB demonstrar)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB realmente)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP autorizou)
+     )
+     (NP 
+      (DT a)
+      (NN operação)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Newry)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBG devolvendo)
+     )
+     (NP 
+      (DT os)
+      (NN US$)
+      (NP 
+       (CD 210)
+       (NN mil)
+      )
+      (VP 
+       (VP 
+        (VBN levados)
+       )
+       (PP 
+        (IN durante)
+        (NP 
+         (DT o)
+         (NN assalto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

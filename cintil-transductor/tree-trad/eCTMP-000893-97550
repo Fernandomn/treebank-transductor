@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS parte)
+      (JJ infantil)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (JJ premiado)
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (NP 
+       (NP 
+        (NNS The)
+        (NNS Fool)
+        (NNS of)
+        (NNS the)
+        (NNS World)
+        (NNS and)
+        (NNS the)
+        (NNS Flying)
+        (NNS Ship)
+       )
+      )
+      (NP 
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS história)
+         (PP 
+          (IN de)
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS criança)
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB descobre)
+               (NP 
+                (DT um)
+                (NP 
+                 (NNS navio)
+                 (JJ voador)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Finalmente)
+   )
+   (S 
+    (S 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS Estados)
+       (NNS Unidos)
+      )
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VB são)
+        (VB derrotados)
+       )
+       (RB militarmente)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS Vietname)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT o)
+       (NNS socialismo)
+      )
+      (VP 
+       (VP 
+        (VB é)
+        (VB derrubado)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS União)
+           (NNS Soviética)
+          )
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (PRP toda)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Europa)
+             (NNS de)
+             (NNS Leste)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

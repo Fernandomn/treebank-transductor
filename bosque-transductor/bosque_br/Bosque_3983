@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Chegou)
+    )
+    (ADJP 
+     (JJ atrasado)
+    )
+   )
+   (VP 
+    (VP 
+     (VBP foi)
+    )
+    (ADJP 
+     (JJ duro)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT seus)
+      (NN críticos)
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP saiu)
+    )
+    (ADVP 
+     (RB antes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN fim)
+      )
+     )
+    )
+   )
+  )
+ )
+)

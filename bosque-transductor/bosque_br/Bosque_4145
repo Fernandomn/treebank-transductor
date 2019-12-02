@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN possibilidade)
+   )
+   (VP 
+    (VBP foi)
+    (VBN levantada)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN encontro)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN governador)
+       (VBN eleito)
+      )
+      (NP 
+       (NNP Marcello_Alencar)
+       (NP 
+        (NNP PSDB)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NN oficiais)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP CML)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

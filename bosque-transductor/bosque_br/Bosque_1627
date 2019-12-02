@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP retardou)
+     )
+     (NP 
+      (DT o)
+      (NN trabalho)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN equipe)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+   )
+   (NP 
+    (DT as)
+    (NN contusões)
+    (PP 
+     (IN de)
+     (NP 
+      (DT alguns)
+      (NN jogadores)
+      (ADJP 
+       (JJ importantes)
+      )
+      (NP 
+       (RB como)
+       (NP 
+        (NP 
+         (NNP Marcelo_Negrão)
+        )
+        e
+        (NP 
+         (NNP Giovane)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN letras)
+    (ADJP 
+     (JJ irônicas)
+    )
+    (ADJP 
+     (JJ eruditas)
+    )
+    (VP 
+     (VP 
+      (VBG denunciando)
+     )
+     (VP 
+      (IN que)
+      (NP 
+       (DT os)
+       (NN músicos)
+      )
+      (ADVP 
+       (RB talvez)
+      )
+      (VP 
+       (VBP tenham)
+       (VBN estudado)
+      )
+      (ADVP 
+       (RB um_pouco)
+       (RB demais)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+    (VBN gritadas)
+   )
+  )
+ )
+)

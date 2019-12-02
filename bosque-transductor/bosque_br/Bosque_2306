@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Controlam)
+     )
+    )
+    ou
+    (VP 
+     (VP 
+      (VBP são)
+     )
+     (ADJP 
+      (JJ influentes)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN sindicatos)
+       (ADJP 
+        (JJ importantes)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP São_Paulo)
+       )
+       (NP 
+        (RB como)
+        (NP 
+         (NP 
+          (DT o)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NN metroviários)
+           )
+          )
+         )
+         (NP 
+          (DT o)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NNP Sabesp)
+           )
+          )
+         )
+         e
+         (NP 
+          (NN bancários)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Todo)
+    (NN presidente)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (DT uma)
+      (NN autoridade)
+      (ADJP 
+       (JJ pública)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP deve)
+      (VB cuidar)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN imagem)
+       (PP 
+        (IN de+)
+        (NP 
+         (PRP aquilo)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (NP 
+           (PRP ele)
+          )
+          (VP 
+           (VBP representa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,84 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN candidato)
+    (ADJP 
+     (JJ tucano)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN presidente)
+     )
+    )
+   )
+   (VP 
+    (VBP deu)
+   )
+   (NP 
+    (DT essa)
+    (NN declaração)
+   )
+   (ADVP 
+    (RB ontem)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN tarde)
+     )
+    )
+   )
+   (ADVP 
+    (RB depois)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB discursar)
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (RB cerca_de)
+        (CD 550)
+        (NN empresários)
+       )
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN hora)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN almoço)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP leia)
+    )
+    (NP 
+     (NN texto)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT esta)
+      (NN página)
+     )
+    )
+   )
+  )
+ )
+)

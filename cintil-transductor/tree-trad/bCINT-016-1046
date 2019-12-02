@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (CD sete)
+    (NP 
+     (JJ outros)
+     (NP 
+      (NNS suspeitos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (DT a)
+         (NNS polícia)
+        )
+        (VP 
+         (RB ainda)
+         (VP 
+          (VB procura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Pompadour)
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (NP 
+      (NNS irmã)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS intendente)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS obras)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS reino)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

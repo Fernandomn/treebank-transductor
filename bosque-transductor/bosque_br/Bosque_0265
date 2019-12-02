@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VBP É)
+     )
+     (NP 
+      (DT um)
+      (JJ grande)
+      (NN pintor)
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (DT sua)
+      (JJ última)
+      (NN fase)
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (DT o)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (ADVP 
+        (RB mais)
+       )
+       (VP 
+        (VBP sustenta)
+       )
+       (NP 
+        (DT a)
+        (NN afirmação)
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VP 
+      (VBP é)
+     )
+     (ADJP 
+      (JJ irregular)
+     )
+    )
+    (VP 
+     (VP 
+      (VBP tem)
+     )
+     (NP 
+      (NN fracassos)
+      (ADJP 
+       (JJ evidentes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

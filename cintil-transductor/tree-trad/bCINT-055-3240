@@ -1,0 +1,21 @@
+(
+ (S 
+  (NP 
+   (NNS Parede)
+  )
+  (VP 
+   (VB tem)
+   (NP 
+    (NP 
+     (NP 
+      (NNS parque)
+      (JJ infantil)
+     )
+     (ADJP 
+      (VB recuperado)
+     )
+    )
+   )
+  )
+ )
+)

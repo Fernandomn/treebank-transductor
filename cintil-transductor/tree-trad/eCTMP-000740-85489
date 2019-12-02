@@ -1,0 +1,62 @@
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS eldorado)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (NP 
+       (NP 
+        (DT os)
+        (NP 
+         (JJ grandes)
+         (NP 
+          (NNS clubes)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS Lisboa)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS Benfica)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NNS Sporting)
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VB tentam)
+       (VP 
+        (VP 
+         (VB explorar)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT o)
+           (NNS máximo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

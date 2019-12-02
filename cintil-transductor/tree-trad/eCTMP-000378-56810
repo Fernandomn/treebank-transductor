@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Ado)
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS protagonista)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT esta)
+        (NP 
+         (NNS postura)
+         (JJ táctica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

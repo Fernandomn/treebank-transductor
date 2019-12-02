@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Escola)
+    (NNS Homem)
+    (NNS Cristo)
+   )
+  )
+  (VP 
+   (VB terá)
+   (PP 
+    (IN de)
+    (VP 
+     (VB viver)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS Câmara)
+      )
+     )
+    )
+   )
+  )
+ )
+)

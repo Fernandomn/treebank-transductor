@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+   (S 
+    (S 
+     (VB existem)
+     (NP 
+      (NP 
+       (RB apenas)
+       (CD 31)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (ADVP 
+         (RB cerca)
+         (RB de)
+        )
+        (CD 1200)
+       )
+       (NNS crianças)
+      )
+     )
+    )
+   )
+  )
+ )
+)

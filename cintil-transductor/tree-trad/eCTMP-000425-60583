@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (RB Só)
+       (VB faltam)
+      )
+      (NP 
+       (NP 
+        (PRP alguns)
+        (NP 
+         (NNS trabalhos)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS construção)
+            (JJ civil)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT o)
+         (NNS equipamento)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (ADVP 
+        (RB dentro)
+        (PP 
+         (IN de)
+         (NP 
+          (CD três)
+          (NNS meses)
+         )
+        )
+       )
+       (VP 
+        (VB estará)
+        (JJ concluída)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

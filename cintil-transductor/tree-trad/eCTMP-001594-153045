@@ -1,0 +1,25 @@
+(
+ (S 
+  (RB Só)
+  (S 
+   (NP 
+    (NNS Queirós)
+   )
+   (VP 
+    (VB nega)
+    (NP 
+     (NP 
+      (NNS participação)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS atentado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Deu)
+      (NP 
+       (PRP -me)
+      )
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS maço)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS cigarros)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB sossegou)
+      (NP 
+       (PRP -me)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Yasuhi_Akashi)
+    (NP 
+     (NN reprsentante)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN organização)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP argumentou)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN sérvios)
+    )
+    (VP 
+     (VBP estavam)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN meio)
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN processo)
+        (PP 
+         (IN de)
+         (NP 
+          (NN retirada)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

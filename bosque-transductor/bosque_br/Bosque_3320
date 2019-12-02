@@ -1,0 +1,106 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB De_fato)
+    )
+    (NP 
+     (DT a)
+     (NN maioria)
+     (PP 
+      (IN de)
+      (NP 
+       (DT suas)
+       (NN histórias)
+      )
+     )
+    )
+    (VP 
+     (VBP acontece)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT um)
+      (NN tempo)
+      (NP 
+       (PRP algo)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT a)
+         (NN frente)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN presente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (NNP Gibson)
+    )
+    (VP 
+     (VBP rompe)
+    )
+    (ADVP 
+     (RB completamente)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NN idéia)
+      (ADJP 
+       (JJ fundadora)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP FC)
+       )
+      )
+      (PP 
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN cinema)
+        )
+       )
+       ou
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN literatura)
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN futuro)
+        (RB 
+         (NP 
+          (NN evolução)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

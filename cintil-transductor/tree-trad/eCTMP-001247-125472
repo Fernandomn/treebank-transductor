@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS reitores)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS voz)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (PP seu)
+           (NP 
+            (NP 
+             (JJ actual)
+            )
+            (JJ presidente)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB disseram)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB tratava)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (DT uma)
+          (NP 
+           (NP 
+            (NNS evolução)
+            (ADJP 
+             (RB muito)
+             (JJ favorável)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

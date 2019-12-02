@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NNP Anhanguera)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP une)
+      )
+      (NP 
+       (NNP São_Paulo)
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NNP Ribeirão_Preto)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP costuma)
+    (VB haver)
+   )
+   (NP 
+    (NN neblina)
+    (VBN pesada)
+    (PP 
+     (IN entre)
+     (NP 
+      (NP 
+       (DT o)
+       (NN km)
+       (ADJP 
+        (CD 21)
+       )
+      )
+      e
+      (NP 
+       (DT o)
+       (NN km)
+       (ADJP 
+        (CD 43)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (RB também)
+    (IN perto_de)
+    (NP 
+     (NP 
+      (NN Perus)
+     )
+     e
+     (NP 
+      (NNP Cajamar)
+     )
+    )
+   )
+  )
+ )
+)

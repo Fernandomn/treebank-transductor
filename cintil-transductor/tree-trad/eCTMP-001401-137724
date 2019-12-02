@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Esta)
+     (NNS final)
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      (VB dirigida)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NP 
+           (NNS equipa)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS arbitragem)
+            )
+           )
+          )
+          (ADJP 
+           (RB mais)
+           (JJ inteligente)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

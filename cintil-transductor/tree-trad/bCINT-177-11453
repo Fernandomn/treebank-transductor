@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS IDOSOS)
+    (PP 
+     (IN DE)
+     (NP 
+      (NNS MARVILA)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB TÊM)
+   (NP 
+    (NP 
+     (NNS CENTRO)
+     (PP 
+      (IN DE)
+      (NP 
+       (NNS DIA)
+      )
+     )
+    )
+   )
+  )
+ )
+)

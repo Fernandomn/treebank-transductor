@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Vale)
+   )
+   (NP 
+    (DT a)
+    (NN pena)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB conferir)
+     )
+     (NP 
+      (DT os)
+      (NN produtos)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB comparar)
+     )
+     (NP 
+      (DT a)
+      (NN qualidade)
+      (PP 
+       (IN de)
+       (NP 
+        (NN impressão)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN modelos)
+        (NP 
+         (NN jato)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN tinta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Ligue)
+    )
+    (ADVP 
+     (RB imediatamente)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NNP Procon)
+      (NP 
+       (NN tel._829-3055)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP solte)
+    )
+    (NP 
+     (DT os)
+     (NN cachorros)
+    )
+   )
+  )
+ )
+)

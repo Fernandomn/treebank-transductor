@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Poesia)
+    (JJ portuguesa)
+   )
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB trocada)
+     (PP 
+      (IN por)
+      (NP 
+       (NNS concertinas)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Monumental)
+    )
+   )
+  )
+ )
+)

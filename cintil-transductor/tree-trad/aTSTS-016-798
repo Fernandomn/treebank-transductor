@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS posição)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS rapaz)
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN em)
+        (IN relação)
+        (IN a_)
+       )
+       (NP 
+        (DT o)
+        (NNS assunto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

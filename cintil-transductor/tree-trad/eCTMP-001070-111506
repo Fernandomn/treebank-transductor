@@ -1,0 +1,57 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (NNS O)
+       (NNS Corcunda)
+       (NNS de)
+       (NNS Notre)
+       (NNS Dame)
+      )
+     )
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Gary)
+         (NNS Trousdale)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (CD últimas)
+        (NP 
+         (NNS produções)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS Estúdios)
+            (NNS Disney)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

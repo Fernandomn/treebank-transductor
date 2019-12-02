@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN fazendeiro)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP cultiva)
+     )
+     (ADVP 
+      (RB também)
+     )
+     (NP 
+      (CD 1)
+      (NN hectare)
+      (PP 
+       (IN de)
+       (NP 
+        (NN rosas)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP optou)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN morango)
+     )
+    )
+    (PP 
+     (IN após)
+     (NP 
+      (NN experiências)
+      (ADJP 
+       (ADVP 
+        (RB nem)
+        (RB sempre)
+       )
+       (JJ vantajosas)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT outras)
+        (NN culturas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

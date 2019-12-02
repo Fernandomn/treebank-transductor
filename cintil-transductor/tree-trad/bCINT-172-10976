@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (ADVP 
+      (RB Mais)
+      (RB de)
+     )
+     (CD vinte)
+    )
+    (NNS viaturas)
+   )
+   (VP 
+    (VP 
+     (VB estiveram)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS terreno)
+      )
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC enquanto)
+      (S 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT os)
+         (NNS ares)
+        )
+       )
+       (S 
+        (S 
+         (VB colaboravam)
+         (NP 
+          (NP 
+           (CD três)
+           (NNS helicópteros)
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (CD dois)
+            (NP 
+             (NNS aviões)
+             (NNS Canadair)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

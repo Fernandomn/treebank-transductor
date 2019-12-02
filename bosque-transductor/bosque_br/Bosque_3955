@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Mauro_Pereira)
+    )
+    e
+    (NP 
+     (NNP Gilson_Paulino_dos_Santos)
+    )
+   )
+   (VP 
+    (VBP disseram)
+   )
+   (VP 
+    (VP 
+     (VB ter)
+     (VBN sido)
+     (VBN sequestrados)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NN traficantes)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP os)
+       )
+       (VP 
+        (VBP teriam)
+        (VBN confundido)
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN policiais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

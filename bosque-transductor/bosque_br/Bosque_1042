@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN produtividade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN fábricas)
+      (PP 
+       (IN de)
+       (NP 
+        (NN nível)
+        (ADJP 
+         (JJ internacional)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (NP 
+    (DT o)
+    (NN dobro)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (VP 
+       (VP 
+        (VBN verificada)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT as)
+         (DT demais)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB enquanto)
+    )
+    (NP 
+     (DT a)
+     (NN qualidade)
+    )
+    (VP 
+     (VBP foi)
+    )
+    (ADVP 
+     (NP 
+      (CD cem)
+      (NN vezes)
+     )
+     (RB melhor)
+    )
+   )
+  )
+ )
+)

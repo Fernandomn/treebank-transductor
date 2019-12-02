@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Assinam)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS coreografia)
+      (NP 
+       (NNS Billboards)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NP 
+      (NNS Laura)
+      (NNS Dean)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Charles)
+        (NNS Moulton)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Marco)
+          (NNS Sappington)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Peter)
+           (NNS Pucci)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

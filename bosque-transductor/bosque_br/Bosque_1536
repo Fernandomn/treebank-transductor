@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Dallari)
+    )
+    (PP 
+     (IN após)
+     (NP 
+      (NN negociações)
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NN laboratórios)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB candidamente)
+    )
+    (VP 
+     (VBP anunciou)
+    )
+    (VP 
+     (IN que)
+     (PP 
+      (IN para)
+      (NP 
+       (NN janeiro)
+      )
+     )
+     (ADVP 
+      (RB não)
+     )
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VBP pode)
+      (VB fazer)
+     )
+     (ADVP 
+      (RB mais_nada)
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NN fevereiro)
+     )
+    )
+    (NP 
+     (DT os)
+     (NN reajustes)
+    )
+    (VP 
+     (VBP serão)
+    )
+    (ADJP 
+     (JJ iguais)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN inflação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

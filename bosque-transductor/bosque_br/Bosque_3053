@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT A)
+     (NN saída)
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+   (VP 
+    (VP 
+     (VBP é)
+    )
+    (VP 
+     (VP 
+      (VB partir)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN ataque)
+      )
+     )
+    )
+   )
+  )
+ )
+)

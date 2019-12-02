@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+     (NNS passo)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VB foi)
+     (VP 
+      (VB dado)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Costa)
+          (NNS Neves)
+         )
+        )
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS eurodeputado)
+           (JJ social-democrata)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

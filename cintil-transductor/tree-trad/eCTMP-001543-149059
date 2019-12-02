@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      (JJ ucraniano)
+     )
+    )
+    (VP 
+     (RB não)
+     (VB arriscou)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS série)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS simplificações)
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB jogou)
+        (RB deliberadamente)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NNS empate)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

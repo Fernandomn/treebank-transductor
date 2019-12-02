@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS derrota)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Phoenix)
+         )
+        )
+       )
+       (PP 
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (CD último)
+           (NNS encontro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS Suns)
+    )
+    (VP 
+     (VP 
+      (VB lideram)
+      (RB agora)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (CD 2-1)
+      )
+     )
+    )
+   )
+  )
+ )
+)

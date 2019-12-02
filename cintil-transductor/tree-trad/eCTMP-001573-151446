@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS documento)
+   )
+   (VP 
+    (VP 
+     (VB adiantava)
+     (RB ainda)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS empresa)
+      )
+      (VP 
+       (VB fez)
+       (NP 
+        (NP 
+         (DT uma)
+         (NP 
+          (JJ única)
+          (NP 
+           (NNS descarga)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS resíduos)
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (JJ pequena)
+                 (NNS dimensão)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

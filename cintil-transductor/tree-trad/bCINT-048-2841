@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (VP 
+       (VB É)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS início)
+         (PP 
+          (IN de)
+          (NP 
+           (DT uma)
+           (NP 
+            (JJ pequena)
+            (NNS aventura)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+    (NP 
+     (NP 
+      (NNS Monteiro)
+      (NNS Coelho)
+     )
+    )
+   )
+  )
+ )
+)

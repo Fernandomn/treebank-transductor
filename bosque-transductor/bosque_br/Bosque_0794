@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (RB apenas)
+    (NNP Marluce_Dias_da_Silva)
+   )
+   (NP 
+    (DT a)
+    (JJ poderosa)
+    (NN superintendente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN Globo)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP é)
+        (VBN considerada)
+       )
+       (NP 
+        (NN gênio)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NN casa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

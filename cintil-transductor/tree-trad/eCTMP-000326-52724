@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Em)
+      (IN redor)
+      (IN de_)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Câmara)
+       (NNS Municipal)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS agentes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS polícia)
+         (JJ comunal)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB fazem)
+     (NP 
+      (DT a)
+      (NNS ronda)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,94 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS futebol)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT as)
+       (NNS prisões)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS combate)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NNS droga)
+           )
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS mediatização)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS justiça)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (PRP alguns)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS temas)
+         (ADJP 
+          (ADJP 
+           (VB abordados)
+           (PP 
+            (IN por)
+            (NP 
+             (NP 
+              (NNS Vera)
+              (NNS Jardim)
+             )
+            )
+           )
+          )
+          (PP 
+           (IN em_)
+           (NP 
+            (DT esta)
+            (NP 
+             (PP sua)
+             (NNS entrevista)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

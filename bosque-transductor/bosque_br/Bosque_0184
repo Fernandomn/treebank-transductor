@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ maior)
+    (NN facilidade)
+    (VBN criada)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN supressão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN barreiras)
+      (ADJP 
+       (JJ alfandegárias)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NN importação)
+      (PP 
+       (IN de)
+       (NP 
+        (NN produtos)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NN país)
+          (PP 
+           (IN por+)
+           (NP 
+            (DT o)
+            (DT outro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

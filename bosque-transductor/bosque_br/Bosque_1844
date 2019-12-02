@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (VBP vou)
+    (VB receber)
+   )
+   (NP 
+    (NN atestado)
+    (PP 
+     (IN de)
+     (NP 
+      (NN idoneidade)
+      (ADJP 
+       (JJ moral)
+      )
+     )
+    )
+   )
+  )
+ )
+)

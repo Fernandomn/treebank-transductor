@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Líder)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS PC)
+       (NNS Tadjique)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB demite)
+   (NP 
+    (PRP -se)
+   )
+  )
+ )
+)

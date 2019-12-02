@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN caso)
+   )
+   (VP 
+    (VBP passou)
+    (IN a)
+    (VB ser)
+    (VBN investigado)
+   )
+   (VP 
+    (IN porque)
+    (NP 
+     (NN pessoas)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP foram)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT o)
+        (NN velório)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Pereira)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VBP teriam)
+     (VBN dito)
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (DT o)
+      (NN cadáver)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VBP suava)
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VBP teve)
+       )
+       (NP 
+        (DT sua)
+        (NN pele)
+        (VBN arrepiada)
+       )
+       (PP 
+        (IN dentro_de+)
+        (NP 
+         (DT o)
+         (NN caixão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

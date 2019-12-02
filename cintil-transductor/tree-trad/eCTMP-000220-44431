@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Cavaco)
+     (NNS Silva)
+    )
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (RB amanhã)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS Açores)
+     )
+    )
+   )
+  )
+ )
+)

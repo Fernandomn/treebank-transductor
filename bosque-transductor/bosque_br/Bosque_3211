@@ -1,0 +1,137 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (JJ bárbaro)
+     (NN linchamento)
+     (PP 
+      (IN de)
+      (NP 
+       (CD três)
+       (NN pessoas)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN ocorrido)
+      )
+      (NP 
+       (DT esta)
+       (NN semana)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NNP Paraná)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP pode)
+       (VB ter)
+       (VBN sido)
+      )
+      (ADJP 
+       (RB particularmente)
+       (JJ chocante)
+      )
+     )
+     e
+     (VP 
+      (PP 
+       (IN sem)
+       (NP 
+        (NN dúvida)
+       )
+      )
+      (NP 
+       (PRP o)
+      )
+      (VP 
+       (VBP foi)
+      )
+      (VP 
+       (VP 
+        (VP 
+         (VBN filmado)
+        )
+       )
+       e
+       (VP 
+        (VP 
+         (VBN transmitido)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT a)
+          (NN televisão)
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (DT toda)
+          (DT a)
+          (DT sua)
+          (NN brutalidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (VP 
+     (VBP constitui)
+    )
+    (ADJP 
+     (RB apenas)
+     (DT mais)
+     (CD um)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN lista)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN crimes)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT esse)
+          (NN tipo)
+         )
+        )
+        (VP 
+         (VP 
+          (VBN registrados)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN país)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

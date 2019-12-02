@@ -1,0 +1,57 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Terceira)
+    (NNS Conferência)
+   )
+  )
+  (VP 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS partes)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Convenção-Quadro)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS Alterações)
+         (NNS Climáticas)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB terminou)
+     (PP 
+      (IN com)
+      (NP 
+       (NNS acordo)
+      )
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Quioto)
+     )
+    )
+   )
+  )
+ )
+)

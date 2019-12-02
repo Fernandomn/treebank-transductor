@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Presidente)
+    (NNS de_)
+    (NNS a)
+    (NNS AIP)
+   )
+  )
+  (VP 
+   (VB recusa)
+   (NP 
+    (NP 
+     (NNS candidatura)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Câmara)
+        (NNS de_)
+        (NNS o)
+        (NNS Porto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

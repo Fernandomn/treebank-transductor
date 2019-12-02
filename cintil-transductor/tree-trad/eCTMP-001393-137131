@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NNS Portugal)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB perde)
+   )
+   (CONJP 
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (CD 432)
+       (NNS dias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

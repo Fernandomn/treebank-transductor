@@ -1,0 +1,39 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT essas)
+     (NN definições)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN equipe)
+   )
+   (VP 
+    (VBP teria)
+   )
+   (NP 
+    (NN condições)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB estabelecer)
+      )
+      (NP 
+       (DT as)
+       (NN regras)
+       (NP 
+        (DT o)
+        (NN real)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

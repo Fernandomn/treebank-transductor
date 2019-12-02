@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (PP meu)
+     (NNS pai)
+    )
+   )
+   (VP 
+    (VB apontou)
+    (NP 
+     (DT o)
+     (NNS mapa)
+    )
+   )
+  )
+ )
+)

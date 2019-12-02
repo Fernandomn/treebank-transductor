@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de+)
+    (NP 
+     (DT os)
+     (NN esforços)
+    )
+   )
+   (VP 
+    (VBP estima)
+   )
+   (VP 
+    (VP 
+     (VB fechar)
+    )
+    (NP 
+     (DT o)
+     (NN ano)
+    )
+    (VP 
+     (VP 
+      (VBG vendendo)
+     )
+     (NP 
+      (CD 75)
+      (NN milhões)
+      (PP 
+       (IN de)
+       (NP 
+        (NN litros)
+        (PP 
+         (IN de)
+         (NP 
+          (NN sorvetes)
+         )
+        )
+       )
+      )
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 120)
+        (NN milhões)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A+)
+    (VP 
+     (DT o)
+     (VP 
+      (VB desembarcar)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NNP Canadá)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP troque)
+   )
+   (NP 
+    (DT a)
+    (NN moeda)
+    (ADJP 
+     (JJ norte-americana)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN dólares)
+     (ADJP 
+      (JJ canadenses)
+     )
+    )
+   )
+  )
+ )
+)

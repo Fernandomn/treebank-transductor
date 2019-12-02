@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (JJ longa)
+    (NP 
+     (NNS vida)
+     (PP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS esquerda)
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS direita)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

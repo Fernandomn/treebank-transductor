@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN versão)
+    (ADJP 
+     (RB mais)
+     (JJ corrente)
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NN início)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN enriquecimento)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Quércia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+   )
+   (PP 
+    (IN de)
+    (VP 
+     (IN que)
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VBP comprou)
+     )
+     (NP 
+      (NN terrenos)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NN áreas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN periferia)
+        )
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP seriam)
+         (VBN beneficiadas)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT os)
+          (NN projetos)
+          (PP 
+           (IN de)
+           (NP 
+            (NN melhoria)
+            (ADJP 
+             (JJ urbana)
+            )
+           )
+          )
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN Prefeitura)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

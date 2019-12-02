@@ -1,0 +1,63 @@
+(
+ (S 
+  (S 
+   (S 
+    (ADVP 
+     (ADVP 
+      (RB Até)
+      (RB agora)
+     )
+    )
+    (S 
+     (NP 
+      (NNS nada)
+     )
+     (S 
+      (VP 
+       (NP 
+        (PRP se)
+       )
+       (VB concretizou)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (NP 
+      (DT o)
+      (NNS encenador)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB pode)
+      )
+      (VP 
+       (VP 
+        (VB adiar)
+        (RB indefinidamente)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NNS estreia)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS Maldita)
+            (NNS Cocaína)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Ao_contrário_de+)
+    (NP 
+     (DT o)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP fez)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN campanhas)
+        (ADJP 
+         (JJ anteriores)
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Brizola)
+   )
+   (VP 
+    (VBP quer)
+   )
+   (VP 
+    (VP 
+     (VB promover)
+    )
+    (NP 
+     (NN comícios)
+     (ADJP 
+      (JJ rápidos)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (CD três)
+       (NN oradores)
+      )
+     )
+    )
+   )
+  )
+ )
+)

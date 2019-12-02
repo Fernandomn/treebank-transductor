@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN salto)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN produção)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN atribuído)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (NN sucesso)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN privatização)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN indústria)
+         (ADJP 
+          (JJ petrolífera)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

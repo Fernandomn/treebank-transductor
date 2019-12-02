@@ -1,0 +1,135 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Patricia_Wells)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP ensinou)
+     )
+     (NP 
+      (DT o)
+      (NN preparo)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NN codornas)
+         (VBN marinadas)
+        )
+        e
+        (NP 
+         (NN cuscuz)
+         (ADJP 
+          (JJ marroquino)
+         )
+        )
+       )
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP incentivava)
+     )
+     (NP 
+      (DT o)
+      (NN público)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VP 
+        (VB repartir)
+       )
+       (NP 
+        (NN food_experiences)
+        (NP 
+         (DT o)
+         (NN nome)
+         (ADJP 
+          (JJ moderno)
+         )
+         (PP 
+          (IN para)
+          (VP 
+           (VP 
+            (VB receber)
+           )
+           (NP 
+            (NN amigos)
+           )
+           (IN para)
+           (VP 
+            (VP 
+             (VB comer)
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (ADVP 
+         (RB como)
+        )
+        (NP 
+         (PRP ela)
+         (NP 
+          (DT mesma)
+         )
+        )
+        (VP 
+         (VBP faz)
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (DT sua)
+          (NN casa)
+         )
+        )
+        (PP 
+         (IN em+)
+         (NP 
+          (DT a)
+          (NNP Provence)
+          (NP 
+           (NN sul)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NNP França)
+            )
+           )
+          )
+          (NP 
+           (NN região)
+           (PP 
+            (IN em)
+            (NP 
+             (NN moda)
+            )
+           )
+           (PP 
+            (IN em+)
+            (NP 
+             (DT os)
+             (NNP Estados_Unidos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

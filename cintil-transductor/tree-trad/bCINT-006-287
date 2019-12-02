@@ -1,0 +1,48 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (CD primeira)
+    (NP 
+     (NP 
+      (NNS escola)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS treino)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS cães-guias)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS País)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB vai)
+    (VB nascer)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Mortágua)
+    )
+   )
+  )
+ )
+)

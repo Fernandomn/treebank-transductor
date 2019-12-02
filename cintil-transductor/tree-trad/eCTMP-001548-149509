@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sei)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT essa)
+       (NNS conversa)
+      )
+      (VP 
+       (VB é)
+       (PP 
+        (IN contra)
+        (NP 
+         (DT a)
+         (NNS maré)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

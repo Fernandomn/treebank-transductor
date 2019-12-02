@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (CONJP 
+     (CC Quando)
+     (VP 
+      (VB questionado)
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT o)
+        (NNS assunto)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Yasser)
+      (NNS Arafat)
+     )
+    )
+    (VP 
+     (VB respondeu)
+     (RB assim)
+    )
+   )
+  )
+ )
+)

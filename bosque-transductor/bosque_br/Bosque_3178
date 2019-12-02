@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Policiais)
+    (ADJP 
+     (JJ Federais)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP MS)
+     )
+    )
+   )
+   (VP 
+    (VBP entram)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN greve)
+    )
+   )
+  )
+ )
+)

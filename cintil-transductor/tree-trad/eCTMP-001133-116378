@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Apaparicam)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS rapazes)
+       (CONJP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB atracam)
+           (RB ali)
+          )
+         )
+        )
+        (CONJP 
+         (CC e)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB precisam)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS festas)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (S 
+      (VB vale)
+      (NP 
+       (PRP tudo)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT aquele)
+       (NNS dia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

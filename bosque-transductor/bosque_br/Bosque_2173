@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Diretor)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Lanternas_Vermelhas)
+     )
+    )
+   )
+   (VP 
+    (VBP permanece)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NNP China)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB negociar)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT as)
+       (NN autoridades)
+      )
+     )
+     (NP 
+      (DT a)
+      (NN liberação)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Viver)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

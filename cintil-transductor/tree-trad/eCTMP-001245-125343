@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (JJ português)
+     )
+     (NP 
+      (NNS Gonçalo)
+      (NNS Gomes)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB venceu)
+     (RB ontem)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (CD segunda)
+      (NP 
+       (NP 
+        (NNS corrida)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS fim-de-semana)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS Fórmula)
+              (NNS Opel)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (ADJP 
+        (ADJP 
+         (VB disputada)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NP 
+             (NNS circuito)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS Catalunha)
+              )
+             )
+            )
+            (PP 
+             (PP 
+              (IN em)
+              (NP 
+               (NNS Barcelona)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

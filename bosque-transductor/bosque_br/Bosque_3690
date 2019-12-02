@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP preciso)
+   )
+   (NP 
+    (NN governador)
+   )
+   (VP 
+    (IN porque)
+    (VP 
+     (VP 
+      (VBG sabendo)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN hospitalidade)
+       (ADJP 
+        (JJ paranaense)
+       )
+      )
+     )
+    )
+    (NP 
+     (PRP eu)
+    )
+    (ADVP 
+     (RB nem)
+    )
+    (VP 
+     (VBP trouxe)
+    )
+    (NP 
+     (NN carteira)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Suas)
+    (NN expectativas)
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NN futuro)
+      (PP 
+       (IN próximo_de+)
+       (NP 
+        (DT a)
+        (NN economia)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT as)
+    (JJ piores)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD dez)
+     (NN anos)
+    )
+   )
+  )
+ )
+)

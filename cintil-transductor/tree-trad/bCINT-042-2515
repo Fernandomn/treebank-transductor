@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT as)
+     (NNS famílias)
+    )
+   )
+   (S 
+    (ADVP 
+     (RB porém)
+    )
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS causa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS explosão)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS importância)
+        (JJ relativa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

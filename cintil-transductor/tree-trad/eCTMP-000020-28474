@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS soldado)
+     )
+     (VP 
+      (VB disparou)
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS ar)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (S 
+      (NP 
+       (DT o)
+       (NNS indivíduo)
+      )
+      (VP 
+       (VB continuou)
+       (PP 
+        (IN a)
+        (VB avançar)
+       )
+      )
+     )
+     (S 
+      (CC e)
+      (S 
+       (VP 
+        (VP 
+         (VB foi)
+         (VB atingido)
+        )
+        (RB mortalmente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NN Vidros)
+    )
+    e
+    (NP 
+     (NN janelas)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP dão)
+     )
+     (NP 
+      (NN transparência)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN casa)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP facilitam)
+     )
+     (NP 
+      (DT a)
+      (NN entrada)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN ar)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

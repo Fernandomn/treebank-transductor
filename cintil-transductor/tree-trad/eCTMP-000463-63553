@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Nenhum)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT estes)
+       (NNS apelos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VB ouvido)
+   )
+  )
+ )
+)

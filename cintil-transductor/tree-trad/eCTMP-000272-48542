@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NP 
+        (CD segunda)
+        (NNS ronda)
+       )
+      )
+     )
+    )
+    (VB terminaram)
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NP 
+      (NNS sonhos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS tri)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS sueco)
+        (NP 
+         (NNS Stefan)
+         (NNS Edberg)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

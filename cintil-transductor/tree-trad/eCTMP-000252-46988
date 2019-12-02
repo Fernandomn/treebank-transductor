@@ -1,0 +1,78 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS concretização)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (PRP diversos)
+         (NP 
+          (NNS programas)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS PEDIP)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB produziu)
+     (NP 
+      (NP 
+       (NNS efeitos)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB superaram)
+          (NP 
+           (DT as)
+           (NNS expectativas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC ou)
+    (S 
+     (VP 
+      (VB ficou)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (PP 
+      (PP 
+       (IN aquém)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (JJ esperado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

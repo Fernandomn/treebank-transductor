@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS taxa)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NP 
+       (NP 
+        (NNS empréstimos)
+        (PP 
+         (IN a)
+         (NP 
+          (NP 
+           (NNS instituições)
+           (JJ depositárias)
+          )
+         )
+        )
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS New)
+          (NNS York)
+          (NNS Federal)
+          (NNS Reserve)
+          (NNS Bank)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

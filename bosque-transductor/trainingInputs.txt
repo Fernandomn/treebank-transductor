@@ -1,0 +1,160 @@
+1
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 422-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-421 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE1 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE1 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr1.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 422-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE1 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr1.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE1 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-421 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr1.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE1 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE1 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt1.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE1 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt1.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE1 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt1.txt
+
+
+2
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-421,843-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 422-842 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE2 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE2 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr2.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-421,843-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE2 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr2.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE2 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 422-842 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr2.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE2 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE2 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt2.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE2 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt2.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE2 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt2.txt
+
+
+3
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-842,1264-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 843-1263 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE3 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE3 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr3.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-842,1264-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE3 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr3.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE3 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 843-1263 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr3.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE3 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE3 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt3.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE3 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt3.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE3 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt3.txt
+
+
+4
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-1263,1685-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1264-1684 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE4 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE4 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr4.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-1263,1685-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE4 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr4.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE4 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1264-1684 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr4.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE4 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE4 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt4.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE4 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt4.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE4 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt4.txt
+
+
+5
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-1684,2106-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1685-2105 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE5 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE5 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr5.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-1684,2106-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE5 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr5.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE5 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1685-2105 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr5.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE5 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE5 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt5.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE5 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt5.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE5 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt5.txt
+
+
+6
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-2105,2527-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 2106-2526 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE6 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE6 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr6.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-2105,2527-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE6 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr6.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE6 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 2106-2526 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr6.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE6 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE6 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt6.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE6 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt6.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE6 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt6.txt
+
+
+7
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-2526,2948-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 2527-2947 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE7 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE7 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr7.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-2526,2948-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE7 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr7.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE7 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 2527-2947 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr7.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE7 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE7 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt7.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE7 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt7.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE7 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt7.txt
+
+
+8
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-2947,3369-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 2948-3368 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE8 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE8 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr8.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-2947,3369-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE8 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr8.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE8 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 2948-3368 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr8.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE8 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE8 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt8.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE8 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt8.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE8 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt8.txt
+
+
+9
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-3368,3790-4213 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 3369-3789 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE9 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE9 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr9.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-3368,3790-4213 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE9 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr9.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE9 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 3369-3789 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr9.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE9 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE9 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt9.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0,1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE9 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt9.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE9 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt9.txt
+
+
+10
+BR
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-3789 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 3790-4210 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE10 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE10 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr10.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 1-3789 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE10 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoBr10.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE10 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_br 3790-4210 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testeBr10.txt
+
+PT
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -test /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE10 -saveToTextFile /home/fernando/Code/treebank-transductor/serialized-files/textGrammarBOSQUE10 -writeOutputFiles -outputFormat wordsAndTags,penn,typedDependencies -outputFormatOptions lexicalize -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt10.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -train /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 -saveToSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE10 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/treinoPt10.txt
+
+java -cp stanford-parser.jar -mx4g edu.stanford.nlp.parser.lexparser.LexicalizedParser -writeOutputFiles -outputFilesDirectory /home/fernando/Code/treebank-transductor/output/treinoBOSQUE -loadFromSerializedFile /home/fernando/Code/treebank-transductor/serialized-files/serialGrammarBOSQUE10 -testTreebank /home/fernando/Code/treebank-transductor/bosque-transductor/bosque_pt 1-0 > /home/fernando/Code/treebank-transductor/output/treinoBOSQUE/testePt10.txt
+
+

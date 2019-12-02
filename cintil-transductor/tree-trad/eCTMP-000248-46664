@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS fugas)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB resultam)
+    )
+    (CONJP 
+     (CC porque)
+     (S 
+      (NP 
+       (DT os)
+       (NNS italianos)
+      )
+      (VP 
+       (RB não)
+       (VB deixam)
+      )
+     )
+    )
+   )
+  )
+ )
+)

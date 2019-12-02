@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (NN letras)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Digable_Planets)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP refletem)
+   )
+   (NP 
+    (DT este)
+    (NN radicalismo)
+   )
+  )
+ )
+)

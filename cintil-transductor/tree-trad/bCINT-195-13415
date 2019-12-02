@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS fenómenos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS emigração)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB nascem)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS procura)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ melhores)
+          (NNS salários)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

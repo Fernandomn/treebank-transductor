@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB Estão)
+       (NP 
+        (PRP todos)
+        (NP 
+         (PRP eles)
+        )
+       )
+      )
+      (ADJP 
+       (VB requisitados)
+       (VP 
+        (CC ou)
+        (VB destacados)
+       )
+      )
+     )
+     (PP 
+      (IN até)
+      (NP 
+       (CD 31)
+       (NP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS Agosto)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT a)
+      (NNS legislação)
+     )
+     (VP 
+      (VB permite)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS fim)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS contrato)
+          )
+         )
+        )
+        (PP 
+         (PP 
+          (IN antes)
+          (IN de_)
+         )
+         (NP 
+          (DT o)
+          (NNS tempo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

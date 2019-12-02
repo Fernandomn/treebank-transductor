@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Mário)
+      (NNS Soares)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS a)
+      (NNS Comissão)
+      (NNS Mundial)
+      (NNS Independente)
+      (NNS sobre)
+      (NNS os)
+      (NNS Oceanos)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS convidados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

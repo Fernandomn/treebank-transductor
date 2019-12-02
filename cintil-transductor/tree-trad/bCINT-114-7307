@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS avaliação)
+   )
+   (VP 
+    (VP 
+     (VB muda)
+     (RB radicalmente)
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NP 
+       (PRP diferentes)
+       (NP 
+        (NNS sectores)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS sociedade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

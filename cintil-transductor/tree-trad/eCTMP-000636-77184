@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD quarto)
+     (NNS relatório)
+    )
+   )
+   (VP 
+    (VB apresenta)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS conclusões)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS situações)
+         (ADJP 
+          (RB já)
+          (ADJP 
+           (RB anteriormente)
+           (ADJP 
+            (VB tratadas)
+            (PP 
+             (IN por_)
+             (NP 
+              (DT a)
+              (NNS IGAT)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Esses)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT alguns)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN temas)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP estarão)
+        (VBG sendo)
+        (VBN discutidos)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN Congresso)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT a)
+           (NNP Fenasoft)
+          )
+         )
+         (VP 
+          (VP 
+           (VBN promovido)
+          )
+          (ADVP 
+           (RB paralelamente)
+          )
+          (PP 
+           (IN a+)
+           (NP 
+            (DT a)
+            (NN feira)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

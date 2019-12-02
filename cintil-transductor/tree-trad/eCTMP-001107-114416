@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN A)
+       (IN partir)
+       (IN de_)
+      )
+      (RB aí)
+     )
+    )
+    (VP 
+     (PP 
+      (PP 
+       (IN depois)
+       (IN de)
+      )
+      (NP 
+       (JJ divulgados)
+       (NP 
+        (NP 
+         (NP 
+          (JJ grande)
+          (NP 
+           (NNS parte)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS resultados)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT as)
+                (NNS empresas)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+        (NP 
+         (PRP tudo)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB vai)
+      (VP 
+       (VB ser)
+       (JJ diferente)
+      )
+     )
+    )
+   )
+  )
+ )
+)

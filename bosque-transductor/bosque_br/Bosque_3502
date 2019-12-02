@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (NP 
+      (DT A)
+      (NN casa)
+     )
+     (VP 
+      (VBP vai)
+      (VB estar)
+     )
+     (ADJP 
+      (JJ cheia)
+     )
+    )
+    e
+    (VP 
+     (NP 
+      (PRP nós)
+     )
+     (VP 
+      (VBP vamos)
+      (VB mostrar)
+     )
+     (VP 
+      (ADVP 
+       (RB porque)
+      )
+      (VP 
+       (VBP viemos)
+      )
+      (VP 
+       (VP 
+        (VB disputar)
+       )
+       (NP 
+        (DT a)
+        (NN Copa)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+  )
+ )
+)

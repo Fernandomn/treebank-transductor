@@ -1,0 +1,77 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Sempre)
+      (VP 
+       (VB disse)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (DT o)
+          (NP 
+           (NNS dr.)
+           (NNS Fernando)
+           (NNS Gomes)
+          )
+         )
+         (VP 
+          (VB fez)
+          (NP 
+           (DT um)
+           (NP 
+            (JJ bom)
+            (NNS papel)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (ADVP 
+        (RB portanto)
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB é)
+        )
+        (NP 
+         (DT um)
+         (NP 
+          (NNS homem)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (NP 
+             (PRP eu)
+            )
+            (VP 
+             (VB vá)
+             (VP 
+              (VB defrontar)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

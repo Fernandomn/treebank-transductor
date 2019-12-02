@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (CC Ou)
+      (S 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS terça-feira)
+        )
+       )
+       (S 
+        (NP 
+         (DT o)
+         (NNS PSD)
+        )
+        (VP 
+         (VB diz)
+         (CONJP 
+          (CC que)
+          (S 
+           (VP 
+            (VB apresenta)
+            (NP 
+             (NNS propostas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC ou)
+     (S 
+      (VP 
+       (RB então)
+       (VB acabou)
+      )
+     )
+    )
+   )
+  )
+ )
+)

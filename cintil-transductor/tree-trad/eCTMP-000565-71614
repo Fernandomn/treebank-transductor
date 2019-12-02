@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD segundo)
+     (NNS candidato)
+    )
+   )
+   (VP 
+    (VB é)
+    (VP 
+     (VB constituído)
+     (PP 
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS CROSS-Companhia)
+         (NNS de)
+         (NNS Racionalização)
+         (NNS e)
+         (NNS Organização)
+         (NNS de)
+         (NNS Serviços)
+         (NNS de)
+         (NNS Saúde)
+         (NNS SA)
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Gecessa-Gestio)
+          (NNS Centres)
+          (NNS Sanitaris)
+          (NNS SA)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

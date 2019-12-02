@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (DT O)
+      (NP 
+       (NNS número)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS soldados)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS tempo)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS mandato)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB estão)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS discussão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

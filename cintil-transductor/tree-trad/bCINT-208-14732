@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS GESTOR)
+     (JJ JUDICIAL)
+    )
+    (JJ NOTÁVEL)
+   )
+  )
+  (VP 
+   (VP 
+    (VB DEVIA)
+    (NP 
+     (NNS MILHARES)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS FISCO)
+    )
+   )
+  )
+ )
+)

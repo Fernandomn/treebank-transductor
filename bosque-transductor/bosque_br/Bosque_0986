@@ -1,0 +1,61 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (NN discurso)
+     (VP 
+      (VP 
+       (VBN feito)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN semana)
+        (VBN passada)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Johannesburgo)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Arafat)
+   )
+   (VP 
+    (VBP conclamou)
+   )
+   (NP 
+    (DT os)
+    (NN muçulmanos)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (DT uma)
+     (NN jihad)
+    )
+   )
+   (PP 
+    (IN por+)
+    (NP 
+     (DT a)
+     (NN cidade)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Jerusalém)
+      )
+     )
+    )
+   )
+  )
+ )
+)

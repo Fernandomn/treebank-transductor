@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Tanto)
+   )
+   (UCP 
+    (NP 
+     (DT a)
+     (NN construção)
+    )
+    (IN quanto_a)
+    (NP 
+     (NN manutenção)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN equipagem)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP corria)
+   )
+   (ADVP 
+    (RB por_conta)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP tinham)
+       )
+       (NP 
+        (DT mais)
+        (NN recursos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

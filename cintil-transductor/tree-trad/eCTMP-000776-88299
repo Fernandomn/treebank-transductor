@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS média)
+      (JJ diária)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NP 
+         (NNS furtos)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS objectos)
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS interior)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS viaturas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de)
+     (NP 
+      (CD 15)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Luna)
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP é)
+    )
+    (RB cedo)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB fazer)
+      )
+      (NP 
+       (DT uma)
+       (NN avaliação)
+       (ADJP 
+        (JJ completa)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN impacto)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (JJ novas)
+           (NN medidas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

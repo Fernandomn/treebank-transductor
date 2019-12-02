@@ -1,0 +1,73 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (DT outro)
+     (NN espaço)
+    )
+   )
+   (VP 
+    (VBP há)
+   )
+   (UCP 
+    (NP 
+     (NN exibição)
+     (PP 
+      (IN de)
+      (NP 
+       (NN vídeos)
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP demonstram)
+        )
+        (ADVP 
+         (RB por_exemplo)
+        )
+        (NP 
+         (NP 
+          (DT a)
+          (NN cerimônia)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN chá)
+           )
+          )
+         )
+         e
+         (NP 
+          (DT o)
+          (NN teatro)
+          (ADJP 
+           (JJ kabuki)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (IN além_de)
+    (NP 
+     (NN pontos)
+     (ADJP 
+      (JJ turísticos)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Japão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

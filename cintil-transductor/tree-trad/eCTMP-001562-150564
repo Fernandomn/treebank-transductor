@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB estamos)
+     )
+     (PP 
+      (IN a)
+      (VP 
+       (VB procurar)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS caminho)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS sucesso)
+            (JJ fácil)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

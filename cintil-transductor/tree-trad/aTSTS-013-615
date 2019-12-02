@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB divide)
+     (NP 
+      (DT o)
+      (NNS bolo)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS pedaços)
+     )
+    )
+   )
+  )
+ )
+)

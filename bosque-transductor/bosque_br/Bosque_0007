@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Muitas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN prioridades)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (JJ novo)
+        (NN governo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP coincidem)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT as)
+     (NN prioridades)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP PT)
+      )
+     )
+    )
+   )
+  )
+ )
+)

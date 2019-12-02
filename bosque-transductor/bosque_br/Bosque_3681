@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Compramos)
+     )
+     (NP 
+      (DT o)
+      (NN título)
+     )
+     (IN para)
+     (VB verificar)
+    )
+    (VP 
+     (VP 
+      (VBP levei)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (NN casa)
+      )
+     )
+    )
+    e
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP enxerguei)
+     )
+     (NP 
+      (PRP nada)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (NP 
+    (NNP Vera_Melo_Araújo)
+    (NP 
+     (NN chefe)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP Departamento_de_Fiscalização)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP Susep)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

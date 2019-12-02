@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Jornalistas)
+     (NP 
+      (CC e)
+      (NP 
+       (NNS soldados)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS ONU)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB mortos)
+     (VP 
+      (CC e)
+      (VB feridos)
+     )
+    )
+   )
+  )
+ )
+)

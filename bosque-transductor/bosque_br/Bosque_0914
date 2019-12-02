@@ -1,0 +1,35 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN animais)
+   )
+   (VP 
+    (VBP foram)
+    (VBN entregues)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN custódia)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN zoológico)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Bronx)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

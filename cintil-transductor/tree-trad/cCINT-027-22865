@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Experimenta)
+    (VP 
+     (PP 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ pequeno)
+         (NP 
+          (NNS texto)
+          (PP 
+           (PP 
+            (IN em)
+            (NP 
+             (NNS prosa)
+            )
+           )
+           (PP 
+            (CC ou)
+            (PP 
+             (IN em)
+             (NP 
+              (NNS verso)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB definir)
+      (NP 
+       (DT este)
+       (NNS sentimento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

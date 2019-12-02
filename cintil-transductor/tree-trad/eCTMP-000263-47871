@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Hospital)
+     (NNS de)
+     (NNS Castelo)
+     (NNS Branco)
+    )
+   )
+   (VP 
+    (VP 
+     (VB atendeu)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (PP seu)
+        (NP 
+         (NNS serviço)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS urgência)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (CD dois)
+     (NP 
+      (NNS homens)
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NP 
+          (NNS ferimentos)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS balas)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS pernas)
+            (NP 
+             (CC e)
+             (NNS abdómen)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

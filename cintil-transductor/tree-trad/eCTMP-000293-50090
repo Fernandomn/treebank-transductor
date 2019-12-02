@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS final)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Manuel)
+      (NNS José)
+     )
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS treinador)
+       (ADJP 
+        (JJ satisfeito)
+        (PP 
+         (IN com)
+         (NP 
+          (DT a)
+          (NNS vitória)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

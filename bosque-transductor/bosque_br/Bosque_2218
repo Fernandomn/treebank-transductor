@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Campanha)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+    (VB usar)
+   )
+   (NP 
+    (NN mídias)
+    (ADJP 
+     (JJ alternativas)
+    )
+   )
+  )
+ )
+)

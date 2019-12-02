@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN média)
+    (ADJP 
+     (JJ diária)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT aquele)
+      (NN mês)
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (CD 6.6)
+     (NN toneladas)
+    )
+   )
+   (PP 
+    (IN segundo)
+    (NP 
+     (NN dados)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Bolsa_de_Mercadorias_&_Futuros)
+      )
+     )
+    )
+   )
+  )
+ )
+)

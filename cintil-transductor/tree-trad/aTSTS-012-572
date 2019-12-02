@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Morava)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS sítio)
+       (CONJP 
+        (RB onde)
+        (S 
+         (VP 
+          (RB nunca)
+          (VP 
+           (VB chovia)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Vila)
+    (NNS Real)
+   )
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB encerra)
+   )
+   (NP 
+    (NP 
+     (NNS escolas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD 1º)
+        (NNS ciclo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

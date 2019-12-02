@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Queria)
+     (VP 
+      (VB deixar)
+      (NP 
+       (DT o)
+       (NNS Quebeque)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN antes)
+      (IN de_)
+     )
+     (NP 
+      (DT aquele)
+      (NNS dia)
+     )
+    )
+   )
+  )
+ )
+)

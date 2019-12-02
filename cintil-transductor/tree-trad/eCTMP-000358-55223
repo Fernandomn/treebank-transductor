@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Jantou)
+    (CONJP 
+     (CC porque)
+     (S 
+      (VP 
+       (VB era)
+       (NP 
+        (NP 
+         (NNS amigo)
+         (PP 
+          (IN de_)
+          (NP 
+           (NP 
+            (DT o)
+            (NP 
+             (NNS cunhado)
+             (PP 
+              (IN de_)
+              (NP 
+               (PRP ele)
+              )
+             )
+            )
+           )
+           (NP 
+            (NP 
+             (NNS Mota)
+             (NNS Freitas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

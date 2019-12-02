@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Mais)
+    (RB tarde)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS edifício)
+    )
+    (VP 
+     (VB é)
+     (VP 
+      (VB atingido)
+      (PP 
+       (IN por)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS granada)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS morteiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

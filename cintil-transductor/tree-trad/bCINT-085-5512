@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Terá)
+      (PP 
+       (IN a)
+       (NP 
+        (PP seu)
+        (NNS cargo)
+       )
+      )
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS gestão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS concursos)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB supervisionará)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS fiscalização)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS empreitadas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

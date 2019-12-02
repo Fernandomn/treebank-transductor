@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS SIC)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB apresentou)
+      (RB ontem)
+     )
+     (PP 
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NP 
+       (CD primeira)
+       (NP 
+        (NNS grelha)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS programas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

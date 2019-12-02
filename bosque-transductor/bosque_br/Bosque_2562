@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Essa)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN inscrição)
+    (ADJP 
+     (JJ obrigatória)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT os)
+      (NP 
+       (NP 
+        (NN folhetos)
+       )
+       e
+       (NP 
+        (NN cartazes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

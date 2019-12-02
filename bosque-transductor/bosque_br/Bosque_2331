@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBP Estamos)
+    )
+    (VBN assustados)
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (NP 
+    (DT o)
+    (NN diretor)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN hospital)
+      (NP 
+       (NNP Aloysio_Campos_da_Paz)
+      )
+      (NP 
+       (NN professor)
+       (ADJP 
+        (JJ visitante)
+       )
+       (PP 
+        (IN de+)
+        (NP 
+         (DT as)
+         (NN universidades)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNP Oxford)
+            (NP 
+             (NNP Inglaterra)
+            )
+           )
+           (NP 
+            (NNP Stanford)
+           )
+           (NP 
+            (NNP Harvard)
+           )
+           e
+           (NP 
+            (NNP Nova_York)
+            (NP 
+             (NNP EUA)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Barroco)
+    (JJ português)
+   )
+  )
+  (VP 
+   (VB poderá)
+   (VP 
+    (VB ir)
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS San)
+       (NNS Diego)
+      )
+     )
+    )
+   )
+  )
+ )
+)

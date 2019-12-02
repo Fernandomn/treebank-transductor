@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT Os)
+     (NN reservas)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN seleção)
+       (ADJP 
+        (JJ brasileira)
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNP Viola)
+      )
+      e
+      (NP 
+       (NNP Ronaldão)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT vários)
+     (NN componentes)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Nigéria)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (VP 
+    (VBP foram)
+    (VBN apontados)
+   )
+  )
+ )
+)

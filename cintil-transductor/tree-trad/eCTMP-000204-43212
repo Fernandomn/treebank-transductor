@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 54)
+      )
+     )
+    )
+   )
+   (S 
+    (PP 
+     (PP 
+      (RB finalmente)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS velocidade)
+       )
+      )
+     )
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS FC)
+       (NNS Porto)
+      )
+     )
+     (VP 
+      (VB marcou)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NNS golo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

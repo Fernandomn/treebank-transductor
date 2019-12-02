@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Houve)
+      (NP 
+       (DT esse)
+       (NNS élan)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS esquerda)
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VB perdemos)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Arnold_Schwarzenegger)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VBP deu)
+      )
+      (NP 
+       (NN entrevistas)
+      )
+      (ADVP 
+       (RB como)
+       (NP 
+        (NN ator)
+        (ADJP 
+         (JJ principal)
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VBP foi)
+       (VBN substituído)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNP Bruce_Willis)
+       )
+      )
+      (PP 
+       (IN há)
+       (NP 
+        (CD dois)
+        (NN anos)
+       )
+      )
+     )
+    )
+   )
+   (CC mas)
+   (VP 
+    (NP 
+     (DT o)
+     (NN projeto)
+    )
+    (ADVP 
+     (RB nunca)
+    )
+    (VP 
+     (VBP saiu)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN papel)
+     )
+    )
+   )
+  )
+ )
+)

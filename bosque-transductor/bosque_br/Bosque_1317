@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Entre)
+    (NP 
+     (DT as)
+     (NN mulheres)
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (NP 
+     (NNP Cecilia_Bartoli)
+    )
+    (NP 
+     (NNP Jessye_Norman)
+    )
+    (NP 
+     (NNP Anne_Sofie_von_Otter)
+    )
+    (NP 
+     (NNP Dawn_Upshaw)
+    )
+    e
+    (NP 
+     (NNP Galina_Gorchakova)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Estes)
+     )
+     (VP 
+      (VB podem)
+      (VP 
+       (VP 
+        (VP 
+         (VB estar)
+         (JJ sentados)
+        )
+        (RB calmamente)
+       )
+       (PP 
+        (IN perante)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ecrã)
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB domina)
+             (NP 
+              (DT o)
+              (NNS palco)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (NP 
+      (DT o)
+      (NNS comando)
+     )
+     (VP 
+      (VB está)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS mãos)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS Fura)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

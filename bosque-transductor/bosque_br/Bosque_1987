@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NNP Alec)
+   (VP 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VBP quero)
+    )
+    (VP 
+     (VP 
+      (VB viver)
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP quero)
+    )
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (PRP nada)
+     )
+    )
+   )
+  )
+ )
+)

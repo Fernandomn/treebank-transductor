@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Georgia)
+       (NNS World)
+       (NNS Congress)
+       (NNS Center)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS David)
+      (NNS Maia)
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB iniciar)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS competição)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS luta)
+           (JJ greco-romana)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

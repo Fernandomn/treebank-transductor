@@ -1,0 +1,26 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Crédito)
+    (PP 
+     (IN de)
+     (VBN usados)
+    )
+   )
+   (VP 
+    (VBP sumiu)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT os)
+     (NN anos)
+     (ADJP 
+      (CD 70)
+     )
+    )
+   )
+  )
+ )
+)

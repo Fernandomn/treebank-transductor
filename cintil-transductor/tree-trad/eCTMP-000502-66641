@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (VP 
+    (RB Inicialmente)
+    (VP 
+     (VP 
+      (VB fui)
+      (NP 
+       (NNS empregado)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS sucursal)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NP 
+            (NNS Diário)
+            (NNS de)
+            (NNS Notícias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

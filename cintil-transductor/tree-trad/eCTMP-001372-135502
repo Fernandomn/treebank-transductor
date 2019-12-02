@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NNS acidentes)
+  )
+  (VP 
+   (VP 
+    (VB são)
+    (NP 
+     (DT a)
+     (NP 
+      (CD primeira)
+      (NP 
+       (NNS causa)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS morte)
+          (JJ infantil)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Portugal)
+    )
+   )
+  )
+ )
+)

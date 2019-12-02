@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB À_primeira_vista)
+   )
+   (ADVP 
+    (RB sim)
+   )
+   (CC mas)
+   (ADVP 
+    (RB é)
+   )
+   (ADVP 
+    (RB aí)
+   )
+   (ADVP 
+    (RB que)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP chega)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT o)
+     (JJ verdadeiro)
+     (NN nó)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN questão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NP 
+      (NNS Aniceto)
+      (NNS Afonso)
+     )
+    )
+    (VP 
+     (VB abandona)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS compostura)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (NP 
+           (PRP o)
+          )
+          (VB caracteriza)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB desabafa)
+    )
+   )
+  )
+ )
+)

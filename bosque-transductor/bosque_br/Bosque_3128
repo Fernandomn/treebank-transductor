@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Fabiane)
+   )
+   (VP 
+    (VBP recebeu)
+   )
+   (NP 
+    (NN CR$)
+    (NP 
+     (CD 35)
+     (NN mil)
+    )
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VP 
+        (VB usar)
+       )
+       (NP 
+        (NN camiseta)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN candidata)
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VB gritar)
+       )
+       (NP 
+        (DT o)
+        (NN nome)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Quércia)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

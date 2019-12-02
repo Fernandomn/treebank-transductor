@@ -1,0 +1,77 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Como)
+    (VP 
+     (VBP partiu)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP PT)
+     )
+    )
+    (NP 
+     (DT o)
+     (NN pedido)
+     (PP 
+      (IN de)
+      (NP 
+       (NN encontro)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NN presidente)
+         (NP 
+          (NNP Nelson_Mandela)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (JJ próprio)
+    (NN partido)
+   )
+   (VP 
+    (VBP assumiu)
+   )
+   (NP 
+    (DT os)
+    (NN custos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN trecho)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN viagem)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP inclui)
+         )
+         (NP 
+          (DT a)
+          (NNP África_do_Sul)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

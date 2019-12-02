@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Desta_vez)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT uma)
+     (NN camiseta)
+     (ADJP 
+      (JJ branca)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VBN furada)
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (NN bala)
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VBN empapada)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN sangue)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN acima_de)
+      (NP 
+       (NN calças)
+       (ADJP 
+        (JJ militares)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

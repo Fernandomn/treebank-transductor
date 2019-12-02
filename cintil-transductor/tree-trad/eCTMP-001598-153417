@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PS)
+   )
+   (VP 
+    (VB prometeu)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP todos)
+       (NP 
+        (DT os)
+        (NP 
+         (JJ altos)
+         (NP 
+          (NNS dirigentes)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS Função)
+             (NNS Pública)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB seriam)
+        (VB escolhidos)
+       )
+       (PP 
+        (IN por)
+        (NP 
+         (NNS concurso)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

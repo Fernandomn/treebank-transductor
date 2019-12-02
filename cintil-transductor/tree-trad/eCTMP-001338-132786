@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS aprovação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Orçamento)
+         (NNS de)
+         (NNS Estado)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT os)
+       (NNS EUA)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB poderá)
+    (VP 
+     (VB ser)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS peça)
+        (JJ fundamental)
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS recuperação)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS mercado)
+             (JJ germânico)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

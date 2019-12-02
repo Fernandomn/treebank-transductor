@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Politicamente)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS derrota)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS projecto)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB terá)
+      (RB obrigatoriamente)
+     )
+     (NP 
+      (NP 
+       (NNS repercussões)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS ministro-presidente)
+          (NNS de)
+          (NNS Brandemburgo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,80 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estas)
+   )
+   (VP 
+    (VP 
+     (VB têm)
+     (RB sempre)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS stock)
+      )
+      (PP 
+       (RB também)
+       (PP 
+        (IN para)
+        (NP 
+         (NP 
+          (NNS entrega)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT aquelas)
+            (NP 
+             (NNS pessoas)
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (VP 
+                 (VP 
+                  (RB não)
+                  (VB estejam)
+                 )
+                 (PP 
+                  (IN em)
+                  (NP 
+                   (NNS casa)
+                  )
+                 )
+                )
+                (PP 
+                 (IN em_)
+                 (NP 
+                  (DT a)
+                  (NP 
+                   (NNS altura)
+                   (PP 
+                    (IN de_)
+                    (NP 
+                     (DT a)
+                     (NNS distribuição)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

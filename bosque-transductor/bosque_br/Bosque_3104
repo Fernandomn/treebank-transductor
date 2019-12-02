@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN A)
+    (VP 
+     (NP 
+      (PRP quem)
+     )
+     (VP 
+      (VB recorrer)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (NN caso)
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NN descomprimento)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (VP 
+             (VBP é)
+             (VBN prometido)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

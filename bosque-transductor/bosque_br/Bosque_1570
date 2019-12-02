@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VP 
+      (VBP Foi)
+      (VBN apresentada)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NNP Agropecuária_América)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBN arrematada)
+     )
+     (PP 
+      (IN por+)
+      (NP 
+       (DT a)
+       (NNP Citrovita_Agropecuária)
+      )
+     )
+    )
+   )
+  )
+ )
+)

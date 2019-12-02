@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS doença)
+   )
+   (VP 
+    (VB advém)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT esse)
+      (NNS facto)
+     )
+    )
+   )
+  )
+ )
+)

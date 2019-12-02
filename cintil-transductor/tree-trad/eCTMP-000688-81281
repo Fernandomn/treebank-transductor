@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS contrário)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS BTA)
+    )
+    (VP 
+     (VB terminou)
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS revés)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (CD 0,15)
+           (NP 
+            (NN por)
+            (NN cento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

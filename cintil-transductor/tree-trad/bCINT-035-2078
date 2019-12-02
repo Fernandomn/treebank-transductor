@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS jubilação)
+   )
+   (VP 
+    (ADVP 
+     (RB porém)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB vai)
+     )
+     (VP 
+      (VB significar)
+      (NP 
+       (NP 
+        (CC nem)
+        (NP 
+         (DT uma)
+         (NNS reforma)
+        )
+       )
+       (NP 
+        (CC nem)
+        (NP 
+         (RB sequer)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS fim)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NP 
+              (PP sua)
+              (NP 
+               (NNS ligação)
+               (PP 
+                (IN a_)
+                (NP 
+                 (DT a)
+                 (NP 
+                  (NNS Nova)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

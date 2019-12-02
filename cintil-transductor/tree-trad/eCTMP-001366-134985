@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (PP seu)
+      (NP 
+       (NNS homólogo)
+       (JJ britânico)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Douglas)
+      (NNS Hurd)
+     )
+    )
+   )
+   (VP 
+    (VB diz)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VP 
+       (VB é)
+       (ADJP 
+        (JJ brilhante)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

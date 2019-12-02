@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS falta)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB provocou)
+     (ADVP 
+      (RB aliás)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS tristeza)
+      (JJ assolapada)
+     )
+    )
+   )
+  )
+ )
+)

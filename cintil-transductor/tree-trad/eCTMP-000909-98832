@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+   )
+   (VP 
+    (VB quer)
+    (VP 
+     (VB dizer)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (RB não)
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB deve)
+        )
+       )
+       (VP 
+        (VB estar)
+        (JJ cansado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

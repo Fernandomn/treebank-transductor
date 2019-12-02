@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ Pior)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT o)
+    (NNP Itamar)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP ficou)
+     )
+     (VBN intoxicado)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (DT próprio)
+       (NN pastelão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

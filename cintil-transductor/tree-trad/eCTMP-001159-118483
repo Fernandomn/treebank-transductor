@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Rui)
+     (NNS Monteiro)
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS aviador)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS missões)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS África)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

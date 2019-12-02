@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP STF)
+   )
+   (VP 
+    (VBP derrubou)
+   )
+   (NP 
+    (NN dispositivos)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN lei)
+      (ADJP 
+       (JJ eleitoral)
+      )
+     )
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP restringiam)
+     )
+     (NP 
+      (DT a)
+      (NN participação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN partidos)
+       )
+      )
+     )
+     (ADVP 
+      (RB de_acordo)
+      (PP 
+       (IN com)
+       (NP 
+        (DT sua)
+        (NN representação)
+       )
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN Câmara)
+      )
+     )
+    )
+   )
+  )
+ )
+)

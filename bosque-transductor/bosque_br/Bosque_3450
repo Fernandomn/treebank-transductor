@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Camila)
+   )
+   (VP 
+    (VBP viajava)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN colo)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP Dalva)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN na_frente_de+)
+    (NP 
+     (DT o)
+     (NN veículo)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (CD Dois)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS corrida)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Gare)
+         (NNS de_)
+         (NNS a)
+         (NNS Expo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

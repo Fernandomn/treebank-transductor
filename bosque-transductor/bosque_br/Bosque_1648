@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Multiplique)
+    )
+    (NP 
+     (PRP isso)
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (CD 15)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP some)
+    )
+    (NP 
+     (DT o)
+     (NN valor)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN transporte)
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN US$)
+     (NP 
+      (CD 400)
+      (NN mil)
+     )
+    )
+   )
+  )
+ )
+)

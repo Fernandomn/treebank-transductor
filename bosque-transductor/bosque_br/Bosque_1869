@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NNP Alkimin)
+    )
+    (VP 
+     (VBP achou)
+    )
+    (VP 
+     (IN que)
+     (ADVP 
+      (RB também)
+     )
+     (VP 
+      (VBP era)
+     )
+     (NP 
+      (NN hora)
+      (PP 
+       (IN de)
+       (VP 
+        (VP 
+         (VB firmar)
+        )
+        (NP 
+         (NN namoro)
+        )
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP pediu)
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NNP JK)
+     )
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (PRP o)
+     )
+     (VP 
+      (VBP apresentasse)
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT as)
+       (NN amigas)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN namorada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

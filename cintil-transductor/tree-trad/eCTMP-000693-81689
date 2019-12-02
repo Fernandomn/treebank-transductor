@@ -1,0 +1,68 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outros)
+    (NNS autores)
+   )
+   (VP 
+    (VB referem)
+    (NP 
+     (NP 
+      (NP 
+       (NNS condições)
+       (ADJP 
+        (JJ sociais)
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (JJ bom)
+            (NP 
+             (NNS ambiente)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS trabalho)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (CONJP 
+       (PP 
+        (IN em)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (NP 
+          (NNS salários)
+          (ADJP 
+           (RB mais)
+           (JJ elevados)
+          )
+         )
+        )
+        (VP 
+         (VP 
+          (VB são)
+          (JJ essenciais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

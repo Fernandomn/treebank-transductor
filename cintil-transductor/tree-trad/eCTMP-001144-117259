@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB é)
+       (VP 
+        (VB corroborado)
+        (PP 
+         (IN por)
+         (NP 
+          (DT outra)
+          (NP 
+           (NNS fonte)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT a)
+             (NNS redacção)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,22 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN resultado)
+   )
+   (VP 
+    (VBP é)
+   )
+   (ADVP 
+    (RB muitas_vezes)
+   )
+   (ADJP 
+    (JJ ingênuo)
+    (ADJP 
+     (JJ infantil)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (JJ europeus)
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (VB empataram)
+      (NP 
+       (DT o)
+       (NNS encontro)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN graças)
+        (IN a_)
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS vitória)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS Marc)
+             (NNS Rosset)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN sobre)
+          (NP 
+           (NP 
+            (NNS Ramesh)
+            (NNS Krishnan)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

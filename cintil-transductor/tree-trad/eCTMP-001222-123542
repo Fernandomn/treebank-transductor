@@ -1,0 +1,35 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Debates)
+    (JJ televisivos)
+   )
+  )
+  (VP 
+   (PP 
+    (IN entre)
+    (NP 
+     (NP 
+      (NNS líderes)
+      (PP 
+       (IN de_)
+       (NP 
+        (NP 
+         (DT o)
+         (NNS PSD)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS PS)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

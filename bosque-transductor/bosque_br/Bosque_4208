@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Me)
+   )
+   (VP 
+    (VBP pergunto)
+   )
+   (ADVP 
+    (RB sempre)
+   )
+   (VP 
+    (NP 
+     (PRP quem)
+    )
+    (VP 
+     (VBP podia)
+     (VB ter)
+     (VBN sido)
+    )
+    (NP 
+     (DT aquele)
+     (JJ jovem)
+     (NN alemão)
+    )
+   )
+  )
+ )
+)

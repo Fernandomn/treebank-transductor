@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS maioria)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS praias)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB permanece)
+     (VB interditada)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS banhistas)
+     )
+    )
+   )
+  )
+ )
+)

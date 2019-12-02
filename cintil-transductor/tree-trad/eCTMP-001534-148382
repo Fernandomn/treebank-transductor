@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS história)
+    )
+   )
+   (VP 
+    (VB exemplifica)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS funcionamento)
+       (JJ tradicional)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS tráfico)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS droga)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT as)
+           (NNS ilhas)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

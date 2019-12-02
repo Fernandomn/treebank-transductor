@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT o)
+     (NN uso)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN método)
+       (ADJP 
+        (JJ tridimencional)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foi)
+   )
+   (ADJP 
+    (JJ possível)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB localizá-)
+     )
+     (NP 
+      (PRP lo)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VB descobrir)
+     )
+     (NP 
+      (DT a)
+      (NN causa)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN morte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Visitaram)
+      (NP 
+       (PRP vários)
+       (NP 
+        (NP 
+         (NNS espaços)
+         (JJ semelhantes)
+        )
+        (PP 
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Inglaterra)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN em)
+           (NP 
+            (NNS França)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT uma)
+         (NP 
+          (PP 
+           (IN de_)
+           (NP 
+            (DT as)
+            (NP 
+             (NNS escolas)
+             (JJ francesas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (VP 
+       (VP 
+        (VB estão)
+        (RB já)
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NNS estágio)
+        )
+       )
+      )
+     )
+     (NP 
+      (CD duas)
+      (NP 
+       (JJ futuras)
+       (NNS treinadoras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS FC)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB antecipa)
+   )
+   (NP 
+    (NP 
+     (NNS jogo)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS Benfica)
+      )
+     )
+    )
+   )
+  )
+ )
+)

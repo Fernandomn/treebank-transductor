@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essa)
+    (NNS prova)
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VP 
+      (VB ser)
+      (VB feita)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS declaração)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS embaixada)
+            (JJ respectiva)
+           )
+          )
+         )
+        )
+       )
+       (NP 
+        (CC ou)
+        (NP 
+         (DT um)
+         (NP 
+          (NNS atestado)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS residência)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

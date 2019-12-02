@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Belo)
+   )
+   (VP 
+    (VBP negou)
+   )
+   (VP 
+    (IN que)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN reunião)
+     )
+    )
+    (VP 
+     (VBP tenha)
+     (VBN sido)
+     (VBN discutida)
+    )
+    (NP 
+     (DT a)
+     (NN incorporação)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT os)
+       (NN quadros)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NNP PM)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (RB cerca_de)
+       (CD 2.000)
+       (NN soldados)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Exército)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

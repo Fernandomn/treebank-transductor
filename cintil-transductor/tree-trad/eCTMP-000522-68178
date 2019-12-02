@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Pecados)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS NSR)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS debate)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Congresso)
+      (NNS de_)
+      (NNS o)
+      (NNS SINTAP)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Queremos)
+    (NP 
+     (NP 
+      (NP 
+       (NNS subsídios)
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NNS desemprego)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS rendimento)
+            (JJ mínimo)
+           )
+          )
+         )
+        )
+       )
+      )
+      (ADJP 
+       (VB pagos)
+       (PP 
+        (IN a)
+        (NP 
+         (NNS tempo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

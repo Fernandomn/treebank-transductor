@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NNS jogadores)
+      (JJ checos)
+     )
+    )
+    (VB tremeram)
+   )
+   (S 
+    (S 
+     (NP 
+      (DT a)
+      (NNS qualificação)
+     )
+     (VP 
+      (ADVP 
+       (RB subitamente)
+      )
+      (VP 
+       (VB ficou)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS risco)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS momento)
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS introdução)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS elementos)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS dramatização)
+             )
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS discurso)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB aconteceu)
+    )
+    (ADVP 
+     (RB por)
+     (RB acaso)
+    )
+   )
+  )
+ )
+)

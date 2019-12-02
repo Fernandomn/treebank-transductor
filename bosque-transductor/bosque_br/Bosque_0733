@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP IRLF)
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP aprova)
+   )
+   (NP 
+    (DT o)
+    (NN aborto)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT a)
+     (NN gravidez)
+    )
+    (VP 
+     (VBP coloca)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NN risco)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN vida)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN mãe)
+      )
+     )
+    )
+   )
+  )
+ )
+)

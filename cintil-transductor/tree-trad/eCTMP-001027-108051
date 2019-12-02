@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      (NNS equipas)
+      (JJ prováveis)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (CD primeira)
+        (NP 
+         (NNS mão)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Supertaça)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (DT as)
+     (NNS seguintes)
+    )
+   )
+  )
+ )
+)

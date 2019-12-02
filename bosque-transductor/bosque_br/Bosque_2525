@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (RB Apenas)
+    (DT o)
+    (NN goleiro)
+    (NP 
+     (NNP Gilmar)
+    )
+    (NP 
+     (NNP Flamengo)
+    )
+   )
+   (VP 
+    (VBP revelou)
+   )
+   (NP 
+    (DT o)
+    (DT seu)
+    (NN voto)
+    (PP 
+     (IN para)
+     (NP 
+      (DT as)
+      (NN eleições)
+      (ADJP 
+       (JJ presidenciais)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT este)
+        (NN ano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

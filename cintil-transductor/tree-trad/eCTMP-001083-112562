@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS NASA)
+   )
+   (VP 
+    (VP 
+     (VB comemorou)
+     (RB ontem)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (CD sétimo)
+      (NP 
+       (NNS aniversário)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS explosão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS vaivém)
+             (NNS Challenger)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

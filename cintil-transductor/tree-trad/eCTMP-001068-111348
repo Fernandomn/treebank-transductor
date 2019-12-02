@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Embaixador)
+  )
+  (VP 
+   (VP 
+    (VB defende)
+    (NP 
+     (NNS inquérito)
+    )
+   )
+   (PP 
+    (PP 
+     (IN até)
+     (IN a_)
+    )
+    (NP 
+     (DT o)
+     (NNS fim)
+    )
+   )
+  )
+ )
+)

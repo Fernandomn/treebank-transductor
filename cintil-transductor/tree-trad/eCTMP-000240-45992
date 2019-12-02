@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VB Há)
+     (ADVP 
+      (RB porém)
+     )
+    )
+    (NP 
+     (PRP algumas)
+     (NNS imprecisões)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS relato)
+    )
+   )
+  )
+ )
+)

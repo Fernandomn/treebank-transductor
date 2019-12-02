@@ -1,0 +1,29 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Tenho)
+    )
+    (NP 
+     (DT os)
+     (NN papéis)
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP tenho)
+    )
+    (NP 
+     (DT a)
+     (DT minha)
+     (NN filha)
+    )
+   )
+  )
+ )
+)

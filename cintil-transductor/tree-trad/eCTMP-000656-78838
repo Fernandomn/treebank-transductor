@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (NP 
+        (PRP ele)
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB pedia)
+        )
+        (NP 
+         (NNS ajuda)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB queria)
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (NP 
+         (PRP o)
+        )
+        (VB ajudassem)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

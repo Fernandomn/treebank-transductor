@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (ADJP 
+     (CD 93)
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP plantou)
+   )
+   (NP 
+    (NP 
+     (CD 290)
+     (NN ha)
+     (PP 
+      (IN de)
+      (NP 
+       (NN amendoim)
+      )
+     )
+    )
+    e
+    (NP 
+     (CD 97)
+     (NN ha)
+     (PP 
+      (IN de)
+      (NP 
+       (NN soja)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,82 @@
+(
+ (S 
+  (S 
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (VP 
+        (VP 
+         (VB dizemos)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT os)
+           (NNS pais)
+          )
+         )
+        )
+        (CONJP 
+         (CC que)
+         (S 
+          (VP 
+           (VB escolhemos)
+           (NP 
+            (DT os)
+            (NP 
+             (PP seus)
+             (NNS filhos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB apostamos)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT os)
+          (NP 
+           (PP nossos)
+           (NP 
+            (NNS argumentos)
+            (JJ futebolísticos)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (CC mas)
+      (S 
+       (VP 
+        (RB também)
+        (VP 
+         (VB asseguramos)
+         (NP 
+          (DT a)
+          (NP 
+           (PP sua)
+           (NNS formação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

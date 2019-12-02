@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NNS paixão)
+    )
+   )
+   (S 
+    (VP 
+     (VB são)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS cavalos)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS corrida)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

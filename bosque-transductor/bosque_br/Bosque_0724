@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN time)
+   )
+   (VP 
+    (VBP pode)
+    (VB empatar)
+   )
+   (NP 
+    (DT a)
+    (JJ segunda)
+    (NN partida)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VP 
+      (VB classificar)
+     )
+    )
+   )
+  )
+ )
+)

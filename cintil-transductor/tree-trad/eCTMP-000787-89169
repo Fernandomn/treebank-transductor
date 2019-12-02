@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS John)
+     (NNS McClane)
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT outro)
+     (NP 
+      (NNS Natal)
+      (JJ estragado)
+     )
+    )
+   )
+  )
+ )
+)

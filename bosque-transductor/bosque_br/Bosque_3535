@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT a)
+     (NN previsão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Conab)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN produção)
+    (ADJP 
+     (JJ nacional)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN arroz)
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB chegar)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (CD 10.6)
+     (NN milhões)
+     (PP 
+      (IN de)
+      (NP 
+       (NN toneladas)
+       (PP 
+        (IN de)
+        (NP 
+         (NN grãos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

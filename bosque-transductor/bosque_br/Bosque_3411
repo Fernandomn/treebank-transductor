@@ -1,0 +1,81 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN escritores)
+    (ADJP 
+     (RB aqui)
+     (VBN reunidos)
+    )
+   )
+   (VP 
+    (VBP pretendem)
+   )
+   (VP 
+    (VP 
+     (VB alertar)
+    )
+    (NP 
+     (DT a)
+     (NN comunidade)
+     (ADJP 
+      (JJ internacional)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT os)
+      (NN ataques)
+      (VP 
+       (VP 
+        (VBN sofridos)
+       )
+       (PP 
+        (IN por+)
+        (NP 
+         (DT a)
+         (NN liberdade)
+         (PP 
+          (PP 
+           (IN de)
+           (VP 
+            (VP 
+             (VB pensar)
+            )
+           )
+          )
+          e
+          (PP 
+           (IN de)
+           (VP 
+            (VP 
+             (VB escrever)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (DT vários)
+         (NN países)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN mundo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

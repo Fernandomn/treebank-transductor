@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS cenário)
+      (ADJP 
+       (ADJP 
+        (VB colocado)
+        (PP 
+         (IN por)
+         (NP 
+          (PRP diversos)
+          (NP 
+           (NP 
+            (NNS deputados)
+            (NP 
+             (CC e)
+             (NNS dirigentes)
+            )
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT o)
+             (NNS PP)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NP 
+          (CD últimas)
+          (NNS semanas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

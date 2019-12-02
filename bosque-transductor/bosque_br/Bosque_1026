@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (IN Que)
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP faria)
+   )
+   (NP 
+    (PRP nada)
+   )
+   (PP 
+    (IN a)
+    (VP 
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VB ser)
+     )
+     (VP 
+      (VP 
+       (VB cobrar)
+      )
+      (NP 
+       (DT os)
+       (NN resultados)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN investimento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

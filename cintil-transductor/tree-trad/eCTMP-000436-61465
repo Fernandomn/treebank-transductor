@@ -1,0 +1,29 @@
+(
+ (S 
+  (NP 
+   (NNS Suíça)
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN a)
+    (VP 
+     (VB pagar)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS preço)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS isolamento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

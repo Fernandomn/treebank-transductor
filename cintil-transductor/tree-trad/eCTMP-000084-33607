@@ -1,0 +1,41 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Um)
+      (NP 
+       (NNS adolescente)
+       (JJ japonês)
+      )
+     )
+     (VB morreu)
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (CD quatro)
+       (NP 
+        (JJ outros)
+        (NNS passageiros)
+       )
+      )
+      (VP 
+       (VB ficaram)
+       (VB feridos)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS explosão)
+    )
+   )
+  )
+ )
+)

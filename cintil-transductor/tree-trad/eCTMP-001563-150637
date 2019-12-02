@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Colóquio)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS série)
+       (NP 
+        (NP 
+         (NNS O)
+         (NNS Lugar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Serralves)
+    )
+   )
+  )
+ )
+)

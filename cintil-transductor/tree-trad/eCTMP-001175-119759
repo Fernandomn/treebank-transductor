@@ -1,0 +1,72 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT esta)
+     (NP 
+      (NP 
+       (NNS fase)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS instrução)
+          (JJ básica)
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (CD três)
+         (NP 
+          (NNS meses)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS duração)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS alunos)
+    )
+    (VP 
+     (VP 
+      (VB têm)
+      (NP 
+       (CD 35)
+       (NP 
+        (NNS horas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS aulas)
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNS semana)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS O)
+     (NNS Cabo)
+     (NNS de)
+     (NNS Guerra)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS história)
+      (PP 
+       (IN de)
+       (NP 
+        (CD três)
+        (NNS homens)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

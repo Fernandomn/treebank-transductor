@@ -1,0 +1,82 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN condição)
+     (PP 
+      (IN de)
+      (NP 
+       (NN senhor)
+       (PP 
+        (IN de)
+        (NP 
+         (NN meia-idade)
+        )
+       )
+       (PP 
+        (IN com)
+        (NP 
+         (NN idéias)
+         (ADJP 
+          (JJ adolescentes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (NN tio)
+    (NP 
+     (NNP Dave)
+    )
+   )
+   (VP 
+    (VBP vem)
+    (VBG observando)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT bastante)
+     (NN inquietação)
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT seu)
+     (NN sentido)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN paladar)
+      )
+     )
+    )
+    (VP 
+     (VBP parece)
+     (VB estar)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBG esvaindo)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT o)
+      (NN ralo)
+     )
+    )
+   )
+  )
+ )
+)

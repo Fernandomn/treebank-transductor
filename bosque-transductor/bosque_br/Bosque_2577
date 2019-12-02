@@ -1,0 +1,56 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP derrotar)
+    )
+    (NP 
+     (DT o)
+     (NN candidato)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP PPR)
+      )
+     )
+    )
+   )
+   (NP 
+    (NNP Roseana)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP tornará)
+   )
+   (NP 
+    (DT a)
+    (JJ primeira)
+    (NN governadora)
+    (VP 
+     (VP 
+      (VBN eleita)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN história)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN país)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

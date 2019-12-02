@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN lista)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT os)
+       (NN assuntos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estão)
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN campanha)
+     (PP 
+      (IN contra)
+      (NP 
+       (DT a)
+       (NN fome)
+      )
+     )
+    )
+    (NP 
+     (NN racismo)
+    )
+    (NP 
+     (NN imigração)
+     (ADJP 
+      (JJ nordestina)
+     )
+    )
+    (NP 
+     (NN aborto)
+    )
+    (NP 
+     (NN corrupção)
+     (ADJP 
+      (JJ política)
+     )
+    )
+    e
+    (NP 
+     (NN aborto)
+    )
+   )
+  )
+ )
+)

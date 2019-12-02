@@ -1,0 +1,66 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Além_de)
+    (NP 
+     (NNP Brasília)
+    )
+   )
+   (VP 
+    (VBP devem)
+    (VB atrasar)
+   )
+   (NP 
+    (DT o)
+    (NN relógio)
+   )
+   (NP 
+    (DT os)
+    (NN Estados)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNP São_Paulo)
+      )
+      (NP 
+       (NNP Rio_Grande_do_Sul)
+      )
+      (NP 
+       (NNP Santa_Catarina)
+      )
+      (NP 
+       (NNP Paraná)
+      )
+      (NP 
+       (NNP Rio_de_Janeiro)
+      )
+      (NP 
+       (NNP Minas_Gerais)
+      )
+      (NP 
+       (NNP Espírito_Santo)
+      )
+      (NP 
+       (NNP Goiás)
+      )
+      (NP 
+       (NNP Mato_Grosso_do_Sul)
+      )
+      (NP 
+       (NNP Mato_Grosso)
+      )
+      (NP 
+       (NNP Amazonas)
+      )
+      e
+      (NP 
+       (NNP Bahia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

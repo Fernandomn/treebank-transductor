@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP Banespa)
+   )
+   (VP 
+    (VBP carrega)
+   )
+   (NP 
+    (NN US$)
+    (NP 
+     (CD 8.1)
+     (NN bilhões)
+     (PP 
+      (IN de)
+      (NP 
+       (NN créditos)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN setor)
+         (ADJP 
+          (JJ público)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

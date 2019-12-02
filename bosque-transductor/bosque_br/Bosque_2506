@@ -1,0 +1,44 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VBP é)
+    (VBN acusado)
+   )
+   (PP 
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN morte)
+      (PP 
+       (IN de)
+       (NP 
+        (RB pelo_menos)
+        (CD 83)
+        (NN pessoas)
+       )
+      )
+     )
+    )
+    e
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB ter)
+       (VBN ferido)
+      )
+      (ADJP 
+       (DT outras)
+       (CD 200)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS barragem)
+     (NNS de_)
+     (NNS o)
+     (NNS Caldeirão)
+    )
+   )
+   (VP 
+    (VP 
+     (VB começou)
+     (RB finalmente)
+    )
+    (PP 
+     (IN a)
+     (VB encher)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Secretário)
+    (NNS regional)
+    (NNS de_)
+    (NNS a)
+    (NNS Educação)
+   )
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB esconde)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS gravidade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS problema)
+      )
+     )
+    )
+   )
+  )
+ )
+)

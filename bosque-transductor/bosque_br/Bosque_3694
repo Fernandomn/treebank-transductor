@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Os)
+    (NN anos)
+    (ADJP 
+     (CD 80)
+    )
+   )
+   (VP 
+    (VBP foram)
+   )
+   (NP 
+    (DT um)
+    (NN divisor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN águas)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN industrialização)
+     (ADJP 
+      (JJ brasileira)
+     )
+    )
+   )
+  )
+ )
+)

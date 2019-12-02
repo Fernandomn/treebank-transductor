@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Resta)
+   )
+   (ADVP 
+    (RB portanto)
+   )
+   (VP 
+    (VP 
+     (VB saber)
+    )
+    (VP 
+     (IN se)
+     (NP 
+      (DT as)
+      (NN medidas)
+      (VBN anunciadas)
+      (VP 
+       (ADVP 
+        (RB em_tese)
+       )
+       (VP 
+        (VBN adequadas)
+       )
+      )
+     )
+     (VP 
+      (VBP terão)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (NN prática)
+      )
+     )
+     (NP 
+      (DT o)
+      (NN efeito)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (NP 
+        (PRP se)
+       )
+       (VP 
+        (VBP espera)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

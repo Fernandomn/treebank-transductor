@@ -1,0 +1,75 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Além)
+      (IN de)
+     )
+     (NP 
+      (NNS Sandell)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (JJ outra)
+      (NP 
+       (JJ grande)
+       (NNS desilusão)
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NP 
+         (JJ espanhola)
+        )
+        (NP 
+         (NNS Julia)
+         (NNS Vaquero)
+        )
+       )
+       (CONJP 
+        (CONJP 
+         (NP 
+          (DT cujo)
+          (NP 
+           (NNS início)
+           (JJ fraquíssimo)
+          )
+         )
+         (S 
+          (VP 
+           (VB hipotecou)
+           (NP 
+            (DT o)
+            (NP 
+             (NNS resto)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS prova)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

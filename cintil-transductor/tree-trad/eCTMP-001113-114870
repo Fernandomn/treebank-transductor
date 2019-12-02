@@ -1,0 +1,71 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NP 
+     (JJ grande)
+     (NNS realização)
+    )
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB marca)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS início)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS carreira)
+            (PP 
+             (IN de)
+             (NP 
+              (DT um)
+              (NP 
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT os)
+                 (NP 
+                  (ADJP 
+                   (ADJP 
+                    (RB mais)
+                    (JJ fascinantes)
+                   )
+                   (ADJP 
+                    (CC e)
+                    (JJ originais)
+                   )
+                  )
+                  (NP 
+                   (NP 
+                    (NNS criadores)
+                    (JJ cinematográficos)
+                   )
+                   (JJ franceses)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

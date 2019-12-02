@@ -1,0 +1,60 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT Cada)
+     (NN hesitação)
+    )
+    (NP 
+     (DT cada)
+     (NN silêncio)
+    )
+    (NP 
+     (DT cada)
+     (NN desvio)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN olhar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP era)
+   )
+   (NP 
+    (DT um)
+    (NN ganho)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (NN contabilidade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN sublime)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (NP 
+          (DT o)
+          (NN diretor-autor)
+         )
+         (VP 
+          (VBP planejava)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

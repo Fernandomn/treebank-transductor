@@ -1,0 +1,42 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Dias)
+     (NNS Loureiro)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Paulo)
+      (NNS Mendo)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS inauguração)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Palácio)
+         (NNS Mascarenhas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

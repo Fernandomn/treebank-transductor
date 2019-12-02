@@ -1,0 +1,23 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS reunião)
+   )
+   (VP 
+    (VB terminou)
+    (PP 
+     (IN sem)
+     (NP 
+      (PRP qualquer)
+      (NP 
+       (NNS resultado)
+       (JJ positivo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

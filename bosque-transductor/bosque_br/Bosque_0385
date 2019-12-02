@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Lula)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP cresceu)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP prosperou)
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB enquanto)
+    )
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VBP dava)
+    )
+    (ADJP 
+     (JJ errado)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN país)
+     )
+    )
+   )
+  )
+ )
+)

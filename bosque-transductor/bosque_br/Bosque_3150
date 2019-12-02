@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Caixa)
+   )
+   (VP 
+    (VBP resgata)
+   )
+   (NP 
+    (DT a)
+    (NN década)
+    (VBN perdida)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Elvis)
+     )
+    )
+   )
+  )
+ )
+)

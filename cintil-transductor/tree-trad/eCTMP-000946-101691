@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Nunca)
+     (VP 
+      (VB está)
+      (RB aí)
+     )
+    )
+    (NP 
+     (DT o)
+     (NNS cinema)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB está)
+       (RB sempre)
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT outro)
+        (NNS sítio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

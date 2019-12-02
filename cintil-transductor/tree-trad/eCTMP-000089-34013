@@ -1,0 +1,91 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VP 
+          (VB Odeio)
+          (NP 
+           (DT os)
+           (NP 
+            (JJ japoneses)
+           )
+          )
+         )
+         (PP 
+          (IN por)
+          (NP 
+           (DT aquilo)
+           (NP 
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (NP 
+               (PRP eles)
+              )
+              (VP 
+               (VB fizeram)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC mas)
+       (S 
+        (VP 
+         (VB admiro)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS qualidade)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (PP seus)
+              (NNS produtos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS Sun)
+       (NNS Guosong)
+      )
+     )
+     (NP 
+      (NP 
+       (CD 20)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

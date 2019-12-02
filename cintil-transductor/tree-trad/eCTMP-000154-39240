@@ -1,0 +1,17 @@
+(
+ (S 
+  (NP 
+   (NNS Fellini)
+  )
+  (VP 
+   (VB filma)
+   (PP 
+    (IN sobre)
+    (NP 
+     (DT o)
+     (NNS cinema)
+    )
+   )
+  )
+ )
+)

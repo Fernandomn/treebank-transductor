@@ -1,0 +1,99 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NP 
+      (NP 
+       (NNS choques)
+       (PP 
+        (IN entre)
+        (NP 
+         (NP 
+          (NNS Cruyff)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS presidente)
+            (NNS Josep)
+            (NNS Lluis)
+            (NNS Nuñez)
+           )
+          )
+         )
+        )
+       )
+      )
+      (ADJP 
+       (ADJP 
+        (ADVP 
+         (RB até)
+         (RB aqui)
+        )
+        (ADJP 
+         (VB ultrapassados)
+         (PP 
+          (IN por_)
+          (NP 
+           (DT os)
+           (NP 
+            (JJ bons)
+            (NP 
+             (NNS resultados)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT a)
+               (NNS equipa)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB ganham)
+      (RB agora)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS dimensão)
+       (ADJP 
+        (RB mais)
+        (JJ dramática)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB podem)
+      (VP 
+       (VB ter)
+       (NP 
+        (NP 
+         (NNS consequências)
+         (JJ imprevisíveis)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gomes)
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (RB mesmo)
+    )
+    (VP 
+     (VP 
+      (VB lançar)
+      (NP 
+       (DT um)
+       (NNS repto)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NNS sociais-democratas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

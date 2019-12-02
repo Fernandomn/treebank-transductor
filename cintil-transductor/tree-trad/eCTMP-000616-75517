@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (RB Agora)
+   (S 
+    (NP 
+     (NNS Cavaco)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS primeiro-ministro)
+        (PP 
+         (IN a)
+         (NP 
+          (NNS prazo)
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VB estagiando)
+        (PP 
+         (IN para)
+         (NP 
+          (NNS Belém)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

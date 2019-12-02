@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN torcedor)
+    (ADJP 
+     (JJ paulista)
+    )
+   )
+   (VP 
+    (VBP sonhava)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT uma)
+     (NN era)
+     (ADJP 
+      (JJ futura)
+     )
+     (VP 
+      (PP 
+       (IN em)
+       (NP 
+        (PRP que)
+       )
+      )
+      (NP 
+       (NNP São_Paulo)
+      )
+      (VP 
+       (VBP chegaria)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN supremacia)
+        (VP 
+         (IN se)
+         (ADJP 
+          (JJ possível)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NN forma)
+           (ADJP 
+            (JJ arrasadora)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Isto)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN a)
+      (IN propósito)
+      (IN de)
+     )
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Em_)
+         (NNS a)
+         (NNS América)
+        )
+       )
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS irlandês)
+           (NP 
+            (NNS Jim)
+            (NNS Sheridan)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

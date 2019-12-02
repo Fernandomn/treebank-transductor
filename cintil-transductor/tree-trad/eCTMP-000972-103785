@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Para)
+       (IN além)
+       (IN de_)
+      )
+      (NP 
+       (DT a)
+       (NNS embaixada)
+      )
+     )
+    )
+    (VP 
+     (VB existe)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS emirado)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NP 
+      (NNS base)
+      (JJ americana)
+     )
+     (CONJP 
+      (RB onde)
+      (S 
+       (S 
+        (VP 
+         (VB está)
+         (JJ instalado)
+        )
+        (NP 
+         (DT um)
+         (NNS batalhão)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

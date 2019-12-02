@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Baresi)
+    )
+    (VP 
+     (VB está)
+     (ADJP 
+      (RB mais)
+      (JJ velho)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (ADVP 
+      (RB assim)
+     )
+     (S 
+      (NP 
+       (DT a)
+       (NNS defesa)
+      )
+      (VP 
+       (VB perdeu)
+       (NP 
+        (NNS segurança)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Orquestra)
+     (NNS Clássica)
+     (NNS de_)
+     (NNS o)
+     (NNS Porto)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VP 
+      (VB estrear)
+      (RB amanhã)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (PP seu)
+       (NP 
+        (JJ novo)
+        (NP 
+         (NP 
+          (NNS espaço)
+          (JJ permanente)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS concertos)
+            (PP 
+             (IN para)
+             (NP 
+              (DT os)
+              (NP 
+               (CD próximos)
+               (NP 
+                (CD três)
+                (NNS meses)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

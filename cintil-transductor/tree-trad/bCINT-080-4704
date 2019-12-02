@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS ministro)
+      (NNS de_)
+      (NNS o)
+      (NNS Equipamento)
+      (NNS Planeamento)
+      (NNS e)
+      (NNS Administração)
+      (NNS de_)
+      (NNS o)
+      (NNS Território)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB fez)
+     (RB ainda)
+    )
+    (NP 
+     (DT outra)
+     (NP 
+      (NNS distinção)
+      (JJ fundamental)
+     )
+    )
+   )
+  )
+ )
+)

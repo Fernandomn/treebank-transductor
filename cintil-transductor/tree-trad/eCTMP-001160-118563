@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (NP 
+        (PRP Nós)
+       )
+       (VP 
+        (VB apresentamos)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS projecto)
+          (PP 
+           (IN para)
+           (NP 
+            (DT o)
+            (NNS terreno)
+           )
+          )
+         )
+        )
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (NP 
+         (DT a)
+         (NNS autarquia)
+        )
+        (VP 
+         (VB analisa)
+         (NP 
+          (PRP -o)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NNS Ernesto)
+      (NNS Carvalho)
+     )
+    )
+   )
+  )
+ )
+)

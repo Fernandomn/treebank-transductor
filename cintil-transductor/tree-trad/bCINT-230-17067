@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS Barcelona)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Gotemburgo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB ficou)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT a)
+       (NNS eliminatória)
+      )
+     )
+    )
+   )
+  )
+ )
+)

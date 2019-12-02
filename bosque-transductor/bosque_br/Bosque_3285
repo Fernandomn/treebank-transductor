@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB multiplicar)
+     )
+     (NP 
+      (DT o)
+      (NN porte)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (DT suas)
+        (NN denúncias)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP ele)
+   )
+   (VP 
+    (VBP apresentou)
+   )
+   (NP 
+    (DT as)
+    (DT suas)
+    (NN perorações)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (CD dois)
+     (NN sítios)
+     (ADJP 
+      (JJ diferentes)
+     )
+    )
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN procuradorias)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Roma)
+       )
+      )
+      e
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Milão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

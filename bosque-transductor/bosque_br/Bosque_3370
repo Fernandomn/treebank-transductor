@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Vila_Madalena)
+    )
+    e
+    (NP 
+     (NNP Pinheiros)
+    )
+   )
+   (VP 
+    (VBP ganharam)
+   )
+   (NP 
+    (JJ novas)
+    (NN opções)
+    (ADJP 
+     (JJ noturnas)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT esta)
+     (NN semana)
+    )
+   )
+  )
+ )
+)

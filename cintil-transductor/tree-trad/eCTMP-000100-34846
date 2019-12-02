@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS condutores)
+     (PP 
+      (PP 
+       (IN de)
+       (NP 
+        (CD dois)
+        (NP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS pesados)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (CC e)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS automobilista)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VB morreram)
+  )
+ )
+)

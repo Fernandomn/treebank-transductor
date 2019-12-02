@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS equipa)
+   )
+   (VP 
+    (VP 
+     (VB preparou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT o)
+      (NNS jogo)
+     )
+    )
+   )
+  )
+ )
+)

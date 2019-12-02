@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN assessor)
+    (PP 
+     (IN de)
+     (NP 
+      (NN comunicação)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NNP Reduc)
+       )
+      )
+     )
+    )
+    (NP 
+     (NNP Fernando_Fortes)
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT os)
+     (NN grevistas)
+    )
+    (VP 
+     (VBP estão)
+     (VBG desrespeitando)
+    )
+    (NP 
+     (DT a)
+     (NN determinação)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP TST)
+      )
+     )
+    )
+   )
+  )
+ )
+)

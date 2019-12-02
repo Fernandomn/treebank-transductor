@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN verdade)
+   )
+   (ADVP 
+    (RB porém)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP dá)
+   )
+   (NP 
+    (NP 
+     (NN cartas)
+    )
+    nem
+    (NP 
+     (NN votos)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VP 
+       (VB defende)
+       (RB abertamente)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS adopção)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS sistema)
+           (JJ maioritário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT o)
+     (NNS PP)
+    )
+   )
+  )
+ )
+)

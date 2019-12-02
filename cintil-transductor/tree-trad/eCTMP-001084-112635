@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Espera)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS anúncio)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS redução)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS impostos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS aumento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NNS pensões)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

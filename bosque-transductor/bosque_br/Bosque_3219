@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (JJ chamado)
+    (NN mundo)
+    (ADJP 
+     (JJ livre)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (ADVP 
+      (RB então)
+     )
+     (VP 
+      (VBP incluía)
+     )
+     (ADVP 
+      (RB também)
+     )
+     (NP 
+      (DT a)
+      (NNP URSS)
+     )
+    )
+   )
+   (VP 
+    (VBP unia-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NN nazi-fascismo)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Deverá)
+    (VP 
+     (VB pedir)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS suspensão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NP 
+           (NNS mandato)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS BCI)
+              (NNS Valores)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

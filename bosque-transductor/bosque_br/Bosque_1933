@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT A)
+     (NN cidade)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (DT uma)
+     (JJ larga)
+     (NN população)
+     (PP 
+      (IN de)
+      (NP 
+       (NN origem)
+       (ADJP 
+        (JJ japonesa)
+       )
+      )
+     )
+    )
+   )
+   (CC e)
+   (VP 
+    (NP 
+     (PRP isso)
+    )
+    (VP 
+     (VBP sustenta)
+    )
+    (NP 
+     (NP 
+      (DT a)
+      (NN proliferação)
+     )
+     e
+     (NP 
+      (DT a)
+      (NN qualidade)
+      (PP 
+       (IN de)
+       (NP 
+        (DT seus)
+        (NN restaurantes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

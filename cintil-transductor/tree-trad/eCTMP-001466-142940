@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Têm)
+     (NP 
+      (NNS medo)
+     )
+    )
+    (PP 
+     (PP 
+      (PP 
+       (IN apesar)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS controlo)
+         (JJ democrático)
+        )
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB vigora)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT este)
+             (NNS país)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

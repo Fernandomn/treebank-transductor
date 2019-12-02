@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Foi)
+     (ADVP 
+      (RB portanto)
+     )
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NP 
+        (NNS evolução)
+        (ADJP 
+         (RB muito)
+         (JJ gradual)
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS trombone)
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT o)
+        (NNS canto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

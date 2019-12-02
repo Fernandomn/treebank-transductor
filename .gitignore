@@ -1,0 +1,13 @@
+cintil-transductor/__pycache__/
+cintil-transductor/raw-trad/
+cintil-transductor/relatorios/
+
+bosque-transductor/__pycache__/
+bosque-transductor/relatorios/
+
+output/treinoBOSQUE/
+output/treinoCINTIL/
+
+stanford-parser-full-2018-10-17
+stanford-parser-full-2018-10-17/
+stanford-parser-full-2018-10-17.zip

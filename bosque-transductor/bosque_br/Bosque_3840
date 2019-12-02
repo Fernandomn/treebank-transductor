@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Vasco)
+    )
+    (NP 
+     (NNP Botafogo)
+    )
+    (NP 
+     (NNP Fluminense)
+    )
+    e
+    (NP 
+     (RB até)
+     (DT o)
+     (NNP Flamengo)
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN fantasmas)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN passado)
+     )
+    )
+   )
+  )
+ )
+)

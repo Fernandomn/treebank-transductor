@@ -1,0 +1,60 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Roma)
+   )
+   (VP 
+    (VP 
+     (VB ganhou)
+     (NP 
+      (NP 
+       (NNS fama)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS capital)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS intolerância)
+             )
+            )
+           )
+          )
+          (JJ italiana)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN depois)
+      (IN de)
+     )
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS série)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS ataques)
+          (JJ racistas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

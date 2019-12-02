@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN maioria)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN voluntários)
+     )
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (ADJP 
+    (JJ jovens)
+   )
+  )
+ )
+)

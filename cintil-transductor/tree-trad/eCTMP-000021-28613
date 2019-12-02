@@ -1,0 +1,57 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (RB Depois)
+     (VP 
+      (VB comecei)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ter)
+        (NP 
+         (NP 
+          (NNS problemas)
+          (PP 
+           (PP 
+            (IN com)
+            (NP 
+             (DT a)
+             (NNS embraiagem)
+            )
+           )
+           (PP 
+            (CC e)
+            (PP 
+             (IN com)
+             (NP 
+              (DT o)
+              (NP 
+               (NNS motor)
+               (CONJP 
+                (NP 
+                 (PRP que)
+                )
+                (S 
+                 (VP 
+                  (VB aquecia)
+                  (RB muito)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

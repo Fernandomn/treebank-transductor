@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (CD 192)
+     (NP 
+      (NNS facturas)
+      (ADJP 
+       (RB alegadamente)
+       (ADJP 
+        (ADJP 
+         (VB emitidas)
+         (PP 
+          (IN por)
+          (NP 
+           (CD dez)
+           (NNS empresas)
+          )
+         )
+        )
+        (PP 
+         (IN em)
+         (NP 
+          (NP 
+           (NNS favor)
+           (PP 
+            (IN de)
+            (NP 
+             (DT outras)
+             (NP 
+              (CD 23)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

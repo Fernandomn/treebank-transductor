@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT o)
+    (NN caso)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP Iti_Fuji)
+      (NP 
+       (NN restaurante)
+       (VP 
+        (VP 
+         (VBN fundado)
+        )
+        (ADVP 
+         (NP 
+          (CD 12)
+          (NN anos)
+         )
+         (RB atrás)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT o)
+          (NN japonês)
+          (NP 
+           (NNP Hashiro_Yawata)
+          )
+          (NP 
+           (CD 74)
+          )
+          (NP 
+           (NN proprietário)
+           (PP 
+            (IN de)
+            (ADJP 
+             (CD um)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT os)
+               (ADJP 
+                (RB mais)
+                (JJ antigos)
+               )
+               (NN restaurantes)
+               (ADJP 
+                (JJ japoneses)
+               )
+               (PP 
+                (IN de+)
+                (NP 
+                 (DT a)
+                 (NN cidade)
+                )
+               )
+              )
+             )
+             (NP 
+              (DT o)
+              (NNP Kokeshi)
+              (VP 
+               (VP 
+                (VBN aberto)
+               )
+               (PP 
+                (IN há)
+                (NP 
+                 (CD 33)
+                 (NN anos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

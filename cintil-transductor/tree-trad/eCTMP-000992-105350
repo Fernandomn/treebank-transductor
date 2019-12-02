@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Níveis)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS vida)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Europa)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB vão)
+   (VP 
+    (VB deteriorar)
+    (NP 
+     (PRP -se)
+    )
+   )
+  )
+ )
+)

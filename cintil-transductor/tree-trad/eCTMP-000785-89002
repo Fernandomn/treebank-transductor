@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS vida)
+     (JJ comunitária)
+    )
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ cheia)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS restrições)
+      )
+     )
+    )
+   )
+  )
+ )
+)

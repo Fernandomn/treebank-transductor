@@ -1,0 +1,47 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT a)
+      (NNS formação)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NNS educação)
+      )
+     )
+    )
+    (VP 
+     (VB estarão)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS mira)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS sociais-democratas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

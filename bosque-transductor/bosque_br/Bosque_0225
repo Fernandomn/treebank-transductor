@@ -1,0 +1,94 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Lançado)
+    )
+    (PP 
+     (IN dentro_de+)
+     (NP 
+      (DT o)
+      (NN projeto)
+      (NP 
+       (NNP Asia_Classics)
+      )
+      (NP 
+       (DT um)
+       (NN subselo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NNP Luaka_Bop)
+        )
+       )
+       (NP 
+        (DT o)
+        (DT mesmo)
+        (VP 
+         (NP 
+          (PRP que)
+         )
+         (VP 
+          (VBP lançou)
+         )
+         (NP 
+          (NNP Tom_Zé)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT o)
+           (NN exterior)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT essa)
+    (NN coletânea)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT mais)
+    (CD um)
+    (NN passo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Byrne)
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (DT sua)
+     (NN busca)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN sublime)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN música)
+    )
+   )
+  )
+ )
+)

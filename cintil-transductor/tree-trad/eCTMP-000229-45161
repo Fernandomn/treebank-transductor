@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eles)
+    )
+    (VP 
+     (VB andavam)
+     (PP 
+      (PP 
+       (IN por)
+       (IN entre)
+      )
+      (NP 
+       (DT os)
+       (NNS corpos)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB diziam)
+    )
+   )
+  )
+ )
+)

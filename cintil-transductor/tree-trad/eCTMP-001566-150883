@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS autores)
+   )
+   (VP 
+    (VB ouviram)
+    (NP 
+     (NP 
+      (NNS testemunhos)
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS sobreviventes)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NP 
+           (CD primeiros)
+           (NP 
+            (NP 
+             (NNS soldados)
+             (JJ americanos)
+            )
+            (CONJP 
+             (NP 
+              (PRP que)
+             )
+             (S 
+              (VP 
+               (VB chegaram)
+               (PP 
+                (IN a_)
+                (NP 
+                 (DT a)
+                 (NNS cidade)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

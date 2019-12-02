@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Anda)
+     (RB agora)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS moda)
+     )
+    )
+   )
+   (NP 
+    (DT esta)
+    (NP 
+     (NNS pronúncia)
+     (ADJP 
+      (VB difundida)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NNS TV)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

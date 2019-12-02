@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ extensa)
+        (NP 
+         (NNS lista)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS opções)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NP 
+        (NNS topo)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS gama)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT os)
+         (NNS utilitários)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

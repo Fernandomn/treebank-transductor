@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (DT o)
+     (NNP Rio_Branco)
+    )
+   )
+   (VP 
+    (VBP bastou)
+   )
+   (NP 
+    (DT o)
+    (JJ primeiro)
+    (NN tempo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN jogo)
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB determinar)
+     )
+     (NP 
+      (DT o)
+      (NN resultado)
+     )
+    )
+   )
+  )
+ )
+)

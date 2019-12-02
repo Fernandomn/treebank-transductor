@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS prestação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS grupo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB prejudicada)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS deficiências)
+        (ADJP 
+         (JJ técnicas)
+         (CONJP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB estragaram)
+             (NP 
+              (DT a)
+              (NP 
+               (NP 
+                (NNS parte)
+                (JJ final)
+               )
+               (PP 
+                (IN de_)
+                (NP 
+                 (DT o)
+                 (NNS espectáculo)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

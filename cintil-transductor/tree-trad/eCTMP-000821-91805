@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Nós)
+    )
+    (VP 
+     (VB estamos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT uma)
+       (NNS plataforma)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB agora)
+      (VP 
+       (VB temos)
+       (PP 
+        (IN de)
+        (VP 
+         (VB dar)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS salto)
+           (PP 
+            (IN para)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS produção)
+              (PP 
+               (IN de)
+               (NP 
+                (NP 
+                 (JJ grandes)
+                 (NNS vinhos)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP ele)
+    )
+   )
+   (NP 
+    (DT a)
+    (NN privatização)
+   )
+   (VP 
+    (VBP entende)
+   )
+   (ADVP 
+    (PP 
+     (IN desde)
+     (NP 
+      (DT a)
+      (NN venda)
+      (PP 
+       (IN de)
+       (NP 
+        (NN ativos)
+        (ADJP 
+         (JJ públicos)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (NN ações)
+      (PP 
+       (IN de)
+       (NP 
+        (NN estatais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

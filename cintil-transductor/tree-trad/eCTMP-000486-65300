@@ -1,0 +1,66 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (NP 
+       (DT Os)
+       (NNS jogadores)
+      )
+      (VP 
+       (VP 
+        (VB estavam)
+        (ADJP 
+         (RB muito)
+         (JJ cansados)
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (CD segunda)
+          (NNS parte)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (CD últimos)
+         (NP 
+          (CD 20)
+          (NNS minutos)
+         )
+        )
+       )
+      )
+      (S 
+       (NP 
+        (DT os)
+        (NP 
+         (PP seus)
+         (NNS movimentos)
+        )
+       )
+       (VP 
+        (VB foram)
+        (JJ maus)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

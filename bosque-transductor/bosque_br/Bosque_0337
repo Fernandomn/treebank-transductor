@@ -1,0 +1,58 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Segundo)
+    (NP 
+     (DT o)
+     (NN diretor)
+     (ADJP 
+      (JJ regional)
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN entidade)
+      )
+     )
+     (NP 
+      (NNP Glauco_Pereira_Chaves)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN crise)
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN mercado)
+      (PP 
+       (IN de)
+       (NP 
+        (NN trabalho)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP estaria)
+    (VBG dificultando)
+   )
+   (NP 
+    (DT o)
+    (NN aproveitamento)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NN formandos)
+     )
+    )
+   )
+  )
+ )
+)

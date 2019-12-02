@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (ADJP 
+      (ADVP 
+       (RB muito)
+       (RB menos)
+      )
+      (JJ alto)
+     )
+     de_ o que
+     (NP 
+      (DT A)
+      (NNS Maria)
+     )
+    )
+   )
+  )
+ )
+)

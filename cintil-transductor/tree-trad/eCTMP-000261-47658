@@ -1,0 +1,41 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (CD 90)
+    (NP 
+     (NP 
+      (NN por)
+      (NN cento)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS empreiteiros)
+        (JJ florestais)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS salários)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS atraso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (RB Já)
+   (S 
+    (NP 
+     (DT a)
+     (NNS organização)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB tem)
+      )
+      (VP 
+       (VB sido)
+       (JJ impecável)
+      )
+     )
+     (ADVP 
+      (ADVP 
+       (RB longe)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT isso)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

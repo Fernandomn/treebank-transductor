@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VBP têm)
+    (IN que)
+    (VB comparecer)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Juquery)
+    )
+   )
+   (ADVP 
+    (PP 
+     (IN de)
+     (NP 
+      (NN segunda)
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NN sexta-feira)
+     )
+    )
+   )
+   (ADVP 
+    (PP 
+     (IN de+)
+     (NP 
+      (DT as)
+      (NN 8h)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT as)
+      (NN 17h)
+     )
+    )
+   )
+  )
+ )
+)

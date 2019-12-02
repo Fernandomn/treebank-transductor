@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (RB Não)
+    (VB há)
+   )
+   (NP 
+    (NP 
+     (NNS artistas)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS TV)
+        (NP 
+         (NP 
+          (NNS rádio)
+          (NP 
+           (CC e)
+           (NP 
+            (NNS cassete)
+            (JJ pirata)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

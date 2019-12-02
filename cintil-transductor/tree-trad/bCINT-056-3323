@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT As)
+      (NP 
+       (NNS aves)
+       (ADJP 
+        (JJ predilectas)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT estes)
+          (NNS roubos)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (VB são)
+       (ADVP 
+        (RB quase)
+        (RB sempre)
+       )
+      )
+      (NP 
+       (NP 
+        (NNS milhafres)
+        (NP 
+         (NP 
+          (NNS bútios)
+          (NP 
+           (NP 
+            (NNS mochos)
+            (NP 
+             (CC ou)
+             (NNS corujas)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB também)
+      (VP 
+       (VB há)
+       (NP 
+        (DT outros)
+        (NP 
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (JJ menores)
+            (NNS dimensões)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

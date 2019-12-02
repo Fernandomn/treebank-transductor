@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Fim)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS campanha)
+        (JJ eleitoral)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Guiné)
+       (NNS Bissau)
+      )
+     )
+    )
+   )
+  )
+ )
+)

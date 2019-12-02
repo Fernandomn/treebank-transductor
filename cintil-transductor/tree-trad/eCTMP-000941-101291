@@ -1,0 +1,62 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS Gulbenkian)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS orquestra)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS casa)
+        )
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS violinista)
+        (NP 
+         (NNS Augustin)
+         (NNS Dumay)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB são)
+     (VP 
+      (VB dirigidos)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NP 
+          (NNS Claudio)
+          (NNS Scimone)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

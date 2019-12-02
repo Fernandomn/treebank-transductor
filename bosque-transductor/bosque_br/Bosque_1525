@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT o)
+     (NNP Brasil)
+     (NP 
+      (NN coisa)
+      (ADJP 
+       (JJ esquisita)
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB já)
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP negociou)
+   )
+   (NP 
+    (NNP CDB)
+    (PP 
+     (IN de)
+     (NP 
+      (CD seis)
+      (NN meses)
+      (NP 
+       (DT uma)
+       (NN eternidade)
+       (ADVP 
+        (RB hoje_em_dia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

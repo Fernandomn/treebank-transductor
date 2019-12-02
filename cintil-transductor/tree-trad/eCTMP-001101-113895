@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (S 
+      (S 
+       (VP 
+        (VB Acabaram)
+        (NP 
+         (PRP -se)
+        )
+       )
+       (NP 
+        (DT as)
+        (NNS expectativas)
+       )
+      )
+      (S 
+       (CC e)
+       (S 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS endurecimento)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS luta)
+           )
+          )
+         )
+        )
+        (VP 
+         (VB é)
+         (NP 
+          (DT a)
+          (NP 
+           (JJ única)
+           (NP 
+            (NNS solução)
+            (PP 
+             (IN para)
+             (NP 
+              (DT a)
+              (NP 
+               (NNS mudança)
+               (PP 
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NNS política)
+                 )
+                )
+                (PP 
+                 (CC e)
+                 (PP 
+                  (IN de)
+                  (NP 
+                   (NNS governo)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+   )
+  )
+ )
+)

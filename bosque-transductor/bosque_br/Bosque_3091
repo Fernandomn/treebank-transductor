@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN versatilidade)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NNP George)
+      (NP 
+       (RB como)
+       (NP 
+        (NN compositor)
+       )
+      )
+     )
+    )
+   )
+   (ADVP 
+    (RB só)
+   )
+   (VP 
+    (VBP era)
+   )
+   (VP 
+    (VP 
+     (VBN igualada)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (PP 
+       (IN de)
+       (NP 
+        (NN Ira)
+        (NP 
+         (RB como)
+         (NP 
+          (NN letrista)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

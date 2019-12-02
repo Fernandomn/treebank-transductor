@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Souza)
+    (NP 
+     (NN ponta-esquerda)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN time)
+       (PP 
+        (IN de)
+        (NP 
+         (NNP Americana)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP abriu)
+   )
+   (NP 
+    (DT o)
+    (NN marcador)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT os)
+     (CD 25)
+     (NN min)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (JJ pequena)
+       (NNS história)
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (VB dá)
+          (NP 
+           (NNS vida)
+          )
+         )
+         (PP 
+          (IN a_)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS máscaras)
+            (JJ expostas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

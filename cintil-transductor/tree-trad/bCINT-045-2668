@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (RB Já)
+      (VP 
+       (VB fui)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Conselho)
+          (NNS de)
+          (NNS Arbitragem)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (RB nunca)
+       (VP 
+        (VP 
+         (VB vi)
+         (NP 
+          (NNS pistolas)
+         )
+        )
+        (PP 
+         (PP 
+          (IN em)
+          (IN cima)
+          (IN de_)
+         )
+         (NP 
+          (DT a)
+          (NNS mesa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

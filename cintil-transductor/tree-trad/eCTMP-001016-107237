@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Felizmente)
+     )
+     (VP 
+      (VB temos)
+      (NP 
+       (NP 
+        (NNS apoios)
+        (PP 
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS Câmara)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NNS comerciantes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

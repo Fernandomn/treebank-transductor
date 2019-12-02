@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS problema)
+   )
+   (S 
+    (VP 
+     (RB não)
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB deve)
+     )
+    )
+    (VP 
+     (VP 
+      (VB colocar)
+     )
+     (PP 
+      (IN para)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Mesa)
+        (NNS de_)
+        (NNS a)
+        (NNS Assembleia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Polícia_Civil)
+   )
+   (VP 
+    (VBP encontrou)
+   )
+   (NP 
+    (CD dois)
+    (NN homens)
+    (UCP 
+     (VBN amarrados)
+     (VBN amordaçados)
+     e
+     (PP 
+      (IN de)
+      (NP 
+       (NN olhos)
+       (VBN vendados)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT um)
+     (NN barraco)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN favela)
+       (NP 
+        (NNP Nova_Brasília)
+       )
+       (NP 
+        (NN zona)
+        (ADJP 
+         (JJ norte)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

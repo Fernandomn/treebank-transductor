@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Cavaco)
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS descoberta)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS maioria)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

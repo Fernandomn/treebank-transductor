@@ -1,0 +1,25 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Seca)
+   )
+   (VP 
+    (VBP afeta)
+   )
+   (ADVP 
+    (RB pouco)
+   )
+   (NP 
+    (DT a)
+    (NN produção)
+    (PP 
+     (IN de)
+     (NP 
+      (NN grãos)
+     )
+    )
+   )
+  )
+ )
+)

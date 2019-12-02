@@ -1,0 +1,70 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (NN Prazo)
+    )
+    (VP 
+     (VBP é)
+    )
+    (VP 
+     (VP 
+      (VBN ampliado)
+      (PP 
+       (IN para)
+       (PP 
+        (IN até)
+        (NP 
+         (CD 180)
+         (NN dias)
+        )
+       )
+      )
+     )
+     e
+     (VP 
+      (VBN estendido)
+      (PP 
+       (IN a)
+       (NP 
+        (DT todos)
+        (DT os)
+        (NN bancos)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (NP 
+     (NNP BB)
+    )
+    (VP 
+     (VBP tem)
+    )
+    (NP 
+     (NN regra)
+     (ADJP 
+      (JJ especial)
+     )
+     (VP 
+      (VP 
+       (VB evitar)
+      )
+      (NP 
+       (NN prejuízo)
+       (PP 
+        (IN em+)
+        (NP 
+         (DT o)
+         (NN balanço)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

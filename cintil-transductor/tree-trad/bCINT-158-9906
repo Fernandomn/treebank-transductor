@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS tempos)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB seguiram)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS modalidade)
+    )
+    (VP 
+     (VB sofreu)
+     (PP 
+      (IN com)
+      (NP 
+       (DT isso)
+      )
+     )
+    )
+   )
+  )
+ )
+)

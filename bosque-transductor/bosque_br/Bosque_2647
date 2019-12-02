@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Reis)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP quis)
+   )
+   (VP 
+    (VP 
+     (VB dizer)
+    )
+    (VP 
+     (IN se)
+     (ADVP 
+      (RB também)
+     )
+     (VP 
+      (VBP abandonará)
+     )
+     (NP 
+      (NNP Esperidião_Amin)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (PRP Quem)
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB der)
+        (NP 
+         (NNS caução)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         (DT essas)
+         (NNS câmaras)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB pode)
+    (VP 
+     (VB perder)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS confiança)
+        (JJ política)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS distrital)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

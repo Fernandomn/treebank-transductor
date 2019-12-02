@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN motorista)
+   )
+   (VP 
+    (VBP teria)
+    (VBN perdido)
+   )
+   (NP 
+    (DT o)
+    (NN controle)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN carro)
+      (VP 
+       (VP 
+        (VP 
+         (VBN batido)
+        )
+        (PP 
+         (PP 
+          (IN em)
+          (NP 
+           (DT um)
+           (NNP Monza)
+          )
+         )
+         e
+         (PP 
+          (IN em)
+          (NP 
+           (DT uma)
+           (NN árvore)
+          )
+         )
+        )
+        (CC e)
+        (VP 
+         (VP 
+          (VBN capotado)
+         )
+         (PP 
+          (IN em+)
+          (NP 
+           (DT a)
+           (NN rua)
+           (NP 
+            (NNP Enéas_Luiz_Carlos_Barbante)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

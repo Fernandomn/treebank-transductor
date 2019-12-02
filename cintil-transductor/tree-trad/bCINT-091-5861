@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (ADVP 
+      (ADVP 
+       (RB em)
+       (RB conjunto)
+      )
+     )
+    )
+    (PP 
+     (IN de)
+     (VP 
+      (VB ser)
+      (ADJP 
+       (RB mais)
+       (JJ realistas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

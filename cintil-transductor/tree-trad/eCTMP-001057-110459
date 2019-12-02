@@ -1,0 +1,22 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Soldado)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS GNR)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (JJ reformado)
+   )
+   (RB compulsivamente)
+  )
+ )
+)

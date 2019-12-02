@@ -1,0 +1,70 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (VP 
+    (IN se)
+    (PP 
+     (IN em)
+     (NP 
+      (DT muitas)
+      (NN casas)
+      (ADJP 
+       (JJ japonesas)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN cidade)
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (DT o)
+      (NN sashimi)
+     )
+     e
+     (NP 
+      (DT os)
+      (NN sushis)
+     )
+    )
+    (VP 
+     (VBP são)
+    )
+    (NP 
+     (DT os)
+     (NN carros-chefes)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (DT outros)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP destacam)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NN iguarias)
+     (ADJP 
+      (ADVP 
+       (RB nem)
+       (RB tão)
+      )
+      (JJ comuns)
+     )
+    )
+   )
+  )
+ )
+)

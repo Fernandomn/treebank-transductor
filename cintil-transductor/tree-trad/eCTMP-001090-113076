@@ -1,0 +1,56 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (PP 
+        (PP 
+         (IN em)
+         (NP 
+          (NNS 1941)
+         )
+        )
+       )
+       (S 
+        (NP 
+         (DT o)
+         (NP 
+          (NNS historiador)
+          (NP 
+           (NNS Fernando)
+           (NNS de)
+           (NNS Almeida)
+          )
+         )
+        )
+        (VP 
+         (RB ali)
+         (VB chegou)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB pediu)
+     (NP 
+      (NP 
+       (DT um)
+       (NNS homem)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT uma)
+        (NNS enxada)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

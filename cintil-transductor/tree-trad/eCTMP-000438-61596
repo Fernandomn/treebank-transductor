@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN de_)
+     (NP 
+      (DT esta)
+      (NNS vez)
+     )
+    )
+    (VP 
+     (VB foi)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS PCP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

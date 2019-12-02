@@ -1,0 +1,48 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS excesso)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS fosfatos)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS águas)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Guadiana)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB afinal)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (JJ recente)
+    )
+   )
+  )
+ )
+)

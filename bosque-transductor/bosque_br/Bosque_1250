@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (UH Ai)
+   )
+   (NP 
+    (NN mãe)
+    (NP 
+     (NNP Menininha)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP acode-)
+     )
+     (NP 
+      (PRP nos)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT esta)
+       (NN hora)
+       (PP 
+        (IN de)
+        (NP 
+         (RB quase)
+         (NN desespero)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VBP dá-)
+     )
+     (NP 
+      (PRP no)
+     )
+     (NP 
+      (DT o)
+      (NN alimento)
+      (PP 
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN confiança)
+        )
+       )
+       e
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN sonho)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

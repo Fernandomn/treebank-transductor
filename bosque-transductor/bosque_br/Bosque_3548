@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN banda)
+    (ADJP 
+     (JJ brasileira)
+    )
+   )
+   (VP 
+    (VBP nasceu)
+   )
+   (PP 
+    (IN em)
+    (ADJP 
+     (CD 1990)
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB fazer)
+     )
+     (NP 
+      (DT uma)
+      (NN homenagem)
+      (PP 
+       (IN a)
+       (NP 
+        (NNP Zappa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

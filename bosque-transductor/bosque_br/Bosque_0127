@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Primeiro)
+    )
+    (VP 
+     (VBP aprova-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (NP 
+     (DT o)
+     (NN texto)
+     (VBN enxuto)
+    )
+   )
+   (CC e)
+   (VP 
+    (ADVP 
+     (RB depois)
+    )
+    (VP 
+     (VBP negocia-)
+    )
+    (NP 
+     (PRP se)
+    )
+    (NP 
+     (DT a)
+     (NN aprovação)
+     (PP 
+      (IN sem)
+      (NP 
+       (NN prazo)
+       (VBN definido)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (DT as)
+       (NN leis)
+       (ADJP 
+        (ADJP 
+         (JJ complementares)
+        )
+        e
+        (ADJP 
+         (JJ ordinárias)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NP 
+        (NNS música)
+        (JJ pop)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS álbum)
+        )
+       )
+      )
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VP 
+            (VB entra)
+            (RB logo)
+           )
+           (PP 
+            (IN em_)
+            (NP 
+             (DT o)
+             (NNS ouvido)
+            )
+           )
+          )
+          (PP 
+           (IN a_)
+           (NP 
+            (DT os)
+            (NP 
+             (CD primeiros)
+             (NNS segundos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

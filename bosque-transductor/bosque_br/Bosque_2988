@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Parte)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT esse)
+      (NN dinheiro)
+     )
+    )
+   )
+   (VP 
+    (VBP vai)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT a)
+     (NN colheita)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT este)
+       (NN ano)
+      )
+     )
+    )
+   )
+  )
+ )
+)

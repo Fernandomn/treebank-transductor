@@ -1,0 +1,60 @@
+(
+ (S 
+  (NP 
+   (NNP Raul_Torres_&_Florêncio)
+   (NP 
+    (NN Dupla)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VP 
+       (VP 
+        (VBP atuou)
+       )
+       (PP 
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN anos)
+          (ADJP 
+           (CD 40)
+          )
+         )
+        )
+        (PP 
+         (IN a+)
+         (ADJP 
+          (DT os)
+          (CD 60)
+         )
+        )
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VBP criou)
+       )
+       (NP 
+        (DT um)
+        (NN estilo)
+        (ADJP 
+         (JJ romântico)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NN interpretação)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Parlamento)
+     (NNS Europeu)
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB proceder)
+     (PP 
+      (IN a)
+      (NP 
+       (DT uma)
+       (NP 
+        (CD segunda)
+        (NP 
+         (NNS leitura)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS projecto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

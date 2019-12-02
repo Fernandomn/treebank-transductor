@@ -1,0 +1,19 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Bactérias)
+   )
+   (VP 
+    (VBP podem)
+    (VB tratar)
+   )
+   (NP 
+    (NN esgoto)
+    (ADJP 
+     (JJ espacial)
+    )
+   )
+  )
+ )
+)

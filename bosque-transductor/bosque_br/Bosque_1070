@@ -1,0 +1,87 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN número)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (NN soma)
+    (PP 
+     (IN de+)
+     (NP 
+      (NP 
+       (DT os)
+       (NN US$)
+       (NP 
+        (CD 8.6)
+        (NN bilhões)
+       )
+       (VBN arrecadados)
+      )
+      mais
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 3.3)
+        (NN bilhões)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NN dívidas)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT as)
+           (NN empresas)
+           (VP 
+            (VP 
+             (VBN transferidas)
+            )
+            (PP 
+             (IN para)
+             (NP 
+              (DT os)
+              (JJ novos)
+              (NN controladores)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      mais
+      (NP 
+       (NN US$)
+       (NP 
+        (CD 3)
+        (NN bilhões)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (NP 
+         (DT o)
+         (NN governo)
+        )
+        (VP 
+         (VBP deixou)
+         (IN de)
+         (VB investir)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB Destaca)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (CD primeira)
+        (NNS peça)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS participação)
+      (JJ solística)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (NNS pianista)
+         (JJ português)
+        )
+        (NP 
+         (NNS António)
+         (NNS Rosado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

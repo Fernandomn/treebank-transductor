@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN diretor-geral)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP PF)
+     )
+    )
+    (NP 
+     (NN coronel)
+     (NP 
+      (NNP Wilson_Romão)
+     )
+    )
+   )
+   (VP 
+    (VBP disse)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP recebeu)
+    )
+    (NP 
+     (NN recomendações)
+     (VBN expressas)
+     (PP 
+      (IN para)
+      (VP 
+       (VP 
+        (VB investigar)
+       )
+       (NP 
+        (PRP tudo)
+       )
+       (ADVP 
+        (RB a_fundo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Algo)
+   )
+   (VP 
+    (VP 
+     (VB vai)
+     (VP 
+      (VB mudar)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS gestão)
+         (NNS Expo)
+        )
+       )
+      )
+     )
+    )
+    (CC ainda)
+    (CC que)
+    (S 
+     (NP 
+      (DT o)
+      (NNS comissário)
+     )
+     (VP 
+      (VB possa)
+      (VB permanecer)
+     )
+    )
+   )
+  )
+ )
+)

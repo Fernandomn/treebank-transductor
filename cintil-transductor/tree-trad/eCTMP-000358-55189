@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS vereadora)
+     (ADJP 
+      (VB eleita)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS PSD)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ficará)
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS departamento)
+        (NNS de)
+        (NNS Economia)
+        (NNS e)
+        (NNS Turismo)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS pelouro)
+         (NNS de_)
+         (NNS a)
+         (NNS Cultura)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

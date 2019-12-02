@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS número)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS aterros)
+        (JJ sanitários)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB tem)
+      (VB aumentado)
+     )
+     (RB ligeiramente)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD últimos)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

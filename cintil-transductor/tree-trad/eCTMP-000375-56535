@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NNS Castelo)
+  )
+  (VP 
+   (VP 
+    (VB sofre)
+    (NP 
+     (NNS avaria)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS golfo)
+      (NNS de_)
+      (NNS a)
+      (NNS Biscaia)
+     )
+    )
+   )
+  )
+ )
+)

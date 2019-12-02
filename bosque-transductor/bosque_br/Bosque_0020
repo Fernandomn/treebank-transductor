@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN volta)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NN viagem)
+       (PP 
+        (IN a+)
+        (NP 
+         (DT o)
+         (NN exterior)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP vale)
+   )
+   (NP 
+    (DT a)
+    (NN pena)
+   )
+   (VP 
+    (VP 
+     (VB trazer)
+    )
+    (NP 
+     (DT uma)
+     (NN impressora)
+     (ADJP 
+      (JJ matricial)
+     )
+    )
+   )
+  )
+ )
+)

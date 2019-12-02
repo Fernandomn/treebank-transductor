@@ -1,0 +1,54 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS realidade)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB há)
+     )
+     (NP 
+      (NP 
+       (NNS semana)
+       (PP 
+        (IN sem)
+        (NP 
+         (NP 
+          (NNS incidentes)
+          (ADJP 
+           (ADVP 
+            (RB mais)
+            (RB ou)
+            (RB menos)
+           )
+           (JJ violentos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS escolas)
+       (JJ francesas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

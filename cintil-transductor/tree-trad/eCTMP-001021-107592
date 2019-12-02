@@ -1,0 +1,79 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Presidente)
+     (NNS de_)
+     (NNS o)
+     (NNS Governo)
+     (NNS Regional)
+     (NNS de_)
+     (NNS a)
+     (NNS Madeira)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VP 
+       (VB saudou)
+       (ADVP 
+        (RB ontem)
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NP 
+         (NP 
+          (NNS artigo)
+          (JJ publicado)
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT um)
+           (NP 
+            (NNS jornal)
+            (JJ local)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS visita)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Nelson)
+          (NNS Mandela)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NP 
+         (PP nosso)
+         (NNS país)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

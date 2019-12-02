@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VB Cresceram)
+    )
+    (S 
+     (CC e)
+     (S 
+      (VB viveram)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS cultura)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS marginalidade)
+         (NP 
+          (CC e)
+          (NNS crime)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

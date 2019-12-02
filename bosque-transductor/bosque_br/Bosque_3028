@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN presidente)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Portuguesa)
+     )
+     (NP 
+      (NNP Manuel_Pacheco)
+     )
+    )
+   )
+   (VP 
+    (VBP deve)
+    (VB entrar)
+   )
+   (NP 
+    (NN terça-feira)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT uma)
+     (NN ação)
+     (PP 
+      (IN contra)
+      (NP 
+       (DT o)
+       (NNP Vasco_da_Gama)
+      )
+     )
+    )
+   )
+  )
+ )
+)

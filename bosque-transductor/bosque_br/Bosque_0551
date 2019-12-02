@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN Folha)
+   )
+   (VP 
+    (VBP confirmou)
+   )
+   (NP 
+    (DT os)
+    (NN entendimentos)
+   )
+   (ADVP 
+    (RB junto)
+    (PP 
+     (PP 
+      (IN a)
+      (NP 
+       (NN empresários)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN setor)
+         (PP 
+          (IN de)
+          (NP 
+           (NN eletrodomésticos)
+          )
+         )
+        )
+       )
+      )
+     )
+     e
+     (PP 
+      (IN a)
+      (NP 
+       (NN funcionários)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Pão-de-açúcar)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

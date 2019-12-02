@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Câmara)
+    (NNS de)
+    (NNS Lisboa)
+   )
+  )
+  (VP 
+   (VB lança)
+   (NP 
+    (NP 
+     (NNS colecção)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS postais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

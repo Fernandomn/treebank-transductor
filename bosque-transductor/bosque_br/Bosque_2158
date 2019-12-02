@@ -1,0 +1,53 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (JJ primeira)
+     (NN fase)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 11)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NN junho)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN vacinadas)
+   )
+   (NP 
+    (ADJP 
+     (RB cerca_de)
+     (CD 3.2)
+    )
+    (NN milhões)
+    (PP 
+     (IN de)
+     (NP 
+      (NN crianças)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNP São_Paulo)
+    )
+   )
+  )
+ )
+)

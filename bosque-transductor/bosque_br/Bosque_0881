@@ -1,0 +1,52 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (IN Se)
+    (VP 
+     (VBP depender)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NN assinatura)
+     )
+    )
+   )
+   (VP 
+    (VBP terá)
+   )
+   (NP 
+    (JJ longa)
+    (NN vida)
+   )
+   (NP 
+    (DT o)
+    (NN bar-café)
+    (ADJP 
+     (RB todo)
+     (VBN envidraçado)
+    )
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP estréia)
+     )
+     (NP 
+      (DT este)
+      (NN mês)
+     )
+     (PP 
+      (IN dentro_de+)
+      (NP 
+       (DT a)
+       (NNP Livraria_da_Vila)
+      )
+     )
+    )
+   )
+  )
+ )
+)

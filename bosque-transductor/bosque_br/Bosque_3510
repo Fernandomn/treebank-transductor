@@ -1,0 +1,29 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Aventure-)
+   )
+   (NP 
+    (PRP se)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NNP Alasca)
+    )
+   )
+   (ADVP 
+    (RB a_bordo)
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NN trenó)
+     )
+    )
+   )
+  )
+ )
+)

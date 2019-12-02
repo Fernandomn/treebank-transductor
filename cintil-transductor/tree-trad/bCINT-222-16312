@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Falou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS reunião)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS remodelação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Governo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

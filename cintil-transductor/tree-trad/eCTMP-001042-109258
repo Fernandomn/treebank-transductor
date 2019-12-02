@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Depois)
+    )
+    (VP 
+     (VP 
+      (VB emprestou)
+      (NP 
+       (PRP -me)
+      )
+     )
+     (NP 
+      (NP 
+       (DT uma)
+       (NNS gabardina)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS camisola)
+         (PP 
+          (IN de)
+          (NP 
+           (NP 
+            (NNS gola)
+            (JJ alta)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

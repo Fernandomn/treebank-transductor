@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Monteiro)
+   )
+   (VP 
+    (VB navega)
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NP 
+       (CD dois)
+       (NNS extremos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

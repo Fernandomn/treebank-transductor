@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS presidente)
+      (NNS cessante)
+      (NNS de_)
+      (NNS a)
+      (NNS comissão)
+      (NNS senatorial)
+      (NNS de)
+      (NNS serviços)
+      (NNS secretos)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS Dennis)
+      (NNS DeConcini)
+      (NNS democrata)
+      (NNS de_)
+      (NNS o)
+      (NNS Arizona)
+     )
+    )
+   )
+   (VB afirmou)
+  )
+ )
+)

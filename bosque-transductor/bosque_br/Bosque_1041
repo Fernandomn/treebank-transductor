@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Continuam)
+   )
+   (VBN interditados)
+   (NP 
+    (NP 
+     (DT o)
+     (NNP Cine_West_PLaza_3)
+    )
+    (NP 
+     (DT o)
+     (NNP Comodoro)
+    )
+    e
+    (NP 
+     (DT o)
+     (NNP Iguatemi)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (ADVP 
+       (RB só)
+      )
+      (VP 
+       (VBP deve)
+       (VB voltar)
+       (IN a)
+       (VB funcionar)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NN dezembro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

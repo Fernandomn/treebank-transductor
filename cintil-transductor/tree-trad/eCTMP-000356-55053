@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS espelho)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Magalhães)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS fase)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS fabrico)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

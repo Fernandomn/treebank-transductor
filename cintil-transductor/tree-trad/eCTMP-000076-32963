@@ -1,0 +1,36 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Assembleia)
+      (NNS Magna)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS PSD)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (JJ repleta)
+   )
+   (PP 
+    (PP 
+     (IN até)
+     (IN a_)
+    )
+    (NP 
+     (DT a)
+     (NNS porta)
+    )
+   )
+  )
+ )
+)

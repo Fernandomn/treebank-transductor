@@ -1,0 +1,124 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB De_um_lado)
+    )
+    (VP 
+     (VBP reforça)
+    )
+    (NP 
+     (DT a)
+     (NN estabilização)
+    )
+    (VP 
+     (IN pois)
+     (NP 
+      (DT qualquer)
+      (JJ eventual)
+      (NN aumento)
+      (ADJP 
+       (JJ irresponsável)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN preços)
+       )
+      )
+     )
+     (VP 
+      (VBP depara-)
+     )
+     (NP 
+      (PRP se)
+     )
+     (ADVP 
+      (RB agora)
+     )
+     (ADVP 
+      (RB mais)
+      (RB rapidamente)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NN concorrência)
+       (PP 
+        (IN de)
+        (NP 
+         (NN similares)
+         (VBN importados)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     (IN de)
+     (NP 
+      (DT outro)
+     )
+    )
+    (VP 
+     (VBP ajuda)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB aliviar)
+      )
+      (NP 
+       (DT a)
+       (NN supervalorização)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN real)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (IN pois)
+     (VP 
+      (ADVP 
+       (PRP quanto_mais)
+      )
+      (NP 
+       (NN importações)
+      )
+      (VP 
+       (VBP houver)
+      )
+     )
+     (VP 
+      (ADJP 
+       (JJ maior)
+      )
+      (VP 
+       (VBP será)
+      )
+      (NP 
+       (DT a)
+       (NN procura)
+       (PP 
+        (IN por)
+        (NP 
+         (NN dólares)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

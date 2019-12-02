@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Eurico)
+   )
+  )
+  (PP 
+   (IN sobre)
+   (NP 
+    (NP 
+     (NNS críticos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS programa)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS PSD)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

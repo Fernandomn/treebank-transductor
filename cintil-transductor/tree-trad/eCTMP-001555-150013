@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT o)
+     (NNS rasgão)
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB entrou)
+      (RB também)
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS carro)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS senhor)
+         (NNS David)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

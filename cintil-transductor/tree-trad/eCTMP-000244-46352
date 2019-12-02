@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB Não)
+        (VB quer)
+       )
+       (VP 
+        (VB dizer)
+        (CONJP 
+         (CC que)
+         (S 
+          (VP 
+           (VB seja)
+           (NP 
+            (PRP todos)
+            (NP 
+             (DT os)
+             (NNS dias)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC mas)
+     (S 
+      (NP 
+       (DT essa)
+       (NNS decisão)
+      )
+      (VP 
+       (VB deve)
+       (VP 
+        (VB ser)
+        (NP 
+         (PP nossa)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

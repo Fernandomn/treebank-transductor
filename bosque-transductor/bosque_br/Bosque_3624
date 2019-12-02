@@ -1,0 +1,83 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Ontem)
+   )
+   (NP 
+    (NP 
+     (DT a)
+     (NN diretoria)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN atlética)
+      )
+     )
+    )
+    e
+    (NP 
+     (NNP Amato_Neto)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP iniciou)
+      )
+      (NP 
+       (DT a)
+       (NN organização)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT os)
+         (NN alunos)
+        )
+       )
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NN preservação)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN clube)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP reuniram)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB discutir)
+     )
+     (NP 
+      (NN alternativas)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NN área)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

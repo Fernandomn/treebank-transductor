@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ponte)
+     (NNS de)
+     (NNS Sor)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS vila)
+       (JJ simpática)
+      )
+      (PP 
+       (PP 
+        (IN com)
+        (NP 
+         (DT um)
+         (NP 
+          (JJ magnífico)
+          (NP 
+           (NP 
+            (NNS parque)
+            (JJ arborizado)
+           )
+           (ADVP 
+            (RB mesmo)
+            (ADVP 
+             (RB junto)
+             (PP 
+              (IN a_)
+              (NP 
+               (DT o)
+               (NNS rio)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

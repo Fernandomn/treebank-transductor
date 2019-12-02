@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Proteínas)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS custa)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS empréstimos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB sublinha)
+    )
+    (NP 
+     (NP 
+      (NNS Kalman)
+      (NNS Dezséri)
+     )
+    )
+   )
+  )
+ )
+)

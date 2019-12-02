@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS negros)
+   )
+   (VP 
+    (VB estabelecem)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS ritmo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS coração)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS cidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

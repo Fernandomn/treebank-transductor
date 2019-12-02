@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Escrevia)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT a)
+     (NN época)
+    )
+   )
+   (NP 
+    (NNP Um_Paraíso_Perdido)
+    (NP 
+     (NN livro)
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NNP Amazônia)
+      )
+     )
+     (VP 
+      (VP 
+       (VBN interrompido)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NN morte)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

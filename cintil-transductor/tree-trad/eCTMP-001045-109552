@@ -1,0 +1,24 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Alberto)
+    (NNS Pimenta)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Fundação)
+      (NNS Eugénio)
+      (NNS de)
+      (NNS Andrade)
+     )
+    )
+   )
+  )
+ )
+)

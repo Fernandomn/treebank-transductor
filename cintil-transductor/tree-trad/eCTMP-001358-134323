@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Actualmente)
+   )
+   (S 
+    (VP 
+     (VB espera)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS concretização)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS centro)
+          (JJ técnico)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Freixial)
+         (PP 
+          (PP 
+           (IN em)
+           (NP 
+            (NNS Bucelas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

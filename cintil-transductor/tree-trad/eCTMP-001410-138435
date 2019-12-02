@@ -1,0 +1,71 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (PP 
+     (IN em_)
+     (NP 
+      (PRP eles)
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NP 
+      (NNS coexistência)
+      (ADJP 
+       (RB extremamente)
+       (JJ frágil)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS nacionalidades)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS seres)
+           (JJ humanos)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (PP 
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS fés)
+           (JJ religiosas)
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS princípios)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

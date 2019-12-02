@@ -1,0 +1,89 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (PP sua)
+      (NNS visita)
+     )
+    )
+    (VP 
+     (VP 
+      (VP 
+       (VB era)
+       (RB ontem)
+      )
+      (RB amplamente)
+     )
+     (VP 
+      (VB noticiada)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS imprensa)
+         (JJ brasileira)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB ficou)
+      (VP 
+       (VP 
+        (VB marcada)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS passagem)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS ano)
+            )
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT a)
+         (NP 
+          (NP 
+           (NNS presença)
+           (PP 
+            (IN de)
+            (NP 
+             (NNS Soares)
+            )
+           )
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (CD quatro)
+            (NNS festas)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

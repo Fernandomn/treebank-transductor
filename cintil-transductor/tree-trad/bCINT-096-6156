@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NNS conteúdo)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS declarações)
+    )
+    (VP 
+     (VB estão)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS nível)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS Manuel)
+           (NNS Damásio)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

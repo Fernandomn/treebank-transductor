@@ -1,0 +1,69 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS mercado)
+   )
+   (VP 
+    (VB continuava)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB assimilar)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS forma)
+          (JJ satisfatória)
+         )
+        )
+       )
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (NNS quebra)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NP 
+           (NP 
+            (NNS taxas)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS juro)
+             )
+            )
+           )
+           (PP 
+            (IN de_)
+            (NP 
+             (DT as)
+             (NP 
+              (NNS obrigações)
+              (PP 
+               (IN a)
+               (NP 
+                (CD 30)
+                (NNS anos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

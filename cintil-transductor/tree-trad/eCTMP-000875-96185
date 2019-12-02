@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Sérgio)
+      (NNS Godinho)
+     )
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS escritor)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS canções)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB regressa)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (JJ novas)
+       (NNS histórias)
+      )
+     )
+    )
+   )
+  )
+ )
+)

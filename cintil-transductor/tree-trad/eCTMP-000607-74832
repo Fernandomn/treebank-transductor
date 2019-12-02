@@ -1,0 +1,73 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (NP 
+       (NP 
+        (NNS Vítor)
+        (NNS Almeida)
+       )
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NNS socialista)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB preside)
+            (PP 
+             (IN a_)
+             (NP 
+              (DT o)
+              (NNS município)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB tem)
+      )
+      (NP 
+       (NP 
+        (NNS certezas)
+        (PP 
+         (IN sobre)
+         (NP 
+          (DT o)
+          (NNS fenómeno)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (VB arrisca)
+      (NP 
+       (CD duas)
+       (NNS razões)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Opinião)
+     (JJ diferente)
+    )
+   )
+   (S 
+    (VP 
+     (VB continuam)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ter)
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (NNS responsáveis)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Câmara)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

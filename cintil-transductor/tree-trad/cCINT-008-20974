@@ -1,0 +1,64 @@
+(
+ (S 
+  (S 
+   (RB Até)
+   (S 
+    (VP 
+     (NP 
+      (PRP se)
+     )
+     (VB pode)
+    )
+    (VP 
+     (VB comprar)
+     (PP 
+      (PP 
+       (IN através)
+       (IN de_)
+      )
+      (NP 
+       (DT o)
+       (NP 
+        (NNS jornal)
+        (CONJP 
+         (CONJP 
+          (RB onde)
+          (S 
+           (VP 
+            (RB também)
+            (VP 
+             (VP 
+              (VB há)
+              (NP 
+               (NP 
+                (NNS anúncios)
+                (PP 
+                 (IN de)
+                 (NP 
+                  (NP 
+                   (NNS venda)
+                   (PP 
+                    (IN de)
+                    (NP 
+                     (NNS cães)
+                    )
+                   )
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

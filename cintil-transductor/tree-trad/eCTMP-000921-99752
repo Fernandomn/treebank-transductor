@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Companhias)
+     (JJ aéreas)
+    )
+    (JJ privadas)
+   )
+  )
+  (VP 
+   (VB vão)
+   (VP 
+    (VB explorar)
+    (NP 
+     (NP 
+      (NNS rotas)
+      (JJ internacionais)
+     )
+    )
+   )
+  )
+ )
+)

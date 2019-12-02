@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Por_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS lado)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS núcleo)
+          (JJ duro)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS BPA)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS contas)
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (DT outras)
+     )
+    )
+   )
+  )
+ )
+)

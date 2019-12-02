@@ -1,0 +1,38 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Baltazar)
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS rapaz)
+      (ADJP 
+       (ADJP 
+        (JJ magro)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS pulsos)
+          (ADJP 
+           (JJ finos)
+           (ADJP 
+            (CC e)
+            (JJ fortes)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NP 
+     (NP 
+      (NNS produção)
+      (JJ conjunta)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Associação)
+         (NNS Abraço)
+        )
+       )
+       (NP 
+        (NP 
+         (NP 
+          (NNS CML)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NP 
+            (NNS Produções)
+            (NNS MEAO)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS apoio)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS APL)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

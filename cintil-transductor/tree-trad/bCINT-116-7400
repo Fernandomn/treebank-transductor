@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NNS Damasco)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Governo)
+      (NNS de)
+      (NNS Ariel)
+      (NNS Sharon)
+     )
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS obstáculo)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS paz)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

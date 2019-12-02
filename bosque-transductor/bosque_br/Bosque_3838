@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Ficamos)
+   )
+   (NP 
+    (DT todos)
+    (ADVP 
+     (RB isto_é)
+    )
+    (NP 
+     (DT os)
+     (NN torcedores)
+     (ADJP 
+      (JJ paulistas)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP vem)
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN idos)
+        (PP 
+         (IN de)
+         (ADJP 
+          (CD 1940)
+         )
+        )
+       )
+      )
+      (ADVP 
+       (RB como)
+       (NP 
+        (DT o)
+        (NN americano)
+        (ADJP 
+         (JJ médio)
+        )
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN fim)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Guerra_Fria)
+      )
+     )
+    )
+   )
+  )
+ )
+)

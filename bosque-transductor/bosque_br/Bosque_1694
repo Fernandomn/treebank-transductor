@@ -1,0 +1,47 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Apesar_de)
+    (VP 
+     (NP 
+      (PRP ninguém)
+     )
+     (ADVP 
+      (RB lá)
+     )
+     (VP 
+      (VB ser)
+     )
+     (ADVP 
+      (RB mais)
+     )
+     (NP 
+      (NN amigo)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN rei)
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NN turma)
+   )
+   (VP 
+    (VBP continua)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN ativa)
+    )
+   )
+  )
+ )
+)

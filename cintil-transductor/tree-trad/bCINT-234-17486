@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS MCM)
+     (NNS África)
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (VB recebido)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB cerca)
+        (RB de)
+       )
+       (CD 20)
+      )
+      (NP 
+       (NNS países)
+       (JJ africanos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

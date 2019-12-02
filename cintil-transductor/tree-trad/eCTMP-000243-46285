@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Junto)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS corpo)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foram)
+     (VB encontrados)
+    )
+   )
+   (NP 
+    (NP 
+     (NNS restos)
+     (PP 
+      (IN de)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS maço)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS tabaco)
+           (NP 
+            (NP 
+             (NNS SG)
+             (NNS Ventil)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

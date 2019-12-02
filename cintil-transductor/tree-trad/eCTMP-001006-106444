@@ -1,0 +1,55 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+     (NP 
+      (NNS questão)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB põe)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (PP própria)
+         (NP 
+          (NNS estrutura)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS sistema)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

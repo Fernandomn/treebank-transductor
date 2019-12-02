@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estamos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS fase)
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS concretização)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS projectos)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

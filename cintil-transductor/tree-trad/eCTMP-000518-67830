@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS escudo)
+   )
+   (VP 
+    (VB manteve)
+    (NP 
+     (DT uma)
+     (NP 
+      (NP 
+       (NNS valorização)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD 5,2)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NNS peseta)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

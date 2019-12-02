@@ -1,0 +1,83 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Também)
+    (RB hoje)
+   )
+   (S 
+    (S 
+     (VP 
+      (VB é)
+      (VB inaugurada)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ nova)
+       (NP 
+        (NP 
+         (NNS pista)
+         (JJ sintética)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Estádio)
+           (NNS Universitário)
+           (NNS de)
+           (NNS Lisboa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS final)
+        (PP 
+         (IN de_)
+         (NP 
+          (NP 
+           (DT o)
+           (NP 
+            (NNS torneio)
+            (NP 
+             (NNS Olímpico)
+             (NNS Jovem)
+            )
+           )
+          )
+          (NP 
+           (NP 
+            (JJ novo)
+            (NP 
+             (NNS nome)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NNS ex-DN-Jovem)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

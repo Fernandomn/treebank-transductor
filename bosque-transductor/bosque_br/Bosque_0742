@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Tatiana)
+   )
+   (VP 
+    (VBP mora)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN rua)
+     (NP 
+      (NNP São_Clemente)
+     )
+     (NP 
+      (NNP Botafogo)
+     )
+    )
+   )
+   (ADVP 
+    (RB em_frente)
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (JJ principal)
+      (NN via)
+      (PP 
+       (IN de)
+       (NP 
+        (NN acesso)
+        (PP 
+         (IN a+)
+         (NP 
+          (DT o)
+          (NN morro)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

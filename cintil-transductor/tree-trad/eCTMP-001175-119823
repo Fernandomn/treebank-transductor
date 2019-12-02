@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Homens)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS confiança)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS margem)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS lei)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

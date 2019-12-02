@@ -1,0 +1,34 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (ADVP 
+     (RB Lá)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNP Portugal)
+     )
+    )
+    (NP 
+     (PRP eu)
+    )
+    (VP 
+     (VBP costumo)
+     (VB comprar)
+    )
+    (NP 
+     (DT a)
+     (NN Folha)
+    )
+   )
+   (VP 
+    (VBP afirma)
+   )
+   (NP 
+    (NN Barra)
+   )
+  )
+ )
+)

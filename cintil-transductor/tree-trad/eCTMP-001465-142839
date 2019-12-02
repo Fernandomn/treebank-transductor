@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Você)
+     )
+     (VP 
+      (RB certamente)
+      (VP 
+       (VP 
+        (RB não)
+        (VB quereria)
+       )
+       (VP 
+        (VB ir)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS autocarro)
+           (JJ árabe)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

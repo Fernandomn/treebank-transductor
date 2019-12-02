@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (CD dois)
+     (NP 
+      (NNS médicos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS comitiva)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB passam)
+    (PP 
+     (IN com)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS expressão)
+       (JJ pesarosa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

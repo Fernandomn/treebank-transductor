@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Um)
+    (NN amigo)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NN família)
+     )
+    )
+   )
+   (VP 
+    (VBP ligou)
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB informar)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT o)
+       (NN estado)
+       (PP 
+        (IN de)
+        (NP 
+         (NN saúde)
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN irmão)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NP ex-presidente)
+            )
+           )
+           (NP 
+            (NNP Pedro_Collor)
+           )
+           (VP 
+            (NP 
+             (PRP que)
+            )
+            (VP 
+             (VBP está)
+            )
+            (PP 
+             (IN sob)
+             (NP 
+              (NN tratamento)
+             )
+            )
+            (PP 
+             (IN em+)
+             (NP 
+              (DT os)
+              (NNP Estados_Unidos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

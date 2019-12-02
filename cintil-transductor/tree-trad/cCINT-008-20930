@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tenho)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB vestir)
+       (NP 
+        (PRP -me)
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NNS rigor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

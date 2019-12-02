@@ -1,0 +1,61 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS economia)
+      (JJ espanhola)
+     )
+    )
+    (VP 
+     (VP 
+      (VB crescerá)
+      (PP 
+       (RB menos)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (CD dois)
+          (NP 
+           (NN por)
+           (NN cento)
+          )
+         )
+        )
+       )
+      )
+     )
+     (PP 
+      (NP 
+       (DT este)
+       (NNS ano)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (PP 
+      (IN em)
+      (NP 
+       (CD 1993)
+      )
+     )
+     (S 
+      (RB logo)
+      (S 
+       (NP 
+        (PRP se)
+       )
+       (VB verá)
+      )
+     )
+    )
+   )
+  )
+ )
+)

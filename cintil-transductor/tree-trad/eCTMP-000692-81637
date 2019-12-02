@@ -1,0 +1,26 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Professor)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Faculdade)
+       (NNS de)
+       (NNS Ciências)
+       (NNS de_)
+       (NNS a)
+       (NNS Universidade)
+       (NNS de_)
+       (NNS o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+  )
+ )
+)

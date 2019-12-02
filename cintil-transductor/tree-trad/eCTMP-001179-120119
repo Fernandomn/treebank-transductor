@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CC Se)
+     (VP 
+      (VB ficar)
+      (JJ cego)
+     )
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (RB só)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NNS olho)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

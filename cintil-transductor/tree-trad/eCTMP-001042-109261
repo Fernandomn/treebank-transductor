@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Oficialmente)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS operação)
+      (NNS Conakry)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB tinha)
+     )
+     (VB existido)
+    )
+   )
+  )
+ )
+)

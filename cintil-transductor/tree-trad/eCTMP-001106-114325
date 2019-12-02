@@ -1,0 +1,54 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estão)
+    (ADJP 
+     (VB inscritos)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT esta)
+       (NP 
+        (CD 74ª)
+        (NP 
+         (NNS edição)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS Giro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (CD 180)
+    (NP 
+     (NNS corredores)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS representação)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 20)
+          (NNS equipas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

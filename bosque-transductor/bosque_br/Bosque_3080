@@ -1,0 +1,80 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Marcella_Hazan)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP falou)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (NN alcachofras)
+      )
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP catequizou)
+     )
+     (NP 
+      (DT o)
+      (NN público)
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NN supremacia)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN óleo)
+         (PP 
+          (IN de)
+          (NP 
+           (NN oliva)
+           (ADJP 
+            (JJ extra)
+           )
+           (ADJP 
+            (JJ virgem)
+           )
+          )
+         )
+        )
+       )
+       (PP 
+        (IN para)
+        (VP 
+         (VP 
+          (VB cozinhar)
+         )
+         (PP 
+          (IN apesar_de+)
+          (NP 
+           (DT a)
+           (NN exorbitância)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN preço)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

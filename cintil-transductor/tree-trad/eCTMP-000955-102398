@@ -1,0 +1,25 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Estamos)
+     (PP 
+      (IN a)
+      (VP 
+       (VB identificar)
+       (NP 
+        (NP 
+         (PRP quem)
+        )
+        (S 
+         (VB chega)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Durante)
+    (NP 
+     (CD 15)
+     (NN dias)
+    )
+   )
+   (NP 
+    (DT os)
+    (NN bancos)
+   )
+   (VP 
+    (VBP vão)
+   )
+   (NP 
+    (PRP lhe)
+   )
+   (VP 
+    (VB dar)
+   )
+   (NP 
+    (NN reais)
+   )
+   (ADVP 
+    (RB em_troca)
+    (PP 
+     (IN de)
+     (NP 
+      (NN cruzeiros)
+      (ADJP 
+       (JJ reais)
+      )
+     )
+    )
+   )
+  )
+ )
+)

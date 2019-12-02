@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS guerra)
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNS Japão)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB estará)
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NNS fio)
+      )
+     )
+    )
+   )
+  )
+ )
+)

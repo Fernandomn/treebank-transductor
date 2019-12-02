@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (NP 
+     (DT O)
+     (NN acordo)
+    )
+    (ADVP 
+     (RB não)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP tornou)
+    )
+    (ADJP 
+     (JJ público)
+    )
+   )
+   (CC mas)
+   (VP 
+    (ADVP 
+     (RB agora)
+    )
+    (NP 
+     (PRP se)
+    )
+    (VP 
+     (VBP sabe)
+    )
+    (VP 
+     (IN que)
+     (VP 
+      (VBP foram)
+      (VBN feitas)
+     )
+     (NP 
+      (DT muitas)
+      (NN concessões)
+      (ADJP 
+       (JJ políticas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

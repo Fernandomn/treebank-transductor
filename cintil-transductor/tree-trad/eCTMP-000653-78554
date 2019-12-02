@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VB Criticada)
+   (S 
+    (VP 
+     (VB foi)
+    )
+    (NP 
+     (RB também)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS supressão)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS verbas)
+          (PP 
+           (IN para)
+           (NP 
+            (DT a)
+            (NP 
+             (NNS construção)
+             (PP 
+              (IN de_)
+              (NP 
+               (DT o)
+               (NP 
+                (NNS Solar)
+                (NNS de_)
+                (NNS a)
+                (NNS Lagoa)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS caso)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB foi)
+     )
+     (VB discutido)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS direcção)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Cravinho)
+  )
+  (VP 
+   (VP 
+    (VB discute)
+    (NP 
+     (NP 
+      (NNS alargamento)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS UE)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Dublin)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,57 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Restaurante)
+   )
+   (VP 
+    (VBP tem)
+   )
+   (NP 
+    (DT seu)
+    (NN ponto)
+    (ADJP 
+     (JJ forte)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT o)
+     (NN balcão)
+     (PP 
+      (IN de)
+      (VBN grelhados)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (PRP se)
+      )
+      (VP 
+       (VBP sobrepõe)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT os)
+        (JJ prosaicos)
+        (NP 
+         (NP 
+          (NN sushis)
+         )
+         e
+         (NP 
+          (NN sashimis)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Gostamos)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NN gente)
+     (VP 
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP cala)
+       )
+       (NP 
+        (DT a)
+        (NN boca)
+       )
+      )
+      e
+      (VP 
+       (VP 
+        (VBP faz)
+       )
+       (NP 
+        (DT seu)
+        (NN trabalho)
+       )
+      )
+     )
+     (NP 
+      (RB como)
+      (NP 
+       (NNP Ronaldo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

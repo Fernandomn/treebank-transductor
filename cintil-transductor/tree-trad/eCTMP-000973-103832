@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS autarquia)
+     (JJ lisboeta)
+    )
+   )
+   (VP 
+    (VP 
+     (VB garantiu)
+     (RB já)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS internamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT este)
+         (NNS grupo)
+        )
+       )
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (NNS hospitais)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

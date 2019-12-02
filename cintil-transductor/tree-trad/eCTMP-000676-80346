@@ -1,0 +1,33 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS arcos)
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB eram)
+      (VB feitos)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS colectividade)
+      )
+     )
+    )
+   )
+  )
+ )
+)

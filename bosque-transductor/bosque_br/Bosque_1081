@@ -1,0 +1,69 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN balanço)
+   )
+   (VP 
+    (VBP aponta)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT uma)
+     (NN queda)
+     (PP 
+      (IN em+)
+      (NP 
+       (NP 
+        (DT os)
+        (NN investimentos)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT as)
+          (NN áreas)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NN saúde)
+            )
+            (NP 
+             (NN educação)
+            )
+            e
+            (NP 
+             (NN habitação)
+            )
+           )
+          )
+         )
+        )
+       )
+       e
+       (NP 
+        (NN redução)
+        (PP 
+         (IN em+)
+         (NP 
+          (DT os)
+          (NN salários)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT a)
+            (NN prefeitura)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

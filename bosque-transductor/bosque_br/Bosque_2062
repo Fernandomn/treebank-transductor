@@ -1,0 +1,65 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT O)
+     (NN prefeito)
+     (PP 
+      (IN de)
+      (NP 
+       (NNP São_Paulo)
+      )
+     )
+     (NP 
+      (NNP Paulo_Maluf)
+      (NP 
+       (NNP PPR)
+      )
+     )
+    )
+    e
+    (NP 
+     (DT o)
+     (NN candidato)
+     (VBN derrotado)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NNP PMDB)
+      )
+     )
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (NN Presidência)
+      )
+     )
+     (NP 
+      (NNP Orestes_Quércia)
+     )
+    )
+   )
+   (ADVP 
+    (RB também)
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP quiseram)
+   )
+   (VP 
+    (VP 
+     (VB comentar)
+    )
+    (NP 
+     (DT o)
+     (NN resultado)
+    )
+   )
+  )
+ )
+)

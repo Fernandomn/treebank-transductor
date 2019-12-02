@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Uma)
+    (NN audiência)
+   )
+   (ADVP 
+    (RB hoje)
+   )
+   (NP 
+    (PP 
+     (IN em+)
+     (NP 
+      (DT a)
+      (JJ 7ª)
+      (NNP Junta_da_Justiça_do_Trabalho)
+      (PP 
+       (IN em)
+       (NP 
+        (NNP Belém)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP reabre)
+   )
+   (NP 
+    (DT a)
+    (NN discussão)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NN obrigatoriedade)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN diploma)
+        (ADJP 
+         (JJ específico)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT o)
+          (NN exercício)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT o)
+            (NN jornalismo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

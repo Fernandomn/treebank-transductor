@@ -1,0 +1,23 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Joe_Pesci)
+   )
+   (VP 
+    (VBP vai)
+    (VB ser)
+   )
+   (NP 
+    (DT a)
+    (NN consciência)
+    (PP 
+     (IN em)
+     (NP 
+      (NN carne-e-osso)
+     )
+    )
+   )
+  )
+ )
+)

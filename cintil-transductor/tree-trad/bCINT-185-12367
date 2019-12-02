@@ -1,0 +1,45 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS notícia)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VP 
+      (VB revelada)
+      (PP 
+       (IN por)
+       (NP 
+        (NP 
+         (NNS Fernando)
+         (NNS Gomes)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS debate)
+       (ADJP 
+        (VB realizado)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS Alijó)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

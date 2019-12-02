@@ -1,0 +1,37 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (NNS Hitch)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NNS filme)
+    )
+    (VP 
+     (VB era)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS fatia)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS bolo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

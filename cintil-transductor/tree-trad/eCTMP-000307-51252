@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Alter)
+   )
+   (VP 
+    (VP 
+     (VB anunciou)
+     (RB também)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (NP 
+        (NNS Woody)
+        (NNS Allen)
+       )
+      )
+      (VP 
+       (VB terá)
+       (PP 
+        (IN de)
+        (VP 
+         (VB pagar)
+         (NP 
+          (PRP todas)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS custas)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS processo)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

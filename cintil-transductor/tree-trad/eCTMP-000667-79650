@@ -1,0 +1,44 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Infiltrações)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS água)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB poderão)
+   (VP 
+    (VB ter)
+    (VP 
+     (VB danificado)
+     (NP 
+      (NP 
+       (NP 
+        (NNS colecção)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS arte)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Museu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

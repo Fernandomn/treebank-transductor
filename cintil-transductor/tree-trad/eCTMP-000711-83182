@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS produto)
+      (PP 
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS idade)
+        )
+       )
+       (PP 
+        (CC ou)
+        (PP 
+         (IN de)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS estado)
+           (JJ mental)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

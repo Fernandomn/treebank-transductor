@@ -1,0 +1,31 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Guerra)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NNS cereais)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB ameaça)
+   (NP 
+    (NP 
+     (NNS negociações)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS GATT)
+      )
+     )
+    )
+   )
+  )
+ )
+)

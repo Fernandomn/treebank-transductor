@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS pregoeiro)
+    )
+    (VP 
+     (VB batia)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNS martelo)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB entornava)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS copo)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS água)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

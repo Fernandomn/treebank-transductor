@@ -1,0 +1,38 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (VBN Instado)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB comentar)
+      )
+      (NP 
+       (DT o)
+       (NN time)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNP Parreira)
+         )
+         e
+         (NP 
+          (NNP Zagalo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP diz)
+   )
+  )
+ )
+)

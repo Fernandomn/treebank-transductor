@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Harry)
+      (NNS Blackmun)
+     )
+    )
+    (NP 
+     (NP 
+      (CD 83)
+      (NNS anos)
+     )
+    )
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (ADVP 
+      (RB em)
+      (RB breve)
+     )
+     (VP 
+      (VB reformar)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+   )
+  )
+ )
+)

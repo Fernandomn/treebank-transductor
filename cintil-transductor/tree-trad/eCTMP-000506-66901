@@ -1,0 +1,32 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Entretanto)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS distrital)
+    )
+    (VP 
+     (VB continua)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS estado)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS choque)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

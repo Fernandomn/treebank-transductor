@@ -1,0 +1,31 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS Seabra)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NP 
+       (NNS Isabel)
+       (NNS Arriaga)
+       (NNS e)
+       (NNS Cunha)
+      )
+     )
+    )
+   )
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Bruxelas)
+   )
+  )
+ )
+)

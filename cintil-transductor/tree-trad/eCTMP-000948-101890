@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Todos)
+    )
+    (VP 
+     (VB cometemos)
+     (NP 
+      (NNS erros)
+     )
+    )
+   )
+   (S 
+    (S 
+     (NP 
+      (DT essa)
+     )
+     (VP 
+      (VP 
+       (VB é)
+       (RB mesmo)
+      )
+      (NP 
+       (DT a)
+       (NP 
+        (PP nossa)
+        (NP 
+         (NNS condição)
+         (JJ insuperável)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

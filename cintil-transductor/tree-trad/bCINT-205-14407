@@ -1,0 +1,30 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS White)
+     (NNS Cloud)
+    )
+   )
+   (VP 
+    (VB funcionam)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS grupos)
+       (PP 
+        (IN de)
+        (NP 
+         (CD três)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

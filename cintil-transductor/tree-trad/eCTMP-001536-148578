@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS projecto)
+    )
+    (VP 
+     (RB já)
+     (VP 
+      (VB está)
+      (JJ lançado)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB poderá)
+      (VP 
+       (VB orçar)
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (CD cem)
+          (CD mil)
+         )
+         (NNS contos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

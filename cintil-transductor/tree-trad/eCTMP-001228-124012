@@ -1,0 +1,27 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Herdade)
+    (NNS de_)
+    (NNS os)
+    (NNS Cardosos)
+   )
+  )
+  (VP 
+   (ADVP 
+    (RB mais)
+    (ADVP 
+     (RB longe)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Meco)
+      )
+     )
+    )
+   )
+  )
+ )
+)

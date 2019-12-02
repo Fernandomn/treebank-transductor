@@ -1,0 +1,43 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Elas)
+   )
+   (VP 
+    (VBP serão)
+    (VBN oferecidas)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNP Itamar)
+    )
+   )
+   (ADVP 
+    (RB como)
+    (NP 
+     (NN alternativa)
+     (PP 
+      (IN a+)
+      (NP 
+       (DT a)
+       (VBN propalada)
+       (NN quebra)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN caixa)
+         (ADJP 
+          (JJ previdenciário)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

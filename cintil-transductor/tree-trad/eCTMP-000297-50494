@@ -1,0 +1,43 @@
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Muitos)
+     (NNS aplausos)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS final)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CD primeiro)
+         (NP 
+          (NNS acto)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT este)
+            (NP 
+             (NNS drama)
+             (JJ romântico)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

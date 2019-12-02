@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Afinal)
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB resume)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (NP 
+        (NNS questões)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS confiança)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

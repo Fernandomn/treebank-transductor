@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Observou)
+   )
+   (ADVP 
+    (RB também)
+   )
+   (NP 
+    (DT os)
+    (NN lugares)
+    (VP 
+     (ADVP 
+      (RB onde)
+     )
+     (NP 
+      (DT essas)
+      (NN pessoas)
+     )
+     (VP 
+      (VBP almoçam)
+     )
+    )
+   )
+  )
+ )
+)

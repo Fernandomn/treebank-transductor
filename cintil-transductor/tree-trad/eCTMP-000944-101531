@@ -1,0 +1,51 @@
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NNS Holanda)
+      )
+     )
+    )
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB temos)
+       )
+       (NP 
+        (NP 
+         (NNS nada)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT isto)
+          )
+         )
+        )
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB temos)
+        )
+        (NP 
+         (NNS guetos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

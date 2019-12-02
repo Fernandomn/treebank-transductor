@@ -1,0 +1,20 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB filosofou)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT o)
+      (NNS universo)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Liderança)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS bancada)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS PP)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

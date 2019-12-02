@@ -1,0 +1,39 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Arte)
+     (JJ portuguesa)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT as)
+      (NP 
+       (CD duas)
+       (NP 
+        (CD últimas)
+        (NNS décadas)
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB exposta)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NP 
+      (NNS forma)
+      (JJ criteriosa)
+     )
+    )
+   )
+  )
+ )
+)

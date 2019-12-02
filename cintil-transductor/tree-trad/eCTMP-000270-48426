@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fábrica)
+    (NP 
+     (NNS Produtos)
+     (NNS Estrela)
+    )
+   )
+  )
+  (VP 
+   (VB resiste)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT as)
+     (NP 
+      (JJ multinacionais)
+     )
+    )
+   )
+  )
+ )
+)

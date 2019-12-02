@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (RB Ora)
+   (S 
+    (NP 
+     (DT este)
+    )
+    (VP 
+     (VB defende)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS reconquista)
+       (PP 
+        (IN de_)
+        (NP 
+         (NP 
+          (DT a)
+          (NNS Carélia)
+         )
+         (NP 
+          (NP 
+           (DT uma)
+           (NP 
+            (NP 
+             (NNS província)
+             (JJ finlandesa)
+            )
+            (ADJP 
+             (ADJP 
+              (VB cedida)
+              (PP 
+               (IN a_)
+               (NP 
+                (DT a)
+                (NNS Rússia)
+               )
+              )
+             )
+             (PP 
+              (PP 
+               (IN depois)
+               (IN de_)
+              )
+              (NP 
+               (DT a)
+               (NP 
+                (NNS II)
+                (NNS Guerra)
+                (NNS Mundial)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

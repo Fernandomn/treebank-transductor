@@ -1,0 +1,46 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Já)
+   )
+   (VP 
+    (VBP bastava)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NN orgulho)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NNP Irlanda)
+      )
+     )
+    )
+   )
+   (VP 
+    (IN que)
+    (NP 
+     (DT a)
+     (NNP Inglaterra)
+    )
+    (ADVP 
+     (RB sequer)
+    )
+    (VP 
+     (VBP tivesse)
+     (VBN chegado)
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT a)
+      (NN Copa)
+     )
+    )
+   )
+  )
+ )
+)

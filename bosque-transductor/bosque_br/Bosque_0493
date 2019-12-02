@@ -1,0 +1,30 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN demissão)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN ministro)
+     )
+    )
+   )
+   (VP 
+    (VBP é)
+    (VBN dada)
+   )
+   (VP 
+    (RB como)
+    (ADVP 
+     (RB praticamente)
+    )
+    (ADJP 
+     (JJ certa)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,37 @@
+(
+ (S 
+  (NP 
+   (NNS UÇK)
+  )
+  (VP 
+   (VB ocupou)
+   (NP 
+    (NP 
+     (JJ principal)
+     (NP 
+      (NP 
+       (NNS mina)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS carvão)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS região)
+         (NNS de)
+         (NNS Pristina)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

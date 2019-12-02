@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (ADJP 
+     (RB até)
+     (ADJP 
+      (JJ perigoso)
+      (PP 
+       (IN para)
+       (NP 
+        (DT a)
+        (NP 
+         (PP sua)
+         (NP 
+          (NNS segurança)
+          (JJ física)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

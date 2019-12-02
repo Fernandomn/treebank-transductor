@@ -1,0 +1,24 @@
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VP 
+     (VB absorve)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS leitura)
+     )
+    )
+   )
+  )
+ )
+)

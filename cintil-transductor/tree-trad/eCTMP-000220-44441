@@ -1,0 +1,50 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD 5º)
+        (NNS ano)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB aprendem)
+     (NP 
+      (NP 
+       (DT os)
+       (NNS Descobrimentos)
+      )
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS império)
+          (JJ português)
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS século)
+            (NNS XVI)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

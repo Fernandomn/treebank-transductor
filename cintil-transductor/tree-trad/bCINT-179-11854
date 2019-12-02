@@ -1,0 +1,26 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS escândalo)
+     (NNS Sumitomo)
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN a)
+     (VP 
+      (VB condicionar)
+      (NP 
+       (DT o)
+       (NNS cobre)
+      )
+     )
+    )
+   )
+  )
+ )
+)

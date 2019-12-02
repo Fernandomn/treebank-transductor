@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NN VITÓRIA)
+   )
+   (VP 
+    (NP 
+     (NNP Josias_de_Souza)
+    )
+    (VP 
+     (VBP ensinou)
+    )
+    (NP 
+     (NN sexta-feira)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT esta)
+      (NNP Folha)
+     )
+    )
+    (VP 
+     (IN que)
+     (NP 
+      (NN pesquisa)
+     )
+     (ADVP 
+      (RB não)
+     )
+     (VP 
+      (VBP é)
+     )
+     (NP 
+      (NN urna)
+     )
+    )
+   )
+  )
+ )
+)

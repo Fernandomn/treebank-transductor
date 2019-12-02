@@ -1,0 +1,63 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Para)
+    (VP 
+     (VP 
+      (VB evitar)
+     )
+     (NP 
+      (NN distúrbios)
+     )
+    )
+   )
+   (VP 
+    (VBP vamos)
+    (VB distribuir)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NNP TVs)
+    )
+   )
+   (NP 
+    (DT uma)
+    (NN fita)
+    (PP 
+     (IN para)
+     (VP 
+      (VP 
+       (VB mostrar)
+      )
+      (PP 
+       (IN a+)
+       (NP 
+        (DT a)
+        (NN população)
+       )
+      )
+      (VP 
+       (NP 
+        (PRP o_que)
+       )
+       (VP 
+        (VBP viemos)
+       )
+       (VP 
+        (VP 
+         (VB fazer)
+        )
+        (ADVP 
+         (RB aqui)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

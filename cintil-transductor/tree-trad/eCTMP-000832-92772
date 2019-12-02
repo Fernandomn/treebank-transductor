@@ -1,0 +1,58 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN De)
+      (IN acordo)
+      (IN com)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (JJ mesma)
+       (NNS fonte)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (NNS médicos)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Conde)
+         (NNS Ferreira)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB apresentaram)
+      (RB já)
+     )
+     (NP 
+      (DT um)
+      (NP 
+       (NNS pré-aviso)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS greve)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

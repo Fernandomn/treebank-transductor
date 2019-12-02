@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS agentes)
+   )
+   (VP 
+    (VB pertencem)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Divisão)
+       (NNS de)
+       (NNS Segurança)
+       (NNS de_)
+       (NNS a)
+       (NNS PSP)
+      )
+     )
+    )
+   )
+  )
+ )
+)

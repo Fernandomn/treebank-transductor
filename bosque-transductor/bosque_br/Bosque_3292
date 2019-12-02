@@ -1,0 +1,96 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN palco)
+   )
+   (VP 
+    (VBP foi)
+    (VBN criado)
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (NNP Mark_Fischer)
+     (ADJP 
+      (JJ responsável)
+      (PP 
+       (IN por+)
+       (NP 
+        (DT a)
+        (NN montagem)
+        (PP 
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN palco)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (JJ última)
+             (NN turnê)
+             (PP 
+              (IN de+)
+              (NP 
+               (DT os)
+               (NNP Stones)
+              )
+             )
+             (NP 
+              (NNP Steel_Wheels)
+             )
+            )
+           )
+          )
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (JJ novo)
+           (NN show)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NNP Pink_Floyd)
+            )
+           )
+          )
+         )
+         e
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN espetáculo)
+           (NP 
+            (NNP ZooTV)
+           )
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN grupo)
+             (ADJP 
+              (JJ irlandês)
+             )
+             (NP 
+              (NNP U2)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

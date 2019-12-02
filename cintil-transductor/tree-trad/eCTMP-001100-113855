@@ -1,0 +1,36 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN de_)
+    (NP 
+     (DT o)
+     (NP 
+      (PP nosso)
+      (NP 
+       (NP 
+        (NP 
+         (NNS enviado)
+         (NP 
+          (NNS Joaquim)
+          (NNS Fidalgo)
+         )
+        )
+       )
+       (PP 
+        (IN em)
+        (NP 
+         (NP 
+          (NNS Santiago)
+          (NNS de)
+          (NNS Compostela)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

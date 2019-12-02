@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (IN Se)
+     (NP 
+      (PRP você)
+     )
+     (VP 
+      (VBP tentar)
+     )
+     (VP 
+      (VP 
+       (VB medi-)
+      )
+      (NP 
+       (PRP lo)
+      )
+     )
+    )
+    (VP 
+     (VBP estará)
+     (VBG enxergando)
+    )
+    (NP 
+     (RB apenas)
+     (DT seu)
+     (NN reflexo)
+    )
+    (ADVP 
+     (RB como)
+     (NP 
+      (DT o)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT a)
+        (NN lua)
+        (PP 
+         (IN em)
+         (NP 
+          (DT um)
+          (NN lago)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (ADVP 
+     (RB não)
+    )
+    (VP 
+     (VBP estará)
+     (VBG percorrendo)
+    )
+    (NP 
+     (DT seu)
+     (NN caminho)
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN equipe)
+    (PP 
+     (IN de)
+     (NP 
+      (NNP Maluf)
+     )
+    )
+   )
+   (ADVP 
+    (RB não)
+   )
+   (VP 
+    (VBP é)
+   )
+   (NP 
+    (DT a)
+    (JJ primeira)
+    (PP 
+     (IN a)
+     (VP 
+      (VP 
+       (VB deixar)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NN lado)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NN problema)
+      (PP 
+       (IN de)
+       (NP 
+        (NN enchentes)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

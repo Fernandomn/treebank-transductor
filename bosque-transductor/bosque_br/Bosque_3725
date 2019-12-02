@@ -1,0 +1,88 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Hoje)
+   )
+   (NP 
+    (DT os)
+    (NN mediadores)
+    (ADJP 
+     (JJ internacionais)
+    )
+    (NP 
+     (NP 
+      (NN lorde)
+      (NP 
+       (NNP Carrington)
+      )
+     )
+     e
+     (NP 
+      (NNP Henry_Kissinger)
+     )
+    )
+    (NP 
+     (NP ex-ministros)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT o)
+       (NN exterior)
+      )
+     )
+     (PP 
+      (IN de+)
+      (NP 
+       (NP 
+        (DT o)
+        (NNP Reino_Unido)
+       )
+       e
+       (NP 
+        (NNP EUA)
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB respectivamente)
+    )
+   )
+   (NP 
+    (PRP se)
+   )
+   (VP 
+    (VBP encontram)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (DT os)
+     (NN líderes)
+     (ADJP 
+      (JJ rivais)
+     )
+     (ADJP 
+      (JJ negros)
+     )
+     (NP 
+      (NP 
+       (NNP Nelson_Mandela)
+       (NP 
+        (NNP CNA)
+       )
+      )
+      e
+      (NP 
+       (NNP Mangosuthu_Buthelezi)
+       (NP 
+        (NN zulu)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NN Decisões)
+    (ADJP 
+     (JJ governamentais)
+    )
+   )
+   (VP 
+    (VBP eram)
+   )
+   (VP 
+    (VP 
+     (VBN ultrapassadas)
+    )
+    (PP 
+     (IN por+)
+     (NP 
+      (DT a)
+      (NN força)
+      (PP 
+       (IN de)
+       (NP 
+        (NN manifestações)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

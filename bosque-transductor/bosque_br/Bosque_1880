@@ -1,0 +1,28 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Nunca)
+   )
+   (VP 
+    (VBP tive)
+   )
+   (NP 
+    (DT muito)
+    (NN interesse)
+   )
+   (PP 
+    (IN apesar_de)
+    (VP 
+     (ADVP 
+      (RB já)
+     )
+     (VP 
+      (VB ter)
+      (VBN experimentado)
+     )
+    )
+   )
+  )
+ )
+)

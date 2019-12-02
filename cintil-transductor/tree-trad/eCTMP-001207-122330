@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Rui)
+    (NNS Alarcão)
+   )
+  )
+  (VP 
+   (ADJP 
+    (JJ confiante)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS reforço)
+       (JJ financeiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

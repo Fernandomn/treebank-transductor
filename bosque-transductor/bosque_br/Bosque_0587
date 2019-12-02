@@ -1,0 +1,42 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em+)
+    (NP 
+     (DT a)
+     (NN transição)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NN real)
+      )
+     )
+    )
+   )
+   (VBP são)
+   (ADJP 
+    (RB mais)
+    (VBN recomendados)
+   )
+   (NP 
+    (DT os)
+    (NN fundos)
+    (PP 
+     (IN de)
+     (NP 
+      (NN renda)
+      (VBN fixa)
+      (NP 
+       (NNP DI)
+      )
+      (NP 
+       (NNP Depósito_Interfinanceiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

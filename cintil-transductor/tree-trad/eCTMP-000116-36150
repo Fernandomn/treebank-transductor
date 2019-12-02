@@ -1,0 +1,32 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Garrafa)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS sumo)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS origem)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS queixa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

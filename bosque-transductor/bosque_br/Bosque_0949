@@ -1,0 +1,55 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT As)
+    (CD 15)
+    (NN pessoas)
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (NN membros)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT a)
+      (NNP Peta)
+      (NP 
+       (NNP People_for_Ethical_Treatment_of_Animals)
+      )
+      (NP 
+       (NN entidade)
+       (ADJP 
+        (JJ norte-americana)
+       )
+       (VP 
+        (NP 
+         (PRP que)
+        )
+        (VP 
+         (VBP luta)
+        )
+        (PP 
+         (IN por+)
+         (NP 
+          (DT os)
+          (NN direitos)
+          (PP 
+           (IN de+)
+           (NP 
+            (DT os)
+            (NN animais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

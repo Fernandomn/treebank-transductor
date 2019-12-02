@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Acendeu)
+     (NP 
+      (DT o)
+      (NNS televisor)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB preparou)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (PP 
+       (IN para)
+       (NP 
+        (DT uma)
+        (NP 
+         (JJ longa)
+         (NP 
+          (NNS jornada)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS futebol)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Verbas)
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS apoio)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS investimento)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS jovens)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (ADJP 
+    (JJ previstas)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS PDR)
+     )
+    )
+   )
+  )
+ )
+)

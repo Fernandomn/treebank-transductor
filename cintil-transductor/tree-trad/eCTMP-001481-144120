@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Tribunal)
+     (NNS de_)
+     (NNS a)
+     (NNS Boa-Hora)
+    )
+   )
+   (VP 
+    (VP 
+     (VB recebe)
+     (RB amanhã)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS julgamento)
+       (ADJP 
+        (RB mais)
+        (JJ esperado)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT este)
+        (NNS ano)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

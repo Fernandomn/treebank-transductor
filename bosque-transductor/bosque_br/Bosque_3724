@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (DT A)
+     (NN corretora)
+     (NP 
+      (NNP Antonio_Delapieve)
+     )
+    )
+    e
+    (NP 
+     (DT seus)
+     (NN dirigentes)
+    )
+   )
+   (VP 
+    (VBP foram)
+    (VBN multados)
+   )
+   (PP 
+    (IN por)
+    (VP 
+     (VP 
+      (VB negociar)
+     )
+     (NP 
+      (NN títulos)
+      (PP 
+       (IN de)
+       (NP 
+        (NN renda)
+        (VBN fixa)
+       )
+      )
+      (PP 
+       (IN a)
+       (NP 
+        (NN preços)
+        (VBN superavaliados)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

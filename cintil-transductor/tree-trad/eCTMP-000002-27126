@@ -1,0 +1,33 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS ar)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (JJ certa)
+     (NP 
+      (NNS ideia)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS invasão)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

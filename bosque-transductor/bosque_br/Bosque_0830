@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NNP Divisão_de_Vigilância_Sanitária)
+   )
+   (VP 
+    (VBP informou)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP foram)
+     (VBN registrados)
+    )
+    (NP 
+     (CD 402)
+     (NN casos)
+     (PP 
+      (IN de)
+      (NP 
+       (NN cólera)
+       (PP 
+        (IN com)
+        (NP 
+         (CD quatro)
+         (NN mortes)
+        )
+       )
+      )
+      (NP 
+       (DT este)
+       (NN ano)
+      )
+      (PP 
+       (IN em+)
+       (NP 
+        (DT o)
+        (NN Estado)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,52 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Até)
+     (RB agora)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VB formaram)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (NP 
+      (CD 4100)
+      (NP 
+       (NP 
+        (NNS explorações)
+        (JJ agrícolas)
+       )
+       (JJ privadas)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN a)
+      (IN partir)
+      (IN de_)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (JJ grandes)
+       (NP 
+        (NP 
+         (NNS unidades)
+         (JJ estatais)
+        )
+        (JJ colectivizadas)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

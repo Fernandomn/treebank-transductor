@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Houve)
+     (NP 
+      (NP 
+       (NNS homem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS barbas)
+          (JJ ruças)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB também)
+      (VP 
+       (VB houve)
+       (NP 
+        (NP 
+         (NNS tiros)
+         (NP 
+          (CC e)
+          (NNS prisões)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

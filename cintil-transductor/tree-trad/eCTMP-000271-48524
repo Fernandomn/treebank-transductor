@@ -1,0 +1,36 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NNS PSR)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS comunistas)
+    )
+    (VP 
+     (VB continuam)
+     (PP 
+      (IN a)
+      (VP 
+       (VB ignorá)
+       (NP 
+        (PRP -lo)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

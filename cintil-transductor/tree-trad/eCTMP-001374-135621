@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Paradoxalmente)
+   )
+   (S 
+    (NP 
+     (NP 
+      (CC nem)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Ernesto)
+         (NNS Samper)
+        )
+       )
+       (NP 
+        (NP 
+         (DT o)
+         (NP 
+          (NP 
+           (NNS presidente)
+           (JJ eleito)
+          )
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS Colômbia)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     (NP 
+      (CC nem)
+      (NP 
+       (NP 
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS opositor)
+        )
+       )
+       (NP 
+        (NP 
+         (NNS Andres)
+         (NNS Pastrana)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB teriam)
+     (VP 
+      (VB beneficiado)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP qualquer)
+        (NP 
+         (NNS financiamento)
+         (JJ eleitoral)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

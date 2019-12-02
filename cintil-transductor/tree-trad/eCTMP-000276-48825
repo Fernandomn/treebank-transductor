@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Junho)
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS Comissão)
+    )
+    (VP 
+     (VB recebe)
+     (NP 
+      (DT a)
+      (NP 
+       (CD última)
+       (NP 
+        (NNS parte)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS estudo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,30 @@
+(
+ (S 
+  (NP 
+   (NNS Liberdade)
+  )
+  (VP 
+   (VP 
+    (PP 
+     (PP 
+      (IN até)
+      (IN de)
+     )
+     (NP 
+      (NNS manhã)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Bairro)
+      (NNS Alto)
+     )
+    )
+   )
+  )
+ )
+)

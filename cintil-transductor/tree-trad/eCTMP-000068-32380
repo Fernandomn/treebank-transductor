@@ -1,0 +1,57 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Indigitação)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB deve)
+       (VP 
+        (VB ocorrer)
+        (PP 
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS quinta-feira)
+          )
+         )
+         (PP 
+          (PP 
+           (PP 
+            (IN depois)
+            (IN de_)
+           )
+           (NP 
+            (DT o)
+            (NP 
+             (JJ habitual)
+             (NP 
+              (NNS encontro)
+              (PP 
+               (IN com)
+               (NP 
+                (NP 
+                 (NNS Mário)
+                 (NNS Soares)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

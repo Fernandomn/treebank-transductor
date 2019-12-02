@@ -1,0 +1,103 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (NN equipe)
+   )
+   (VP 
+    (VBP entra)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN quadra)
+    )
+   )
+   (ADVP 
+    (RB amanhã)
+   )
+   (PP 
+    (IN a+)
+    (NP 
+     (DT as)
+     (NN 20h30)
+     (NP 
+      (NN 15h30)
+      (PP 
+       (IN de)
+       (NP 
+        (NNP Brasília)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN para)
+    (VP 
+     (VP 
+      (VB disputar)
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNP Canadá)
+      )
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT o)
+       (JJ chamado)
+       (NN grupo)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT a)
+         (NN morte)
+        )
+       )
+      )
+     )
+     (NP 
+      (DT um)
+      (NN lugar)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT a)
+       (JJ próxima)
+       (NN fase)
+       (PP 
+        (IN de+)
+        (NP 
+         (DT o)
+         (NN Mundial)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VBP leia)
+    )
+    (NP 
+     (NN matéria)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT esta)
+      (NN página)
+     )
+    )
+   )
+  )
+ )
+)

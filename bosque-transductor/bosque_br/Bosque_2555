@@ -1,0 +1,51 @@
+(
+ (S 
+  (VP 
+   (VBG Resumindo)
+   (NP 
+    (NNP Lutoslawski)
+   )
+   (VP 
+    (VBP radicalizou)
+   )
+   (NP 
+    (NNP Bartók)
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (PRP aquilo)
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (NP 
+       (DT este)
+      )
+      (VP 
+       (VBP tinha)
+      )
+      (UCP 
+       (PP 
+        (IN de)
+        (ADJP 
+         (JJ noturno)
+        )
+       )
+       (PP 
+        (IN de)
+        (ADJP 
+         (JJ dramático)
+        )
+       )
+       e
+       (ADJP 
+        (JJ moderno)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

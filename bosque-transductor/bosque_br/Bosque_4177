@@ -1,0 +1,45 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN público)
+    (ADJP 
+     (JJ alvo)
+    )
+   )
+   (VP 
+    (VBP são)
+   )
+   (NP 
+    (DT os)
+    (CD três)
+    (NN milhões)
+    (PP 
+     (IN de)
+     (NP 
+      (NN pedestres)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (VP 
+        (VBP circulam)
+       )
+       (ADVP 
+        (RB diariamente)
+       )
+       (PP 
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN região)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

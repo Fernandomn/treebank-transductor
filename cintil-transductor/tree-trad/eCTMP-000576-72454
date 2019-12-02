@@ -1,0 +1,33 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Rádio)
+    (NNS Comercial)
+   )
+  )
+  (VP 
+   (VB ultima)
+   (NP 
+    (NP 
+     (NP 
+      (NNS compra)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Nova)
+       )
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NNS Sonae)
+      )
+     )
+    )
+   )
+  )
+ )
+)

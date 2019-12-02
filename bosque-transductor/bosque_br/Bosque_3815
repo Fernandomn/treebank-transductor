@@ -1,0 +1,62 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP São)
+   )
+   (ADJP 
+    (JJ comuns)
+   )
+   (NP 
+    (NN casos)
+    (NP 
+     (RB como)
+     (NP 
+      (DT a)
+      (NN filmagem)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NN gibi)
+        (NP 
+         (NNP Sargento_Rock)
+         (VP 
+          (NP 
+           (PRP que)
+          )
+          (VP 
+           (VBP teve)
+          )
+          (NP 
+           (DT os)
+           (NN direitos)
+           (VP 
+            (VP 
+             (VBN comprados)
+            )
+            (PP 
+             (IN por)
+             (NP 
+              (NNP Joel_Silver)
+             )
+            )
+            (PP 
+             (IN há)
+             (NP 
+              (CD cinco)
+              (NN anos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

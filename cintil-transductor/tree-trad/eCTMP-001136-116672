@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Encera)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (NP 
+     (DT o)
+     (NNS quadro)
+    )
+   )
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (VB dá)
+       (NP 
+        (PRP -se)
+       )
+      )
+      (NP 
+       (NNS lustro)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS pintura)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN De_)
+    (NP 
+     (DT o)
+     (NP 
+      (JJ outro)
+      (NP 
+       (NNS lado)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS horizonte)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (RB apenas)
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB vislumbra)
+     )
+     (NP 
+      (NP 
+       (NNS Norma)
+       (NNS Waterson)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,40 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NP 
+     (NNP Aldair)
+    )
+    e
+    (NP 
+     (NNP Márcio_Santos)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VBP avançaram)
+     )
+     (ADVP 
+      (RB pouco)
+     )
+    )
+    e
+    (VP 
+     (VP 
+      (VBP neutralizaram)
+     )
+     (NP 
+      (NP 
+       (NNP Dahlin)
+      )
+      e
+      (NP 
+       (NNP Kennet_Andersson)
+      )
+     )
+    )
+   )
+  )
+ )
+)

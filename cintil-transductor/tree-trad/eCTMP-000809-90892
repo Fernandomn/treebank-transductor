@@ -1,0 +1,28 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Moeda)
+    (JJ única)
+   )
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (NP 
+     (NNS prioridade)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS União)
+        (NNS Europeia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

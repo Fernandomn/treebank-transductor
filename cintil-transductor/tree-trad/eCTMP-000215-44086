@@ -1,0 +1,85 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS peseta)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (DT a)
+       (NNS lira)
+      )
+      (NP 
+       (NP 
+        (NP 
+         (DT a)
+         (NP 
+          (NNS libra)
+          (JJ inglesa)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS libra)
+           (JJ irlandesa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB recuperaram)
+    (NP 
+     (PRP algum)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS terreno)
+         (ADJP 
+          (VB perdido)
+          (PP 
+           (PP 
+            (IN em_)
+            (NP 
+             (DT os)
+             (NP 
+              (CD últimos)
+              (NNS dias)
+             )
+            )
+           )
+           (PP 
+            (PP 
+             (PP 
+              (IN face)
+              (IN a_)
+             )
+             (NP 
+              (DT o)
+              (NNS marco)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

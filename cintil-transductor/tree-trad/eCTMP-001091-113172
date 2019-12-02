@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS patrão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS federação)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (NNS Hans-Joachim)
+       (NNS Gottschol)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS visão)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT outra)
+     )
+    )
+   )
+  )
+ )
+)

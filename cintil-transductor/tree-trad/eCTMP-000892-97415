@@ -1,0 +1,49 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS chamas)
+   )
+   (VP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT as)
+      (NNS vezes)
+     )
+    )
+    (VP 
+     (VP 
+      (VB ganham)
+      (NP 
+       (NP 
+        (NNS proporções)
+        (JJ incontroláveis)
+       )
+      )
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (VB estendendo)
+         (NP 
+          (PRP -se)
+         )
+        )
+        (PP 
+         (IN por_)
+         (NP 
+          (DT a)
+          (NNS floresta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

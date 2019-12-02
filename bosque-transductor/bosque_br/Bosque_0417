@@ -1,0 +1,32 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT um)
+    (NN equívoco)
+   )
+   (VP 
+    (VP 
+     (VB reduzir)
+    )
+    (NP 
+     (DT a)
+     (NN liberalização)
+     (ADJP 
+      (JJ comercial)
+     )
+    )
+    (PP 
+     (IN a+)
+     (NP 
+      (DT o)
+      (NN neoliberalismo)
+     )
+    )
+   )
+  )
+ )
+)

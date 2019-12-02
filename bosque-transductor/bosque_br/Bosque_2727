@@ -1,0 +1,74 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NNP IRA)
+    (NP 
+     (NNP Exército_Republicano_Irlandês)
+    )
+    (ADJP 
+     (JJ separatista)
+    )
+   )
+   (VP 
+    (VBP admitiu)
+   )
+   (NP 
+    (DT o)
+    (NN envolvimento)
+    (PP 
+     (IN de)
+     (NP 
+      (DT seus)
+      (NN militantes)
+     )
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN assassinato)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NN funcionário)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT o)
+          (NN correio)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN durante)
+     (NP 
+      (DT um)
+      (NN roubo)
+      (PP 
+       (IN em+)
+       (NP 
+        (DT a)
+        (NN cidade)
+        (PP 
+         (IN de)
+         (NP 
+          (NNP Newry)
+          (NP 
+           (NNP Irlanda_do_Norte)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

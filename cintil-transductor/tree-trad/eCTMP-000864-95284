@@ -1,0 +1,25 @@
+(
+ (S 
+  (NP 
+   (NNS Rabin)
+  )
+  (VP 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS mesa)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS rei)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

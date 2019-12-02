@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Momento)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS sensação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB aconteceu)
+     (ADVP 
+      (RB mais)
+      (RB tarde)
+     )
+    )
+    (CONJP 
+     (CONJP 
+      (CC quando)
+      (S 
+       (NP 
+        (NNS Victor)
+       )
+       (VP 
+        (VB declarou)
+        (RB taxativamente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

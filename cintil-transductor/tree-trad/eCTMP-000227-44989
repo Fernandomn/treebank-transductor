@@ -1,0 +1,65 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS FC)
+      (NNS Porto)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS titular)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS troféu)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB recebe)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Estoril)
+      (ADJP 
+       (ADJP 
+        (ADJP 
+         (VB despromovido)
+         (PP 
+          (IN a_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS II)
+            (NNS Divisão)
+            (NNS de)
+            (NNS Honra)
+           )
+          )
+         )
+        )
+        (PP 
+         (IN em_)
+         (NP 
+          (DT a)
+          (NP 
+           (CD última)
+           (NNS época)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

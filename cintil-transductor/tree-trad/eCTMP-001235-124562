@@ -1,0 +1,46 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Mário)
+     (NNS Muchelas)
+    )
+   )
+   (VP 
+    (PP 
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS representação)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS IURD)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (CD primeiro)
+       (NP 
+        (NNS presidente)
+        (NNS de_)
+        (NNS a)
+        (NNS Federação)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,34 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS alma)
+       )
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS congressista)
+        (JJ anónimo)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB era)
+    (JJ sábio)
+   )
+  )
+ )
+)

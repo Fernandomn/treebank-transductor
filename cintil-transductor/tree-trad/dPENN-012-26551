@@ -1,0 +1,67 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS governo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Coreia)
+        (NNS de_)
+        (NNS o)
+        (NNS Sul)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (RB hoje)
+     (VP 
+      (VB assinar)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS protocolo)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB estabelece)
+           (NP 
+            (NP 
+             (NP 
+              (NP 
+               (NNS relações)
+               (JJ diplomáticas)
+              )
+              (JJ formais)
+             )
+             (PP 
+              (IN com)
+              (NP 
+               (DT a)
+               (NNS Polónia)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

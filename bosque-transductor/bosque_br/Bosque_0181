@@ -1,0 +1,48 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (NP 
+     (DT Meu)
+     (NN compromisso)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NNP Pará)
+      )
+     )
+    )
+    (VP 
+     (VBP é)
+    )
+    (ADJP 
+     (JJ inarredável)
+    )
+   )
+   (VP 
+    (VBP afirmou)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (ADVP 
+    (RB depois)
+    (PP 
+     (IN de)
+     (VP 
+      (VP 
+       (VB conversar)
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NNP Amin)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

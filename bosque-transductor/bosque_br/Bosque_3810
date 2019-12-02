@@ -1,0 +1,50 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP É)
+   )
+   (NP 
+    (DT o)
+    (VP 
+     (NP 
+      (PRP que)
+     )
+     (VP 
+      (VBP confirmam)
+     )
+     (NP 
+      (DT as)
+      (NN estatísticas)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT o)
+        (NNP Campeonato_Brasileiro)
+        (VP 
+         (VP 
+          (VBN encerrado)
+         )
+         (ADVP 
+          (RB ontem)
+         )
+         (PP 
+          (IN com)
+          (NP 
+           (DT o)
+           (JJ novo)
+           (NN título)
+           (ADJP 
+            (JJ palmeirense)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

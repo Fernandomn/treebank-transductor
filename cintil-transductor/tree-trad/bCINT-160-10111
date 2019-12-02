@@ -1,0 +1,38 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Participação)
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS grupo)
+        (NNS Coral)
+        (NNS Vértice)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS Coro)
+         (NNS de)
+         (NNS Câmara)
+         (NNS Syntagma)
+         (NNS Musicum)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

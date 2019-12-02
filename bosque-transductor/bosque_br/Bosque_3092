@@ -1,0 +1,67 @@
+(
+ (S 
+  (VP 
+   (ADJP 
+    (DT Os)
+    (CD dois)
+   )
+   (VP 
+    (VBP eram)
+   )
+   (ADJP 
+    (JJ bambas)
+   )
+   (UCP 
+    (ADVP 
+     (RB tanto)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (NN canções)
+      (ADJP 
+       (RB mais)
+       (ADJP 
+        (ADJP 
+         (JJ rítmicas)
+        )
+        (ADJP 
+         (JJ alegres)
+        )
+        e
+        (ADJP 
+         (JJ humorísticas)
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     (RB como)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT as)
+      (ADJP 
+       (RB mais)
+       (ADJP 
+        (ADJP 
+         (JJ sérias)
+        )
+        (ADJP 
+         (JJ românticas)
+        )
+        e
+        (ADJP 
+         (JJ profundas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

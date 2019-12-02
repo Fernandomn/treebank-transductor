@@ -1,0 +1,35 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (NP 
+      (JJ americano)
+     )
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Pittsboro)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB tinha)
+     (NP 
+      (CD 18)
+      (NNS anos)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS 1944)
+     )
+    )
+   )
+  )
+ )
+)

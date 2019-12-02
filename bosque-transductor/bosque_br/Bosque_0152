@@ -1,0 +1,136 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT A)
+    (JJ primeira)
+    (NN missão)
+    (ADJP 
+     (JJ lunar)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT os)
+      (NNP EUA)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (CD 21)
+      (NN anos)
+     )
+    )
+   )
+   (VP 
+    (VBP teve)
+   )
+   (NP 
+    (NN início)
+   )
+   (ADVP 
+    (RB ontem)
+   )
+   (VP 
+    (ADVP 
+     (RB quando)
+    )
+    (NP 
+     (DT um)
+     (NN foguete)
+     (NP 
+      (NNP Titã_2)
+     )
+    )
+    (VP 
+     (VBP colocou)
+    )
+    (PP 
+     (IN em+)
+     (NP 
+      (DT o)
+      (NN espaço)
+     )
+    )
+    (NP 
+     (DT a)
+     (NN astronave)
+     (VP 
+      (ADVP 
+       (RB não)
+      )
+      (VP 
+       (VBN tripulada)
+      )
+     )
+     (NP 
+      (NNP Clementine_1)
+     )
+     (VP 
+      (NP 
+       (PRP que)
+      )
+      (VP 
+       (VBP vai)
+       (VB passar)
+      )
+      (NP 
+       (CD dois)
+       (NN meses)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (CD duas)
+        (NN órbitas)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT a)
+          (NN Lua)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN para)
+       (VP 
+        (VP 
+         (VB realizar)
+        )
+        (NP 
+         (JJ completo)
+         (NN mapeamento)
+         (ADJP 
+          (ADJP 
+           (JJ mineralógico)
+          )
+          e
+          (ADJP 
+           (JJ topográfico)
+          )
+         )
+         (PP 
+          (IN de+)
+          (NP 
+           (DT o)
+           (NN satélite)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT a)
+             (NN Terra)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

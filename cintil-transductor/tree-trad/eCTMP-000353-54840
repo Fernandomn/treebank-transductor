@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (PP 
+      (IN de)
+      (VB vencer)
+     )
+    )
+    (CONJP 
+     (CC porque)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB podemos)
+       )
+       (VB perder)
+      )
+     )
+    )
+   )
+  )
+ )
+)

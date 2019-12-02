@@ -1,0 +1,22 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NNP FHC)
+   )
+   (VP 
+    (NP 
+     (DT Esse)
+     (NN comitê)
+    )
+    (VP 
+     (VBP faz)
+    )
+    (NP 
+     (PRP tudo)
+    )
+    (VBN errado)
+   )
+  )
+ )
+)

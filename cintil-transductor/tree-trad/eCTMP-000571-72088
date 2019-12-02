@@ -1,0 +1,40 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Nogueira)
+     (NNS de)
+     (NNS Brito)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB está)
+    )
+    (ADJP 
+     (JJ satisfeito)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ aparente)
+        (NP 
+         (NNS recuo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Monteiro)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

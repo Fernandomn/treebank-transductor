@@ -1,0 +1,31 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT Outras)
+    (NN empresas)
+   )
+   (ADVP 
+    (RB entretanto)
+   )
+   (VP 
+    (VBP vão)
+    (VB praticar)
+   )
+   (NP 
+    (DT um)
+    (NN reajuste)
+    (ADJP 
+     (JJ maior)
+    )
+   )
+   (PP 
+    (IN em+)
+    (NP 
+     (DT a)
+     (NN conversão)
+    )
+   )
+  )
+ )
+)

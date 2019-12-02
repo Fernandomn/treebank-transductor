@@ -1,0 +1,76 @@
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS rádio)
+       (NNS Pale)
+      )
+     )
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS torre)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS comunicações)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS cidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB foi)
+      (VB atingida)
+     )
+     (S 
+      (S 
+       (VP 
+        (VP 
+         (VB cortando)
+         (NP 
+          (PRP todas)
+          (NP 
+           (DT as)
+           (NP 
+            (NNS comunicações)
+            (JJ telefónicas)
+           )
+          )
+         )
+        )
+        (VP 
+         (CC e)
+         (VP 
+          (VB isolando)
+          (NP 
+           (DT a)
+           (NNS cidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

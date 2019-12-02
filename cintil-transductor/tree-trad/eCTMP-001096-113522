@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Movimento)
+        (NNS Bafatá)
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB ocorreu)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS domingo)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Bissau)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS acontecimento)
+       (JJ ímpar)
+      )
+      (PP 
+       (IN em)
+       (NP 
+        (PRP todo)
+        (NP 
+         (DT o)
+         (NNS mundo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,59 @@
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (DT A)
+      (NP 
+       (NNS ida)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS cinema)
+        )
+       )
+      )
+     )
+     (NP 
+      (NP 
+       (DT a)
+       (NP 
+        (NNS praia)
+        (PP 
+         (IN com)
+         (NP 
+          (DT os)
+          (NNS miúdos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS jantar)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS casa)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS Sousa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

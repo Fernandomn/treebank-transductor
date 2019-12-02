@@ -1,0 +1,27 @@
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VBP Saem)
+    )
+    (NP 
+     (DT os)
+     (NN megas)
+    )
+   )
+   (CC e)
+   (VP 
+    (VP 
+     (VBP entram)
+    )
+    (NP 
+     (DT os)
+     (NP micros , minis e
+      (NN mídis)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,27 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (DT O)
+    (NN anúncio)
+    (ADJP 
+     (JJ oficial)
+    )
+   )
+   (VP 
+    (VBP será)
+    (VBN feito)
+   )
+   (PP 
+    (IN após)
+    (NP 
+     (DT o)
+     (NN dia)
+     (ADJP 
+      (CD 20)
+     )
+    )
+   )
+  )
+ )
+)

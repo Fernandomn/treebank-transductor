@@ -1,0 +1,97 @@
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Não)
+   )
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN hipótese)
+    (PP 
+     (IN de+)
+     (VP 
+      (NP 
+       (DT o)
+       (NN Plano)
+      )
+      (VP 
+       (VB ser)
+       (VBN lançado)
+      )
+      (ADVP 
+       (RB antes)
+       (PP 
+        (IN de+)
+        (VP 
+         (NP 
+          (DT o)
+          (NN Congresso)
+         )
+         (VP 
+          (VB votar)
+         )
+         (VP 
+          (VP 
+           (ADVP 
+            (RB primeiro)
+           )
+           (NP 
+            (DT a)
+            (NN emenda)
+            (ADJP 
+             (JJ constitucional)
+            )
+            (VP 
+             (NP 
+              (PRP que)
+             )
+             (VP 
+              (VBP cria)
+             )
+             (NP 
+              (DT o)
+              (NNP Fundo_Social_de_Emergência)
+             )
+            )
+           )
+          )
+          e
+          (VP 
+           (ADVP 
+            (RB em_seguida)
+           )
+           (NP 
+            (DT o)
+            (NN Orçamento)
+            (ADJP 
+             (JJ federal)
+            )
+            (PP 
+             (IN para)
+             (ADJP 
+              (CD 1994)
+             )
+            )
+            (PP 
+             (IN com)
+             (NP 
+              (NN deficit)
+              (ADJP 
+               (CD zero)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,53 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS tiro)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS partida)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB levanta)
+     (NP 
+      (DT um)
+      (NNS clamor)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS multidão)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB enche)
+          (NP 
+           (DT o)
+           (NP 
+            (NNS estádio)
+            (JJ olímpico)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

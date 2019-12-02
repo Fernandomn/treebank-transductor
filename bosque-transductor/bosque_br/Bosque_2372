@@ -1,0 +1,41 @@
+(
+ (S 
+  (VP 
+   (VP 
+    (VBP Seria)
+   )
+   (ADJP 
+    (JJ irônico)
+   )
+   (VP 
+    (VP 
+     (VB ver)
+    )
+    (VP 
+     (NP 
+      (DT os)
+      (NN chefes)
+      (PP 
+       (IN de+)
+       (NP 
+        (DT as)
+        (VBN organizadas)
+       )
+      )
+     )
+     (VP 
+      (VBG tendo)
+     )
+     (ADVP 
+      (RB ao_fundo)
+     )
+     (NP 
+      (DT a)
+      (JJ seguinte)
+      (NN pregação)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,68 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (NNP Inocêncio)
+   )
+   (ADVP 
+    (RB já)
+   )
+   (VP 
+    (VBP havia)
+    (VBN anunciado)
+   )
+   (NP 
+    (DT a)
+    (NN adoção)
+    (PP 
+     (IN de+)
+     (NP 
+      (DT o)
+      (NN corte)
+      (PP 
+       (IN de)
+       (NP 
+        (CD um)
+        (CD 30)
+        (NN avos)
+       )
+      )
+      (PP 
+       (IN de+)
+       (NP 
+        (DT os)
+        (NN salários)
+        (PP 
+         (IN de+)
+         (NP 
+          (DT os)
+          (NN deputados)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NN falta)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NN sessão)
+     (PP 
+      (IN de+)
+      (NP 
+       (DT a)
+       (NN Câmara)
+      )
+     )
+    )
+   )
+  )
+ )
+)

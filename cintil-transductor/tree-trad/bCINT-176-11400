@@ -1,0 +1,59 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Laboratório)
+     (NNS de)
+     (NNS Microbiologia)
+     (NNS de_)
+     (NNS a)
+     (NNS Faculdade)
+     (NNS de)
+     (NNS Farmácia)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB deu)
+      (NP 
+       (DT a)
+       (NNS cara)
+      )
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NNS sabonete)
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT um)
+       (NP 
+        (NP 
+         (NNS spot)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS publicidade)
+           (JJ televisiva)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

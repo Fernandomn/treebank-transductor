@@ -1,0 +1,28 @@
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS governo)
+   )
+   (VP 
+    (VB alega)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB foram)
+       )
+       (VB enviadas)
+      )
+      (NP 
+       (NNS tropas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

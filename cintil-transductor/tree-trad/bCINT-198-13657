@@ -1,0 +1,42 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Edgar)
+     (NNS Morin)
+    )
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (NP 
+      (PRP -o)
+     )
+    )
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS Gulbenkian)
+      )
+     )
+     (PP 
+      (PP 
+       (PP 
+        (IN em_)
+        (IN o)
+        (IN início)
+        (IN de)
+       )
+       (NP 
+        (NNS Maio)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,44 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS António)
+      (NNS Pereira)
+     )
+    )
+    (NP 
+     (NP 
+      (NNS proprietário)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS minimercado)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Vilaça)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS posição)
+      (JJ radical)
+     )
+    )
+   )
+  )
+ )
+)

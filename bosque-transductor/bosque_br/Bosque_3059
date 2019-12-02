@@ -1,0 +1,79 @@
+(
+ (S 
+  (VP 
+   (NP 
+    (PRP Me)
+   )
+   (VP 
+    (VBP parece)
+   )
+   (VP 
+    (IN que)
+    (VP 
+     (VBP há)
+    )
+    (NP 
+     (DT um)
+     (NN acordo)
+     (PP 
+      (IN quanto_a)
+      (VP 
+       (VP 
+        (VP 
+         (VB especializar)
+        )
+        (NP 
+         (DT os)
+         (NN centros)
+         (VBN vocacionados)
+        )
+        (PP 
+         (IN para)
+         (NP 
+          (DT a)
+          (NN pesquisa)
+         )
+        )
+       )
+       e
+       (VP 
+        (ADVP 
+         (RB não)
+        )
+        (VP 
+         (VB tentar)
+        )
+        (VP 
+         (VP 
+          (VB fazer)
+         )
+         (VP 
+          (IN que)
+          (NP 
+           (DT todos)
+           (DT os)
+           (NN centros)
+           (PP 
+            (IN de+)
+            (NP 
+             (DT o)
+             (NN país)
+            )
+           )
+          )
+          (VP 
+           (VBP façam)
+          )
+          (NP 
+           (NN pesquisa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

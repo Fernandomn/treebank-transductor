@@ -1,0 +1,89 @@
+(
+ (S 
+  (VP 
+   (CC Mas)
+   (NP 
+    (NNP Michael_Tilson_Thomas)
+   )
+   (VP 
+    (VP 
+     (VBG regendo)
+    )
+    (NP 
+     (PRP tudo)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (DT uma)
+       (NN segurança)
+       (ADJP 
+        (JJ natural)
+       )
+      )
+      e
+      (NP 
+       (DT nenhuma)
+       (NN pompa)
+      )
+     )
+    )
+   )
+   (VP 
+    (VBP parece)
+   )
+   (NP 
+    (DT o)
+    (NN regente)
+    (ADJP 
+     (JJ por_excelência)
+    )
+    (PP 
+     (IN de+)
+     (NP 
+      (DT esse)
+      (DT nosso)
+      (NN tempo)
+      (VP 
+       (NP 
+        (PRP que)
+       )
+       (PP 
+        (RB ao_menos)
+        (IN em+)
+        (NP 
+         (DT a)
+         (NN música)
+        )
+       )
+       (VP 
+        (VBP é)
+       )
+       (NP 
+        (DT um)
+        (NN tempo)
+        (PP 
+         (IN de)
+         (UCP 
+          (NP 
+           (NN refinamento)
+          )
+          e
+          (NP 
+           (NN inteligência)
+          )
+          (IN além_de)
+          (NP 
+           (NN comunicação)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

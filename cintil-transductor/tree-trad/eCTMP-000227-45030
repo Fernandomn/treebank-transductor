@@ -1,0 +1,39 @@
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Mark)
+     (NNS Daly)
+    )
+   )
+   (VP 
+    (VP 
+     (VB reforçou)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS posição)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Pointer)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ seguintes)
+       (NNS palavras)
+      )
+     )
+    )
+   )
+  )
+ )
+)

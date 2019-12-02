@@ -1,0 +1,49 @@
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (PP 
+      (IN De)
+      (NP 
+       (NP 
+        (NNS Terence)
+        (NNS Davies)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NP 
+        (NNS Gena)
+        (NNS Rowlands)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (NNS Denis)
+          (NNS Leary)
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (NNS Diana)
+           (NNS Scarwid)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)
